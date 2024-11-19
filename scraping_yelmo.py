@@ -4,10 +4,22 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 import urllib.parse
+import locale
 
+# Configurar el idioma español (asegúrate de que tu sistema tenga soporte para esta configuración)
+try:
+    locale.setlocale(locale.LC_TIME, "es_ES.UTF-8")  # Unix-based
+except locale.Error:
+    try:
+        locale.setlocale(locale.LC_TIME, "es_ES")  # Windows-based
+    except locale.Error as e:
+        print(f"[setup] No se pudo configurar la localización para fechas: {e}")
 
-def interpretar_fecha(texto_fecha):
-    """Convierte fechas relativas (hoy, mañana) o días de la semana a formato estándar (YYYY-MM-DD)."""
+def interpretar_fecha(texto_fecha, fecha_completa=None):
+    """
+    Convierte fechas relativas, días de la semana o fechas completas a formato estándar (YYYY-MM-DD).
+    Si se proporciona `fecha_completa`, se prioriza esa información.
+    """
     texto_fecha = texto_fecha.strip().lower()
     dias_semana = {
         "lunes": 0,
@@ -19,6 +31,19 @@ def interpretar_fecha(texto_fecha):
         "domingo": 6
     }
 
+    # Procesar fecha completa si está disponible
+    if fecha_completa:
+        try:
+            # Eliminar posibles caracteres residuales como espacios extra
+            fecha_completa = fecha_completa.strip()
+            fecha_absoluta = datetime.strptime(fecha_completa, "%d de %B").replace(year=datetime.now().year)
+            fecha_interpretada = fecha_absoluta.strftime("%Y-%m-%d")
+            print(f"[interpretar_fecha] Fecha completa detectada '{fecha_completa}'. Fecha interpretada: {fecha_interpretada}")
+            return fecha_interpretada
+        except ValueError as e:
+            print(f"[interpretar_fecha] Error procesando la fecha completa '{fecha_completa}': {e}")
+
+    # Detectar fechas relativas como "hoy" o "mañana"
     if "hoy" in texto_fecha:
         fecha_hoy = datetime.now().strftime("%Y-%m-%d")
         print(f"[interpretar_fecha] Detectado 'hoy'. Fecha interpretada: {fecha_hoy}")
@@ -28,6 +53,7 @@ def interpretar_fecha(texto_fecha):
         print(f"[interpretar_fecha] Detectado 'mañana'. Fecha interpretada: {fecha_manana}")
         return fecha_manana
 
+    # Procesar día de la semana
     for dia, numero in dias_semana.items():
         if dia in texto_fecha:
             hoy = datetime.now()
@@ -37,13 +63,9 @@ def interpretar_fecha(texto_fecha):
             print(f"[interpretar_fecha] Detectado día de la semana '{dia}'. Fecha interpretada: {fecha_interpretada}")
             return fecha_interpretada
 
-    try:
-        fecha_procesada = datetime.strptime(texto_fecha, "%d de %B").replace(year=datetime.now().year).strftime("%Y-%m-%d")
-        print(f"[interpretar_fecha] Fecha absoluta detectada '{texto_fecha}'. Fecha interpretada: {fecha_procesada}")
-        return fecha_procesada
-    except ValueError:
-        print(f"[interpretar_fecha] No se pudo interpretar la fecha: {texto_fecha}")
-        return None
+    print(f"[interpretar_fecha] No se pudo interpretar la fecha: {texto_fecha}")
+    return None
+
 
 
 def scrape_filmaffinity_vos(url, images_folder, max_days=10):
@@ -91,10 +113,12 @@ def scrape_filmaffinity_vos(url, images_folder, max_days=10):
                     print(f"[scrape_filmaffinity_vos] Procesando una sesión...")
 
                     fecha_element = sesion.find('span', {'class': 'wday'})
+                    fecha_completa_element = sesion.find('span', {'class': 'mday'})
                     if fecha_element:
-                        fecha_texto = fecha_element.get_text(strip=True).replace("<strong>", "").replace("</strong>", "").strip()
+                        fecha_texto = fecha_element.get_text(strip=True) if fecha_element else None
+                        fecha_completa_texto = fecha_completa_element.get_text(strip=True) if fecha_completa_element else None
                         print(f"[scrape_filmaffinity_vos] Texto de fecha encontrado: {fecha_texto}")
-                        fecha = interpretar_fecha(fecha_texto)
+                        fecha = interpretar_fecha(fecha_texto, fecha_completa_texto)
                         if not fecha:
                             print("[scrape_filmaffinity_vos] No se pudo interpretar la fecha. Ignorando...")
                             continue
