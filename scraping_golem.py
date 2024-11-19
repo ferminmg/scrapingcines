@@ -12,7 +12,8 @@ def scrape_golem_vose(base_url, cine, days, images_folder):
         os.makedirs(images_folder)
 
     for i in range(days):
-        fecha = (datetime.now() + timedelta(days=i)).strftime('%Y%m%d')
+        fecha = (datetime.now() + timedelta(days=i)).strftime('%Y%m%d')  # Fecha para la URL
+        fecha_formateada = f"{fecha[:4]}-{fecha[4:6]}-{fecha[6:]}"  # Añadir guiones para formato ISO 8601
         url = f"{base_url}/{fecha}"
         print(f"Procesando URL: {url}")
 
@@ -67,7 +68,7 @@ def scrape_golem_vose(base_url, cine, days, images_folder):
                 horarios_elements = pelicula.find_all('span', {'class': 'horaXXXL'})
                 for horario in horarios_elements:
                     hora = horario.get_text(strip=True)
-                    horarios.append({"fecha": fecha, "hora": hora})
+                    horarios.append({"fecha": fecha_formateada, "hora": hora})  # Fecha con guiones añadidos directamente
 
                 # Agregar a la lista de resultados
                 peliculas_vose.append({
