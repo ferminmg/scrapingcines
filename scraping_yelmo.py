@@ -6,6 +6,8 @@ from datetime import datetime, timedelta
 import urllib.parse
 import locale
 
+#scrapping de la web de filmaffinity para obtener las peliculas en VOS en el cine Yelmo Itaroa
+
 # Configurar el idioma español (asegúrate de que tu sistema tenga soporte para esta configuración)
 try:
     locale.setlocale(locale.LC_TIME, "es_ES.UTF-8")  # Unix-based
