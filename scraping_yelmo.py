@@ -6,9 +6,7 @@ from datetime import datetime, timedelta
 import urllib.parse
 import locale
 
-#scrapping de la web de filmaffinity para obtener las peliculas en VOS en el cine Yelmo Itaroa
-
-# Configurar el idioma español (asegúrate de que tu sistema tenga soporte para esta configuración)
+# Configurar el idioma español para fechas
 try:
     locale.setlocale(locale.LC_TIME, "es_ES.UTF-8")  # Unix-based
 except locale.Error:
@@ -16,6 +14,7 @@ except locale.Error:
         locale.setlocale(locale.LC_TIME, "es_ES")  # Windows-based
     except locale.Error as e:
         print(f"[setup] No se pudo configurar la localización para fechas: {e}")
+
 
 def interpretar_fecha(texto_fecha, fecha_completa=None):
     """
@@ -69,17 +68,11 @@ def interpretar_fecha(texto_fecha, fecha_completa=None):
     return None
 
 
-
 def scrape_filmaffinity_vos(url, images_folder, max_days=10):
     peliculas = []
 
     if not os.path.exists(images_folder):
         os.makedirs(images_folder)
-
-    fecha_inicio = datetime.now()
-    fecha_fin = fecha_inicio + timedelta(days=max_days)
-
-    print(f"[scrape_filmaffinity_vos] Rango de fechas: {fecha_inicio.strftime('%Y-%m-%d')} - {fecha_fin.strftime('%Y-%m-%d')}")
 
     print(f"[scrape_filmaffinity_vos] Solicitando URL: {url}")
     response = requests.get(url)
@@ -117,21 +110,13 @@ def scrape_filmaffinity_vos(url, images_folder, max_days=10):
                     fecha_element = sesion.find('span', {'class': 'wday'})
                     fecha_completa_element = sesion.find('span', {'class': 'mday'})
                     if fecha_element:
-                        fecha_texto = fecha_element.get_text(strip=True) if fecha_element else None
+                        fecha_texto = fecha_element.get_text(strip=True)
                         fecha_completa_texto = fecha_completa_element.get_text(strip=True) if fecha_completa_element else None
-                        print(f"[scrape_filmaffinity_vos] Texto de fecha encontrado: {fecha_texto}")
+                        print(f"[scrape_filmaffinity_vos] Texto de fecha encontrado: {fecha_texto}, Fecha completa: {fecha_completa_texto}")
                         fecha = interpretar_fecha(fecha_texto, fecha_completa_texto)
                         if not fecha:
                             print("[scrape_filmaffinity_vos] No se pudo interpretar la fecha. Ignorando...")
                             continue
-
-                        fecha_obj = datetime.strptime(fecha, "%Y-%m-%d")
-                        # print(f"[scrape_filmaffinity_vos] Comparando fecha {fecha} con rango {fecha_inicio.strftime('%Y-%m-%d')} - {fecha_fin.strftime('%Y-%m-%d')}")
-                        # if fecha_inicio <= fecha_obj <= fecha_fin:
-                        #     print(f"[scrape_filmaffinity_vos] Fecha {fecha} dentro de rango. Procesando horarios...")
-                        # else:
-                        #     print(f"[scrape_filmaffinity_vos] Fecha {fecha} fuera de rango. Ignorando...")
-                        #     continue
 
                         horarios_elements = sesion.find_all('a', {'class': 'btn btn-sm btn-outline-secondary'})
                         print(f"[scrape_filmaffinity_vos] Encontrados {len(horarios_elements)} horarios en esta sesión.")
