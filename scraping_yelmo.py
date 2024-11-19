@@ -35,7 +35,6 @@ def interpretar_fecha(texto_fecha, fecha_completa=None):
     # Procesar fecha completa si está disponible
     if fecha_completa:
         try:
-            # Eliminar posibles caracteres residuales como espacios extra
             fecha_completa = fecha_completa.strip()
             fecha_absoluta = datetime.strptime(fecha_completa, "%d de %B").replace(year=datetime.now().year)
             fecha_interpretada = fecha_absoluta.strftime("%Y-%m-%d")
@@ -94,6 +93,34 @@ def scrape_filmaffinity_vos(url, images_folder, max_days=10):
         titulo = titulo_element.get_text(strip=True)
         print(f"[scrape_filmaffinity_vos] Título encontrado: {titulo}")
 
+        # Procesar cartel de la película
+        cartel_element = pelicula_div.find('img', {'class': 'lazyload'})
+        cartel_local = None
+        if cartel_element:
+            cartel_url = cartel_element.get('src') or cartel_element.get('data-src')
+            print(f"[scrape_filmaffinity_vos] URL del cartel: {cartel_url}")
+            if cartel_url:
+                # Extraer el nombre del archivo y construir la ruta local
+                image_name = os.path.basename(urllib.parse.urlparse(cartel_url).path)
+                cartel_local = os.path.join(images_folder, image_name)
+
+                # Descargar la imagen si no existe localmente
+                if not os.path.exists(cartel_local):
+                    print(f"[scrape_filmaffinity_vos] Descargando cartel: {cartel_url}")
+                    img_response = requests.get(cartel_url)
+                    if img_response.status_code == 200:
+                        with open(cartel_local, 'wb') as img_file:
+                            img_file.write(img_response.content)
+                        print(f"[scrape_filmaffinity_vos] Cartel guardado en: {cartel_local}")
+                    else:
+                        print(f"[scrape_filmaffinity_vos] Error al descargar el cartel: {cartel_url}")
+                        cartel_local = None
+                else:
+                    print(f"[scrape_filmaffinity_vos] Cartel ya descargado: {cartel_local}")
+        else:
+            print("[scrape_filmaffinity_vos] No se encontró el cartel de la película.")
+
+
         sesiones_vos_div = pelicula_div.find_all('div', {'class': 'movie-showtimes-n'})
         print(f"[scrape_filmaffinity_vos] Encontrados {len(sesiones_vos_div)} bloques de sesiones para esta película.")
 
@@ -133,6 +160,7 @@ def scrape_filmaffinity_vos(url, images_folder, max_days=10):
         if horarios:
             peliculas.append({
                 "título": titulo,
+                "cartel": cartel_local,
                 "horarios": horarios,
                 "cine": "Yelmo Itaroa"
             })
