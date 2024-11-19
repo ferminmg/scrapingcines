@@ -3,87 +3,123 @@
         "título": "Gladiator II",
         "cartel": "imagenes_peliculas/1731324304-11771.jpg",
         "horarios": [
-            "21:30"
+            {
+                "fecha": "20241119",
+                "hora": "21:30"
+            }
         ],
-        "cine": "Golem Baiona",
-        "fecha": "20241119"
+        "cine": "Golem Baiona"
     },
     {
         "título": "Jurado Nº 2",
         "cartel": "imagenes_peliculas/1731010591.jpg",
         "horarios": [
-            "22:15"
+            {
+                "fecha": "20241119",
+                "hora": "22:15"
+            }
         ],
-        "cine": "Golem Baiona",
-        "fecha": "20241119"
+        "cine": "Golem Baiona"
     },
     {
         "título": "Gladiator II",
         "cartel": "imagenes_peliculas/1731324304-11771.jpg",
         "horarios": [
-            "21:30"
+            {
+                "fecha": "20241120",
+                "hora": "21:30"
+            }
         ],
-        "cine": "Golem Baiona",
-        "fecha": "20241120"
+        "cine": "Golem Baiona"
     },
     {
         "título": "Jurado Nº 2",
         "cartel": "imagenes_peliculas/1731010591.jpg",
         "horarios": [
-            "22:15"
+            {
+                "fecha": "20241120",
+                "hora": "22:15"
+            }
         ],
-        "cine": "Golem Baiona",
-        "fecha": "20241120"
+        "cine": "Golem Baiona"
     },
     {
         "título": "Gladiator II",
         "cartel": "imagenes_peliculas/1731324304-11771.jpg",
         "horarios": [
-            "21:30"
+            {
+                "fecha": "20241121",
+                "hora": "21:30"
+            }
         ],
-        "cine": "Golem Baiona",
-        "fecha": "20241121"
+        "cine": "Golem Baiona"
     },
     {
         "título": "Jurado Nº 2",
         "cartel": "imagenes_peliculas/1731010591.jpg",
         "horarios": [
-            "22:15"
+            {
+                "fecha": "20241121",
+                "hora": "22:15"
+            }
         ],
-        "cine": "Golem Baiona",
-        "fecha": "20241121"
+        "cine": "Golem Baiona"
     },
     {
         "título": "Los últimos románticos (Azken erromantikoak)",
         "cartel": "imagenes_peliculas/1731066552-11680.jpg",
         "horarios": [
-            "16:15",
-            "18:15",
-            "20:15"
+            {
+                "fecha": "20241119",
+                "hora": "16:15"
+            },
+            {
+                "fecha": "20241119",
+                "hora": "18:15"
+            },
+            {
+                "fecha": "20241119",
+                "hora": "20:15"
+            }
         ],
-        "cine": "Golem Yamaguchi",
-        "fecha": "20241119"
+        "cine": "Golem Yamaguchi"
     },
     {
         "título": "Los últimos románticos (Azken erromantikoak)",
         "cartel": "imagenes_peliculas/1731066552-11680.jpg",
         "horarios": [
-            "16:15",
-            "18:15",
-            "20:15"
+            {
+                "fecha": "20241120",
+                "hora": "16:15"
+            },
+            {
+                "fecha": "20241120",
+                "hora": "18:15"
+            },
+            {
+                "fecha": "20241120",
+                "hora": "20:15"
+            }
         ],
-        "cine": "Golem Yamaguchi",
-        "fecha": "20241120"
+        "cine": "Golem Yamaguchi"
     },
     {
         "título": "Los últimos románticos (Azken erromantikoak)",
         "cartel": "imagenes_peliculas/1731066552-11680.jpg",
         "horarios": [
-            "16:15",
-            "18:15",
-            "20:15"
+            {
+                "fecha": "20241121",
+                "hora": "16:15"
+            },
+            {
+                "fecha": "20241121",
+                "hora": "18:15"
+            },
+            {
+                "fecha": "20241121",
+                "hora": "20:15"
+            }
         ],
-        "cine": "Golem Yamaguchi",
-        "fecha": "20241121"
+        "cine": "Golem Yamaguchi"
     }
 ]
