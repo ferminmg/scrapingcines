@@ -26,6 +26,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # Instalar localización en español
+      - name: Set up locale
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y locales
+          sudo locale-gen es_ES.UTF-8
+          export LANG=es_ES.UTF-8
+          export LANGUAGE=es_ES:es
+          export LC_ALL=es_ES.UTF-8
+
       # Paso 4: Ejecutar script de Golem
       - name: Ejecutar scraping Golem
         run: python scraping_golem.py
