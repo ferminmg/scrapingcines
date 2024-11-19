@@ -66,15 +66,15 @@ def scrape_golem_vose(base_url, cine, days, images_folder):
                 horarios = []
                 horarios_elements = pelicula.find_all('span', {'class': 'horaXXXL'})
                 for horario in horarios_elements:
-                    horarios.append(horario.get_text(strip=True))
+                    hora = horario.get_text(strip=True)
+                    horarios.append({"fecha": fecha, "hora": hora})
 
                 # Agregar a la lista de resultados
                 peliculas_vose.append({
                     "título": titulo_limpio,
                     "cartel": image_path,
                     "horarios": horarios,
-                    "cine": cine,
-                    "fecha": fecha
+                    "cine": cine
                 })
 
     return peliculas_vose
