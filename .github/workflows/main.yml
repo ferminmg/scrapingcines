@@ -1,8 +1,8 @@
-name: Ejecutar scraping cada hora
+name: Ejecutar scraping cada 4 horas
 
 on:
   schedule:
-    - cron: '0 * * * *' # Ejecutar cada hora en el minuto 0
+    - cron: '0 */4 * * *' # Ejecutar cada 4 horas en el minuto 0
   workflow_dispatch: # Permite ejecutarlo manualmente
 
 jobs:
@@ -27,7 +27,7 @@ jobs:
           pip install -r requirements.txt
 
       # Instalar localización en español
-      - name: Set up locale
+      - name: Configurar localización
         run: |
           sudo apt-get update
           sudo apt-get install -y locales
@@ -44,13 +44,13 @@ jobs:
       - name: Ejecutar scraping Yelmo
         run: python scraping_yelmo.py
 
-      # Paso 6: Subir cambios al repositorio
+      # Paso 6: Subir cambios al repositorio si los hay
       - name: Subir cambios
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Actualizar datos de scraping"
+          git diff --cached --quiet || git commit -m "Actualizar datos de scraping"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
