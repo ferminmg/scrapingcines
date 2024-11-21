@@ -67,7 +67,107 @@ def interpretar_fecha(texto_fecha, fecha_completa=None):
     return None
 
 
-def scrape_filmaffinity_vos(url, images_folder, max_days=10):
+def fetch_more_days(theater_id, movie_id, st_id):
+    """
+    Emula la solicitud POST al endpoint para obtener más horarios de días adicionales.
+    """
+    url = "https://www.filmaffinity.com/es/theaters.ajax.php"
+    headers = {
+        "accept": "*/*",
+        "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+        "x-requested-with": "XMLHttpRequest",
+    }
+    body = {
+        "action": "getMovieTheaterShowtimesBs",
+        "theaterId": theater_id,
+        "movieId": movie_id,
+        "stId": st_id,
+    }
+
+    print(f"[fetch_more_days] Realizando solicitud para theaterId={theater_id}, movieId={movie_id}, stId={st_id}")
+    response = requests.post(url, headers=headers, data=body)
+
+    if response.status_code == 200:
+        print("[fetch_more_days] Horarios adicionales cargados correctamente.")
+        return response.json()
+    else:
+        print(f"[fetch_more_days] Error al obtener más días. Código de estado: {response.status_code}")
+        return None
+
+
+def parse_additional_showtimes(json_data):
+    """
+    Analiza la respuesta JSON y extrae los horarios adicionales, evitando duplicados.
+    """
+    if not json_data:
+        print("[parse_additional_showtimes] No se recibieron datos JSON.")
+        return []
+
+    raw_html = json_data.get("showtimes", "")  # El HTML está en la clave 'showtimes'
+    if not raw_html:
+        print("[parse_additional_showtimes] HTML de showtimes vacío.")
+        return []
+
+    horarios = []
+    horarios_set = set()  # Conjunto para comprobar duplicados
+    soup = BeautifulSoup(raw_html, "html.parser")
+
+    # Buscar todas las sesiones con `data-sess-date`
+    sesiones = soup.find_all("div", {"class": "row g-0 mb-2"})
+    print(f"[parse_additional_showtimes] Encontradas {len(sesiones)} sesiones adicionales.")
+
+    for sesion in sesiones:
+        # Extraer fecha de la sesión
+        fecha_element = sesion.find('span', {'class': 'wday'})
+        fecha_completa_element = sesion.find('span', {'class': 'mday'})
+
+        if fecha_element:
+            fecha_texto = fecha_element.get_text(strip=True)
+            fecha_completa_texto = fecha_completa_element.get_text(strip=True) if fecha_completa_element else None
+            fecha = interpretar_fecha(fecha_texto, fecha_completa_texto)
+            if not fecha:
+                print("[parse_additional_showtimes] No se pudo interpretar la fecha de la sesión.")
+                continue
+
+            # Extraer horarios
+            horarios_elements = sesion.find_all('a', {'class': 'btn btn-sm btn-outline-secondary'})
+            print(f"[parse_additional_showtimes] Encontrados {len(horarios_elements)} horarios en la sesión del {fecha}.")
+            for horario in horarios_elements:
+                hora = horario.get_text(strip=True)
+                if not hora:
+                    continue
+                # Evitar duplicados comprobando en el conjunto
+                if (fecha, hora) not in horarios_set:
+                    horarios_set.add((fecha, hora))
+                    horarios.append({"fecha": fecha, "hora": hora})
+                    print(f"[parse_additional_showtimes] Agregado horario único - Fecha: {fecha}, Hora: {hora}")
+                else:
+                    print(f"[parse_additional_showtimes] Duplicado ignorado - Fecha: {fecha}, Hora: {hora}")
+
+    print(f"[parse_additional_showtimes] Retornando horarios procesados: {horarios}")
+    return horarios
+
+
+
+def consolidate_movies(peliculas):
+    """
+    Consolida los horarios eliminando duplicados para cada película.
+    """
+    for pelicula in peliculas:
+        horarios_unicos = set()
+        horarios_filtrados = []
+        for horario in pelicula["horarios"]:
+            # Convertir a una tupla para usarla como clave en el conjunto
+            clave_horario = (horario["fecha"], horario["hora"])
+            if clave_horario not in horarios_unicos:
+                horarios_unicos.add(clave_horario)
+                horarios_filtrados.append(horario)
+        pelicula["horarios"] = horarios_filtrados
+        print(f"[consolidate_movies] Consolidado para '{pelicula['título']}': {len(horarios_filtrados)} horarios únicos.")
+    return peliculas
+
+
+def scrape_filmaffinity_vos(url, images_folder):
     peliculas = []
 
     if not os.path.exists(images_folder):
@@ -86,6 +186,7 @@ def scrape_filmaffinity_vos(url, images_folder, max_days=10):
     for i, pelicula_div in enumerate(peliculas_divs):
         print(f"\n[scrape_filmaffinity_vos] Procesando película #{i + 1}...")
 
+        # Obtener título de la película
         titulo_element = pelicula_div.find('div', {'class': 'mc-title'})
         if not titulo_element:
             print("[scrape_filmaffinity_vos] No se encontró el título de la película. Ignorando...")
@@ -93,79 +194,72 @@ def scrape_filmaffinity_vos(url, images_folder, max_days=10):
         titulo = titulo_element.get_text(strip=True)
         print(f"[scrape_filmaffinity_vos] Título encontrado: {titulo}")
 
-        # Procesar cartel de la película
-        cartel_element = pelicula_div.find('img', {'class': 'lazyload'})
-        cartel_local = None
-        if cartel_element:
-            cartel_url = cartel_element.get('src') or cartel_element.get('data-src')
-            print(f"[scrape_filmaffinity_vos] URL del cartel: {cartel_url}")
-            if cartel_url:
-                # Extraer el nombre del archivo y construir la ruta local
-                image_name = os.path.basename(urllib.parse.urlparse(cartel_url).path)
-                cartel_local = os.path.join(images_folder, image_name)
-
-                # Descargar la imagen si no existe localmente
-                if not os.path.exists(cartel_local):
-                    print(f"[scrape_filmaffinity_vos] Descargando cartel: {cartel_url}")
-                    img_response = requests.get(cartel_url)
-                    if img_response.status_code == 200:
-                        with open(cartel_local, 'wb') as img_file:
-                            img_file.write(img_response.content)
-                        print(f"[scrape_filmaffinity_vos] Cartel guardado en: {cartel_local}")
-                    else:
-                        print(f"[scrape_filmaffinity_vos] Error al descargar el cartel: {cartel_url}")
-                        cartel_local = None
-                else:
-                    print(f"[scrape_filmaffinity_vos] Cartel ya descargado: {cartel_local}")
-        else:
-            print("[scrape_filmaffinity_vos] No se encontró el cartel de la película.")
-
-
+        # Obtener sesiones de la película
         sesiones_vos_div = pelicula_div.find_all('div', {'class': 'movie-showtimes-n'})
         print(f"[scrape_filmaffinity_vos] Encontrados {len(sesiones_vos_div)} bloques de sesiones para esta película.")
 
         horarios = []
 
         for sesion_vos in sesiones_vos_div:
+            # Detectar sesiones (VOS)
             titulo_sesion = sesion_vos.find('span', {'class': 'fs-5'})
-            if titulo_sesion and "(VOS)" in titulo_sesion.get_text(strip=True):
-                print(f"[scrape_filmaffinity_vos] Sesión (VOS) detectada para: {titulo}")
-                sesiones = sesion_vos.find_all('div', {'class': 'row g-0 mb-2'})
-                for sesion in sesiones:
-                    print(f"[scrape_filmaffinity_vos] Procesando una sesión...")
+            if not titulo_sesion or "(VOS)" not in titulo_sesion.get_text(strip=True):
+                continue
+            print(f"[scrape_filmaffinity_vos] Sesión (VOS) detectada para: {titulo}")
 
-                    fecha_element = sesion.find('span', {'class': 'wday'})
-                    fecha_completa_element = sesion.find('span', {'class': 'mday'})
-                    if fecha_element:
-                        fecha_texto = fecha_element.get_text(strip=True)
-                        fecha_completa_texto = fecha_completa_element.get_text(strip=True) if fecha_completa_element else None
-                        print(f"[scrape_filmaffinity_vos] Texto de fecha encontrado: {fecha_texto}, Fecha completa: {fecha_completa_texto}")
-                        fecha = interpretar_fecha(fecha_texto, fecha_completa_texto)
-                        if not fecha:
-                            print("[scrape_filmaffinity_vos] No se pudo interpretar la fecha. Ignorando...")
-                            continue
+            # Procesar horarios actuales
+            sesiones = sesion_vos.find_all('div', {'class': 'row g-0 mb-2'})
+            for sesion in sesiones:
+                fecha_element = sesion.find('span', {'class': 'wday'})
+                fecha_completa_element = sesion.find('span', {'class': 'mday'})
 
-                        horarios_elements = sesion.find_all('a', {'class': 'btn btn-sm btn-outline-secondary'})
-                        print(f"[scrape_filmaffinity_vos] Encontrados {len(horarios_elements)} horarios en esta sesión.")
-                        for horario in horarios_elements:
-                            link = horario.get('href')
-                            print(f"[scrape_filmaffinity_vos] Enlace encontrado: {link}")
-                            if link and "language=VOSE" in urllib.parse.unquote(link):
-                                hora = horario.get_text(strip=True)
-                                print(f"[scrape_filmaffinity_vos] Horario VOSE encontrado: {hora}")
-                                horarios.append({"fecha": fecha, "hora": hora})
-                            else:
-                                print(f"[scrape_filmaffinity_vos] Horario ignorado o no es VOSE.")
+                if fecha_element:
+                    fecha_texto = fecha_element.get_text(strip=True)
+                    fecha_completa_texto = fecha_completa_element.get_text(strip=True) if fecha_completa_element else None
+                    fecha = interpretar_fecha(fecha_texto, fecha_completa_texto)
+
+                    horarios_elements = sesion.find_all('a', {'class': 'btn btn-sm btn-outline-secondary'})
+                    for horario in horarios_elements:
+                        hora = horario.get_text(strip=True)
+                        # link = horario.get('href')
+                        horarios.append({"fecha": fecha, "hora": hora})
+
+            # Manejar el botón "ver más días"
+            see_more_button = sesion_vos.find("div", {"class": "see-more"})
+            if see_more_button:
+                print("[scrape_filmaffinity_vos] Se encontró un botón 'ver más días'. Obteniendo más horarios...")
+
+                # Validar IDs
+                movie_id = pelicula_div.get("id", "").split("-")[-1]
+                st_id = sesion_vos.find("div", {"class": "sessions-container"}).get("data-st-id", "")
+                if not movie_id or not st_id:
+                    print("[scrape_filmaffinity_vos] Faltan 'movie_id' o 'st_id'. Saltando horarios adicionales.")
+                    continue
+
+                additional_data = fetch_more_days("428", movie_id, st_id)
+                if additional_data:
+                    additional_horarios = parse_additional_showtimes(additional_data)
+                    if additional_horarios and len(additional_horarios) > 0:
+                        print(f"[scrape_filmaffinity_vos] Añadiendo {len(additional_horarios)} horarios adicionales.")
+                        horarios.extend(additional_horarios)
+                        print(f"[scrape_filmaffinity_vos] Total de horarios tras añadir adicionales: {len(horarios)}")
+                    else:
+                        print(f"[scrape_filmaffinity_vos] Horarios adicionales procesados están vacíos: {additional_horarios}")
+                else:
+                    print("[scrape_filmaffinity_vos] No se pudo obtener datos adicionales de la función fetch_more_days.")
+
+
+
 
         if horarios:
             peliculas.append({
                 "título": titulo,
-                "cartel": cartel_local,
                 "horarios": horarios,
                 "cine": "Yelmo Itaroa"
             })
 
     return peliculas
+
 
 
 def main():
@@ -175,8 +269,12 @@ def main():
 
     peliculas = scrape_filmaffinity_vos(url, images_folder)
 
+    # Consolidar horarios eliminando duplicados
+    peliculas_consolidadas = consolidate_movies(peliculas)
+
+    # Guardar el archivo JSON
     with open(output_path, 'w', encoding='utf-8') as json_file:
-        json.dump(peliculas, json_file, indent=4, ensure_ascii=False)
+        json.dump(peliculas_consolidadas, json_file, indent=4, ensure_ascii=False)
         print(f"[main] Resultados guardados en {output_path}")
 
 
