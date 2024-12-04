@@ -1,5 +1,16 @@
 [
     {
+        "título": "Here (Aquí)",
+        "cartel": "imagenes_filmaffinity/here-640848952-msmall.jpg",
+        "horarios": [
+            {
+                "fecha": "2024-12-10",
+                "hora": "19:45"
+            }
+        ],
+        "cine": "Yelmo Itaroa"
+    },
+    {
         "título": "El señor de los anillos: La guerra de los Rohirrim",
         "cartel": "imagenes_filmaffinity/the_lord_of_the_rings_the_war_of_the_rohirrim-563726775-msmall.jpg",
         "horarios": [
@@ -34,30 +45,11 @@
         "cine": "Yelmo Itaroa"
     },
     {
-        "título": "Vaiana 2",
-        "cartel": "imagenes_filmaffinity/moana_2-581593866-msmall.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-12-04",
-                "hora": "19:55"
-            },
-            {
-                "fecha": "2024-12-04",
-                "hora": "20:20"
-            }
-        ],
-        "cine": "Yelmo Itaroa"
-    },
-    {
         "título": "Wicked",
         "cartel": "imagenes_filmaffinity/wicked_part_one-562940006-msmall.jpg",
         "horarios": [
             {
                 "fecha": "2024-12-04",
-                "hora": "18:10"
-            },
-            {
-                "fecha": "2024-12-05",
                 "hora": "18:05"
             }
         ],
