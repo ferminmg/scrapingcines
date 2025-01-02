@@ -44,7 +44,11 @@ jobs:
       - name: Ejecutar scraping Yelmo
         run: python scraping_yelmo.py
 
-      # Paso 6: Subir cambios al repositorio si los hay
+      # Paso 6: Ejecutar script de Filmoteca
+      - name: Ejecutar scraping Filmoteca
+        run: python scraping_filmoteca.py
+
+      # Paso 7: Subir cambios al repositorio si los hay
       - name: Subir cambios
         run: |
           git config --global user.name "github-actions[bot]"
