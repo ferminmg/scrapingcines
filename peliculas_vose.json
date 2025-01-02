@@ -1,757 +1,319 @@
 [
     {
-        "título": "Gladiator II",
-        "cartel": "imagenes_peliculas/1731324304-11771.jpg",
+        "título": "Better man",
+        "cartel": "imagenes_peliculas/1735551179.jpg",
         "horarios": [
             {
-                "fecha": "2024-11-21",
-                "hora": "21:30"
+                "fecha": "2025-01-02",
+                "hora": "19:45"
             }
         ],
         "cine": "Golem Baiona"
     },
     {
-        "título": "Jurado Nº 2",
-        "cartel": "imagenes_peliculas/1731010591.jpg",
+        "título": "Nosferatu",
+        "cartel": "imagenes_peliculas/1734690693.jpg",
         "horarios": [
             {
-                "fecha": "2024-11-21",
-                "hora": "22:15"
+                "fecha": "2025-01-02",
+                "hora": "19:45"
             }
         ],
         "cine": "Golem Baiona"
     },
     {
-        "título": "Raqa",
-        "cartel": "imagenes_peliculas/1731943715-11796.jpg",
+        "título": "Better man",
+        "cartel": "imagenes_peliculas/1735551179.jpg",
         "horarios": [
             {
-                "fecha": "2024-11-22",
-                "hora": "17:00"
-            },
-            {
-                "fecha": "2024-11-22",
-                "hora": "22:15"
+                "fecha": "2025-01-03",
+                "hora": "19:45"
             }
         ],
         "cine": "Golem Baiona"
     },
     {
-        "título": "Wicked",
-        "cartel": "imagenes_peliculas/1731929747.jpg",
+        "título": "Nosferatu",
+        "cartel": "imagenes_peliculas/1734690693.jpg",
         "horarios": [
             {
-                "fecha": "2024-11-22",
-                "hora": "21:30"
+                "fecha": "2025-01-03",
+                "hora": "19:45"
             }
         ],
         "cine": "Golem Baiona"
     },
     {
-        "título": "Gladiator II",
-        "cartel": "imagenes_peliculas/1731324304-11771.jpg",
+        "título": "Better man",
+        "cartel": "imagenes_peliculas/1735551179.jpg",
         "horarios": [
             {
-                "fecha": "2024-11-22",
-                "hora": "21:30"
+                "fecha": "2025-01-04",
+                "hora": "19:45"
             }
         ],
         "cine": "Golem Baiona"
     },
     {
-        "título": "Raqa",
-        "cartel": "imagenes_peliculas/1731943715-11796.jpg",
+        "título": "Nosferatu",
+        "cartel": "imagenes_peliculas/1734690693.jpg",
         "horarios": [
             {
-                "fecha": "2024-11-23",
-                "hora": "16:45"
-            },
-            {
-                "fecha": "2024-11-23",
-                "hora": "19:20"
-            },
-            {
-                "fecha": "2024-11-23",
-                "hora": "22:15"
+                "fecha": "2025-01-04",
+                "hora": "19:45"
             }
         ],
         "cine": "Golem Baiona"
     },
     {
-        "título": "Wicked",
-        "cartel": "imagenes_peliculas/1731929747.jpg",
+        "título": "Better man",
+        "cartel": "imagenes_peliculas/1735551179.jpg",
         "horarios": [
             {
-                "fecha": "2024-11-23",
-                "hora": "21:20"
+                "fecha": "2025-01-05",
+                "hora": "19:45"
             }
         ],
         "cine": "Golem Baiona"
     },
     {
-        "título": "Gladiator II",
-        "cartel": "imagenes_peliculas/1731324304-11771.jpg",
+        "título": "Nosferatu",
+        "cartel": "imagenes_peliculas/1734690693.jpg",
         "horarios": [
             {
-                "fecha": "2024-11-23",
-                "hora": "21:20"
+                "fecha": "2025-01-05",
+                "hora": "19:45"
             }
         ],
         "cine": "Golem Baiona"
     },
     {
-        "título": "Raqa",
-        "cartel": "imagenes_peliculas/1731943715-11796.jpg",
+        "título": "Better man",
+        "cartel": "imagenes_peliculas/1735551179.jpg",
         "horarios": [
             {
-                "fecha": "2024-11-24",
+                "fecha": "2025-01-06",
+                "hora": "19:45"
+            }
+        ],
+        "cine": "Golem Baiona"
+    },
+    {
+        "título": "Nosferatu",
+        "cartel": "imagenes_peliculas/1734690693.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-06",
+                "hora": "19:45"
+            }
+        ],
+        "cine": "Golem Baiona"
+    },
+    {
+        "título": "La luz que imaginamos",
+        "cartel": "imagenes_peliculas/1734003169-11815.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-02",
+                "hora": "22:00"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Queer",
+        "cartel": "imagenes_peliculas/1733763393.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-02",
+                "hora": "19:15"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Parthenope",
+        "cartel": "imagenes_peliculas/1732636677-11776.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-02",
+                "hora": "22:00"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La luz que imaginamos",
+        "cartel": "imagenes_peliculas/1734003169-11815.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-03",
+                "hora": "22:00"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Queer",
+        "cartel": "imagenes_peliculas/1733763393.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-03",
+                "hora": "19:15"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Parthenope",
+        "cartel": "imagenes_peliculas/1732636677-11776.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-03",
+                "hora": "22:00"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La luz que imaginamos",
+        "cartel": "imagenes_peliculas/1734003169-11815.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-04",
+                "hora": "22:00"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Queer",
+        "cartel": "imagenes_peliculas/1733763393.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-04",
+                "hora": "19:15"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Parthenope",
+        "cartel": "imagenes_peliculas/1732636677-11776.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-04",
+                "hora": "22:00"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La luz que imaginamos",
+        "cartel": "imagenes_peliculas/1734003169-11815.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-05",
+                "hora": "22:00"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Queer",
+        "cartel": "imagenes_peliculas/1733763393.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-05",
+                "hora": "19:15"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Parthenope",
+        "cartel": "imagenes_peliculas/1732636677-11776.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-05",
+                "hora": "22:00"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Queer",
+        "cartel": "imagenes_peliculas/1733763393.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-06",
                 "hora": "20:00"
-            },
-            {
-                "fecha": "2024-11-24",
-                "hora": "22:15"
-            }
-        ],
-        "cine": "Golem Baiona"
-    },
-    {
-        "título": "Wicked",
-        "cartel": "imagenes_peliculas/1731929747.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-24",
-                "hora": "21:30"
-            }
-        ],
-        "cine": "Golem Baiona"
-    },
-    {
-        "título": "Gladiator II",
-        "cartel": "imagenes_peliculas/1731324304-11771.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-24",
-                "hora": "21:30"
-            }
-        ],
-        "cine": "Golem Baiona"
-    },
-    {
-        "título": "Raqa",
-        "cartel": "imagenes_peliculas/1731943715-11796.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-25",
-                "hora": "17:00"
-            },
-            {
-                "fecha": "2024-11-25",
-                "hora": "19:30"
-            },
-            {
-                "fecha": "2024-11-25",
-                "hora": "22:15"
-            }
-        ],
-        "cine": "Golem Baiona"
-    },
-    {
-        "título": "Wicked",
-        "cartel": "imagenes_peliculas/1731929747.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-25",
-                "hora": "21:30"
-            }
-        ],
-        "cine": "Golem Baiona"
-    },
-    {
-        "título": "Gladiator II",
-        "cartel": "imagenes_peliculas/1731324304-11771.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-25",
-                "hora": "21:30"
-            }
-        ],
-        "cine": "Golem Baiona"
-    },
-    {
-        "título": "Raqa",
-        "cartel": "imagenes_peliculas/1731943715-11796.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-26",
-                "hora": "17:00"
-            },
-            {
-                "fecha": "2024-11-26",
-                "hora": "19:30"
-            },
-            {
-                "fecha": "2024-11-26",
-                "hora": "22:15"
-            }
-        ],
-        "cine": "Golem Baiona"
-    },
-    {
-        "título": "Wicked",
-        "cartel": "imagenes_peliculas/1731929747.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-26",
-                "hora": "21:30"
-            }
-        ],
-        "cine": "Golem Baiona"
-    },
-    {
-        "título": "Gladiator II",
-        "cartel": "imagenes_peliculas/1731324304-11771.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-26",
-                "hora": "21:30"
-            }
-        ],
-        "cine": "Golem Baiona"
-    },
-    {
-        "título": "Raqa",
-        "cartel": "imagenes_peliculas/1731943715-11796.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-27",
-                "hora": "17:00"
-            },
-            {
-                "fecha": "2024-11-27",
-                "hora": "19:30"
-            },
-            {
-                "fecha": "2024-11-27",
-                "hora": "22:15"
-            }
-        ],
-        "cine": "Golem Baiona"
-    },
-    {
-        "título": "Wicked",
-        "cartel": "imagenes_peliculas/1731929747.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-27",
-                "hora": "21:30"
-            }
-        ],
-        "cine": "Golem Baiona"
-    },
-    {
-        "título": "Gladiator II",
-        "cartel": "imagenes_peliculas/1731324304-11771.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-27",
-                "hora": "21:30"
-            }
-        ],
-        "cine": "Golem Baiona"
-    },
-    {
-        "título": "Los últimos románticos (Azken erromantikoak)",
-        "cartel": "imagenes_peliculas/1731066552-11680.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-21",
-                "hora": "16:15"
-            },
-            {
-                "fecha": "2024-11-21",
-                "hora": "18:15"
-            },
-            {
-                "fecha": "2024-11-21",
-                "hora": "20:15"
             }
         ],
         "cine": "Golem Yamaguchi"
     },
     {
-        "título": "Prefiro condenarme",
-        "cartel": "imagenes_peliculas/1731932486.jpg",
+        "título": "Parthenope",
+        "cartel": "imagenes_peliculas/1732636677-11776.jpg",
         "horarios": [
             {
-                "fecha": "2024-11-22",
-                "hora": "16:30"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Los últimos románticos (Azken erromantikoak)",
-        "cartel": "imagenes_peliculas/1731066552-11680.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-22",
-                "hora": "17:15"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Anora",
-        "cartel": "imagenes_peliculas/1728303730-11626.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-22",
+                "fecha": "2025-01-06",
                 "hora": "20:30"
             }
         ],
         "cine": "Golem Yamaguchi"
     },
     {
-        "título": "La habitación de al lado",
-        "cartel": "imagenes_peliculas/1726652513.jpg",
+        "título": "Better man",
+        "cartel": "imagenes_peliculas/1735551179.jpg",
         "horarios": [
             {
-                "fecha": "2024-11-22",
-                "hora": "20:15"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Prefiro condenarme",
-        "cartel": "imagenes_peliculas/1731932486.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-23",
-                "hora": "16:30"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Los últimos románticos (Azken erromantikoak)",
-        "cartel": "imagenes_peliculas/1731066552-11680.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-23",
-                "hora": "17:15"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Anora",
-        "cartel": "imagenes_peliculas/1728303730-11626.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-23",
-                "hora": "20:30"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "La habitación de al lado",
-        "cartel": "imagenes_peliculas/1726652513.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-23",
-                "hora": "20:15"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Prefiro condenarme",
-        "cartel": "imagenes_peliculas/1731932486.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-24",
-                "hora": "16:30"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Los últimos románticos (Azken erromantikoak)",
-        "cartel": "imagenes_peliculas/1731066552-11680.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-24",
-                "hora": "16:15"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Anora",
-        "cartel": "imagenes_peliculas/1728303730-11626.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-24",
-                "hora": "20:30"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "La habitación de al lado",
-        "cartel": "imagenes_peliculas/1726652513.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-24",
-                "hora": "20:30"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Prefiro condenarme",
-        "cartel": "imagenes_peliculas/1731932486.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-25",
-                "hora": "16:30"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Los últimos románticos (Azken erromantikoak)",
-        "cartel": "imagenes_peliculas/1731066552-11680.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-25",
-                "hora": "16:15"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Anora",
-        "cartel": "imagenes_peliculas/1728303730-11626.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-25",
-                "hora": "20:45"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "La habitación de al lado",
-        "cartel": "imagenes_peliculas/1726652513.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-25",
-                "hora": "20:30"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Prefiro condenarme",
-        "cartel": "imagenes_peliculas/1731932486.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-26",
-                "hora": "16:30"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Los últimos románticos (Azken erromantikoak)",
-        "cartel": "imagenes_peliculas/1731066552-11680.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-26",
-                "hora": "16:15"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Anora",
-        "cartel": "imagenes_peliculas/1728303730-11626.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-26",
-                "hora": "20:30"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "La habitación de al lado",
-        "cartel": "imagenes_peliculas/1726652513.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-26",
-                "hora": "20:30"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Prefiro condenarme",
-        "cartel": "imagenes_peliculas/1731932486.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-27",
-                "hora": "16:30"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Los últimos románticos (Azken erromantikoak)",
-        "cartel": "imagenes_peliculas/1731066552-11680.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-27",
-                "hora": "16:15"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Anora",
-        "cartel": "imagenes_peliculas/1728303730-11626.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-27",
-                "hora": "20:30"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "La habitación de al lado",
-        "cartel": "imagenes_peliculas/1726652513.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-27",
-                "hora": "20:30"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Prefiro condenarme",
-        "cartel": "imagenes_peliculas/1731932486.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-28",
-                "hora": "16:30"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Los últimos románticos (Azken erromantikoak)",
-        "cartel": "imagenes_peliculas/1731066552-11680.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-28",
-                "hora": "16:15"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Anora",
-        "cartel": "imagenes_peliculas/1728303730-11626.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-28",
-                "hora": "20:30"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "La habitación de al lado",
-        "cartel": "imagenes_peliculas/1726652513.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-28",
-                "hora": "20:30"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Wicked",
-        "cartel": "imagenes_peliculas/1731929747.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-22",
-                "hora": "21:45"
+                "fecha": "2025-01-02",
+                "hora": "22:30"
             }
         ],
         "cine": "Golem La Morea"
     },
     {
-        "título": "Gladiator II",
-        "cartel": "imagenes_peliculas/1731324304-11771.jpg",
+        "título": "Better man",
+        "cartel": "imagenes_peliculas/1735551179.jpg",
         "horarios": [
             {
-                "fecha": "2024-11-22",
-                "hora": "21:30"
+                "fecha": "2025-01-03",
+                "hora": "22:30"
             }
         ],
         "cine": "Golem La Morea"
     },
     {
-        "título": "Wicked",
-        "cartel": "imagenes_peliculas/1731929747.jpg",
+        "título": "Better man",
+        "cartel": "imagenes_peliculas/1735551179.jpg",
         "horarios": [
             {
-                "fecha": "2024-11-23",
-                "hora": "21:45"
+                "fecha": "2025-01-04",
+                "hora": "22:30"
             }
         ],
         "cine": "Golem La Morea"
     },
     {
-        "título": "Gladiator II",
-        "cartel": "imagenes_peliculas/1731324304-11771.jpg",
+        "título": "Better man",
+        "cartel": "imagenes_peliculas/1735551179.jpg",
         "horarios": [
             {
-                "fecha": "2024-11-23",
-                "hora": "21:30"
+                "fecha": "2025-01-05",
+                "hora": "22:30"
             }
         ],
         "cine": "Golem La Morea"
     },
     {
-        "título": "Wicked",
-        "cartel": "imagenes_peliculas/1731929747.jpg",
+        "título": "Better man",
+        "cartel": "imagenes_peliculas/1735551179.jpg",
         "horarios": [
             {
-                "fecha": "2024-11-24",
-                "hora": "21:45"
-            }
-        ],
-        "cine": "Golem La Morea"
-    },
-    {
-        "título": "Gladiator II",
-        "cartel": "imagenes_peliculas/1731324304-11771.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-24",
-                "hora": "21:30"
-            }
-        ],
-        "cine": "Golem La Morea"
-    },
-    {
-        "título": "Wicked",
-        "cartel": "imagenes_peliculas/1731929747.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-25",
-                "hora": "18:30"
-            },
-            {
-                "fecha": "2024-11-25",
-                "hora": "21:45"
-            }
-        ],
-        "cine": "Golem La Morea"
-    },
-    {
-        "título": "Gladiator II",
-        "cartel": "imagenes_peliculas/1731324304-11771.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-25",
-                "hora": "21:30"
-            }
-        ],
-        "cine": "Golem La Morea"
-    },
-    {
-        "título": "Wicked",
-        "cartel": "imagenes_peliculas/1731929747.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-26",
-                "hora": "18:30"
-            },
-            {
-                "fecha": "2024-11-26",
-                "hora": "21:45"
-            }
-        ],
-        "cine": "Golem La Morea"
-    },
-    {
-        "título": "Gladiator II",
-        "cartel": "imagenes_peliculas/1731324304-11771.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-26",
-                "hora": "21:30"
-            }
-        ],
-        "cine": "Golem La Morea"
-    },
-    {
-        "título": "Wicked",
-        "cartel": "imagenes_peliculas/1731929747.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-27",
-                "hora": "18:30"
-            },
-            {
-                "fecha": "2024-11-27",
-                "hora": "21:45"
-            }
-        ],
-        "cine": "Golem La Morea"
-    },
-    {
-        "título": "Gladiator II",
-        "cartel": "imagenes_peliculas/1731324304-11771.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-27",
-                "hora": "21:30"
-            }
-        ],
-        "cine": "Golem La Morea"
-    },
-    {
-        "título": "Wicked",
-        "cartel": "imagenes_peliculas/1731929747.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-28",
-                "hora": "18:30"
-            },
-            {
-                "fecha": "2024-11-28",
-                "hora": "21:45"
-            }
-        ],
-        "cine": "Golem La Morea"
-    },
-    {
-        "título": "Gladiator II",
-        "cartel": "imagenes_peliculas/1731324304-11771.jpg",
-        "horarios": [
-            {
-                "fecha": "2024-11-28",
-                "hora": "21:30"
+                "fecha": "2025-01-06",
+                "hora": "22:30"
             }
         ],
         "cine": "Golem La Morea"
