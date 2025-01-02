@@ -46,7 +46,7 @@ jobs:
 
       # Paso 6: Ejecutar script de Filmoteca
       - name: Ejecutar scraping Filmoteca
-        run: python scraping_filmoteca.py
+        run: python scrape_filmoteca.py
 
       # Paso 7: Subir cambios al repositorio si los hay
       - name: Subir cambios
