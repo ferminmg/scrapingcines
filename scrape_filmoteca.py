@@ -39,6 +39,8 @@ for link in links:
                 soup = BeautifulSoup(response.text, 'html.parser')
                 
                 title = soup.find('h1').text
+                # trim title
+                title = title.strip()
                 
 
                 divtxt22 = soup.find('div', class_='txt txt22')
