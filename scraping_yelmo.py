@@ -68,7 +68,7 @@ for cine in datos['d']['Cinemas']:
                     # Descargar el poster si no existe
                     if not os.path.exists(poster_filename):
                         urllib.request.urlretrieve(poster_url, poster_filename)
-                    
+                        
                     # Buscar si la película ya existe en la lista
                     pelicula_existente = next(
                         (p for p in peliculas_filmaffinity if p['título'] == pelicula['Title']),
@@ -78,9 +78,16 @@ for cine in datos['d']['Cinemas']:
                     if pelicula_existente:
                         # Agregar nuevos horarios a la película existente
                         for showtime in formato['Showtimes']:
+                            #el link a la compra de entradas tiene el siguiente formato: https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=12061
+                            #por lo que se puede obtener el cinemaVistaId y el showtimeVistaId
+                            #para obtener el enlace a la compra de entradas
+                            cinemaVistaId = showtime['VistaCinemaId']
+                            showtimeVistaId = showtime['ShowtimeId']
+                            
                             pelicula_existente['horarios'].append({
                                 'fecha': fecha_iso,
-                                'hora': showtime['Time']
+                                'hora': showtime['Time'],
+                                'enlace_entradas': f"https://compra.yelmocines.es/?cinemaVistaId={cinemaVistaId}&showtimeVistaId={showtimeVistaId}"
                             })
                     else:
                         # Crear nueva entrada para la película
@@ -101,4 +108,4 @@ for cine in datos['d']['Cinemas']:
 with open('peliculas_filmaffinity.json', 'w', encoding='utf-8') as f:
     json.dump(peliculas_filmaffinity, f, ensure_ascii=False, indent=4)
 
-print("Archivo JSON " + 'peliculas_.json' + " creado con éxito.")
+print("Archivo JSON " + 'peliculas_filmaffinity.json' + " creado con éxito.")
