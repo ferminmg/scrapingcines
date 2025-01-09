@@ -97,7 +97,8 @@ for cine in datos['d']['Cinemas']:
                             'horarios': [
                                 {
                                     'fecha': fecha_iso,
-                                    'hora': s['Time']
+                                    'hora': s['Time'],
+                                    'enlace_entradas': f"https://compra.yelmocines.es/?cinemaVistaId={s['VistaCinemaId']}&showtimeVistaId={s['ShowtimeId']}"
                                 } for s in formato['Showtimes']
                             ],
                             'cine': f"Yelmo {cine['Name']}"
