@@ -61,7 +61,9 @@ for link in links:
                                     "título": title,
                                     "cartel": os.path.join('imagenes_filmoteca', re.sub(r'[^a-zA-Z0-9]', '_', title) + '.jpg'),
                                     "horarios": [],
-                                    "cine": "Filmoteca de Navarra"
+                                    "cine": "Filmoteca de Navarra",
+                                    #añado el enlace a bacantix para comprar entradas
+                                    "enlace_entradas": enlace_bacantix['href']
                                 }
                                 
                                 # Procesar fecha y hora
