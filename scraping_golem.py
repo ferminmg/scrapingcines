@@ -68,7 +68,12 @@ def scrape_golem_vose(base_url, cine, days, images_folder):
                 horarios_elements = pelicula.find_all('span', {'class': 'horaXXXL'})
                 for horario in horarios_elements:
                     hora = horario.get_text(strip=True)
-                    horarios.append({"fecha": fecha_formateada, "hora": hora})  # Fecha con guiones añadidos directamente
+                    #el link de hora tiene un href a la venta de entradas
+                    enlace_entradas = horario.find('a', href=True)
+                    #si contiene un enlace a la venta de entradas, le pongo por delante "https://golem.es"
+                    if enlace_entradas:
+                        enlace_entradas['href'] = f"https://golem.es{enlace_entradas['href']}"
+                    horarios.append({"fecha": fecha_formateada, "hora": hora, "enlace_entradas": enlace_entradas['href'] if enlace_entradas else None})
 
                 # Agregar a la lista de resultados
                 peliculas_vose.append({
