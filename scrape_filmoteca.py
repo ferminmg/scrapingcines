@@ -63,7 +63,7 @@ for link in links:
                                     "horarios": [],
                                     "cine": "Filmoteca de Navarra",
                                     #añado el enlace a bacantix para comprar entradas
-                                    "enlace_entradas": enlace_bacantix['href']
+                                    #"enlace_entradas": enlace_bacantix['href']
                                 }
                                 
                                 # Procesar fecha y hora
@@ -106,7 +106,8 @@ for link in links:
 
                                         horario = {
                                             "fecha": fecha_formateada,
-                                            "hora": hora
+                                            "hora": hora,
+                                            "enlace_entradas": enlace_bacantix['href']
                                         }
                                         pelicula["horarios"].append(horario)
                                         
