@@ -6,7 +6,7 @@
             {
                 "fecha": "2025-01-14",
                 "hora": "20:25",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=91096&eventCode=94442"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona"
@@ -66,7 +66,7 @@
             {
                 "fecha": "2025-01-14",
                 "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83233&eventCode=93986"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi"
@@ -78,7 +78,7 @@
             {
                 "fecha": "2025-01-14",
                 "hora": "19:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83236&eventCode=93864"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi"
@@ -127,6 +127,78 @@
                 "fecha": "2025-01-16",
                 "hora": "19:00",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83266&eventCode=93864"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La semilla de la higuera sagrada",
+        "cartel": "imagenes_peliculas/1736253697.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-17",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83296&eventCode=94525"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La luz que imaginamos",
+        "cartel": "imagenes_peliculas/1734003169-11815.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-17",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83285&eventCode=93986"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Parthenope",
+        "cartel": "imagenes_peliculas/1732636677-11776.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-17",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83291&eventCode=93501"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La semilla de la higuera sagrada",
+        "cartel": "imagenes_peliculas/1736253697.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-18",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83297&eventCode=94525"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La luz que imaginamos",
+        "cartel": "imagenes_peliculas/1734003169-11815.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-18",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83308&eventCode=93986"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Parthenope",
+        "cartel": "imagenes_peliculas/1732636677-11776.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-18",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83302&eventCode=93501"
             }
         ],
         "cine": "Golem Yamaguchi"
