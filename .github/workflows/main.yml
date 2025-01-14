@@ -54,13 +54,23 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Pull to avoid non-fast-forward errors
+      - name: Stash current changes (including untracked files)
+        run: |
+          git stash push --include-untracked || true
+        
+      - name: Pull with rebase
+        run: |
           git pull --rebase origin main
-          
+      
+      - name: Pop stashed changes
+        run: |
+          git stash pop || true  # If nothing was stashed, this won’t error out
+      
+      - name: Commit and push final changes
+        run: |
           git add .
-
-          # Only commit if there are changes
           git diff --cached --quiet || git commit -m "Actualizar datos de scraping"
-          git push
+          git push origin main
+          
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
