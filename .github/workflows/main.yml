@@ -53,7 +53,13 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Pull to avoid non-fast-forward errors
+          git pull --rebase origin main
+          
           git add .
+
+          # Only commit if there are changes
           git diff --cached --quiet || git commit -m "Actualizar datos de scraping"
           git push
         env:
