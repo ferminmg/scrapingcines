@@ -1,17 +1,5 @@
 [
     {
-        "título": "Babygirl",
-        "cartel": "imagenes_peliculas/1736335052.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-01-22",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=91234&eventCode=93851"
-            }
-        ],
-        "cine": "Golem Baiona"
-    },
-    {
         "título": "A Real Pain",
         "cartel": "imagenes_peliculas/1736249254-11881.jpg",
         "horarios": [
@@ -30,7 +18,7 @@
             {
                 "fecha": "2025-01-22",
                 "hora": "19:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=91232&eventCode=93510"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona"
@@ -102,7 +90,7 @@
             {
                 "fecha": "2025-01-22",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83352&eventCode=94525"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi"
@@ -126,7 +114,7 @@
             {
                 "fecha": "2025-01-22",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83347&eventCode=93501"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi"
@@ -163,6 +151,258 @@
                 "fecha": "2025-01-23",
                 "hora": "20:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83361&eventCode=93501"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Cómo hacerse millonario antes de que muera la abuela",
+        "cartel": "imagenes_peliculas/1736758645.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-24",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83388&eventCode=95180"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La semilla de la higuera sagrada",
+        "cartel": "imagenes_peliculas/1736253697.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-24",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83394&eventCode=94525"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La luz que imaginamos",
+        "cartel": "imagenes_peliculas/1734003169-11815.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-24",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83382&eventCode=93986"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Cómo hacerse millonario antes de que muera la abuela",
+        "cartel": "imagenes_peliculas/1736758645.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-25",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83403&eventCode=95180"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La semilla de la higuera sagrada",
+        "cartel": "imagenes_peliculas/1736253697.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-25",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83409&eventCode=94525"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La luz que imaginamos",
+        "cartel": "imagenes_peliculas/1734003169-11815.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-25",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83397&eventCode=93986"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Cómo hacerse millonario antes de que muera la abuela",
+        "cartel": "imagenes_peliculas/1736758645.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-26",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83417&eventCode=95180"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La semilla de la higuera sagrada",
+        "cartel": "imagenes_peliculas/1736253697.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-26",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83423&eventCode=94525"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La luz que imaginamos",
+        "cartel": "imagenes_peliculas/1734003169-11815.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-26",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83411&eventCode=93986"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Cómo hacerse millonario antes de que muera la abuela",
+        "cartel": "imagenes_peliculas/1736758645.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-27",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83431&eventCode=95180"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La semilla de la higuera sagrada",
+        "cartel": "imagenes_peliculas/1736253697.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-27",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83437&eventCode=94525"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La luz que imaginamos",
+        "cartel": "imagenes_peliculas/1734003169-11815.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-27",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83425&eventCode=93986"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Cómo hacerse millonario antes de que muera la abuela",
+        "cartel": "imagenes_peliculas/1736758645.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-28",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83445&eventCode=95180"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La semilla de la higuera sagrada",
+        "cartel": "imagenes_peliculas/1736253697.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-28",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83451&eventCode=94525"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La luz que imaginamos",
+        "cartel": "imagenes_peliculas/1734003169-11815.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-28",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83439&eventCode=93986"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Cómo hacerse millonario antes de que muera la abuela",
+        "cartel": "imagenes_peliculas/1736758645.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-29",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83459&eventCode=95180"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La semilla de la higuera sagrada",
+        "cartel": "imagenes_peliculas/1736253697.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-29",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83465&eventCode=94525"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La luz que imaginamos",
+        "cartel": "imagenes_peliculas/1734003169-11815.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-29",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83453&eventCode=93986"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Cómo hacerse millonario antes de que muera la abuela",
+        "cartel": "imagenes_peliculas/1736758645.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-30",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83473&eventCode=95180"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La semilla de la higuera sagrada",
+        "cartel": "imagenes_peliculas/1736253697.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-30",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83479&eventCode=94525"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La luz que imaginamos",
+        "cartel": "imagenes_peliculas/1734003169-11815.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-01-30",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83467&eventCode=93986"
             }
         ],
         "cine": "Golem Yamaguchi"
