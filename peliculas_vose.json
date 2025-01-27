@@ -6,7 +6,7 @@
             {
                 "fecha": "2025-01-27",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=91349&eventCode=93847"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona"
@@ -30,7 +30,7 @@
             {
                 "fecha": "2025-01-27",
                 "hora": "19:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=91358&eventCode=93510"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona"
@@ -126,7 +126,7 @@
             {
                 "fecha": "2025-01-27",
                 "hora": "19:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83431&eventCode=95180"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi"
@@ -138,7 +138,7 @@
             {
                 "fecha": "2025-01-27",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83437&eventCode=94525"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi"
@@ -150,7 +150,7 @@
             {
                 "fecha": "2025-01-27",
                 "hora": "19:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83425&eventCode=93986"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi"
@@ -259,6 +259,40 @@
                 "fecha": "2025-01-30",
                 "hora": "19:00",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83467&eventCode=93986"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Salve Maria",
+        "cartel": "imagenes_peliculas/1729675130-11625.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-02-04",
+                "hora": "17:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83484&eventCode=92470"
+            },
+            {
+                "fecha": "2025-02-04",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83486&eventCode=92470"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "La habitación de al lado",
+        "cartel": "imagenes_peliculas/1726652513.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-02-05",
+                "hora": "17:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83487&eventCode=91648"
+            },
+            {
+                "fecha": "2025-02-05",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83489&eventCode=91648"
             }
         ],
         "cine": "Golem Yamaguchi"
