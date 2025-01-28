@@ -10,5 +10,41 @@
             }
         ],
         "cine": "Yelmo Itaroa"
+    },
+    {
+        "título": "Policán",
+        "cartel": "imagenes_filmaffinity/polican.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-02-04",
+                "hora": "19:55",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=13036"
+            }
+        ],
+        "cine": "Yelmo Itaroa"
+    },
+    {
+        "título": "Septiembre 5",
+        "cartel": "imagenes_filmaffinity/septiembre-5.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-02-04",
+                "hora": "20:40",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=13052"
+            }
+        ],
+        "cine": "Yelmo Itaroa"
+    },
+    {
+        "título": "La acompañante",
+        "cartel": "imagenes_filmaffinity/la-acompanante.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-02-04",
+                "hora": "20:25",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=13031"
+            }
+        ],
+        "cine": "Yelmo Itaroa"
     }
 ]
