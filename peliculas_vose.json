@@ -1,41 +1,5 @@
 [
     {
-        "título": "The Brutalist",
-        "cartel": "imagenes_peliculas/1738048106-11893.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-01-29",
-                "hora": "19:30",
-                "enlace_entradas": null
-            }
-        ],
-        "cine": "Golem Baiona"
-    },
-    {
-        "título": "Babygirl",
-        "cartel": "imagenes_peliculas/1736335052.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-01-29",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=91334&eventCode=93851"
-            }
-        ],
-        "cine": "Golem Baiona"
-    },
-    {
-        "título": "Las vidas de Sing Sing",
-        "cartel": "imagenes_peliculas/1734007305.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-01-29",
-                "hora": "19:45",
-                "enlace_entradas": null
-            }
-        ],
-        "cine": "Golem Baiona"
-    },
-    {
         "título": "Golem Arte: Anselm",
         "cartel": "imagenes_peliculas/1725446799-11543.jpg",
         "horarios": [
@@ -304,42 +268,6 @@
         "cartel": "imagenes_peliculas/1736758645.jpg",
         "horarios": [
             {
-                "fecha": "2025-01-29",
-                "hora": "19:00",
-                "enlace_entradas": null
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "La semilla de la higuera sagrada",
-        "cartel": "imagenes_peliculas/1738059750-11910.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-01-29",
-                "hora": "20:30",
-                "enlace_entradas": null
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "La luz que imaginamos",
-        "cartel": "imagenes_peliculas/1734003169-11815.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-01-29",
-                "hora": "19:00",
-                "enlace_entradas": null
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Cómo hacerse millonario antes de que muera la abuela",
-        "cartel": "imagenes_peliculas/1736758645.jpg",
-        "horarios": [
-            {
                 "fecha": "2025-01-30",
                 "hora": "19:00",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83473&eventCode=95180"
@@ -586,6 +514,18 @@
                 "fecha": "2025-02-06",
                 "hora": "20:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83594&eventCode=94525"
+            }
+        ],
+        "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Salve Maria  + Cafuné",
+        "cartel": "imagenes_peliculas/1737561465.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-02-08",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83498&eventCode=95377"
             }
         ],
         "cine": "Golem Yamaguchi"
