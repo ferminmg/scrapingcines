@@ -6,7 +6,7 @@
             {
                 "fecha": "2025-02-11",
                 "hora": "19:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=91627&eventCode=93841"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona"
@@ -18,7 +18,7 @@
             {
                 "fecha": "2025-02-11",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=91619&eventCode=93847"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona"
@@ -138,7 +138,7 @@
             {
                 "fecha": "2025-02-11",
                 "hora": "19:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83655&eventCode=95635"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi"
@@ -202,5 +202,22 @@
             }
         ],
         "cine": "Golem Yamaguchi"
+    },
+    {
+        "título": "Attack on Titan the Movie: The Last Attack",
+        "cartel": "imagenes_peliculas/1738761846.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-02-13",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=207057&eventCode=95293"
+            },
+            {
+                "fecha": "2025-02-13",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=207058&eventCode=95293"
+            }
+        ],
+        "cine": "Golem La Morea"
     }
 ]
