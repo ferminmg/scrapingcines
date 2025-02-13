@@ -88,51 +88,45 @@ for link in links:
                             # Procesar fecha y hora
                             fecha_hora = soup.find('h2')
                             if fecha_hora:
-                                texto_fecha = fecha_hora.text.strip()
+                                texto_fecha = fecha_hora.get_text(separator=" ").strip()  # Extraer texto con espacios en lugar de <br>
                                 try:
-                                    # Convertir texto de fecha en español a formato deseado
-                                    # Ejemplo: "Miércoles, 31 de diciembre19:30" -> "2024-12-31 19:30"
-                                    
-                                    # Diccionario para convertir nombres de meses
+                                    # Diccionario para convertir nombres de meses a números
                                     meses = {
                                         'enero': '01', 'febrero': '02', 'marzo': '03',
                                         'abril': '04', 'mayo': '05', 'junio': '06',
                                         'julio': '07', 'agosto': '08', 'septiembre': '09',
                                         'octubre': '10', 'noviembre': '11', 'diciembre': '12'
                                     }
-                                    
-                                    # Limpiar y separar la fecha
-                                    texto_fecha = texto_fecha.replace(',', '')
-                                    
-                                    # Extraer la hora del final (asumiendo que siempre tiene el formato HH:MM)
-                                    hora = texto_fecha[-5:]
-                                    
-                                    # Quitar la hora del texto de fecha
-                                    texto_fecha = texto_fecha[:-5].strip()
-                                    
-                                    # Separar el resto
-                                    partes = texto_fecha.split()
-                                    dia = partes[1]
-                                    mes = meses[partes[3].lower()]
-                                    
-                                    # año actual
-                                    año = datetime.now().year
-                                    
-                                    # Crear string de fecha en formato correcto
-                                    fecha_formateada = f"{año}-{mes}-{dia.zfill(2)}"
-                                    
-                                    print(f"Fecha formateada: {fecha_formateada}")
 
+                                    # Extraer la parte de la fecha (ejemplo: "Miércoles, 19 de febrero")
+                                    partes_fecha = texto_fecha.split()
+                                    dia = partes_fecha[1]  # 19
+                                    mes = meses[partes_fecha[3].lower()]  # febrero -> 02
+
+                                    # Extraer la hora (ejemplo: "18:30 - ¡Atención al horario!")
+                                    hora_match = re.search(r'\d{2}:\d{2}', texto_fecha)
+                                    hora = hora_match.group(0) if hora_match else "00:00"  # Si no encuentra, usa 00:00 por defecto
+
+                                    # Obtener el año actual
+                                    año = datetime.now().year
+
+                                    # Crear string de fecha en formato YYYY-MM-DD
+                                    fecha_formateada = f"{año}-{mes}-{dia.zfill(2)}"
+
+                                    print(f"Fecha formateada: {fecha_formateada}, Hora: {hora}")
+
+                                    # Agregar la fecha y hora al JSON
                                     horario = {
                                         "fecha": fecha_formateada,
                                         "hora": hora,
                                         "enlace_entradas": enlace_bacantix['href']
                                     }
                                     pelicula["horarios"].append(horario)
-                                    
+
                                 except Exception as e:
                                     print(f"Error procesando fecha: {str(e)}")
                                     print(f"Texto fecha original: {texto_fecha}")
+
                                 
                                 # Buscar y descargar la imagen
                                 div_dcha = soup.find('div', class_='dcha')
