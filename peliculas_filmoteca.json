@@ -54,6 +54,18 @@
         "cine": "Filmoteca de Navarra"
     },
     {
+        "título": "Y la vida continúa",
+        "cartel": "imagenes_filmoteca/Y_la_vida_contin_a.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-02-27",
+                "hora": "19:30",
+                "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006263000259"
+            }
+        ],
+        "cine": "Filmoteca de Navarra"
+    },
+    {
         "título": "La confesión (L'aveu)",
         "cartel": "imagenes_filmoteca/La_confesi_n__L_aveu_.jpg",
         "horarios": [
