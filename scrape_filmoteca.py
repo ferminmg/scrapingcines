@@ -49,7 +49,7 @@ for link in links:
                     if 'Idioma:' in texto_completo:
                         idioma = texto_completo.split('Idioma:')[-1].split('\n')[0].strip()
                         # Solo procesar si contiene V.O.S.E. o subtítulos en español
-                        if 'V.O.S.E.' in idioma or 'subtítulos en español' in idioma or 'subtítulos en castellano' in idioma:
+                        if 'V.O.S.E.' in idioma or 'subtítulos en español' in idioma or 'subtítulos en castellano' in idioma or 'subtitulos en castellano' in idioma or 'subtitulos en español' in idioma:
                             # Verificar si existe enlace a bacantix
                             enlace_bacantix = soup.find('a', href=lambda x: x and 'bacantix.com' in x.lower())
                             if enlace_bacantix:
