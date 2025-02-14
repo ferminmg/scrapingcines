@@ -4,30 +4,6 @@
         "cartel": "imagenes_peliculas/1737541538.jpg",
         "horarios": [
             {
-                "fecha": "2025-02-13",
-                "hora": "19:45",
-                "enlace_entradas": null
-            }
-        ],
-        "cine": "Golem Baiona"
-    },
-    {
-        "título": "Las vidas de Sing Sing",
-        "cartel": "imagenes_peliculas/1734007305.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-02-13",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=91643&eventCode=93510"
-            }
-        ],
-        "cine": "Golem Baiona"
-    },
-    {
-        "título": "María Callas",
-        "cartel": "imagenes_peliculas/1737541538.jpg",
-        "horarios": [
-            {
                 "fecha": "2025-02-14",
                 "hora": "22:15",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=91653&eventCode=93841"
@@ -202,30 +178,6 @@
             }
         ],
         "cine": "Golem Baiona"
-    },
-    {
-        "título": "Becoming Led Zeppelin",
-        "cartel": "imagenes_peliculas/1738581239.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-02-13",
-                "hora": "19:00",
-                "enlace_entradas": null
-            }
-        ],
-        "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "La red fantasma",
-        "cartel": "imagenes_peliculas/1738756092.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-02-13",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83672&eventCode=95514"
-            }
-        ],
-        "cine": "Golem Yamaguchi"
     },
     {
         "título": "La tutoría",
@@ -466,22 +418,5 @@
             }
         ],
         "cine": "Golem Yamaguchi"
-    },
-    {
-        "título": "Attack on Titan the Movie: The Last Attack",
-        "cartel": "imagenes_peliculas/1738761846.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-02-13",
-                "hora": "19:30",
-                "enlace_entradas": null
-            },
-            {
-                "fecha": "2025-02-13",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=207058&eventCode=95293"
-            }
-        ],
-        "cine": "Golem La Morea"
     }
 ]
