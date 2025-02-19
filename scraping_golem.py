@@ -8,6 +8,8 @@ from pathlib import Path
 from dataclasses import dataclass
 import re
 from typing import List, Dict, Optional
+from dotenv import load_dotenv
+
 
 # Configure logging
 logging.basicConfig(
@@ -273,7 +275,8 @@ def dataclass_to_dict(obj):
 
 def main():
     # Configuration
-    TMDB_API_KEY = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiNzAwZmIzYzJlYTU1MTg4YzIzNDMzNjc4NmNiMzhkYSIsIm5iZiI6MTUyMzM1MTY5MS4wMzksInN1YiI6IjVhY2M4MDhiOTI1MTQxMGMwNjAwODMwMiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.xuYDKvo7dLijGNkJJGidiFj6o2OHWi_FcJJPsQAM2ds"
+    load_dotenv()
+    TMDB_API_KEY = os.getenv("TMDB_API_KEY")
     if not TMDB_API_KEY:
         raise ValueError("TMDB_API_KEY environment variable is required")
 
@@ -285,7 +288,7 @@ def main():
     
     IMAGES_FOLDER = "imagenes_peliculas"
     OUTPUT_FILE = "peliculas_vose.json"
-    DAYS_TO_SCRAPE = 1000
+    DAYS_TO_SCRAPE = 10
 
     # Initialize components
     tmdb_api = TMDbAPI(TMDB_API_KEY)

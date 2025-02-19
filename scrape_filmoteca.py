@@ -1,3 +1,4 @@
+from dotenv import load_dotenv
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -83,7 +84,8 @@ processed_urls = set()
 peliculas = []
 
 # Inicializar TMDbAPI
-TMDB_API_KEY = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiNzAwZmIzYzJlYTU1MTg4YzIzNDMzNjc4NmNiMzhkYSIsIm5iZiI6MTUyMzM1MTY5MS4wMzksInN1YiI6IjVhY2M4MDhiOTI1MTQxMGMwNjAwODMwMiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.xuYDKvo7dLijGNkJJGidiFj6o2OHWi_FcJJPsQAM2ds"
+load_dotenv()
+TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 tmdb_api = TMDbAPI(TMDB_API_KEY)
 
 for link in links:
