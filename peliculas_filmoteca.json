@@ -1,19 +1,7 @@
 [
     {
-        "título": "Las diabólicas",
-        "cartel": "imagenes_filmoteca\\Las_diab_licas.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-02-14",
-                "hora": "19:30",
-                "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006258000254"
-            }
-        ],
-        "cine": "Filmoteca de Navarra"
-    },
-    {
         "título": "Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",
-        "cartel": "imagenes_filmoteca\\Jeanne_Dielman__23_quai_du_Commerce__1080_Bruxelles.jpg",
+        "cartel": "imagenes_filmoteca\\tmdb_Jeanne_Dielman__23_quai_du_Commerce__1080_Bruxelles.jpg",
         "horarios": [
             {
                 "fecha": "2025-02-19",
@@ -21,11 +9,16 @@
                 "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006259000255"
             }
         ],
-        "cine": "Filmoteca de Navarra"
+        "cine": "Filmoteca de Navarra",
+        "director": "Chantal Akerman",
+        "duración": "202 min",
+        "actores": "Delphine Seyrig, Jan Decorte, Henri Storck, Jacques Doniol-Valcroze, Yves Bical",
+        "sinopsis": "La vida de Jeanne Dielman, una joven viuda con un hijo, sigue un orden inmutable: mientras el muchacho está en la escuela, ella se ocupa de las tareas domésticas por la mañana y ejerce la prostitución por la tarde.",
+        "año": "1976"
     },
     {
         "título": "MASH",
-        "cartel": "imagenes_filmoteca\\MASH.jpg",
+        "cartel": "imagenes_filmoteca\\tmdb_MASH.jpg",
         "horarios": [
             {
                 "fecha": "2025-02-20",
@@ -33,11 +26,16 @@
                 "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006260000256"
             }
         ],
-        "cine": "Filmoteca de Navarra"
+        "cine": "Filmoteca de Navarra",
+        "director": "Robert Altman",
+        "duración": "120 min",
+        "actores": "Donald Sutherland, Elliott Gould, Tom Skerritt, Sally Kellerman, Robert Duvall",
+        "sinopsis": "M.A.S.H. narra las aventuras de dos cirujanos del ejército destinados a una unidad móvil médica en Corea durante la guerra. Tanto ellos como su equipo de enfermeras se toman el trabajo muy en serio pero, en su tiempo libre, las bromas constantes y la ironía hacen más llevadera la situación.",
+        "año": "1970"
     },
     {
         "título": "Al azar Baltasar",
-        "cartel": "imagenes_filmoteca\\Al_azar_Baltasar.jpg",
+        "cartel": "imagenes_filmoteca\\tmdb_Al_azar_Baltasar.jpg",
         "horarios": [
             {
                 "fecha": "2025-02-21",
@@ -45,11 +43,16 @@
                 "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006261000257"
             }
         ],
-        "cine": "Filmoteca de Navarra"
+        "cine": "Filmoteca de Navarra",
+        "director": "Robert Bresson",
+        "duración": "95 min",
+        "actores": "Anne Wiazemsky, Walter Green, François Lafarge, Jean-Claude Guilbert, Philippe Asselin",
+        "sinopsis": "Baltasar es un burro que vive sus primeros años rodeado de la alegría y los juegos de los niños hasta llegar a la edad adulta, en que es utilizado como una bestia de carga y maltratado por sus diferentes amos.",
+        "año": "1966"
     },
     {
         "título": "Los encuentros de Ana",
-        "cartel": "imagenes_filmoteca\\Los_encuentros_de_Ana.jpg",
+        "cartel": "imagenes_filmoteca\\tmdb_Los_encuentros_de_Ana.jpg",
         "horarios": [
             {
                 "fecha": "2025-02-26",
@@ -57,11 +60,16 @@
                 "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006262000258"
             }
         ],
-        "cine": "Filmoteca de Navarra"
+        "cine": "Filmoteca de Navarra",
+        "director": "Chantal Akerman",
+        "duración": "127 min",
+        "actores": "Aurore Clément, Helmut Griem, Magali Noël, Hanns Zischler, Jean-Pierre Cassel",
+        "sinopsis": "El trabajo de Anna como directora de cine la lleva por toda Europa Occidental. Vaya donde vaya, o ya tiene alguna relación íntima o la encuentra rápidamente. La gente se siente atraída por ella y tiende a revelarle sus secretos más íntimos, a pesar de que Anna no muestra interés alguno por conocerlos.",
+        "año": "1978"
     },
     {
         "título": "Y la vida continúa",
-        "cartel": "imagenes_filmoteca\\Y_la_vida_contin_a.jpg",
+        "cartel": "imagenes_filmoteca\\tmdb_Y_la_vida_contin_a.jpg",
         "horarios": [
             {
                 "fecha": "2025-02-27",
@@ -69,11 +77,16 @@
                 "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006263000259"
             }
         ],
-        "cine": "Filmoteca de Navarra"
+        "cine": "Filmoteca de Navarra",
+        "director": "Abbas Kiarostami",
+        "duración": "95 min",
+        "actores": "Farhad Kheradmand, Buba Bayour, Hossein Rezai, Hocine Rifahi, Ferkhondeh Feyzi",
+        "sinopsis": "Narra la tragedia humana provocada por el gran terremoto que asoló Irán en 1990. Un director de cine y su hijo deciden, tras el terremoto, visitar el pueblo donde habían rodado la película \"¿Donde está la casa de mi amigo?\", para saber cómo están los niños actores que participaron en ella. Años después Kiarostami hará otra película (\"A través de los olivos\") sobre el rodaje de ésta, incorporando una historia de amor. (FILMAFFINITY)",
+        "año": "1992"
     },
     {
         "título": "La confesión (L'aveu)",
-        "cartel": "imagenes_filmoteca\\La_confesi_n__L_aveu_.jpg",
+        "cartel": "imagenes_filmoteca\\tmdb_La_confesi_n__L_aveu_.jpg",
         "horarios": [
             {
                 "fecha": "2025-02-28",
@@ -81,6 +94,11 @@
                 "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006264000260"
             }
         ],
-        "cine": "Filmoteca de Navarra"
+        "cine": "Filmoteca de Navarra",
+        "director": "Costa-Gavras",
+        "duración": "139 min",
+        "actores": "Yves Montand, Simone Signoret, Gabriele Ferzetti, Michel Vitold, Jean Bouise",
+        "sinopsis": "El guión de Jorge Semprún se basa en el libro homónimo de Artur London que narra en primera persona las purgas estalinistas de las que fueron víctimas los disidentes del Partido Comunista checoslovaco, entre ellos el propio London. Estas purgas tuvieron lugar en el famoso Proceso de Praga de 1952.",
+        "año": "1970"
     }
 ]
