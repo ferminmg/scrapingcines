@@ -59,24 +59,19 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-      - name: Stash current changes (including untracked files)
-        run: |
           git stash push --include-untracked || true
-        
-      - name: Pull with rebase
-        run: |
           git pull --rebase origin main
-      
-      - name: Pop stashed changes
-        run: |
-          git stash pop || true  # If nothing was stashed, this won’t error out
-      
-      - name: Commit and push final changes
-        run: |
+          git stash pop || true
           git add .
           git diff --cached --quiet || git commit -m "Actualizar datos de scraping"
           git push origin main
-          
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Paso 8: Desplegar archivos JSON en GitHub Pages
+      - name: Deploy JSON to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .  # Publica los archivos JSON generados en la raíz
+          keep_files: true  # Mantiene los archivos existentes
