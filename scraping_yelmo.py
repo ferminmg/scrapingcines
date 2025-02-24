@@ -8,6 +8,7 @@ import urllib.request
 import re
 from difflib import SequenceMatcher
 import logging
+import sys
 
 # Configurar logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -88,14 +89,41 @@ headers = {
 
 data = {"cityKey": "navarra"}
 
-response = requests.post(
-    "https://www.yelmocines.es/now-playing.aspx/GetNowPlaying",
-    headers=headers,
-    json=data
-)
+try:
+    # Realizamos la petición POST
+    response = requests.post(
+        "https://www.yelmocines.es/now-playing.aspx/GetNowPlaying",
+        headers=headers,
+        json=data,
+        timeout=10  # Establecemos un timeout razonable
+    )
+    # Eleva una excepción si el código de estado no es 2xx
+    response.raise_for_status()
 
-datos = response.json()
+    # Intentamos parsear la respuesta a JSON
+    datos = response.json()
 
+except requests.exceptions.RequestException as e:
+    # Captura errores de conexión, timeouts o códigos de estado 4xx/5xx
+    print(f"No se ha podido conectar con la web de Yelmo (o error HTTP). Mensaje:\n{e}")
+    print("Saliendo sin lanzar excepción...")
+    sys.exit(0)
+
+except ValueError as e:
+    # Captura errores al decodificar el JSON (JSON malformado)
+    print(f"Error decodificando JSON:\n{e}")
+    print("Saliendo sin lanzar excepción...")
+    sys.exit(0)
+
+# Llegados aquí, la respuesta es JSON y tenemos un status_code 2xx
+print("Contenido recibido (JSON):")
+print(json.dumps(datos, indent=4, ensure_ascii=False))
+
+# Comprobamos si está la clave "d"
+if "d" not in datos:
+    print("La respuesta no contiene la clave 'd'.")
+    print("Saliendo sin lanzar excepción...")
+    sys.exit(0)
 peliculas_filmaffinity = []
 
 MESES = {
