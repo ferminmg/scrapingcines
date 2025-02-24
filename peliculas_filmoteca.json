@@ -1,56 +1,5 @@
 [
     {
-        "título": "Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",
-        "cartel": "imagenes_filmoteca/tmdb_Jeanne_Dielman__23_quai_du_Commerce__1080_Bruxelles.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-02-19",
-                "hora": "18:30",
-                "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006259000255"
-            }
-        ],
-        "cine": "Filmoteca de Navarra",
-        "director": "Chantal Akerman",
-        "duración": "202 min",
-        "actores": "Delphine Seyrig, Jan Decorte, Henri Storck, Jacques Doniol-Valcroze, Yves Bical",
-        "sinopsis": "La vida de Jeanne Dielman, una joven viuda con un hijo, sigue un orden inmutable: mientras el muchacho está en la escuela, ella se ocupa de las tareas domésticas por la mañana y ejerce la prostitución por la tarde.",
-        "año": "1976"
-    },
-    {
-        "título": "MASH",
-        "cartel": "imagenes_filmoteca/tmdb_MASH.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-02-20",
-                "hora": "19:30",
-                "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006260000256"
-            }
-        ],
-        "cine": "Filmoteca de Navarra",
-        "director": "Robert Altman",
-        "duración": "120 min",
-        "actores": "Donald Sutherland, Elliott Gould, Tom Skerritt, Sally Kellerman, Robert Duvall",
-        "sinopsis": "M.A.S.H. narra las aventuras de dos cirujanos del ejército destinados a una unidad móvil médica en Corea durante la guerra. Tanto ellos como su equipo de enfermeras se toman el trabajo muy en serio pero, en su tiempo libre, las bromas constantes y la ironía hacen más llevadera la situación.",
-        "año": "1970"
-    },
-    {
-        "título": "Al azar Baltasar",
-        "cartel": "imagenes_filmoteca/tmdb_Al_azar_Baltasar.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-02-21",
-                "hora": "19:30",
-                "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006261000257"
-            }
-        ],
-        "cine": "Filmoteca de Navarra",
-        "director": "Robert Bresson",
-        "duración": "95 min",
-        "actores": "Anne Wiazemsky, Walter Green, François Lafarge, Jean-Claude Guilbert, Philippe Asselin",
-        "sinopsis": "Baltasar es un burro que vive sus primeros años rodeado de la alegría y los juegos de los niños hasta llegar a la edad adulta, en que es utilizado como una bestia de carga y maltratado por sus diferentes amos.",
-        "año": "1966"
-    },
-    {
         "título": "Los encuentros de Ana",
         "cartel": "imagenes_filmoteca/tmdb_Los_encuentros_de_Ana.jpg",
         "horarios": [
@@ -100,5 +49,22 @@
         "actores": "Yves Montand, Simone Signoret, Gabriele Ferzetti, Michel Vitold, Jean Bouise",
         "sinopsis": "El guión de Jorge Semprún se basa en el libro homónimo de Artur London que narra en primera persona las purgas estalinistas de las que fueron víctimas los disidentes del Partido Comunista checoslovaco, entre ellos el propio London. Estas purgas tuvieron lugar en el famoso Proceso de Praga de 1952.",
         "año": "1970"
+    },
+    {
+        "título": "Mi tío de América (Mon oncle d''Amérique)",
+        "cartel": "imagenes_filmoteca/tmdb_Mi_t_o_de_Am_rica__Mon_oncle_d__Am_rique_.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-07",
+                "hora": "19:30",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Filmoteca de Navarra",
+        "director": "Alain Resnais",
+        "duración": "126 min",
+        "actores": "Gérard Depardieu, Nicole Garcia, Roger Pierre, Nelly Borgeaud, Pierre Arditi",
+        "sinopsis": "El profesor Henry Laborit explica una teoría sobre el comportamiento humano por medio del estudio de tres historias que acontecen paralelamente: René (Gérard Depardieu), empleado en una industria textil, debe afrontar la posibilidad de ser despedido. Janine (Nicole García) es una actriz que, al descubrir que la mujer de su amante está gravemente enferma, decide que él debe estar a su lado en esos momentos. Jean (Roger Pierre) es un polifacético escritor y político que debe tomar una decisión que implica renunciar a su carrera.",
+        "año": "1980"
     }
 ]
