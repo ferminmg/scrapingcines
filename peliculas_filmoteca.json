@@ -51,6 +51,23 @@
         "año": "1970"
     },
     {
+        "título": "¿Telefono rojo? volamos a Moscú (Dr. Strangelove, or How I Learned to Stop Worrying and Love the Bomb)",
+        "cartel": "imagenes_filmoteca/_Telefono_rojo__volamos_a_Mosc___Dr__Strangelove__or_How_I_Learned_to_Stop_Worrying_and_Love_the_Bomb_.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-05",
+                "hora": "19:30",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Filmoteca de Navarra",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
         "título": "Mi tío de América (Mon oncle d''Amérique)",
         "cartel": "imagenes_filmoteca/tmdb_Mi_t_o_de_Am_rica__Mon_oncle_d__Am_rique_.jpg",
         "horarios": [
@@ -66,5 +83,56 @@
         "actores": "Gérard Depardieu, Nicole Garcia, Roger Pierre, Nelly Borgeaud, Pierre Arditi",
         "sinopsis": "El profesor Henry Laborit explica una teoría sobre el comportamiento humano por medio del estudio de tres historias que acontecen paralelamente: René (Gérard Depardieu), empleado en una industria textil, debe afrontar la posibilidad de ser despedido. Janine (Nicole García) es una actriz que, al descubrir que la mujer de su amante está gravemente enferma, decide que él debe estar a su lado en esos momentos. Jean (Roger Pierre) es un polifacético escritor y político que debe tomar una decisión que implica renunciar a su carrera.",
         "año": "1980"
+    },
+    {
+        "título": "La reina Margot",
+        "cartel": "imagenes_filmoteca/tmdb_La_reina_Margot.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-14",
+                "hora": "19:15",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Filmoteca de Navarra",
+        "director": "Patrice Chéreau",
+        "duración": "138 min",
+        "actores": "Isabelle Adjani, Daniel Auteuil, Jean-Hugues Anglade, Vincent Perez, Virna Lisi",
+        "sinopsis": "París, Reino de Francia, 18 de agosto de 1572. Con el propósito de evitar el estallido de una guerra religiosa, la princesa católica Margarita de Valois, hermana del débil rey Carlos IX, se casa con el rey hugonote Enrique III de Navarra.",
+        "año": "1994"
+    },
+    {
+        "título": "Bienvenidos a Belleville",
+        "cartel": "imagenes_filmoteca/tmdb_Bienvenidos_a_Belleville.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-21",
+                "hora": "19:30",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Filmoteca de Navarra",
+        "director": "Sylvain Chomet",
+        "duración": "78 min",
+        "actores": "Suzy Falk, Lina Boudreau, Betty Bonifassi, Michèle Caucheteux, Jean-Claude Donda",
+        "sinopsis": "Champion, que ha sido adoptado por su abuela Madame Souza, es un niño solitario. Cuando ella se da cuenta de que el niño sólo es feliz sobre una bicicleta, lo somete a un riguroso entrenamiento. Años después, Champion ya está preparado para participar en la carrera ciclista más famosa del mundo: el Tour de Francia. Sin embargo, durante la competición dos misteriosos hombres vestidos de negro lo secuestran. Madame Souza y su fiel perro Bruno emprenden su búsqueda, que los lleva al otro lado del océano, a la enorme ciudad de Belleville, donde conocen a las famosas “Trillizas de Belleville”, tres estrellas del music–hall de los años 30, que deciden acogerlos bajo su protección. El gran sentido del olfato de Bruno, los pone sobre la pista de Champion. Pero, ¿podrán combatir los diabólicos planes de la mafia francesa?",
+        "año": "2003"
+    },
+    {
+        "título": "Dheepan",
+        "cartel": "imagenes_filmoteca/tmdb_Dheepan.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-28",
+                "hora": "19:30",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Filmoteca de Navarra",
+        "director": "Jacques Audiard",
+        "duración": "114 min",
+        "actores": "Antonythasan Jesuthasan, Kalieaswari Srinivasan, Claudine Vinasithamby, Vincent Rottiers, Marc Zinga",
+        "sinopsis": "Un hombre huye de la guerra civil en Sri Lanka y, para conseguir que Francia le conceda el derecho de asilo, hace pasar por su familia a una mujer y a una niña. Una vez allí, encuentra trabajo como guardián de un edificio en un barrio problemático de las afueras. A pesar de que no hablan francés, se adaptan progresivamente a su nuevo país. Al mismo tiempo, el hombre y la mujer acaban enamorándose. Finalmente, el tráfico de drogas impulsará al hombre a salir de su aislamiento y a tomar partido.",
+        "año": "2015"
     }
 ]
