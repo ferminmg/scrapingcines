@@ -205,8 +205,8 @@ class MovieScraper:
                         
                     title = title_elem.get_text(strip=True)
                     
-                    # Filter VOSE movies
-                    if "(V.O.S.E.)" not in title:
+                    # Filter VOSE movies: only those with "V.O.S.E" in the title
+                    if "V.O.S.E" not in title:
                         continue
                         
                     clean_title = title.replace("(V.O.S.E.)", "").strip()
