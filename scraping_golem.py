@@ -210,6 +210,7 @@ class MovieScraper:
                         continue
                         
                     clean_title = title.replace("(V.O.S.E.)", "").strip()
+                    clean_title = title.replace("(V.O.S.E)", "").strip()
                     
                     # Get poster from Golem
                     poster_elem = movie_table.find('img', {'class': 'bordeCartel'})
