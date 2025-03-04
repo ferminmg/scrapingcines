@@ -23,7 +23,7 @@
             {
                 "fecha": "2025-03-04",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=91985&eventCode=94917"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -108,7 +108,7 @@
             {
                 "fecha": "2025-03-04",
                 "hora": "20:20",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83993&eventCode=95240"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -125,7 +125,7 @@
             {
                 "fecha": "2025-03-04",
                 "hora": "19:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83991&eventCode=93847"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -142,7 +142,7 @@
             {
                 "fecha": "2025-03-04",
                 "hora": "19:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83983&eventCode=92914"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -253,5 +253,22 @@
         "actores": "Mikey Madison, Марк Эйдельштейн, Юра Борисов, Karren Karagulian, Vache Tovmasyan",
         "sinopsis": "Anora, una joven prostituta de Brooklyn, tiene la oportunidad de vivir una historia de Cenicienta cuando conoce e impulsivamente se casa con el hijo de un oligarca. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado, ya que los padres parten hacia Nueva York para intentar conseguir la anulación del matrimonio.",
         "año": "2024"
+    },
+    {
+        "título": "Animal",
+        "cartel": "imagenes_peliculas/tmdb_animal.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-07",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=83994&eventCode=96024"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Sandeep Reddy Vanga",
+        "duración": "201 min",
+        "actores": "Ranbir Kapoor, Rashmika Mandanna, Anil Kapoor, Bobby Deol, Triptii Dimri",
+        "sinopsis": "",
+        "año": "2023"
     }
 ]
