@@ -56,6 +56,23 @@
         "año": "2024"
     },
     {
+        "título": "Blancanieves",
+        "cartel": "imagenes_filmaffinity/tmdb_blancanieves.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-25",
+                "hora": "20:25",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=14789"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Pablo Berger",
+        "duración": "90 min",
+        "actores": "Maribel Verdú, Macarena García, Daniel Giménez Cacho, Ángela Molina, Inma Cuesta",
+        "sinopsis": "Sevilla. Años veinte. Carmen (Macarena García, 'Amar en tiempos revueltos'), ha vivido toda su infancia bajo el yugo de su terrible madrastra, Encarna (Maribel Verdú, 'La buena estrella'). Cansada de la represión a la que la somete, la joven decide escapar y vivir nuevas aventuras que le permitan olvidar su traumático pasado. Carmen iniciará un viaje de huída y de descubrimientos que la transformará por completo. Durante ese viaje, contará con una compañía muy especial: la de siete \"enanitos toreros\", que intentarán protegerla en todo momento.  El director Pablo Berger nos introduce en el territorio de lo grotesco y lo fantástico a través de esta fábula basada en el famoso cuento de los hermanos Grimm, que utiliza los elementos de la España castiza de la época para crear una atmósfera tan original como la propia concepción del film: en blanco y negro y sin diálogos. Una vuelta a los orígenes de cine a través de unas imágenes poderosas acompañadas de una partitura original.",
+        "año": "2012"
+    },
+    {
         "título": "André Rieu: El sueño continúa",
         "cartel": "imagenes_filmaffinity/andre-rieu-el-sueno-continua.jpg",
         "horarios": [
@@ -96,7 +113,7 @@
     },
     {
         "título": "Pink Floyd at Pompeii - MCMLXXII",
-        "cartel": "imagenes_filmaffinity/tmdb_pink-floyd-at-pompeii-mcmlxxii.jpg",
+        "cartel": "imagenes_filmaffinity/pink-floyd-at-pompeii-mcmlxxii.jpg",
         "horarios": [
             {
                 "fecha": "2025-04-24",
@@ -111,9 +128,9 @@
         ],
         "cine": "Yelmo Itaroa",
         "director": "",
-        "duración": "64 min",
-        "actores": "David Gilmour",
-        "sinopsis": "",
-        "año": "2025"
+        "duración": "Desconocido min",
+        "actores": "",
+        "sinopsis": null,
+        "año": ""
     }
 ]
