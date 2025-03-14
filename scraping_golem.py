@@ -73,76 +73,62 @@ class TMDbAPI:
                              self._normalize_title(title1), 
                              self._normalize_title(title2)).ratio()
 
-    def get_movie_info(self, title: str) -> Dict:
-        """Get complete movie information from TMDb"""
-        # Log the original title
+    def get_movie_info(self, title: str) -> dict:
         logger.info(f"Searching TMDb for title: {title}")
-        
-        # Search with different variants of the title
-        search_variants = [
-            title,  # Original title
-            title.replace("á", "a").replace("é", "e").replace("í", "i").replace("ó", "o").replace("ú", "u"),  # Without accents
-            re.sub(r'\([^)]*\)', '', title).strip(),  # Remove text in parentheses
-            ' '.join(title.split()),  # Remove extra spaces
-        ]
-        
+
+        # Realizar una búsqueda con el título original
+        search_results = self._make_request("search/movie", params={"query": title, "language": "es"})
+
+        if not search_results or not search_results.get("results"):
+            # Si no hay resultados, intentar en inglés
+            logger.warning(f"No results found for '{title}' in Spanish. Trying English search...")
+            search_results = self._make_request("search/movie", params={"query": title, "language": "en"})
+
+        if not search_results or not search_results.get("results"):
+            logger.warning(f"No results found for: {title} in any language.")
+            return {}
+
+        # Ordenar por fecha de lanzamiento (más reciente primero)
+        results = sorted(search_results["results"], key=lambda x: x.get("release_date", "1900-01-01"), reverse=True)
+
+        # Buscar el mejor match por similitud
         best_match = None
         highest_similarity = 0
-        
-        for variant in search_variants:
-            logger.info(f"Trying variant: {variant}")
-            search_results = self._make_request(
-                "search/movie",
-                params={"query": variant, "language": "es"}
-            )
-            
-            if not search_results or not search_results.get("results"):
-                continue
-                
-            # Check each result for the best match
-            for result in search_results["results"]:
-                # Check both original title and localized title
-                titles_to_check = [
-                    result.get("title", ""),
-                    result.get("original_title", "")
-                ]
-                
-                for result_title in titles_to_check:
-                    similarity = self._title_similarity(title, result_title)
-                    logger.info(f"Comparing '{title}' with '{result_title}': {similarity}")
-                    
-                    if similarity > highest_similarity:
-                        highest_similarity = similarity
-                        best_match = result
-        
-        # If we found a good match (similarity > 0.6)
+
+        for result in results:
+            similarity = self._title_similarity(title, result.get("title", ""))
+            if similarity > highest_similarity:
+                highest_similarity = similarity
+                best_match = result
+
         if best_match and highest_similarity > 0.6:
             movie_id = best_match["id"]
             logger.info(f"Found match: {best_match.get('title')} (ID: {movie_id}, Similarity: {highest_similarity})")
-            
-            # Get detailed information
+
+            # Obtener detalles adicionales
             details = self._make_request(f"movie/{movie_id}", params={"language": "es"})
+            if not details:
+                details = self._make_request(f"movie/{movie_id}", params={"language": "en"})
+
             credits = self._make_request(f"movie/{movie_id}/credits", params={"language": "es"})
-            
+            if not credits:
+                credits = self._make_request(f"movie/{movie_id}/credits", params={"language": "en"})
+
             if not details or not credits:
                 return {}
-            
+
             return {
-                "director": ", ".join(
-                    c["name"] for c in credits.get("crew", [])
-                    if c["job"] == "Director"
-                ),
+                "director": ", ".join(c["name"] for c in credits.get("crew", []) if c["job"] == "Director"),
                 "duración": f"{details.get('runtime', 'Desconocido')} min",
-                "actores": ", ".join(
-                    a["name"] for a in credits.get("cast", [])[:5]
-                ),
+                "actores": ", ".join(a["name"] for a in credits.get("cast", [])[:5]),
                 "sinopsis": details.get("overview"),
                 "año": details.get("release_date", "")[:4],
-                "poster_path": details.get('poster_path')
+                "poster_path": details.get("poster_path")
             }
-        
+
         logger.warning(f"No good match found for: {title}")
         return {}
+
 
 class ImageDownloader:
     def __init__(self, base_folder: str):
