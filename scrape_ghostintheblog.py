@@ -107,23 +107,21 @@ def extraer_info_post(post):
         # Extraer solo el contenido
         contenido_div = soup.find('div', class_='entry-content')
         if contenido_div:
-            # Primero, reemplazar los <br> y </p> con marcadores temporales
-            for br in contenido_div.find_all('br'):
-                br.replace_with('||BR||')
-            for p in contenido_div.find_all('p'):
-                p.append('||P||')
-            
-            # Reemplazar los enlaces con su texto plano
+            # Primero, reemplazar los enlaces con su texto plano
             for a in contenido_div.find_all('a'):
                 a.replace_with(a.get_text())
             
-            # Obtener el texto y restaurar los saltos de línea
-            contenido_completo = contenido_div.get_text()
-            contenido_completo = contenido_completo.replace('||BR||', '\n')
-            contenido_completo = contenido_completo.replace('||P||', '\n\n')
+            # Obtener párrafos individuales
+            parrafos = contenido_div.find_all('p')
+            contenido_completo = ''
             
-            # Limpiar espacios múltiples
-            contenido_completo = ' '.join(line.strip() for line in contenido_completo.split('\n'))
+            for p in parrafos:
+                # Obtener el texto del párrafo y limpiar espacios extra
+                texto_parrafo = ' '.join(p.get_text().split())
+                contenido_completo += texto_parrafo + '\n\n'
+            
+            # Eliminar saltos de línea extra al final
+            contenido_completo = contenido_completo.rstrip()
             
             # Buscar el índice de "Título Original"
             indice_inicio = contenido_completo.find("Título Original")
