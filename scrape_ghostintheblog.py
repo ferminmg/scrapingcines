@@ -63,11 +63,26 @@ def obtener_posts():
 def extraer_info_post(post):
     logging.info("Comenzando extracción de información del post")
     try:
-        # Obtener información de la portada
+        # Obtener información básica primero
         titulo = post.find('h2').text.strip()
         fecha = post.find('time')['datetime']
-        url_original = post.find('h2').find('a')['href']
         
+        # Crear el nombre del archivo que tendría
+        partes = titulo.split(' de ')
+        if len(partes) == 2:
+            pelicula = partes[0].strip()
+        else:
+            pelicula = titulo
+            
+        nombre_archivo = f"posts/{pelicula.replace(' ', '_')}_{fecha[:10]}.json"
+        
+        # Verificar si ya existe
+        if os.path.exists(nombre_archivo):
+            logging.info(f"Post ya existente, saltando: {titulo}")
+            return None
+            
+        # Si no existe, continuar con el scraping
+        url_original = post.find('h2').find('a')['href']
         logging.info(f"Título del post: {titulo}")
         logging.info(f"Fecha del post: {fecha}")
         
@@ -92,12 +107,23 @@ def extraer_info_post(post):
         # Extraer solo el contenido
         contenido_div = soup.find('div', class_='entry-content')
         if contenido_div:
-            # Eliminar elementos que no queremos
-            for elemento in contenido_div.find_all(['script', 'style', 'iframe']):
-                elemento.decompose()
+            # Primero, reemplazar los <br> y </p> con marcadores temporales
+            for br in contenido_div.find_all('br'):
+                br.replace_with('||BR||')
+            for p in contenido_div.find_all('p'):
+                p.append('||P||')
             
-            # Obtener el texto limpio
-            contenido_completo = contenido_div.get_text(separator='\n', strip=True)
+            # Reemplazar los enlaces con su texto plano
+            for a in contenido_div.find_all('a'):
+                a.replace_with(a.get_text())
+            
+            # Obtener el texto y restaurar los saltos de línea
+            contenido_completo = contenido_div.get_text()
+            contenido_completo = contenido_completo.replace('||BR||', '\n')
+            contenido_completo = contenido_completo.replace('||P||', '\n\n')
+            
+            # Limpiar espacios múltiples
+            contenido_completo = ' '.join(line.strip() for line in contenido_completo.split('\n'))
             
             # Buscar el índice de "Título Original"
             indice_inicio = contenido_completo.find("Título Original")
