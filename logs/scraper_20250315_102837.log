@@ -1,0 +1,128 @@
+2025-03-15 10:28:37,906 - INFO - Iniciando proceso de scraping
+2025-03-15 10:28:37,907 - INFO - Posts existentes encontrados: 0
+2025-03-15 10:28:37,907 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-03-15 10:28:39,038 - INFO - Se encontraron 10 posts
+2025-03-15 10:28:39,038 - INFO - Comenzando extracción de información del post
+2025-03-15 10:28:39,039 - INFO - Título del post: TARDES DE SOLEDAD de Albert Serra
+2025-03-15 10:28:39,039 - INFO - Fecha del post: 2025-03-15T00:23:46+01:00
+2025-03-15 10:28:39,039 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/03/tardes-de-soledad-albert-serra-toreo-tauromaquia.html
+2025-03-15 10:28:40,251 - INFO - Contenido extraído y estructurado (4837 caracteres)
+2025-03-15 10:28:40,251 - INFO - Guardando post en: posts/TARDES_DE_SOLEDAD_2025-03-15.json
+2025-03-15 10:28:40,251 - INFO - Post guardado exitosamente
+2025-03-15 10:28:40,251 - INFO - Actualizando índice de películas
+2025-03-15 10:28:40,251 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-03-15 10:28:40,252 - INFO - Creando nuevo índice
+2025-03-15 10:28:40,252 - INFO - Película agregada al índice: TARDES DE SOLEDAD
+2025-03-15 10:28:40,252 - INFO - Nuevo post guardado: TARDES DE SOLEDAD de Albert Serra
+2025-03-15 10:28:40,252 - INFO - Comenzando extracción de información del post
+2025-03-15 10:28:40,252 - INFO - Título del post: MICKEY 17 de Bong Joon-ho
+2025-03-15 10:28:40,252 - INFO - Fecha del post: 2025-03-15T00:11:27+01:00
+2025-03-15 10:28:40,252 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/03/mickey-17-bong-joon-ho-prescindibles-y-critica-al-poder.html
+2025-03-15 10:28:41,572 - INFO - Contenido extraído y estructurado (2882 caracteres)
+2025-03-15 10:28:41,573 - INFO - Guardando post en: posts/MICKEY_17_2025-03-15.json
+2025-03-15 10:28:41,573 - INFO - Post guardado exitosamente
+2025-03-15 10:28:41,573 - INFO - Actualizando índice de películas
+2025-03-15 10:28:41,573 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-03-15 10:28:41,573 - INFO - Índice existente cargado con 1 películas
+2025-03-15 10:28:41,574 - INFO - Película agregada al índice: MICKEY 17
+2025-03-15 10:28:41,574 - INFO - Nuevo post guardado: MICKEY 17 de Bong Joon-ho
+2025-03-15 10:28:41,574 - INFO - Comenzando extracción de información del post
+2025-03-15 10:28:41,574 - INFO - Título del post: LEE MILLER de Ellen Kuras
+2025-03-15 10:28:41,574 - INFO - Fecha del post: 2025-03-14T23:52:25+01:00
+2025-03-15 10:28:41,574 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/03/lee-la-pelicula-de-ellen-kuras-un-retrato-frio-y-sin-alma.html
+2025-03-15 10:28:42,715 - INFO - Contenido extraído y estructurado (2635 caracteres)
+2025-03-15 10:28:42,716 - INFO - Guardando post en: posts/LEE_MILLER_2025-03-14.json
+2025-03-15 10:28:42,716 - INFO - Post guardado exitosamente
+2025-03-15 10:28:42,716 - INFO - Actualizando índice de películas
+2025-03-15 10:28:42,716 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-03-15 10:28:42,716 - INFO - Índice existente cargado con 2 películas
+2025-03-15 10:28:42,716 - INFO - Película agregada al índice: LEE MILLER
+2025-03-15 10:28:42,717 - INFO - Nuevo post guardado: LEE MILLER de Ellen Kuras
+2025-03-15 10:28:42,717 - INFO - Comenzando extracción de información del post
+2025-03-15 10:28:42,717 - INFO - Título del post: GRAND TOUR de Miguel Gomes
+2025-03-15 10:28:42,717 - INFO - Fecha del post: 2025-03-09T01:07:10+01:00
+2025-03-15 10:28:42,717 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/03/grand-tour-miguel-gomes-cine-viaje-sombras.html
+2025-03-15 10:28:43,959 - INFO - Contenido extraído y estructurado (4805 caracteres)
+2025-03-15 10:28:43,959 - INFO - Guardando post en: posts/GRAND_TOUR_2025-03-09.json
+2025-03-15 10:28:43,959 - INFO - Post guardado exitosamente
+2025-03-15 10:28:43,960 - INFO - Actualizando índice de películas
+2025-03-15 10:28:43,960 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-03-15 10:28:43,960 - INFO - Índice existente cargado con 3 películas
+2025-03-15 10:28:43,960 - INFO - Película agregada al índice: GRAND TOUR
+2025-03-15 10:28:43,960 - INFO - Nuevo post guardado: GRAND TOUR de Miguel Gomes
+2025-03-15 10:28:43,960 - INFO - Comenzando extracción de información del post
+2025-03-15 10:28:43,961 - INFO - Título del post: A COMPLETE UNKNOWN de James Mangold
+2025-03-15 10:28:43,961 - INFO - Fecha del post: 2025-03-09T00:51:50+01:00
+2025-03-15 10:28:43,961 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/03/a-complete-unknown-mangold-dylan-cine.html
+2025-03-15 10:28:45,238 - INFO - Contenido extraído y estructurado (2716 caracteres)
+2025-03-15 10:28:45,238 - INFO - Guardando post en: posts/A_COMPLETE_UNKNOWN_2025-03-09.json
+2025-03-15 10:28:45,239 - INFO - Post guardado exitosamente
+2025-03-15 10:28:45,239 - INFO - Actualizando índice de películas
+2025-03-15 10:28:45,239 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-03-15 10:28:45,239 - INFO - Índice existente cargado con 4 películas
+2025-03-15 10:28:45,239 - INFO - Película agregada al índice: A COMPLETE UNKNOWN
+2025-03-15 10:28:45,239 - INFO - Nuevo post guardado: A COMPLETE UNKNOWN de James Mangold
+2025-03-15 10:28:45,239 - INFO - Comenzando extracción de información del post
+2025-03-15 10:28:45,240 - INFO - Título del post: MI ÚNICA FAMILIA de Mike Leigh
+2025-03-15 10:28:45,240 - INFO - Fecha del post: 2025-03-09T00:29:20+01:00
+2025-03-15 10:28:45,240 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/03/mi-unica-familia-mike-leigh-realismo-depresion-narrativa-claustrofobica.html
+2025-03-15 10:28:46,398 - INFO - Contenido extraído y estructurado (2697 caracteres)
+2025-03-15 10:28:46,399 - INFO - Guardando post en: posts/MI_ÚNICA_FAMILIA_2025-03-09.json
+2025-03-15 10:28:46,399 - INFO - Post guardado exitosamente
+2025-03-15 10:28:46,399 - INFO - Actualizando índice de películas
+2025-03-15 10:28:46,399 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-03-15 10:28:46,399 - INFO - Índice existente cargado con 5 películas
+2025-03-15 10:28:46,399 - INFO - Película agregada al índice: MI ÚNICA FAMILIA
+2025-03-15 10:28:46,400 - INFO - Nuevo post guardado: MI ÚNICA FAMILIA de Mike Leigh
+2025-03-15 10:28:46,400 - INFO - Comenzando extracción de información del post
+2025-03-15 10:28:46,400 - INFO - Título del post: LOS OSCAR 2025
+2025-03-15 10:28:46,400 - INFO - Fecha del post: 2025-03-04T09:39:04+01:00
+2025-03-15 10:28:46,400 - WARNING - No se pudo extraer director del título: LOS OSCAR 2025
+2025-03-15 10:28:46,400 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/03/ganadores-oscar-2025-critica.html
+2025-03-15 10:28:47,701 - WARNING - No se encontró 'Título Original' en el contenido
+2025-03-15 10:28:47,701 - INFO - Usando contenido completo como respaldo
+2025-03-15 10:28:47,702 - INFO - Guardando post en: posts/LOS_OSCAR_2025_2025-03-04.json
+2025-03-15 10:28:47,702 - INFO - Post guardado exitosamente
+2025-03-15 10:28:47,702 - INFO - Actualizando índice de películas
+2025-03-15 10:28:47,702 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-03-15 10:28:47,702 - INFO - Índice existente cargado con 6 películas
+2025-03-15 10:28:47,703 - INFO - Película agregada al índice: LOS OSCAR 2025
+2025-03-15 10:28:47,703 - INFO - Nuevo post guardado: LOS OSCAR 2025
+2025-03-15 10:28:47,703 - INFO - Comenzando extracción de información del post
+2025-03-15 10:28:47,703 - INFO - Título del post: NOSOTROS de Helena Taberna
+2025-03-15 10:28:47,703 - INFO - Fecha del post: 2025-03-02T00:02:52+01:00
+2025-03-15 10:28:47,703 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/03/nosotros-de-helena-taberna.html
+2025-03-15 10:28:49,209 - INFO - Contenido extraído y estructurado (4808 caracteres)
+2025-03-15 10:28:49,210 - INFO - Guardando post en: posts/NOSOTROS_2025-03-02.json
+2025-03-15 10:28:49,210 - INFO - Post guardado exitosamente
+2025-03-15 10:28:49,210 - INFO - Actualizando índice de películas
+2025-03-15 10:28:49,210 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-03-15 10:28:49,210 - INFO - Índice existente cargado con 7 películas
+2025-03-15 10:28:49,211 - INFO - Película agregada al índice: NOSOTROS
+2025-03-15 10:28:49,211 - INFO - Nuevo post guardado: NOSOTROS de Helena Taberna
+2025-03-15 10:28:49,211 - INFO - Comenzando extracción de información del post
+2025-03-15 10:28:49,211 - INFO - Título del post: AÚN ESTOY AQUÍ
+2025-03-15 10:28:49,211 - INFO - Fecha del post: 2025-03-01T11:13:30+01:00
+2025-03-15 10:28:49,211 - WARNING - No se pudo extraer director del título: AÚN ESTOY AQUÍ
+2025-03-15 10:28:49,211 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/03/ainda-estou-aqui-walter-salles-2024.html
+2025-03-15 10:28:50,330 - INFO - Contenido extraído y estructurado (2687 caracteres)
+2025-03-15 10:28:50,331 - INFO - Guardando post en: posts/AÚN_ESTOY_AQUÍ_2025-03-01.json
+2025-03-15 10:28:50,331 - INFO - Post guardado exitosamente
+2025-03-15 10:28:50,331 - INFO - Actualizando índice de películas
+2025-03-15 10:28:50,331 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-03-15 10:28:50,331 - INFO - Índice existente cargado con 8 películas
+2025-03-15 10:28:50,332 - INFO - Película agregada al índice: AÚN ESTOY AQUÍ
+2025-03-15 10:28:50,332 - INFO - Nuevo post guardado: AÚN ESTOY AQUÍ
+2025-03-15 10:28:50,332 - INFO - Comenzando extracción de información del post
+2025-03-15 10:28:50,332 - INFO - Título del post: LA ÚLTIMA REINA de Karim Aïnouz
+2025-03-15 10:28:50,332 - INFO - Fecha del post: 2025-03-01T11:05:31+01:00
+2025-03-15 10:28:50,332 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/03/firebrand-catalina-parr-karim-ainouz.html
+2025-03-15 10:28:51,534 - INFO - Contenido extraído y estructurado (2737 caracteres)
+2025-03-15 10:28:51,534 - INFO - Guardando post en: posts/LA_ÚLTIMA_REINA_2025-03-01.json
+2025-03-15 10:28:51,534 - INFO - Post guardado exitosamente
+2025-03-15 10:28:51,534 - INFO - Actualizando índice de películas
+2025-03-15 10:28:51,534 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-03-15 10:28:51,535 - INFO - Índice existente cargado con 9 películas
+2025-03-15 10:28:51,535 - INFO - Película agregada al índice: LA ÚLTIMA REINA
+2025-03-15 10:28:51,535 - INFO - Nuevo post guardado: LA ÚLTIMA REINA de Karim Aïnouz
+2025-03-15 10:28:51,535 - INFO - Proceso completado. Posts nuevos guardados: 10
