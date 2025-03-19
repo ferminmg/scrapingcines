@@ -6,7 +6,7 @@
             {
                 "fecha": "2025-03-19",
                 "hora": "19:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=92202&eventCode=95519"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -40,7 +40,7 @@
             {
                 "fecha": "2025-03-19",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=92205&eventCode=94101"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -340,6 +340,40 @@
         "año": null
     },
     {
+        "título": "The Alto Knights",
+        "cartel": "imagenes_peliculas/tmdb_the_alto_knights.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-27",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=92374&eventCode=95574"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Barry Levinson",
+        "duración": "123 min",
+        "actores": "Robert De Niro, Debra Messing, Cosmo Jarvis, Kathrine Narducci, Michael Rispoli",
+        "sinopsis": "Vito Genovese y Frank Costello, un par de italoamericanos que dirigen dos familias criminales separadas a mediados del siglo XX. Genovese intentó asesinar a Costello en 1957, aunque Costello se retiró de la mafia.",
+        "año": "2025"
+    },
+    {
+        "título": "Mickey 17",
+        "cartel": "imagenes_peliculas/tmdb_mickey_17.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-27",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=92380&eventCode=94566"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Bong Joon-ho",
+        "duración": "137 min",
+        "actores": "Robert Pattinson, Naomi Ackie, Steven Yeun, Mark Ruffalo, Toni Collette",
+        "sinopsis": "Mickey 17, un miembro de la tripulación 'expendable' (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey 18, tome su lugar... Adaptación del libro original de Edward Ashton.",
+        "año": "2025"
+    },
+    {
         "título": "Morlaix",
         "cartel": "imagenes_peliculas/tmdb_morlaix.jpg",
         "horarios": [
@@ -368,7 +402,7 @@
             {
                 "fecha": "2025-03-19",
                 "hora": "19:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84153&eventCode=96585"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -399,5 +433,311 @@
         "actores": "Aminthe Audiard, Samuel Kircher, Mélanie Thierry, Àlex Brendemühl, Jeanne Trinité",
         "sinopsis": "En la ciudad francesa de Morlaix, Gwen, una adolescente en su último año de instituto cuya madre acaba de morir, conoce a Jean-Luc, un parisino sofisticado, culto y magnético. Intrigada por su personalidad poética, Gwen no puede evitar sentirse atraída por él. En un momento de intimidad, Jean-Luc le cuenta que su hermano murió repentinamente hace unos años.",
         "año": "2025"
+    },
+    {
+        "título": "La chica de la aguja",
+        "cartel": "imagenes_peliculas/tmdb_la_chica_de_la_aguja.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-21",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84196&eventCode=96518"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Magnus von Horn",
+        "duración": "123 min",
+        "actores": "Vic Carmen Sonne, Trine Dyrholm, Besir Zeciri, Joachim Fjelstrup, Tessa Hoder",
+        "sinopsis": "Una joven embarazada que acaba de quedarse sin trabajo en Copenhague lucha por sobrevivir y es acogida por un anciano carismático para que la ayude a dirigir una agencia de adopción clandestina. Entre los dos se crea un vínculo inesperado, hasta que un descubrimiento repentino lo cambia todo.",
+        "año": "2024"
+    },
+    {
+        "título": "Misericordia",
+        "cartel": "imagenes_peliculas/tmdb_misericordia.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-21",
+                "hora": "20:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84199&eventCode=96704"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fernando de Miguel",
+        "duración": "11 min",
+        "actores": "Marti Gómez Pérez \"Sonny Boy\", Julián Díaz Fernández",
+        "sinopsis": "Un hombre llega a su casa enajenado y encuentra bajo su cama una caja que no reconoce, con un contenido que no soporta.",
+        "año": "2025"
+    },
+    {
+        "título": "Anora",
+        "cartel": "imagenes_peliculas/tmdb_anora.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-21",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84208&eventCode=92914"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Sean Baker",
+        "duración": "138 min",
+        "actores": "Mikey Madison, Марк Эйдельштейн, Юра Борисов, Karren Karagulian, Vache Tovmasyan",
+        "sinopsis": "Anora, una joven prostituta de Brooklyn, tiene la oportunidad de vivir una historia de Cenicienta cuando conoce e impulsivamente se casa con el hijo de un oligarca. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado, ya que los padres parten hacia Nueva York para intentar conseguir la anulación del matrimonio.",
+        "año": "2024"
+    },
+    {
+        "título": "La chica de la aguja",
+        "cartel": "imagenes_peliculas/tmdb_la_chica_de_la_aguja.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-22",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84211&eventCode=96518"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Magnus von Horn",
+        "duración": "123 min",
+        "actores": "Vic Carmen Sonne, Trine Dyrholm, Besir Zeciri, Joachim Fjelstrup, Tessa Hoder",
+        "sinopsis": "Una joven embarazada que acaba de quedarse sin trabajo en Copenhague lucha por sobrevivir y es acogida por un anciano carismático para que la ayude a dirigir una agencia de adopción clandestina. Entre los dos se crea un vínculo inesperado, hasta que un descubrimiento repentino lo cambia todo.",
+        "año": "2024"
+    },
+    {
+        "título": "Misericordia",
+        "cartel": "imagenes_peliculas/tmdb_misericordia.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-22",
+                "hora": "20:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84214&eventCode=96704"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fernando de Miguel",
+        "duración": "11 min",
+        "actores": "Marti Gómez Pérez \"Sonny Boy\", Julián Díaz Fernández",
+        "sinopsis": "Un hombre llega a su casa enajenado y encuentra bajo su cama una caja que no reconoce, con un contenido que no soporta.",
+        "año": "2025"
+    },
+    {
+        "título": "Anora",
+        "cartel": "imagenes_peliculas/tmdb_anora.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-22",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84224&eventCode=92914"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Sean Baker",
+        "duración": "138 min",
+        "actores": "Mikey Madison, Марк Эйдельштейн, Юра Борисов, Karren Karagulian, Vache Tovmasyan",
+        "sinopsis": "Anora, una joven prostituta de Brooklyn, tiene la oportunidad de vivir una historia de Cenicienta cuando conoce e impulsivamente se casa con el hijo de un oligarca. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado, ya que los padres parten hacia Nueva York para intentar conseguir la anulación del matrimonio.",
+        "año": "2024"
+    },
+    {
+        "título": "La chica de la aguja",
+        "cartel": "imagenes_peliculas/tmdb_la_chica_de_la_aguja.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-23",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84260&eventCode=96518"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Magnus von Horn",
+        "duración": "123 min",
+        "actores": "Vic Carmen Sonne, Trine Dyrholm, Besir Zeciri, Joachim Fjelstrup, Tessa Hoder",
+        "sinopsis": "Una joven embarazada que acaba de quedarse sin trabajo en Copenhague lucha por sobrevivir y es acogida por un anciano carismático para que la ayude a dirigir una agencia de adopción clandestina. Entre los dos se crea un vínculo inesperado, hasta que un descubrimiento repentino lo cambia todo.",
+        "año": "2024"
+    },
+    {
+        "título": "Misericordia",
+        "cartel": "imagenes_peliculas/tmdb_misericordia.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-23",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84259&eventCode=96704"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fernando de Miguel",
+        "duración": "11 min",
+        "actores": "Marti Gómez Pérez \"Sonny Boy\", Julián Díaz Fernández",
+        "sinopsis": "Un hombre llega a su casa enajenado y encuentra bajo su cama una caja que no reconoce, con un contenido que no soporta.",
+        "año": "2025"
+    },
+    {
+        "título": "Anora",
+        "cartel": "imagenes_peliculas/tmdb_anora.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-23",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84269&eventCode=92914"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Sean Baker",
+        "duración": "138 min",
+        "actores": "Mikey Madison, Марк Эйдельштейн, Юра Борисов, Karren Karagulian, Vache Tovmasyan",
+        "sinopsis": "Anora, una joven prostituta de Brooklyn, tiene la oportunidad de vivir una historia de Cenicienta cuando conoce e impulsivamente se casa con el hijo de un oligarca. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado, ya que los padres parten hacia Nueva York para intentar conseguir la anulación del matrimonio.",
+        "año": "2024"
+    },
+    {
+        "título": "La chica de la aguja",
+        "cartel": "imagenes_peliculas/tmdb_la_chica_de_la_aguja.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-24",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84272&eventCode=96518"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Magnus von Horn",
+        "duración": "123 min",
+        "actores": "Vic Carmen Sonne, Trine Dyrholm, Besir Zeciri, Joachim Fjelstrup, Tessa Hoder",
+        "sinopsis": "Una joven embarazada que acaba de quedarse sin trabajo en Copenhague lucha por sobrevivir y es acogida por un anciano carismático para que la ayude a dirigir una agencia de adopción clandestina. Entre los dos se crea un vínculo inesperado, hasta que un descubrimiento repentino lo cambia todo.",
+        "año": "2024"
+    },
+    {
+        "título": "Misericordia",
+        "cartel": "imagenes_peliculas/tmdb_misericordia.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-24",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84275&eventCode=96704"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fernando de Miguel",
+        "duración": "11 min",
+        "actores": "Marti Gómez Pérez \"Sonny Boy\", Julián Díaz Fernández",
+        "sinopsis": "Un hombre llega a su casa enajenado y encuentra bajo su cama una caja que no reconoce, con un contenido que no soporta.",
+        "año": "2025"
+    },
+    {
+        "título": "Anora",
+        "cartel": "imagenes_peliculas/tmdb_anora.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-24",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84283&eventCode=92914"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Sean Baker",
+        "duración": "138 min",
+        "actores": "Mikey Madison, Марк Эйдельштейн, Юра Борисов, Karren Karagulian, Vache Tovmasyan",
+        "sinopsis": "Anora, una joven prostituta de Brooklyn, tiene la oportunidad de vivir una historia de Cenicienta cuando conoce e impulsivamente se casa con el hijo de un oligarca. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado, ya que los padres parten hacia Nueva York para intentar conseguir la anulación del matrimonio.",
+        "año": "2024"
+    },
+    {
+        "título": "La chica de la aguja",
+        "cartel": "imagenes_peliculas/tmdb_la_chica_de_la_aguja.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-25",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84230&eventCode=96518"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Magnus von Horn",
+        "duración": "123 min",
+        "actores": "Vic Carmen Sonne, Trine Dyrholm, Besir Zeciri, Joachim Fjelstrup, Tessa Hoder",
+        "sinopsis": "Una joven embarazada que acaba de quedarse sin trabajo en Copenhague lucha por sobrevivir y es acogida por un anciano carismático para que la ayude a dirigir una agencia de adopción clandestina. Entre los dos se crea un vínculo inesperado, hasta que un descubrimiento repentino lo cambia todo.",
+        "año": "2024"
+    },
+    {
+        "título": "Misericordia",
+        "cartel": "imagenes_peliculas/tmdb_misericordia.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-25",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84229&eventCode=96704"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fernando de Miguel",
+        "duración": "11 min",
+        "actores": "Marti Gómez Pérez \"Sonny Boy\", Julián Díaz Fernández",
+        "sinopsis": "Un hombre llega a su casa enajenado y encuentra bajo su cama una caja que no reconoce, con un contenido que no soporta.",
+        "año": "2025"
+    },
+    {
+        "título": "Anora",
+        "cartel": "imagenes_peliculas/tmdb_anora.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-25",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84239&eventCode=92914"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Sean Baker",
+        "duración": "138 min",
+        "actores": "Mikey Madison, Марк Эйдельштейн, Юра Борисов, Karren Karagulian, Vache Tovmasyan",
+        "sinopsis": "Anora, una joven prostituta de Brooklyn, tiene la oportunidad de vivir una historia de Cenicienta cuando conoce e impulsivamente se casa con el hijo de un oligarca. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado, ya que los padres parten hacia Nueva York para intentar conseguir la anulación del matrimonio.",
+        "año": "2024"
+    },
+    {
+        "título": "La chica de la aguja",
+        "cartel": "imagenes_peliculas/tmdb_la_chica_de_la_aguja.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-26",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84245&eventCode=96518"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Magnus von Horn",
+        "duración": "123 min",
+        "actores": "Vic Carmen Sonne, Trine Dyrholm, Besir Zeciri, Joachim Fjelstrup, Tessa Hoder",
+        "sinopsis": "Una joven embarazada que acaba de quedarse sin trabajo en Copenhague lucha por sobrevivir y es acogida por un anciano carismático para que la ayude a dirigir una agencia de adopción clandestina. Entre los dos se crea un vínculo inesperado, hasta que un descubrimiento repentino lo cambia todo.",
+        "año": "2024"
+    },
+    {
+        "título": "Misericordia",
+        "cartel": "imagenes_peliculas/tmdb_misericordia.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-26",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84244&eventCode=96704"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fernando de Miguel",
+        "duración": "11 min",
+        "actores": "Marti Gómez Pérez \"Sonny Boy\", Julián Díaz Fernández",
+        "sinopsis": "Un hombre llega a su casa enajenado y encuentra bajo su cama una caja que no reconoce, con un contenido que no soporta.",
+        "año": "2025"
+    },
+    {
+        "título": "Anora",
+        "cartel": "imagenes_peliculas/tmdb_anora.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-26",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84254&eventCode=92914"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Sean Baker",
+        "duración": "138 min",
+        "actores": "Mikey Madison, Марк Эйдельштейн, Юра Борисов, Karren Karagulian, Vache Tovmasyan",
+        "sinopsis": "Anora, una joven prostituta de Brooklyn, tiene la oportunidad de vivir una historia de Cenicienta cuando conoce e impulsivamente se casa con el hijo de un oligarca. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado, ya que los padres parten hacia Nueva York para intentar conseguir la anulación del matrimonio.",
+        "año": "2024"
     }
 ]
