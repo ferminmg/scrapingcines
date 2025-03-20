@@ -76,11 +76,9 @@ class TMDbAPI:
     def get_movie_info(self, title: str) -> dict:
         logger.info(f"Searching TMDb for title: {title}")
 
-        # Realizar una búsqueda con el título original
         search_results = self._make_request("search/movie", params={"query": title, "language": "es"})
 
         if not search_results or not search_results.get("results"):
-            # Si no hay resultados, intentar en inglés
             logger.warning(f"No results found for '{title}' in Spanish. Trying English search...")
             search_results = self._make_request("search/movie", params={"query": title, "language": "en"})
 
@@ -88,43 +86,39 @@ class TMDbAPI:
             logger.warning(f"No results found for: {title} in any language.")
             return {}
 
-        # Ordenar por fecha de lanzamiento (más reciente primero)
         results = sorted(search_results["results"], key=lambda x: x.get("release_date", "1900-01-01"), reverse=True)
-
-        # Buscar el mejor match por similitud
-        best_match = None
-        highest_similarity = 0
 
         for result in results:
             similarity = self._title_similarity(title, result.get("title", ""))
-            if similarity > highest_similarity:
-                highest_similarity = similarity
-                best_match = result
+            if similarity > 0.6:
+                movie_id = result["id"]
+                logger.info(f"Checking match: {result.get('title')} (ID: {movie_id}, Similarity: {similarity})")
 
-        if best_match and highest_similarity > 0.6:
-            movie_id = best_match["id"]
-            logger.info(f"Found match: {best_match.get('title')} (ID: {movie_id}, Similarity: {highest_similarity})")
+                details = self._make_request(f"movie/{movie_id}", params={"language": "es"})
+                if not details:
+                    details = self._make_request(f"movie/{movie_id}", params={"language": "en"})
 
-            # Obtener detalles adicionales
-            details = self._make_request(f"movie/{movie_id}", params={"language": "es"})
-            if not details:
-                details = self._make_request(f"movie/{movie_id}", params={"language": "en"})
+                credits = self._make_request(f"movie/{movie_id}/credits", params={"language": "es"})
+                if not credits:
+                    credits = self._make_request(f"movie/{movie_id}/credits", params={"language": "en"})
 
-            credits = self._make_request(f"movie/{movie_id}/credits", params={"language": "es"})
-            if not credits:
-                credits = self._make_request(f"movie/{movie_id}/credits", params={"language": "en"})
+                if not details or not credits:
+                    continue
 
-            if not details or not credits:
-                return {}
+                runtime = details.get('runtime')
+                if runtime and runtime < 40:
+                    logger.warning(f"Movie {title} with id: {movie_id} discarded because its a short film, duration of: {runtime} minutes")
+                    continue
 
-            return {
-                "director": ", ".join(c["name"] for c in credits.get("crew", []) if c["job"] == "Director"),
-                "duración": f"{details.get('runtime', 'Desconocido')} min",
-                "actores": ", ".join(a["name"] for a in credits.get("cast", [])[:5]),
-                "sinopsis": details.get("overview"),
-                "año": details.get("release_date", "")[:4],
-                "poster_path": details.get("poster_path")
-            }
+                logger.info(f"Found good match: {result.get('title')} (ID: {movie_id}, Similarity: {similarity})")
+                return {
+                    "director": ", ".join(c["name"] for c in credits.get("crew", []) if c["job"] == "Director"),
+                    "duración": f"{details.get('runtime', 'Desconocido')} min",
+                    "actores": ", ".join(a["name"] for a in credits.get("cast", [])[:5]),
+                    "sinopsis": details.get("overview"),
+                    "año": details.get("release_date", "")[:4],
+                    "poster_path": details.get("poster_path")
+                }
 
         logger.warning(f"No good match found for: {title}")
         return {}
