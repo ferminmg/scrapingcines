@@ -1,0 +1,55 @@
+2025-03-21 20:05:22,767 - INFO - Iniciando proceso de scraping
+2025-03-21 20:05:22,768 - INFO - Posts existentes encontrados: 10
+2025-03-21 20:05:22,768 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-03-21 20:05:24,143 - INFO - Se encontraron 10 posts
+2025-03-21 20:05:24,144 - INFO - Comenzando extracción de información del post
+2025-03-21 20:05:24,144 - INFO - Título del post: MISERICORDIA de Alain Guiraudie
+2025-03-21 20:05:24,144 - INFO - Fecha del post: 2025-03-21T19:30:00+01:00
+2025-03-21 20:05:24,144 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/03/critica-misericordia-2024-alain-guiraudie.html
+2025-03-21 20:05:25,371 - INFO - Contenido extraído y estructurado (4710 caracteres)
+2025-03-21 20:05:25,371 - INFO - Guardando post en: posts/MISERICORDIA_2025-03-21.json
+2025-03-21 20:05:25,372 - INFO - Post guardado exitosamente
+2025-03-21 20:05:25,372 - INFO - Actualizando índice de películas
+2025-03-21 20:05:25,372 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-03-21 20:05:25,372 - INFO - Índice existente cargado con 10 películas
+2025-03-21 20:05:25,372 - INFO - Película agregada al índice: MISERICORDIA
+2025-03-21 20:05:25,373 - INFO - Nuevo post guardado: MISERICORDIA de Alain Guiraudie
+2025-03-21 20:05:25,373 - INFO - Comenzando extracción de información del post
+2025-03-21 20:05:25,373 - INFO - Título del post: LOS AITAS de Borja Cobeaga
+2025-03-21 20:05:25,373 - INFO - Fecha del post: 2025-03-21T19:10:00+01:00
+2025-03-21 20:05:25,373 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/03/critica-los-aitas-2025-borja-cobeaga.html
+2025-03-21 20:05:26,719 - INFO - Contenido extraído y estructurado (2560 caracteres)
+2025-03-21 20:05:26,719 - INFO - Guardando post en: posts/LOS_AITAS_2025-03-21.json
+2025-03-21 20:05:26,719 - INFO - Post guardado exitosamente
+2025-03-21 20:05:26,719 - INFO - Actualizando índice de películas
+2025-03-21 20:05:26,719 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-03-21 20:05:26,720 - INFO - Índice existente cargado con 11 películas
+2025-03-21 20:05:26,720 - INFO - Película agregada al índice: LOS AITAS
+2025-03-21 20:05:26,720 - INFO - Nuevo post guardado: LOS AITAS de Borja Cobeaga
+2025-03-21 20:05:26,720 - INFO - Comenzando extracción de información del post
+2025-03-21 20:05:26,720 - INFO - Título del post: MORLAIX de Jaime Rosales
+2025-03-21 20:05:26,720 - INFO - Fecha del post: 2025-03-21T19:00:00+01:00
+2025-03-21 20:05:26,720 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/03/morlaix-de-jaime-rosales-2025.html
+2025-03-21 20:05:27,926 - INFO - Contenido extraído y estructurado (2662 caracteres)
+2025-03-21 20:05:27,927 - INFO - Guardando post en: posts/MORLAIX_2025-03-21.json
+2025-03-21 20:05:27,927 - INFO - Post guardado exitosamente
+2025-03-21 20:05:27,927 - INFO - Actualizando índice de películas
+2025-03-21 20:05:27,927 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-03-21 20:05:27,927 - INFO - Índice existente cargado con 12 películas
+2025-03-21 20:05:27,927 - INFO - Película agregada al índice: MORLAIX
+2025-03-21 20:05:27,927 - INFO - Nuevo post guardado: MORLAIX de Jaime Rosales
+2025-03-21 20:05:27,928 - INFO - Comenzando extracción de información del post
+2025-03-21 20:05:27,928 - INFO - Post ya existente, saltando: TARDES DE SOLEDAD de Albert Serra
+2025-03-21 20:05:27,928 - INFO - Comenzando extracción de información del post
+2025-03-21 20:05:27,928 - INFO - Post ya existente, saltando: MICKEY 17 de Bong Joon-ho
+2025-03-21 20:05:27,928 - INFO - Comenzando extracción de información del post
+2025-03-21 20:05:27,928 - INFO - Post ya existente, saltando: LEE MILLER de Ellen Kuras
+2025-03-21 20:05:27,928 - INFO - Comenzando extracción de información del post
+2025-03-21 20:05:27,928 - INFO - Post ya existente, saltando: GRAND TOUR de Miguel Gomes
+2025-03-21 20:05:27,929 - INFO - Comenzando extracción de información del post
+2025-03-21 20:05:27,929 - INFO - Post ya existente, saltando: A COMPLETE UNKNOWN de James Mangold
+2025-03-21 20:05:27,929 - INFO - Comenzando extracción de información del post
+2025-03-21 20:05:27,929 - INFO - Post ya existente, saltando: MI ÚNICA FAMILIA de Mike Leigh
+2025-03-21 20:05:27,929 - INFO - Comenzando extracción de información del post
+2025-03-21 20:05:27,929 - INFO - Post ya existente, saltando: LOS OSCAR 2025
+2025-03-21 20:05:27,929 - INFO - Proceso completado. Posts nuevos guardados: 3
