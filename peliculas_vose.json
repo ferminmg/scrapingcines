@@ -176,7 +176,7 @@
             {
                 "fecha": "2025-03-24",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84275&eventCode=96704"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -296,6 +296,57 @@
                 "fecha": "2025-03-26",
                 "hora": "21:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84254&eventCode=92914"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Sean Baker",
+        "duración": "138 min",
+        "actores": "Mikey Madison, Марк Эйдельштейн, Юра Борисов, Karren Karagulian, Vache Tovmasyan",
+        "sinopsis": "Anora, una joven prostituta de Brooklyn, tiene la oportunidad de vivir una historia de Cenicienta cuando conoce e impulsivamente se casa con el hijo de un oligarca. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado, ya que los padres parten hacia Nueva York para intentar conseguir la anulación del matrimonio.",
+        "año": "2024"
+    },
+    {
+        "título": "La chica de la aguja",
+        "cartel": "imagenes_peliculas/tmdb_la_chica_de_la_aguja.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-27",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84287&eventCode=96518"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Magnus von Horn",
+        "duración": "123 min",
+        "actores": "Vic Carmen Sonne, Trine Dyrholm, Besir Zeciri, Joachim Fjelstrup, Tessa Hoder",
+        "sinopsis": "Una joven embarazada que acaba de quedarse sin trabajo en Copenhague lucha por sobrevivir y es acogida por un anciano carismático para que la ayude a dirigir una agencia de adopción clandestina. Entre los dos se crea un vínculo inesperado, hasta que un descubrimiento repentino lo cambia todo.",
+        "año": "2024"
+    },
+    {
+        "título": "Misericordia",
+        "cartel": "imagenes_peliculas/tmdb_misericordia.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-27",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84290&eventCode=96704"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Alain Guiraudie",
+        "duración": "102 min",
+        "actores": "Félix Kysyl, Catherine Frot, Jean-Baptiste Durand, Jacques Develay, David Ayala",
+        "sinopsis": "",
+        "año": "2024"
+    },
+    {
+        "título": "Anora",
+        "cartel": "imagenes_peliculas/tmdb_anora.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-03-27",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84296&eventCode=92914"
             }
         ],
         "cine": "Golem Yamaguchi",
