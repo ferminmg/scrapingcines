@@ -4,21 +4,6 @@
         "cartel": "imagenes_filmaffinity/tmdb_blancanieves.jpg",
         "horarios": [
             {
-                "fecha": "2025-03-21",
-                "hora": "20:45",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=14814"
-            },
-            {
-                "fecha": "2025-03-22",
-                "hora": "20:45",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=14813"
-            },
-            {
-                "fecha": "2025-03-23",
-                "hora": "20:45",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=14812"
-            },
-            {
                 "fecha": "2025-03-25",
                 "hora": "20:25",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=14789"
@@ -26,9 +11,9 @@
         ],
         "cine": "Yelmo Itaroa",
         "director": "Marc Webb",
-        "duración": "109 min",
+        "duración": "99 min",
         "actores": "Rachel Zegler, Gal Gadot, Andrew Burnap, Jeremy Swift, Jason Kravits",
-        "sinopsis": "Remake a live action del clásico animado de Disney de 1937.",
+        "sinopsis": "Una adaptación en vivo del clásico cuento de hadas sobre una hermosa joven princesa que, mientras es acosada por una reina celosa, busca refugio en la casa de siete enanos en la campiña alemana.",
         "año": "2025"
     },
     {
@@ -64,6 +49,23 @@
         "actores": "Jason Statham, David Harbour, Michael Peña, Jason Flemyng, Arianna Rivas",
         "sinopsis": "Levon Cade dejó atrás una condecorada carrera militar en las operaciones encubiertas para vivir una vida sencilla trabajando en la construcción. Pero cuando la hija de su jefe, que para él es como de la familia, es secuestrada por traficantes de personas, su búsqueda para traerla a casa descubre un mundo de corrupción mucho mayor de lo que jamás podría haber imaginado.",
         "año": "2025"
+    },
+    {
+        "título": "Por todo lo alto",
+        "cartel": "imagenes_filmaffinity/tmdb_por-todo-lo-alto.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-04-01",
+                "hora": "19:40",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=15189"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Emmanuel Courcol",
+        "duración": "103 min",
+        "actores": "Benjamin Lavernhe, Pierre Lottin, Sarah Suco, Clémence Massart-Weit, Ludmila Mikaël",
+        "sinopsis": "",
+        "año": "2024"
     },
     {
         "título": "André Rieu: El sueño continúa",
