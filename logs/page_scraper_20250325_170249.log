@@ -1,0 +1,778 @@
+2025-03-25 17:02:49,067 - INFO - Iniciando scraping de páginas del blog
+2025-03-25 17:02:49,068 - INFO - Scrapeando página 2: https://ghostintheblog.com/page/2
+2025-03-25 17:02:49,068 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/page/2
+2025-03-25 17:02:50,080 - INFO - Se encontraron 10 posts en la página
+2025-03-25 17:02:50,081 - INFO - Título del post: NOSOTROS de Helena Taberna
+2025-03-25 17:02:50,081 - INFO - Fecha del post: 2025-03-02T00:02:52+01:00
+2025-03-25 17:02:50,082 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/03/nosotros-de-helena-taberna.html
+2025-03-25 17:02:51,127 - INFO - Contenido extraído y estructurado (4766 caracteres)
+2025-03-25 17:02:51,128 - INFO - Guardando post en: posts/NOSOTROS_2025-03-02.json
+2025-03-25 17:02:51,129 - INFO - Post guardado exitosamente
+2025-03-25 17:02:51,129 - INFO - Actualizando índice de películas
+2025-03-25 17:02:51,129 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:02:51,130 - INFO - Índice existente cargado con 13 películas
+2025-03-25 17:02:51,130 - INFO - La película ya existe en el índice: NOSOTROS
+2025-03-25 17:02:51,130 - INFO - Título del post: AÚN ESTOY AQUÍ
+2025-03-25 17:02:51,130 - INFO - Fecha del post: 2025-03-01T11:13:30+01:00
+2025-03-25 17:02:51,131 - WARNING - No se pudo extraer director del título: AÚN ESTOY AQUÍ
+2025-03-25 17:02:51,131 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/03/ainda-estou-aqui-walter-salles-2024.html
+2025-03-25 17:02:52,085 - INFO - Contenido extraído y estructurado (2658 caracteres)
+2025-03-25 17:02:52,086 - INFO - Guardando post en: posts/AÚN_ESTOY_AQUÍ_2025-03-01.json
+2025-03-25 17:02:52,087 - INFO - Post guardado exitosamente
+2025-03-25 17:02:52,087 - INFO - Actualizando índice de películas
+2025-03-25 17:02:52,087 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:02:52,088 - INFO - Índice existente cargado con 13 películas
+2025-03-25 17:02:52,089 - INFO - La película ya existe en el índice: AÚN ESTOY AQUÍ
+2025-03-25 17:02:52,089 - INFO - Título del post: LA ÚLTIMA REINA de Karim Aïnouz
+2025-03-25 17:02:52,089 - INFO - Fecha del post: 2025-03-01T11:05:31+01:00
+2025-03-25 17:02:52,090 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/03/firebrand-catalina-parr-karim-ainouz.html
+2025-03-25 17:02:53,075 - INFO - Contenido extraído y estructurado (2698 caracteres)
+2025-03-25 17:02:53,076 - INFO - Guardando post en: posts/LA_ÚLTIMA_REINA_2025-03-01.json
+2025-03-25 17:02:53,077 - INFO - Post guardado exitosamente
+2025-03-25 17:02:53,077 - INFO - Actualizando índice de películas
+2025-03-25 17:02:53,077 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:02:53,078 - INFO - Índice existente cargado con 13 películas
+2025-03-25 17:02:53,078 - INFO - La película ya existe en el índice: LA ÚLTIMA REINA
+2025-03-25 17:02:53,078 - INFO - Título del post: LIMÓNOV de Kirill Serebrennikov
+2025-03-25 17:02:53,079 - INFO - Fecha del post: 2025-02-22T11:21:31+01:00
+2025-03-25 17:02:53,079 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/02/limonov-the-ballad-critica-de-kirill-serebrennikov.html
+2025-03-25 17:02:54,100 - INFO - Contenido extraído y estructurado (4563 caracteres)
+2025-03-25 17:02:54,101 - INFO - Guardando post en: posts/LIMÓNOV_2025-02-22.json
+2025-03-25 17:02:54,103 - INFO - Post guardado exitosamente
+2025-03-25 17:02:54,103 - INFO - Actualizando índice de películas
+2025-03-25 17:02:54,104 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:02:54,104 - INFO - Índice existente cargado con 13 películas
+2025-03-25 17:02:54,104 - INFO - Película agregada al índice: LIMÓNOV
+2025-03-25 17:02:54,105 - INFO - Título del post: BRIDGET JONES: LOCA POR ÉL de Michael Morris
+2025-03-25 17:02:54,105 - INFO - Fecha del post: 2025-02-22T11:09:10+01:00
+2025-03-25 17:02:54,105 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/02/bridget-jones-mad-about-the-boy-critica.html
+2025-03-25 17:02:55,137 - INFO - Contenido extraído y estructurado (2772 caracteres)
+2025-03-25 17:02:55,139 - INFO - Guardando post en: posts/BRIDGET_JONES:_LOCA_POR_ÉL_2025-02-22.json
+2025-03-25 17:02:55,140 - INFO - Post guardado exitosamente
+2025-03-25 17:02:55,140 - INFO - Actualizando índice de películas
+2025-03-25 17:02:55,141 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:02:55,141 - INFO - Índice existente cargado con 14 películas
+2025-03-25 17:02:55,142 - INFO - Película agregada al índice: BRIDGET JONES: LOCA POR ÉL
+2025-03-25 17:02:55,143 - INFO - Título del post: CAPITÁN AMÉRICA: BRAVE NEW WORLD de Julius Onah
+2025-03-25 17:02:55,143 - INFO - Fecha del post: 2025-02-22T02:11:20+01:00
+2025-03-25 17:02:55,143 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/02/critica-capitan-america-brave-new-world-fracaso-sin-carisma.html
+2025-03-25 17:02:56,163 - INFO - Contenido extraído y estructurado (2688 caracteres)
+2025-03-25 17:02:56,163 - INFO - Guardando post en: posts/CAPITÁN_AMÉRICA:_BRAVE_NEW_WORLD_2025-02-22.json
+2025-03-25 17:02:56,164 - INFO - Post guardado exitosamente
+2025-03-25 17:02:56,164 - INFO - Actualizando índice de películas
+2025-03-25 17:02:56,164 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:02:56,165 - INFO - Índice existente cargado con 15 películas
+2025-03-25 17:02:56,165 - INFO - Película agregada al índice: CAPITÁN AMÉRICA: BRAVE NEW WORLD
+2025-03-25 17:02:56,165 - INFO - Título del post: VERMIGLIO de Maura Delpero
+2025-03-25 17:02:56,165 - INFO - Fecha del post: 2025-02-15T00:09:09+01:00
+2025-03-25 17:02:56,166 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/02/critica-vermiglio-2024-maura-delpero-guerra-y-familia.html
+2025-03-25 17:02:57,201 - INFO - Contenido extraído y estructurado (4765 caracteres)
+2025-03-25 17:02:57,202 - INFO - Guardando post en: posts/VERMIGLIO_2025-02-15.json
+2025-03-25 17:02:57,202 - INFO - Post guardado exitosamente
+2025-03-25 17:02:57,203 - INFO - Actualizando índice de películas
+2025-03-25 17:02:57,203 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:02:57,204 - INFO - Índice existente cargado con 16 películas
+2025-03-25 17:02:57,204 - INFO - Película agregada al índice: VERMIGLIO
+2025-03-25 17:02:57,205 - INFO - Título del post: MARÍA CALLAS de Pablo Larraín
+2025-03-25 17:02:57,205 - INFO - Fecha del post: 2025-02-14T23:57:52+01:00
+2025-03-25 17:02:57,205 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/02/critica-maria-callas-pablo-larrain-2024-soledad-diva.html
+2025-03-25 17:02:58,216 - INFO - Contenido extraído y estructurado (2812 caracteres)
+2025-03-25 17:02:58,217 - INFO - Guardando post en: posts/MARÍA_CALLAS_2025-02-14.json
+2025-03-25 17:02:58,217 - INFO - Post guardado exitosamente
+2025-03-25 17:02:58,217 - INFO - Actualizando índice de películas
+2025-03-25 17:02:58,218 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:02:58,218 - INFO - Índice existente cargado con 17 películas
+2025-03-25 17:02:58,218 - INFO - Película agregada al índice: MARÍA CALLAS
+2025-03-25 17:02:58,219 - INFO - Título del post: LA TUTORÍA
+2025-03-25 17:02:58,219 - INFO - Fecha del post: 2025-02-14T23:46:00+01:00
+2025-03-25 17:02:58,219 - WARNING - No se pudo extraer director del título: LA TUTORÍA
+2025-03-25 17:02:58,219 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/02/critica-la-tutoria-2024-culpa-y-acusaciones.html
+2025-03-25 17:02:59,186 - INFO - Contenido extraído y estructurado (2670 caracteres)
+2025-03-25 17:02:59,187 - INFO - Guardando post en: posts/LA_TUTORÍA_2025-02-14.json
+2025-03-25 17:02:59,188 - INFO - Post guardado exitosamente
+2025-03-25 17:02:59,188 - INFO - Actualizando índice de películas
+2025-03-25 17:02:59,188 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:02:59,189 - INFO - Índice existente cargado con 18 películas
+2025-03-25 17:02:59,190 - INFO - Película agregada al índice: LA TUTORÍA
+2025-03-25 17:02:59,190 - INFO - Título del post: LOS GOYA 2025
+2025-03-25 17:02:59,190 - INFO - Fecha del post: 2025-02-10T10:00:41+01:00
+2025-03-25 17:02:59,191 - WARNING - No se pudo extraer director del título: LOS GOYA 2025
+2025-03-25 17:02:59,191 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/02/critica-39-edicion-premios-goya.html
+2025-03-25 17:03:00,168 - WARNING - No se encontró 'Título Original' en el contenido
+2025-03-25 17:03:00,168 - INFO - Usando contenido completo como respaldo
+2025-03-25 17:03:00,169 - INFO - Guardando post en: posts/LOS_GOYA_2025_2025-02-10.json
+2025-03-25 17:03:00,170 - INFO - Post guardado exitosamente
+2025-03-25 17:03:00,171 - INFO - Actualizando índice de películas
+2025-03-25 17:03:00,171 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:00,171 - INFO - Índice existente cargado con 19 películas
+2025-03-25 17:03:00,173 - INFO - Película agregada al índice: LOS GOYA 2025
+2025-03-25 17:03:01,174 - INFO - Scrapeando página 3: https://ghostintheblog.com/page/3
+2025-03-25 17:03:01,174 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/page/3
+2025-03-25 17:03:02,076 - INFO - Se encontraron 10 posts en la página
+2025-03-25 17:03:02,077 - INFO - Título del post: MEMORIAS DE UN CARACOL de Adam Elliot
+2025-03-25 17:03:02,077 - INFO - Fecha del post: 2025-02-07T19:45:00+01:00
+2025-03-25 17:03:02,078 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/02/memoria-de-un-caracol-critica-cine-animado-sobre-la-resiliencia-y-la-perdida.html
+2025-03-25 17:03:03,181 - INFO - Contenido extraído y estructurado (4682 caracteres)
+2025-03-25 17:03:03,181 - INFO - Guardando post en: posts/MEMORIAS_DE_UN_CARACOL_2025-02-07.json
+2025-03-25 17:03:03,182 - INFO - Post guardado exitosamente
+2025-03-25 17:03:03,182 - INFO - Actualizando índice de películas
+2025-03-25 17:03:03,183 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:03,183 - INFO - Índice existente cargado con 20 películas
+2025-03-25 17:03:03,184 - INFO - Película agregada al índice: MEMORIAS DE UN CARACOL
+2025-03-25 17:03:03,184 - INFO - Título del post: A DIFFERENT MAN de Aaron Schimberg
+2025-03-25 17:03:03,184 - INFO - Fecha del post: 2025-02-07T19:40:00+01:00
+2025-03-25 17:03:03,184 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/02/a-different-man-critica-metamorfosis-y-representacion-de-lo-diferente.html
+2025-03-25 17:03:04,195 - INFO - Contenido extraído y estructurado (2663 caracteres)
+2025-03-25 17:03:04,196 - INFO - Guardando post en: posts/A_DIFFERENT_MAN_2025-02-07.json
+2025-03-25 17:03:04,196 - INFO - Post guardado exitosamente
+2025-03-25 17:03:04,197 - INFO - Actualizando índice de películas
+2025-03-25 17:03:04,197 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:04,197 - INFO - Índice existente cargado con 21 películas
+2025-03-25 17:03:04,197 - INFO - Película agregada al índice: A DIFFERENT MAN
+2025-03-25 17:03:04,198 - INFO - Título del post: SEPTIEMBRE 5 de Tim Fehlbaum
+2025-03-25 17:03:04,198 - INFO - Fecha del post: 2025-02-07T19:30:00+01:00
+2025-03-25 17:03:04,198 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/02/septiembre-5-critica-filme-controvertido-anti-aleman.html
+2025-03-25 17:03:05,196 - INFO - Contenido extraído y estructurado (2705 caracteres)
+2025-03-25 17:03:05,197 - INFO - Guardando post en: posts/SEPTIEMBRE_5_2025-02-07.json
+2025-03-25 17:03:05,199 - INFO - Post guardado exitosamente
+2025-03-25 17:03:05,199 - INFO - Actualizando índice de películas
+2025-03-25 17:03:05,199 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:05,200 - INFO - Índice existente cargado con 22 películas
+2025-03-25 17:03:05,200 - INFO - Película agregada al índice: SEPTIEMBRE 5
+2025-03-25 17:03:05,200 - INFO - Título del post: THE BRUTALIST de Brady Corbet
+2025-03-25 17:03:05,200 - INFO - Fecha del post: 2025-02-01T10:58:23+01:00
+2025-03-25 17:03:05,201 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/02/critica-the-brutalist-architectura-holocausto-politica-ficcion.html
+2025-03-25 17:03:06,216 - INFO - Contenido extraído y estructurado (4824 caracteres)
+2025-03-25 17:03:06,216 - INFO - Guardando post en: posts/THE_BRUTALIST_2025-02-01.json
+2025-03-25 17:03:06,217 - INFO - Post guardado exitosamente
+2025-03-25 17:03:06,217 - INFO - Actualizando índice de películas
+2025-03-25 17:03:06,218 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:06,218 - INFO - Índice existente cargado con 23 películas
+2025-03-25 17:03:06,218 - INFO - Película agregada al índice: THE BRUTALIST
+2025-03-25 17:03:06,219 - INFO - Título del post: CÓMO HACERSE MILLONARIO ANTES DE QUE MUERA LA ABUELA de Pat Boonnitipat
+2025-03-25 17:03:06,219 - INFO - Fecha del post: 2025-02-01T10:56:58+01:00
+2025-03-25 17:03:06,219 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/02/critica-lahn-ma-abuelos-nietos-tradicion-cine-tailandes.html
+2025-03-25 17:03:07,181 - INFO - Contenido extraído y estructurado (2495 caracteres)
+2025-03-25 17:03:07,182 - INFO - Guardando post en: posts/CÓMO_HACERSE_MILLONARIO_ANTES_DE_QUE_MUERA_LA_ABUELA_2025-02-01.json
+2025-03-25 17:03:07,183 - INFO - Post guardado exitosamente
+2025-03-25 17:03:07,183 - INFO - Actualizando índice de películas
+2025-03-25 17:03:07,183 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:07,184 - INFO - Índice existente cargado con 24 películas
+2025-03-25 17:03:07,184 - INFO - Película agregada al índice: CÓMO HACERSE MILLONARIO ANTES DE QUE MUERA LA ABUELA
+2025-03-25 17:03:07,184 - INFO - Título del post: FLOW, UN MUNDO QUE SALVAR de Gints Zilbalodis
+2025-03-25 17:03:07,185 - INFO - Fecha del post: 2025-02-01T10:53:59+01:00
+2025-03-25 17:03:07,185 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/02/critica-flow-alegoria-animales-solidaridad-mundo-posthumano.html
+2025-03-25 17:03:08,229 - INFO - Contenido extraído y estructurado (2641 caracteres)
+2025-03-25 17:03:08,230 - INFO - Guardando post en: posts/FLOW,_UN_MUNDO_QUE_SALVAR_2025-02-01.json
+2025-03-25 17:03:08,230 - INFO - Post guardado exitosamente
+2025-03-25 17:03:08,231 - INFO - Actualizando índice de películas
+2025-03-25 17:03:08,231 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:08,231 - INFO - Índice existente cargado con 25 películas
+2025-03-25 17:03:08,232 - INFO - Película agregada al índice: FLOW, UN MUNDO QUE SALVAR
+2025-03-25 17:03:08,232 - INFO - Título del post: LA FIEBRE DE LOS RICOS de Galder Gaztelu-Urrutia
+2025-03-25 17:03:08,232 - INFO - Fecha del post: 2025-01-24T23:08:23+01:00
+2025-03-25 17:03:08,233 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/01/critica-fiebre-de-los-ricos-2024-distopia-galder-gaztelu.html
+2025-03-25 17:03:09,160 - INFO - Contenido extraído y estructurado (4742 caracteres)
+2025-03-25 17:03:09,160 - INFO - Guardando post en: posts/LA_FIEBRE_DE_LOS_RICOS_2025-01-24.json
+2025-03-25 17:03:09,162 - INFO - Post guardado exitosamente
+2025-03-25 17:03:09,162 - INFO - Actualizando índice de películas
+2025-03-25 17:03:09,163 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:09,163 - INFO - Índice existente cargado con 26 películas
+2025-03-25 17:03:09,164 - INFO - Película agregada al índice: LA FIEBRE DE LOS RICOS
+2025-03-25 17:03:09,164 - INFO - Título del post: BABYGIRL de Halina Reijn
+2025-03-25 17:03:09,165 - INFO - Fecha del post: 2025-01-24T22:58:25+01:00
+2025-03-25 17:03:09,165 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/01/critica-babygirl-2024-poder-sexual-insatisfaccion.html
+2025-03-25 17:03:10,168 - INFO - Contenido extraído y estructurado (2516 caracteres)
+2025-03-25 17:03:10,169 - INFO - Guardando post en: posts/BABYGIRL_2025-01-24.json
+2025-03-25 17:03:10,169 - INFO - Post guardado exitosamente
+2025-03-25 17:03:10,169 - INFO - Actualizando índice de películas
+2025-03-25 17:03:10,169 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:10,170 - INFO - Índice existente cargado con 27 películas
+2025-03-25 17:03:10,170 - INFO - Película agregada al índice: BABYGIRL
+2025-03-25 17:03:10,170 - INFO - Título del post: HOMBRE LOBO de Leigh Whannell
+2025-03-25 17:03:10,170 - INFO - Fecha del post: 2025-01-24T22:48:50+01:00
+2025-03-25 17:03:10,171 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/01/critica-hombre-lobo-2024-hombre-lobo-tragico.html
+2025-03-25 17:03:11,178 - INFO - Contenido extraído y estructurado (2614 caracteres)
+2025-03-25 17:03:11,180 - INFO - Guardando post en: posts/HOMBRE_LOBO_2025-01-24.json
+2025-03-25 17:03:11,180 - INFO - Post guardado exitosamente
+2025-03-25 17:03:11,180 - INFO - Actualizando índice de películas
+2025-03-25 17:03:11,182 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:11,182 - INFO - Índice existente cargado con 28 películas
+2025-03-25 17:03:11,183 - INFO - Película agregada al índice: HOMBRE LOBO
+2025-03-25 17:03:11,183 - INFO - Título del post: LA SEMILLA DE LA HIGUERA SAGRADA de Mohammad Rasoulof
+2025-03-25 17:03:11,183 - INFO - Fecha del post: 2025-01-18T02:26:38+01:00
+2025-03-25 17:03:11,184 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/01/la-semilla-de-la-higuera-sagrada-de-mohammad-rasoulof.html
+2025-03-25 17:03:12,166 - INFO - Contenido extraído y estructurado (4747 caracteres)
+2025-03-25 17:03:12,167 - INFO - Guardando post en: posts/LA_SEMILLA_DE_LA_HIGUERA_SAGRADA_2025-01-18.json
+2025-03-25 17:03:12,167 - INFO - Post guardado exitosamente
+2025-03-25 17:03:12,168 - INFO - Actualizando índice de películas
+2025-03-25 17:03:12,168 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:12,168 - INFO - Índice existente cargado con 29 películas
+2025-03-25 17:03:12,169 - INFO - Película agregada al índice: LA SEMILLA DE LA HIGUERA SAGRADA
+2025-03-25 17:03:13,170 - INFO - Scrapeando página 4: https://ghostintheblog.com/page/4
+2025-03-25 17:03:13,171 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/page/4
+2025-03-25 17:03:14,030 - INFO - Se encontraron 10 posts en la página
+2025-03-25 17:03:14,031 - INFO - Título del post: A REAL PAIN de Jesse Eisenberg
+2025-03-25 17:03:14,031 - INFO - Fecha del post: 2025-01-18T02:13:44+01:00
+2025-03-25 17:03:14,031 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/01/a-real-pain-2024-trauma-judio-y-comedia-en-la-mirada-de-eisenberg.html
+2025-03-25 17:03:15,141 - INFO - Contenido extraído y estructurado (2743 caracteres)
+2025-03-25 17:03:15,141 - INFO - Guardando post en: posts/A_REAL_PAIN_2025-01-18.json
+2025-03-25 17:03:15,142 - INFO - Post guardado exitosamente
+2025-03-25 17:03:15,142 - INFO - Actualizando índice de películas
+2025-03-25 17:03:15,142 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:15,142 - INFO - Índice existente cargado con 30 películas
+2025-03-25 17:03:15,143 - INFO - Película agregada al índice: A REAL PAIN
+2025-03-25 17:03:15,143 - INFO - Título del post: ¡GLORIA! de Margherita Vicario
+2025-03-25 17:03:15,143 - INFO - Fecha del post: 2025-01-18T02:03:13+01:00
+2025-03-25 17:03:15,143 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/01/feminismo-y-musica-en-la-venecia-barroca-la-lucha-de-las-mujeres-en-gloria.html
+2025-03-25 17:03:16,198 - INFO - Contenido extraído y estructurado (2658 caracteres)
+2025-03-25 17:03:16,198 - INFO - Guardando post en: posts/¡GLORIA!_2025-01-18.json
+2025-03-25 17:03:16,200 - INFO - Post guardado exitosamente
+2025-03-25 17:03:16,200 - INFO - Actualizando índice de películas
+2025-03-25 17:03:16,200 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:16,200 - INFO - Índice existente cargado con 31 películas
+2025-03-25 17:03:16,201 - INFO - Película agregada al índice: ¡GLORIA!
+2025-03-25 17:03:16,201 - INFO - Título del post: QUEER de Luca Guadagnino
+2025-03-25 17:03:16,201 - INFO - Fecha del post: 2025-01-10T23:30:56+01:00
+2025-03-25 17:03:16,202 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/01/queer-de-luca-guadagnino.html
+2025-03-25 17:03:17,178 - INFO - Contenido extraído y estructurado (4781 caracteres)
+2025-03-25 17:03:17,179 - INFO - Guardando post en: posts/QUEER_2025-01-10.json
+2025-03-25 17:03:17,180 - INFO - Post guardado exitosamente
+2025-03-25 17:03:17,180 - INFO - Actualizando índice de películas
+2025-03-25 17:03:17,180 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:17,181 - INFO - Índice existente cargado con 32 películas
+2025-03-25 17:03:17,182 - INFO - Película agregada al índice: QUEER
+2025-03-25 17:03:17,182 - INFO - Título del post: BETTER MAN de Michael Gracey
+2025-03-25 17:03:17,182 - INFO - Fecha del post: 2025-01-10T23:12:10+01:00
+2025-03-25 17:03:17,182 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/01/better-man-de-michael-gracey.html
+2025-03-25 17:03:18,194 - INFO - Contenido extraído y estructurado (2706 caracteres)
+2025-03-25 17:03:18,194 - INFO - Guardando post en: posts/BETTER_MAN_2025-01-10.json
+2025-03-25 17:03:18,195 - INFO - Post guardado exitosamente
+2025-03-25 17:03:18,195 - INFO - Actualizando índice de películas
+2025-03-25 17:03:18,195 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:18,195 - INFO - Índice existente cargado con 33 películas
+2025-03-25 17:03:18,197 - INFO - Película agregada al índice: BETTER MAN
+2025-03-25 17:03:18,197 - INFO - Título del post: LAS VIDAS DE SING SING de Greg Kwedar
+2025-03-25 17:03:18,197 - INFO - Fecha del post: 2025-01-10T23:02:16+01:00
+2025-03-25 17:03:18,197 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/01/las-vidas-de-sing-sing-de-greg-kwedar.html
+2025-03-25 17:03:19,294 - INFO - Contenido extraído y estructurado (2474 caracteres)
+2025-03-25 17:03:19,295 - INFO - Guardando post en: posts/LAS_VIDAS_DE_SING_SING_2025-01-10.json
+2025-03-25 17:03:19,295 - INFO - Post guardado exitosamente
+2025-03-25 17:03:19,296 - INFO - Actualizando índice de películas
+2025-03-25 17:03:19,296 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:19,296 - INFO - Índice existente cargado con 34 películas
+2025-03-25 17:03:19,297 - INFO - Película agregada al índice: LAS VIDAS DE SING SING
+2025-03-25 17:03:19,297 - INFO - Título del post: NOSFERATU de Robert Eggers
+2025-03-25 17:03:19,297 - INFO - Fecha del post: 2025-01-03T22:30:00+01:00
+2025-03-25 17:03:19,298 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/01/nosferatu-2024-critica-robert-eggers.html
+2025-03-25 17:03:20,366 - INFO - Contenido extraído y estructurado (4674 caracteres)
+2025-03-25 17:03:20,367 - INFO - Guardando post en: posts/NOSFERATU_2025-01-03.json
+2025-03-25 17:03:20,368 - INFO - Post guardado exitosamente
+2025-03-25 17:03:20,368 - INFO - Actualizando índice de películas
+2025-03-25 17:03:20,368 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:20,368 - INFO - Índice existente cargado con 35 películas
+2025-03-25 17:03:20,369 - INFO - Película agregada al índice: NOSFERATU
+2025-03-25 17:03:20,370 - INFO - Título del post: PARTHENOPE de Paolo Sorrentino
+2025-03-25 17:03:20,370 - INFO - Fecha del post: 2025-01-03T19:30:00+01:00
+2025-03-25 17:03:20,371 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/01/parthenope-2024-critica-sorrentino.html
+2025-03-25 17:03:21,426 - INFO - Contenido extraído y estructurado (2743 caracteres)
+2025-03-25 17:03:21,426 - INFO - Guardando post en: posts/PARTHENOPE_2025-01-03.json
+2025-03-25 17:03:21,427 - INFO - Post guardado exitosamente
+2025-03-25 17:03:21,428 - INFO - Actualizando índice de películas
+2025-03-25 17:03:21,428 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:21,429 - INFO - Índice existente cargado con 36 películas
+2025-03-25 17:03:21,430 - INFO - Película agregada al índice: PARTHENOPE
+2025-03-25 17:03:21,431 - INFO - Título del post: LA LUZ QUE IMAGINAMOS de Payal Kapadia
+2025-03-25 17:03:21,431 - INFO - Fecha del post: 2025-01-03T18:30:00+01:00
+2025-03-25 17:03:21,431 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/01/la-luz-que-imaginamos-2024-critica-cine-indio.html
+2025-03-25 17:03:22,450 - INFO - Contenido extraído y estructurado (2476 caracteres)
+2025-03-25 17:03:22,451 - INFO - Guardando post en: posts/LA_LUZ_QUE_IMAGINAMOS_2025-01-03.json
+2025-03-25 17:03:22,451 - INFO - Post guardado exitosamente
+2025-03-25 17:03:22,452 - INFO - Actualizando índice de películas
+2025-03-25 17:03:22,452 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:22,452 - INFO - Índice existente cargado con 37 películas
+2025-03-25 17:03:22,453 - INFO - Película agregada al índice: LA LUZ QUE IMAGINAMOS
+2025-03-25 17:03:22,453 - ERROR - Error procesando post: 'NoneType' object has no attribute 'text'
+2025-03-25 17:03:22,453 - ERROR - Error procesando post: 'NoneType' object has no attribute 'text'
+2025-03-25 17:03:23,454 - INFO - Scrapeando página 5: https://ghostintheblog.com/page/5
+2025-03-25 17:03:23,455 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/page/5
+2025-03-25 17:03:24,256 - INFO - Se encontraron 10 posts en la página
+2025-03-25 17:03:24,257 - ERROR - Error procesando post: 'NoneType' object has no attribute 'text'
+2025-03-25 17:03:24,257 - ERROR - Error procesando post: 'NoneType' object has no attribute 'text'
+2025-03-25 17:03:24,258 - ERROR - Error procesando post: 'NoneType' object has no attribute 'text'
+2025-03-25 17:03:24,258 - ERROR - Error procesando post: 'NoneType' object has no attribute 'text'
+2025-03-25 17:03:24,259 - INFO - Título del post: OH, CANADÁ de Paul Schrader
+2025-03-25 17:03:24,259 - INFO - Fecha del post: 2024-12-27T02:29:31+01:00
+2025-03-25 17:03:24,259 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/12/oh-canada-schrader-y-su-reflexion-sobre-la-muerte-y-el-mito-americano.html
+2025-03-25 17:03:26,070 - INFO - Contenido extraído y estructurado (4660 caracteres)
+2025-03-25 17:03:26,070 - INFO - Guardando post en: posts/OH,_CANADÁ_2024-12-27.json
+2025-03-25 17:03:26,071 - INFO - Post guardado exitosamente
+2025-03-25 17:03:26,071 - INFO - Actualizando índice de películas
+2025-03-25 17:03:26,072 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:26,072 - INFO - Índice existente cargado con 38 películas
+2025-03-25 17:03:26,074 - INFO - Película agregada al índice: OH, CANADÁ
+2025-03-25 17:03:26,074 - INFO - Título del post: LA GUITARRA FLAMENCA DE YERAI CORTÉS de Antón Álvarez Alfaro
+2025-03-25 17:03:26,075 - INFO - Fecha del post: 2024-12-27T02:11:22+01:00
+2025-03-25 17:03:26,075 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/12/c-tangana-y-yerai-cortes-un-retrato-flamenco-entre-la-pasion-y-la-autocomplacencia.html
+2025-03-25 17:03:27,079 - INFO - Contenido extraído y estructurado (2695 caracteres)
+2025-03-25 17:03:27,079 - INFO - Guardando post en: posts/LA_GUITARRA_FLAMENCA_DE_YERAI_CORTÉS_2024-12-27.json
+2025-03-25 17:03:27,080 - INFO - Post guardado exitosamente
+2025-03-25 17:03:27,081 - INFO - Actualizando índice de películas
+2025-03-25 17:03:27,081 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:27,082 - INFO - Índice existente cargado con 39 películas
+2025-03-25 17:03:27,082 - INFO - Película agregada al índice: LA GUITARRA FLAMENCA DE YERAI CORTÉS
+2025-03-25 17:03:27,083 - INFO - Título del post: CÓNCLAVE de Edward Berger
+2025-03-25 17:03:27,083 - INFO - Fecha del post: 2024-12-27T01:57:21+01:00
+2025-03-25 17:03:27,083 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/12/el-thriller-vaticano-de-edward-berger-luchas-internas-y-miserias-humanas-en-conclave.html
+2025-03-25 17:03:28,117 - INFO - Contenido extraído y estructurado (2623 caracteres)
+2025-03-25 17:03:28,118 - INFO - Guardando post en: posts/CÓNCLAVE_2024-12-27.json
+2025-03-25 17:03:28,119 - INFO - Post guardado exitosamente
+2025-03-25 17:03:28,119 - INFO - Actualizando índice de películas
+2025-03-25 17:03:28,119 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:28,120 - INFO - Índice existente cargado con 40 películas
+2025-03-25 17:03:28,121 - INFO - Película agregada al índice: CÓNCLAVE
+2025-03-25 17:03:28,121 - INFO - Título del post: CUANDO CAE EL OTOÑO de François Ozon
+2025-03-25 17:03:28,121 - INFO - Fecha del post: 2024-12-22T11:53:18+01:00
+2025-03-25 17:03:28,122 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/12/critica-de-cuando-cae-el-otono-de-francois-ozon.html
+2025-03-25 17:03:29,181 - INFO - Contenido extraído y estructurado (4590 caracteres)
+2025-03-25 17:03:29,182 - INFO - Guardando post en: posts/CUANDO_CAE_EL_OTOÑO_2024-12-22.json
+2025-03-25 17:03:29,182 - INFO - Post guardado exitosamente
+2025-03-25 17:03:29,183 - INFO - Actualizando índice de películas
+2025-03-25 17:03:29,183 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:29,183 - INFO - Índice existente cargado con 41 películas
+2025-03-25 17:03:29,184 - INFO - Película agregada al índice: CUANDO CAE EL OTOÑO
+2025-03-25 17:03:29,184 - INFO - Título del post: ¿ES EL ENEMIGO? LA PELÍCULA DE GILA de Alexis Morante
+2025-03-25 17:03:29,184 - INFO - Fecha del post: 2024-12-22T11:37:49+01:00
+2025-03-25 17:03:29,184 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/12/critica-de-es-el-enemigo-la-pelicula-de-gila-de-alexis-morante.html
+2025-03-25 17:03:30,214 - INFO - Contenido extraído y estructurado (2679 caracteres)
+2025-03-25 17:03:30,216 - INFO - Guardando post en: posts/¿ES_EL_ENEMIGO?_LA_PELÍCULA_DE_GILA_2024-12-22.json
+2025-03-25 17:03:30,216 - ERROR - Error guardando post: [Errno 22] Invalid argument: 'posts/¿ES_EL_ENEMIGO?_LA_PELÍCULA_DE_GILA_2024-12-22.json'
+2025-03-25 17:03:30,217 - INFO - Actualizando índice de películas
+2025-03-25 17:03:30,217 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:30,218 - INFO - Índice existente cargado con 42 películas
+2025-03-25 17:03:30,219 - INFO - Película agregada al índice: ¿ES EL ENEMIGO? LA PELÍCULA DE GILA
+2025-03-25 17:03:30,220 - INFO - Título del post: ROCK BOTTOM de María Trénor
+2025-03-25 17:03:30,220 - INFO - Fecha del post: 2024-12-22T11:27:21+01:00
+2025-03-25 17:03:30,220 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/12/critica-de-rock-bottom-de-maria-trenor.html
+2025-03-25 17:03:31,253 - INFO - Contenido extraído y estructurado (2587 caracteres)
+2025-03-25 17:03:31,254 - INFO - Guardando post en: posts/ROCK_BOTTOM_2024-12-22.json
+2025-03-25 17:03:31,255 - INFO - Post guardado exitosamente
+2025-03-25 17:03:31,255 - INFO - Actualizando índice de películas
+2025-03-25 17:03:31,256 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:31,256 - INFO - Índice existente cargado con 43 películas
+2025-03-25 17:03:31,258 - INFO - Película agregada al índice: ROCK BOTTOM
+2025-03-25 17:03:32,258 - INFO - Scrapeando página 6: https://ghostintheblog.com/page/6
+2025-03-25 17:03:32,259 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/page/6
+2025-03-25 17:03:33,165 - INFO - Se encontraron 10 posts en la página
+2025-03-25 17:03:33,166 - INFO - Título del post: ANSELM de Wim Wenders
+2025-03-25 17:03:33,166 - INFO - Fecha del post: 2024-12-17T23:59:35+01:00
+2025-03-25 17:03:33,166 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/12/anselm-wim-wenders-anselm-kiefer-documental.html
+2025-03-25 17:03:34,186 - INFO - Contenido extraído y estructurado (4724 caracteres)
+2025-03-25 17:03:34,187 - INFO - Guardando post en: posts/ANSELM_2024-12-17.json
+2025-03-25 17:03:34,187 - INFO - Post guardado exitosamente
+2025-03-25 17:03:34,187 - INFO - Actualizando índice de películas
+2025-03-25 17:03:34,188 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:34,188 - INFO - Índice existente cargado con 44 películas
+2025-03-25 17:03:34,188 - INFO - Película agregada al índice: ANSELM
+2025-03-25 17:03:34,189 - INFO - Título del post: HERE (AQUÍ) de Robert Zemeckis
+2025-03-25 17:03:34,189 - INFO - Fecha del post: 2024-12-17T23:46:04+01:00
+2025-03-25 17:03:34,189 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/12/here-robert-zemeckis-tiempo-y-memoria.html
+2025-03-25 17:03:35,220 - INFO - Contenido extraído y estructurado (2763 caracteres)
+2025-03-25 17:03:35,220 - INFO - Guardando post en: posts/HERE_(AQUÍ)_2024-12-17.json
+2025-03-25 17:03:35,221 - INFO - Post guardado exitosamente
+2025-03-25 17:03:35,221 - INFO - Actualizando índice de películas
+2025-03-25 17:03:35,221 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:35,221 - INFO - Índice existente cargado con 45 películas
+2025-03-25 17:03:35,222 - INFO - Película agregada al índice: HERE (AQUÍ)
+2025-03-25 17:03:35,223 - INFO - Título del post: AL OTRO BARRIO de  Daniel Monedero y Francisco Arnal
+2025-03-25 17:03:35,223 - INFO - Fecha del post: 2024-12-17T23:33:05+01:00
+2025-03-25 17:03:35,223 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/12/al-otro-barrio-comedia-costumbrista-espanola.html
+2025-03-25 17:03:36,262 - INFO - Contenido extraído y estructurado (2606 caracteres)
+2025-03-25 17:03:36,263 - INFO - Guardando post en: posts/AL_OTRO_BARRIO_2024-12-17.json
+2025-03-25 17:03:36,264 - INFO - Post guardado exitosamente
+2025-03-25 17:03:36,264 - INFO - Actualizando índice de películas
+2025-03-25 17:03:36,265 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:36,266 - INFO - Índice existente cargado con 46 películas
+2025-03-25 17:03:36,267 - INFO - Película agregada al índice: AL OTRO BARRIO
+2025-03-25 17:03:36,268 - INFO - Título del post: EMILIA PÉREZ de Jacques Audiard
+2025-03-25 17:03:36,268 - INFO - Fecha del post: 2024-12-08T14:07:58+01:00
+2025-03-25 17:03:36,268 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/12/emilia-perez-2024-critica-jacques-audiard-violencia-metamorfosis.html
+2025-03-25 17:03:37,285 - INFO - Contenido extraído y estructurado (4643 caracteres)
+2025-03-25 17:03:37,285 - INFO - Guardando post en: posts/EMILIA_PÉREZ_2024-12-08.json
+2025-03-25 17:03:37,287 - INFO - Post guardado exitosamente
+2025-03-25 17:03:37,287 - INFO - Actualizando índice de películas
+2025-03-25 17:03:37,287 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:37,287 - INFO - Índice existente cargado con 47 películas
+2025-03-25 17:03:37,288 - INFO - Película agregada al índice: EMILIA PÉREZ
+2025-03-25 17:03:37,288 - INFO - Título del post: ESPERANDO LA NOCHE de Céline Rouzet
+2025-03-25 17:03:37,289 - INFO - Fecha del post: 2024-12-08T13:55:59+01:00
+2025-03-25 17:03:37,289 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/12/esperando-la-noche-de-celine-rouzet-critica.html
+2025-03-25 17:03:38,230 - INFO - Contenido extraído y estructurado (2792 caracteres)
+2025-03-25 17:03:38,230 - INFO - Guardando post en: posts/ESPERANDO_LA_NOCHE_2024-12-08.json
+2025-03-25 17:03:38,231 - INFO - Post guardado exitosamente
+2025-03-25 17:03:38,231 - INFO - Actualizando índice de películas
+2025-03-25 17:03:38,231 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:38,231 - INFO - Índice existente cargado con 48 películas
+2025-03-25 17:03:38,232 - INFO - Película agregada al índice: ESPERANDO LA NOCHE
+2025-03-25 17:03:38,233 - INFO - Título del post: EL MINISTRO DE PROPAGANDA de Joaquim Lang
+2025-03-25 17:03:38,233 - INFO - Fecha del post: 2024-12-08T13:44:30+01:00
+2025-03-25 17:03:38,233 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/12/el-ministro-de-propaganda-2024-critica.html
+2025-03-25 17:03:39,262 - INFO - Contenido extraído y estructurado (2580 caracteres)
+2025-03-25 17:03:39,263 - INFO - Guardando post en: posts/EL_MINISTRO_DE_PROPAGANDA_2024-12-08.json
+2025-03-25 17:03:39,264 - INFO - Post guardado exitosamente
+2025-03-25 17:03:39,265 - INFO - Actualizando índice de películas
+2025-03-25 17:03:39,265 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:39,265 - INFO - Índice existente cargado con 49 películas
+2025-03-25 17:03:39,266 - INFO - Película agregada al índice: EL MINISTRO DE PROPAGANDA
+2025-03-25 17:03:39,267 - INFO - Título del post: TIEMPO COMPARTIDO de Olivier Assayas
+2025-03-25 17:03:39,267 - INFO - Fecha del post: 2024-11-30T13:38:04+01:00
+2025-03-25 17:03:39,267 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/11/critica-pelicula-tiempo-compartido-olivier-assayas.html
+2025-03-25 17:03:40,257 - INFO - Contenido extraído y estructurado (4985 caracteres)
+2025-03-25 17:03:40,258 - INFO - Guardando post en: posts/TIEMPO_COMPARTIDO_2024-11-30.json
+2025-03-25 17:03:40,259 - INFO - Post guardado exitosamente
+2025-03-25 17:03:40,259 - INFO - Actualizando índice de películas
+2025-03-25 17:03:40,259 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:40,259 - INFO - Índice existente cargado con 50 películas
+2025-03-25 17:03:40,260 - INFO - Película agregada al índice: TIEMPO COMPARTIDO
+2025-03-25 17:03:40,260 - INFO - Título del post: BIRD de Andrea Arnold
+2025-03-25 17:03:40,260 - INFO - Fecha del post: 2024-11-30T11:48:47+01:00
+2025-03-25 17:03:40,260 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/11/critica-pelicula-bird-2024.html
+2025-03-25 17:03:41,254 - INFO - Contenido extraído y estructurado (2767 caracteres)
+2025-03-25 17:03:41,254 - INFO - Guardando post en: posts/BIRD_2024-11-30.json
+2025-03-25 17:03:41,255 - INFO - Post guardado exitosamente
+2025-03-25 17:03:41,255 - INFO - Actualizando índice de películas
+2025-03-25 17:03:41,256 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:41,256 - INFO - Índice existente cargado con 51 películas
+2025-03-25 17:03:41,257 - INFO - Película agregada al índice: BIRD
+2025-03-25 17:03:41,257 - INFO - Título del post: WICKED de  Jon M. Chu
+2025-03-25 17:03:41,258 - INFO - Fecha del post: 2024-11-30T11:34:53+01:00
+2025-03-25 17:03:41,258 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/11/wicked-part-one-critica-pelicula-musical.html
+2025-03-25 17:03:42,241 - INFO - Contenido extraído y estructurado (2509 caracteres)
+2025-03-25 17:03:42,242 - INFO - Guardando post en: posts/WICKED_2024-11-30.json
+2025-03-25 17:03:42,243 - INFO - Post guardado exitosamente
+2025-03-25 17:03:42,243 - INFO - Actualizando índice de películas
+2025-03-25 17:03:42,244 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:42,244 - INFO - Índice existente cargado con 52 películas
+2025-03-25 17:03:42,245 - INFO - Película agregada al índice: WICKED
+2025-03-25 17:03:42,246 - INFO - Título del post: GLADIATOR 2 de Ridley Scott
+2025-03-25 17:03:42,246 - INFO - Fecha del post: 2024-11-23T11:31:47+01:00
+2025-03-25 17:03:42,246 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/11/critica-gladiator-2-ridley-scott.html
+2025-03-25 17:03:43,220 - INFO - Contenido extraído y estructurado (4751 caracteres)
+2025-03-25 17:03:43,221 - INFO - Guardando post en: posts/GLADIATOR_2_2024-11-23.json
+2025-03-25 17:03:43,222 - INFO - Post guardado exitosamente
+2025-03-25 17:03:43,223 - INFO - Actualizando índice de películas
+2025-03-25 17:03:43,223 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:43,224 - INFO - Índice existente cargado con 53 películas
+2025-03-25 17:03:43,224 - INFO - Película agregada al índice: GLADIATOR 2
+2025-03-25 17:03:44,225 - INFO - Scrapeando página 7: https://ghostintheblog.com/page/7
+2025-03-25 17:03:44,225 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/page/7
+2025-03-25 17:03:45,110 - INFO - Se encontraron 10 posts en la página
+2025-03-25 17:03:45,111 - INFO - Título del post: LAS CHICAS DE LA ESTACIÓN de Juana Macías
+2025-03-25 17:03:45,111 - INFO - Fecha del post: 2024-11-23T11:21:13+01:00
+2025-03-25 17:03:45,111 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/11/critica-las-chicas-de-la-estacion-de-juana-macias.html
+2025-03-25 17:03:46,171 - INFO - Contenido extraído y estructurado (2563 caracteres)
+2025-03-25 17:03:46,172 - INFO - Guardando post en: posts/LAS_CHICAS_DE_LA_ESTACIÓN_2024-11-23.json
+2025-03-25 17:03:46,173 - INFO - Post guardado exitosamente
+2025-03-25 17:03:46,173 - INFO - Actualizando índice de películas
+2025-03-25 17:03:46,174 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:46,174 - INFO - Índice existente cargado con 54 películas
+2025-03-25 17:03:46,175 - INFO - Película agregada al índice: LAS CHICAS DE LA ESTACIÓN
+2025-03-25 17:03:46,175 - INFO - Título del post: BORGO de Stéphane Demoustier
+2025-03-25 17:03:46,176 - INFO - Fecha del post: 2024-11-23T11:05:11+01:00
+2025-03-25 17:03:46,176 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/11/critica-borgo-codigo-honor.html
+2025-03-25 17:03:47,256 - INFO - Contenido extraído y estructurado (2639 caracteres)
+2025-03-25 17:03:47,257 - INFO - Guardando post en: posts/BORGO_2024-11-23.json
+2025-03-25 17:03:47,258 - INFO - Post guardado exitosamente
+2025-03-25 17:03:47,259 - INFO - Actualizando índice de películas
+2025-03-25 17:03:47,259 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:47,259 - INFO - Índice existente cargado con 55 películas
+2025-03-25 17:03:47,260 - INFO - Película agregada al índice: BORGO
+2025-03-25 17:03:47,260 - INFO - Título del post: EL BAÑO DEL DIABLO de Severin Fiala y Veronika Franz
+2025-03-25 17:03:47,260 - INFO - Fecha del post: 2024-11-21T23:25:55+01:00
+2025-03-25 17:03:47,260 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/11/el-bano-del-diablo-thriller-historico-terror-psicologico.html
+2025-03-25 17:03:48,368 - INFO - Contenido extraído y estructurado (4200 caracteres)
+2025-03-25 17:03:48,369 - INFO - Guardando post en: posts/EL_BAÑO_DEL_DIABLO_2024-11-21.json
+2025-03-25 17:03:48,370 - INFO - Post guardado exitosamente
+2025-03-25 17:03:48,370 - INFO - Actualizando índice de películas
+2025-03-25 17:03:48,370 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:48,370 - INFO - Índice existente cargado con 56 películas
+2025-03-25 17:03:48,371 - INFO - Película agregada al índice: EL BAÑO DEL DIABLO
+2025-03-25 17:03:48,371 - INFO - Título del post: MARCO de Aitor Arregui y Jon Garaño
+2025-03-25 17:03:48,372 - INFO - Fecha del post: 2024-11-15T19:45:00+01:00
+2025-03-25 17:03:48,372 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/11/critica-de-marco-de-aitor-arregui-y-jon-garano.html
+2025-03-25 17:03:49,360 - INFO - Contenido extraído y estructurado (4562 caracteres)
+2025-03-25 17:03:49,361 - INFO - Guardando post en: posts/MARCO_2024-11-15.json
+2025-03-25 17:03:49,362 - INFO - Post guardado exitosamente
+2025-03-25 17:03:49,362 - INFO - Actualizando índice de películas
+2025-03-25 17:03:49,363 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:49,363 - INFO - Índice existente cargado con 57 películas
+2025-03-25 17:03:49,364 - INFO - Película agregada al índice: MARCO
+2025-03-25 17:03:49,365 - INFO - Título del post: POLVO SERÁN de Carlos Marques-Marcet
+2025-03-25 17:03:49,365 - INFO - Fecha del post: 2024-11-15T19:38:00+01:00
+2025-03-25 17:03:49,365 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/11/critica-de-polvo-seran-de-carlos-marques-marcet.html
+2025-03-25 17:03:50,592 - INFO - Contenido extraído y estructurado (2797 caracteres)
+2025-03-25 17:03:50,637 - INFO - Guardando post en: posts/POLVO_SERÁN_2024-11-15.json
+2025-03-25 17:03:50,637 - INFO - Post guardado exitosamente
+2025-03-25 17:03:50,638 - INFO - Actualizando índice de películas
+2025-03-25 17:03:50,638 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:50,638 - INFO - Índice existente cargado con 58 películas
+2025-03-25 17:03:50,639 - INFO - Película agregada al índice: POLVO SERÁN
+2025-03-25 17:03:50,639 - INFO - Título del post: AMANECE EN SAMANÁ de Rafa Cortés
+2025-03-25 17:03:50,640 - INFO - Fecha del post: 2024-11-15T19:30:00+01:00
+2025-03-25 17:03:50,640 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/11/critica-de-amanece-en-samana-de-rafa-cortes.html
+2025-03-25 17:03:51,686 - INFO - Contenido extraído y estructurado (2473 caracteres)
+2025-03-25 17:03:51,687 - INFO - Guardando post en: posts/AMANECE_EN_SAMANÁ_2024-11-15.json
+2025-03-25 17:03:51,688 - INFO - Post guardado exitosamente
+2025-03-25 17:03:51,688 - INFO - Actualizando índice de películas
+2025-03-25 17:03:51,689 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:51,689 - INFO - Índice existente cargado con 59 películas
+2025-03-25 17:03:51,690 - INFO - Película agregada al índice: AMANECE EN SAMANÁ
+2025-03-25 17:03:51,690 - INFO - Título del post: LA COCINA de Alonso Ruizpalacios
+2025-03-25 17:03:51,690 - INFO - Fecha del post: 2024-11-08T22:46:26+01:00
+2025-03-25 17:03:51,690 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/11/critica-de-la-cocina-de-alonso-ruizpalacios.html
+2025-03-25 17:03:52,720 - INFO - Contenido extraído y estructurado (4520 caracteres)
+2025-03-25 17:03:52,721 - INFO - Guardando post en: posts/LA_COCINA_2024-11-08.json
+2025-03-25 17:03:52,722 - INFO - Post guardado exitosamente
+2025-03-25 17:03:52,722 - INFO - Actualizando índice de películas
+2025-03-25 17:03:52,722 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:52,723 - INFO - Índice existente cargado con 60 películas
+2025-03-25 17:03:52,724 - INFO - Película agregada al índice: LA COCINA
+2025-03-25 17:03:52,724 - INFO - Título del post: ANORA de Sean Baker
+2025-03-25 17:03:52,724 - INFO - Fecha del post: 2024-11-08T18:50:49+01:00
+2025-03-25 17:03:52,724 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/11/critica-de-anora-de-sean-baker.html
+2025-03-25 17:03:53,993 - INFO - Contenido extraído y estructurado (2690 caracteres)
+2025-03-25 17:03:53,994 - INFO - Guardando post en: posts/ANORA_2024-11-08.json
+2025-03-25 17:03:53,995 - INFO - Post guardado exitosamente
+2025-03-25 17:03:53,996 - INFO - Actualizando índice de películas
+2025-03-25 17:03:53,996 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:53,996 - INFO - Índice existente cargado con 61 películas
+2025-03-25 17:03:53,997 - INFO - Película agregada al índice: ANORA
+2025-03-25 17:03:53,998 - INFO - Título del post: JURADO Nº 2 de Clint Eastwood
+2025-03-25 17:03:53,998 - INFO - Fecha del post: 2024-11-08T18:37:28+01:00
+2025-03-25 17:03:53,999 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/11/critica-de-jurado-no-2-de-clint-eastwood.html
+2025-03-25 17:03:55,046 - INFO - Contenido extraído y estructurado (2597 caracteres)
+2025-03-25 17:03:55,048 - INFO - Guardando post en: posts/JURADO_Nº_2_2024-11-08.json
+2025-03-25 17:03:55,049 - INFO - Post guardado exitosamente
+2025-03-25 17:03:55,049 - INFO - Actualizando índice de películas
+2025-03-25 17:03:55,050 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:55,050 - INFO - Índice existente cargado con 62 películas
+2025-03-25 17:03:55,051 - INFO - Película agregada al índice: JURADO Nº 2
+2025-03-25 17:03:55,051 - INFO - Título del post: SALVE MARÍA de Mar Coll
+2025-03-25 17:03:55,051 - INFO - Fecha del post: 2024-11-01T18:32:17+01:00
+2025-03-25 17:03:55,052 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/11/critica-de-salve-maria-de-mar-coll.html
+2025-03-25 17:03:56,060 - INFO - Contenido extraído y estructurado (4687 caracteres)
+2025-03-25 17:03:56,061 - INFO - Guardando post en: posts/SALVE_MARÍA_2024-11-01.json
+2025-03-25 17:03:56,062 - INFO - Post guardado exitosamente
+2025-03-25 17:03:56,062 - INFO - Actualizando índice de películas
+2025-03-25 17:03:56,062 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:56,063 - INFO - Índice existente cargado con 63 películas
+2025-03-25 17:03:56,063 - INFO - Película agregada al índice: SALVE MARÍA
+2025-03-25 17:03:57,064 - INFO - Scrapeando página 8: https://ghostintheblog.com/page/8
+2025-03-25 17:03:57,064 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/page/8
+2025-03-25 17:03:58,040 - INFO - Se encontraron 10 posts en la página
+2025-03-25 17:03:58,040 - INFO - Título del post: WOMAN OF de Malgorzata Szumowska y Michal Englert
+2025-03-25 17:03:58,040 - INFO - Fecha del post: 2024-11-01T18:18:19+01:00
+2025-03-25 17:03:58,041 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/11/critica-de-woman-of-de-malgorzata-szumowska-y-michal-englert.html
+2025-03-25 17:03:59,052 - INFO - Contenido extraído y estructurado (2605 caracteres)
+2025-03-25 17:03:59,052 - INFO - Guardando post en: posts/WOMAN_OF_2024-11-01.json
+2025-03-25 17:03:59,054 - INFO - Post guardado exitosamente
+2025-03-25 17:03:59,054 - INFO - Actualizando índice de películas
+2025-03-25 17:03:59,054 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:03:59,054 - INFO - Índice existente cargado con 64 películas
+2025-03-25 17:03:59,055 - INFO - Película agregada al índice: WOMAN OF
+2025-03-25 17:03:59,055 - INFO - Título del post: RITA de Paz Vega
+2025-03-25 17:03:59,056 - INFO - Fecha del post: 2024-11-01T17:58:12+01:00
+2025-03-25 17:03:59,056 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/11/critica-de-rita-de-paz-vega.html
+2025-03-25 17:04:00,021 - INFO - Contenido extraído y estructurado (2462 caracteres)
+2025-03-25 17:04:00,022 - INFO - Guardando post en: posts/RITA_2024-11-01.json
+2025-03-25 17:04:00,023 - INFO - Post guardado exitosamente
+2025-03-25 17:04:00,023 - INFO - Actualizando índice de películas
+2025-03-25 17:04:00,023 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:04:00,024 - INFO - Índice existente cargado con 65 películas
+2025-03-25 17:04:00,025 - INFO - Película agregada al índice: RITA
+2025-03-25 17:04:00,025 - INFO - Título del post: LA HABITACIÓN DE AL LADO de Pedro Almodóvar
+2025-03-25 17:04:00,025 - INFO - Fecha del post: 2024-10-26T10:04:29+02:00
+2025-03-25 17:04:00,025 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/10/critica-de-la-habitacion-de-al-lado-de-pedro-almodovar.html
+2025-03-25 17:04:01,043 - INFO - Contenido extraído y estructurado (4700 caracteres)
+2025-03-25 17:04:01,044 - INFO - Guardando post en: posts/LA_HABITACIÓN_DE_AL_LADO_2024-10-26.json
+2025-03-25 17:04:01,045 - INFO - Post guardado exitosamente
+2025-03-25 17:04:01,045 - INFO - Actualizando índice de películas
+2025-03-25 17:04:01,046 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:04:01,046 - INFO - Índice existente cargado con 66 películas
+2025-03-25 17:04:01,047 - INFO - Película agregada al índice: LA HABITACIÓN DE AL LADO
+2025-03-25 17:04:01,048 - INFO - Título del post: AMAL de Jawad Rhalib
+2025-03-25 17:04:01,048 - INFO - Fecha del post: 2024-10-26T09:49:52+02:00
+2025-03-25 17:04:01,048 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/10/critica-de-amal-de-jawad-rhalib.html
+2025-03-25 17:04:02,145 - INFO - Contenido extraído y estructurado (2560 caracteres)
+2025-03-25 17:04:02,146 - INFO - Guardando post en: posts/AMAL_2024-10-26.json
+2025-03-25 17:04:02,147 - INFO - Post guardado exitosamente
+2025-03-25 17:04:02,147 - INFO - Actualizando índice de películas
+2025-03-25 17:04:02,147 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:04:02,148 - INFO - Índice existente cargado con 67 películas
+2025-03-25 17:04:02,149 - INFO - Película agregada al índice: AMAL
+2025-03-25 17:04:02,149 - INFO - Título del post: GREAT ABSENCE de Kei Chika-Ura
+2025-03-25 17:04:02,149 - INFO - Fecha del post: 2024-10-26T09:37:23+02:00
+2025-03-25 17:04:02,149 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/10/critica-de-great-absence-de-kei-chika-ura.html
+2025-03-25 17:04:03,203 - INFO - Contenido extraído y estructurado (2787 caracteres)
+2025-03-25 17:04:03,204 - INFO - Guardando post en: posts/GREAT_ABSENCE_2024-10-26.json
+2025-03-25 17:04:03,206 - INFO - Post guardado exitosamente
+2025-03-25 17:04:03,206 - INFO - Actualizando índice de películas
+2025-03-25 17:04:03,206 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:04:03,207 - INFO - Índice existente cargado con 68 películas
+2025-03-25 17:04:03,208 - INFO - Película agregada al índice: GREAT ABSENCE
+2025-03-25 17:04:03,208 - INFO - Título del post: LA INFILTRADA de Arantxa Echevarría
+2025-03-25 17:04:03,208 - INFO - Fecha del post: 2024-10-19T11:11:21+02:00
+2025-03-25 17:04:03,208 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/10/critica-de-la-infiltrada-de-arantxa-echevarria.html
+2025-03-25 17:04:04,251 - INFO - Contenido extraído y estructurado (4733 caracteres)
+2025-03-25 17:04:04,252 - INFO - Guardando post en: posts/LA_INFILTRADA_2024-10-19.json
+2025-03-25 17:04:04,252 - INFO - Post guardado exitosamente
+2025-03-25 17:04:04,252 - INFO - Actualizando índice de películas
+2025-03-25 17:04:04,253 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:04:04,253 - INFO - Índice existente cargado con 69 películas
+2025-03-25 17:04:04,254 - INFO - Película agregada al índice: LA INFILTRADA
+2025-03-25 17:04:04,254 - INFO - Título del post: ROBOT SALVAJE de Chris Sanders
+2025-03-25 17:04:04,254 - INFO - Fecha del post: 2024-10-19T10:56:36+02:00
+2025-03-25 17:04:04,255 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/10/critica-de-robot-salvaje-de-chris-sanders.html
+2025-03-25 17:04:05,286 - INFO - Contenido extraído y estructurado (2790 caracteres)
+2025-03-25 17:04:05,287 - INFO - Guardando post en: posts/ROBOT_SALVAJE_2024-10-19.json
+2025-03-25 17:04:05,288 - INFO - Post guardado exitosamente
+2025-03-25 17:04:05,288 - INFO - Actualizando índice de películas
+2025-03-25 17:04:05,288 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:04:05,289 - INFO - Índice existente cargado con 70 películas
+2025-03-25 17:04:05,290 - INFO - Película agregada al índice: ROBOT SALVAJE
+2025-03-25 17:04:05,290 - INFO - Título del post: THE APPRENTICE. LA HISTORIA DE TRUMP de Ali Abbasi
+2025-03-25 17:04:05,290 - INFO - Fecha del post: 2024-10-19T10:44:02+02:00
+2025-03-25 17:04:05,290 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/10/the-apprentice-historia-de-trump-critica.html
+2025-03-25 17:04:06,322 - INFO - Contenido extraído y estructurado (2768 caracteres)
+2025-03-25 17:04:06,323 - INFO - Guardando post en: posts/THE_APPRENTICE._LA_HISTORIA_DE_TRUMP_2024-10-19.json
+2025-03-25 17:04:06,324 - INFO - Post guardado exitosamente
+2025-03-25 17:04:06,324 - INFO - Actualizando índice de películas
+2025-03-25 17:04:06,324 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:04:06,324 - INFO - Índice existente cargado con 71 películas
+2025-03-25 17:04:06,325 - INFO - Película agregada al índice: THE APPRENTICE. LA HISTORIA DE TRUMP
+2025-03-25 17:04:06,326 - INFO - Título del post: LA SUSTANCIA de Coralie Fargeat
+2025-03-25 17:04:06,326 - INFO - Fecha del post: 2024-10-18T17:04:29+02:00
+2025-03-25 17:04:06,326 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/10/critica-de-la-sustancia-de-coralie-fargeat.html
+2025-03-25 17:04:07,294 - INFO - Contenido extraído y estructurado (4725 caracteres)
+2025-03-25 17:04:07,295 - INFO - Guardando post en: posts/LA_SUSTANCIA_2024-10-18.json
+2025-03-25 17:04:07,296 - INFO - Post guardado exitosamente
+2025-03-25 17:04:07,296 - INFO - Actualizando índice de películas
+2025-03-25 17:04:07,296 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:04:07,296 - INFO - Índice existente cargado con 72 películas
+2025-03-25 17:04:07,297 - INFO - Película agregada al índice: LA SUSTANCIA
+2025-03-25 17:04:07,298 - INFO - Título del post: JOKER: FOLIE À DEUX de Todd Phillipps
+2025-03-25 17:04:07,298 - INFO - Fecha del post: 2024-10-18T16:53:05+02:00
+2025-03-25 17:04:07,298 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/10/critica-de-joker-folie-a-deux-de-todd-phillipps.html
+2025-03-25 17:04:08,393 - INFO - Contenido extraído y estructurado (2857 caracteres)
+2025-03-25 17:04:08,394 - INFO - Guardando post en: posts/JOKER:_FOLIE_À_DEUX_2024-10-18.json
+2025-03-25 17:04:08,394 - INFO - Post guardado exitosamente
+2025-03-25 17:04:08,395 - INFO - Actualizando índice de películas
+2025-03-25 17:04:08,395 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:04:08,395 - INFO - Índice existente cargado con 73 películas
+2025-03-25 17:04:08,396 - INFO - Película agregada al índice: JOKER: FOLIE À DEUX
+2025-03-25 17:04:09,398 - INFO - Scrapeando página 9: https://ghostintheblog.com/page/9
+2025-03-25 17:04:09,398 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/page/9
+2025-03-25 17:04:10,382 - INFO - Se encontraron 10 posts en la página
+2025-03-25 17:04:10,382 - INFO - Título del post: LOS DESTELLOS de Pilar Palomero
+2025-03-25 17:04:10,383 - INFO - Fecha del post: 2024-10-18T16:26:30+02:00
+2025-03-25 17:04:10,383 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/10/critica-de-los-destellos-de-pilar-palomero.html
+2025-03-25 17:04:11,442 - INFO - Contenido extraído y estructurado (2900 caracteres)
+2025-03-25 17:04:11,442 - INFO - Guardando post en: posts/LOS_DESTELLOS_2024-10-18.json
+2025-03-25 17:04:11,443 - INFO - Post guardado exitosamente
+2025-03-25 17:04:11,443 - INFO - Actualizando índice de películas
+2025-03-25 17:04:11,443 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:04:11,444 - INFO - Índice existente cargado con 74 películas
+2025-03-25 17:04:11,445 - INFO - Película agregada al índice: LOS DESTELLOS
+2025-03-25 17:04:11,445 - INFO - Título del post: MEGALÓPOLIS de Francis Ford Coppola
+2025-03-25 17:04:11,445 - INFO - Fecha del post: 2024-10-05T01:46:59+02:00
+2025-03-25 17:04:11,445 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/10/critica-de-megalopolis-de-francis-ford-coppola.html
+2025-03-25 17:04:12,490 - INFO - Contenido extraído y estructurado (4679 caracteres)
+2025-03-25 17:04:12,490 - INFO - Guardando post en: posts/MEGALÓPOLIS_2024-10-05.json
+2025-03-25 17:04:12,491 - INFO - Post guardado exitosamente
+2025-03-25 17:04:12,491 - INFO - Actualizando índice de películas
+2025-03-25 17:04:12,491 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:04:12,492 - INFO - Índice existente cargado con 75 películas
+2025-03-25 17:04:12,494 - INFO - Película agregada al índice: MEGALÓPOLIS
+2025-03-25 17:04:12,494 - INFO - Título del post: EMMANUELLE de Audrey Diwan
+2025-03-25 17:04:12,494 - INFO - Fecha del post: 2024-10-05T01:36:35+02:00
+2025-03-25 17:04:12,494 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/10/critica-de-emmanuelle-de-audrey-diwan.html
+2025-03-25 17:04:13,490 - INFO - Contenido extraído y estructurado (2657 caracteres)
+2025-03-25 17:04:13,491 - INFO - Guardando post en: posts/EMMANUELLE_2024-10-05.json
+2025-03-25 17:04:13,492 - INFO - Post guardado exitosamente
+2025-03-25 17:04:13,492 - INFO - Actualizando índice de películas
+2025-03-25 17:04:13,492 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:04:13,492 - INFO - Índice existente cargado con 76 películas
+2025-03-25 17:04:13,493 - INFO - Película agregada al índice: EMMANUELLE
+2025-03-25 17:04:13,494 - INFO - Título del post: ANTES ERA DIVERTIDO de Ally Pankiw
+2025-03-25 17:04:13,494 - INFO - Fecha del post: 2024-10-05T01:24:35+02:00
+2025-03-25 17:04:13,494 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/10/critica-de-antes-era-divertido-de-ally-pankiw.html
+2025-03-25 17:04:14,468 - INFO - Contenido extraído y estructurado (2838 caracteres)
+2025-03-25 17:04:14,468 - INFO - Guardando post en: posts/ANTES_ERA_DIVERTIDO_2024-10-05.json
+2025-03-25 17:04:14,470 - INFO - Post guardado exitosamente
+2025-03-25 17:04:14,470 - INFO - Actualizando índice de películas
+2025-03-25 17:04:14,470 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:04:14,470 - INFO - Índice existente cargado con 77 películas
+2025-03-25 17:04:14,471 - INFO - Película agregada al índice: ANTES ERA DIVERTIDO
+2025-03-25 17:04:14,471 - INFO - Título del post: SOY NEVENKA de Icíar Bollaín
+2025-03-25 17:04:14,471 - INFO - Fecha del post: 2024-09-27T19:45:00+02:00
+2025-03-25 17:04:14,471 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/09/critica-de-soy-nevenka-de-iciar-bollain.html
+2025-03-25 17:04:15,544 - INFO - Contenido extraído y estructurado (4725 caracteres)
+2025-03-25 17:04:15,545 - INFO - Guardando post en: posts/SOY_NEVENKA_2024-09-27.json
+2025-03-25 17:04:15,545 - INFO - Post guardado exitosamente
+2025-03-25 17:04:15,546 - INFO - Actualizando índice de películas
+2025-03-25 17:04:15,546 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:04:15,546 - INFO - Índice existente cargado con 78 películas
+2025-03-25 17:04:15,547 - INFO - Película agregada al índice: SOY NEVENKA
+2025-03-25 17:04:15,547 - INFO - Título del post: PUNTOS SUSPENSIVOS de David Marqués
+2025-03-25 17:04:15,547 - INFO - Fecha del post: 2024-09-27T19:37:00+02:00
+2025-03-25 17:04:15,548 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/09/critica-de-puntos-suspensivos-de-david-marques.html
+2025-03-25 17:04:16,582 - INFO - Contenido extraído y estructurado (2853 caracteres)
+2025-03-25 17:04:16,583 - INFO - Guardando post en: posts/PUNTOS_SUSPENSIVOS_2024-09-27.json
+2025-03-25 17:04:16,584 - INFO - Post guardado exitosamente
+2025-03-25 17:04:16,584 - INFO - Actualizando índice de películas
+2025-03-25 17:04:16,584 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:04:16,584 - INFO - Índice existente cargado con 79 películas
+2025-03-25 17:04:16,585 - INFO - Película agregada al índice: PUNTOS SUSPENSIVOS
+2025-03-25 17:04:16,586 - INFO - Título del post: LA VIRGEN ROJA de Paula Ortiz
+2025-03-25 17:04:16,586 - INFO - Fecha del post: 2024-09-27T19:30:00+02:00
+2025-03-25 17:04:16,586 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/09/la-virgen-roja-de-paula-ortiz.html
+2025-03-25 17:04:17,584 - INFO - Contenido extraído y estructurado (2822 caracteres)
+2025-03-25 17:04:17,584 - INFO - Guardando post en: posts/LA_VIRGEN_ROJA_2024-09-27.json
+2025-03-25 17:04:17,585 - INFO - Post guardado exitosamente
+2025-03-25 17:04:17,585 - INFO - Actualizando índice de películas
+2025-03-25 17:04:17,585 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:04:17,585 - INFO - Índice existente cargado con 80 películas
+2025-03-25 17:04:17,586 - INFO - Película agregada al índice: LA VIRGEN ROJA
+2025-03-25 17:04:17,586 - INFO - Título del post: TREASURE de Julia von Heinz
+2025-03-25 17:04:17,587 - INFO - Fecha del post: 2024-09-21T01:31:24+02:00
+2025-03-25 17:04:17,587 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/09/critica-de-treasure-de-julia-von-heinz.html
+2025-03-25 17:04:18,577 - INFO - Contenido extraído y estructurado (4416 caracteres)
+2025-03-25 17:04:18,578 - INFO - Guardando post en: posts/TREASURE_2024-09-21.json
+2025-03-25 17:04:18,578 - INFO - Post guardado exitosamente
+2025-03-25 17:04:18,579 - INFO - Actualizando índice de películas
+2025-03-25 17:04:18,580 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:04:18,580 - INFO - Índice existente cargado con 81 películas
+2025-03-25 17:04:18,581 - INFO - Película agregada al índice: TREASURE
+2025-03-25 17:04:18,581 - INFO - Título del post: JUSTICIA ARTIFICIAL de Simón Casal de Miguel
+2025-03-25 17:04:18,581 - INFO - Fecha del post: 2024-09-21T01:15:13+02:00
+2025-03-25 17:04:18,581 - WARNING - No se pudo extraer director del título: JUSTICIA ARTIFICIAL de Simón Casal de Miguel
+2025-03-25 17:04:18,582 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/09/critica-de-justicia-artificial-de-simon-casal-de-miguel.html
+2025-03-25 17:04:19,594 - INFO - Contenido extraído y estructurado (2684 caracteres)
+2025-03-25 17:04:19,595 - INFO - Guardando post en: posts/JUSTICIA_ARTIFICIAL_de_Simón_Casal_de_Miguel_2024-09-21.json
+2025-03-25 17:04:19,595 - INFO - Post guardado exitosamente
+2025-03-25 17:04:19,596 - INFO - Actualizando índice de películas
+2025-03-25 17:04:19,596 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:04:19,596 - INFO - Índice existente cargado con 82 películas
+2025-03-25 17:04:19,597 - INFO - Película agregada al índice: JUSTICIA ARTIFICIAL de Simón Casal de Miguel
+2025-03-25 17:04:19,598 - INFO - Título del post: NO HABLES CON EXTRAÑOS de James Watkins
+2025-03-25 17:04:19,598 - INFO - Fecha del post: 2024-09-21T01:06:09+02:00
+2025-03-25 17:04:19,598 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2024/09/critica-de-no-hables-con-extranos-de-james-watkins.html
+2025-03-25 17:04:20,597 - INFO - Contenido extraído y estructurado (2746 caracteres)
+2025-03-25 17:04:20,598 - INFO - Guardando post en: posts/NO_HABLES_CON_EXTRAÑOS_2024-09-21.json
+2025-03-25 17:04:20,599 - INFO - Post guardado exitosamente
+2025-03-25 17:04:20,599 - INFO - Actualizando índice de películas
+2025-03-25 17:04:20,599 - INFO - Archivo de índice: C:\Trabajos\scrapingcines\index.json
+2025-03-25 17:04:20,600 - INFO - Índice existente cargado con 83 películas
+2025-03-25 17:04:20,601 - INFO - Película agregada al índice: NO HABLES CON EXTRAÑOS
+2025-03-25 17:04:21,602 - INFO - Scrapeando página 10: https://ghostintheblog.com/page/10
+2025-03-25 17:04:21,602 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/page/10
