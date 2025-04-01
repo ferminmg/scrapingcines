@@ -159,7 +159,7 @@
             {
                 "fecha": "2025-04-01",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84350&eventCode=96979"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -176,7 +176,7 @@
             {
                 "fecha": "2025-04-01",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84360&eventCode=96424"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -193,7 +193,7 @@
             {
                 "fecha": "2025-04-01",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84356&eventCode=95519"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -245,6 +245,57 @@
                 "fecha": "2025-04-02",
                 "hora": "21:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84371&eventCode=95519"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Sandhya Suri",
+        "duración": "128 min",
+        "actores": "Shahana Goswami, Sunita Rajwar, Naval Shukla, Sanjay Bishnoi, Shashi Beniwal",
+        "sinopsis": "",
+        "año": "2024"
+    },
+    {
+        "título": "Ghostlight",
+        "cartel": "imagenes_peliculas/tmdb_ghostlight.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-04-03",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84398&eventCode=96979"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Alex Thompson, Kelly O'Sullivan",
+        "duración": "115 min",
+        "actores": "Keith Kupferer, Katherine Mallen Kupferer, Tara Mallen, Dolly de Leon, Hanna Dworkin",
+        "sinopsis": "",
+        "año": "2024"
+    },
+    {
+        "título": "Por todo lo alto",
+        "cartel": "imagenes_peliculas/tmdb_por_todo_lo_alto.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-04-03",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84409&eventCode=96424"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Emmanuel Courcol",
+        "duración": "103 min",
+        "actores": "Benjamin Lavernhe, Pierre Lottin, Sarah Suco, Clémence Massart-Weit, Ludmila Mikaël",
+        "sinopsis": "",
+        "año": "2024"
+    },
+    {
+        "título": "Secretos de un crimen",
+        "cartel": "imagenes_peliculas/tmdb_secretos_de_un_crimen.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-04-03",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84406&eventCode=95519"
             }
         ],
         "cine": "Golem Yamaguchi",
