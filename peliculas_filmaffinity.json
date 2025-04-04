@@ -1,35 +1,8 @@
 [
     {
-        "título": "André Rieu: El sueño continúa",
-        "cartel": "imagenes_filmaffinity/andre-rieu-el-sueno-continua.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-04-04",
-                "hora": "20:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=14241"
-            },
-            {
-                "fecha": "2025-04-10",
-                "hora": "19:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=14242"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
-    },
-    {
         "título": "My Hero Academia: Dos héroes",
         "cartel": "imagenes_filmaffinity/tmdb_my-hero-academia-dos-heroes.jpg",
         "horarios": [
-            {
-                "fecha": "2025-04-04",
-                "hora": "18:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=14836"
-            },
             {
                 "fecha": "2025-04-05",
                 "hora": "18:00",
@@ -101,6 +74,23 @@
         "actores": "Jason Momoa, Jack Black, Sebastian Eugene Hansen, Emma Myers, Danielle Brooks",
         "sinopsis": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
         "año": "2025"
+    },
+    {
+        "título": "André Rieu: El sueño continúa",
+        "cartel": "imagenes_filmaffinity/andre-rieu-el-sueno-continua.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-04-10",
+                "hora": "19:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=14242"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
     },
     {
         "título": "My Hero Academia: El despertar de los héroes",
