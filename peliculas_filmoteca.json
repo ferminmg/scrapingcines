@@ -1,7 +1,7 @@
 [
     {
         "título": "El acontecimiento (L''événement)",
-        "cartel": "imagenes_filmoteca/tmdb_El_acontecimiento__L___v_nement_.jpg",
+        "cartel": "imagenes_filmoteca\\tmdb_El_acontecimiento__L___v_nement_.jpg",
         "horarios": [
             {
                 "fecha": "2025-04-09",
@@ -18,7 +18,7 @@
     },
     {
         "título": "Jacquot de Nantes",
-        "cartel": "imagenes_filmoteca/Jacquot_de_Nantes.jpg",
+        "cartel": "imagenes_filmoteca\\tmdb_Jacquot_de_Nantes.jpg",
         "horarios": [
             {
                 "fecha": "2025-04-10",
@@ -27,15 +27,15 @@
             }
         ],
         "cine": "Filmoteca de Navarra",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
+        "director": "Agnès Varda",
+        "duración": "118 min",
+        "actores": "Philippe Maron, Edouard Joubeaud, Laurent Monnier, Brigitte De Villepoix, Daniel Dublet",
+        "sinopsis": "Jacquot Demy es un niño de unos once años. Su padre tiene un taller mecánico y su madre es peluquera. Son felices y les gusta cantar y ver películas. Jacquot, fascinado por toda clase de espectáculos (teatro, cine, marionetas), compra una cámara para realizar su primer film amateur.",
+        "año": "1991"
     },
     {
         "título": "El cabo del terror (Cape Fear, 1962)",
-        "cartel": "imagenes_filmoteca/El_cabo_del_terror__Cape_Fear__1962_.jpg",
+        "cartel": "imagenes_filmoteca\\tmdb_El_cabo_del_terror__Cape_Fear__1962_.jpg",
         "horarios": [
             {
                 "fecha": "2025-04-11",
@@ -44,15 +44,15 @@
             }
         ],
         "cine": "Filmoteca de Navarra",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
+        "director": "J. Lee Thompson",
+        "duración": "105 min",
+        "actores": "Gregory Peck, Robert Mitchum, Polly Bergen, Lori Martin, Martin Balsam",
+        "sinopsis": "Gregory Peck interpreta a un abogado cuya peor pesadilla se convierte en realidad cuando el criminal que logró encarcelar regresa a la ciudad y empieza a molestar a su esposa (Pollu Bergen) y a su hija adolescente (Lori Martin). A pesar de la ayuda del jefe de policía (Martin Balsam) y de un detective privado (Telly Savalas), Peck no tiene ningún recurso legal para impedir que Mitchum deje de jugar con ellos al gato y al ratón. Finalmente Peck decide tenderle una trampa…",
+        "año": "1962"
     },
     {
         "título": "The Royal Game  (Schachnovelle)",
-        "cartel": "imagenes_filmoteca/tmdb_The_Royal_Game___Schachnovelle_.jpg",
+        "cartel": "imagenes_filmoteca\\tmdb_The_Royal_Game___Schachnovelle_.jpg",
         "horarios": [
             {
                 "fecha": "2025-04-16",
@@ -69,7 +69,7 @@
     },
     {
         "título": "Pactar con el diablo",
-        "cartel": "imagenes_filmoteca/tmdb_Pactar_con_el_diablo.jpg",
+        "cartel": "imagenes_filmoteca\\tmdb_Pactar_con_el_diablo.jpg",
         "horarios": [
             {
                 "fecha": "2025-04-25",
@@ -86,7 +86,7 @@
     },
     {
         "título": "Padre padrone (Padre patrón)",
-        "cartel": "imagenes_filmoteca/tmdb_Padre_padrone__Padre_patr_n_.jpg",
+        "cartel": "imagenes_filmoteca\\tmdb_Padre_padrone__Padre_patr_n_.jpg",
         "horarios": [
             {
                 "fecha": "2025-04-30",

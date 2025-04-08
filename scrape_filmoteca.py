@@ -43,6 +43,8 @@ class TMDbAPI:
     def _title_similarity(self, title1: str, title2: str) -> float:
         return SequenceMatcher(None, self._normalize_title(title1), self._normalize_title(title2)).ratio()
 
+    
+
     def get_movie_info(self, title: str) -> dict:
         logger.info(f"Searching TMDb for title: {title}")
 
@@ -98,9 +100,37 @@ class TMDbAPI:
 
         logger.warning(f"No good match found for: {title}")
         return {}
+    
+    def get_movie_info_by_id(self, movie_id: int) -> dict:
+        logger.info(f"Fetching movie by TMDb ID: {movie_id}")
+
+        details = self._make_request(f"movie/{movie_id}", params={"language": "es"})
+        if not details:
+            details = self._make_request(f"movie/{movie_id}", params={"language": "en"})
+
+        credits = self._make_request(f"movie/{movie_id}/credits", params={"language": "es"})
+        if not credits:
+            credits = self._make_request(f"movie/{movie_id}/credits", params={"language": "en"})
+
+        if not details or not credits:
+            return {}
+
+        return {
+            "director": ", ".join(c["name"] for c in credits.get("crew", []) if c["job"] == "Director"),
+            "duración": f"{details.get('runtime', 'Desconocido')} min",
+            "actores": ", ".join(a["name"] for a in credits.get("cast", [])[:5]),
+            "sinopsis": details.get("overview"),
+            "año": details.get("release_date", "")[:4],
+            "poster_path": details.get("poster_path")
+        }
+
 
 
 print("Scraping filmotecanavarra.com...")
+
+with open("equivalencias_sugeridas.json", "r", encoding="utf-8") as f:
+    equivalencias_tmdb = json.load(f)
+
 
 url = "https://www.filmotecanavarra.com/es/comprar-entradas.asp"
 response = requests.get(url)
@@ -109,6 +139,12 @@ links = soup.find_all('a', href=True)
 
 processed_urls = set()
 peliculas = []
+sugerencias_equivalencias = {}
+
+def resolver_equivalencia_tmdb(titulo_original: str) -> dict:
+    clave = titulo_original.strip().lower()
+    return equivalencias_tmdb.get(clave, {})
+
 
 # Inicializar TMDbAPI
 load_dotenv()
@@ -202,7 +238,22 @@ for link in links:
                                 except Exception as e:
                                     print(f"Error al descargar la imagen: {str(e)}")
 
-                        tmdb_info = tmdb_api.get_movie_info(title)
+                        # tmdb_info = tmdb_api.get_movie_info(title)
+                        
+                        equivalencia = resolver_equivalencia_tmdb(title)
+                        if "tmdb_id" in equivalencia:
+                            logger.info(f"Usando equivalencia TMDB para '{title}': ID {equivalencia['tmdb_id']}")
+                            tmdb_info = tmdb_api.get_movie_info_by_id(equivalencia["tmdb_id"])
+                        else:
+                            tmdb_info = tmdb_api.get_movie_info(title)
+                            if not tmdb_info:
+                                sugerencias_equivalencias.setdefault(title.strip().lower(), {
+                                    "tmdb_id": None,
+                                    "titulo_original": "",
+                                    "anio": None
+                                })
+
+
                         if tmdb_info.get('poster_path'):
                             tmdb_poster_url = f"https://image.tmdb.org/t/p/w500{tmdb_info['poster_path']}"
                             tmdb_poster_filename = os.path.join('imagenes_filmoteca', f"tmdb_{re.sub(r'[^a-zA-Z0-9]', '_', title)}.jpg")
@@ -223,6 +274,11 @@ for link in links:
 
         except Exception as e:
             print(f"Error procesando {link['href']}: {str(e)}")
+
+if sugerencias_equivalencias:
+    with open('equivalencias_sugeridas.json', 'w', encoding='utf-8') as f:
+        json.dump(sugerencias_equivalencias, f, ensure_ascii=False, indent=4)
+    print(f"Se han guardado {len(sugerencias_equivalencias)} sugerencias en equivalencias_sugeridas.json")
 
 print("fin de scraping")
 
