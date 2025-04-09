@@ -1,27 +1,5 @@
 [
     {
-        "título": "My Hero Academia: Dos héroes",
-        "cartel": "imagenes_filmaffinity/tmdb_my-hero-academia-dos-heroes.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-04-09",
-                "hora": "18:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=14841"
-            },
-            {
-                "fecha": "2025-04-10",
-                "hora": "18:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=14842"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Kenji Nagasaki",
-        "duración": "95 min",
-        "actores": "Daiki Yamashita, Kenta Miyake, 志田未来, 生瀬勝久, Nobuhiko Okamoto",
-        "sinopsis": "All Might y Deku aceptan una invitación para visitar una ciudad flotante llamada I Island donde conocen a una chica y pelean contra un villano que tiene a toda la isla de rehén.",
-        "año": "2018"
-    },
-    {
         "título": "André Rieu: El sueño continúa",
         "cartel": "imagenes_filmaffinity/andre-rieu-el-sueno-continua.jpg",
         "horarios": [
@@ -37,6 +15,23 @@
         "actores": null,
         "sinopsis": null,
         "año": null
+    },
+    {
+        "título": "My Hero Academia: Dos héroes",
+        "cartel": "imagenes_filmaffinity/tmdb_my-hero-academia-dos-heroes.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-04-10",
+                "hora": "18:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=14842"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Kenji Nagasaki",
+        "duración": "95 min",
+        "actores": "Daiki Yamashita, Kenta Miyake, 志田未来, 生瀬勝久, Nobuhiko Okamoto",
+        "sinopsis": "All Might y Deku aceptan una invitación para visitar una ciudad flotante llamada I Island donde conocen a una chica y pelean contra un villano que tiene a toda la isla de rehén.",
+        "año": "2018"
     },
     {
         "título": "My Hero Academia: El despertar de los héroes",
