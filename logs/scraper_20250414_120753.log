@@ -1,0 +1,55 @@
+2025-04-14 12:07:53,784 - INFO - Iniciando proceso de scraping
+2025-04-14 12:07:53,786 - INFO - Posts existentes encontrados: 2380
+2025-04-14 12:07:53,786 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-04-14 12:07:56,399 - INFO - Se encontraron 10 posts
+2025-04-14 12:07:56,400 - INFO - Comenzando extracción de información del post
+2025-04-14 12:07:56,400 - INFO - Título del post: LA NIÑA DE LA CABRA de Ana Asensio
+2025-04-14 12:07:56,400 - INFO - Fecha del post: 2025-04-14T11:40:02+02:00
+2025-04-14 12:07:56,400 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/04/la-nina-de-la-cabra-ana-asensio-cine-autobiografico.html
+2025-04-14 12:07:57,805 - INFO - Contenido extraído y estructurado (4129 caracteres)
+2025-04-14 12:07:57,805 - INFO - Guardando post en: posts/LA_NIÑA_DE_LA_CABRA_2025-04-14.json
+2025-04-14 12:07:57,805 - INFO - Post guardado exitosamente
+2025-04-14 12:07:57,805 - INFO - Actualizando índice de películas
+2025-04-14 12:07:57,806 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-04-14 12:07:57,809 - INFO - Índice existente cargado con 2478 películas
+2025-04-14 12:07:57,824 - INFO - Película agregada al índice: LA NIÑA DE LA CABRA
+2025-04-14 12:07:57,824 - INFO - Nuevo post guardado: LA NIÑA DE LA CABRA de Ana Asensio
+2025-04-14 12:07:57,824 - INFO - Comenzando extracción de información del post
+2025-04-14 12:07:57,824 - INFO - Título del post: VIDA EN PAUSA de Alexandros Avranas
+2025-04-14 12:07:57,824 - INFO - Fecha del post: 2025-04-14T11:29:51+02:00
+2025-04-14 12:07:57,825 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/04/vida-en-pausa-avranas-inmigracion-distopia.html
+2025-04-14 12:07:59,383 - INFO - Contenido extraído y estructurado (2425 caracteres)
+2025-04-14 12:07:59,383 - INFO - Guardando post en: posts/VIDA_EN_PAUSA_2025-04-14.json
+2025-04-14 12:07:59,383 - INFO - Post guardado exitosamente
+2025-04-14 12:07:59,384 - INFO - Actualizando índice de películas
+2025-04-14 12:07:59,384 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-04-14 12:07:59,387 - INFO - Índice existente cargado con 2479 películas
+2025-04-14 12:07:59,402 - INFO - Película agregada al índice: VIDA EN PAUSA
+2025-04-14 12:07:59,402 - INFO - Nuevo post guardado: VIDA EN PAUSA de Alexandros Avranas
+2025-04-14 12:07:59,402 - INFO - Comenzando extracción de información del post
+2025-04-14 12:07:59,402 - INFO - Título del post: GUILLERMO TELL de Nick Hamm
+2025-04-14 12:07:59,403 - INFO - Fecha del post: 2025-04-14T11:20:28+02:00
+2025-04-14 12:07:59,403 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/04/william-tell-nick-hamm-aventura-anacronica.html
+2025-04-14 12:08:00,790 - INFO - Contenido extraído y estructurado (2469 caracteres)
+2025-04-14 12:08:00,790 - INFO - Guardando post en: posts/GUILLERMO_TELL_2025-04-14.json
+2025-04-14 12:08:00,790 - INFO - Post guardado exitosamente
+2025-04-14 12:08:00,790 - INFO - Actualizando índice de películas
+2025-04-14 12:08:00,790 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-04-14 12:08:00,793 - INFO - Índice existente cargado con 2480 películas
+2025-04-14 12:08:00,808 - INFO - Película agregada al índice: GUILLERMO TELL
+2025-04-14 12:08:00,808 - INFO - Nuevo post guardado: GUILLERMO TELL de Nick Hamm
+2025-04-14 12:08:00,808 - INFO - Comenzando extracción de información del post
+2025-04-14 12:08:00,808 - INFO - Post ya existente, saltando: SORDA de Eva Libertad
+2025-04-14 12:08:00,808 - INFO - Comenzando extracción de información del post
+2025-04-14 12:08:00,809 - INFO - Post ya existente, saltando: UNA BALLENA de Pablo Hernando Esquisabel
+2025-04-14 12:08:00,809 - INFO - Comenzando extracción de información del post
+2025-04-14 12:08:00,809 - INFO - Post ya existente, saltando: LA FURIA de Gemma Blasco
+2025-04-14 12:08:00,809 - INFO - Comenzando extracción de información del post
+2025-04-14 12:08:00,809 - INFO - Post ya existente, saltando: GHOSTLIGHT de Kelly O’Sullivan y Alex Thompson
+2025-04-14 12:08:00,809 - INFO - Comenzando extracción de información del post
+2025-04-14 12:08:00,809 - INFO - Post ya existente, saltando: 8 de Julio Medem
+2025-04-14 12:08:00,810 - INFO - Comenzando extracción de información del post
+2025-04-14 12:08:00,810 - INFO - Post ya existente, saltando: LA CHICA DE LA AGUJA de Magnus von Horn
+2025-04-14 12:08:00,810 - INFO - Comenzando extracción de información del post
+2025-04-14 12:08:00,810 - INFO - Post ya existente, saltando: MISERICORDIA de Alain Guiraudie
+2025-04-14 12:08:00,810 - INFO - Proceso completado. Posts nuevos guardados: 3
