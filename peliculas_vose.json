@@ -21,6 +21,23 @@
         "cartel": "imagenes_peliculas/tmdb_confidencial.jpg",
         "horarios": [
             {
+                "fecha": "2025-04-23",
+                "hora": "22:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=92938&eventCode=95807"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Steven Soderbergh",
+        "duración": "94 min",
+        "actores": "Cate Blanchett, Michael Fassbender, Tom Burke, Marisa Abela, Regé-Jean Page",
+        "sinopsis": "Cuando su amada esposa Kathryn es sospechosa de traicionar a la nación, el legendario agente de inteligencia George Woodhouse se enfrenta a la prueba definitiva: la lealtad a su matrimonio o a su país.",
+        "año": "2025"
+    },
+    {
+        "título": "Confidencial",
+        "cartel": "imagenes_peliculas/tmdb_confidencial.jpg",
+        "horarios": [
+            {
                 "fecha": "2025-04-24",
                 "hora": "22:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=92917&eventCode=95807"
@@ -45,12 +62,12 @@
             {
                 "fecha": "2025-04-22",
                 "hora": "18:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84710&eventCode=97416"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2025-04-22",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84711&eventCode=97416"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -67,7 +84,7 @@
             {
                 "fecha": "2025-04-22",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84708&eventCode=97381"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -128,17 +145,17 @@
             {
                 "fecha": "2025-04-24",
                 "hora": "16:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84739&eventCode=97416"
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84754&eventCode=97416"
             },
             {
                 "fecha": "2025-04-24",
                 "hora": "18:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84740&eventCode=97416"
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84755&eventCode=97416"
             },
             {
                 "fecha": "2025-04-24",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84741&eventCode=97416"
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84756&eventCode=97416"
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -155,7 +172,7 @@
             {
                 "fecha": "2025-04-24",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84738&eventCode=97381"
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84753&eventCode=97381"
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -183,6 +200,72 @@
         "año": "2025"
     },
     {
+        "título": "Star Wars: La Venganza de los Sith (Episodio III)",
+        "cartel": "imagenes_peliculas/1745318529.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-04-25",
+                "hora": "17:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=209910&eventCode=98071"
+            },
+            {
+                "fecha": "2025-04-25",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=209911&eventCode=98071"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Star Wars: La Venganza de los Sith (Episodio III)",
+        "cartel": "imagenes_peliculas/1745318529.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-04-26",
+                "hora": "17:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=209913&eventCode=98071"
+            },
+            {
+                "fecha": "2025-04-26",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=209912&eventCode=98071"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Star Wars: La Venganza de los Sith (Episodio III)",
+        "cartel": "imagenes_peliculas/1745318529.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-04-27",
+                "hora": "17:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=209915&eventCode=98071"
+            },
+            {
+                "fecha": "2025-04-27",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=209914&eventCode=98071"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
         "título": "Pink Floyd at Pompeii – MCMLXXII",
         "cartel": "imagenes_peliculas/tmdb_pink_floyd_at_pompeii_–_mcmlxxii.jpg",
         "horarios": [
@@ -198,5 +281,49 @@
         "actores": "David Gilmour, Nick Mason, Roger Waters, Richard Wright",
         "sinopsis": "",
         "año": "2025"
+    },
+    {
+        "título": "Star Wars: La Venganza de los Sith (Episodio III)",
+        "cartel": "imagenes_peliculas/1745318529.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-04-28",
+                "hora": "17:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=209917&eventCode=98071"
+            },
+            {
+                "fecha": "2025-04-28",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=209916&eventCode=98071"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Star Wars: La Venganza de los Sith (Episodio III)",
+        "cartel": "imagenes_peliculas/1745318529.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-04-29",
+                "hora": "16:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=209919&eventCode=98071"
+            },
+            {
+                "fecha": "2025-04-29",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=209918&eventCode=98071"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
     }
 ]
