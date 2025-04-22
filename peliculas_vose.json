@@ -1,5 +1,22 @@
 [
     {
+        "título": "Confidencial",
+        "cartel": "imagenes_peliculas/tmdb_confidencial.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-04-22",
+                "hora": "22:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=92897&eventCode=95807"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Steven Soderbergh",
+        "duración": "94 min",
+        "actores": "Cate Blanchett, Michael Fassbender, Tom Burke, Marisa Abela, Regé-Jean Page",
+        "sinopsis": "Cuando su amada esposa Kathryn es sospechosa de traicionar a la nación, el legendario agente de inteligencia George Woodhouse se enfrenta a la prueba definitiva: la lealtad a su matrimonio o a su país.",
+        "año": "2025"
+    },
+    {
         "título": "La viajera",
         "cartel": "imagenes_peliculas/tmdb_la_viajera.jpg",
         "horarios": [
