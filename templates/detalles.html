@@ -1,0 +1,153 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalles de la Película</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-4">
+        <h1 class="mb-4">Añadir Película</h1>
+        
+        <div class="mb-3">
+            <a href="{{ url_for('index') }}" class="btn btn-secondary">Volver al Inicio</a>
+            <a href="{{ url_for('buscar') }}?query={{ query }}" class="btn btn-outline-secondary">Volver a Resultados</a>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-4">
+                {% if detalles.poster_path %}
+                <img src="https://image.tmdb.org/t/p/w500{{ detalles.poster_path }}" class="img-fluid rounded mb-3" alt="{{ detalles.título }}">
+                {% else %}
+                <div class="bg-secondary text-white d-flex align-items-center justify-content-center rounded" style="height: 450px;">
+                    <span>Sin imagen</span>
+                </div>
+                {% endif %}
+            </div>
+            <div class="col-md-8">
+                <div class="card mb-4">
+                    <div class="card-header">
+                        <h5>Detalles de la Película</h5>
+                    </div>
+                    <div class="card-body">
+                        <h3>{{ detalles.título }}</h3>
+                        <p class="text-muted">{{ detalles.título_original }} ({{ detalles.año }})</p>
+                        
+                        <dl class="row">
+                            <dt class="col-sm-3">Director:</dt>
+                            <dd class="col-sm-9">{{ detalles.director }}</dd>
+                            
+                            <dt class="col-sm-3">Duración:</dt>
+                            <dd class="col-sm-9">{{ detalles.duración }}</dd>
+                            
+                            <dt class="col-sm-3">Actores:</dt>
+                            <dd class="col-sm-9">{{ detalles.actores }}</dd>
+                        </dl>
+                        
+                        <h5>Sinopsis</h5>
+                        <p>{{ detalles.sinopsis }}</p>
+                    </div>
+                </div>
+                
+                <form action="{{ url_for('guardar') }}" method="POST">
+                    <input type="hidden" name="tmdb_id" value="{{ detalles.id }}">
+                    <input type="hidden" name="titulo" value="{{ detalles.título }}">
+                    <input type="hidden" name="titulo_original" value="{{ detalles.título_original }}">
+                    <input type="hidden" name="director" value="{{ detalles.director }}">
+                    <input type="hidden" name="duracion" value="{{ detalles.duración }}">
+                    <input type="hidden" name="actores" value="{{ detalles.actores }}">
+                    <input type="hidden" name="sinopsis" value="{{ detalles.sinopsis }}">
+                    <input type="hidden" name="anio" value="{{ detalles.año }}">
+                    <input type="hidden" name="poster_path" value="{{ detalles.poster_path }}">
+                    
+                    <div class="card mb-4">
+                        <div class="card-header">
+                            <h5>Información del Cine</h5>
+                        </div>
+                        <div class="card-body">
+                            <div class="mb-3">
+                                <label for="cine" class="form-label">Nombre del Cine:</label>
+                                <input type="text" class="form-control" id="cine" name="cine" required>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="card mb-4">
+                        <div class="card-header d-flex justify-content-between align-items-center">
+                            <h5>Horarios</h5>
+                            <button type="button" class="btn btn-sm btn-info" id="agregar-horario">Añadir Horario</button>
+                        </div>
+                        <div class="card-body">
+                            <div id="horarios-container">
+                                <div class="row mb-3 horario-item">
+                                    <div class="col-md-4">
+                                        <label class="form-label">Fecha:</label>
+                                        <input type="date" class="form-control" name="fechas[]" required>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <label class="form-label">Hora:</label>
+                                        <input type="time" class="form-control" name="horas[]" required>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label class="form-label">Enlace de entradas:</label>
+                                        <input type="url" class="form-control" name="enlaces[]" placeholder="https://">
+                                    </div>
+                                    <div class="col-md-1 d-flex align-items-end">
+                                        <button type="button" class="btn btn-danger eliminar-horario">×</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="mb-4">
+                        <button type="submit" class="btn btn-success">Guardar Película</button>
+                        <a href="{{ url_for('index') }}" class="btn btn-outline-secondary">Cancelar</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const horariosContainer = document.getElementById('horarios-container');
+            const btnAgregarHorario = document.getElementById('agregar-horario');
+            
+            // Función para eliminar horario
+            const setupEliminarListeners = () => {
+                document.querySelectorAll('.eliminar-horario').forEach(btn => {
+                    btn.addEventListener('click', function() {
+                        if (document.querySelectorAll('.horario-item').length > 1) {
+                            this.closest('.horario-item').remove();
+                        } else {
+                            alert('Debe haber al menos un horario');
+                        }
+                    });
+                });
+            };
+            
+            // Configurar listeners iniciales
+            setupEliminarListeners();
+            
+            // Añadir nuevo horario
+            btnAgregarHorario.addEventListener('click', function() {
+                const template = document.querySelector('.horario-item').cloneNode(true);
+                
+                // Limpiar valores del template
+                template.querySelectorAll('input').forEach(input => {
+                    input.value = '';
+                });
+                
+                horariosContainer.appendChild(template);
+                setupEliminarListeners();
+            });
+        });
+    </script>
+</body>
+</html>
+        
