@@ -1,4 +1,4 @@
-# Sistema de Gestión de Películas de Filmoteca de Navarra
+# Sistema de Gestión de Películas Adicionales
 
 Este sistema permite scrapear automáticamente las películas en versión original subtitulada (V.O.S.E.) de la Filmoteca de Navarra, así como añadir manualmente otras películas utilizando la API de TMDB.
 
