@@ -48,11 +48,15 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python scraping_yelmo.py
 
-      # Paso 6: Ejecutar script de Filmoteca
+      # Paso 6: Ejecutar script de Filmoteca con integración
       - name: Ejecutar scraping Filmoteca
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: python scrape_filmoteca.py
+        run: |
+          # Primero ejecutamos el scraper para generar el archivo temporal
+          python scraper_modificado.py --archivo_salida=peliculas_filmoteca_scraping.json
+          # Luego ejecutamos el integrador para mantener las películas añadidas manualmente
+          python integrador.py
 
       # Paso 7: Ejecutar script de Ghost in the Blog
       - name: Ejecutar scraping Ghost in the Blog
