@@ -1,0 +1,111 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administrador de Películas</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-4">
+        <h1 class="mb-4">Administrador de Películas</h1>
+        
+        <div class="row mb-4">
+            <div class="col">
+                <div class="card">
+                    <div class="card-header">
+                        <h5>Buscar Película</h5>
+                    </div>
+                    <div class="card-body">
+                        <form id="search-form" method="GET" action="{{ url_for('buscar') }}">
+                            <div class="mb-3">
+                                <label for="query" class="form-label">Título:</label>
+                                <input type="text" class="form-control" id="query" name="query" required>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Buscar</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5>Películas Guardadas</h5>
+                        <a href="{{ url_for('index') }}" class="btn btn-sm btn-secondary">Actualizar</a>
+                    </div>
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Título</th>
+                                        <th>Año</th>
+                                        <th>Cine</th>
+                                        <th>Sesiones</th>
+                                        <th>Acciones</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {% for pelicula in peliculas %}
+                                    <tr>
+                                        <td>{{ pelicula.título }}</td>
+                                        <td>{{ pelicula.año }}</td>
+                                        <td>{{ pelicula.cine }}</td>
+                                        <td>{{ pelicula.horarios|length }}</td>
+                                        <td>
+                                            <a href="{{ url_for('editar', id=loop.index0) }}" class="btn btn-sm btn-warning">Editar</a>
+                                            <a href="{{ url_for('eliminar', id=loop.index0) }}" class="btn btn-sm btn-danger" onclick="return confirm('¿Estás seguro de eliminar esta película?')">Eliminar</a>
+                                        </td>
+                                    </tr>
+                                    {% else %}
+                                    <tr>
+                                        <td colspan="5" class="text-center">No hay películas guardadas</td>
+                                    </tr>
+                                    {% endfor %}
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        <div class="toast-container position-fixed bottom-0 end-0 p-3">
+          {% for category, message in messages %}
+            <div class="toast show" role="alert" aria-live="assertive" aria-atomic="true">
+              <div class="toast-header bg-{{ 'success' if category == 'success' else 'danger' }}">
+                <strong class="me-auto text-white">{{ 'Éxito' if category == 'success' else 'Error' }}</strong>
+                <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+              </div>
+              <div class="toast-body">{{ message }}</div>
+            </div>
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endwith %}
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    <script>
+      // Auto hide toasts after 3 seconds
+      document.addEventListener('DOMContentLoaded', function() {
+        setTimeout(function() {
+          var toasts = document.querySelectorAll('.toast.show');
+          toasts.forEach(function(toast) {
+            var bsToast = new bootstrap.Toast(toast);
+            bsToast.hide();
+          });
+        }, 3000);
+      });
+    </script>
+</body>
+</html>
+        
