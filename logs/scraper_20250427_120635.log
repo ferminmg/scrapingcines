@@ -1,0 +1,55 @@
+2025-04-27 12:06:35,567 - INFO - Iniciando proceso de scraping
+2025-04-27 12:06:35,569 - INFO - Posts existentes encontrados: 2386
+2025-04-27 12:06:35,569 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-04-27 12:06:37,957 - INFO - Se encontraron 10 posts
+2025-04-27 12:06:37,958 - INFO - Comenzando extracción de información del post
+2025-04-27 12:06:37,958 - INFO - Título del post: THE END de Joshua Oppenheimer
+2025-04-27 12:06:37,958 - INFO - Fecha del post: 2025-04-27T11:08:54+02:00
+2025-04-27 12:06:37,958 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/04/the-end-de-joshua-oppenheimer.html
+2025-04-27 12:06:39,253 - INFO - Contenido extraído y estructurado (4526 caracteres)
+2025-04-27 12:06:39,254 - INFO - Guardando post en: posts/THE_END_2025-04-27.json
+2025-04-27 12:06:39,254 - INFO - Post guardado exitosamente
+2025-04-27 12:06:39,254 - INFO - Actualizando índice de películas
+2025-04-27 12:06:39,254 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-04-27 12:06:39,258 - INFO - Índice existente cargado con 2484 películas
+2025-04-27 12:06:39,272 - INFO - Película agregada al índice: THE END
+2025-04-27 12:06:39,273 - INFO - Nuevo post guardado: THE END de Joshua Oppenheimer
+2025-04-27 12:06:39,273 - INFO - Comenzando extracción de información del post
+2025-04-27 12:06:39,273 - INFO - Título del post: EL ÚLTIMO SUSPIRO de Costa-Gavras
+2025-04-27 12:06:39,273 - INFO - Fecha del post: 2025-04-27T11:08:14+02:00
+2025-04-27 12:06:39,273 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/04/el-ultimo-suspiro-de-costa-gavras.html
+2025-04-27 12:06:40,574 - INFO - Contenido extraído y estructurado (2791 caracteres)
+2025-04-27 12:06:40,575 - INFO - Guardando post en: posts/EL_ÚLTIMO_SUSPIRO_2025-04-27.json
+2025-04-27 12:06:40,575 - INFO - Post guardado exitosamente
+2025-04-27 12:06:40,575 - INFO - Actualizando índice de películas
+2025-04-27 12:06:40,575 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-04-27 12:06:40,579 - INFO - Índice existente cargado con 2485 películas
+2025-04-27 12:06:40,593 - INFO - Película agregada al índice: EL ÚLTIMO SUSPIRO
+2025-04-27 12:06:40,593 - INFO - Nuevo post guardado: EL ÚLTIMO SUSPIRO de Costa-Gavras
+2025-04-27 12:06:40,593 - INFO - Comenzando extracción de información del post
+2025-04-27 12:06:40,594 - INFO - Título del post: EL CASOPLÓN de Joaquín Mazón
+2025-04-27 12:06:40,594 - INFO - Fecha del post: 2025-04-27T10:49:25+02:00
+2025-04-27 12:06:40,594 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/04/el-casoplon-de-joaquin-mazon.html
+2025-04-27 12:06:41,951 - INFO - Contenido extraído y estructurado (2843 caracteres)
+2025-04-27 12:06:41,952 - INFO - Guardando post en: posts/EL_CASOPLÓN_2025-04-27.json
+2025-04-27 12:06:41,952 - INFO - Post guardado exitosamente
+2025-04-27 12:06:41,952 - INFO - Actualizando índice de películas
+2025-04-27 12:06:41,952 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-04-27 12:06:41,955 - INFO - Índice existente cargado con 2486 películas
+2025-04-27 12:06:41,970 - INFO - Película agregada al índice: EL CASOPLÓN
+2025-04-27 12:06:41,970 - INFO - Nuevo post guardado: EL CASOPLÓN de Joaquín Mazón
+2025-04-27 12:06:41,970 - INFO - Comenzando extracción de información del post
+2025-04-27 12:06:41,970 - INFO - Post ya existente, saltando: LA VIAJERA de Hong Sangsoo
+2025-04-27 12:06:41,971 - INFO - Comenzando extracción de información del post
+2025-04-27 12:06:41,971 - INFO - Post ya existente, saltando: AMATEUR de James Hawes
+2025-04-27 12:06:41,971 - INFO - Comenzando extracción de información del post
+2025-04-27 12:06:41,971 - INFO - Post ya existente, saltando: MUY LEJOS de Gerard Oms
+2025-04-27 12:06:41,971 - INFO - Comenzando extracción de información del post
+2025-04-27 12:06:41,971 - INFO - Post ya existente, saltando: LA NIÑA DE LA CABRA de Ana Asensio
+2025-04-27 12:06:41,971 - INFO - Comenzando extracción de información del post
+2025-04-27 12:06:41,972 - INFO - Post ya existente, saltando: VIDA EN PAUSA de Alexandros Avranas
+2025-04-27 12:06:41,972 - INFO - Comenzando extracción de información del post
+2025-04-27 12:06:41,972 - INFO - Post ya existente, saltando: GUILLERMO TELL de Nick Hamm
+2025-04-27 12:06:41,972 - INFO - Comenzando extracción de información del post
+2025-04-27 12:06:41,972 - INFO - Post ya existente, saltando: SORDA de Eva Libertad
+2025-04-27 12:06:41,972 - INFO - Proceso completado. Posts nuevos guardados: 3
