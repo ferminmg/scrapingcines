@@ -86,7 +86,7 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
           echo "Ejecutando script de próximos estrenos..."
-          python proximos_estrenos_inteligente.py --max-pages=10
+          python proximos_estrenos.py --max-pages=10
 
       # Paso 10: Subir cambios al repositorio si los hay
       - name: Subir cambios
