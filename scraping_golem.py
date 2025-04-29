@@ -7,6 +7,7 @@ import logging
 from pathlib import Path
 from dataclasses import dataclass
 import re
+import unicodedata
 from typing import List, Dict, Optional
 from dotenv import load_dotenv
 
@@ -58,7 +59,6 @@ class TMDbAPI:
 
     def _normalize_title(self, title: str) -> str:
         """Normalize title for better matching"""
-        import unicodedata
         # Normalize unicode characters
         title = unicodedata.normalize('NFKD', title).encode('ASCII', 'ignore').decode('ASCII')
         # Remove special characters but keep spaces
@@ -129,6 +129,19 @@ class ImageDownloader:
         self.base_folder = Path(base_folder)
         self.base_folder.mkdir(exist_ok=True)
     
+    def sanitize_filename(self, filename: str) -> str:
+        """Sanitize filename to remove special characters and accents"""
+        # Normalize unicode characters (convert accented chars to their basic form)
+        filename = unicodedata.normalize('NFKD', filename).encode('ASCII', 'ignore').decode('ASCII')
+        # Replace spaces with underscores
+        filename = filename.replace(' ', '_')
+        # Remove any remaining non-alphanumeric characters except underscore
+        filename = re.sub(r'[^a-zA-Z0-9_.]', '', filename)
+        # Ensure the filename isn't too long
+        if len(filename) > 200:
+            filename = filename[:200]
+        return filename
+    
     def download(self, url: str, filename: Optional[str] = None) -> Optional[str]:
         """Download an image and return its local path"""
         if not url.startswith("http"):
@@ -136,9 +149,14 @@ class ImageDownloader:
             
         try:
             if filename:
-                filepath = self.base_folder / filename
+                # Sanitize the provided filename
+                sanitized_filename = self.sanitize_filename(filename)
+                filepath = self.base_folder / sanitized_filename
             else:
-                filepath = self.base_folder / os.path.basename(url)
+                # Get filename from URL and sanitize it
+                url_filename = os.path.basename(url)
+                sanitized_filename = self.sanitize_filename(url_filename)
+                filepath = self.base_folder / sanitized_filename
             
             # Check if image already exists
             if filepath.exists():
@@ -205,9 +223,13 @@ class MovieScraper:
                     image_path = fallback_image_path
                     if tmdb_info.get('poster_path'):
                         poster_url = f"https://image.tmdb.org/t/p/w500{tmdb_info['poster_path']}"
+                        
+                        # Generate a safe filename for the TMDb poster
+                        safe_filename = f"tmdb_{clean_title}.jpg"
+                        
                         tmdb_image_path = self.image_downloader.download(
                             poster_url,
-                            f"tmdb_{clean_title.lower().replace(' ', '_')}.jpg"
+                            safe_filename
                         )
                         if tmdb_image_path:
                             image_path = tmdb_image_path
