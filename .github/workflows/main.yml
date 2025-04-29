@@ -3,6 +3,7 @@ name: Ejecutar scraping cada 4 horas
 on:
   schedule:
     - cron: '0 */4 * * *' # Ejecutar cada 4 horas en el minuto 0
+    - cron: '0 10,22 * * *' # Ejecutar estrenos a las 10:00 y 22:00 UTC cada día
   workflow_dispatch: # Permite ejecutarlo manualmente
 
 jobs:
@@ -13,6 +14,8 @@ jobs:
       # Paso 1: Clonar el repositorio
       - name: Clonar el repositorio
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Para asegurar que tenemos todo el historial para el pull
 
       # Paso 2: Configurar Python
       - name: Configurar Python
@@ -62,21 +65,41 @@ jobs:
       - name: Ejecutar scraping Ghost in the Blog
         run: python scrape_ghostintheblog.py
 
-      # Paso 8: Subir cambios al repositorio si los hay
+      # Paso 8: Determinar si debemos ejecutar el script de próximos estrenos
+      - name: Verificar si ejecutar script de próximos estrenos
+        id: check_time
+        run: |
+          HOUR=$(date +%H)
+          # Ejecutar solo a las 10 y 22 horas UTC, o si es una ejecución manual
+          if [[ "$HOUR" == "10" || "$HOUR" == "22" || "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "Hora actual es $HOUR, ejecutando script de próximos estrenos"
+            echo "run_upcoming=true" >> $GITHUB_OUTPUT
+          else
+            echo "Hora actual es $HOUR, omitiendo script de próximos estrenos"
+            echo "run_upcoming=false" >> $GITHUB_OUTPUT
+          fi
+
+      # Paso 9: Ejecutar script de próximos estrenos (solo 2 veces al día)
+      - name: Ejecutar script de próximos estrenos
+        if: steps.check_time.outputs.run_upcoming == 'true'
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: |
+          echo "Ejecutando script de próximos estrenos..."
+          python proximos_estrenos_inteligente.py --max-pages=10
+
+      # Paso 10: Subir cambios al repositorio si los hay
       - name: Subir cambios
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git stash push --include-untracked || true
-          git pull --rebase origin main
-          git stash pop || true
           git add .
           git diff --cached --quiet || git commit -m "Actualizar datos de scraping"
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Paso 9: Desplegar archivos JSON en GitHub Pages
+      # Paso 11: Desplegar archivos JSON en GitHub Pages
       - name: Deploy JSON to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
