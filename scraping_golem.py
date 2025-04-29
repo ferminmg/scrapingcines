@@ -130,13 +130,15 @@ class ImageDownloader:
         self.base_folder.mkdir(exist_ok=True)
     
     def sanitize_filename(self, filename: str) -> str:
-        """Sanitize filename to remove special characters and accents"""
+        """Sanitize filename to remove special characters and accents, convert to lowercase"""
         # Normalize unicode characters (convert accented chars to their basic form)
         filename = unicodedata.normalize('NFKD', filename).encode('ASCII', 'ignore').decode('ASCII')
+        # Convert to lowercase
+        filename = filename.lower()
         # Replace spaces with underscores
         filename = filename.replace(' ', '_')
         # Remove any remaining non-alphanumeric characters except underscore
-        filename = re.sub(r'[^a-zA-Z0-9_.]', '', filename)
+        filename = re.sub(r'[^a-z0-9_.]', '', filename)
         # Ensure the filename isn't too long
         if len(filename) > 200:
             filename = filename[:200]
@@ -224,8 +226,8 @@ class MovieScraper:
                     if tmdb_info.get('poster_path'):
                         poster_url = f"https://image.tmdb.org/t/p/w500{tmdb_info['poster_path']}"
                         
-                        # Generate a safe filename for the TMDb poster
-                        safe_filename = f"tmdb_{clean_title}.jpg"
+                        # Generate a safe filename for the TMDb poster in lowercase
+                        safe_filename = f"tmdb_{clean_title.lower()}.jpg"
                         
                         tmdb_image_path = self.image_downloader.download(
                             poster_url,
