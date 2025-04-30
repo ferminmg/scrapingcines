@@ -174,6 +174,40 @@
         "cartel": "imagenes_peliculas/tmdb_thunderbolts.jpg",
         "horarios": [
             {
+                "fecha": "2025-05-05",
+                "hora": "22:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=93158&eventCode=94841"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Jake Schreier",
+        "duración": "127 min",
+        "actores": "Florence Pugh, Sebastian Stan, Julia Louis-Dreyfus, Lewis Pullman, David Harbour",
+        "sinopsis": "Un grupo de supervillanos y antihéroes van en misiones para el gobierno. Basado en la serie de cómics del mismo nombre.",
+        "año": "2025"
+    },
+    {
+        "título": "Confidencial",
+        "cartel": "imagenes_peliculas/tmdb_confidencial.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-05",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=93148&eventCode=95807"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Steven Soderbergh",
+        "duración": "94 min",
+        "actores": "Cate Blanchett, Michael Fassbender, Tom Burke, Marisa Abela, Regé-Jean Page",
+        "sinopsis": "Cuando su amada esposa Kathryn es sospechosa de traicionar a la nación, el legendario agente de inteligencia George Woodhouse se enfrenta a la prueba definitiva: la lealtad a su matrimonio o a su país.",
+        "año": "2025"
+    },
+    {
+        "título": "Thunderbolts*",
+        "cartel": "imagenes_peliculas/tmdb_thunderbolts.jpg",
+        "horarios": [
+            {
                 "fecha": "2025-05-06",
                 "hora": "22:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=93161&eventCode=94841"
@@ -295,7 +329,7 @@
             {
                 "fecha": "2025-04-30",
                 "hora": "16:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84882&eventCode=97812"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2025-04-30",
@@ -322,7 +356,7 @@
             {
                 "fecha": "2025-04-30",
                 "hora": "16:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=84871&eventCode=97416"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
