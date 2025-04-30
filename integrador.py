@@ -95,7 +95,12 @@ def backup_peliculas(archivo):
     try:
         if os.path.exists(archivo):
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            backup_file = f"{archivo}.{timestamp}.bak"
+            # backup_file = f"{archivo}.{timestamp}.bak"
+            # backupfile in /backups
+            backup_dir = 'backups'
+            if not os.path.exists(backup_dir):
+                os.makedirs(backup_dir)
+            backup_file = os.path.join(backup_dir, f"{os.path.basename(archivo)}.{timestamp}.bak")
             
             with open(archivo, 'r', encoding='utf-8') as f_orig:
                 contenido = f_orig.read()
