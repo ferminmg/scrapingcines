@@ -1,23 +1,5 @@
 [
     {
-        "título": "Padre padrone (Padre patrón)",
-        "cartel": "imagenes_filmoteca\\tmdb_Padre_padrone__Padre_patr_n_.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-04-30",
-                "hora": "19:30",
-                "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006290000285"
-            }
-        ],
-        "cine": "Filmoteca de Navarra",
-        "tmdb_id": 42225,
-        "director": "Vittorio Taviani, Paolo Taviani",
-        "duración": "117 min",
-        "actores": "Omero Antonutti, Saverio Marconi, Marcella Michelangeli, Fabrizio Forte, Marino Cenna",
-        "sinopsis": "Narra la historia de un niño campesino con un padre tan tiránico y autoritario que le impide ir a la escuela o tener amigos.",
-        "año": "1977"
-    },
-    {
         "título": "Esta no es mi película (To nie mój film)",
         "cartel": "imagenes_filmoteca\\tmdb_Esta_no_es_mi_pel_cula__To_nie_m_j_film_.jpg",
         "horarios": [
@@ -33,7 +15,8 @@
         "duración": "99 min",
         "actores": "Zofia Chabiera, Marcin Sztabiński, Mariusz Saniternik, Elżbieta Karkoszka, Andrzej Iwaniuk",
         "sinopsis": "",
-        "año": "2024"
+        "año": "2024",
+        "_actualizada": true
     },
     {
         "título": "Donde empezamos (Innego końca nie będzie) - CIVIVOX CONDESTABLE",
@@ -51,7 +34,8 @@
         "duración": "84 min",
         "actores": "Maja Pankiewicz, Agata Kulesza, Sebastian Dela, Bartłomiej Topa, Klementyna Karnkowska",
         "sinopsis": "",
-        "año": "2025"
+        "año": "2025",
+        "_actualizada": true
     },
     {
         "título": "La fiesta del fuego (Świeto ognia)",
@@ -69,7 +53,8 @@
         "duración": "94 min",
         "actores": "Paulina Pytlak, Tomasz Sapryk, Joanna Drabik, Kinga Preis, Karolina Gruszka",
         "sinopsis": "",
-        "año": "2023"
+        "año": "2023",
+        "_actualizada": true
     },
     {
         "título": "La quimera - CIVIVOX CONDESTABLE",
@@ -110,60 +95,6 @@
         "_actualizada": true
     },
     {
-        "título": "Ventana indiscreta (Rear Window)",
-        "cartel": "imagenes_filmoteca\\tmdb_Ventana_indiscreta__Rear_Window_.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-05-14",
-                "hora": "19:30",
-                "enlace_entradas": ""
-            }
-        ],
-        "cine": "Filmoteca de Navarra",
-        "tmdb_id": 567,
-        "director": "Alfred Hitchcock",
-        "duración": "112 min",
-        "actores": "James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter, Raymond Burr",
-        "sinopsis": "Un reportero fotográfico se ve obligado a permanecer en reposo con una pierna escayolada. A pesar de la compañía de su novia y de su enfermera, procura escapar al tedio, observando desde la ventana de su apartamento con unos prismáticos lo que ocurre en las viviendas de enfrente. Debido a una serie de extrañas circunstancias empieza a sospechar de un vecino cuya mujer ha desaparecido.",
-        "año": "1954"
-    },
-    {
-        "título": "Dahomey",
-        "cartel": "imagenes_filmoteca\\tmdb_Dahomey.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-05-15",
-                "hora": "19:30",
-                "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006298000291"
-            }
-        ],
-        "cine": "Filmoteca de Navarra",
-        "tmdb_id": 1101256,
-        "director": "Mati Diop",
-        "duración": "67 min",
-        "actores": "Lucrèce Hougbelo, Parfait Vaiayinon, Didier Sedoha Nassangade, Sabine Badjogoumin, Dowoti Desir",
-        "sinopsis": "Es noviembre de 2021 y 26 tesoros reales del Reino de Dahomey están a punto de abandonar París para regresar a su país de origen, la actual República de Benín. Junto con otros miles, estos objetos fueron saqueados por las tropas coloniales francesas en 1892. Pero, ¿qué actitud adoptar ante la vuelta a casa de estas reliquias en un país que tuvo que salir adelante con su ausencia? El debate está abierto entre los estudiantes de la Universidad de Abomey-Calavi.",
-        "año": "2024"
-    },
-    {
-        "título": "El grito (Krzyk)",
-        "cartel": "imagenes_filmoteca\\tmdb_El_grito__Krzyk_.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-05-16",
-                "hora": "19:30",
-                "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006299000292"
-            }
-        ],
-        "cine": "Filmoteca de Navarra",
-        "tmdb_id": 298160,
-        "director": "Barbara Sass",
-        "duración": "88 min",
-        "actores": "Dorota Stalińska, Stanisław Igar, Krzysztof Pieczyński, Iga Cembrzyńska, Anna Romantowska",
-        "sinopsis": "",
-        "año": "1983"
-    },
-    {
         "título": "Anatomía de una caída (Anatomie d''une chute) - CIVIVOX CONDESTABLE",
         "cartel": "imagenes_filmoteca\\tmdb_Anatom_a_de_una_ca_da__Anatomie_d__une_chute____CIVIVOX_CONDESTABLE.jpg",
         "horarios": [
@@ -183,42 +114,6 @@
         "_actualizada": true
     },
     {
-        "título": "El sabor del sake (Sanma no aji)",
-        "cartel": "imagenes_filmoteca\\tmdb_El_sabor_del_sake__Sanma_no_aji_.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-05-21",
-                "hora": "19:30",
-                "enlace_entradas": ""
-            }
-        ],
-        "cine": "Filmoteca de Navarra",
-        "tmdb_id": 50759,
-        "director": "Yasujirō Ozu",
-        "duración": "112 min",
-        "actores": "笠智衆, 岩下志麻, 佐田啓二, 岡田茉莉子, 吉田輝雄",
-        "sinopsis": "Shubei Hirayama es un viudo que vive con su hija de veinticuatro años. Sintiéndose viejo y acabado, el hombre se da cuenta de que ella debería vivir su vida y no tener la obligación de cuidarle permanentemente, así que decide casarla. Aunque su hija se resiste a abandonar a su progenitor, finalmente acabará haciéndolo. Shubei buscará en el licor del sake el refugio de la soledad, el consuelo de la angustia.",
-        "año": "1962"
-    },
-    {
-        "título": "La pequeña vendedora de sol",
-        "cartel": "imagenes_filmoteca\\tmdb_La_peque_a_vendedora_de_sol.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-05-22",
-                "hora": "19:30",
-                "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006304000294"
-            }
-        ],
-        "cine": "Filmoteca de Navarra",
-        "tmdb_id": 108850,
-        "director": "Djibril Diop Mambéty",
-        "duración": "45 min",
-        "actores": "Aminata Fall, Moussa Baldé, Lissa Balera, Dieynaba Laam, Tayerou M'Baye",
-        "sinopsis": "En Dakar, la venta ambulante de periódicos siempre ha sido una actividad de los chicos, pero una mañana esta exclusividad es puesta en duda por Sili, la pequeña mendiga que vive en la calle desplazándose con la ayuda de unas muletas. Tiende la mano en el mismo lugar donde los chicos venden los periódicos, pero la han agredido y ha rodado sobre el asfalto. Su decisión está tomada. A partir de mañana venderá periódicos, como todo el mundo.",
-        "año": "1999"
-    },
-    {
         "título": "El lago salado (Jezioro Słone)",
         "cartel": "imagenes_filmoteca\\tmdb_El_lago_salado__Jezioro_S_one_.jpg",
         "horarios": [
@@ -234,7 +129,8 @@
         "duración": "0 min",
         "actores": "Katarzyna Butowtt, Krzysztof Stelmaszyk, Dorota Kolak, Judyta Paradzińska-Górska, Adam Ferency",
         "sinopsis": "",
-        "año": "2022"
+        "año": "2022",
+        "_actualizada": true
     },
     {
         "título": "Emilia Pérez - CIVIVOX CONDESTABLE",
@@ -290,7 +186,8 @@
         "duración": "84 min",
         "actores": "Julia Polaczek, Nel Kaczmarek, Weronika Kozakowska, Jowita Budnik, Maja Kleszcz",
         "sinopsis": "",
-        "año": "2024"
+        "año": "2024",
+        "_actualizada": true
     },
     {
         "título": "Cortometrajes polacos - CIVIVOX CONDESTABLE",
@@ -309,5 +206,24 @@
         "actores": "",
         "sinopsis": "",
         "año": ""
+    },
+    {
+        "título": "El grito (Krzyk)",
+        "cartel": "imagenes_filmoteca\\tmdb_El_grito__Krzyk_.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-16",
+                "hora": "19:30",
+                "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006299000292"
+            }
+        ],
+        "cine": "Filmoteca de Navarra",
+        "tmdb_id": 298160,
+        "director": "Barbara Sass",
+        "duración": "88 min",
+        "actores": "Dorota Stalińska, Stanisław Igar, Krzysztof Pieczyński, Iga Cembrzyńska, Anna Romantowska",
+        "sinopsis": "",
+        "año": "1983",
+        "_actualizada": true
     }
 ]
