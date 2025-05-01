@@ -222,6 +222,24 @@
         "cine": "Filmoteca de Navarra"
     },
     {
+        "título": "Padre padrone (Padre patrón)",
+        "cartel": "imagenes_filmoteca/tmdb_Padre_padrone__Padre_patr_n_.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-04-30",
+                "hora": "19:30",
+                "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006290000285"
+            }
+        ],
+        "cine": "Filmoteca de Navarra",
+        "tmdb_id": 42225,
+        "director": "Paolo Taviani, Vittorio Taviani",
+        "duración": "117 min",
+        "actores": "Omero Antonutti, Saverio Marconi, Marcella Michelangeli, Fabrizio Forte, Marino Cenna",
+        "sinopsis": "Narra la historia de un niño campesino con un padre tan tiránico y autoritario que le impide ir a la escuela o tener amigos.",
+        "año": "1977"
+    },
+    {
         "título": "Esta no es mi película (To nie mój film)",
         "cartel": "imagenes_filmoteca\\tmdb_Esta_no_es_mi_pel_cula__To_nie_m_j_film_.jpg",
         "horarios": [
@@ -579,6 +597,11 @@
         "cartel": "imagenes_filmoteca\\tmdb_Thunderbolts_.jpg",
         "cine": "Yelmo Itaroa",
         "horarios": [
+            {
+                "fecha": "2025-04-30",
+                "hora": "21:40",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=16283"
+            },
             {
                 "fecha": "2025-05-01",
                 "hora": "21:40",
