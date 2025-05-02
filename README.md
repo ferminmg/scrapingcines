@@ -110,7 +110,7 @@ python ejecutar.py --admin-web
 - `admin_tmdb.py`: Administrador de línea de comandos
 - `ejecutar.py`: Script unificado para ejecutar todos los componentes
 - `peliculas_filmoteca.json`: Archivo principal con todas las películas
-- `equivalencias_sugeridas.json`: Archivo para mapeo de títulos a IDs de TMDB
+- `equivalencias_peliculas.json`: Archivo para mapeo de títulos a IDs de TMDB
 - `imagenes_filmoteca/`: Directorio donde se guardan los carteles de películas
 
 ## Notas Adicionales
@@ -118,4 +118,4 @@ python ejecutar.py --admin-web
 - Las películas añadidas manualmente se preservarán incluso después de ejecutar el scraper.
 - El sistema detecta y elimina automáticamente las sesiones con fechas pasadas.
 - Para cada película, el sistema intentará encontrar información detallada en TMDB.
-- Si el sistema no encuentra una película en TMDB, se añadirá a `equivalencias_sugeridas.json` para mapeo manual.
+- Si el sistema no encuentra una película en TMDB, se añadirá a `equivalencias_peliculas.json` para mapeo manual.

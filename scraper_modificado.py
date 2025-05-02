@@ -138,7 +138,7 @@ def scrapear_filmoteca():
 
     # Cargar equivalencias TMDB
     try:
-        with open("equivalencias_sugeridas.json", "r", encoding="utf-8") as f:
+        with open("equivalencias_peliculas.json", "r", encoding="utf-8") as f:
             equivalencias_tmdb = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         equivalencias_tmdb = {}
@@ -295,9 +295,9 @@ def scrapear_filmoteca():
 
     # Guardar sugerencias de equivalencias
     if sugerencias_equivalencias:
-        with open('equivalencias_sugeridas.json', 'w', encoding='utf-8') as f:
+        with open('equivalencias_peliculas.json', 'w', encoding='utf-8') as f:
             json.dump(sugerencias_equivalencias, f, ensure_ascii=False, indent=4)
-        logger.info(f"Se han guardado {len(sugerencias_equivalencias)} sugerencias en equivalencias_sugeridas.json")
+        logger.info(f"Se han guardado {len(sugerencias_equivalencias)} sugerencias en equivalencias_peliculas.json")
 
     logger.info("Fin de scraping")
     return peliculas
