@@ -1,5 +1,65 @@
 [
     {
+        "título": "Esta no es mi película (To nie mój film)",
+        "cartel": "imagenes_filmoteca/Esta_no_es_mi_pel_cula__To_nie_m_j_film_.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-02",
+                "hora": "19:30",
+                "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006292000286"
+            }
+        ],
+        "cine": "Filmoteca de Navarra"
+    },
+    {
+        "título": "Donde empezamos (Innego końca nie będzie) - CIVIVOX CONDESTABLE",
+        "cartel": "imagenes_filmoteca/Donde_empezamos__Innego_ko_ca_nie_b_dzie____CIVIVOX_CONDESTABLE.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-03",
+                "hora": "19:00",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Filmoteca de Navarra"
+    },
+    {
+        "título": "La fiesta del fuego (Świeto ognia)",
+        "cartel": "imagenes_filmoteca/La_fiesta_del_fuego___wieto_ognia_.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-09",
+                "hora": "19:30",
+                "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Evento.aspx?id=FilmotecaNavarra&Recinto=000303&Espectaculo=000289&ActivePage=0&Seleccionar=1"
+            }
+        ],
+        "cine": "Filmoteca de Navarra"
+    },
+    {
+        "título": "La quimera - CIVIVOX CONDESTABLE",
+        "cartel": "imagenes_filmoteca/La_quimera___CIVIVOX_CONDESTABLE.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-10",
+                "hora": "19:00",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Filmoteca de Navarra"
+    },
+    {
+        "título": "La quimera - ALSASUA -",
+        "cartel": "imagenes_filmoteca/La_quimera___ALSASUA__.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-12",
+                "hora": "19:00",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Filmoteca de Navarra"
+    },
+    {
         "título": "Ventana indiscreta (Rear Window)",
         "cartel": "imagenes_filmoteca/tmdb_Ventana_indiscreta__Rear_Window_.jpg",
         "horarios": [
@@ -54,6 +114,18 @@
         "año": "1978"
     },
     {
+        "título": "Anatomía de una caída (Anatomie d''une chute) - CIVIVOX CONDESTABLE",
+        "cartel": "imagenes_filmoteca/Anatom_a_de_una_ca_da__Anatomie_d__une_chute____CIVIVOX_CONDESTABLE.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-17",
+                "hora": "19:00",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Filmoteca de Navarra"
+    },
+    {
         "título": "El sabor del sake (Sanma no aji)",
         "cartel": "imagenes_filmoteca/tmdb_El_sabor_del_sake__Sanma_no_aji_.jpg",
         "horarios": [
@@ -88,6 +160,66 @@
         "actores": "Aminata Fall, Moussa Baldé, Lissa Balera, Dieynaba Laam, Tayerou M'Baye",
         "sinopsis": "En Dakar, la venta ambulante de periódicos siempre ha sido una actividad de los chicos, pero una mañana esta exclusividad es puesta en duda por Sili, la pequeña mendiga que vive en la calle desplazándose con la ayuda de unas muletas. Tiende la mano en el mismo lugar donde los chicos venden los periódicos, pero la han agredido y ha rodado sobre el asfalto. Su decisión está tomada. A partir de mañana venderá periódicos, como todo el mundo.",
         "año": "1999"
+    },
+    {
+        "título": "El lago salado (Jezioro Słone)",
+        "cartel": "imagenes_filmoteca/El_lago_salado__Jezioro_S_one_.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-23",
+                "hora": "19:30",
+                "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006305000295"
+            }
+        ],
+        "cine": "Filmoteca de Navarra"
+    },
+    {
+        "título": "Emilia Pérez - CIVIVOX CONDESTABLE",
+        "cartel": "imagenes_filmoteca/Emilia_P_rez___CIVIVOX_CONDESTABLE.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-24",
+                "hora": "19:00",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Filmoteca de Navarra"
+    },
+    {
+        "título": "Anselm (Das Rauschen Der Zeit)",
+        "cartel": "imagenes_filmoteca/Anselm__Das_Rauschen_Der_Zeit_.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-28",
+                "hora": "19:30",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Filmoteca de Navarra"
+    },
+    {
+        "título": "El lunes mojado (Lany poniedzialek)",
+        "cartel": "imagenes_filmoteca/El_lunes_mojado__Lany_poniedzialek_.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-30",
+                "hora": "19:30",
+                "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006303000298"
+            }
+        ],
+        "cine": "Filmoteca de Navarra"
+    },
+    {
+        "título": "Cortometrajes polacos - CIVIVOX CONDESTABLE",
+        "cartel": "imagenes_filmoteca/Cortometrajes_polacos___CIVIVOX_CONDESTABLE.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-31",
+                "hora": "19:00",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Filmoteca de Navarra"
     },
     {
         "título": "Esta no es mi película (To nie mój film)",
