@@ -1,5 +1,106 @@
 [
   {
+    "id": 1433342,
+    "tmdb_id": 1433342,
+    "título": "Estimada Sa Bastida",
+    "título_original": "Estimada Sa Bastida",
+    "sinopsis": "Durante generaciones Sa Bastida ha sido habitada por la familia Barceló. Hoy día la soledad inunda la casa y a Joan, mientras la llegada de la civilización hace peligrar todo lo construido hasta ahora.",
+    "poster_path": "/hosbVPi0CxPveNtmHpKUz3QuIjl.jpg",
+    "poster_local": "imagenes_estrenos/Estimada_Sa_Bastida_hosbVPi0CxPveNtmHpKUz3QuIjl.jpg",
+    "backdrop_path": "/7YbKDMu2Yt6IaKPkIq8YdeT6890.jpg",
+    "backdrop_local": "imagenes_estrenos/Estimada_Sa_Bastida_backdrop_7YbKDMu2Yt6IaKPkIq8YdeT6890.jpg",
+    "fecha_estreno": "",
+    "duración": "12 min",
+    "director": "Tomeu Bosch",
+    "directores": [
+      {
+        "name": "Tomeu Bosch",
+        "id": 4650061
+      }
+    ],
+    "actores": [
+      {
+        "name": "Joan López",
+        "id": 5242986,
+        "character": "Joan",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0631,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/7YbKDMu2Yt6IaKPkIq8YdeT6890.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/yTtHWq6v14XKYBiD0zjYnOvRJZH.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/rXvhq6Q0oStYxRZSfGCxDeZq5wS.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/aGMkjH38ZZ2cmDyHoIwurXpRUNW.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/s8IF0ibsi1wP3JT1IjBrScc8Ydz.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1800,
+          "iso_639_1": null,
+          "file_path": "/w5tEFuZnmvltU19IXdFoeIBF34.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1200
+        }
+      ]
+    },
+    "última_actualización": "2025-05-09 10:05:18"
+  },
+  {
     "id": 324544,
     "tmdb_id": 324544,
     "título": "Tierras perdidas",
@@ -1091,7 +1192,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.1554,
+    "popularidad": 0.1132,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1111,7 +1212,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-08 22:02:49"
+    "última_actualización": "2025-05-09 10:05:17"
   },
   {
     "id": 1127632,
@@ -1146,7 +1247,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.6602,
+    "popularidad": 0.6786,
     "puntuación": 7.7,
     "votos": 9,
     "adulto": false,
@@ -1202,7 +1303,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-08 22:02:47"
+    "última_actualización": "2025-05-09 10:05:15"
   },
   {
     "id": 1051486,
@@ -1273,7 +1374,7 @@
         "name": "Aventura"
       }
     ],
-    "popularidad": 0.5899,
+    "popularidad": 0.6389,
     "puntuación": 6.333,
     "votos": 24,
     "adulto": false,
@@ -1329,7 +1430,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-08 22:02:47"
+    "última_actualización": "2025-05-09 10:05:15"
   },
   {
     "id": 574475,
@@ -1343,15 +1444,15 @@
     "backdrop_local": "imagenes_estrenos/Destino_final__Lazos_de_sangre_backdrop_2q56lAr8zr43m2soEQe3IXyND9q.jpg",
     "fecha_estreno": "2025-05-16T00:00:00.000Z",
     "duración": "110 min",
-    "director": "Zach Lipovsky, Adam B. Stein",
+    "director": "Adam B. Stein, Zach Lipovsky",
     "directores": [
-      {
-        "name": "Zach Lipovsky",
-        "id": 1181022
-      },
       {
         "name": "Adam B. Stein",
         "id": 1938317
+      },
+      {
+        "name": "Zach Lipovsky",
+        "id": 1181022
       }
     ],
     "actores": [
@@ -1396,9 +1497,9 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 59.5062,
-    "puntuación": 7.5,
-    "votos": 6,
+    "popularidad": 63.3385,
+    "puntuación": 6.889,
+    "votos": 9,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1498,7 +1599,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:44"
+    "última_actualización": "2025-05-09 10:05:13"
   },
   {
     "id": 1030588,
@@ -1573,7 +1674,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 3.9351,
+    "popularidad": 4.3626,
     "puntuación": 6.553,
     "votos": 19,
     "adulto": false,
@@ -1639,7 +1740,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:45"
+    "última_actualización": "2025-05-09 10:05:14"
   },
   {
     "id": 1079244,
@@ -1706,7 +1807,7 @@
         "name": "Bélica"
       }
     ],
-    "popularidad": 1.7287,
+    "popularidad": 1.892,
     "puntuación": 6.9,
     "votos": 42,
     "adulto": false,
@@ -1772,7 +1873,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:45"
+    "última_actualización": "2025-05-09 10:05:14"
   },
   {
     "id": 960299,
@@ -1831,7 +1932,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.1315,
+    "popularidad": 1.0665,
     "puntuación": 6.633,
     "votos": 15,
     "adulto": false,
@@ -1870,7 +1971,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:46"
+    "última_actualización": "2025-05-09 10:05:15"
   },
   {
     "id": 1082424,
@@ -1937,7 +2038,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.0201,
+    "popularidad": 0.9145,
     "puntuación": 6.9,
     "votos": 18,
     "adulto": false,
@@ -1985,7 +2086,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:46"
+    "última_actualización": "2025-05-09 10:05:15"
   },
   {
     "id": 997892,
@@ -2044,7 +2145,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 0.2246,
+    "popularidad": 0.2731,
     "puntuación": 4.0,
     "votos": 2,
     "adulto": false,
@@ -2091,7 +2192,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-08 22:02:48"
+    "última_actualización": "2025-05-09 10:05:17"
   },
   {
     "id": 1084695,
@@ -2150,7 +2251,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.1739,
+    "popularidad": 0.179,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2197,7 +2298,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-08 22:02:48"
+    "última_actualización": "2025-05-09 10:05:17"
   },
   {
     "id": 1315946,
@@ -2260,7 +2361,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 0.1578,
+    "popularidad": 0.1313,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2289,7 +2390,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-08 22:02:49"
+    "última_actualización": "2025-05-09 10:05:17"
   },
   {
     "id": 1270816,
@@ -2346,7 +2447,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 0.1222,
+    "popularidad": 0.0994,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2356,7 +2457,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-05-08 22:02:49"
+    "última_actualización": "2025-05-09 10:05:18"
   },
   {
     "id": 1174485,
@@ -2415,7 +2516,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.1186,
+    "popularidad": 0.1283,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2435,108 +2536,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:49"
-  },
-  {
-    "id": 1433342,
-    "tmdb_id": 1433342,
-    "título": "Estimada Sa Bastida",
-    "título_original": "Estimada Sa Bastida",
-    "sinopsis": "Durante generaciones Sa Bastida ha sido habitada por la familia Barceló. Hoy día la soledad inunda la casa y a Joan, mientras la llegada de la civilización hace peligrar todo lo construido hasta ahora.",
-    "poster_path": "/hosbVPi0CxPveNtmHpKUz3QuIjl.jpg",
-    "poster_local": "imagenes_estrenos/Estimada_Sa_Bastida_hosbVPi0CxPveNtmHpKUz3QuIjl.jpg",
-    "backdrop_path": "/7YbKDMu2Yt6IaKPkIq8YdeT6890.jpg",
-    "backdrop_local": "imagenes_estrenos/Estimada_Sa_Bastida_backdrop_7YbKDMu2Yt6IaKPkIq8YdeT6890.jpg",
-    "fecha_estreno": "2025-05-18T00:00:00.000Z",
-    "duración": "12 min",
-    "director": "Tomeu Bosch",
-    "directores": [
-      {
-        "name": "Tomeu Bosch",
-        "id": 4650061
-      }
-    ],
-    "actores": [
-      {
-        "name": "Joan López",
-        "id": 5242986,
-        "character": "Joan",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.0631,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/7YbKDMu2Yt6IaKPkIq8YdeT6890.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/yTtHWq6v14XKYBiD0zjYnOvRJZH.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/rXvhq6Q0oStYxRZSfGCxDeZq5wS.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/aGMkjH38ZZ2cmDyHoIwurXpRUNW.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/s8IF0ibsi1wP3JT1IjBrScc8Ydz.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1800,
-          "iso_639_1": null,
-          "file_path": "/w5tEFuZnmvltU19IXdFoeIBF34.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1200
-        }
-      ]
-    },
-    "última_actualización": "2025-05-08 22:02:50"
+    "última_actualización": "2025-05-09 10:05:18"
   },
   {
     "id": 575265,
@@ -2603,7 +2603,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 60.1572,
+    "popularidad": 62.0192,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2705,7 +2705,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:44"
+    "última_actualización": "2025-05-09 10:05:13"
   },
   {
     "id": 552524,
@@ -2772,7 +2772,7 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 33.2911,
+    "popularidad": 35.5178,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2874,7 +2874,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:44"
+    "última_actualización": "2025-05-09 10:05:13"
   },
   {
     "id": 977262,
@@ -2937,7 +2937,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.5432,
+    "popularidad": 3.415,
     "puntuación": 7.006,
     "votos": 80,
     "adulto": false,
@@ -3039,7 +3039,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:45"
+    "última_actualización": "2025-05-09 10:05:14"
   },
   {
     "id": 1103678,
@@ -3053,15 +3053,15 @@
     "backdrop_local": "imagenes_estrenos/Sus_hijos_despu_s_de_ellos_backdrop_r3xfgPr2eUyYTTVcwjYqn6lDzRL.jpg",
     "fecha_estreno": "2025-05-23T00:00:00.000Z",
     "duración": "146 min",
-    "director": "Zoran Boukherma, Ludovic Boukherma",
+    "director": "Ludovic Boukherma, Zoran Boukherma",
     "directores": [
-      {
-        "name": "Zoran Boukherma",
-        "id": 1485755
-      },
       {
         "name": "Ludovic Boukherma",
         "id": 1485754
+      },
+      {
+        "name": "Zoran Boukherma",
+        "id": 1485755
       }
     ],
     "actores": [
@@ -3106,7 +3106,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 1.5901,
+    "popularidad": 1.4995,
     "puntuación": 6.733,
     "votos": 58,
     "adulto": false,
@@ -3172,7 +3172,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:45"
+    "última_actualización": "2025-05-09 10:05:14"
   },
   {
     "id": 1233094,
@@ -3226,7 +3226,7 @@
       }
     ],
     "géneros": [],
-    "popularidad": 0.3909,
+    "popularidad": 0.4091,
     "puntuación": 6.0,
     "votos": 1,
     "adulto": false,
@@ -3282,7 +3282,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-08 22:02:47"
+    "última_actualización": "2025-05-09 10:05:16"
   },
   {
     "id": 800090,
@@ -3341,7 +3341,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.3795,
+    "popularidad": 0.4305,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3380,7 +3380,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:48"
+    "última_actualización": "2025-05-09 10:05:16"
   },
   {
     "id": 1458480,
@@ -3443,7 +3443,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 0.1282,
+    "popularidad": 0.1243,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3453,7 +3453,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-05-08 22:02:49"
+    "última_actualización": "2025-05-09 10:05:17"
   },
   {
     "id": 1462845,
@@ -3512,7 +3512,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.0766,
+    "popularidad": 0.0536,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3532,7 +3532,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:50"
+    "última_actualización": "2025-05-09 10:05:18"
   },
   {
     "id": 1338606,
@@ -3560,7 +3560,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.0546,
+    "popularidad": 0.087,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3626,7 +3626,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:50"
+    "última_actualización": "2025-05-09 10:05:19"
   },
   {
     "id": 1389750,
@@ -3689,7 +3689,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 0.0918,
+    "popularidad": 0.0731,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3709,7 +3709,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:49"
+    "última_actualización": "2025-05-09 10:05:18"
   },
   {
     "id": 1083968,
@@ -3764,16 +3764,12 @@
     ],
     "géneros": [
       {
-        "id": 27,
-        "name": "Terror"
-      },
-      {
         "id": 53,
         "name": "Suspense"
       }
     ],
-    "popularidad": 46.2646,
-    "puntuación": 6.222,
+    "popularidad": 45.7284,
+    "puntuación": 6.2,
     "votos": 115,
     "adulto": false,
     "video": false,
@@ -3847,7 +3843,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:44"
+    "última_actualización": "2025-05-09 10:05:13"
   },
   {
     "id": 1078600,
@@ -3910,9 +3906,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 8.6582,
-    "puntuación": 6.5,
-    "votos": 60,
+    "popularidad": 10.1306,
+    "puntuación": 6.379,
+    "votos": 62,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3985,7 +3981,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:45"
+    "última_actualización": "2025-05-09 10:05:13"
   },
   {
     "id": 1137350,
@@ -4052,7 +4048,7 @@
         "name": "Crimen"
       }
     ],
-    "popularidad": 7.1905,
+    "popularidad": 7.3907,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4127,7 +4123,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:45"
+    "última_actualización": "2025-05-09 10:05:14"
   },
   {
     "id": 974613,
@@ -4190,7 +4186,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.4092,
+    "popularidad": 1.8509,
     "puntuación": 4.8,
     "votos": 8,
     "adulto": false,
@@ -4256,7 +4252,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:46"
+    "última_actualización": "2025-05-09 10:05:14"
   },
   {
     "id": 1104937,
@@ -4323,7 +4319,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.3601,
+    "popularidad": 1.2143,
     "puntuación": 6.6,
     "votos": 37,
     "adulto": false,
@@ -4389,7 +4385,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:46"
+    "última_actualización": "2025-05-09 10:05:15"
   },
   {
     "id": 1107215,
@@ -4452,7 +4448,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 1.2486,
+    "popularidad": 1.1242,
     "puntuación": 7.0,
     "votos": 126,
     "adulto": false,
@@ -4508,7 +4504,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-08 22:02:46"
+    "última_actualización": "2025-05-09 10:05:15"
   },
   {
     "id": 1458437,
@@ -4535,7 +4531,7 @@
         "name": "Animación"
       }
     ],
-    "popularidad": 0.4955,
+    "popularidad": 0.4151,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4573,7 +4569,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-08 22:02:47"
+    "última_actualización": "2025-05-09 10:05:16"
   },
   {
     "id": 1059010,
@@ -4640,7 +4636,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.371,
+    "popularidad": 0.3089,
     "puntuación": 6.1,
     "votos": 30,
     "adulto": false,
@@ -4724,7 +4720,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:48"
+    "última_actualización": "2025-05-09 10:05:16"
   },
   {
     "id": 986855,
@@ -4783,7 +4779,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.332,
+    "popularidad": 0.6601,
     "puntuación": 6.8,
     "votos": 15,
     "adulto": false,
@@ -4831,7 +4827,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:48"
+    "última_actualización": "2025-05-09 10:05:16"
   },
   {
     "id": 1452198,
@@ -4890,7 +4886,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 0.2033,
+    "popularidad": 0.1935,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4900,7 +4896,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-05-08 22:02:48"
+    "última_actualización": "2025-05-09 10:05:17"
   },
   {
     "id": 1441660,
@@ -4930,7 +4926,7 @@
       }
     ],
     "géneros": [],
-    "popularidad": 0.0389,
+    "popularidad": 0.0461,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4950,7 +4946,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:50"
+    "última_actualización": "2025-05-09 10:05:19"
   },
   {
     "id": 1461317,
@@ -4993,7 +4989,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:51"
+    "última_actualización": "2025-05-09 10:05:19"
   },
   {
     "id": 1382809,
@@ -5038,7 +5034,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.0894,
+    "popularidad": 0.0802,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -5131,7 +5127,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:50"
+    "última_actualización": "2025-05-09 10:05:18"
   },
   {
     "id": 1257009,
@@ -5198,7 +5194,7 @@
         "name": "Bélica"
       }
     ],
-    "popularidad": 1.2915,
+    "popularidad": 1.3151,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -5227,7 +5223,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-08 22:02:46"
+    "última_actualización": "2025-05-09 10:05:15"
   },
   {
     "id": 1461035,
@@ -5310,7 +5306,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:50"
+    "última_actualización": "2025-05-09 10:05:19"
   },
   {
     "id": 1413259,
@@ -5368,7 +5364,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:51"
+    "última_actualización": "2025-05-09 10:05:19"
   },
   {
     "id": 838145,
@@ -5403,8 +5399,8 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.5392,
-    "puntuación": 7.211,
+    "popularidad": 0.5269,
+    "puntuación": 7.2,
     "votos": 19,
     "adulto": false,
     "video": false,
@@ -5459,7 +5455,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-08 22:02:47"
+    "última_actualización": "2025-05-09 10:05:16"
   },
   {
     "id": 1011477,
@@ -5502,13 +5498,13 @@
       {
         "name": "Joshua Jackson",
         "id": 11866,
-        "character": "Victor",
+        "character": "Victor Lipani",
         "profile_path": "/mH2a5YFd8J7upjjWwEzM75vitA2.jpg"
       },
       {
         "name": "Sadie Stanley",
         "id": 2030076,
-        "character": "",
+        "character": "Mia Lipani",
         "profile_path": "/tBijc7eYGJCPVS818rAcJJwAWBr.jpg"
       }
     ],
@@ -5526,9 +5522,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 29.5572,
-    "puntuación": 9.5,
-    "votos": 2,
+    "popularidad": 45.742,
+    "puntuación": 9.667,
+    "votos": 3,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -5628,6 +5624,6 @@
         }
       ]
     },
-    "última_actualización": "2025-05-08 22:02:45"
+    "última_actualización": "2025-05-09 10:05:13"
   }
 ]
