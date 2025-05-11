@@ -72,6 +72,25 @@
         "año": "1999"
     },
     {
+        "título": "La quimera - CIVIVOX CONDESTABLE",
+        "cartel": "imagenes_filmoteca\\tmdb_La_quimera___CIVIVOX_CONDESTABLE.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-10",
+                "hora": "19:00",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Civivox Condestable",
+        "tmdb_id": 837335,
+        "director": "Alice Rohrwacher",
+        "duración": "131 min",
+        "actores": "Josh O'Connor, Carol Duarte, Alba Rohrwacher, Isabella Rossellini, Vincenzo Nemolato",
+        "sinopsis": "Todos tenemos una quimera, algo que deseamos hacer, tener, pero que nunca encontramos. Para la banda de 'tombaroli', los ladrones de antiguas tumbas y de yacimientos arqueológicos, la quimera es soñar con dejar de trabajar y hacerse ricos sin esfuerzo. Para Arthur, la quimera se parece a Benjamina, la mujer a la que perdió. Con tal de encontrarla, Arthur se enfrentará a lo invisible, indagará por todas partes, penetrará en la tierra, decidido a encontrar la puerta que lleva al Más Allá de que hablan los mitos. En su osado recorrido entre vivos y muertos, bosques y ciudades, fiestas y soledades, los destinos de los personajes se cruzan, todos en busca de su quimera.",
+        "año": "2023",
+        "_actualizada": true
+    },
+    {
         "título": "La quimera - ALSASUA -",
         "cartel": "imagenes_filmoteca\\tmdb_La_quimera___ALSASUA__.jpg",
         "horarios": [
@@ -218,6 +237,24 @@
         "actores": "",
         "sinopsis": "",
         "año": ""
+    },
+    {
+        "título": "El hombre elefante",
+        "tmdb_id": 1955,
+        "director": "David Lynch",
+        "duración": "124 min",
+        "actores": "Anthony Hopkins, John Hurt, Anne Bancroft, John Gielgud, Wendy Hiller",
+        "sinopsis": "A finales del siglo XIX, el doctor Frederick Treves descubre en un circo a un hombre llamado John Merrick. Se trata de un ciudadano británico con la cabeza monstruosamente deformada, que vive en una situación de constante humillación y sufrimiento al ser exhibido diariamente como una atracción de feria.",
+        "año": "1980",
+        "cartel": "imagenes_filmoteca\\tmdb_El_hombre_elefante.jpg",
+        "cine": "Casa de la Juventud",
+        "horarios": [
+            {
+                "fecha": "2025-05-10",
+                "hora": "18:00",
+                "enlace_entradas": ""
+            }
+        ]
     },
     {
         "título": "El reverendo",
