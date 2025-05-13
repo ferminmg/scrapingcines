@@ -145,7 +145,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-13 10:03:01"
+    "última_actualización": "2025-05-13 22:02:42"
   },
   {
     "id": 1051486,
@@ -272,7 +272,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-13 10:02:59"
+    "última_actualización": "2025-05-13 22:02:41"
   },
   {
     "id": 1127632,
@@ -363,7 +363,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-13 10:02:59"
+    "última_actualización": "2025-05-13 22:02:41"
   },
   {
     "id": 574475,
@@ -377,15 +377,15 @@
     "backdrop_local": "imagenes_estrenos/Destino_final__Lazos_de_sangre_backdrop_2q56lAr8zr43m2soEQe3IXyND9q.jpg",
     "fecha_estreno": "2025-05-16T00:00:00.000Z",
     "duración": "110 min",
-    "director": "Adam B. Stein, Zach Lipovsky",
+    "director": "Zach Lipovsky, Adam B. Stein",
     "directores": [
-      {
-        "name": "Adam B. Stein",
-        "id": 1938317
-      },
       {
         "name": "Zach Lipovsky",
         "id": 1181022
+      },
+      {
+        "name": "Adam B. Stein",
+        "id": 1938317
       }
     ],
     "actores": [
@@ -431,8 +431,8 @@
       }
     ],
     "popularidad": 138.5894,
-    "puntuación": 7.1,
-    "votos": 39,
+    "puntuación": 7.2,
+    "votos": 43,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -532,7 +532,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:02:57"
+    "última_actualización": "2025-05-13 22:02:39"
   },
   {
     "id": 1030588,
@@ -546,15 +546,15 @@
     "backdrop_local": "imagenes_estrenos/Anzu__Gato_fantasma_backdrop_oZMpjEvO19ILidHNmRn1QTkXgpQ.jpg",
     "fecha_estreno": "2025-05-16T00:00:00.000Z",
     "duración": "90 min",
-    "director": "久野遥子, 山下敦弘",
+    "director": "山下敦弘, 久野遥子",
     "directores": [
-      {
-        "name": "久野遥子",
-        "id": 1559389
-      },
       {
         "name": "山下敦弘",
         "id": 583881
+      },
+      {
+        "name": "久野遥子",
+        "id": 1559389
       }
     ],
     "actores": [
@@ -673,7 +673,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:02:58"
+    "última_actualización": "2025-05-13 22:02:39"
   },
   {
     "id": 1079244,
@@ -806,7 +806,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:02:58"
+    "última_actualización": "2025-05-13 22:02:40"
   },
   {
     "id": 1082424,
@@ -921,7 +921,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:02:59"
+    "última_actualización": "2025-05-13 22:02:40"
   },
   {
     "id": 960299,
@@ -1019,99 +1019,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:02:59"
-  },
-  {
-    "id": 1315946,
-    "tmdb_id": 1315946,
-    "título": "El Instinto",
-    "título_original": "El Instinto",
-    "sinopsis": "Un arquitecto agorafóbico que necesita desesperadamente una cura se somete a la terapia experimental de un adiestrador de perros de caza.",
-    "poster_path": "/eaFfVOektvXQqwKScwZqWthZpcj.jpg",
-    "poster_local": "imagenes_estrenos/El_Instinto_eaFfVOektvXQqwKScwZqWthZpcj.jpg",
-    "backdrop_path": "/2JGvN5JayrV77UPlgXfQGApOZel.jpg",
-    "backdrop_local": "imagenes_estrenos/El_Instinto_backdrop_2JGvN5JayrV77UPlgXfQGApOZel.jpg",
-    "fecha_estreno": "2025-05-16T00:00:00.000Z",
-    "duración": "92 min",
-    "director": "Juan Albarracín",
-    "directores": [
-      {
-        "name": "Juan Albarracín",
-        "id": 4536518
-      }
-    ],
-    "actores": [
-      {
-        "name": "Javier Pereira",
-        "id": 79289,
-        "character": "Abel",
-        "profile_path": "/edGc0hGWGc11sFOxROosilqyoVp.jpg"
-      },
-      {
-        "name": "Fernando Cayo",
-        "id": 51902,
-        "character": "José",
-        "profile_path": "/sglfXHNFlzOBBLuRrbDkxghSW4H.jpg"
-      },
-      {
-        "name": "Eva Llorach",
-        "id": 1102408,
-        "character": "Sonia",
-        "profile_path": "/8w4O95cpFXkOc9D5Jq0aDrmIUKu.jpg"
-      },
-      {
-        "name": "Pepe Villena",
-        "id": 4555612,
-        "character": "Padre",
-        "profile_path": null
-      },
-      {
-        "name": "Silvia Conesa",
-        "id": 1510033,
-        "character": "Madre",
-        "profile_path": "/n2fhEnM0ek0lDSiXnmfiZduAN47.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 53,
-        "name": "Suspense"
-      },
-      {
-        "id": 27,
-        "name": "Terror"
-      }
-    ],
-    "popularidad": 0.1934,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.775,
-          "height": 721,
-          "iso_639_1": null,
-          "file_path": "/2JGvN5JayrV77UPlgXfQGApOZel.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 959,
-          "iso_639_1": null,
-          "file_path": "/nOgOgX2DpLHzv0oxP1hz8MW5txv.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1705
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-05-13 10:03:00"
+    "última_actualización": "2025-05-13 22:02:40"
   },
   {
     "id": 997892,
@@ -1217,86 +1125,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-13 10:03:00"
-  },
-  {
-    "id": 1174485,
-    "tmdb_id": 1174485,
-    "título": "Centaures de la nit",
-    "título_original": "Centaures de la nit",
-    "sinopsis": "",
-    "poster_path": "/6uP8YufV7P10XLuo7PQYJmhWlam.jpg",
-    "poster_local": "imagenes_estrenos/Centaures_de_la_nit_6uP8YufV7P10XLuo7PQYJmhWlam.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-05-16T00:00:00.000Z",
-    "duración": "105 min",
-    "director": "Marc Recha",
-    "directores": [
-      {
-        "name": "Marc Recha",
-        "id": 618101
-      }
-    ],
-    "actores": [
-      {
-        "name": "Lluís Soler",
-        "id": 1077758,
-        "character": "",
-        "profile_path": "/dhPtlY8jWaPjHCsC4yVtlrvn2mw.jpg"
-      },
-      {
-        "name": "David Siscar",
-        "id": 4255593,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Marc Farré",
-        "id": 2567095,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Montse Germán",
-        "id": 1021760,
-        "character": "",
-        "profile_path": "/AdwTZiVrgprUPx1emCOO3dZMvgf.jpg"
-      },
-      {
-        "name": "Muntsa Alcañiz",
-        "id": 73699,
-        "character": "",
-        "profile_path": "/a6Gc65bTkbISDE6x11g1mqXP7zX.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.2253,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.7,
-          "height": 1215,
-          "iso_639_1": null,
-          "file_path": "/6uP8YufV7P10XLuo7PQYJmhWlam.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 851
-        }
-      ]
-    },
-    "última_actualización": "2025-05-13 10:03:00"
+    "última_actualización": "2025-05-13 22:02:41"
   },
   {
     "id": 1084695,
@@ -1402,7 +1231,178 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-13 10:03:00"
+    "última_actualización": "2025-05-13 22:02:42"
+  },
+  {
+    "id": 1174485,
+    "tmdb_id": 1174485,
+    "título": "Centaures de la nit",
+    "título_original": "Centaures de la nit",
+    "sinopsis": "",
+    "poster_path": "/6uP8YufV7P10XLuo7PQYJmhWlam.jpg",
+    "poster_local": "imagenes_estrenos/Centaures_de_la_nit_6uP8YufV7P10XLuo7PQYJmhWlam.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-05-16T00:00:00.000Z",
+    "duración": "105 min",
+    "director": "Marc Recha",
+    "directores": [
+      {
+        "name": "Marc Recha",
+        "id": 618101
+      }
+    ],
+    "actores": [
+      {
+        "name": "Lluís Soler",
+        "id": 1077758,
+        "character": "",
+        "profile_path": "/dhPtlY8jWaPjHCsC4yVtlrvn2mw.jpg"
+      },
+      {
+        "name": "David Siscar",
+        "id": 4255593,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Marc Farré",
+        "id": 2567095,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Montse Germán",
+        "id": 1021760,
+        "character": "",
+        "profile_path": "/AdwTZiVrgprUPx1emCOO3dZMvgf.jpg"
+      },
+      {
+        "name": "Muntsa Alcañiz",
+        "id": 73699,
+        "character": "",
+        "profile_path": "/a6Gc65bTkbISDE6x11g1mqXP7zX.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.2253,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 1215,
+          "iso_639_1": null,
+          "file_path": "/6uP8YufV7P10XLuo7PQYJmhWlam.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 851
+        }
+      ]
+    },
+    "última_actualización": "2025-05-13 22:02:42"
+  },
+  {
+    "id": 1315946,
+    "tmdb_id": 1315946,
+    "título": "El Instinto",
+    "título_original": "El Instinto",
+    "sinopsis": "Un arquitecto agorafóbico que necesita desesperadamente una cura se somete a la terapia experimental de un adiestrador de perros de caza.",
+    "poster_path": "/eaFfVOektvXQqwKScwZqWthZpcj.jpg",
+    "poster_local": "imagenes_estrenos/El_Instinto_eaFfVOektvXQqwKScwZqWthZpcj.jpg",
+    "backdrop_path": "/2JGvN5JayrV77UPlgXfQGApOZel.jpg",
+    "backdrop_local": "imagenes_estrenos/El_Instinto_backdrop_2JGvN5JayrV77UPlgXfQGApOZel.jpg",
+    "fecha_estreno": "2025-05-16T00:00:00.000Z",
+    "duración": "92 min",
+    "director": "Juan Albarracín",
+    "directores": [
+      {
+        "name": "Juan Albarracín",
+        "id": 4536518
+      }
+    ],
+    "actores": [
+      {
+        "name": "Javier Pereira",
+        "id": 79289,
+        "character": "Abel",
+        "profile_path": "/edGc0hGWGc11sFOxROosilqyoVp.jpg"
+      },
+      {
+        "name": "Fernando Cayo",
+        "id": 51902,
+        "character": "José",
+        "profile_path": "/sglfXHNFlzOBBLuRrbDkxghSW4H.jpg"
+      },
+      {
+        "name": "Eva Llorach",
+        "id": 1102408,
+        "character": "Sonia",
+        "profile_path": "/8w4O95cpFXkOc9D5Jq0aDrmIUKu.jpg"
+      },
+      {
+        "name": "Pepe Villena",
+        "id": 4555612,
+        "character": "Padre",
+        "profile_path": null
+      },
+      {
+        "name": "Silvia Conesa",
+        "id": 1510033,
+        "character": "Madre",
+        "profile_path": "/n2fhEnM0ek0lDSiXnmfiZduAN47.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 0.1934,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.775,
+          "height": 721,
+          "iso_639_1": null,
+          "file_path": "/2JGvN5JayrV77UPlgXfQGApOZel.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 959,
+          "iso_639_1": null,
+          "file_path": "/nOgOgX2DpLHzv0oxP1hz8MW5txv.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1705
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-05-13 22:02:42"
   },
   {
     "id": 1270816,
@@ -1469,14 +1469,14 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-05-13 10:03:01"
+    "última_actualización": "2025-05-13 22:02:42"
   },
   {
     "id": 575265,
     "tmdb_id": 575265,
     "título": "Misión: Imposible - Sentencia final",
     "título_original": "Mission: Impossible - The Final Reckoning",
-    "sinopsis": "Octava entrega de la saga Misión Imposible.",
+    "sinopsis": "El agente Ethan Hunt continúa su misión de impedir que Gabriel controle el tecnológicamente omnipotente programa de IA conocido como \"the Entity\".",
     "poster_path": "/iAQULg2qPYBCXXjF3pKn2FuYwY8.jpg",
     "poster_local": "imagenes_estrenos/Misi_n__Imposible___Sentencia_final_iAQULg2qPYBCXXjF3pKn2FuYwY8.jpg",
     "backdrop_path": "/1p5aI299YBnqrEEvVGJERk2MXXb.jpg",
@@ -1537,8 +1537,8 @@
       }
     ],
     "popularidad": 72.5568,
-    "puntuación": 0.0,
-    "votos": 0,
+    "puntuación": 10.0,
+    "votos": 1,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1638,7 +1638,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:02:57"
+    "última_actualización": "2025-05-13 22:02:39"
   },
   {
     "id": 552524,
@@ -1807,7 +1807,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:02:58"
+    "última_actualización": "2025-05-13 22:02:39"
   },
   {
     "id": 977262,
@@ -1972,7 +1972,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:02:58"
+    "última_actualización": "2025-05-13 22:02:40"
   },
   {
     "id": 1103678,
@@ -1986,15 +1986,15 @@
     "backdrop_local": "imagenes_estrenos/Sus_hijos_despu_s_de_ellos_backdrop_r3xfgPr2eUyYTTVcwjYqn6lDzRL.jpg",
     "fecha_estreno": "2025-05-23T00:00:00.000Z",
     "duración": "146 min",
-    "director": "Zoran Boukherma, Ludovic Boukherma",
+    "director": "Ludovic Boukherma, Zoran Boukherma",
     "directores": [
-      {
-        "name": "Zoran Boukherma",
-        "id": 1485755
-      },
       {
         "name": "Ludovic Boukherma",
         "id": 1485754
+      },
+      {
+        "name": "Zoran Boukherma",
+        "id": 1485755
       }
     ],
     "actores": [
@@ -2105,7 +2105,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:02:58"
+    "última_actualización": "2025-05-13 22:02:40"
   },
   {
     "id": 1233094,
@@ -2215,7 +2215,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-13 10:02:59"
+    "última_actualización": "2025-05-13 22:02:41"
   },
   {
     "id": 800090,
@@ -2313,7 +2313,86 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:02:59"
+    "última_actualización": "2025-05-13 22:02:41"
+  },
+  {
+    "id": 1462845,
+    "tmdb_id": 1462845,
+    "título": "Grup natural",
+    "título_original": "Grup natural",
+    "sinopsis": "La adolescencia y la maduración se retratan en tres momentos y tres edades clave a lo largo de todo un curso escolar en un instituto de Barcelona con un sistema pedagógico propio, una escuela donde el aprendizaje y la gestión emocional dependen de grupos autogestionados de alumnos.",
+    "poster_path": "/zLRkVVNdpJCItZzyk2tyapeJZqZ.jpg",
+    "poster_local": "imagenes_estrenos/Grup_natural_zLRkVVNdpJCItZzyk2tyapeJZqZ.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-05-23T00:00:00.000Z",
+    "duración": "88 min",
+    "director": "Nina Solà",
+    "directores": [
+      {
+        "name": "Nina Solà",
+        "id": 3644479
+      }
+    ],
+    "actores": [
+      {
+        "name": "Otto Millán",
+        "id": 5364610,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Jana Vilella",
+        "id": 5364611,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Jordi Canals",
+        "id": 5364612,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Àngel Jasanada",
+        "id": 5364613,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Charlotte Donadoni",
+        "id": 5364614,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0969,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 2500,
+          "iso_639_1": null,
+          "file_path": "/9a96PMxqu29QnuQaKbeCCMn58B.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1750
+        }
+      ]
+    },
+    "última_actualización": "2025-05-13 22:02:42"
   },
   {
     "id": 1338606,
@@ -2407,7 +2486,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:03:00"
+    "última_actualización": "2025-05-13 22:02:42"
   },
   {
     "id": 1458480,
@@ -2480,86 +2559,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-05-13 10:03:00"
-  },
-  {
-    "id": 1462845,
-    "tmdb_id": 1462845,
-    "título": "Grup natural",
-    "título_original": "Grup natural",
-    "sinopsis": "La adolescencia y la maduración se retratan en tres momentos y tres edades clave a lo largo de todo un curso escolar en un instituto de Barcelona con un sistema pedagógico propio, una escuela donde el aprendizaje y la gestión emocional dependen de grupos autogestionados de alumnos.",
-    "poster_path": "/zLRkVVNdpJCItZzyk2tyapeJZqZ.jpg",
-    "poster_local": "imagenes_estrenos/Grup_natural_zLRkVVNdpJCItZzyk2tyapeJZqZ.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-05-23T00:00:00.000Z",
-    "duración": "88 min",
-    "director": "Nina Solà",
-    "directores": [
-      {
-        "name": "Nina Solà",
-        "id": 3644479
-      }
-    ],
-    "actores": [
-      {
-        "name": "Otto Millán",
-        "id": 5364610,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Jana Vilella",
-        "id": 5364611,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Jordi Canals",
-        "id": 5364612,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Àngel Jasanada",
-        "id": 5364613,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Charlotte Donadoni",
-        "id": 5364614,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.0969,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.7,
-          "height": 2500,
-          "iso_639_1": null,
-          "file_path": "/9a96PMxqu29QnuQaKbeCCMn58B.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1750
-        }
-      ]
-    },
-    "última_actualización": "2025-05-13 10:03:01"
+    "última_actualización": "2025-05-13 22:02:43"
   },
   {
     "id": 1389750,
@@ -2642,7 +2642,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:03:01"
+    "última_actualización": "2025-05-13 22:02:43"
   },
   {
     "id": 1479183,
@@ -2711,7 +2711,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-05-13 10:03:02"
+    "última_actualización": "2025-05-13 22:02:43"
   },
   {
     "id": 1083968,
@@ -2771,8 +2771,8 @@
       }
     ],
     "popularidad": 54.8912,
-    "puntuación": 6.275,
-    "votos": 129,
+    "puntuación": 6.273,
+    "votos": 130,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2845,7 +2845,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:02:57"
+    "última_actualización": "2025-05-13 22:02:39"
   },
   {
     "id": 1078600,
@@ -2983,7 +2983,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:02:58"
+    "última_actualización": "2025-05-13 22:02:39"
   },
   {
     "id": 1137350,
@@ -3125,7 +3125,136 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:02:58"
+    "última_actualización": "2025-05-13 22:02:39"
+  },
+  {
+    "id": 974613,
+    "tmdb_id": 974613,
+    "título": "Las cuatro fantásticas",
+    "título_original": "The Fabulous Four",
+    "sinopsis": "",
+    "poster_path": "/g7kZFm81LBr2wf34MAdKexkZ0NH.jpg",
+    "poster_local": "imagenes_estrenos/Las_cuatro_fant_sticas_g7kZFm81LBr2wf34MAdKexkZ0NH.jpg",
+    "backdrop_path": "/l26AsiS7TfqjKswEavel8BqPviT.jpg",
+    "backdrop_local": "imagenes_estrenos/Las_cuatro_fant_sticas_backdrop_l26AsiS7TfqjKswEavel8BqPviT.jpg",
+    "fecha_estreno": "2025-05-30T00:00:00.000Z",
+    "duración": "99 min",
+    "director": "Jocelyn Moorhouse",
+    "directores": [
+      {
+        "name": "Jocelyn Moorhouse",
+        "id": 3047
+      }
+    ],
+    "actores": [
+      {
+        "name": "Susan Sarandon",
+        "id": 4038,
+        "character": "Lou",
+        "profile_path": "/oHYYL8bNakAREaLUBtMul5uMG0A.jpg"
+      },
+      {
+        "name": "Bette Midler",
+        "id": 73931,
+        "character": "Marilyn",
+        "profile_path": "/ooPKeoLvwacY6BRj99u7uvZCYlF.jpg"
+      },
+      {
+        "name": "Megan Mullally",
+        "id": 52119,
+        "character": "Alice",
+        "profile_path": "/ypdczVeLt9B2zSOeY7e6RO2XWJQ.jpg"
+      },
+      {
+        "name": "Sheryl Lee Ralph",
+        "id": 33613,
+        "character": "Kitty",
+        "profile_path": "/8S9CilET8kJKkxOQPEsA3OYSZGg.jpg"
+      },
+      {
+        "name": "Timothy V. Murphy",
+        "id": 92949,
+        "character": "Captain Ernie",
+        "profile_path": "/4WMz4UUMeexgP1ddfC2j7pqf8hU.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.6599,
+    "puntuación": 4.944,
+    "votos": 9,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/l26AsiS7TfqjKswEavel8BqPviT.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_639_1": null,
+          "file_path": "/dLaX7cTz7GfoMQV2mNvVDE2FJI0.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_639_1": null,
+          "file_path": "/hXvmIifpEFSKCizdNsYtrgGP7H3.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_639_1": null,
+          "file_path": "/zDkAXlg9zuORWtCloPPLPmzGAKZ.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1600
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_639_1": null,
+          "file_path": "/pn6miHzq8BAeShMo6KI1RC0FF5E.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1600
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/p8ela4VIm44De74TDCtbq4FzUF3.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-05-13 22:02:40"
   },
   {
     "id": 1104937,
@@ -3258,136 +3387,100 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:02:58"
+    "última_actualización": "2025-05-13 22:02:40"
   },
   {
-    "id": 974613,
-    "tmdb_id": 974613,
-    "título": "Las cuatro fantásticas",
-    "título_original": "The Fabulous Four",
-    "sinopsis": "",
-    "poster_path": "/g7kZFm81LBr2wf34MAdKexkZ0NH.jpg",
-    "poster_local": "imagenes_estrenos/Las_cuatro_fant_sticas_g7kZFm81LBr2wf34MAdKexkZ0NH.jpg",
-    "backdrop_path": "/l26AsiS7TfqjKswEavel8BqPviT.jpg",
-    "backdrop_local": "imagenes_estrenos/Las_cuatro_fant_sticas_backdrop_l26AsiS7TfqjKswEavel8BqPviT.jpg",
+    "id": 1458437,
+    "tmdb_id": 1458437,
+    "título": "Peppa Meets the Baby Cinema Experience",
+    "título_original": "Peppa Meets the Baby Cinema Experience",
+    "sinopsis": "¡La familia crece! Peppa Pig y su familia te esperan en el cine para compartir la emoción de la llegada de un nuevo miembro, ¡un bebé! Vive con ellos esta gran aventura. Es el momento de crear juntos recuerdos muy especiales con todos los cambios que se avecinan.\r Celebra el comienzo de una nueva era llena de emoción para Peppa Pig con esta experiencia en la gran pantalla: una hora de risas y sinfín de momentos entrañables. Con 10 nuevos episodios repletos de diversión, 6 canciones nuevas y vídeos musicales para que los más pequeños canten y bailen con Peppa, su familia y sus amigos . Por fin ha terminado la espera… ¡Únete a Peppa y a George para dar la bienvenida a su nuevo hermanito en Peppa: La Ilegada del bebé. Una experiencia en cines!",
+    "poster_path": "/5ZH7oHKjym2xMtnUBQwP5oHjZW5.jpg",
+    "poster_local": "imagenes_estrenos/Peppa_Meets_the_Baby_Cinema_Experience_5ZH7oHKjym2xMtnUBQwP5oHjZW5.jpg",
+    "backdrop_path": "/skp8JLXvOGkmbzvg3CVU8GniqAY.jpg",
+    "backdrop_local": "imagenes_estrenos/Peppa_Meets_the_Baby_Cinema_Experience_backdrop_skp8JLXvOGkmbzvg3CVU8GniqAY.jpg",
     "fecha_estreno": "2025-05-30T00:00:00.000Z",
-    "duración": "99 min",
-    "director": "Jocelyn Moorhouse",
+    "duración": "66 min",
+    "director": "Gretchen Mallorie, Andrea Tran",
     "directores": [
       {
-        "name": "Jocelyn Moorhouse",
-        "id": 3047
+        "name": "Gretchen Mallorie",
+        "id": 3565487
+      },
+      {
+        "name": "Andrea Tran",
+        "id": 1787769
       }
     ],
     "actores": [
       {
-        "name": "Susan Sarandon",
-        "id": 4038,
-        "character": "Lou",
-        "profile_path": "/oHYYL8bNakAREaLUBtMul5uMG0A.jpg"
+        "name": "John Sparkes",
+        "id": 1212388,
+        "character": "Narrator (voice)",
+        "profile_path": "/kP6nILSReaAU0HpoHrs0nOvGLxU.jpg"
       },
       {
-        "name": "Bette Midler",
-        "id": 73931,
-        "character": "Marilyn",
-        "profile_path": "/ooPKeoLvwacY6BRj99u7uvZCYlF.jpg"
+        "name": "Morwenna Banks",
+        "id": 59070,
+        "character": "Mommy Pig (voice)",
+        "profile_path": "/oraLxvDNim7ixQEcJz9nVqgy0eT.jpg"
       },
       {
-        "name": "Megan Mullally",
-        "id": 52119,
-        "character": "Alice",
-        "profile_path": "/ypdczVeLt9B2zSOeY7e6RO2XWJQ.jpg"
-      },
-      {
-        "name": "Sheryl Lee Ralph",
-        "id": 33613,
-        "character": "Kitty",
-        "profile_path": "/8S9CilET8kJKkxOQPEsA3OYSZGg.jpg"
-      },
-      {
-        "name": "Timothy V. Murphy",
-        "id": 92949,
-        "character": "Captain Ernie",
-        "profile_path": "/4WMz4UUMeexgP1ddfC2j7pqf8hU.jpg"
+        "name": "Richard Ridings",
+        "id": 6645,
+        "character": "Daddy Pig (voice)",
+        "profile_path": "/eH3QE45JSgJtw0j14PLcGmEaVOG.jpg"
       }
     ],
     "géneros": [
       {
-        "id": 35,
-        "name": "Comedia"
+        "id": 10751,
+        "name": "Familia"
       },
       {
-        "id": 18,
-        "name": "Drama"
+        "id": 16,
+        "name": "Animación"
       }
     ],
-    "popularidad": 1.6599,
-    "puntuación": 4.944,
-    "votos": 9,
+    "popularidad": 0.8725,
+    "puntuación": 0.0,
+    "votos": 0,
     "adulto": false,
     "video": false,
-    "año": "2024",
+    "año": "2025",
     "imágenes": {
       "backdrops": [
         {
           "aspect_ratio": 1.778,
-          "height": 2160,
+          "height": 1150,
           "iso_639_1": null,
-          "file_path": "/l26AsiS7TfqjKswEavel8BqPviT.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/dLaX7cTz7GfoMQV2mNvVDE2FJI0.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/hXvmIifpEFSKCizdNsYtrgGP7H3.jpg",
+          "file_path": "/skp8JLXvOGkmbzvg3CVU8GniqAY.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
-          "width": 1920
+          "width": 2045
         },
         {
           "aspect_ratio": 1.778,
-          "height": 900,
+          "height": 1150,
           "iso_639_1": null,
-          "file_path": "/zDkAXlg9zuORWtCloPPLPmzGAKZ.jpg",
+          "file_path": "/evuWdBiXFb0c2LjtI9798N4GI8B.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
-          "width": 1600
+          "width": 2045
         },
         {
           "aspect_ratio": 1.778,
-          "height": 900,
+          "height": 1150,
           "iso_639_1": null,
-          "file_path": "/pn6miHzq8BAeShMo6KI1RC0FF5E.jpg",
+          "file_path": "/7rM9aVC6oWRC3zyAY01773Y2In4.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
-          "width": 1600
+          "width": 2045
         }
       ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/p8ela4VIm44De74TDCtbq4FzUF3.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
+      "posters": []
     },
-    "última_actualización": "2025-05-13 10:02:58"
+    "última_actualización": "2025-05-13 22:02:40"
   },
   {
     "id": 1107215,
@@ -3506,100 +3599,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-13 10:02:59"
-  },
-  {
-    "id": 1458437,
-    "tmdb_id": 1458437,
-    "título": "Peppa Meets the Baby Cinema Experience",
-    "título_original": "Peppa Meets the Baby Cinema Experience",
-    "sinopsis": "¡La familia crece! Peppa Pig y su familia te esperan en el cine para compartir la emoción de la llegada de un nuevo miembro, ¡un bebé! Vive con ellos esta gran aventura. Es el momento de crear juntos recuerdos muy especiales con todos los cambios que se avecinan.\r Celebra el comienzo de una nueva era llena de emoción para Peppa Pig con esta experiencia en la gran pantalla: una hora de risas y sinfín de momentos entrañables. Con 10 nuevos episodios repletos de diversión, 6 canciones nuevas y vídeos musicales para que los más pequeños canten y bailen con Peppa, su familia y sus amigos . Por fin ha terminado la espera… ¡Únete a Peppa y a George para dar la bienvenida a su nuevo hermanito en Peppa: La Ilegada del bebé. Una experiencia en cines!",
-    "poster_path": "/5ZH7oHKjym2xMtnUBQwP5oHjZW5.jpg",
-    "poster_local": "imagenes_estrenos/Peppa_Meets_the_Baby_Cinema_Experience_5ZH7oHKjym2xMtnUBQwP5oHjZW5.jpg",
-    "backdrop_path": "/skp8JLXvOGkmbzvg3CVU8GniqAY.jpg",
-    "backdrop_local": "imagenes_estrenos/Peppa_Meets_the_Baby_Cinema_Experience_backdrop_skp8JLXvOGkmbzvg3CVU8GniqAY.jpg",
-    "fecha_estreno": "2025-05-30T00:00:00.000Z",
-    "duración": "66 min",
-    "director": "Gretchen Mallorie, Andrea Tran",
-    "directores": [
-      {
-        "name": "Gretchen Mallorie",
-        "id": 3565487
-      },
-      {
-        "name": "Andrea Tran",
-        "id": 1787769
-      }
-    ],
-    "actores": [
-      {
-        "name": "John Sparkes",
-        "id": 1212388,
-        "character": "Narrator (voice)",
-        "profile_path": "/kP6nILSReaAU0HpoHrs0nOvGLxU.jpg"
-      },
-      {
-        "name": "Morwenna Banks",
-        "id": 59070,
-        "character": "Mommy Pig (voice)",
-        "profile_path": "/oraLxvDNim7ixQEcJz9nVqgy0eT.jpg"
-      },
-      {
-        "name": "Richard Ridings",
-        "id": 6645,
-        "character": "Daddy Pig (voice)",
-        "profile_path": "/eH3QE45JSgJtw0j14PLcGmEaVOG.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 10751,
-        "name": "Familia"
-      },
-      {
-        "id": 16,
-        "name": "Animación"
-      }
-    ],
-    "popularidad": 0.8725,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1150,
-          "iso_639_1": null,
-          "file_path": "/skp8JLXvOGkmbzvg3CVU8GniqAY.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2045
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1150,
-          "iso_639_1": null,
-          "file_path": "/evuWdBiXFb0c2LjtI9798N4GI8B.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2045
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1150,
-          "iso_639_1": null,
-          "file_path": "/7rM9aVC6oWRC3zyAY01773Y2In4.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2045
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-05-13 10:02:59"
+    "última_actualización": "2025-05-13 22:02:41"
   },
   {
     "id": 986855,
@@ -3706,7 +3706,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:03:00"
+    "última_actualización": "2025-05-13 22:02:41"
   },
   {
     "id": 1059010,
@@ -3857,7 +3857,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:03:00"
+    "última_actualización": "2025-05-13 22:02:41"
   },
   {
     "id": 1452198,
@@ -3926,7 +3926,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-05-13 10:03:00"
+    "última_actualización": "2025-05-13 22:02:42"
   },
   {
     "id": 1441660,
@@ -3976,7 +3976,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:03:01"
+    "última_actualización": "2025-05-13 22:02:42"
   },
   {
     "id": 1461317,
@@ -4019,7 +4019,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:03:01"
+    "última_actualización": "2025-05-13 22:02:43"
   },
   {
     "id": 1382809,
@@ -4157,7 +4157,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:03:01"
+    "última_actualización": "2025-05-13 22:02:42"
   },
   {
     "id": 1257009,
@@ -4253,7 +4253,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-13 10:02:58"
+    "última_actualización": "2025-05-13 22:02:40"
   },
   {
     "id": 1413259,
@@ -4311,7 +4311,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:03:01"
+    "última_actualización": "2025-05-13 22:02:43"
   },
   {
     "id": 1461035,
@@ -4394,7 +4394,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:03:01"
+    "última_actualización": "2025-05-13 22:02:43"
   },
   {
     "id": 838145,
@@ -4485,7 +4485,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-13 10:02:59"
+    "última_actualización": "2025-05-13 22:02:41"
   },
   {
     "id": 1011477,
@@ -4654,6 +4654,6 @@
         }
       ]
     },
-    "última_actualización": "2025-05-13 10:02:57"
+    "última_actualización": "2025-05-13 22:02:39"
   }
 ]
