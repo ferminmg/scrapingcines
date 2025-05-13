@@ -72,6 +72,25 @@
         "año": "1999"
     },
     {
+        "título": "La quimera - ALSASUA -",
+        "cartel": "imagenes_filmoteca\\tmdb_La_quimera___ALSASUA__.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-12",
+                "hora": "19:00",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Alsasua",
+        "tmdb_id": 837335,
+        "director": "Alice Rohrwacher",
+        "duración": "131 min",
+        "actores": "Josh O'Connor, Carol Duarte, Alba Rohrwacher, Isabella Rossellini, Vincenzo Nemolato",
+        "sinopsis": "Todos tenemos una quimera, algo que deseamos hacer, tener, pero que nunca encontramos. Para la banda de 'tombaroli', los ladrones de antiguas tumbas y de yacimientos arqueológicos, la quimera es soñar con dejar de trabajar y hacerse ricos sin esfuerzo. Para Arthur, la quimera se parece a Benjamina, la mujer a la que perdió. Con tal de encontrarla, Arthur se enfrentará a lo invisible, indagará por todas partes, penetrará en la tierra, decidido a encontrar la puerta que lleva al Más Allá de que hablan los mitos. En su osado recorrido entre vivos y muertos, bosques y ciudades, fiestas y soledades, los destinos de los personajes se cruzan, todos en busca de su quimera.",
+        "año": "2023",
+        "_actualizada": true
+    },
+    {
         "título": "El grito (Krzyk)",
         "cartel": "imagenes_filmoteca\\tmdb_El_grito__Krzyk_.jpg",
         "horarios": [
@@ -285,6 +304,24 @@
         "horarios": [
             {
                 "fecha": "2025-05-15",
+                "hora": "19:00",
+                "enlace_entradas": ""
+            }
+        ]
+    },
+    {
+        "título": "Cuentos de Tokio",
+        "tmdb_id": 18148,
+        "director": "Yasujirō Ozu",
+        "duración": "139 min",
+        "actores": "笠智衆, 東山千栄子, 原節子, 杉村春子, So Yamamura",
+        "sinopsis": "Una pareja de ancianos viaja a Tokio para visitar a sus hijos, pero ninguno de ellos tiene tiempo para atenderlos, por lo que deciden enviarlos a un balneario. Cuando regresan, la madre pasa una noche en la casa de una nuera, viuda de uno de sus hijos. A diferencia de sus cuñados, Noriko muestra afecto por sus suegros y conforta a la anciana.",
+        "año": "1953",
+        "cartel": "imagenes_filmoteca\\tmdb_Cuentos_de_Tokio.jpg",
+        "cine": "Civivox Condestable",
+        "horarios": [
+            {
+                "fecha": "2025-05-12",
                 "hora": "19:00",
                 "enlace_entradas": ""
             }
