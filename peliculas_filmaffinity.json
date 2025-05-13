@@ -1,13 +1,30 @@
 [
     {
+        "título": "ATEEZ [TOWARDS THE LIGHT: WILL TO POWER]",
+        "cartel": "imagenes_filmaffinity/tmdb_ateez-[towards-the-light-will-to-power].jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-14",
+                "hora": "18:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=16811"
+            },
+            {
+                "fecha": "2025-05-17",
+                "hora": "17:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=16812"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "",
+        "duración": "181 min",
+        "actores": "종호, Jung Woo-young, Song Min-gi, Choi San, Kang Yeo-sang",
+        "sinopsis": "",
+        "año": "2024"
+    },
+    {
         "título": "Kaiju Nº 8: Misión de Reconocimiento",
         "cartel": "imagenes_filmaffinity/kaiju-no-8-mision-de-reconocimiento.jpg",
         "horarios": [
-            {
-                "fecha": "2025-05-13",
-                "hora": "18:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=16245"
-            },
             {
                 "fecha": "2025-05-14",
                 "hora": "18:15",
@@ -35,45 +52,6 @@
         "actores": null,
         "sinopsis": null,
         "año": null
-    },
-    {
-        "título": "Tierras perdidas",
-        "cartel": "imagenes_filmaffinity/tmdb_tierras-perdidas.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-05-13",
-                "hora": "20:25",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=16732"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Paul W. S. Anderson",
-        "duración": "102 min",
-        "actores": "Milla Jovovich, Dave Bautista, Arly Jover, Amara Okereke, Fraser James",
-        "sinopsis": "Basada en el relato de George R. R. Martin. Una reina (Amara Okereke), desesperada por encontrar la felicidad en el amor, envía a la poderosa bruja Gray Alys (Milla Jovovich) a las Tierras Perdidas, en busca de un poder mágico que permite a una persona transformarse en un hombre lobo. Con el misterioso cazador Boyce (Dave Bautista), que la apoya en la lucha contra criaturas oscuras y despiadadas, Gray deambula por un mundo inquietante y peligroso. Pero solo ella sabe que, cada deseo que se concede, tiene consecuencias inimaginables.",
-        "año": "2025"
-    },
-    {
-        "título": "ATEEZ [TOWARDS THE LIGHT: WILL TO POWER]",
-        "cartel": "imagenes_filmaffinity/tmdb_ateez-[towards-the-light-will-to-power].jpg",
-        "horarios": [
-            {
-                "fecha": "2025-05-14",
-                "hora": "18:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=16811"
-            },
-            {
-                "fecha": "2025-05-17",
-                "hora": "17:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=16812"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "",
-        "duración": "181 min",
-        "actores": "종호, Jung Woo-young, Song Min-gi, Choi San, Kang Yeo-sang",
-        "sinopsis": "",
-        "año": "2024"
     },
     {
         "título": "Anzu, gato fantasma",
@@ -116,7 +94,7 @@
             }
         ],
         "cine": "Yelmo Itaroa",
-        "director": "久野遥子, 山下敦弘",
+        "director": "山下敦弘, 久野遥子",
         "duración": "90 min",
         "actores": "森山未來, Noa Goto, Munetaka Aoki, 市川実和子, 鈴木慶一",
         "sinopsis": "Karin, una chica terca, crea un inesperado vínculo con Anzu, un travieso gato fantasma, mientras se hospeda con su abuelo monje en el campo japonés.",
@@ -153,7 +131,7 @@
         "director": "Christopher McQuarrie",
         "duración": "169 min",
         "actores": "Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg, Esai Morales",
-        "sinopsis": "Octava entrega de la saga Misión Imposible.",
+        "sinopsis": "El agente Ethan Hunt continúa su misión de impedir que Gabriel controle el tecnológicamente omnipotente programa de IA conocido como \"the Entity\".",
         "año": "2025"
     },
     {
