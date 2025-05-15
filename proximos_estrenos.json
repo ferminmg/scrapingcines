@@ -1490,7 +1490,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:54"
+    "última_actualización": "2025-05-15 22:02:31"
   },
   {
     "id": 552524,
@@ -1659,7 +1659,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:54"
+    "última_actualización": "2025-05-15 22:02:31"
   },
   {
     "id": 977262,
@@ -1824,7 +1824,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:55"
+    "última_actualización": "2025-05-15 22:02:33"
   },
   {
     "id": 1103678,
@@ -1838,15 +1838,15 @@
     "backdrop_local": "imagenes_estrenos/Sus_hijos_despu_s_de_ellos_backdrop_r3xfgPr2eUyYTTVcwjYqn6lDzRL.jpg",
     "fecha_estreno": "2025-05-23T00:00:00.000Z",
     "duración": "146 min",
-    "director": "Ludovic Boukherma, Zoran Boukherma",
+    "director": "Zoran Boukherma, Ludovic Boukherma",
     "directores": [
-      {
-        "name": "Ludovic Boukherma",
-        "id": 1485754
-      },
       {
         "name": "Zoran Boukherma",
         "id": 1485755
+      },
+      {
+        "name": "Ludovic Boukherma",
+        "id": 1485754
       }
     ],
     "actores": [
@@ -1957,7 +1957,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:55"
+    "última_actualización": "2025-05-15 22:02:33"
   },
   {
     "id": 1233094,
@@ -2067,7 +2067,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-15 10:02:56"
+    "última_actualización": "2025-05-15 22:02:37"
   },
   {
     "id": 800090,
@@ -2165,80 +2165,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:56"
-  },
-  {
-    "id": 1458480,
-    "tmdb_id": 1458480,
-    "título": "Antes de nòs",
-    "título_original": "Antes de nòs",
-    "sinopsis": "Un biopic centrado en la labor como médico del político nacionalista gallego Castelao durante la pandemia de gripo de 1918, así como en su viaje a Bretaña en 1929.",
-    "poster_path": null,
-    "poster_local": "",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-05-23T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Ángeles Huerta",
-    "directores": [
-      {
-        "name": "Ángeles Huerta",
-        "id": 1724318
-      }
-    ],
-    "actores": [
-      {
-        "name": "Xóan Fórneas",
-        "id": 3200001,
-        "character": "Castelao",
-        "profile_path": "/biPvluaNobgT5wEayYXvd69kNRt.jpg"
-      },
-      {
-        "name": "Cris Iglesias",
-        "id": 1987954,
-        "character": "",
-        "profile_path": "/qJeRU4ToSc57diLsHlCx2fkWl1G.jpg"
-      },
-      {
-        "name": "Nancho Novo",
-        "id": 16948,
-        "character": "",
-        "profile_path": "/76tMiuvM2GHCJ429J8O3BcfMVKP.jpg"
-      },
-      {
-        "name": "Miquel Insúa",
-        "id": 1618331,
-        "character": "",
-        "profile_path": "/fXp8bYjfOTfhAWCA6pse3hnDETm.jpg"
-      },
-      {
-        "name": "Xoel Fernández",
-        "id": 1320066,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 36,
-        "name": "Historia"
-      }
-    ],
-    "popularidad": 0.078,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2025-05-15 10:02:57"
+    "última_actualización": "2025-05-15 22:02:37"
   },
   {
     "id": 1462845,
@@ -2317,7 +2244,80 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:57"
+    "última_actualización": "2025-05-15 22:02:37"
+  },
+  {
+    "id": 1458480,
+    "tmdb_id": 1458480,
+    "título": "Antes de nòs",
+    "título_original": "Antes de nòs",
+    "sinopsis": "Un biopic centrado en la labor como médico del político nacionalista gallego Castelao durante la pandemia de gripo de 1918, así como en su viaje a Bretaña en 1929.",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-05-23T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Ángeles Huerta",
+    "directores": [
+      {
+        "name": "Ángeles Huerta",
+        "id": 1724318
+      }
+    ],
+    "actores": [
+      {
+        "name": "Xóan Fórneas",
+        "id": 3200001,
+        "character": "Castelao",
+        "profile_path": "/biPvluaNobgT5wEayYXvd69kNRt.jpg"
+      },
+      {
+        "name": "Cris Iglesias",
+        "id": 1987954,
+        "character": "",
+        "profile_path": "/qJeRU4ToSc57diLsHlCx2fkWl1G.jpg"
+      },
+      {
+        "name": "Nancho Novo",
+        "id": 16948,
+        "character": "",
+        "profile_path": "/76tMiuvM2GHCJ429J8O3BcfMVKP.jpg"
+      },
+      {
+        "name": "Miquel Insúa",
+        "id": 1618331,
+        "character": "",
+        "profile_path": "/fXp8bYjfOTfhAWCA6pse3hnDETm.jpg"
+      },
+      {
+        "name": "Xoel Fernández",
+        "id": 1320066,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "popularidad": 0.078,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-05-15 22:02:39"
   },
   {
     "id": 1338606,
@@ -2411,7 +2411,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:57"
+    "última_actualización": "2025-05-15 22:02:39"
   },
   {
     "id": 1389750,
@@ -2494,7 +2494,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:57"
+    "última_actualización": "2025-05-15 22:02:40"
   },
   {
     "id": 1479183,
@@ -2563,7 +2563,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-05-15 10:02:57"
+    "última_actualización": "2025-05-15 22:02:40"
   },
   {
     "id": 1083968,
@@ -2623,8 +2623,8 @@
       }
     ],
     "popularidad": 52.5975,
-    "puntuación": 6.282,
-    "votos": 131,
+    "puntuación": 6.3,
+    "votos": 132,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2697,7 +2697,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:54"
+    "última_actualización": "2025-05-15 22:02:31"
   },
   {
     "id": 1137350,
@@ -2839,7 +2839,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:55"
+    "última_actualización": "2025-05-15 22:02:32"
   },
   {
     "id": 1078600,
@@ -2903,7 +2903,7 @@
       }
     ],
     "popularidad": 7.0616,
-    "puntuación": 6.305,
+    "puntuación": 6.3,
     "votos": 64,
     "adulto": false,
     "video": false,
@@ -2977,136 +2977,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:55"
-  },
-  {
-    "id": 974613,
-    "tmdb_id": 974613,
-    "título": "Las cuatro fantásticas",
-    "título_original": "The Fabulous Four",
-    "sinopsis": "",
-    "poster_path": "/g7kZFm81LBr2wf34MAdKexkZ0NH.jpg",
-    "poster_local": "imagenes_estrenos/Las_cuatro_fant_sticas_g7kZFm81LBr2wf34MAdKexkZ0NH.jpg",
-    "backdrop_path": "/l26AsiS7TfqjKswEavel8BqPviT.jpg",
-    "backdrop_local": "imagenes_estrenos/Las_cuatro_fant_sticas_backdrop_l26AsiS7TfqjKswEavel8BqPviT.jpg",
-    "fecha_estreno": "2025-05-30T00:00:00.000Z",
-    "duración": "99 min",
-    "director": "Jocelyn Moorhouse",
-    "directores": [
-      {
-        "name": "Jocelyn Moorhouse",
-        "id": 3047
-      }
-    ],
-    "actores": [
-      {
-        "name": "Susan Sarandon",
-        "id": 4038,
-        "character": "Lou",
-        "profile_path": "/oHYYL8bNakAREaLUBtMul5uMG0A.jpg"
-      },
-      {
-        "name": "Bette Midler",
-        "id": 73931,
-        "character": "Marilyn",
-        "profile_path": "/ooPKeoLvwacY6BRj99u7uvZCYlF.jpg"
-      },
-      {
-        "name": "Megan Mullally",
-        "id": 52119,
-        "character": "Alice",
-        "profile_path": "/ypdczVeLt9B2zSOeY7e6RO2XWJQ.jpg"
-      },
-      {
-        "name": "Sheryl Lee Ralph",
-        "id": 33613,
-        "character": "Kitty",
-        "profile_path": "/8S9CilET8kJKkxOQPEsA3OYSZGg.jpg"
-      },
-      {
-        "name": "Timothy V. Murphy",
-        "id": 92949,
-        "character": "Captain Ernie",
-        "profile_path": "/4WMz4UUMeexgP1ddfC2j7pqf8hU.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 1.3173,
-    "puntuación": 4.95,
-    "votos": 10,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/l26AsiS7TfqjKswEavel8BqPviT.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/dLaX7cTz7GfoMQV2mNvVDE2FJI0.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/hXvmIifpEFSKCizdNsYtrgGP7H3.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 900,
-          "iso_639_1": null,
-          "file_path": "/zDkAXlg9zuORWtCloPPLPmzGAKZ.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1600
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 900,
-          "iso_639_1": null,
-          "file_path": "/pn6miHzq8BAeShMo6KI1RC0FF5E.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1600
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/p8ela4VIm44De74TDCtbq4FzUF3.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-05-15 10:02:55"
+    "última_actualización": "2025-05-15 22:02:33"
   },
   {
     "id": 1104937,
@@ -3239,68 +3110,72 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:55"
+    "última_actualización": "2025-05-15 22:02:34"
   },
   {
-    "id": 986855,
-    "tmdb_id": 986855,
-    "título": "Si yo pudiera hibernar",
-    "título_original": "Баавгай болохсон",
+    "id": 974613,
+    "tmdb_id": 974613,
+    "título": "Las cuatro fantásticas",
+    "título_original": "The Fabulous Four",
     "sinopsis": "",
-    "poster_path": "/y7Jq8uyFCfLuCbHws3LkDN0u28p.jpg",
-    "poster_local": "imagenes_estrenos/Si_yo_pudiera_hibernar_y7Jq8uyFCfLuCbHws3LkDN0u28p.jpg",
-    "backdrop_path": "/br5tZnOfMiiSgvpFcmJddVHX08q.jpg",
-    "backdrop_local": "imagenes_estrenos/Si_yo_pudiera_hibernar_backdrop_br5tZnOfMiiSgvpFcmJddVHX08q.jpg",
+    "poster_path": "/g7kZFm81LBr2wf34MAdKexkZ0NH.jpg",
+    "poster_local": "imagenes_estrenos/Las_cuatro_fant_sticas_g7kZFm81LBr2wf34MAdKexkZ0NH.jpg",
+    "backdrop_path": "/l26AsiS7TfqjKswEavel8BqPviT.jpg",
+    "backdrop_local": "imagenes_estrenos/Las_cuatro_fant_sticas_backdrop_l26AsiS7TfqjKswEavel8BqPviT.jpg",
     "fecha_estreno": "2025-05-30T00:00:00.000Z",
-    "duración": "98 min",
-    "director": "Zoljargal Purevdash",
+    "duración": "99 min",
+    "director": "Jocelyn Moorhouse",
     "directores": [
       {
-        "name": "Zoljargal Purevdash",
-        "id": 2252779
+        "name": "Jocelyn Moorhouse",
+        "id": 3047
       }
     ],
     "actores": [
       {
-        "name": "Battsooj Uurtsaikh",
-        "id": 4056406,
-        "character": "Ulzii",
-        "profile_path": null
+        "name": "Susan Sarandon",
+        "id": 4038,
+        "character": "Lou",
+        "profile_path": "/oHYYL8bNakAREaLUBtMul5uMG0A.jpg"
       },
       {
-        "name": "Nominjiguur Tsend",
-        "id": 4056413,
-        "character": "Tungaa",
-        "profile_path": null
+        "name": "Bette Midler",
+        "id": 73931,
+        "character": "Marilyn",
+        "profile_path": "/ooPKeoLvwacY6BRj99u7uvZCYlF.jpg"
       },
       {
-        "name": "Tuguldur Batsaikhan",
-        "id": 4056408,
-        "character": "Erkhemee",
-        "profile_path": null
+        "name": "Megan Mullally",
+        "id": 52119,
+        "character": "Alice",
+        "profile_path": "/ypdczVeLt9B2zSOeY7e6RO2XWJQ.jpg"
       },
       {
-        "name": "Batmandakh Batchuluun",
-        "id": 4056397,
-        "character": "Garig",
-        "profile_path": null
+        "name": "Sheryl Lee Ralph",
+        "id": 33613,
+        "character": "Kitty",
+        "profile_path": "/8S9CilET8kJKkxOQPEsA3OYSZGg.jpg"
       },
       {
-        "name": "Ganchimeg Sandagdorj",
-        "id": 4056409,
-        "character": "Mother",
-        "profile_path": null
+        "name": "Timothy V. Murphy",
+        "id": 92949,
+        "character": "Captain Ernie",
+        "profile_path": "/4WMz4UUMeexgP1ddfC2j7pqf8hU.jpg"
       }
     ],
     "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
       {
         "id": 18,
         "name": "Drama"
       }
     ],
-    "popularidad": 0.5421,
-    "puntuación": 6.8,
-    "votos": 15,
+    "popularidad": 1.3173,
+    "puntuación": 4.95,
+    "votos": 10,
     "adulto": false,
     "video": false,
     "año": "2024",
@@ -3310,17 +3185,8 @@
           "aspect_ratio": 1.778,
           "height": 2160,
           "iso_639_1": null,
-          "file_path": "/br5tZnOfMiiSgvpFcmJddVHX08q.jpg",
+          "file_path": "/l26AsiS7TfqjKswEavel8BqPviT.jpg",
           "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/8ER3ZCeHViASd7i8DlSPC5QDVvc.jpg",
-          "vote_average": 1.75,
           "vote_count": 2,
           "width": 3840
         },
@@ -3328,10 +3194,37 @@
           "aspect_ratio": 1.778,
           "height": 1080,
           "iso_639_1": null,
-          "file_path": "/oRtmmhCrQpxIiqY6TEHa8nwkB0x.jpg",
+          "file_path": "/dLaX7cTz7GfoMQV2mNvVDE2FJI0.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_639_1": null,
+          "file_path": "/hXvmIifpEFSKCizdNsYtrgGP7H3.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_639_1": null,
+          "file_path": "/zDkAXlg9zuORWtCloPPLPmzGAKZ.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1600
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_639_1": null,
+          "file_path": "/pn6miHzq8BAeShMo6KI1RC0FF5E.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1600
         }
       ],
       "posters": [
@@ -3339,14 +3232,107 @@
           "aspect_ratio": 0.667,
           "height": 3000,
           "iso_639_1": null,
-          "file_path": "/doyyCHwfsmtWhcK9giNX1mBxwfn.jpg",
+          "file_path": "/p8ela4VIm44De74TDCtbq4FzUF3.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 2000
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:56"
+    "última_actualización": "2025-05-15 22:02:34"
+  },
+  {
+    "id": 1458437,
+    "tmdb_id": 1458437,
+    "título": "Peppa Meets the Baby Cinema Experience",
+    "título_original": "Peppa Meets the Baby Cinema Experience",
+    "sinopsis": "¡La familia crece! Peppa Pig y su familia te esperan en el cine para compartir la emoción de la llegada de un nuevo miembro, ¡un bebé! Vive con ellos esta gran aventura. Es el momento de crear juntos recuerdos muy especiales con todos los cambios que se avecinan.\r Celebra el comienzo de una nueva era llena de emoción para Peppa Pig con esta experiencia en la gran pantalla: una hora de risas y sinfín de momentos entrañables. Con 10 nuevos episodios repletos de diversión, 6 canciones nuevas y vídeos musicales para que los más pequeños canten y bailen con Peppa, su familia y sus amigos . Por fin ha terminado la espera… ¡Únete a Peppa y a George para dar la bienvenida a su nuevo hermanito en Peppa: La Ilegada del bebé. Una experiencia en cines!",
+    "poster_path": "/5ZH7oHKjym2xMtnUBQwP5oHjZW5.jpg",
+    "poster_local": "imagenes_estrenos/Peppa_Meets_the_Baby_Cinema_Experience_5ZH7oHKjym2xMtnUBQwP5oHjZW5.jpg",
+    "backdrop_path": "/skp8JLXvOGkmbzvg3CVU8GniqAY.jpg",
+    "backdrop_local": "imagenes_estrenos/Peppa_Meets_the_Baby_Cinema_Experience_backdrop_skp8JLXvOGkmbzvg3CVU8GniqAY.jpg",
+    "fecha_estreno": "2025-05-30T00:00:00.000Z",
+    "duración": "66 min",
+    "director": "Gretchen Mallorie, Andrea Tran",
+    "directores": [
+      {
+        "name": "Gretchen Mallorie",
+        "id": 3565487
+      },
+      {
+        "name": "Andrea Tran",
+        "id": 1787769
+      }
+    ],
+    "actores": [
+      {
+        "name": "John Sparkes",
+        "id": 1212388,
+        "character": "Narrator (voice)",
+        "profile_path": "/kP6nILSReaAU0HpoHrs0nOvGLxU.jpg"
+      },
+      {
+        "name": "Morwenna Banks",
+        "id": 59070,
+        "character": "Mommy Pig (voice)",
+        "profile_path": "/oraLxvDNim7ixQEcJz9nVqgy0eT.jpg"
+      },
+      {
+        "name": "Richard Ridings",
+        "id": 6645,
+        "character": "Daddy Pig (voice)",
+        "profile_path": "/eH3QE45JSgJtw0j14PLcGmEaVOG.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "popularidad": 0.9594,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1150,
+          "iso_639_1": null,
+          "file_path": "/skp8JLXvOGkmbzvg3CVU8GniqAY.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2045
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1150,
+          "iso_639_1": null,
+          "file_path": "/evuWdBiXFb0c2LjtI9798N4GI8B.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2045
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1150,
+          "iso_639_1": null,
+          "file_path": "/7rM9aVC6oWRC3zyAY01773Y2In4.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2045
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-05-15 22:02:35"
   },
   {
     "id": 1107215,
@@ -3465,100 +3451,114 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-15 10:02:56"
+    "última_actualización": "2025-05-15 22:02:35"
   },
   {
-    "id": 1458437,
-    "tmdb_id": 1458437,
-    "título": "Peppa Meets the Baby Cinema Experience",
-    "título_original": "Peppa Meets the Baby Cinema Experience",
-    "sinopsis": "¡La familia crece! Peppa Pig y su familia te esperan en el cine para compartir la emoción de la llegada de un nuevo miembro, ¡un bebé! Vive con ellos esta gran aventura. Es el momento de crear juntos recuerdos muy especiales con todos los cambios que se avecinan.\r Celebra el comienzo de una nueva era llena de emoción para Peppa Pig con esta experiencia en la gran pantalla: una hora de risas y sinfín de momentos entrañables. Con 10 nuevos episodios repletos de diversión, 6 canciones nuevas y vídeos musicales para que los más pequeños canten y bailen con Peppa, su familia y sus amigos . Por fin ha terminado la espera… ¡Únete a Peppa y a George para dar la bienvenida a su nuevo hermanito en Peppa: La Ilegada del bebé. Una experiencia en cines!",
-    "poster_path": "/5ZH7oHKjym2xMtnUBQwP5oHjZW5.jpg",
-    "poster_local": "imagenes_estrenos/Peppa_Meets_the_Baby_Cinema_Experience_5ZH7oHKjym2xMtnUBQwP5oHjZW5.jpg",
-    "backdrop_path": "/skp8JLXvOGkmbzvg3CVU8GniqAY.jpg",
-    "backdrop_local": "imagenes_estrenos/Peppa_Meets_the_Baby_Cinema_Experience_backdrop_skp8JLXvOGkmbzvg3CVU8GniqAY.jpg",
+    "id": 986855,
+    "tmdb_id": 986855,
+    "título": "Si yo pudiera hibernar",
+    "título_original": "Баавгай болохсон",
+    "sinopsis": "",
+    "poster_path": "/y7Jq8uyFCfLuCbHws3LkDN0u28p.jpg",
+    "poster_local": "imagenes_estrenos/Si_yo_pudiera_hibernar_y7Jq8uyFCfLuCbHws3LkDN0u28p.jpg",
+    "backdrop_path": "/br5tZnOfMiiSgvpFcmJddVHX08q.jpg",
+    "backdrop_local": "imagenes_estrenos/Si_yo_pudiera_hibernar_backdrop_br5tZnOfMiiSgvpFcmJddVHX08q.jpg",
     "fecha_estreno": "2025-05-30T00:00:00.000Z",
-    "duración": "66 min",
-    "director": "Gretchen Mallorie, Andrea Tran",
+    "duración": "98 min",
+    "director": "Zoljargal Purevdash",
     "directores": [
       {
-        "name": "Gretchen Mallorie",
-        "id": 3565487
-      },
-      {
-        "name": "Andrea Tran",
-        "id": 1787769
+        "name": "Zoljargal Purevdash",
+        "id": 2252779
       }
     ],
     "actores": [
       {
-        "name": "John Sparkes",
-        "id": 1212388,
-        "character": "Narrator (voice)",
-        "profile_path": "/kP6nILSReaAU0HpoHrs0nOvGLxU.jpg"
+        "name": "Battsooj Uurtsaikh",
+        "id": 4056406,
+        "character": "Ulzii",
+        "profile_path": null
       },
       {
-        "name": "Morwenna Banks",
-        "id": 59070,
-        "character": "Mommy Pig (voice)",
-        "profile_path": "/oraLxvDNim7ixQEcJz9nVqgy0eT.jpg"
+        "name": "Nominjiguur Tsend",
+        "id": 4056413,
+        "character": "Tungaa",
+        "profile_path": null
       },
       {
-        "name": "Richard Ridings",
-        "id": 6645,
-        "character": "Daddy Pig (voice)",
-        "profile_path": "/eH3QE45JSgJtw0j14PLcGmEaVOG.jpg"
+        "name": "Tuguldur Batsaikhan",
+        "id": 4056408,
+        "character": "Erkhemee",
+        "profile_path": null
+      },
+      {
+        "name": "Batmandakh Batchuluun",
+        "id": 4056397,
+        "character": "Garig",
+        "profile_path": null
+      },
+      {
+        "name": "Ganchimeg Sandagdorj",
+        "id": 4056409,
+        "character": "Mother",
+        "profile_path": null
       }
     ],
     "géneros": [
       {
-        "id": 10751,
-        "name": "Familia"
-      },
-      {
-        "id": 16,
-        "name": "Animación"
+        "id": 18,
+        "name": "Drama"
       }
     ],
-    "popularidad": 0.9594,
-    "puntuación": 0.0,
-    "votos": 0,
+    "popularidad": 0.5421,
+    "puntuación": 6.8,
+    "votos": 15,
     "adulto": false,
     "video": false,
-    "año": "2025",
+    "año": "2024",
     "imágenes": {
       "backdrops": [
         {
           "aspect_ratio": 1.778,
-          "height": 1150,
+          "height": 2160,
           "iso_639_1": null,
-          "file_path": "/skp8JLXvOGkmbzvg3CVU8GniqAY.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2045
+          "file_path": "/br5tZnOfMiiSgvpFcmJddVHX08q.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
         },
         {
           "aspect_ratio": 1.778,
-          "height": 1150,
+          "height": 2160,
           "iso_639_1": null,
-          "file_path": "/evuWdBiXFb0c2LjtI9798N4GI8B.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2045
+          "file_path": "/8ER3ZCeHViASd7i8DlSPC5QDVvc.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
         },
         {
           "aspect_ratio": 1.778,
-          "height": 1150,
+          "height": 1080,
           "iso_639_1": null,
-          "file_path": "/7rM9aVC6oWRC3zyAY01773Y2In4.jpg",
+          "file_path": "/oRtmmhCrQpxIiqY6TEHa8nwkB0x.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
-          "width": 2045
+          "width": 1920
         }
       ],
-      "posters": []
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/doyyCHwfsmtWhcK9giNX1mBxwfn.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
     },
-    "última_actualización": "2025-05-15 10:02:56"
+    "última_actualización": "2025-05-15 22:02:36"
   },
   {
     "id": 1059010,
@@ -3709,7 +3709,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:56"
+    "última_actualización": "2025-05-15 22:02:36"
   },
   {
     "id": 1452198,
@@ -3778,7 +3778,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-05-15 10:02:56"
+    "última_actualización": "2025-05-15 22:02:37"
   },
   {
     "id": 1461317,
@@ -3821,7 +3821,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:57"
+    "última_actualización": "2025-05-15 22:02:38"
   },
   {
     "id": 1441660,
@@ -3871,7 +3871,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:57"
+    "última_actualización": "2025-05-15 22:02:39"
   },
   {
     "id": 1382809,
@@ -4009,7 +4009,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:57"
+    "última_actualización": "2025-05-15 22:02:38"
   },
   {
     "id": 1257009,
@@ -4105,7 +4105,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-15 10:02:56"
+    "última_actualización": "2025-05-15 22:02:34"
   },
   {
     "id": 1461035,
@@ -4188,7 +4188,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:58"
+    "última_actualización": "2025-05-15 22:02:40"
   },
   {
     "id": 1413259,
@@ -4246,7 +4246,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:58"
+    "última_actualización": "2025-05-15 22:02:40"
   },
   {
     "id": 838145,
@@ -4337,7 +4337,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-15 10:02:56"
+    "última_actualización": "2025-05-15 22:02:36"
   },
   {
     "id": 541671,
@@ -4506,7 +4506,99 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:55"
+    "última_actualización": "2025-05-15 22:02:32"
+  },
+  {
+    "id": 1244890,
+    "tmdb_id": 1244890,
+    "título": "La casa al final de la curva",
+    "título_original": "Sharp Corner",
+    "sinopsis": "",
+    "poster_path": "/e5u5w6gemV0aCyczA1YvKan8510.jpg",
+    "poster_local": "imagenes_estrenos/La_casa_al_final_de_la_curva_hPK7H70vQVpT3qn9zedKqizXVdx.jpg",
+    "backdrop_path": "/tEYZpXr8a5L8lsUVVxNvpsquKAA.jpg",
+    "backdrop_local": "imagenes_estrenos/La_casa_al_final_de_la_curva_backdrop_tEYZpXr8a5L8lsUVVxNvpsquKAA.jpg",
+    "fecha_estreno": "2025-06-06T00:00:00.000Z",
+    "duración": "111 min",
+    "director": "Jason Buxton",
+    "directores": [
+      {
+        "name": "Jason Buxton",
+        "id": 1085903
+      }
+    ],
+    "actores": [
+      {
+        "name": "Ben Foster",
+        "id": 11107,
+        "character": "Josh McCall",
+        "profile_path": "/p5FlM9OOStD9I0Nm3GGlhaiAC5r.jpg"
+      },
+      {
+        "name": "Cobie Smulders",
+        "id": 71189,
+        "character": "Rachel Davis-McCall",
+        "profile_path": "/1b0mYokcGsfFRge4bjXlS5ihtek.jpg"
+      },
+      {
+        "name": "William Kosovic",
+        "id": 4317843,
+        "character": "Max McCall",
+        "profile_path": "/cvZfGqmFkehA32phRUxXi83lPgM.jpg"
+      },
+      {
+        "name": "Gavin Drea",
+        "id": 1168928,
+        "character": "Erikson",
+        "profile_path": "/6UjJETk9PHdZuBCkMkhE7d7SAXV.jpg"
+      },
+      {
+        "name": "Alexandra Castillo",
+        "id": 190944,
+        "character": "Tamara Jones-Reed",
+        "profile_path": "/bD6f4PJSYSORPZqsM3pqZnhRTQK.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 9.5436,
+    "puntuación": 6.2,
+    "votos": 8,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/tEYZpXr8a5L8lsUVVxNvpsquKAA.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1350,
+          "iso_639_1": null,
+          "file_path": "/tf47eimuXaVzpKux3ctSXc85nY.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 2400
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-05-15 22:02:32"
   },
   {
     "id": 1262983,
@@ -4625,237 +4717,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-15 10:02:55"
-  },
-  {
-    "id": 1244890,
-    "tmdb_id": 1244890,
-    "título": "La casa al final de la curva",
-    "título_original": "Sharp Corner",
-    "sinopsis": "",
-    "poster_path": "/hPK7H70vQVpT3qn9zedKqizXVdx.jpg",
-    "poster_local": "imagenes_estrenos/La_casa_al_final_de_la_curva_hPK7H70vQVpT3qn9zedKqizXVdx.jpg",
-    "backdrop_path": "/tEYZpXr8a5L8lsUVVxNvpsquKAA.jpg",
-    "backdrop_local": "imagenes_estrenos/La_casa_al_final_de_la_curva_backdrop_tEYZpXr8a5L8lsUVVxNvpsquKAA.jpg",
-    "fecha_estreno": "2025-06-06T00:00:00.000Z",
-    "duración": "111 min",
-    "director": "Jason Buxton",
-    "directores": [
-      {
-        "name": "Jason Buxton",
-        "id": 1085903
-      }
-    ],
-    "actores": [
-      {
-        "name": "Ben Foster",
-        "id": 11107,
-        "character": "Josh McCall",
-        "profile_path": "/p5FlM9OOStD9I0Nm3GGlhaiAC5r.jpg"
-      },
-      {
-        "name": "Cobie Smulders",
-        "id": 71189,
-        "character": "Rachel Davis-McCall",
-        "profile_path": "/1b0mYokcGsfFRge4bjXlS5ihtek.jpg"
-      },
-      {
-        "name": "William Kosovic",
-        "id": 4317843,
-        "character": "Max McCall",
-        "profile_path": "/cvZfGqmFkehA32phRUxXi83lPgM.jpg"
-      },
-      {
-        "name": "Gavin Drea",
-        "id": 1168928,
-        "character": "Erikson",
-        "profile_path": "/6UjJETk9PHdZuBCkMkhE7d7SAXV.jpg"
-      },
-      {
-        "name": "Alexandra Castillo",
-        "id": 190944,
-        "character": "Tamara Jones-Reed",
-        "profile_path": "/bD6f4PJSYSORPZqsM3pqZnhRTQK.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 53,
-        "name": "Suspense"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 9.5436,
-    "puntuación": 6.188,
-    "votos": 8,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/tEYZpXr8a5L8lsUVVxNvpsquKAA.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/hfx5VlIIvMrZ9xfGPmCba9diCLX.jpg",
-          "vote_average": 1.75,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1350,
-          "iso_639_1": null,
-          "file_path": "/tf47eimuXaVzpKux3ctSXc85nY.jpg",
-          "vote_average": 1.222,
-          "vote_count": 3,
-          "width": 2400
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-05-15 10:02:55"
-  },
-  {
-    "id": 1079310,
-    "tmdb_id": 1079310,
-    "título": "Holy Cow",
-    "título_original": "Vingt dieux",
-    "sinopsis": "Totone, de 18 años, pasa la mayor parte del tiempo bebiendo cerveza y yendo de fiesta con sus amigos a la región del Jura. Pero la realidad la atrapa: debe buscarse la vida y cuidar a su hermana de 7 años. Es entonces cuando se propone fabricar el mejor queso Comté de la región, lo que le podría hacer ganar la medalla de oro al concurso agrícola y 30.000 euros.",
-    "poster_path": "/zdoLIMMgcbqBtgPIWe7Ep8KcsiH.jpg",
-    "poster_local": "imagenes_estrenos/Holy_Cow_zdoLIMMgcbqBtgPIWe7Ep8KcsiH.jpg",
-    "backdrop_path": "/87FfUfTb7gxty2L8sAiVwO3ul5y.jpg",
-    "backdrop_local": "imagenes_estrenos/Holy_Cow_backdrop_87FfUfTb7gxty2L8sAiVwO3ul5y.jpg",
-    "fecha_estreno": "2025-06-06T00:00:00.000Z",
-    "duración": "92 min",
-    "director": "Louise Courvoisier",
-    "directores": [
-      {
-        "name": "Louise Courvoisier",
-        "id": 2292518
-      }
-    ],
-    "actores": [
-      {
-        "name": "Clément Faveau",
-        "id": 4498192,
-        "character": "Totone",
-        "profile_path": "/w9sjXSIkf4qyDSnoas0Bk5Ul1F5.jpg"
-      },
-      {
-        "name": "Maïwene Barthelemy",
-        "id": 4649720,
-        "character": "Marie-Lise",
-        "profile_path": "/eRv5n1j0H1J2lFanUngAoGe1Yhg.jpg"
-      },
-      {
-        "name": "Luna Garret",
-        "id": 4498193,
-        "character": "Claire",
-        "profile_path": "/p8fNDGMMgDGdRZzIKtdOGTMWIUX.jpg"
-      },
-      {
-        "name": "Mathis Bernard",
-        "id": 4498194,
-        "character": "Jean-Yves Bretin",
-        "profile_path": "/3BN8PNcgMnaAs23Vsdma7YIXyFH.jpg"
-      },
-      {
-        "name": "Dimitri Baudry",
-        "id": 4498195,
-        "character": "Francis",
-        "profile_path": "/3Fu76HnVc2s4KSWkYgR2adxgGxc.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 2.143,
-    "puntuación": 7.1,
-    "votos": 164,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/87FfUfTb7gxty2L8sAiVwO3ul5y.jpg",
-          "vote_average": 3.334,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/momk3fWl6F61kgfObqfIVCWBzPM.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/dbPsxlcdqicbtJVdC9RrOtp4C0w.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/e9G3WewWOc9a8OjW4BXmeHeaGj6.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/4C93cT34EfMrlccPemxwAj3uG0e.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/jlxPP4uDdbhcPAMdI7RtLB8WEfK.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-05-15 10:02:55"
+    "última_actualización": "2025-05-15 22:02:32"
   },
   {
     "id": 1278950,
@@ -5007,7 +4869,136 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:55"
+    "última_actualización": "2025-05-15 22:02:33"
+  },
+  {
+    "id": 1079310,
+    "tmdb_id": 1079310,
+    "título": "Holy Cow",
+    "título_original": "Vingt dieux",
+    "sinopsis": "Totone, de 18 años, pasa la mayor parte del tiempo bebiendo cerveza y yendo de fiesta con sus amigos a la región del Jura. Pero la realidad la atrapa: debe buscarse la vida y cuidar a su hermana de 7 años. Es entonces cuando se propone fabricar el mejor queso Comté de la región, lo que le podría hacer ganar la medalla de oro al concurso agrícola y 30.000 euros.",
+    "poster_path": "/zdoLIMMgcbqBtgPIWe7Ep8KcsiH.jpg",
+    "poster_local": "imagenes_estrenos/Holy_Cow_zdoLIMMgcbqBtgPIWe7Ep8KcsiH.jpg",
+    "backdrop_path": "/87FfUfTb7gxty2L8sAiVwO3ul5y.jpg",
+    "backdrop_local": "imagenes_estrenos/Holy_Cow_backdrop_87FfUfTb7gxty2L8sAiVwO3ul5y.jpg",
+    "fecha_estreno": "2025-06-06T00:00:00.000Z",
+    "duración": "92 min",
+    "director": "Louise Courvoisier",
+    "directores": [
+      {
+        "name": "Louise Courvoisier",
+        "id": 2292518
+      }
+    ],
+    "actores": [
+      {
+        "name": "Clément Faveau",
+        "id": 4498192,
+        "character": "Totone",
+        "profile_path": "/w9sjXSIkf4qyDSnoas0Bk5Ul1F5.jpg"
+      },
+      {
+        "name": "Maïwene Barthelemy",
+        "id": 4649720,
+        "character": "Marie-Lise",
+        "profile_path": "/eRv5n1j0H1J2lFanUngAoGe1Yhg.jpg"
+      },
+      {
+        "name": "Luna Garret",
+        "id": 4498193,
+        "character": "Claire",
+        "profile_path": "/p8fNDGMMgDGdRZzIKtdOGTMWIUX.jpg"
+      },
+      {
+        "name": "Mathis Bernard",
+        "id": 4498194,
+        "character": "Jean-Yves Bretin",
+        "profile_path": "/3BN8PNcgMnaAs23Vsdma7YIXyFH.jpg"
+      },
+      {
+        "name": "Dimitri Baudry",
+        "id": 4498195,
+        "character": "Francis",
+        "profile_path": "/3Fu76HnVc2s4KSWkYgR2adxgGxc.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 2.143,
+    "puntuación": 7.1,
+    "votos": 164,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/87FfUfTb7gxty2L8sAiVwO3ul5y.jpg",
+          "vote_average": 3.334,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/momk3fWl6F61kgfObqfIVCWBzPM.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/dbPsxlcdqicbtJVdC9RrOtp4C0w.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/e9G3WewWOc9a8OjW4BXmeHeaGj6.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/4C93cT34EfMrlccPemxwAj3uG0e.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/jlxPP4uDdbhcPAMdI7RtLB8WEfK.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-05-15 22:02:33"
   },
   {
     "id": 974663,
@@ -5161,7 +5152,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:55"
+    "última_actualización": "2025-05-15 22:02:34"
   },
   {
     "id": 1151272,
@@ -5295,7 +5286,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:56"
+    "última_actualización": "2025-05-15 22:02:35"
   },
   {
     "id": 1432635,
@@ -5402,7 +5393,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:56"
+    "última_actualización": "2025-05-15 22:02:37"
   },
   {
     "id": 889482,
@@ -5454,7 +5445,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:57"
+    "última_actualización": "2025-05-15 22:02:38"
   },
   {
     "id": 1409937,
@@ -5533,7 +5524,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-15 10:02:57"
+    "última_actualización": "2025-05-15 22:02:39"
   },
   {
     "id": 1011477,
@@ -5583,7 +5574,7 @@
         "name": "Sadie Stanley",
         "id": 2030076,
         "character": "Mia Lipani",
-        "profile_path": "/tBijc7eYGJCPVS818rAcJJwAWBr.jpg"
+        "profile_path": "/zfjr9nkUTWJ2EekyiWmYdxscrSJ.jpg"
       }
     ],
     "géneros": [
@@ -5601,8 +5592,8 @@
       }
     ],
     "popularidad": 120.2513,
-    "puntuación": 7.5,
-    "votos": 23,
+    "puntuación": 7.32,
+    "votos": 25,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -5702,6 +5693,6 @@
         }
       ]
     },
-    "última_actualización": "2025-05-15 10:02:54"
+    "última_actualización": "2025-05-15 22:02:31"
   }
 ]
