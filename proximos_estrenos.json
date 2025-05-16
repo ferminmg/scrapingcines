@@ -1171,8 +1171,8 @@
       }
     ],
     "popularidad": 101.183,
-    "puntuación": 8.6,
-    "votos": 5,
+    "puntuación": 8.7,
+    "votos": 7,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1272,7 +1272,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:30"
+    "última_actualización": "2025-05-16 22:02:26"
   },
   {
     "id": 552524,
@@ -1441,7 +1441,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:30"
+    "última_actualización": "2025-05-16 22:02:26"
   },
   {
     "id": 977262,
@@ -1606,7 +1606,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:31"
+    "última_actualización": "2025-05-16 22:02:27"
   },
   {
     "id": 1103678,
@@ -1739,7 +1739,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:31"
+    "última_actualización": "2025-05-16 22:02:28"
   },
   {
     "id": 1233094,
@@ -1849,7 +1849,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-16 10:02:32"
+    "última_actualización": "2025-05-16 22:02:29"
   },
   {
     "id": 800090,
@@ -1947,7 +1947,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:32"
+    "última_actualización": "2025-05-16 22:02:29"
   },
   {
     "id": 1462845,
@@ -2026,7 +2026,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:32"
+    "última_actualización": "2025-05-16 22:02:29"
   },
   {
     "id": 1458480,
@@ -2099,7 +2099,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-05-16 10:02:33"
+    "última_actualización": "2025-05-16 22:02:30"
   },
   {
     "id": 1338606,
@@ -2193,7 +2193,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:33"
+    "última_actualización": "2025-05-16 22:02:30"
   },
   {
     "id": 1389750,
@@ -2276,7 +2276,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:34"
+    "última_actualización": "2025-05-16 22:02:30"
   },
   {
     "id": 1479183,
@@ -2345,7 +2345,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-05-16 10:02:33"
+    "última_actualización": "2025-05-16 22:02:30"
   },
   {
     "id": 1083968,
@@ -2479,7 +2479,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:30"
+    "última_actualización": "2025-05-16 22:02:27"
   },
   {
     "id": 1137350,
@@ -2621,7 +2621,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:30"
+    "última_actualización": "2025-05-16 22:02:27"
   },
   {
     "id": 1078600,
@@ -2759,7 +2759,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:30"
+    "última_actualización": "2025-05-16 22:02:27"
   },
   {
     "id": 1104937,
@@ -2892,7 +2892,126 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:31"
+    "última_actualización": "2025-05-16 22:02:28"
+  },
+  {
+    "id": 1107215,
+    "tmdb_id": 1107215,
+    "título": "Érase una vez mi madre",
+    "título_original": "Ma mère, Dieu et Sylvie Vartan",
+    "sinopsis": "París, 1963. Roland, el menor de una familia de seis hermanos, sufre una malformación en un pie. Según los médicos nunca podrá caminar, pero su testaruda madre, Esther, simplemente se niega a aceptarlo. Mediante una combinación de fe inquebrantable y negación excepcional, la mujer está decidida a desafiar cualquier adversidad  para conseguir que su hijo sea feliz.",
+    "poster_path": "/s56FTmqeOsGK6fcF1HBglp6yYro.jpg",
+    "poster_local": "imagenes_estrenos/_rase_una_vez_mi_madre_s56FTmqeOsGK6fcF1HBglp6yYro.jpg",
+    "backdrop_path": "/qMYb0pTEnsYsYPVD1uJIpOMumYB.jpg",
+    "backdrop_local": "imagenes_estrenos/_rase_una_vez_mi_madre_backdrop_qMYb0pTEnsYsYPVD1uJIpOMumYB.jpg",
+    "fecha_estreno": "2025-05-30T00:00:00.000Z",
+    "duración": "98 min",
+    "director": "Ken Scott",
+    "directores": [
+      {
+        "name": "Ken Scott",
+        "id": 1375201
+      }
+    ],
+    "actores": [
+      {
+        "name": "Leïla Bekhti",
+        "id": 23383,
+        "character": "Esther Perez",
+        "profile_path": "/ubSi70PmNHDzEH6DD8K2qndkOdn.jpg"
+      },
+      {
+        "name": "Jonathan Cohen",
+        "id": 129765,
+        "character": "Roland Perez (Adult)",
+        "profile_path": "/T7ucGNWUDsRRXrjjVfY3uhPfMq.jpg"
+      },
+      {
+        "name": "Joséphine Japy",
+        "id": 544665,
+        "character": "Litzie Gozlan",
+        "profile_path": "/Aw6TZ5WWX5IPu86mK45AyTlo0hd.jpg"
+      },
+      {
+        "name": "Sylvie Vartan",
+        "id": 149153,
+        "character": "Sylvie Vartan",
+        "profile_path": "/sRfjllo2PRonRgqeVorIq5REmsW.jpg"
+      },
+      {
+        "name": "Jeanne Balibar",
+        "id": 77191,
+        "character": "Mme Fleury",
+        "profile_path": "/nvy943Oez5Grrulv3FzLjzN8OSM.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 1.1432,
+    "puntuación": 6.966,
+    "votos": 131,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/qMYb0pTEnsYsYPVD1uJIpOMumYB.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/iWorpfdyRvlz9BvSKePf0QXMJgS.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/rcAb0lVdDNBnC0BOCWlAf7D9wd7.jpg",
+          "vote_average": 0.166,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/lh1aluiZov30I12gG9hPWRw7i3x.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/a9JJoV3HKodjOvR7FiCQmr6Ns3a.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-05-16 22:02:28"
   },
   {
     "id": 974613,
@@ -3021,7 +3140,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:31"
+    "última_actualización": "2025-05-16 22:02:28"
   },
   {
     "id": 1458437,
@@ -3114,233 +3233,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-16 10:02:31"
-  },
-  {
-    "id": 1107215,
-    "tmdb_id": 1107215,
-    "título": "Érase una vez mi madre",
-    "título_original": "Ma mère, Dieu et Sylvie Vartan",
-    "sinopsis": "París, 1963. Roland, el menor de una familia de seis hermanos, sufre una malformación en un pie. Según los médicos nunca podrá caminar, pero su testaruda madre, Esther, simplemente se niega a aceptarlo. Mediante una combinación de fe inquebrantable y negación excepcional, la mujer está decidida a desafiar cualquier adversidad  para conseguir que su hijo sea feliz.",
-    "poster_path": "/s56FTmqeOsGK6fcF1HBglp6yYro.jpg",
-    "poster_local": "imagenes_estrenos/_rase_una_vez_mi_madre_s56FTmqeOsGK6fcF1HBglp6yYro.jpg",
-    "backdrop_path": "/qMYb0pTEnsYsYPVD1uJIpOMumYB.jpg",
-    "backdrop_local": "imagenes_estrenos/_rase_una_vez_mi_madre_backdrop_qMYb0pTEnsYsYPVD1uJIpOMumYB.jpg",
-    "fecha_estreno": "2025-05-30T00:00:00.000Z",
-    "duración": "98 min",
-    "director": "Ken Scott",
-    "directores": [
-      {
-        "name": "Ken Scott",
-        "id": 1375201
-      }
-    ],
-    "actores": [
-      {
-        "name": "Leïla Bekhti",
-        "id": 23383,
-        "character": "Esther Perez",
-        "profile_path": "/ubSi70PmNHDzEH6DD8K2qndkOdn.jpg"
-      },
-      {
-        "name": "Jonathan Cohen",
-        "id": 129765,
-        "character": "Roland Perez (Adult)",
-        "profile_path": "/T7ucGNWUDsRRXrjjVfY3uhPfMq.jpg"
-      },
-      {
-        "name": "Joséphine Japy",
-        "id": 544665,
-        "character": "Litzie Gozlan",
-        "profile_path": "/Aw6TZ5WWX5IPu86mK45AyTlo0hd.jpg"
-      },
-      {
-        "name": "Sylvie Vartan",
-        "id": 149153,
-        "character": "Sylvie Vartan",
-        "profile_path": "/sRfjllo2PRonRgqeVorIq5REmsW.jpg"
-      },
-      {
-        "name": "Jeanne Balibar",
-        "id": 77191,
-        "character": "Mme Fleury",
-        "profile_path": "/nvy943Oez5Grrulv3FzLjzN8OSM.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 1.1432,
-    "puntuación": 7.008,
-    "votos": 130,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/qMYb0pTEnsYsYPVD1uJIpOMumYB.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/iWorpfdyRvlz9BvSKePf0QXMJgS.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/rcAb0lVdDNBnC0BOCWlAf7D9wd7.jpg",
-          "vote_average": 0.166,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/lh1aluiZov30I12gG9hPWRw7i3x.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/a9JJoV3HKodjOvR7FiCQmr6Ns3a.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-05-16 10:02:32"
-  },
-  {
-    "id": 986855,
-    "tmdb_id": 986855,
-    "título": "Si yo pudiera hibernar",
-    "título_original": "Баавгай болохсон",
-    "sinopsis": "",
-    "poster_path": "/y7Jq8uyFCfLuCbHws3LkDN0u28p.jpg",
-    "poster_local": "imagenes_estrenos/Si_yo_pudiera_hibernar_y7Jq8uyFCfLuCbHws3LkDN0u28p.jpg",
-    "backdrop_path": "/br5tZnOfMiiSgvpFcmJddVHX08q.jpg",
-    "backdrop_local": "imagenes_estrenos/Si_yo_pudiera_hibernar_backdrop_br5tZnOfMiiSgvpFcmJddVHX08q.jpg",
-    "fecha_estreno": "2025-05-30T00:00:00.000Z",
-    "duración": "98 min",
-    "director": "Zoljargal Purevdash",
-    "directores": [
-      {
-        "name": "Zoljargal Purevdash",
-        "id": 2252779
-      }
-    ],
-    "actores": [
-      {
-        "name": "Battsooj Uurtsaikh",
-        "id": 4056406,
-        "character": "Ulzii",
-        "profile_path": null
-      },
-      {
-        "name": "Nominjiguur Tsend",
-        "id": 4056413,
-        "character": "Tungaa",
-        "profile_path": null
-      },
-      {
-        "name": "Tuguldur Batsaikhan",
-        "id": 4056408,
-        "character": "Erkhemee",
-        "profile_path": null
-      },
-      {
-        "name": "Batmandakh Batchuluun",
-        "id": 4056397,
-        "character": "Garig",
-        "profile_path": null
-      },
-      {
-        "name": "Ganchimeg Sandagdorj",
-        "id": 4056409,
-        "character": "Mother",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.4298,
-    "puntuación": 6.8,
-    "votos": 15,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/br5tZnOfMiiSgvpFcmJddVHX08q.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/8ER3ZCeHViASd7i8DlSPC5QDVvc.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/oRtmmhCrQpxIiqY6TEHa8nwkB0x.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/doyyCHwfsmtWhcK9giNX1mBxwfn.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-05-16 10:02:32"
+    "última_actualización": "2025-05-16 22:02:28"
   },
   {
     "id": 1059010,
@@ -3491,7 +3384,114 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:32"
+    "última_actualización": "2025-05-16 22:02:28"
+  },
+  {
+    "id": 986855,
+    "tmdb_id": 986855,
+    "título": "Si yo pudiera hibernar",
+    "título_original": "Баавгай болохсон",
+    "sinopsis": "",
+    "poster_path": "/y7Jq8uyFCfLuCbHws3LkDN0u28p.jpg",
+    "poster_local": "imagenes_estrenos/Si_yo_pudiera_hibernar_y7Jq8uyFCfLuCbHws3LkDN0u28p.jpg",
+    "backdrop_path": "/br5tZnOfMiiSgvpFcmJddVHX08q.jpg",
+    "backdrop_local": "imagenes_estrenos/Si_yo_pudiera_hibernar_backdrop_br5tZnOfMiiSgvpFcmJddVHX08q.jpg",
+    "fecha_estreno": "2025-05-30T00:00:00.000Z",
+    "duración": "98 min",
+    "director": "Zoljargal Purevdash",
+    "directores": [
+      {
+        "name": "Zoljargal Purevdash",
+        "id": 2252779
+      }
+    ],
+    "actores": [
+      {
+        "name": "Battsooj Uurtsaikh",
+        "id": 4056406,
+        "character": "Ulzii",
+        "profile_path": null
+      },
+      {
+        "name": "Nominjiguur Tsend",
+        "id": 4056413,
+        "character": "Tungaa",
+        "profile_path": null
+      },
+      {
+        "name": "Tuguldur Batsaikhan",
+        "id": 4056408,
+        "character": "Erkhemee",
+        "profile_path": null
+      },
+      {
+        "name": "Batmandakh Batchuluun",
+        "id": 4056397,
+        "character": "Garig",
+        "profile_path": null
+      },
+      {
+        "name": "Ganchimeg Sandagdorj",
+        "id": 4056409,
+        "character": "Mother",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.4298,
+    "puntuación": 6.8,
+    "votos": 15,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/br5tZnOfMiiSgvpFcmJddVHX08q.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/8ER3ZCeHViASd7i8DlSPC5QDVvc.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_639_1": null,
+          "file_path": "/oRtmmhCrQpxIiqY6TEHa8nwkB0x.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/doyyCHwfsmtWhcK9giNX1mBxwfn.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-05-16 22:02:29"
   },
   {
     "id": 1452198,
@@ -3560,7 +3560,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-05-16 10:02:33"
+    "última_actualización": "2025-05-16 22:02:29"
   },
   {
     "id": 1461317,
@@ -3603,7 +3603,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:33"
+    "última_actualización": "2025-05-16 22:02:29"
   },
   {
     "id": 1441660,
@@ -3653,7 +3653,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:33"
+    "última_actualización": "2025-05-16 22:02:30"
   },
   {
     "id": 1382809,
@@ -3791,7 +3791,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:33"
+    "última_actualización": "2025-05-16 22:02:30"
   },
   {
     "id": 1257009,
@@ -3887,7 +3887,65 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-16 10:02:31"
+    "última_actualización": "2025-05-16 22:02:28"
+  },
+  {
+    "id": 1413259,
+    "tmdb_id": 1413259,
+    "título": "Luces",
+    "título_original": "Luces",
+    "sinopsis": "Luces de Navidad por Castellón.",
+    "poster_path": "/ihtxmpt6BkyhJglzAp4R21eRiP8.jpg",
+    "poster_local": "imagenes_estrenos/Luces_ihtxmpt6BkyhJglzAp4R21eRiP8.jpg",
+    "backdrop_path": "/bDe30ALgcEY8tMVaPErQHfJ83TM.jpg",
+    "backdrop_local": "imagenes_estrenos/Luces_backdrop_bDe30ALgcEY8tMVaPErQHfJ83TM.jpg",
+    "fecha_estreno": "2025-06-01T00:00:00.000Z",
+    "duración": "3 min",
+    "director": "Nello",
+    "directores": [
+      {
+        "name": "Nello",
+        "id": 4089368
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0459,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.777,
+          "height": 775,
+          "iso_639_1": null,
+          "file_path": "/bDe30ALgcEY8tMVaPErQHfJ83TM.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1377
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 942,
+          "iso_639_1": null,
+          "file_path": "/ihtxmpt6BkyhJglzAp4R21eRiP8.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 628
+        }
+      ]
+    },
+    "última_actualización": "2025-05-16 22:02:30"
   },
   {
     "id": 1461035,
@@ -3970,65 +4028,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:34"
-  },
-  {
-    "id": 1413259,
-    "tmdb_id": 1413259,
-    "título": "Luces",
-    "título_original": "Luces",
-    "sinopsis": "Luces de Navidad por Castellón.",
-    "poster_path": "/ihtxmpt6BkyhJglzAp4R21eRiP8.jpg",
-    "poster_local": "imagenes_estrenos/Luces_ihtxmpt6BkyhJglzAp4R21eRiP8.jpg",
-    "backdrop_path": "/bDe30ALgcEY8tMVaPErQHfJ83TM.jpg",
-    "backdrop_local": "imagenes_estrenos/Luces_backdrop_bDe30ALgcEY8tMVaPErQHfJ83TM.jpg",
-    "fecha_estreno": "2025-06-01T00:00:00.000Z",
-    "duración": "3 min",
-    "director": "Nello",
-    "directores": [
-      {
-        "name": "Nello",
-        "id": 4089368
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.0459,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.777,
-          "height": 775,
-          "iso_639_1": null,
-          "file_path": "/bDe30ALgcEY8tMVaPErQHfJ83TM.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1377
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 942,
-          "iso_639_1": null,
-          "file_path": "/ihtxmpt6BkyhJglzAp4R21eRiP8.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 628
-        }
-      ]
-    },
-    "última_actualización": "2025-05-16 10:02:34"
+    "última_actualización": "2025-05-16 22:02:30"
   },
   {
     "id": 838145,
@@ -4119,7 +4119,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-16 10:02:32"
+    "última_actualización": "2025-05-16 22:02:28"
   },
   {
     "id": 541671,
@@ -4281,14 +4281,133 @@
           "aspect_ratio": 0.667,
           "height": 3000,
           "iso_639_1": null,
-          "file_path": "/dVtC6wLhqgehshEuNU3kKmccn18.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
+          "file_path": "/h6ZXCl5AAYzFzD6gR6PzFBKMDZu.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
           "width": 2000
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:30"
+    "última_actualización": "2025-05-16 22:02:27"
+  },
+  {
+    "id": 1262983,
+    "tmdb_id": 1262983,
+    "título": "MadS",
+    "título_original": "MadS",
+    "sinopsis": "Un adolescente va a ver a su camello para probar una nueva droga antes de irse de fiesta. De camino a casa, recoge a una mujer herida y la noche da un giro surrealista.",
+    "poster_path": "/aCeSgo9InTPVBN5oYhHAEM744U7.jpg",
+    "poster_local": "imagenes_estrenos/MadS_aCeSgo9InTPVBN5oYhHAEM744U7.jpg",
+    "backdrop_path": "/8lL13GCrlOii2KvMaSom2rC16Zr.jpg",
+    "backdrop_local": "imagenes_estrenos/MadS_backdrop_8lL13GCrlOii2KvMaSom2rC16Zr.jpg",
+    "fecha_estreno": "2025-06-06T00:00:00.000Z",
+    "duración": "95 min",
+    "director": "David Moreau",
+    "directores": [
+      {
+        "name": "David Moreau",
+        "id": 56735
+      }
+    ],
+    "actores": [
+      {
+        "name": "Lucille Guillaume",
+        "id": 2740498,
+        "character": "Julia",
+        "profile_path": "/yh24zaBJKpmMkDphtHEvSDPgbVo.jpg"
+      },
+      {
+        "name": "Laurie Pavy",
+        "id": 4608050,
+        "character": "Anaïs",
+        "profile_path": "/qjetD7oIGlfmOP77YGen49X4Mrg.jpg"
+      },
+      {
+        "name": "Milton Riche",
+        "id": 3811652,
+        "character": "Romain",
+        "profile_path": "/2C3Frd1UmRDzkv4YHJUzjAHKOKh.jpg"
+      },
+      {
+        "name": "Yovel Lewkowski",
+        "id": 4341735,
+        "character": "Noa",
+        "profile_path": "/d1pRevSrvKvHkkWEEmhf0oKhhwZ.jpg"
+      },
+      {
+        "name": "Sasha Rudakova",
+        "id": 5001289,
+        "character": "Woman on the Road",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 9.2454,
+    "puntuación": 6.762,
+    "votos": 126,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/8lL13GCrlOii2KvMaSom2rC16Zr.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/d0h7hZtLu1TGEMHJxcxLVMUSsJx.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/bwgudm3IQz9lV8GNAhzTkz6tqnB.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1078,
+          "iso_639_1": null,
+          "file_path": "/fdENXeUNcx8oDOIkS96aPMoOVPo.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1916
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 950,
+          "iso_639_1": null,
+          "file_path": "/q4tGjoHpDOWTE9EqFiSkg2cuFod.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1689
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-05-16 22:02:27"
   },
   {
     "id": 1244890,
@@ -4296,7 +4415,7 @@
     "título": "La casa al final de la curva",
     "título_original": "Sharp Corner",
     "sinopsis": "",
-    "poster_path": "/e5u5w6gemV0aCyczA1YvKan8510.jpg",
+    "poster_path": "/hPK7H70vQVpT3qn9zedKqizXVdx.jpg",
     "poster_local": "imagenes_estrenos/La_casa_al_final_de_la_curva_hPK7H70vQVpT3qn9zedKqizXVdx.jpg",
     "backdrop_path": "/tEYZpXr8a5L8lsUVVxNvpsquKAA.jpg",
     "backdrop_local": "imagenes_estrenos/La_casa_al_final_de_la_curva_backdrop_tEYZpXr8a5L8lsUVVxNvpsquKAA.jpg",
@@ -4380,126 +4499,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-16 10:02:30"
-  },
-  {
-    "id": 1262983,
-    "tmdb_id": 1262983,
-    "título": "MadS",
-    "título_original": "MadS",
-    "sinopsis": "Un adolescente va a ver a su camello para probar una nueva droga antes de irse de fiesta. De camino a casa, recoge a una mujer herida y la noche da un giro surrealista.",
-    "poster_path": "/aCeSgo9InTPVBN5oYhHAEM744U7.jpg",
-    "poster_local": "imagenes_estrenos/MadS_aCeSgo9InTPVBN5oYhHAEM744U7.jpg",
-    "backdrop_path": "/8lL13GCrlOii2KvMaSom2rC16Zr.jpg",
-    "backdrop_local": "imagenes_estrenos/MadS_backdrop_8lL13GCrlOii2KvMaSom2rC16Zr.jpg",
-    "fecha_estreno": "2025-06-06T00:00:00.000Z",
-    "duración": "95 min",
-    "director": "David Moreau",
-    "directores": [
-      {
-        "name": "David Moreau",
-        "id": 56735
-      }
-    ],
-    "actores": [
-      {
-        "name": "Lucille Guillaume",
-        "id": 2740498,
-        "character": "Julia",
-        "profile_path": "/yh24zaBJKpmMkDphtHEvSDPgbVo.jpg"
-      },
-      {
-        "name": "Laurie Pavy",
-        "id": 4608050,
-        "character": "Anaïs",
-        "profile_path": "/qjetD7oIGlfmOP77YGen49X4Mrg.jpg"
-      },
-      {
-        "name": "Milton Riche",
-        "id": 3811652,
-        "character": "Romain",
-        "profile_path": "/2C3Frd1UmRDzkv4YHJUzjAHKOKh.jpg"
-      },
-      {
-        "name": "Yovel Lewkowski",
-        "id": 4341735,
-        "character": "Noa",
-        "profile_path": "/d1pRevSrvKvHkkWEEmhf0oKhhwZ.jpg"
-      },
-      {
-        "name": "Sasha Rudakova",
-        "id": 5001289,
-        "character": "Woman on the Road",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 9.2454,
-    "puntuación": 6.76,
-    "votos": 125,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/8lL13GCrlOii2KvMaSom2rC16Zr.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/d0h7hZtLu1TGEMHJxcxLVMUSsJx.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/bwgudm3IQz9lV8GNAhzTkz6tqnB.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1078,
-          "iso_639_1": null,
-          "file_path": "/fdENXeUNcx8oDOIkS96aPMoOVPo.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1916
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 950,
-          "iso_639_1": null,
-          "file_path": "/q4tGjoHpDOWTE9EqFiSkg2cuFod.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1689
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-05-16 10:02:30"
+    "última_actualización": "2025-05-16 22:02:27"
   },
   {
     "id": 1278950,
@@ -4651,7 +4651,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:31"
+    "última_actualización": "2025-05-16 22:02:27"
   },
   {
     "id": 1079310,
@@ -4780,7 +4780,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:31"
+    "última_actualización": "2025-05-16 22:02:27"
   },
   {
     "id": 974663,
@@ -4934,7 +4934,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:31"
+    "última_actualización": "2025-05-16 22:02:28"
   },
   {
     "id": 1151272,
@@ -4942,7 +4942,7 @@
     "título": "Sirat",
     "título_original": "Sirat",
     "sinopsis": "",
-    "poster_path": "/mCunZGtfNoyoV21GmwIOxefM8kM.jpg",
+    "poster_path": "/ic7yV6RwONpEf0Krkx004vKwrwU.jpg",
     "poster_local": "imagenes_estrenos/Sirat_mCunZGtfNoyoV21GmwIOxefM8kM.jpg",
     "backdrop_path": "/kOUV5WbisWMg56d8eB45ZHEVxYq.jpg",
     "backdrop_local": "imagenes_estrenos/Sirat_backdrop_kOUV5WbisWMg56d8eB45ZHEVxYq.jpg",
@@ -5056,19 +5056,10 @@
           "vote_average": 0.166,
           "vote_count": 1,
           "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_639_1": null,
-          "file_path": "/rTN85xKEWwsjA7pxxcRVtnjxVd7.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 500
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:32"
+    "última_actualización": "2025-05-16 22:02:28"
   },
   {
     "id": 1432635,
@@ -5175,7 +5166,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:32"
+    "última_actualización": "2025-05-16 22:02:29"
   },
   {
     "id": 889482,
@@ -5227,7 +5218,7 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:33"
+    "última_actualización": "2025-05-16 22:02:29"
   },
   {
     "id": 1409937,
@@ -5306,7 +5297,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-05-16 10:02:33"
+    "última_actualización": "2025-05-16 22:02:30"
   },
   {
     "id": 1011477,
@@ -5374,8 +5365,8 @@
       }
     ],
     "popularidad": 119.6798,
-    "puntuación": 7.32,
-    "votos": 25,
+    "puntuación": 7.37,
+    "votos": 27,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -5475,6 +5466,6 @@
         }
       ]
     },
-    "última_actualización": "2025-05-16 10:02:30"
+    "última_actualización": "2025-05-16 22:02:26"
   }
 ]
