@@ -1,13 +1,25 @@
 [
     {
-        "título": "Anzu, gato fantasma",
-        "cartel": "imagenes_filmaffinity/tmdb_anzu-gato-fantasma.jpg",
+        "título": "Destino final: Lazos de sangre",
+        "cartel": "imagenes_filmaffinity/tmdb_destino-final-lazos-de-sangre.jpg",
         "horarios": [
             {
                 "fecha": "2025-05-20",
-                "hora": "18:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17080"
-            },
+                "hora": "20:20",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17098"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Adam B. Stein, Zach Lipovsky",
+        "duración": "110 min",
+        "actores": "Kaitlyn Santa Juana, Teo Briones, Rya Kihlstedt, Richard Harmon, Owen Patrick Joyner",
+        "sinopsis": "Acosada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie se dirige a casa para localizar a la única persona que podría ser capaz de romper el ciclo y salvar a su familia de la espeluznante muerte que inevitablemente les espera a todos.",
+        "año": "2025"
+    },
+    {
+        "título": "Anzu, gato fantasma",
+        "cartel": "imagenes_filmaffinity/tmdb_anzu-gato-fantasma.jpg",
+        "horarios": [
             {
                 "fecha": "2025-05-21",
                 "hora": "18:00",
@@ -25,23 +37,6 @@
         "actores": "森山未來, Noa Goto, Munetaka Aoki, 市川実和子, 鈴木慶一",
         "sinopsis": "Karin, una chica terca, crea un inesperado vínculo con Anzu, un travieso gato fantasma, mientras se hospeda con su abuelo monje en el campo japonés.",
         "año": "2024"
-    },
-    {
-        "título": "Destino final: Lazos de sangre",
-        "cartel": "imagenes_filmaffinity/tmdb_destino-final-lazos-de-sangre.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-05-20",
-                "hora": "20:20",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17098"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Zach Lipovsky, Adam B. Stein",
-        "duración": "110 min",
-        "actores": "Kaitlyn Santa Juana, Teo Briones, Rya Kihlstedt, Richard Harmon, Owen Patrick Joyner",
-        "sinopsis": "Acosada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie se dirige a casa para localizar a la única persona que podría ser capaz de romper el ciclo y salvar a su familia de la espeluznante muerte que inevitablemente les espera a todos.",
-        "año": "2025"
     },
     {
         "título": "Misión imposible: Sentencia final",
