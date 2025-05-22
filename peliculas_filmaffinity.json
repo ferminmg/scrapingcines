@@ -52,23 +52,6 @@
         "año": "2025"
     },
     {
-        "título": "Anzu, gato fantasma",
-        "cartel": "imagenes_filmaffinity/tmdb_anzu-gato-fantasma.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-05-22",
-                "hora": "18:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17113"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "久野遥子, 山下敦弘",
-        "duración": "90 min",
-        "actores": "森山未來, Noa Goto, Munetaka Aoki, 市川実和子, 鈴木慶一",
-        "sinopsis": "Karin, una chica terca, crea un inesperado vínculo con Anzu, un travieso gato fantasma, mientras se hospeda con su abuelo monje en el campo japonés.",
-        "año": "2024"
-    },
-    {
         "título": "Lilo y Stitch",
         "cartel": "imagenes_filmaffinity/tmdb_lilo-y-stitch.jpg",
         "horarios": [
@@ -138,6 +121,28 @@
         "año": "2025"
     },
     {
+        "título": "JOHN & YOKO: ONE TO ONE",
+        "cartel": "imagenes_filmaffinity/john-yoko-one-to-one.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-06-10",
+                "hora": "20:05",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17291"
+            },
+            {
+                "fecha": "2025-06-12",
+                "hora": "20:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17292"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
         "título": "Cómo entrenar a tu dragón",
         "cartel": "imagenes_filmaffinity/tmdb_como-entrenar-a-tu-dragon.jpg",
         "horarios": [
@@ -169,6 +174,28 @@
         "duración": "153 min",
         "actores": "Brad Pitt, Damson Idris, Kerry Condon, Javier Bardem, Kim Bodnia",
         "sinopsis": "El mítico piloto Sonny Hayes vuelve de su retiro, persuadido para liderar un equipo de Fórmula 1 en apuros y guiar a su joven promesa, en busca de una nueva oportunidad de éxito.",
+        "año": "2025"
+    },
+    {
+        "título": "Jurassic World: El renacer",
+        "cartel": "imagenes_filmaffinity/tmdb_jurassic-world-el-renacer.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-07-08",
+                "hora": "18:25",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17364"
+            },
+            {
+                "fecha": "2025-07-08",
+                "hora": "19:40",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17347"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Gareth Edwards",
+        "duración": "134 min",
+        "actores": "Scarlett Johansson, Jonathan Bailey, Mahershala Ali, Rupert Friend, Manuel Garcia-Rulfo",
+        "sinopsis": "Cinco años después de los eventos de \"Dominion\", sigue a Zora (Scarlett Johansson), que dirige un equipo para conseguir material genético de tres enormes dinosaurios. Cuando la operación se cruza con una familia, quedan varados en una isla donde hacen un siniestro descubrimiento.",
         "año": "2025"
     }
 ]
