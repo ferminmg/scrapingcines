@@ -1,5 +1,23 @@
 [
     {
+        "título": "La pequeña vendedora de sol",
+        "cartel": "imagenes_filmoteca/tmdb_La_peque_a_vendedora_de_sol.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-22",
+                "hora": "19:30",
+                "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006304000294"
+            }
+        ],
+        "cine": "Filmoteca de Navarra",
+        "tmdb_id": 108850,
+        "director": "Djibril Diop Mambéty",
+        "duración": "45 min",
+        "actores": "Aminata Fall, Moussa Baldé, Lissa Balera, Dieynaba Laam, Tayerou M'Baye",
+        "sinopsis": "En Dakar, la venta ambulante de periódicos siempre ha sido una actividad de los chicos, pero una mañana esta exclusividad es puesta en duda por Sili, la pequeña mendiga que vive en la calle desplazándose con la ayuda de unas muletas. Tiende la mano en el mismo lugar donde los chicos venden los periódicos, pero la han agredido y ha rodado sobre el asfalto. Su decisión está tomada. A partir de mañana venderá periódicos, como todo el mundo.",
+        "año": "1999"
+    },
+    {
         "título": "El lago salado (Jezioro Słone)",
         "cartel": "imagenes_filmoteca\\tmdb_El_lago_salado__Jezioro_S_one_.jpg",
         "horarios": [
