@@ -1,5 +1,24 @@
 [
     {
+        "título": "Emilia Pérez - CIVIVOX CONDESTABLE",
+        "cartel": "imagenes_filmoteca\\tmdb_Emilia_P_rez___CIVIVOX_CONDESTABLE.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-24",
+                "hora": "19:00",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Filmoteca de Navarra",
+        "tmdb_id": 974950,
+        "director": "Jacques Audiard",
+        "duración": "130 min",
+        "actores": "Karla Sofía Gascón, Zoe Saldaña, Selena Gómez, Adriana Paz, Edgar Ramírez",
+        "sinopsis": "Rita, una infravalorada abogada que trabaja para un gran bufete más interesado en librar a los criminales de la cárcel que en llevarlos ante la justicia, es contratada por el líder de una organización criminal.",
+        "año": "2024",
+        "_actualizada": true
+    },
+    {
         "título": "Anselm (Das Rauschen Der Zeit)",
         "cartel": "imagenes_filmoteca\\tmdb_Anselm__Das_Rauschen_Der_Zeit_.jpg",
         "horarios": [
@@ -53,6 +72,24 @@
         "actores": "",
         "sinopsis": "",
         "año": ""
+    },
+    {
+        "título": "El reverendo",
+        "tmdb_id": 458737,
+        "director": "Paul Schrader",
+        "duración": "113 min",
+        "actores": "Ethan Hawke, Amanda Seyfried, Cedric the Entertainer, Victoria Hill, Philip Ettinger",
+        "sinopsis": "El encuentro con un activista y su esposa embarazada (Amanda Seyfried) radicaliza la ideología de un pastor evangélico (Ethan Hawke), un antiguo capellán del ejército todavía marcado por la muerte de su hijo en Irak, que dirige una pequeña iglesia en el norte del estado de Nueva York.",
+        "año": "2018",
+        "cartel": "imagenes_filmoteca\\tmdb_El_reverendo.jpg",
+        "cine": "Casa de la Juventud",
+        "horarios": [
+            {
+                "fecha": "2025-05-24",
+                "hora": "18:00",
+                "enlace_entradas": ""
+            }
+        ]
     },
     {
         "título": "Flow, un mundo que salvar",
