@@ -1,47 +1,5 @@
 [
     {
-        "título": "Lilo y Stitch",
-        "cartel": "imagenes_filmaffinity/tmdb_lilo-y-stitch.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-05-25",
-                "hora": "17:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17208"
-            },
-            {
-                "fecha": "2025-05-26",
-                "hora": "17:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17217"
-            },
-            {
-                "fecha": "2025-05-27",
-                "hora": "17:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17228"
-            },
-            {
-                "fecha": "2025-05-27",
-                "hora": "20:25",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=16857"
-            },
-            {
-                "fecha": "2025-05-28",
-                "hora": "17:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17253"
-            },
-            {
-                "fecha": "2025-05-29",
-                "hora": "17:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17278"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Dean Fleischer Camp",
-        "duración": "108 min",
-        "actores": "Maia Kealoha, Sydney Agudong, Chris Sanders, Zach Galifianakis, Billy Magnussen",
-        "sinopsis": "La conmovedora y divertidísima historia de una solitaria niña hawaiana y el extraterrestre fugitivo que la ayuda a reparar su desestructurada familia.",
-        "año": "2025"
-    },
-    {
         "título": "Misión imposible: Sentencia final",
         "cartel": "imagenes_filmaffinity/tmdb_mision-imposible-sentencia-final.jpg",
         "horarios": [
@@ -76,6 +34,43 @@
         "duración": "169 min",
         "actores": "Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg, Esai Morales",
         "sinopsis": "El agente Ethan Hunt continúa su misión de impedir que Gabriel controle el tecnológicamente omnipotente programa de IA conocido como \"the Entity\".",
+        "año": "2025"
+    },
+    {
+        "título": "Lilo y Stitch",
+        "cartel": "imagenes_filmaffinity/tmdb_lilo-y-stitch.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-26",
+                "hora": "17:30",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17217"
+            },
+            {
+                "fecha": "2025-05-27",
+                "hora": "17:30",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17228"
+            },
+            {
+                "fecha": "2025-05-27",
+                "hora": "20:25",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=16857"
+            },
+            {
+                "fecha": "2025-05-28",
+                "hora": "17:30",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17253"
+            },
+            {
+                "fecha": "2025-05-29",
+                "hora": "17:30",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17278"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Dean Fleischer Camp",
+        "duración": "108 min",
+        "actores": "Maia Kealoha, Sydney Agudong, Chris Sanders, Zach Galifianakis, Billy Magnussen",
+        "sinopsis": "La conmovedora y divertidísima historia de una solitaria niña hawaiana y el extraterrestre fugitivo que la ayuda a reparar su desestructurada familia.",
         "año": "2025"
     },
     {
