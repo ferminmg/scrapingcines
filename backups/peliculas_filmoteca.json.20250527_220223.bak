@@ -1,5 +1,42 @@
 [
     {
+        "título": "El lago salado (Jezioro Słone)",
+        "cartel": "imagenes_filmoteca\\tmdb_El_lago_salado__Jezioro_S_one_.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-23",
+                "hora": "19:30",
+                "enlace_entradas": "http://www.bacantix.com/Entradas/WebForms/Forms/Venta.aspx?id=FilmotecaNavarra&codigo=000303001006305000295"
+            }
+        ],
+        "cine": "Filmoteca de Navarra",
+        "tmdb_id": 1021451,
+        "director": "Katarzyna Rosłaniec",
+        "duración": "0 min",
+        "actores": "Katarzyna Butowtt, Krzysztof Stelmaszyk, Dorota Kolak, Judyta Paradzińska-Górska, Adam Ferency",
+        "sinopsis": "",
+        "año": "2022"
+    },
+    {
+        "título": "Emilia Pérez - CIVIVOX CONDESTABLE",
+        "cartel": "imagenes_filmoteca\\tmdb_Emilia_P_rez___CIVIVOX_CONDESTABLE.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-24",
+                "hora": "19:00",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Filmoteca de Navarra",
+        "tmdb_id": 974950,
+        "director": "Jacques Audiard",
+        "duración": "130 min",
+        "actores": "Karla Sofía Gascón, Zoe Saldaña, Selena Gómez, Adriana Paz, Edgar Ramírez",
+        "sinopsis": "Rita, una infravalorada abogada que trabaja para un gran bufete más interesado en librar a los criminales de la cárcel que en llevarlos ante la justicia, es contratada por el líder de una organización criminal.",
+        "año": "2024",
+        "_actualizada": true
+    },
+    {
         "título": "Anselm (Das Rauschen Der Zeit)",
         "cartel": "imagenes_filmoteca\\tmdb_Anselm__Das_Rauschen_Der_Zeit_.jpg",
         "horarios": [
@@ -55,6 +92,24 @@
         "año": ""
     },
     {
+        "título": "El reverendo",
+        "tmdb_id": 458737,
+        "director": "Paul Schrader",
+        "duración": "113 min",
+        "actores": "Ethan Hawke, Amanda Seyfried, Cedric the Entertainer, Victoria Hill, Philip Ettinger",
+        "sinopsis": "El encuentro con un activista y su esposa embarazada (Amanda Seyfried) radicaliza la ideología de un pastor evangélico (Ethan Hawke), un antiguo capellán del ejército todavía marcado por la muerte de su hijo en Irak, que dirige una pequeña iglesia en el norte del estado de Nueva York.",
+        "año": "2018",
+        "cartel": "imagenes_filmoteca\\tmdb_El_reverendo.jpg",
+        "cine": "Casa de la Juventud",
+        "horarios": [
+            {
+                "fecha": "2025-05-24",
+                "hora": "18:00",
+                "enlace_entradas": ""
+            }
+        ]
+    },
+    {
         "título": "Flow, un mundo que salvar",
         "tmdb_id": 823219,
         "director": "Gints Zilbalodis",
@@ -86,6 +141,24 @@
             {
                 "fecha": "2025-06-21",
                 "hora": "18:00",
+                "enlace_entradas": ""
+            }
+        ]
+    },
+    {
+        "título": "T-34 Héroes de acero",
+        "tmdb_id": 505954,
+        "director": "Алексей Сидоров",
+        "duración": "112 min",
+        "actores": "Александр Петров, Виктор Добронравов, Ирина Старшенбаум, Vinzenz Kiefer, Пётр Скворцов",
+        "sinopsis": "En 1944, un valiente grupo de soldados rusos logra escapar de la cautividad alemana en un tanque T-34 medio destruido.",
+        "año": "2018",
+        "cartel": "imagenes_filmoteca\\tmdb_T_34_H_roes_de_acero.jpg",
+        "cine": "Civivox Condestable",
+        "horarios": [
+            {
+                "fecha": "2025-05-26",
+                "hora": "18:30",
                 "enlace_entradas": ""
             }
         ]
