@@ -4,31 +4,6 @@
         "cartel": "imagenes_filmaffinity/tmdb_lilo-y-stitch.jpg",
         "horarios": [
             {
-                "fecha": "2025-05-23",
-                "hora": "17:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17181"
-            },
-            {
-                "fecha": "2025-05-24",
-                "hora": "17:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17154"
-            },
-            {
-                "fecha": "2025-05-25",
-                "hora": "17:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17208"
-            },
-            {
-                "fecha": "2025-05-26",
-                "hora": "17:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17217"
-            },
-            {
-                "fecha": "2025-05-27",
-                "hora": "17:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17228"
-            },
-            {
                 "fecha": "2025-05-27",
                 "hora": "20:25",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=16857"
@@ -42,6 +17,11 @@
                 "fecha": "2025-05-29",
                 "hora": "17:30",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17278"
+            },
+            {
+                "fecha": "2025-05-31",
+                "hora": "13:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17419"
             }
         ],
         "cine": "Yelmo Itaroa",
@@ -56,31 +36,6 @@
         "cartel": "imagenes_filmaffinity/tmdb_mision-imposible-sentencia-final.jpg",
         "horarios": [
             {
-                "fecha": "2025-05-23",
-                "hora": "20:05",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17182"
-            },
-            {
-                "fecha": "2025-05-24",
-                "hora": "20:05",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17153"
-            },
-            {
-                "fecha": "2025-05-25",
-                "hora": "20:05",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17207"
-            },
-            {
-                "fecha": "2025-05-26",
-                "hora": "20:05",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17218"
-            },
-            {
-                "fecha": "2025-05-27",
-                "hora": "19:20",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=16220"
-            },
-            {
                 "fecha": "2025-05-28",
                 "hora": "20:05",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17252"
@@ -89,6 +44,26 @@
                 "fecha": "2025-05-29",
                 "hora": "20:05",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17279"
+            },
+            {
+                "fecha": "2025-05-30",
+                "hora": "20:45",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17461"
+            },
+            {
+                "fecha": "2025-05-31",
+                "hora": "12:50",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17428"
+            },
+            {
+                "fecha": "2025-05-31",
+                "hora": "20:45",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17456"
+            },
+            {
+                "fecha": "2025-06-01",
+                "hora": "20:45",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17386"
             }
         ],
         "cine": "Yelmo Itaroa",
@@ -113,6 +88,23 @@
         "duración": "150 min",
         "actores": "제이홉",
         "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La trama fenicia",
+        "cartel": "imagenes_filmaffinity/tmdb_la-trama-fenicia.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-05-31",
+                "hora": "12:45",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17453"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Wes Anderson",
+        "duración": "102 min",
+        "actores": "Benicio del Toro, Mia Threapleton, Michael Cera, Riz Ahmed, Tom Hanks",
+        "sinopsis": "La historia de una familia y de un negocio familiar.",
         "año": "2025"
     },
     {
