@@ -1,13 +1,25 @@
 [
     {
+        "título": "La trama fenicia",
+        "cartel": "imagenes_filmaffinity/tmdb_la-trama-fenicia.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-06-03",
+                "hora": "20:10",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17561"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Wes Anderson",
+        "duración": "102 min",
+        "actores": "Benicio del Toro, Mia Threapleton, Michael Cera, Riz Ahmed, Tom Hanks",
+        "sinopsis": "La historia de una familia y de un negocio familiar.",
+        "año": "2025"
+    },
+    {
         "título": "Misión imposible: Sentencia final",
         "cartel": "imagenes_filmaffinity/tmdb_mision-imposible-sentencia-final.jpg",
         "horarios": [
-            {
-                "fecha": "2025-06-02",
-                "hora": "21:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17539"
-            },
             {
                 "fecha": "2025-06-03",
                 "hora": "21:00",
@@ -29,23 +41,6 @@
         "duración": "169 min",
         "actores": "Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg, Esai Morales",
         "sinopsis": "El agente Ethan Hunt continúa su misión de impedir que Gabriel controle el tecnológicamente omnipotente programa de IA conocido como \"the Entity\".",
-        "año": "2025"
-    },
-    {
-        "título": "La trama fenicia",
-        "cartel": "imagenes_filmaffinity/tmdb_la-trama-fenicia.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-06-03",
-                "hora": "20:10",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=17561"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Wes Anderson",
-        "duración": "102 min",
-        "actores": "Benicio del Toro, Mia Threapleton, Michael Cera, Riz Ahmed, Tom Hanks",
-        "sinopsis": "La historia de una familia y de un negocio familiar.",
         "año": "2025"
     },
     {
