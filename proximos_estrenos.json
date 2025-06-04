@@ -1284,8 +1284,8 @@
       }
     ],
     "popularidad": 69.5553,
-    "puntuación": 7.6,
-    "votos": 10,
+    "puntuación": 7.2,
+    "votos": 13,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1385,7 +1385,7 @@
         }
       ]
     },
-    "última_actualización": "2025-06-04 10:02:43"
+    "última_actualización": "2025-06-04 22:02:47"
   },
   {
     "id": 1130402,
@@ -1510,7 +1510,7 @@
         }
       ]
     },
-    "última_actualización": "2025-06-04 10:02:45"
+    "última_actualización": "2025-06-04 22:02:48"
   },
   {
     "id": 1286450,
@@ -1612,7 +1612,7 @@
         }
       ]
     },
-    "última_actualización": "2025-06-04 10:02:49"
+    "última_actualización": "2025-06-04 22:02:50"
   },
   {
     "id": 1212855,
@@ -1781,7 +1781,136 @@
         }
       ]
     },
-    "última_actualización": "2025-06-04 10:02:44"
+    "última_actualización": "2025-06-04 22:02:47"
+  },
+  {
+    "id": 1079310,
+    "tmdb_id": 1079310,
+    "título": "La receta perfecta",
+    "título_original": "Vingt Dieux",
+    "sinopsis": "Totone, de 18 años, pasa la mayor parte del tiempo bebiendo cerveza y yendo de fiesta con sus amigos a la región del Jura. Pero la realidad la atrapa: debe buscarse la vida y cuidar a su hermana de 7 años. Es entonces cuando se propone fabricar el mejor queso Comté de la región, lo que le podría hacer ganar la medalla de oro al concurso agrícola y 30.000 euros.",
+    "poster_path": "/zdoLIMMgcbqBtgPIWe7Ep8KcsiH.jpg",
+    "poster_local": "imagenes_estrenos/Holy_Cow_zdoLIMMgcbqBtgPIWe7Ep8KcsiH.jpg",
+    "backdrop_path": "/87FfUfTb7gxty2L8sAiVwO3ul5y.jpg",
+    "backdrop_local": "imagenes_estrenos/Holy_Cow_backdrop_87FfUfTb7gxty2L8sAiVwO3ul5y.jpg",
+    "fecha_estreno": "2025-06-13T00:00:00.000Z",
+    "duración": "92 min",
+    "director": "Louise Courvoisier",
+    "directores": [
+      {
+        "name": "Louise Courvoisier",
+        "id": 2292518
+      }
+    ],
+    "actores": [
+      {
+        "name": "Clément Faveau",
+        "id": 4498192,
+        "character": "Totone",
+        "profile_path": "/w9sjXSIkf4qyDSnoas0Bk5Ul1F5.jpg"
+      },
+      {
+        "name": "Maïwene Barthelemy",
+        "id": 4649720,
+        "character": "Marie-Lise",
+        "profile_path": "/eRv5n1j0H1J2lFanUngAoGe1Yhg.jpg"
+      },
+      {
+        "name": "Luna Garret",
+        "id": 4498193,
+        "character": "Claire",
+        "profile_path": "/p8fNDGMMgDGdRZzIKtdOGTMWIUX.jpg"
+      },
+      {
+        "name": "Mathis Bernard",
+        "id": 4498194,
+        "character": "Jean-Yves Bretin",
+        "profile_path": "/3BN8PNcgMnaAs23Vsdma7YIXyFH.jpg"
+      },
+      {
+        "name": "Dimitri Baudry",
+        "id": 4498195,
+        "character": "Francis",
+        "profile_path": "/3Fu76HnVc2s4KSWkYgR2adxgGxc.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 3.0299,
+    "puntuación": 7.1,
+    "votos": 170,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/87FfUfTb7gxty2L8sAiVwO3ul5y.jpg",
+          "vote_average": 3.334,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/momk3fWl6F61kgfObqfIVCWBzPM.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/dbPsxlcdqicbtJVdC9RrOtp4C0w.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/e9G3WewWOc9a8OjW4BXmeHeaGj6.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/4C93cT34EfMrlccPemxwAj3uG0e.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/jlxPP4uDdbhcPAMdI7RtLB8WEfK.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-06-04 22:02:48"
   },
   {
     "id": 1320392,
@@ -1901,7 +2030,122 @@
         }
       ]
     },
-    "última_actualización": "2025-06-04 10:02:45"
+    "última_actualización": "2025-06-04 22:02:48"
+  },
+  {
+    "id": 1278338,
+    "tmdb_id": 1278338,
+    "título": "Tres kilómetros al fin del mundo",
+    "título_original": "Trei kilometri până la capătul lumii",
+    "sinopsis": "",
+    "poster_path": "/vRdtqineVFsIr5GKDGsyrHqGa5g.jpg",
+    "poster_local": "imagenes_estrenos/Tres_kil_metros_al_fin_del_mundo_vRdtqineVFsIr5GKDGsyrHqGa5g.jpg",
+    "backdrop_path": "/qPWwUuUH2839fhw8fm0XX3Wg6bo.jpg",
+    "backdrop_local": "imagenes_estrenos/Tres_kil_metros_al_fin_del_mundo_backdrop_qPWwUuUH2839fhw8fm0XX3Wg6bo.jpg",
+    "fecha_estreno": "2025-06-13T00:00:00.000Z",
+    "duración": "105 min",
+    "director": "Emanuel Pârvu",
+    "directores": [
+      {
+        "name": "Emanuel Pârvu",
+        "id": 60418
+      }
+    ],
+    "actores": [
+      {
+        "name": "Bogdan Dumitrache",
+        "id": 931367,
+        "character": "The Father",
+        "profile_path": "/Dclz20fRLYWoyfh5ffBN0motyS.jpg"
+      },
+      {
+        "name": "Laura Vasiliu",
+        "id": 20698,
+        "character": "The Mother",
+        "profile_path": "/70HUF6hswKB8mkqIpomrGLd45al.jpg"
+      },
+      {
+        "name": "Ciprian Chiujdea",
+        "id": 4668774,
+        "character": "Adi",
+        "profile_path": "/y0Of43I2ZTvnOiirjyBTThF3fhe.jpg"
+      },
+      {
+        "name": "Valeriu Andriuță",
+        "id": 1034687,
+        "character": "The Police Chief",
+        "profile_path": "/lASuGh1msogVRs5jUmELugBFPAu.jpg"
+      },
+      {
+        "name": "Adrian Titieni",
+        "id": 1113157,
+        "character": "The Priest",
+        "profile_path": "/cXTDbbmrPXvxrznP2ZAGYzVv1hn.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.1785,
+    "puntuación": 6.8,
+    "votos": 20,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/qPWwUuUH2839fhw8fm0XX3Wg6bo.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1350,
+          "iso_639_1": null,
+          "file_path": "/lrH7BkD0ftzuz1mRLV2p6Ac3aSM.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2400
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1350,
+          "iso_639_1": null,
+          "file_path": "/jUUfz7pCSpx2P10JKOQzfRKh3ne.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2400
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1350,
+          "iso_639_1": null,
+          "file_path": "/1ipSnl3h3itUSutf1TEXYmxldEk.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2400
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/zTBbdFtZEoXQ2NCf5KYKRgh33t9.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-06-04 22:02:48"
   },
   {
     "id": 1171296,
@@ -2019,251 +2263,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-06-04 10:02:45"
-  },
-  {
-    "id": 1079310,
-    "tmdb_id": 1079310,
-    "título": "La receta perfecta",
-    "título_original": "Vingt Dieux",
-    "sinopsis": "Totone, de 18 años, pasa la mayor parte del tiempo bebiendo cerveza y yendo de fiesta con sus amigos a la región del Jura. Pero la realidad la atrapa: debe buscarse la vida y cuidar a su hermana de 7 años. Es entonces cuando se propone fabricar el mejor queso Comté de la región, lo que le podría hacer ganar la medalla de oro al concurso agrícola y 30.000 euros.",
-    "poster_path": "/zdoLIMMgcbqBtgPIWe7Ep8KcsiH.jpg",
-    "poster_local": "imagenes_estrenos/Holy_Cow_zdoLIMMgcbqBtgPIWe7Ep8KcsiH.jpg",
-    "backdrop_path": "/87FfUfTb7gxty2L8sAiVwO3ul5y.jpg",
-    "backdrop_local": "imagenes_estrenos/Holy_Cow_backdrop_87FfUfTb7gxty2L8sAiVwO3ul5y.jpg",
-    "fecha_estreno": "2025-06-13T00:00:00.000Z",
-    "duración": "92 min",
-    "director": "Louise Courvoisier",
-    "directores": [
-      {
-        "name": "Louise Courvoisier",
-        "id": 2292518
-      }
-    ],
-    "actores": [
-      {
-        "name": "Clément Faveau",
-        "id": 4498192,
-        "character": "Totone",
-        "profile_path": "/w9sjXSIkf4qyDSnoas0Bk5Ul1F5.jpg"
-      },
-      {
-        "name": "Maïwene Barthelemy",
-        "id": 4649720,
-        "character": "Marie-Lise",
-        "profile_path": "/eRv5n1j0H1J2lFanUngAoGe1Yhg.jpg"
-      },
-      {
-        "name": "Luna Garret",
-        "id": 4498193,
-        "character": "Claire",
-        "profile_path": "/p8fNDGMMgDGdRZzIKtdOGTMWIUX.jpg"
-      },
-      {
-        "name": "Mathis Bernard",
-        "id": 4498194,
-        "character": "Jean-Yves Bretin",
-        "profile_path": "/3BN8PNcgMnaAs23Vsdma7YIXyFH.jpg"
-      },
-      {
-        "name": "Dimitri Baudry",
-        "id": 4498195,
-        "character": "Francis",
-        "profile_path": "/3Fu76HnVc2s4KSWkYgR2adxgGxc.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 3.0299,
-    "puntuación": 7.091,
-    "votos": 170,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/87FfUfTb7gxty2L8sAiVwO3ul5y.jpg",
-          "vote_average": 3.334,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/momk3fWl6F61kgfObqfIVCWBzPM.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/dbPsxlcdqicbtJVdC9RrOtp4C0w.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/e9G3WewWOc9a8OjW4BXmeHeaGj6.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/4C93cT34EfMrlccPemxwAj3uG0e.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/jlxPP4uDdbhcPAMdI7RtLB8WEfK.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-06-04 10:02:45"
-  },
-  {
-    "id": 1278338,
-    "tmdb_id": 1278338,
-    "título": "Tres kilómetros al fin del mundo",
-    "título_original": "Trei kilometri până la capătul lumii",
-    "sinopsis": "",
-    "poster_path": "/vRdtqineVFsIr5GKDGsyrHqGa5g.jpg",
-    "poster_local": "imagenes_estrenos/Tres_kil_metros_al_fin_del_mundo_vRdtqineVFsIr5GKDGsyrHqGa5g.jpg",
-    "backdrop_path": "/qPWwUuUH2839fhw8fm0XX3Wg6bo.jpg",
-    "backdrop_local": "imagenes_estrenos/Tres_kil_metros_al_fin_del_mundo_backdrop_qPWwUuUH2839fhw8fm0XX3Wg6bo.jpg",
-    "fecha_estreno": "2025-06-13T00:00:00.000Z",
-    "duración": "105 min",
-    "director": "Emanuel Pârvu",
-    "directores": [
-      {
-        "name": "Emanuel Pârvu",
-        "id": 60418
-      }
-    ],
-    "actores": [
-      {
-        "name": "Bogdan Dumitrache",
-        "id": 931367,
-        "character": "The Father",
-        "profile_path": "/Dclz20fRLYWoyfh5ffBN0motyS.jpg"
-      },
-      {
-        "name": "Laura Vasiliu",
-        "id": 20698,
-        "character": "The Mother",
-        "profile_path": "/70HUF6hswKB8mkqIpomrGLd45al.jpg"
-      },
-      {
-        "name": "Ciprian Chiujdea",
-        "id": 4668774,
-        "character": "Adi",
-        "profile_path": "/y0Of43I2ZTvnOiirjyBTThF3fhe.jpg"
-      },
-      {
-        "name": "Valeriu Andriuță",
-        "id": 1034687,
-        "character": "The Police Chief",
-        "profile_path": "/lASuGh1msogVRs5jUmELugBFPAu.jpg"
-      },
-      {
-        "name": "Adrian Titieni",
-        "id": 1113157,
-        "character": "The Priest",
-        "profile_path": "/cXTDbbmrPXvxrznP2ZAGYzVv1hn.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 1.1785,
-    "puntuación": 6.8,
-    "votos": 20,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/qPWwUuUH2839fhw8fm0XX3Wg6bo.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1350,
-          "iso_639_1": null,
-          "file_path": "/lrH7BkD0ftzuz1mRLV2p6Ac3aSM.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2400
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1350,
-          "iso_639_1": null,
-          "file_path": "/jUUfz7pCSpx2P10JKOQzfRKh3ne.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2400
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1350,
-          "iso_639_1": null,
-          "file_path": "/1ipSnl3h3itUSutf1TEXYmxldEk.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2400
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/zTBbdFtZEoXQ2NCf5KYKRgh33t9.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-06-04 10:02:45"
+    "última_actualización": "2025-06-04 22:02:48"
   },
   {
     "id": 1157680,
@@ -2378,7 +2378,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-06-04 10:02:46"
+    "última_actualización": "2025-06-04 22:02:48"
   },
   {
     "id": 1380651,
@@ -2467,7 +2467,86 @@
         }
       ]
     },
-    "última_actualización": "2025-06-04 10:02:46"
+    "última_actualización": "2025-06-04 22:02:49"
+  },
+  {
+    "id": 1463240,
+    "tmdb_id": 1463240,
+    "título": "Sujétame el cubata",
+    "título_original": "Sujétame el cubata",
+    "sinopsis": "Un cómico organiza un plan disparatado para salvar su bar a toda costa.",
+    "poster_path": "/t3BzU9W8NNZXlZGrcWwLsqF3PIB.jpg",
+    "poster_local": "imagenes_estrenos/Suj_tame_el_cubata_t3BzU9W8NNZXlZGrcWwLsqF3PIB.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-06-13T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Fernando Ayllón",
+    "directores": [
+      {
+        "name": "Fernando Ayllón",
+        "id": 1568247
+      }
+    ],
+    "actores": [
+      {
+        "name": "J.J. Vaquero",
+        "id": 1827859,
+        "character": "J.J. Vaquero",
+        "profile_path": "/tlyycQ5TEVqF1A0FP9zKofvODX9.jpg"
+      },
+      {
+        "name": "Patricia Conde",
+        "id": 1401555,
+        "character": "",
+        "profile_path": "/fC5RkbWFw9NPPlJ9FPf1tzzf8YO.jpg"
+      },
+      {
+        "name": "Goyo Jiménez",
+        "id": 1063322,
+        "character": "",
+        "profile_path": "/Ac60UHbWms5OZnWndcl701c4mnv.jpg"
+      },
+      {
+        "name": "Fernando Albizu",
+        "id": 100905,
+        "character": "",
+        "profile_path": "/g1R0dAKDoIX0oLzemnRxJSR2fSJ.jpg"
+      },
+      {
+        "name": "Carolina Noriega",
+        "id": 2840892,
+        "character": "",
+        "profile_path": "/wvTpwi4rr3GdXQ9X3JQNYWwp0F8.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 0.6383,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 1200,
+          "iso_639_1": null,
+          "file_path": "/t3BzU9W8NNZXlZGrcWwLsqF3PIB.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 840
+        }
+      ]
+    },
+    "última_actualización": "2025-06-04 22:02:49"
   },
   {
     "id": 1162472,
@@ -2573,86 +2652,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-06-04 10:02:46"
-  },
-  {
-    "id": 1463240,
-    "tmdb_id": 1463240,
-    "título": "Sujétame el cubata",
-    "título_original": "Sujétame el cubata",
-    "sinopsis": "Un cómico organiza un plan disparatado para salvar su bar a toda costa.",
-    "poster_path": "/t3BzU9W8NNZXlZGrcWwLsqF3PIB.jpg",
-    "poster_local": "imagenes_estrenos/Suj_tame_el_cubata_t3BzU9W8NNZXlZGrcWwLsqF3PIB.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-06-13T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Fernando Ayllón",
-    "directores": [
-      {
-        "name": "Fernando Ayllón",
-        "id": 1568247
-      }
-    ],
-    "actores": [
-      {
-        "name": "J.J. Vaquero",
-        "id": 1827859,
-        "character": "J.J. Vaquero",
-        "profile_path": "/tlyycQ5TEVqF1A0FP9zKofvODX9.jpg"
-      },
-      {
-        "name": "Patricia Conde",
-        "id": 1401555,
-        "character": "",
-        "profile_path": "/fC5RkbWFw9NPPlJ9FPf1tzzf8YO.jpg"
-      },
-      {
-        "name": "Goyo Jiménez",
-        "id": 1063322,
-        "character": "",
-        "profile_path": "/Ac60UHbWms5OZnWndcl701c4mnv.jpg"
-      },
-      {
-        "name": "Fernando Albizu",
-        "id": 100905,
-        "character": "",
-        "profile_path": "/g1R0dAKDoIX0oLzemnRxJSR2fSJ.jpg"
-      },
-      {
-        "name": "Carolina Noriega",
-        "id": 2840892,
-        "character": "",
-        "profile_path": "/wvTpwi4rr3GdXQ9X3JQNYWwp0F8.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 0.6383,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.7,
-          "height": 1200,
-          "iso_639_1": null,
-          "file_path": "/t3BzU9W8NNZXlZGrcWwLsqF3PIB.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 840
-        }
-      ]
-    },
-    "última_actualización": "2025-06-04 10:02:47"
+    "última_actualización": "2025-06-04 22:02:50"
   },
   {
     "id": 1321656,
@@ -2720,7 +2720,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-06-04 10:02:48"
+    "última_actualización": "2025-06-04 22:02:50"
   },
   {
     "id": 1276418,
@@ -2775,7 +2775,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-06-04 10:02:48"
+    "última_actualización": "2025-06-04 22:02:50"
   },
   {
     "id": 1478178,
@@ -2870,7 +2870,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-06-04 10:02:49"
+    "última_actualización": "2025-06-04 22:02:51"
   },
   {
     "id": 1477037,
@@ -2960,7 +2960,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-06-04 10:02:49"
+    "última_actualización": "2025-06-04 22:02:51"
   },
   {
     "id": 1490627,
@@ -3043,7 +3043,7 @@
         }
       ]
     },
-    "última_actualización": "2025-06-04 10:02:49"
+    "última_actualización": "2025-06-04 22:02:51"
   },
   {
     "id": 1479201,
@@ -3126,7 +3126,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-06-04 10:02:49"
+    "última_actualización": "2025-06-04 22:02:51"
   },
   {
     "id": 980477,
@@ -3295,7 +3295,7 @@
         }
       ]
     },
-    "última_actualización": "2025-06-04 10:02:44"
+    "última_actualización": "2025-06-04 22:02:47"
   },
   {
     "id": 1100988,
@@ -3464,196 +3464,7 @@
         }
       ]
     },
-    "última_actualización": "2025-06-04 10:02:44"
-  },
-  {
-    "id": 1173900,
-    "tmdb_id": 1173900,
-    "título": "Ne Zha 2: El héroe regresa",
-    "título_original": "我是哪吒2之英雄归来",
-    "sinopsis": "",
-    "poster_path": "/vHf7HD3DU7Zz5ZiW5NfxagFHmfg.jpg",
-    "poster_local": "imagenes_estrenos/Ne_Zha_2__El_h_roe_regresa_vHf7HD3DU7Zz5ZiW5NfxagFHmfg.jpg",
-    "backdrop_path": "/9KjvUTlu9rvU89sBRBdtFv3IQ6A.jpg",
-    "backdrop_local": "imagenes_estrenos/Ne_Zha_2__El_h_roe_regresa_backdrop_9KjvUTlu9rvU89sBRBdtFv3IQ6A.jpg",
-    "fecha_estreno": "2025-06-20T00:00:00.000Z",
-    "duración": "107 min",
-    "director": "",
-    "directores": [],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 14,
-        "name": "Fantasía"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 3.2728,
-    "puntuación": 9.0,
-    "votos": 3,
-    "adulto": false,
-    "video": false,
-    "año": "2023",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/9KjvUTlu9rvU89sBRBdtFv3IQ6A.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 858,
-          "iso_639_1": null,
-          "file_path": "/je5k0L3FktkFmiLd1SMHVhynyHX.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1525
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/gKryP7YfQP8cWkXtt3cFccr0I6q.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1512,
-          "iso_639_1": null,
-          "file_path": "/tMTaJNW9kpDwFomlGh43zC6XEEz.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1008
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/cWfcbiidx9M5c6XlbGQuclZIr4y.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/eQjHQqiNPDRVCsU1ZDRz3vw15il.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-06-04 10:02:44"
-  },
-  {
-    "id": 1216571,
-    "tmdb_id": 1216571,
-    "título": "June et John",
-    "título_original": "June et John",
-    "sinopsis": "",
-    "poster_path": "/zbSGq3u34HnoRCaUsSQn2EowHAt.jpg",
-    "poster_local": "imagenes_estrenos/June_et_John_zbSGq3u34HnoRCaUsSQn2EowHAt.jpg",
-    "backdrop_path": "/ocl96RW6AKrIv5se5MVtRMKJHZ.jpg",
-    "backdrop_local": "imagenes_estrenos/June_et_John_backdrop_ocl96RW6AKrIv5se5MVtRMKJHZ.jpg",
-    "fecha_estreno": "2025-06-20T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Luc Besson",
-    "directores": [
-      {
-        "name": "Luc Besson",
-        "id": 59
-      }
-    ],
-    "actores": [
-      {
-        "name": "Matilda Price",
-        "id": 4286528,
-        "character": "June",
-        "profile_path": "/mLYzW8RfntCADmZnQ9NMGvkykNH.jpg"
-      },
-      {
-        "name": "Luke Stanton Eddy",
-        "id": 2157295,
-        "character": "John",
-        "profile_path": "/c6jx3H2WtgOoUi1aNe3ZjOBX1nN.jpg"
-      },
-      {
-        "name": "Honey Lauren",
-        "id": 102898,
-        "character": "John's Mom",
-        "profile_path": "/2RLxCt57Q1TNAGjxg253O390fDB.jpg"
-      },
-      {
-        "name": "Myles Cranford",
-        "id": 131735,
-        "character": "Melvin",
-        "profile_path": "/dyfLRUvtAAZOLta3UfdMCWE982O.jpg"
-      },
-      {
-        "name": "Dean Testerman",
-        "id": 1911970,
-        "character": "Francis",
-        "profile_path": "/93le8JvBPbrfiIWoz6aq9FI4MyM.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 10749,
-        "name": "Romance"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 2.5826,
-    "puntuación": 6.1,
-    "votos": 13,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/ocl96RW6AKrIv5se5MVtRMKJHZ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/xiBr5BQmIjI8rAcMRAc6XkS4Wav.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-06-04 10:02:44"
+    "última_actualización": "2025-06-04 22:02:47"
   },
   {
     "id": 756397,
@@ -3785,7 +3596,196 @@
         }
       ]
     },
-    "última_actualización": "2025-06-04 10:02:45"
+    "última_actualización": "2025-06-04 22:02:47"
+  },
+  {
+    "id": 1173900,
+    "tmdb_id": 1173900,
+    "título": "Ne Zha 2: El héroe regresa",
+    "título_original": "我是哪吒2之英雄归来",
+    "sinopsis": "",
+    "poster_path": "/vHf7HD3DU7Zz5ZiW5NfxagFHmfg.jpg",
+    "poster_local": "imagenes_estrenos/Ne_Zha_2__El_h_roe_regresa_vHf7HD3DU7Zz5ZiW5NfxagFHmfg.jpg",
+    "backdrop_path": "/9KjvUTlu9rvU89sBRBdtFv3IQ6A.jpg",
+    "backdrop_local": "imagenes_estrenos/Ne_Zha_2__El_h_roe_regresa_backdrop_9KjvUTlu9rvU89sBRBdtFv3IQ6A.jpg",
+    "fecha_estreno": "2025-06-20T00:00:00.000Z",
+    "duración": "107 min",
+    "director": "",
+    "directores": [],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 3.2728,
+    "puntuación": 9.0,
+    "votos": 3,
+    "adulto": false,
+    "video": false,
+    "año": "2023",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/9KjvUTlu9rvU89sBRBdtFv3IQ6A.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 858,
+          "iso_639_1": null,
+          "file_path": "/je5k0L3FktkFmiLd1SMHVhynyHX.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1525
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/gKryP7YfQP8cWkXtt3cFccr0I6q.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1512,
+          "iso_639_1": null,
+          "file_path": "/tMTaJNW9kpDwFomlGh43zC6XEEz.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1008
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/cWfcbiidx9M5c6XlbGQuclZIr4y.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/eQjHQqiNPDRVCsU1ZDRz3vw15il.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-06-04 22:02:47"
+  },
+  {
+    "id": 1216571,
+    "tmdb_id": 1216571,
+    "título": "June et John",
+    "título_original": "June et John",
+    "sinopsis": "",
+    "poster_path": "/zbSGq3u34HnoRCaUsSQn2EowHAt.jpg",
+    "poster_local": "imagenes_estrenos/June_et_John_zbSGq3u34HnoRCaUsSQn2EowHAt.jpg",
+    "backdrop_path": "/ocl96RW6AKrIv5se5MVtRMKJHZ.jpg",
+    "backdrop_local": "imagenes_estrenos/June_et_John_backdrop_ocl96RW6AKrIv5se5MVtRMKJHZ.jpg",
+    "fecha_estreno": "2025-06-20T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Luc Besson",
+    "directores": [
+      {
+        "name": "Luc Besson",
+        "id": 59
+      }
+    ],
+    "actores": [
+      {
+        "name": "Matilda Price",
+        "id": 4286528,
+        "character": "June",
+        "profile_path": "/mLYzW8RfntCADmZnQ9NMGvkykNH.jpg"
+      },
+      {
+        "name": "Luke Stanton Eddy",
+        "id": 2157295,
+        "character": "John",
+        "profile_path": "/c6jx3H2WtgOoUi1aNe3ZjOBX1nN.jpg"
+      },
+      {
+        "name": "Honey Lauren",
+        "id": 102898,
+        "character": "John's Mom",
+        "profile_path": "/2RLxCt57Q1TNAGjxg253O390fDB.jpg"
+      },
+      {
+        "name": "Myles Cranford",
+        "id": 131735,
+        "character": "Melvin",
+        "profile_path": "/dyfLRUvtAAZOLta3UfdMCWE982O.jpg"
+      },
+      {
+        "name": "Dean Testerman",
+        "id": 1911970,
+        "character": "Francis",
+        "profile_path": "/93le8JvBPbrfiIWoz6aq9FI4MyM.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 2.5826,
+    "puntuación": 6.1,
+    "votos": 13,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/ocl96RW6AKrIv5se5MVtRMKJHZ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/xiBr5BQmIjI8rAcMRAc6XkS4Wav.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-06-04 22:02:48"
   },
   {
     "id": 1136837,
@@ -3845,8 +3845,8 @@
       }
     ],
     "popularidad": 1.9959,
-    "puntuación": 6.806,
-    "votos": 31,
+    "puntuación": 6.781,
+    "votos": 32,
     "adulto": false,
     "video": false,
     "año": "2024",
@@ -3900,7 +3900,108 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-06-04 10:02:45"
+    "última_actualización": "2025-06-04 22:02:48"
+  },
+  {
+    "id": 1445389,
+    "tmdb_id": 1445389,
+    "título": "Vírgenes",
+    "título_original": "Vírgenes",
+    "sinopsis": "Sevilla, 1968. Honorio, Rafa y Vicente están a punto de cumplir los 20 y sueñan con escapar de su rutina. Al ver un NO-DO sobre el boom turístico en la Costa del Sol y los aires de libertad, deciden viajar a Torremolinos para cambiar sus vidas y, sobre todo, perder la virginidad con las suecas. Tras inventarse las excusas pertinentes y un Seat 600 cargado, emprenden un viaje que pondrá en duda todo lo que creían saber hasta el momento.",
+    "poster_path": "/8pe8arWEE7LOOLZPHDbAbp1h6xE.jpg",
+    "poster_local": "imagenes_estrenos/V_rgenes_8pe8arWEE7LOOLZPHDbAbp1h6xE.jpg",
+    "backdrop_path": "/hIbA43ohEXbg3H2TW291ZbnZbdn.jpg",
+    "backdrop_local": "imagenes_estrenos/V_rgenes_backdrop_hIbA43ohEXbg3H2TW291ZbnZbdn.jpg",
+    "fecha_estreno": "2025-06-20T00:00:00.000Z",
+    "duración": "87 min",
+    "director": "Álvaro Díaz Lorenzo",
+    "directores": [
+      {
+        "name": "Álvaro Díaz Lorenzo",
+        "id": 1681183
+      }
+    ],
+    "actores": [
+      {
+        "name": "Xavi Caudevilla",
+        "id": 3836094,
+        "character": "Honorio",
+        "profile_path": "/eowuoPUKcvxglh0MjXGkcRmXhEz.jpg"
+      },
+      {
+        "name": "César Vicente",
+        "id": 2231204,
+        "character": "Rafa",
+        "profile_path": "/bGnQnttEvXQG2Yqd2bpYE32sLE2.jpg"
+      },
+      {
+        "name": "Carlos Scholz",
+        "id": 2421704,
+        "character": "Vicente",
+        "profile_path": "/zLlCUjyjFJQK12A56DaxYGKfZ2A.jpg"
+      },
+      {
+        "name": "Cristina Kovani",
+        "id": 3941447,
+        "character": "Ana",
+        "profile_path": "/q4QqK8lmLllrLAjzekYsbuq97k5.jpg"
+      },
+      {
+        "name": "Natalia Azahara",
+        "id": 3247405,
+        "character": "Carmen",
+        "profile_path": "/ccsb7gTOsUcWLctzT9bfSBj7OkW.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "popularidad": 1.1835,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.782,
+          "height": 864,
+          "iso_639_1": null,
+          "file_path": "/hIbA43ohEXbg3H2TW291ZbnZbdn.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1540
+        },
+        {
+          "aspect_ratio": 1.782,
+          "height": 864,
+          "iso_639_1": null,
+          "file_path": "/xMF3b8shCr5D5CEg6lzP1LBLN0E.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1540
+        },
+        {
+          "aspect_ratio": 1.782,
+          "height": 864,
+          "iso_639_1": null,
+          "file_path": "/uOJh7cOY3Wkb57lNoRgJ0ON61z2.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1540
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-06-04 22:02:48"
   },
   {
     "id": 1000965,
@@ -4015,108 +4116,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-06-04 10:02:46"
-  },
-  {
-    "id": 1445389,
-    "tmdb_id": 1445389,
-    "título": "Vírgenes",
-    "título_original": "Vírgenes",
-    "sinopsis": "Sevilla, 1968. Honorio, Rafa y Vicente están a punto de cumplir los 20 y sueñan con escapar de su rutina. Al ver un NO-DO sobre el boom turístico en la Costa del Sol y los aires de libertad, deciden viajar a Torremolinos para cambiar sus vidas y, sobre todo, perder la virginidad con las suecas. Tras inventarse las excusas pertinentes y un Seat 600 cargado, emprenden un viaje que pondrá en duda todo lo que creían saber hasta el momento.",
-    "poster_path": "/8pe8arWEE7LOOLZPHDbAbp1h6xE.jpg",
-    "poster_local": "imagenes_estrenos/V_rgenes_8pe8arWEE7LOOLZPHDbAbp1h6xE.jpg",
-    "backdrop_path": "/hIbA43ohEXbg3H2TW291ZbnZbdn.jpg",
-    "backdrop_local": "imagenes_estrenos/V_rgenes_backdrop_hIbA43ohEXbg3H2TW291ZbnZbdn.jpg",
-    "fecha_estreno": "2025-06-20T00:00:00.000Z",
-    "duración": "87 min",
-    "director": "Álvaro Díaz Lorenzo",
-    "directores": [
-      {
-        "name": "Álvaro Díaz Lorenzo",
-        "id": 1681183
-      }
-    ],
-    "actores": [
-      {
-        "name": "Xavi Caudevilla",
-        "id": 3836094,
-        "character": "Honorio",
-        "profile_path": "/eowuoPUKcvxglh0MjXGkcRmXhEz.jpg"
-      },
-      {
-        "name": "César Vicente",
-        "id": 2231204,
-        "character": "Rafa",
-        "profile_path": "/bGnQnttEvXQG2Yqd2bpYE32sLE2.jpg"
-      },
-      {
-        "name": "Carlos Scholz",
-        "id": 2421704,
-        "character": "Vicente",
-        "profile_path": "/zLlCUjyjFJQK12A56DaxYGKfZ2A.jpg"
-      },
-      {
-        "name": "Cristina Kovani",
-        "id": 3941447,
-        "character": "Ana",
-        "profile_path": "/q4QqK8lmLllrLAjzekYsbuq97k5.jpg"
-      },
-      {
-        "name": "Natalia Azahara",
-        "id": 3247405,
-        "character": "Carmen",
-        "profile_path": "/ccsb7gTOsUcWLctzT9bfSBj7OkW.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 36,
-        "name": "Historia"
-      }
-    ],
-    "popularidad": 1.1835,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.782,
-          "height": 864,
-          "iso_639_1": null,
-          "file_path": "/hIbA43ohEXbg3H2TW291ZbnZbdn.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
-        },
-        {
-          "aspect_ratio": 1.782,
-          "height": 864,
-          "iso_639_1": null,
-          "file_path": "/xMF3b8shCr5D5CEg6lzP1LBLN0E.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
-        },
-        {
-          "aspect_ratio": 1.782,
-          "height": 864,
-          "iso_639_1": null,
-          "file_path": "/uOJh7cOY3Wkb57lNoRgJ0ON61z2.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-06-04 10:02:46"
+    "última_actualización": "2025-06-04 22:02:49"
   },
   {
     "id": 1310879,
@@ -4203,7 +4203,7 @@
         }
       ]
     },
-    "última_actualización": "2025-06-04 10:02:47"
+    "última_actualización": "2025-06-04 22:02:49"
   },
   {
     "id": 1375097,
@@ -4309,7 +4309,7 @@
         }
       ]
     },
-    "última_actualización": "2025-06-04 10:02:48"
+    "última_actualización": "2025-06-04 22:02:49"
   },
   {
     "id": 1266860,
@@ -4390,7 +4390,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-06-04 10:02:48"
+    "última_actualización": "2025-06-04 22:02:50"
   },
   {
     "id": 1178719,
@@ -4463,7 +4463,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-06-04 10:02:48"
+    "última_actualización": "2025-06-04 22:02:50"
   },
   {
     "id": 1485628,
@@ -4518,7 +4518,7 @@
         }
       ]
     },
-    "última_actualización": "2025-06-04 10:02:49"
+    "última_actualización": "2025-06-04 22:02:51"
   },
   {
     "id": 1328913,
@@ -4591,7 +4591,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-06-04 10:02:45"
+    "última_actualización": "2025-06-04 22:02:48"
   },
   {
     "id": 1431314,
@@ -4660,7 +4660,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-06-04 10:02:49"
+    "última_actualización": "2025-06-04 22:02:51"
   },
   {
     "id": 911430,
@@ -4825,7 +4825,7 @@
         }
       ]
     },
-    "última_actualización": "2025-06-04 10:02:44"
+    "última_actualización": "2025-06-04 22:02:47"
   },
   {
     "id": 1084920,
@@ -4934,86 +4934,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-06-04 10:02:46"
-  },
-  {
-    "id": 1270082,
-    "tmdb_id": 1270082,
-    "título": "Ramón y Ramón",
-    "título_original": "Ramón y Ramón",
-    "sinopsis": "",
-    "poster_path": "/k6dP7oDg2oJ4RmzmUhAHrUH6IWD.jpg",
-    "poster_local": "imagenes_estrenos/Ram_n_y_Ram_n_k6dP7oDg2oJ4RmzmUhAHrUH6IWD.jpg",
-    "backdrop_path": "/A4ei3z9NXlrJEZDHglXFkCMBuWE.jpg",
-    "backdrop_local": "imagenes_estrenos/Ram_n_y_Ram_n_backdrop_A4ei3z9NXlrJEZDHglXFkCMBuWE.jpg",
-    "fecha_estreno": "2025-06-27T00:00:00.000Z",
-    "duración": "100 min",
-    "director": "Salvador del Solar",
-    "directores": [
-      {
-        "name": "Salvador del Solar",
-        "id": 85234
-      }
-    ],
-    "actores": [
-      {
-        "name": "Emanuel Soriano",
-        "id": 1387166,
-        "character": "Ramón",
-        "profile_path": "/wfq0yQCnxbGXirluTz0erAM7Fyy.jpg"
-      },
-      {
-        "name": "Álvaro Cervantes",
-        "id": 224874,
-        "character": "Mateo",
-        "profile_path": "/mjDMBsLJ6Wv90U68adWvqybqFRZ.jpg"
-      },
-      {
-        "name": "Dario Yazbek Bernal",
-        "id": 1055162,
-        "character": "Rodrigo",
-        "profile_path": "/gyhrDl4PpJ9E6dfE1P31iCZj7YW.jpg"
-      },
-      {
-        "name": "Jely Reategui",
-        "id": 1543624,
-        "character": "",
-        "profile_path": "/uD7VLdz1Xar1Nc6ohOM0b13Ker7.jpg"
-      },
-      {
-        "name": "Liliana Trujillo",
-        "id": 147344,
-        "character": "",
-        "profile_path": "/ml8svCDRSOxZAFy2ygtpCWH1omE.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.4851,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/A4ei3z9NXlrJEZDHglXFkCMBuWE.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-06-04 10:02:47"
+    "última_actualización": "2025-06-04 22:02:49"
   },
   {
     "id": 1239478,
@@ -5111,7 +5032,86 @@
         }
       ]
     },
-    "última_actualización": "2025-06-04 10:02:47"
+    "última_actualización": "2025-06-04 22:02:49"
+  },
+  {
+    "id": 1270082,
+    "tmdb_id": 1270082,
+    "título": "Ramón y Ramón",
+    "título_original": "Ramón y Ramón",
+    "sinopsis": "",
+    "poster_path": "/k6dP7oDg2oJ4RmzmUhAHrUH6IWD.jpg",
+    "poster_local": "imagenes_estrenos/Ram_n_y_Ram_n_k6dP7oDg2oJ4RmzmUhAHrUH6IWD.jpg",
+    "backdrop_path": "/A4ei3z9NXlrJEZDHglXFkCMBuWE.jpg",
+    "backdrop_local": "imagenes_estrenos/Ram_n_y_Ram_n_backdrop_A4ei3z9NXlrJEZDHglXFkCMBuWE.jpg",
+    "fecha_estreno": "2025-06-27T00:00:00.000Z",
+    "duración": "100 min",
+    "director": "Salvador del Solar",
+    "directores": [
+      {
+        "name": "Salvador del Solar",
+        "id": 85234
+      }
+    ],
+    "actores": [
+      {
+        "name": "Emanuel Soriano",
+        "id": 1387166,
+        "character": "Ramón",
+        "profile_path": "/wfq0yQCnxbGXirluTz0erAM7Fyy.jpg"
+      },
+      {
+        "name": "Álvaro Cervantes",
+        "id": 224874,
+        "character": "Mateo",
+        "profile_path": "/mjDMBsLJ6Wv90U68adWvqybqFRZ.jpg"
+      },
+      {
+        "name": "Dario Yazbek Bernal",
+        "id": 1055162,
+        "character": "Rodrigo",
+        "profile_path": "/gyhrDl4PpJ9E6dfE1P31iCZj7YW.jpg"
+      },
+      {
+        "name": "Jely Reategui",
+        "id": 1543624,
+        "character": "",
+        "profile_path": "/uD7VLdz1Xar1Nc6ohOM0b13Ker7.jpg"
+      },
+      {
+        "name": "Liliana Trujillo",
+        "id": 147344,
+        "character": "",
+        "profile_path": "/ml8svCDRSOxZAFy2ygtpCWH1omE.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.4851,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/A4ei3z9NXlrJEZDHglXFkCMBuWE.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-06-04 22:02:49"
   },
   {
     "id": 1441283,
@@ -5175,7 +5175,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-06-04 10:02:48"
+    "última_actualización": "2025-06-04 22:02:50"
   },
   {
     "id": 1341258,
@@ -5223,7 +5223,7 @@
         }
       ]
     },
-    "última_actualización": "2025-06-04 10:02:49"
+    "última_actualización": "2025-06-04 22:02:50"
   },
   {
     "id": 1234821,
@@ -5392,7 +5392,7 @@
         }
       ]
     },
-    "última_actualización": "2025-06-04 10:02:43"
+    "última_actualización": "2025-06-04 22:02:47"
   },
   {
     "id": 1011477,
