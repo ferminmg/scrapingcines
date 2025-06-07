@@ -1,0 +1,35 @@
+2025-06-07 04:07:01,565 - INFO - Iniciando proceso de scraping
+2025-06-07 04:07:01,567 - INFO - Posts existentes encontrados: 2403
+2025-06-07 04:07:01,567 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-06-07 04:07:04,470 - INFO - Se encontraron 10 posts
+2025-06-07 04:07:04,470 - INFO - Comenzando extracción de información del post
+2025-06-07 04:07:04,470 - INFO - Post ya existente, saltando: SI YO PUDIERA HIBERNAR de Zoljargal Purevdash
+2025-06-07 04:07:04,470 - INFO - Comenzando extracción de información del post
+2025-06-07 04:07:04,471 - INFO - Post ya existente, saltando: LOS TORTUGA de Belén Funes
+2025-06-07 04:07:04,471 - INFO - Comenzando extracción de información del post
+2025-06-07 04:07:04,471 - INFO - Post ya existente, saltando: MISIÓN IMPOSIBLE: SENTENCIA FINAL de Christopher McQuarrie
+2025-06-07 04:07:04,471 - INFO - Comenzando extracción de información del post
+2025-06-07 04:07:04,471 - INFO - Post ya existente, saltando: EL BUEN PADRE de Ronan Tronchot
+2025-06-07 04:07:04,471 - INFO - Comenzando extracción de información del post
+2025-06-07 04:07:04,472 - INFO - Título del post: ESTOCOLMO: EL REY TIRANO 1520 de Mikael Håfström
+2025-06-07 04:07:04,472 - INFO - Fecha del post: 2025-05-24T18:20:03+02:00
+2025-06-07 04:07:04,472 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/05/estocolmo-1520-critica-analisis-historico.html
+2025-06-07 04:07:06,050 - INFO - Contenido extraído y estructurado (2752 caracteres)
+2025-06-07 04:07:06,050 - INFO - Guardando post en: posts/ESTOCOLMO:_EL_REY_TIRANO_1520_2025-05-24.json
+2025-06-07 04:07:06,051 - INFO - Post guardado exitosamente
+2025-06-07 04:07:06,051 - INFO - Actualizando índice de películas
+2025-06-07 04:07:06,051 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-06-07 04:07:06,055 - INFO - Índice existente cargado con 2502 películas
+2025-06-07 04:07:06,055 - INFO - La película ya existe en el índice: ESTOCOLMO: EL REY TIRANO 1520
+2025-06-07 04:07:06,055 - INFO - Nuevo post guardado: ESTOCOLMO: EL REY TIRANO 1520 de Mikael Håfström
+2025-06-07 04:07:06,055 - INFO - Comenzando extracción de información del post
+2025-06-07 04:07:06,055 - INFO - Post ya existente, saltando: TRAS EL VERANO de Yolanda Centeno
+2025-06-07 04:07:06,055 - INFO - Comenzando extracción de información del post
+2025-06-07 04:07:06,056 - INFO - Post ya existente, saltando: ENEMIGOS de David Valero
+2025-06-07 04:07:06,056 - INFO - Comenzando extracción de información del post
+2025-06-07 04:07:06,056 - INFO - Post ya existente, saltando: UNA QUINTA PORTUGUESA de Avelina Prat
+2025-06-07 04:07:06,056 - INFO - Comenzando extracción de información del post
+2025-06-07 04:07:06,056 - INFO - Post ya existente, saltando: LO QUE QUEDA DE TI
+2025-06-07 04:07:06,056 - INFO - Comenzando extracción de información del post
+2025-06-07 04:07:06,056 - INFO - Post ya existente, saltando: PRESUNCIÓN DE INOCENCIA de Daniel Auteuil
+2025-06-07 04:07:06,056 - INFO - Proceso completado. Posts nuevos guardados: 1
