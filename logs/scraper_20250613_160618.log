@@ -1,0 +1,55 @@
+2025-06-13 16:06:18,115 - INFO - Iniciando proceso de scraping
+2025-06-13 16:06:18,117 - INFO - Posts existentes encontrados: 2406
+2025-06-13 16:06:18,117 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-06-13 16:06:20,483 - INFO - Se encontraron 10 posts
+2025-06-13 16:06:20,484 - INFO - Comenzando extracción de información del post
+2025-06-13 16:06:20,484 - INFO - Título del post: CUATRO PAREDES de Ibon Cormenzana
+2025-06-13 16:06:20,484 - INFO - Fecha del post: 2025-06-13T18:00:55+02:00
+2025-06-13 16:06:20,484 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/06/cuatro-paredes-de-ibon-cormenzana.html
+2025-06-13 16:06:22,176 - INFO - Contenido extraído y estructurado (2726 caracteres)
+2025-06-13 16:06:22,176 - INFO - Guardando post en: posts/CUATRO_PAREDES_2025-06-13.json
+2025-06-13 16:06:22,176 - INFO - Post guardado exitosamente
+2025-06-13 16:06:22,177 - INFO - Actualizando índice de películas
+2025-06-13 16:06:22,177 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-06-13 16:06:22,181 - INFO - Índice existente cargado con 2505 películas
+2025-06-13 16:06:22,194 - INFO - Película agregada al índice: CUATRO PAREDES
+2025-06-13 16:06:22,195 - INFO - Nuevo post guardado: CUATRO PAREDES de Ibon Cormenzana
+2025-06-13 16:06:22,195 - INFO - Comenzando extracción de información del post
+2025-06-13 16:06:22,195 - INFO - Título del post: LA BUENA SUERTE de Gracia Querejeta
+2025-06-13 16:06:22,195 - INFO - Fecha del post: 2025-06-13T17:52:43+02:00
+2025-06-13 16:06:22,195 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/06/la-buena-suerte-gracia-querejeta-el-padre-huido.html
+2025-06-13 16:06:23,812 - INFO - Contenido extraído y estructurado (2707 caracteres)
+2025-06-13 16:06:23,812 - INFO - Guardando post en: posts/LA_BUENA_SUERTE_2025-06-13.json
+2025-06-13 16:06:23,812 - INFO - Post guardado exitosamente
+2025-06-13 16:06:23,813 - INFO - Actualizando índice de películas
+2025-06-13 16:06:23,813 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-06-13 16:06:23,816 - INFO - Índice existente cargado con 2506 películas
+2025-06-13 16:06:23,830 - INFO - Película agregada al índice: LA BUENA SUERTE
+2025-06-13 16:06:23,831 - INFO - Nuevo post guardado: LA BUENA SUERTE de Gracia Querejeta
+2025-06-13 16:06:23,831 - INFO - Comenzando extracción de información del post
+2025-06-13 16:06:23,831 - INFO - Post ya existente, saltando: SIRAT de Oliver Laxe
+2025-06-13 16:06:23,831 - INFO - Comenzando extracción de información del post
+2025-06-13 16:06:23,831 - INFO - Post ya existente, saltando: EL JOCKEY de Luis Ortega
+2025-06-13 16:06:23,831 - INFO - Comenzando extracción de información del post
+2025-06-13 16:06:23,831 - INFO - Post ya existente, saltando: LA TRAMA FENICIA de Wes Anderson
+2025-06-13 16:06:23,832 - INFO - Comenzando extracción de información del post
+2025-06-13 16:06:23,832 - INFO - Post ya existente, saltando: SI YO PUDIERA HIBERNAR de Zoljargal Purevdash
+2025-06-13 16:06:23,832 - INFO - Comenzando extracción de información del post
+2025-06-13 16:06:23,832 - INFO - Post ya existente, saltando: LOS TORTUGA de Belén Funes
+2025-06-13 16:06:23,832 - INFO - Comenzando extracción de información del post
+2025-06-13 16:06:23,832 - INFO - Post ya existente, saltando: MISIÓN IMPOSIBLE: SENTENCIA FINAL de Christopher McQuarrie
+2025-06-13 16:06:23,832 - INFO - Comenzando extracción de información del post
+2025-06-13 16:06:23,832 - INFO - Post ya existente, saltando: EL BUEN PADRE de Ronan Tronchot
+2025-06-13 16:06:23,832 - INFO - Comenzando extracción de información del post
+2025-06-13 16:06:23,833 - INFO - Título del post: ESTOCOLMO: EL REY TIRANO 1520 de Mikael Håfström
+2025-06-13 16:06:23,833 - INFO - Fecha del post: 2025-05-24T18:20:03+02:00
+2025-06-13 16:06:23,833 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/05/estocolmo-1520-critica-analisis-historico.html
+2025-06-13 16:06:25,457 - INFO - Contenido extraído y estructurado (2752 caracteres)
+2025-06-13 16:06:25,458 - INFO - Guardando post en: posts/ESTOCOLMO:_EL_REY_TIRANO_1520_2025-05-24.json
+2025-06-13 16:06:25,458 - INFO - Post guardado exitosamente
+2025-06-13 16:06:25,458 - INFO - Actualizando índice de películas
+2025-06-13 16:06:25,458 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-06-13 16:06:25,461 - INFO - Índice existente cargado con 2507 películas
+2025-06-13 16:06:25,461 - INFO - La película ya existe en el índice: ESTOCOLMO: EL REY TIRANO 1520
+2025-06-13 16:06:25,462 - INFO - Nuevo post guardado: ESTOCOLMO: EL REY TIRANO 1520 de Mikael Håfström
+2025-06-13 16:06:25,462 - INFO - Proceso completado. Posts nuevos guardados: 3
