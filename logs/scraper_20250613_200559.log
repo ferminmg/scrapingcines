@@ -1,0 +1,35 @@
+2025-06-13 20:05:59,817 - INFO - Iniciando proceso de scraping
+2025-06-13 20:05:59,819 - INFO - Posts existentes encontrados: 2408
+2025-06-13 20:05:59,819 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-06-13 20:06:01,121 - INFO - Se encontraron 10 posts
+2025-06-13 20:06:01,121 - INFO - Comenzando extracción de información del post
+2025-06-13 20:06:01,121 - INFO - Título del post: TODO SALDRÁ BIEN de Ray Yeung
+2025-06-13 20:06:01,121 - INFO - Fecha del post: 2025-06-13T18:09:54+02:00
+2025-06-13 20:06:01,121 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/06/critica-pelicula-todo-saldra-bien-ray-yeung-2024.html
+2025-06-13 20:06:02,564 - INFO - Contenido extraído y estructurado (4530 caracteres)
+2025-06-13 20:06:02,564 - INFO - Guardando post en: posts/TODO_SALDRÁ_BIEN_2025-06-13.json
+2025-06-13 20:06:02,564 - INFO - Post guardado exitosamente
+2025-06-13 20:06:02,564 - INFO - Actualizando índice de películas
+2025-06-13 20:06:02,564 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-06-13 20:06:02,569 - INFO - Índice existente cargado con 2507 películas
+2025-06-13 20:06:02,582 - INFO - Película agregada al índice: TODO SALDRÁ BIEN
+2025-06-13 20:06:02,583 - INFO - Nuevo post guardado: TODO SALDRÁ BIEN de Ray Yeung
+2025-06-13 20:06:02,583 - INFO - Comenzando extracción de información del post
+2025-06-13 20:06:02,583 - INFO - Post ya existente, saltando: CUATRO PAREDES de Ibon Cormenzana
+2025-06-13 20:06:02,583 - INFO - Comenzando extracción de información del post
+2025-06-13 20:06:02,583 - INFO - Post ya existente, saltando: LA BUENA SUERTE de Gracia Querejeta
+2025-06-13 20:06:02,583 - INFO - Comenzando extracción de información del post
+2025-06-13 20:06:02,583 - INFO - Post ya existente, saltando: SIRAT de Oliver Laxe
+2025-06-13 20:06:02,584 - INFO - Comenzando extracción de información del post
+2025-06-13 20:06:02,584 - INFO - Post ya existente, saltando: EL JOCKEY de Luis Ortega
+2025-06-13 20:06:02,584 - INFO - Comenzando extracción de información del post
+2025-06-13 20:06:02,584 - INFO - Post ya existente, saltando: LA TRAMA FENICIA de Wes Anderson
+2025-06-13 20:06:02,584 - INFO - Comenzando extracción de información del post
+2025-06-13 20:06:02,584 - INFO - Post ya existente, saltando: SI YO PUDIERA HIBERNAR de Zoljargal Purevdash
+2025-06-13 20:06:02,584 - INFO - Comenzando extracción de información del post
+2025-06-13 20:06:02,585 - INFO - Post ya existente, saltando: LOS TORTUGA de Belén Funes
+2025-06-13 20:06:02,585 - INFO - Comenzando extracción de información del post
+2025-06-13 20:06:02,585 - INFO - Post ya existente, saltando: MISIÓN IMPOSIBLE: SENTENCIA FINAL de Christopher McQuarrie
+2025-06-13 20:06:02,585 - INFO - Comenzando extracción de información del post
+2025-06-13 20:06:02,585 - INFO - Post ya existente, saltando: EL BUEN PADRE de Ronan Tronchot
+2025-06-13 20:06:02,585 - INFO - Proceso completado. Posts nuevos guardados: 1
