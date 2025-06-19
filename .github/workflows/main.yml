@@ -1,108 +1,260 @@
-name: Ejecutar scraping cada 4 horas
+name: Scraping Automatizado de Cines
 
 on:
   schedule:
-    - cron: '0 */4 * * *' # Ejecutar cada 4 horas en el minuto 0
-    - cron: '0 10,22 * * *' # Ejecutar estrenos a las 10:00 y 22:00 UTC cada día
-  workflow_dispatch: # Permite ejecutarlo manualmente
+    - cron: '0 */4 * * *'     # Scraping general cada 4 horas
+    - cron: '0 10,22 * * *'   # Próximos estrenos a las 10:00 y 22:00 UTC
+  workflow_dispatch:          # Ejecución manual
+    inputs:
+      force_upcoming:
+        description: 'Forzar ejecución de próximos estrenos'
+        required: false
+        default: false
+        type: boolean
 
 jobs:
+  validate:
+    runs-on: ubuntu-latest
+    outputs:
+      should_run_upcoming: ${{ steps.check_schedule.outputs.should_run }}
+    steps:
+      - name: Verificar horario para próximos estrenos
+        id: check_schedule
+        run: |
+          HOUR=$(date +%H)
+          if [[ "$HOUR" == "10" || "$HOUR" == "22" || "${{ github.event.inputs.force_upcoming }}" == "true" || "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "should_run=true" >> $GITHUB_OUTPUT
+            echo "🎬 Ejecutando próximos estrenos (hora: $HOUR)"
+          else
+            echo "should_run=false" >> $GITHUB_OUTPUT
+            echo "⏰ Omitiendo próximos estrenos (hora: $HOUR)"
+          fi
+
   scraping:
     runs-on: ubuntu-latest
-
+    needs: validate
+    
     steps:
-      # Paso 1: Clonar el repositorio
-      - name: Clonar el repositorio
-        uses: actions/checkout@v3
+      - name: 📥 Clonar repositorio
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Para asegurar que tenemos todo el historial para el pull
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Paso 2: Configurar Python
-      - name: Configurar Python
+      - name: 🐍 Configurar Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.11'
+          cache: 'pip'
 
-      # Paso 3: Instalar dependencias
-      - name: Instalar dependencias
+      - name: 📦 Verificar requirements.txt
+        run: |
+          if [ ! -f requirements.txt ]; then
+            echo "⚠️ requirements.txt no encontrado, creando uno básico..."
+            cat > requirements.txt << EOF
+          python-dotenv==1.0.0
+          requests==2.31.0
+          beautifulsoup4==4.12.2
+          flask==3.0.0
+          lxml==4.9.3
+          EOF
+          fi
+
+      - name: 📚 Instalar dependencias
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Instalar localización en español
-      - name: Configurar localización
+      - name: 🔍 Verificar archivos necesarios
         run: |
-          sudo apt-get update
-          sudo apt-get install -y locales
-          sudo locale-gen es_ES.UTF-8
-          export LANG=es_ES.UTF-8
-          export LANGUAGE=es_ES:es
-          export LC_ALL=es_ES.UTF-8
+          echo "🔍 Verificando scripts necesarios..."
+          for script in scraping_golem.py scraping_yelmo.py scraper_modificado.py integrador.py scrape_ghostintheblog.py proximos_estrenos.py; do
+            if [ -f "$script" ]; then
+              echo "✅ $script encontrado"
+            else
+              echo "❌ $script NO encontrado"
+              exit 1
+            fi
+          done
 
-      # Paso 4: Ejecutar script de Golem
-      - name: Ejecutar scraping Golem
-        env:
-          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: python scraping_golem.py
-
-      # Paso 5: Ejecutar script de Yelmo
-      - name: Ejecutar scraping Yelmo
-        env:
-          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: python scraping_yelmo.py
-
-      # Paso 6: Ejecutar script de Filmoteca con integración
-      - name: Ejecutar scraping Filmoteca
+      - name: 🏛️ Scraping Golem Cines
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
-          # Primero ejecutamos el scraper para generar el archivo temporal
-          python scraper_modificado.py --archivo_salida=peliculas_filmoteca_scraping.json
-          # Luego ejecutamos el integrador para mantener las películas añadidas manualmente
-          python integrador.py
+          echo "🎬 Ejecutando scraping de Golem..."
+          python scraping_golem.py || echo "⚠️ Error en Golem, continuando..."
 
-      # Paso 7: Ejecutar script de Ghost in the Blog
-      - name: Ejecutar scraping Ghost in the Blog
-        run: python scrape_ghostintheblog.py
-
-      # Paso 8: Determinar si debemos ejecutar el script de próximos estrenos
-      - name: Verificar si ejecutar script de próximos estrenos
-        id: check_time
+      - name: 🎭 Scraping Yelmo Cines
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
-          HOUR=$(date +%H)
-          # Ejecutar solo a las 10 y 22 horas UTC, o si es una ejecución manual
-          if [[ "$HOUR" == "10" || "$HOUR" == "22" || "${{ github.event_name }}" == "workflow_dispatch" ]]; then
-            echo "Hora actual es $HOUR, ejecutando script de próximos estrenos"
-            echo "run_upcoming=true" >> $GITHUB_OUTPUT
+          echo "🎬 Ejecutando scraping de Yelmo..."
+          python scraping_yelmo.py || echo "⚠️ Error en Yelmo, continuando..."
+
+      - name: 🏛️ Scraping Filmoteca + Integración
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: |
+          echo "🎬 Ejecutando scraping de Filmoteca..."
+          # Crear directorios necesarios
+          mkdir -p backups imagenes_filmoteca
+          
+          # Ejecutar scraper con archivo temporal
+          python scraper_modificado.py --archivo_salida=peliculas_filmoteca_scraping.json || echo "⚠️ Error en scraper, continuando..."
+          
+          # Ejecutar integrador si existe el archivo temporal
+          if [ -f "peliculas_filmoteca_scraping.json" ]; then
+            python integrador.py || echo "⚠️ Error en integrador, continuando..."
           else
-            echo "Hora actual es $HOUR, omitiendo script de próximos estrenos"
-            echo "run_upcoming=false" >> $GITHUB_OUTPUT
+            echo "⚠️ No se generó archivo temporal de Filmoteca"
           fi
 
-      # Paso 9: Ejecutar script de próximos estrenos (solo 2 veces al día)
-      - name: Ejecutar script de próximos estrenos
-        if: steps.check_time.outputs.run_upcoming == 'true'
+      - name: 👻 Scraping Ghost in the Blog
+        run: |
+          echo "📝 Ejecutando scraping de Ghost in the Blog..."
+          mkdir -p posts logs
+          python scrape_ghostintheblog.py || echo "⚠️ Error en Ghost in the Blog, continuando..."
+
+      - name: 🎬 Próximos Estrenos TMDb
+        if: needs.validate.outputs.should_run_upcoming == 'true'
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
-          echo "Ejecutando script de próximos estrenos..."
-          python proximos_estrenos.py --max-pages=10
+          echo "🎬 Ejecutando script de próximos estrenos..."
+          mkdir -p imagenes_estrenos
+          python proximos_estrenos.py --max-pages=10 --output=proximos_estrenos.json || echo "⚠️ Error en próximos estrenos, continuando..."
 
-      # Paso 10: Subir cambios al repositorio si los hay
-      - name: Subir cambios
+      - name: 🧹 Limpiar archivos temporales
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git diff --cached --quiet || git commit -m "Actualizar datos de scraping"
-          git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          echo "🧹 Limpiando archivos temporales..."
+          rm -f peliculas_filmoteca_scraping.json
+          
+          # Limpiar logs antiguos (mantener solo los últimos 5)
+          if [ -d "logs" ]; then
+            cd logs
+            ls -t *.log 2>/dev/null | tail -n +6 | xargs rm -f 2>/dev/null || true
+            cd ..
+          fi
 
-      # Paso 11: Desplegar archivos JSON en GitHub Pages
-      - name: Deploy JSON to GitHub Pages
+      - name: 📊 Generar resumen de archivos
+        run: |
+          echo "📊 Archivos JSON generados:"
+          for file in *.json; do
+            if [ -f "$file" ]; then
+              size=$(du -h "$file" | cut -f1)
+              count=$(jq '. | length' "$file" 2>/dev/null || echo "N/A")
+              echo "  📄 $file - Tamaño: $size - Elementos: $count"
+            fi
+          done
+
+      - name: 🔄 Verificar cambios
+        id: changes
+        run: |
+          git add .
+          if git diff --cached --quiet; then
+            echo "No hay cambios para commitear"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Hay cambios para commitear"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 💾 Commitear cambios
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config --global user.name "🤖 Scraping Bot"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Generar mensaje de commit con timestamp
+          TIMESTAMP=$(date '+%Y-%m-%d %H:%M UTC')
+          COMMIT_MSG="🔄 Actualización automática - $TIMESTAMP"
+          
+          git commit -m "$COMMIT_MSG"
+          git push origin main
+
+      - name: 📄 Preparar archivos para GitHub Pages
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          echo "📄 Preparando archivos para GitHub Pages..."
+          mkdir -p public
+          
+          # Copiar solo archivos JSON de datos
+          cp *.json public/ 2>/dev/null || true
+          
+          # Copiar imágenes (solo las necesarias)
+          for dir in imagenes_*/; do
+            if [ -d "$dir" ]; then
+              cp -r "$dir" public/ 2>/dev/null || true
+            fi
+          done
+          
+          # Crear index.html simple para GitHub Pages
+          cat > public/index.html << EOF
+          <!DOCTYPE html>
+          <html>
+          <head>
+              <title>API de Carteleras de Cine - Navarra</title>
+              <meta charset="utf-8">
+              <style>
+                  body { font-family: Arial, sans-serif; margin: 40px; }
+                  .endpoint { background: #f5f5f5; padding: 10px; margin: 10px 0; border-radius: 5px; }
+                  code { background: #e0e0e0; padding: 2px 5px; border-radius: 3px; }
+              </style>
+          </head>
+          <body>
+              <h1>🎬 API de Carteleras de Cine - Navarra</h1>
+              <p>Datos actualizados automáticamente cada 4 horas</p>
+              
+              <h2>📋 Endpoints disponibles:</h2>
+              
+              <div class="endpoint">
+                  <h3>🏛️ Filmoteca de Navarra</h3>
+                  <code>GET /peliculas_filmoteca.json</code>
+                  <p>Películas de la Filmoteca de Navarra con sesiones VOSE</p>
+              </div>
+              
+              <div class="endpoint">
+                  <h3>🎭 Yelmo Cines</h3>
+                  <code>GET /peliculas_filmaffinity.json</code>
+                  <p>Cartelera de Yelmo Cines en Navarra (solo VOSE)</p>
+              </div>
+              
+              <div class="endpoint">
+                  <h3>🏛️ Golem Cines</h3>
+                  <code>GET /peliculas_vose.json</code>
+                  <p>Cartelera de cines Golem (solo VOSE)</p>
+              </div>
+              
+              <div class="endpoint">
+                  <h3>🎬 Próximos Estrenos</h3>
+                  <code>GET /proximos_estrenos.json</code>
+                  <p>Próximos estrenos en España (actualizado 2 veces al día)</p>
+              </div>
+              
+              <div class="endpoint">
+                  <h3>📝 Críticas de Cine</h3>
+                  <code>GET /index.json</code>
+                  <p>Índice de críticas de películas de Ghost in the Blog</p>
+              </div>
+              
+              <h2>🔧 Uso</h2>
+              <p>Todos los endpoints devuelven datos en formato JSON. Ejemplo:</p>
+              <pre>
+          fetch('https://tu-usuario.github.io/tu-repo/peliculas_filmoteca.json')
+            .then(response => response.json())
+            .then(data => console.log(data));
+              </pre>
+              
+              <p><small>Última actualización: $(date)</small></p>
+          </body>
+          </html>
+          EOF
+
+      - name: 🚀 Deploy a GitHub Pages
+        if: steps.changes.outputs.has_changes == 'true'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .  # Publica los archivos JSON generados en la raíz
-          keep_files: true  # Mantiene los archivos existentes
+          publish_dir: public
+          keep_files: false
+          force_orphan: true
