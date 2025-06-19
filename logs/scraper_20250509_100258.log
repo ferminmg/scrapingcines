@@ -1,5 +1,0 @@
-2025-05-09 10:02:58,611 - INFO - Iniciando proceso de scraping
-2025-05-09 10:02:58,613 - INFO - Posts existentes encontrados: 2392
-2025-05-09 10:02:58,613 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
-2025-05-09 10:05:12,618 - ERROR - Error al obtener posts: HTTPSConnectionPool(host='ghostintheblog.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f98dd3dc580>: Failed to establish a new connection: [Errno 110] Connection timed out'))
-2025-05-09 10:05:12,618 - INFO - Proceso completado. Posts nuevos guardados: 0
