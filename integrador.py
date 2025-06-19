@@ -39,11 +39,33 @@ def cargar_archivo_json(archivo: str) -> List[Dict[str, Any]]:
         return []
 
 def cargar_equivalencias(archivo: str = "equivalencias_peliculas.json") -> Dict[str, Dict]:
-    """Carga el archivo de equivalencias"""
+    """Carga el archivo de equivalencias, manejando tanto formato lista como diccionario"""
     try:
         if os.path.exists(archivo):
             with open(archivo, 'r', encoding='utf-8') as f:
-                return json.load(f)
+                datos = json.load(f)
+                
+                # Si es una lista (formato viejo), convertir a diccionario
+                if isinstance(datos, list):
+                    logger.info(f"Convirtiendo equivalencias de formato lista a diccionario")
+                    equivalencias_dict = {}
+                    for pelicula in datos:
+                        titulo_norm = normalize_title(pelicula.get('título', ''))
+                        if titulo_norm and pelicula.get('tmdb_id'):
+                            equivalencias_dict[titulo_norm] = {
+                                'tmdb_id': pelicula.get('tmdb_id'),
+                                'titulo_original': pelicula.get('título_original', ''),
+                                'anio': pelicula.get('año', '')
+                            }
+                    return equivalencias_dict
+                
+                # Si ya es un diccionario, devolverlo tal cual
+                elif isinstance(datos, dict):
+                    return datos
+                
+                else:
+                    logger.warning(f"Formato de equivalencias no reconocido, usando diccionario vacío")
+                    return {}
         return {}
     except Exception as e:
         logger.error(f"Error al cargar equivalencias: {str(e)}")
@@ -158,6 +180,11 @@ def fusionar_peliculas(pelicula_base: Dict, pelicula_nueva: Dict) -> Dict:
 
 def sincronizar_equivalencias(peliculas: List[Dict], equivalencias: Dict) -> Dict:
     """Actualiza equivalencias basándose en películas con tmdb_id confirmado"""
+    # Asegurar que equivalencias es un diccionario
+    if not isinstance(equivalencias, dict):
+        logger.warning("Equivalencias no es un diccionario, inicializando vacío")
+        equivalencias = {}
+    
     equivalencias_actualizadas = equivalencias.copy()
     actualizaciones = 0
     
@@ -213,112 +240,137 @@ def integrar_peliculas_completo(archivo_original: str, archivo_scraping: str, ar
     
     logger.info("🔄 === INICIANDO INTEGRACIÓN COMPLETA ===")
     
-    # 1. Cargar todos los datos fuente
-    peliculas_originales = cargar_archivo_json(archivo_original)
-    peliculas_scraping = cargar_archivo_json(archivo_scraping)
-    equivalencias = cargar_equivalencias(archivo_equivalencias)
-    
-    logger.info(f"📂 Datos cargados:")
-    logger.info(f"   📄 Películas originales: {len(peliculas_originales)}")
-    logger.info(f"   🕷️  Películas scraping: {len(peliculas_scraping)}")
-    logger.info(f"   🔗 Equivalencias TMDb: {len(equivalencias)}")
-    
-    # 2. Identificar tipos de películas
-    peliculas_manuales = [p for p in peliculas_originales if p.get('tmdb_id')]
-    peliculas_sin_tmdb = [p for p in peliculas_originales if not p.get('tmdb_id')]
-    
-    logger.info(f"📊 Análisis:")
-    logger.info(f"   ✋ Películas manuales (con tmdb_id): {len(peliculas_manuales)}")
-    logger.info(f"   ❓ Películas sin tmdb_id: {len(peliculas_sin_tmdb)}")
-    
-    # 3. Crear mapa de películas por ID único
-    mapa_peliculas = {}
-    stats = {
-        'scraping_añadidas': 0,
-        'manuales_mantenidas': 0,
-        'manuales_fusionadas': 0,
-        'sin_tmdb_mantenidas': 0,
-        'eliminadas_fechas_pasadas': 0
-    }
-    
-    # 4. Añadir películas del scraping
-    for pelicula in peliculas_scraping:
-        id_unico = generar_id_unico(pelicula)
-        mapa_peliculas[id_unico] = pelicula
-        stats['scraping_añadidas'] += 1
-        logger.debug(f"🕷️  Scraping: {pelicula.get('título', 'Sin título')}")
-    
-    # 5. Procesar películas manuales con tmdb_id
-    for pelicula_manual in peliculas_manuales:
-        # Verificar horarios futuros
-        if not tiene_horarios_futuros(pelicula_manual):
-            logger.info(f"⏰ Eliminando película sin horarios futuros: {pelicula_manual.get('título')}")
-            stats['eliminadas_fechas_pasadas'] += 1
-            continue
+    try:
+        # 1. Cargar todos los datos fuente
+        peliculas_originales = cargar_archivo_json(archivo_original)
+        peliculas_scraping = cargar_archivo_json(archivo_scraping)
+        equivalencias = cargar_equivalencias(archivo_equivalencias)
         
-        # Filtrar solo horarios futuros
-        pelicula_manual = filtrar_horarios_futuros(pelicula_manual)
-        id_unico = generar_id_unico(pelicula_manual)
+        # Validar que equivalencias es un diccionario
+        if not isinstance(equivalencias, dict):
+            logger.warning("⚠️ Equivalencias no es un diccionario, convirtiendo...")
+            equivalencias = {}
         
-        if id_unico in mapa_peliculas:
-            # Fusionar con película del scraping
-            logger.info(f"🤝 Fusionando: {pelicula_manual.get('título')}")
-            mapa_peliculas[id_unico] = fusionar_peliculas(
-                pelicula_manual,  # Base: datos manuales
-                mapa_peliculas[id_unico]  # Nuevos: datos scraping
-            )
-            stats['manuales_fusionadas'] += 1
+        logger.info(f"📂 Datos cargados:")
+        logger.info(f"   📄 Películas originales: {len(peliculas_originales)}")
+        logger.info(f"   🕷️  Películas scraping: {len(peliculas_scraping)}")
+        logger.info(f"   🔗 Equivalencias TMDb: {len(equivalencias)}")
+        
+        # 2. Identificar tipos de películas
+        peliculas_manuales = [p for p in peliculas_originales if p.get('tmdb_id')]
+        peliculas_sin_tmdb = [p for p in peliculas_originales if not p.get('tmdb_id')]
+        
+        logger.info(f"📊 Análisis:")
+        logger.info(f"   ✋ Películas manuales (con tmdb_id): {len(peliculas_manuales)}")
+        logger.info(f"   ❓ Películas sin tmdb_id: {len(peliculas_sin_tmdb)}")
+        
+        # 3. Crear mapa de películas por ID único
+        mapa_peliculas = {}
+        stats = {
+            'scraping_añadidas': 0,
+            'manuales_mantenidas': 0,
+            'manuales_fusionadas': 0,
+            'sin_tmdb_mantenidas': 0,
+            'eliminadas_fechas_pasadas': 0
+        }
+        
+        # 4. Añadir películas del scraping
+        for pelicula in peliculas_scraping:
+            try:
+                id_unico = generar_id_unico(pelicula)
+                mapa_peliculas[id_unico] = pelicula
+                stats['scraping_añadidas'] += 1
+                logger.debug(f"🕷️  Scraping: {pelicula.get('título', 'Sin título')}")
+            except Exception as e:
+                logger.error(f"Error procesando película del scraping: {str(e)}")
+        
+        # 5. Procesar películas manuales con tmdb_id
+        for pelicula_manual in peliculas_manuales:
+            try:
+                # Verificar horarios futuros
+                if not tiene_horarios_futuros(pelicula_manual):
+                    logger.info(f"⏰ Eliminando película sin horarios futuros: {pelicula_manual.get('título')}")
+                    stats['eliminadas_fechas_pasadas'] += 1
+                    continue
+                
+                # Filtrar solo horarios futuros
+                pelicula_manual = filtrar_horarios_futuros(pelicula_manual)
+                id_unico = generar_id_unico(pelicula_manual)
+                
+                if id_unico in mapa_peliculas:
+                    # Fusionar con película del scraping
+                    logger.info(f"🤝 Fusionando: {pelicula_manual.get('título')}")
+                    mapa_peliculas[id_unico] = fusionar_peliculas(
+                        pelicula_manual,  # Base: datos manuales
+                        mapa_peliculas[id_unico]  # Nuevos: datos scraping
+                    )
+                    stats['manuales_fusionadas'] += 1
+                else:
+                    # Película manual única
+                    logger.info(f"✋ Manteniendo película manual: {pelicula_manual.get('título')}")
+                    mapa_peliculas[id_unico] = pelicula_manual
+                    stats['manuales_mantenidas'] += 1
+            except Exception as e:
+                logger.error(f"Error procesando película manual {pelicula_manual.get('título', 'desconocida')}: {str(e)}")
+        
+        # 6. Procesar películas sin tmdb_id (mantener si tienen horarios futuros)
+        for pelicula_sin_tmdb in peliculas_sin_tmdb:
+            try:
+                if tiene_horarios_futuros(pelicula_sin_tmdb):
+                    pelicula_sin_tmdb = filtrar_horarios_futuros(pelicula_sin_tmdb)
+                    id_unico = generar_id_unico(pelicula_sin_tmdb)
+                    
+                    if id_unico not in mapa_peliculas:
+                        logger.info(f"📝 Manteniendo película sin TMDb: {pelicula_sin_tmdb.get('título')}")
+                        mapa_peliculas[id_unico] = pelicula_sin_tmdb
+                        stats['sin_tmdb_mantenidas'] += 1
+                else:
+                    stats['eliminadas_fechas_pasadas'] += 1
+            except Exception as e:
+                logger.error(f"Error procesando película sin TMDb {pelicula_sin_tmdb.get('título', 'desconocida')}: {str(e)}")
+        
+        # 7. Convertir a lista final ordenada
+        peliculas_finales = sorted(
+            mapa_peliculas.values(), 
+            key=lambda x: (x.get('título', '').lower())
+        )
+        
+        # 8. Sincronizar equivalencias
+        try:
+            equivalencias_actualizadas = sincronizar_equivalencias(peliculas_finales, equivalencias)
+        except Exception as e:
+            logger.error(f"Error sincronizando equivalencias: {str(e)}")
+            equivalencias_actualizadas = equivalencias
+        
+        # 9. Crear backup
+        backup_file = crear_backup(archivo_original)
+        
+        # 10. Guardar resultados
+        exito_peliculas = guardar_archivo_json(peliculas_finales, archivo_original)
+        exito_equivalencias = guardar_equivalencias(equivalencias_actualizadas, archivo_equivalencias)
+        
+        # 11. Reporte final
+        if exito_peliculas and exito_equivalencias:
+            logger.info("✅ === INTEGRACIÓN COMPLETADA CON ÉXITO ===")
+            logger.info(f"📊 Estadísticas finales:")
+            logger.info(f"   🎬 Total películas final: {len(peliculas_finales)}")
+            logger.info(f"   🕷️  Del scraping: {stats['scraping_añadidas']}")
+            logger.info(f"   🤝 Fusionadas: {stats['manuales_fusionadas']}")
+            logger.info(f"   ✋ Manuales únicas: {stats['manuales_mantenidas']}")
+            logger.info(f"   📝 Sin TMDb mantenidas: {stats['sin_tmdb_mantenidas']}")
+            logger.info(f"   🗑️  Eliminadas (fechas pasadas): {stats['eliminadas_fechas_pasadas']}")
+            logger.info(f"   🔗 Equivalencias: {len(equivalencias_actualizadas)}")
+            if backup_file:
+                logger.info(f"   💾 Backup: {backup_file}")
+            return True
         else:
-            # Película manual única
-            logger.info(f"✋ Manteniendo película manual: {pelicula_manual.get('título')}")
-            mapa_peliculas[id_unico] = pelicula_manual
-            stats['manuales_mantenidas'] += 1
-    
-    # 6. Procesar películas sin tmdb_id (mantener si tienen horarios futuros)
-    for pelicula_sin_tmdb in peliculas_sin_tmdb:
-        if tiene_horarios_futuros(pelicula_sin_tmdb):
-            pelicula_sin_tmdb = filtrar_horarios_futuros(pelicula_sin_tmdb)
-            id_unico = generar_id_unico(pelicula_sin_tmdb)
+            logger.error("❌ Error al guardar los archivos finales")
+            return False
             
-            if id_unico not in mapa_peliculas:
-                logger.info(f"📝 Manteniendo película sin TMDb: {pelicula_sin_tmdb.get('título')}")
-                mapa_peliculas[id_unico] = pelicula_sin_tmdb
-                stats['sin_tmdb_mantenidas'] += 1
-        else:
-            stats['eliminadas_fechas_pasadas'] += 1
-    
-    # 7. Convertir a lista final ordenada
-    peliculas_finales = sorted(
-        mapa_peliculas.values(), 
-        key=lambda x: (x.get('título', '').lower())
-    )
-    
-    # 8. Sincronizar equivalencias
-    equivalencias_actualizadas = sincronizar_equivalencias(peliculas_finales, equivalencias)
-    
-    # 9. Crear backup
-    backup_file = crear_backup(archivo_original)
-    
-    # 10. Guardar resultados
-    exito_peliculas = guardar_archivo_json(peliculas_finales, archivo_original)
-    exito_equivalencias = guardar_equivalencias(equivalencias_actualizadas, archivo_equivalencias)
-    
-    # 11. Reporte final
-    if exito_peliculas and exito_equivalencias:
-        logger.info("✅ === INTEGRACIÓN COMPLETADA CON ÉXITO ===")
-        logger.info(f"📊 Estadísticas finales:")
-        logger.info(f"   🎬 Total películas final: {len(peliculas_finales)}")
-        logger.info(f"   🕷️  Del scraping: {stats['scraping_añadidas']}")
-        logger.info(f"   🤝 Fusionadas: {stats['manuales_fusionadas']}")
-        logger.info(f"   ✋ Manuales únicas: {stats['manuales_mantenidas']}")
-        logger.info(f"   📝 Sin TMDb mantenidas: {stats['sin_tmdb_mantenidas']}")
-        logger.info(f"   🗑️  Eliminadas (fechas pasadas): {stats['eliminadas_fechas_pasadas']}")
-        logger.info(f"   🔗 Equivalencias: {len(equivalencias_actualizadas)}")
-        if backup_file:
-            logger.info(f"   💾 Backup: {backup_file}")
-        return True
-    else:
-        logger.error("❌ Error al guardar los archivos finales")
+    except Exception as e:
+        logger.error(f"❌ Error crítico en la integración: {str(e)}")
+        import traceback
+        traceback.print_exc()
         return False
 
 def main():
