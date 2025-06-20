@@ -1,0 +1,35 @@
+2025-06-20 08:07:11,679 - INFO - Iniciando proceso de scraping
+2025-06-20 08:07:11,681 - INFO - Posts existentes encontrados: 2408
+2025-06-20 08:07:11,681 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-06-20 08:07:15,171 - INFO - Se encontraron 10 posts
+2025-06-20 08:07:15,171 - INFO - Comenzando extracción de información del post
+2025-06-20 08:07:15,171 - INFO - Post ya existente, saltando: TODO SALDRÁ BIEN de Ray Yeung
+2025-06-20 08:07:15,171 - INFO - Comenzando extracción de información del post
+2025-06-20 08:07:15,171 - INFO - Post ya existente, saltando: CUATRO PAREDES de Ibon Cormenzana
+2025-06-20 08:07:15,171 - INFO - Comenzando extracción de información del post
+2025-06-20 08:07:15,172 - INFO - Post ya existente, saltando: LA BUENA SUERTE de Gracia Querejeta
+2025-06-20 08:07:15,172 - INFO - Comenzando extracción de información del post
+2025-06-20 08:07:15,172 - INFO - Post ya existente, saltando: SIRAT de Oliver Laxe
+2025-06-20 08:07:15,172 - INFO - Comenzando extracción de información del post
+2025-06-20 08:07:15,172 - INFO - Post ya existente, saltando: EL JOCKEY de Luis Ortega
+2025-06-20 08:07:15,172 - INFO - Comenzando extracción de información del post
+2025-06-20 08:07:15,172 - INFO - Post ya existente, saltando: LA TRAMA FENICIA de Wes Anderson
+2025-06-20 08:07:15,172 - INFO - Comenzando extracción de información del post
+2025-06-20 08:07:15,172 - INFO - Post ya existente, saltando: SI YO PUDIERA HIBERNAR de Zoljargal Purevdash
+2025-06-20 08:07:15,173 - INFO - Comenzando extracción de información del post
+2025-06-20 08:07:15,173 - INFO - Post ya existente, saltando: LOS TORTUGA de Belén Funes
+2025-06-20 08:07:15,173 - INFO - Comenzando extracción de información del post
+2025-06-20 08:07:15,173 - INFO - Título del post: MISIÓN IMPOSIBLE: SENTENCIA FINAL de Christopher McQuarrie
+2025-06-20 08:07:15,173 - INFO - Fecha del post: 2025-05-30T23:18:00+02:00
+2025-06-20 08:07:15,173 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/05/mision-imposible-sentencia-final-de-christopher-mcquarrie.html
+2025-06-20 08:07:16,537 - INFO - Contenido extraído y estructurado (2920 caracteres)
+2025-06-20 08:07:16,538 - INFO - Guardando post en: posts/MISIÓN_IMPOSIBLE:_SENTENCIA_FINAL_2025-05-30.json
+2025-06-20 08:07:16,538 - INFO - Post guardado exitosamente
+2025-06-20 08:07:16,538 - INFO - Actualizando índice de películas
+2025-06-20 08:07:16,538 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-06-20 08:07:16,542 - INFO - Índice existente cargado con 2508 películas
+2025-06-20 08:07:16,542 - INFO - La película ya existe en el índice: MISIÓN IMPOSIBLE: SENTENCIA FINAL
+2025-06-20 08:07:16,542 - INFO - Nuevo post guardado: MISIÓN IMPOSIBLE: SENTENCIA FINAL de Christopher McQuarrie
+2025-06-20 08:07:16,542 - INFO - Comenzando extracción de información del post
+2025-06-20 08:07:16,542 - INFO - Post ya existente, saltando: EL BUEN PADRE de Ronan Tronchot
+2025-06-20 08:07:16,542 - INFO - Proceso completado. Posts nuevos guardados: 1
