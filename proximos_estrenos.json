@@ -1,291 +1,5 @@
 [
   {
-    "id": 1234821,
-    "tmdb_id": 1234821,
-    "título": "Jurassic World: El renacer",
-    "título_original": "Jurassic World Rebirth",
-    "sinopsis": "Cinco años después de los eventos de \"Dominion\", sigue a Zora (Scarlett Johansson), que dirige un equipo para conseguir material genético de tres enormes dinosaurios. Cuando la operación se cruza con una familia, quedan varados en una isla donde hacen un siniestro descubrimiento.",
-    "poster_path": "/fhBYsFNlYyfa7uxbzklSOPodFfq.jpg",
-    "poster_local": "imagenes_estrenos/Jurassic_World__El_renacer_hzOFdCttANBCFnmPmvw0CstjScN.jpg",
-    "backdrop_path": "/lNl4qkjs76u1ns3lzbNVAFKG1aC.jpg",
-    "backdrop_local": "imagenes_estrenos/Jurassic_World__El_renacer_backdrop_xyAvU9WrfQLCCU2VxLF4t7EMXEF.jpg",
-    "fecha_estreno": "2025-07-02T00:00:00.000Z",
-    "duración": "134 min",
-    "director": "Gareth Edwards",
-    "directores": [
-      {
-        "name": "Gareth Edwards",
-        "id": 129894
-      }
-    ],
-    "actores": [
-      {
-        "name": "Scarlett Johansson",
-        "id": 1245,
-        "character": "Zora Bennett",
-        "profile_path": "/8m21eocprLYuW0ywveIgThk6VM.jpg"
-      },
-      {
-        "name": "Jonathan Bailey",
-        "id": 80860,
-        "character": "Dr. Henry Loomis",
-        "profile_path": "/i9m6JsYKQot3kbMMFsvbEuFarvq.jpg"
-      },
-      {
-        "name": "Mahershala Ali",
-        "id": 932967,
-        "character": "Duncan Kincaid",
-        "profile_path": "/y9mf12rlZBlVJS6JYuCPpjTaLT6.jpg"
-      },
-      {
-        "name": "Rupert Friend",
-        "id": 36669,
-        "character": "Martin Krebs",
-        "profile_path": "/a3HeMHmlXnoRlHLX9h31ZdZgCXM.jpg"
-      },
-      {
-        "name": "Manuel Garcia-Rulfo",
-        "id": 1168097,
-        "character": "Reuben Delgado",
-        "profile_path": "/54Rk1hKfNdNKGHQMnONDGmNtUv3.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 878,
-        "name": "Ciencia ficción"
-      },
-      {
-        "id": 12,
-        "name": "Aventura"
-      },
-      {
-        "id": 28,
-        "name": "Acción"
-      }
-    ],
-    "popularidad": 155.5318,
-    "puntuación": 7.4,
-    "votos": 29,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg",
-          "vote_average": 10.0,
-          "vote_count": 5,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/puMI67KEDPCetj23ZSIhsViyMZy.jpg",
-          "vote_average": 7.19,
-          "vote_count": 7,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/utW2RcoGuvCPqGzfu3LcvaSDLxX.jpg",
-          "vote_average": 5.786,
-          "vote_count": 7,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/lNl4qkjs76u1ns3lzbNVAFKG1aC.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/5Yp7IHPZAhUkUklWYeL6fmzLyoW.jpg",
-          "vote_average": 6.722,
-          "vote_count": 6,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/rTxsUEHPOUAQCGxmtLf5ZuiaLUj.jpg",
-          "vote_average": 6.722,
-          "vote_count": 6,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/AeYdYAJpCg83ywjqZmln5pGAQFS.jpg",
-          "vote_average": 6.722,
-          "vote_count": 6,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/vVNlJHA9hvEt1NPvvQ4Z7nVdmOF.jpg",
-          "vote_average": 6.722,
-          "vote_count": 6,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/oO8i7VPIXn0wabeEqif11hZjR8Y.jpg",
-          "vote_average": 6.722,
-          "vote_count": 6,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-07-01 22:02:30"
-  },
-  {
-    "id": 1174024,
-    "tmdb_id": 1174024,
-    "título": "Una cena... y lo que surja",
-    "título_original": "Et plus si affinités",
-    "sinopsis": "",
-    "poster_path": "/bvNAtzzRt7peDXx1GTVi8ftHyfN.jpg",
-    "poster_local": "imagenes_estrenos/Una_cena____y_lo_que_surja_bvNAtzzRt7peDXx1GTVi8ftHyfN.jpg",
-    "backdrop_path": "/8fxfzixsgVZNtZi5KUBW2OHU3Ar.jpg",
-    "backdrop_local": "imagenes_estrenos/Una_cena____y_lo_que_surja_backdrop_8fxfzixsgVZNtZi5KUBW2OHU3Ar.jpg",
-    "fecha_estreno": "2025-07-02T00:00:00.000Z",
-    "duración": "77 min",
-    "director": "Olivier Ducray, Wilfried Méance",
-    "directores": [
-      {
-        "name": "Olivier Ducray",
-        "id": 1695017
-      },
-      {
-        "name": "Wilfried Méance",
-        "id": 1447639
-      }
-    ],
-    "actores": [
-      {
-        "name": "Bernard Campan",
-        "id": 41029,
-        "character": "Xavier",
-        "profile_path": "/cILI8cr9ZLQVdgHSNCktpi7gGO6.jpg"
-      },
-      {
-        "name": "Isabelle Carré",
-        "id": 4166,
-        "character": "Sophie",
-        "profile_path": "/uKyTfD7EMYuFl8fhyZ5JuPamT46.jpg"
-      },
-      {
-        "name": "Pablo Pauly",
-        "id": 1314700,
-        "character": "Alban",
-        "profile_path": "/cmJ97Qpef4hjwxgBeD6WSaZVM0f.jpg"
-      },
-      {
-        "name": "Julia Faure",
-        "id": 946511,
-        "character": "Adèle",
-        "profile_path": "/5DvDNQ0Rs85Ytn3VtBAXdzGZ8PT.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 1.2141,
-    "puntuación": 5.761,
-    "votos": 94,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/8fxfzixsgVZNtZi5KUBW2OHU3Ar.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.783,
-          "height": 870,
-          "iso_639_1": null,
-          "file_path": "/myw9vlLNkU9V90qUENRjfWVfYlK.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1551
-        },
-        {
-          "aspect_ratio": 1.783,
-          "height": 870,
-          "iso_639_1": null,
-          "file_path": "/p7X6JhVkvGpTOcWZhC2IXs2mnkJ.jpg",
-          "vote_average": 0.166,
-          "vote_count": 2,
-          "width": 1551
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1440,
-          "iso_639_1": null,
-          "file_path": "/7RkwbRfMT9Vxm40xtoisaW6FK5Y.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 2560
-        },
-        {
-          "aspect_ratio": 1.785,
-          "height": 902,
-          "iso_639_1": null,
-          "file_path": "/n1gAyEFR4uH79XeH0Ouzq4Vc1BA.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1610
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-07-01 22:02:32"
-  },
-  {
     "id": 1249423,
     "tmdb_id": 1249423,
     "título": "狗陣",
@@ -937,15 +651,15 @@
     "backdrop_local": "imagenes_estrenos/Elio_backdrop_mBDoBHUZHHy9WG7dRFndjB8adhc.jpg",
     "fecha_estreno": "2025-07-09T00:00:00.000Z",
     "duración": "98 min",
-    "director": "Madeline Sharafian, Domee Shi, Adrian Molina",
+    "director": "Domee Shi, Madeline Sharafian, Adrian Molina",
     "directores": [
-      {
-        "name": "Madeline Sharafian",
-        "id": 1171950
-      },
       {
         "name": "Domee Shi",
         "id": 2009739
+      },
+      {
+        "name": "Madeline Sharafian",
+        "id": 1171950
       },
       {
         "name": "Adrian Molina",
@@ -1006,9 +720,9 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 64.291,
+    "popularidad": 58.5394,
     "puntuación": 6.8,
-    "votos": 127,
+    "votos": 129,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1108,7 +822,103 @@
         }
       ]
     },
-    "última_actualización": "2025-07-02 22:02:43"
+    "última_actualización": "2025-07-03 10:02:44"
+  },
+  {
+    "id": 1507502,
+    "tmdb_id": 1507502,
+    "título": "De tros en tros",
+    "título_original": "De tros en tros",
+    "sinopsis": "",
+    "poster_path": "/jTg3p5MI8YtbnhCFfknevNaustw.jpg",
+    "poster_local": "imagenes_estrenos/De_tros_en_tros_jTg3p5MI8YtbnhCFfknevNaustw.jpg",
+    "backdrop_path": "/pJTRRh1huXfmJJVFZKgOJUXZpFp.jpg",
+    "backdrop_local": "imagenes_estrenos/De_tros_en_tros_backdrop_pJTRRh1huXfmJJVFZKgOJUXZpFp.jpg",
+    "fecha_estreno": "2025-07-11",
+    "duración": "17 min",
+    "director": "Rosa Font Bover",
+    "directores": [
+      {
+        "name": "Rosa Font Bover",
+        "id": 4790544
+      }
+    ],
+    "actores": [
+      {
+        "name": "Rosa Font Bover",
+        "id": 4790544,
+        "character": "ella mateixa",
+        "profile_path": "/1q3KSwEw5G4rW1qJOi2wIaYrrZH.jpg"
+      },
+      {
+        "name": "Mateo Font Lliteras",
+        "id": 5237081,
+        "character": "ell mateix",
+        "profile_path": null
+      },
+      {
+        "name": "Catalina Bover Rosselló",
+        "id": 5237080,
+        "character": "ella mateixa",
+        "profile_path": null
+      },
+      {
+        "name": "Rosa Lliteras Font",
+        "id": 5540670,
+        "character": "ella mateixa",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 0.0071,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.78,
+          "height": 899,
+          "iso_639_1": null,
+          "file_path": "/pJTRRh1huXfmJJVFZKgOJUXZpFp.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1600
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1350,
+          "iso_639_1": null,
+          "file_path": "/jTg3p5MI8YtbnhCFfknevNaustw.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 900
+        },
+        {
+          "aspect_ratio": 0.75,
+          "height": 1350,
+          "iso_639_1": null,
+          "file_path": "/b5ozY9BodyBfOFmXEOcOO4wusVJ.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1012
+        }
+      ]
+    },
+    "última_actualización": "2025-07-03 10:02:50"
   },
   {
     "id": 1061474,
@@ -1175,7 +985,7 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 54.9763,
+    "popularidad": 58.828,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1277,7 +1087,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-02 22:02:44"
+    "última_actualización": "2025-07-03 10:02:44"
   },
   {
     "id": 842859,
@@ -1344,9 +1154,9 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 2.0635,
-    "puntuación": 7.555,
-    "votos": 119,
+    "popularidad": 2.0912,
+    "puntuación": 7.575,
+    "votos": 120,
     "adulto": false,
     "video": false,
     "año": "2024",
@@ -1419,7 +1229,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-02 22:02:44"
+    "última_actualización": "2025-07-03 10:02:46"
   },
   {
     "id": 1000862,
@@ -1482,9 +1292,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 2.044,
+    "popularidad": 2.0162,
     "puntuación": 6.376,
-    "votos": 267,
+    "votos": 268,
     "adulto": false,
     "video": false,
     "año": "2024",
@@ -1539,7 +1349,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-02 22:02:45"
+    "última_actualización": "2025-07-03 10:02:46"
   },
   {
     "id": 659956,
@@ -1598,7 +1408,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.4527,
+    "popularidad": 1.4617,
     "puntuación": 6.1,
     "votos": 25,
     "adulto": false,
@@ -1673,7 +1483,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-02 22:02:45"
+    "última_actualización": "2025-07-03 10:02:46"
   },
   {
     "id": 1171153,
@@ -1740,7 +1550,7 @@
         "name": "Música"
       }
     ],
-    "popularidad": 1.4153,
+    "popularidad": 1.1783,
     "puntuación": 7.792,
     "votos": 12,
     "adulto": false,
@@ -1769,7 +1579,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-02 22:02:45"
+    "última_actualización": "2025-07-03 10:02:47"
   },
   {
     "id": 1137245,
@@ -1836,7 +1646,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.2788,
+    "popularidad": 1.3535,
     "puntuación": 6.619,
     "votos": 67,
     "adulto": false,
@@ -1902,7 +1712,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-02 22:02:45"
+    "última_actualización": "2025-07-03 10:02:47"
   },
   {
     "id": 1315057,
@@ -1961,7 +1771,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.6096,
+    "popularidad": 0.6451,
     "puntuación": 7.0,
     "votos": 11,
     "adulto": false,
@@ -2017,7 +1827,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-02 22:02:46"
+    "última_actualización": "2025-07-03 10:02:48"
   },
   {
     "id": 1254754,
@@ -2167,9 +1977,9 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 17.0091,
-    "puntuación": 10.0,
-    "votos": 2,
+    "popularidad": 16.1472,
+    "puntuación": 8.0,
+    "votos": 3,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2269,7 +2079,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-02 22:02:44"
+    "última_actualización": "2025-07-03 10:02:45"
   },
   {
     "id": 1083433,
@@ -2336,7 +2146,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 11.1904,
+    "popularidad": 10.374,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2420,7 +2230,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-02 22:02:44"
+    "última_actualización": "2025-07-03 10:02:45"
   },
   {
     "id": 1169789,
@@ -2483,9 +2293,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.3247,
-    "puntuación": 7.393,
-    "votos": 28,
+    "popularidad": 3.4529,
+    "puntuación": 7.433,
+    "votos": 30,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2549,7 +2359,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-02 22:02:44"
+    "última_actualización": "2025-07-03 10:02:46"
   },
   {
     "id": 887180,
@@ -2608,7 +2418,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.1301,
+    "popularidad": 0.8722,
     "puntuación": 6.885,
     "votos": 26,
     "adulto": false,
@@ -2674,7 +2484,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-02 22:02:45"
+    "última_actualización": "2025-07-03 10:02:47"
   },
   {
     "id": 943414,
@@ -2733,7 +2543,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.9351,
+    "popularidad": 1.0284,
     "puntuación": 6.9,
     "votos": 5,
     "adulto": false,
@@ -2789,7 +2599,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-02 22:02:45"
+    "última_actualización": "2025-07-03 10:02:48"
   },
   {
     "id": 1108336,
@@ -2848,7 +2658,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.9289,
+    "popularidad": 0.8049,
     "puntuación": 6.45,
     "votos": 60,
     "adulto": false,
@@ -2904,7 +2714,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-02 22:02:45"
+    "última_actualización": "2025-07-03 10:02:48"
   },
   {
     "id": 1003504,
@@ -2967,7 +2777,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.4778,
+    "popularidad": 0.3925,
     "puntuación": 7.4,
     "votos": 67,
     "adulto": false,
@@ -2997,7 +2807,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-02 22:02:46"
+    "última_actualización": "2025-07-03 10:02:49"
   },
   {
     "id": 1358831,
@@ -3056,7 +2866,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.3875,
+    "popularidad": 0.3728,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3066,7 +2876,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-07-02 22:02:46"
+    "última_actualización": "2025-07-03 10:02:49"
   },
   {
     "id": 878607,
@@ -3254,7 +3064,7 @@
         "name": "Aventura"
       }
     ],
-    "popularidad": 41.2316,
+    "popularidad": 36.3115,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3293,19 +3103,19 @@
           "aspect_ratio": 1.778,
           "height": 2160,
           "iso_639_1": null,
-          "file_path": "/g2Wzs93aF1LUFLxOJD7EbeZSGZt.jpg",
-          "vote_average": 3.294,
-          "vote_count": 17,
+          "file_path": "/eYVf2fjt4RAHdN8T6TO2h02JNRM.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
           "width": 3840
         },
         {
-          "aspect_ratio": 1.781,
-          "height": 1833,
+          "aspect_ratio": 1.778,
+          "height": 1602,
           "iso_639_1": null,
-          "file_path": "/4b2mLlMMaMcZhvNvmPgwaFqme8Y.jpg",
-          "vote_average": 2.542,
-          "vote_count": 4,
-          "width": 3264
+          "file_path": "/pBZvaMRlgSYnmc293e60GsUhTyF.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2848
         }
       ],
       "posters": [
@@ -3337,6 +3147,15 @@
           "width": 2000
         },
         {
+          "aspect_ratio": 0.675,
+          "height": 2500,
+          "iso_639_1": null,
+          "file_path": "/bW5lDb0lQhVXTJvEXaMTWE0CqxL.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1688
+        },
+        {
           "aspect_ratio": 0.667,
           "height": 3000,
           "iso_639_1": null,
@@ -3344,19 +3163,10 @@
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/fQeN77kvkrz4NJm0jfcwE4BYN0S.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
         }
       ]
     },
-    "última_actualización": "2025-07-02 22:02:44"
+    "última_actualización": "2025-07-03 10:02:45"
   },
   {
     "id": 1096846,
@@ -3415,7 +3225,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.1465,
+    "popularidad": 1.1015,
     "puntuación": 7.3,
     "votos": 35,
     "adulto": false,
@@ -3490,7 +3300,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-02 22:02:45"
+    "última_actualización": "2025-07-03 10:02:47"
   },
   {
     "id": 1064307,
@@ -3561,7 +3371,7 @@
         "name": "Aventura"
       }
     ],
-    "popularidad": 6.1309,
+    "popularidad": 5.8381,
     "puntuación": 6.6,
     "votos": 10,
     "adulto": false,
@@ -3627,7 +3437,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-02 22:02:44"
+    "última_actualización": "2025-07-03 10:02:45"
   },
   {
     "id": 1113120,
@@ -3690,7 +3500,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.6495,
+    "popularidad": 2.9051,
     "puntuación": 6.843,
     "votos": 51,
     "adulto": false,
@@ -3756,7 +3566,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-02 22:02:44"
+    "última_actualización": "2025-07-03 10:02:46"
   },
   {
     "id": 1076555,
@@ -3819,7 +3629,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 1.1402,
+    "popularidad": 0.9673,
     "puntuación": 6.104,
     "votos": 96,
     "adulto": false,
@@ -3894,7 +3704,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-02 22:02:45"
+    "última_actualización": "2025-07-03 10:02:47"
   },
   {
     "id": 1175267,
@@ -3957,7 +3767,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.7231,
+    "popularidad": 0.4093,
     "puntuación": 6.143,
     "votos": 49,
     "adulto": false,
@@ -4023,7 +3833,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-02 22:02:45"
+    "última_actualización": "2025-07-03 10:02:48"
   },
   {
     "id": 1396371,
@@ -4086,7 +3896,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.2132,
+    "popularidad": 0.232,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4116,7 +3926,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-02 22:02:46"
+    "última_actualización": "2025-07-03 10:02:49"
   },
   {
     "id": 1341788,
@@ -4163,7 +3973,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.1041,
+    "popularidad": 0.072,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4183,7 +3993,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-02 22:02:46"
+    "última_actualización": "2025-07-03 10:02:49"
   },
   {
     "id": 1011477,
