@@ -97,15 +97,15 @@
     "backdrop_local": "imagenes_estrenos/Elio_backdrop_mBDoBHUZHHy9WG7dRFndjB8adhc.jpg",
     "fecha_estreno": "2025-07-09T00:00:00.000Z",
     "duración": "98 min",
-    "director": "Domee Shi, Madeline Sharafian, Adrian Molina",
+    "director": "Madeline Sharafian, Domee Shi, Adrian Molina",
     "directores": [
-      {
-        "name": "Domee Shi",
-        "id": 2009739
-      },
       {
         "name": "Madeline Sharafian",
         "id": 1171950
+      },
+      {
+        "name": "Domee Shi",
+        "id": 2009739
       },
       {
         "name": "Adrian Molina",
@@ -167,8 +167,8 @@
       }
     ],
     "popularidad": 45.3864,
-    "puntuación": 6.699,
-    "votos": 138,
+    "puntuación": 6.72,
+    "votos": 142,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -268,7 +268,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-05 10:02:13"
+    "última_actualización": "2025-07-05 22:02:33"
   },
   {
     "id": 1507502,
@@ -364,7 +364,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-05 10:02:16"
+    "última_actualización": "2025-07-05 22:02:37"
   },
   {
     "id": 1061474,
@@ -533,7 +533,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-05 10:02:13"
+    "última_actualización": "2025-07-05 22:02:33"
   },
   {
     "id": 842859,
@@ -675,7 +675,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-05 10:02:14"
+    "última_actualización": "2025-07-05 22:02:34"
   },
   {
     "id": 1000862,
@@ -795,7 +795,140 @@
         }
       ]
     },
-    "última_actualización": "2025-07-05 10:02:14"
+    "última_actualización": "2025-07-05 22:02:35"
+  },
+  {
+    "id": 1137245,
+    "tmdb_id": 1137245,
+    "título": "Tres amigas",
+    "título_original": "Trois amies",
+    "sinopsis": "Joan ya no está enamorada de Victor y sufre por no estar siendo honesta con él. Alice, su mejor amiga, la tranquiliza asegurándole que ella misma no siente pasión por su pareja Eric y sin embargo su relación va viento en popa. Ella ignora que él tiene una aventura con Rebecca, su amiga común... Cuando Joan decide finalmente dejar a Victor y este desaparece, las vidas y las historias de las tres amigas dan un vuelco.",
+    "poster_path": "/ePhm3wnIUE0Cl0vClZPeERBVrJg.jpg",
+    "poster_local": "imagenes_estrenos/Tres_amigas_ePhm3wnIUE0Cl0vClZPeERBVrJg.jpg",
+    "backdrop_path": "/nVMpA0JPnfeu6R9sf7sTDwhTh5L.jpg",
+    "backdrop_local": "imagenes_estrenos/Tres_amigas_backdrop_nVMpA0JPnfeu6R9sf7sTDwhTh5L.jpg",
+    "fecha_estreno": "2025-07-11T00:00:00.000Z",
+    "duración": "118 min",
+    "director": "Emmanuel Mouret",
+    "directores": [
+      {
+        "name": "Emmanuel Mouret",
+        "id": 65569
+      }
+    ],
+    "actores": [
+      {
+        "name": "India Hair",
+        "id": 555967,
+        "character": "Joan Belair",
+        "profile_path": "/pfMsRaxa7t8mP2xHmRWqQxGNjwh.jpg"
+      },
+      {
+        "name": "Camille Cottin",
+        "id": 1348474,
+        "character": "Alice",
+        "profile_path": "/ArBIA46esEk1qMlSwoVPR1SxPvc.jpg"
+      },
+      {
+        "name": "Sara Forestier",
+        "id": 17074,
+        "character": "Rebecca Maillard",
+        "profile_path": "/xtNEa5vbzZ8IWI5bTn5zlMy6Cz2.jpg"
+      },
+      {
+        "name": "Damien Bonnard",
+        "id": 579211,
+        "character": "Thomas Duval",
+        "profile_path": "/cN9L9PWztvkhvkAllldc3j07HtC.jpg"
+      },
+      {
+        "name": "Grégoire Ludig",
+        "id": 145123,
+        "character": "Éric",
+        "profile_path": "/4rQhpGNkgmgEmayXL6U1ngky6C9.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.298,
+    "puntuación": 6.619,
+    "votos": 67,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/nVMpA0JPnfeu6R9sf7sTDwhTh5L.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/f88HyPVdnDeYlYOoM7fMkgib6l8.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/1XBmlvVe5LcbG16tlaZmThawocS.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/xKiMDqSVbDpfAkYY0rmCtj4lSse.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/3Rs1AId58gi4gSRiEHnymtBRj28.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1359,
+          "iso_639_1": null,
+          "file_path": "/jm03MOo8GSLJJci021SMbPaG9Yt.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 906
+        }
+      ]
+    },
+    "última_actualización": "2025-07-05 22:02:35"
   },
   {
     "id": 659956,
@@ -929,140 +1062,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-05 10:02:14"
-  },
-  {
-    "id": 1137245,
-    "tmdb_id": 1137245,
-    "título": "Tres amigas",
-    "título_original": "Trois amies",
-    "sinopsis": "Joan ya no está enamorada de Victor y sufre por no estar siendo honesta con él. Alice, su mejor amiga, la tranquiliza asegurándole que ella misma no siente pasión por su pareja Eric y sin embargo su relación va viento en popa. Ella ignora que él tiene una aventura con Rebecca, su amiga común... Cuando Joan decide finalmente dejar a Victor y este desaparece, las vidas y las historias de las tres amigas dan un vuelco.",
-    "poster_path": "/ePhm3wnIUE0Cl0vClZPeERBVrJg.jpg",
-    "poster_local": "imagenes_estrenos/Tres_amigas_ePhm3wnIUE0Cl0vClZPeERBVrJg.jpg",
-    "backdrop_path": "/nVMpA0JPnfeu6R9sf7sTDwhTh5L.jpg",
-    "backdrop_local": "imagenes_estrenos/Tres_amigas_backdrop_nVMpA0JPnfeu6R9sf7sTDwhTh5L.jpg",
-    "fecha_estreno": "2025-07-11T00:00:00.000Z",
-    "duración": "118 min",
-    "director": "Emmanuel Mouret",
-    "directores": [
-      {
-        "name": "Emmanuel Mouret",
-        "id": 65569
-      }
-    ],
-    "actores": [
-      {
-        "name": "India Hair",
-        "id": 555967,
-        "character": "Joan Belair",
-        "profile_path": "/pfMsRaxa7t8mP2xHmRWqQxGNjwh.jpg"
-      },
-      {
-        "name": "Camille Cottin",
-        "id": 1348474,
-        "character": "Alice",
-        "profile_path": "/ArBIA46esEk1qMlSwoVPR1SxPvc.jpg"
-      },
-      {
-        "name": "Sara Forestier",
-        "id": 17074,
-        "character": "Rebecca Maillard",
-        "profile_path": "/xtNEa5vbzZ8IWI5bTn5zlMy6Cz2.jpg"
-      },
-      {
-        "name": "Damien Bonnard",
-        "id": 579211,
-        "character": "Thomas Duval",
-        "profile_path": "/cN9L9PWztvkhvkAllldc3j07HtC.jpg"
-      },
-      {
-        "name": "Grégoire Ludig",
-        "id": 145123,
-        "character": "Éric",
-        "profile_path": "/4rQhpGNkgmgEmayXL6U1ngky6C9.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 1.298,
-    "puntuación": 6.619,
-    "votos": 67,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/nVMpA0JPnfeu6R9sf7sTDwhTh5L.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/f88HyPVdnDeYlYOoM7fMkgib6l8.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/1XBmlvVe5LcbG16tlaZmThawocS.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/xKiMDqSVbDpfAkYY0rmCtj4lSse.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/3Rs1AId58gi4gSRiEHnymtBRj28.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1359,
-          "iso_639_1": null,
-          "file_path": "/jm03MOo8GSLJJci021SMbPaG9Yt.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 906
-        }
-      ]
-    },
-    "última_actualización": "2025-07-05 10:02:14"
+    "última_actualización": "2025-07-05 22:02:35"
   },
   {
     "id": 1171153,
@@ -1158,7 +1158,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-05 10:02:15"
+    "última_actualización": "2025-07-05 22:02:36"
   },
   {
     "id": 1315057,
@@ -1273,7 +1273,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-05 10:02:15"
+    "última_actualización": "2025-07-05 22:02:36"
   },
   {
     "id": 1254754,
@@ -1525,7 +1525,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-05 10:02:14"
+    "última_actualización": "2025-07-05 22:02:34"
   },
   {
     "id": 1083433,
@@ -1676,7 +1676,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-05 10:02:14"
+    "última_actualización": "2025-07-05 22:02:34"
   },
   {
     "id": 1169789,
@@ -1805,122 +1805,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-05 10:02:14"
-  },
-  {
-    "id": 943414,
-    "tmdb_id": 943414,
-    "título": "Los domingos mueren más personas",
-    "título_original": "Los domingos mueren más personas",
-    "sinopsis": "David es un joven que vuelve a vivir a Buenos Aires con su familia para esperar la muerte de su padre, en estado vegetal desde hace años. David es un muchacho treintañero, judío, homosexual, de clase media y con miedo a volar en avión. Vuelve de su beca de estudio en Europa a Buenos Aires, por la muerte de un familiar. A su regreso, conviviendo con su madre en la casa de su infancia, se entera que ella ha decidido desenchufar a su padre luego de estar internado durante dos años en estado vegetativo.",
-    "poster_path": "/cYkUyZMdvvcreDz9fTP8e7eUJFv.jpg",
-    "poster_local": "imagenes_estrenos/Los_domingos_mueren_m_s_personas_cYkUyZMdvvcreDz9fTP8e7eUJFv.jpg",
-    "backdrop_path": "/649dDJWcWziBfnmcAxJqrMEmOAP.jpg",
-    "backdrop_local": "imagenes_estrenos/Los_domingos_mueren_m_s_personas_backdrop_649dDJWcWziBfnmcAxJqrMEmOAP.jpg",
-    "fecha_estreno": "2025-07-18T00:00:00.000Z",
-    "duración": "75 min",
-    "director": "Iair Said",
-    "directores": [
-      {
-        "name": "Iair Said",
-        "id": 1882871
-      }
-    ],
-    "actores": [
-      {
-        "name": "Iair Said",
-        "id": 1882871,
-        "character": "David",
-        "profile_path": "/AdjK38mrVT4m4GwyuBMnHjCeq4N.jpg"
-      },
-      {
-        "name": "Rita Cortese",
-        "id": 99113,
-        "character": "Dora",
-        "profile_path": "/3CtvCjKbUPyWq5SLAbYeBbb9M8d.jpg"
-      },
-      {
-        "name": "Juliana Gattas",
-        "id": 1745728,
-        "character": "Elisa",
-        "profile_path": "/tEGFgs6rbhnd47kJqF9Ozc6qJQF.jpg"
-      },
-      {
-        "name": "Antonia Zegers",
-        "id": 141624,
-        "character": "Silvia",
-        "profile_path": "/6wd9Jb4kxSDfxWXMUWTgLEF8HiY.jpg"
-      },
-      {
-        "name": "Lucas Besasso",
-        "id": 2098973,
-        "character": "Gastón",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 1.0023,
-    "puntuación": 6.9,
-    "votos": 5,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 864,
-          "iso_639_1": null,
-          "file_path": "/649dDJWcWziBfnmcAxJqrMEmOAP.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1536
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2025,
-          "iso_639_1": null,
-          "file_path": "/Aw9f9go15dPIjhDincX9ehJrfpu.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3600
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/2pDhovmgyEyhXEIHecD49CBxs4h.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/1nUxE1HseFFMqaY98TMsuBsYYVs.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/kk18AN6uSkczngeYxHGSP1oPNIu.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-07-05 10:02:15"
+    "última_actualización": "2025-07-05 22:02:34"
   },
   {
     "id": 1108336,
@@ -2035,7 +1920,122 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-05 10:02:15"
+    "última_actualización": "2025-07-05 22:02:35"
+  },
+  {
+    "id": 943414,
+    "tmdb_id": 943414,
+    "título": "Los domingos mueren más personas",
+    "título_original": "Los domingos mueren más personas",
+    "sinopsis": "David es un joven que vuelve a vivir a Buenos Aires con su familia para esperar la muerte de su padre, en estado vegetal desde hace años. David es un muchacho treintañero, judío, homosexual, de clase media y con miedo a volar en avión. Vuelve de su beca de estudio en Europa a Buenos Aires, por la muerte de un familiar. A su regreso, conviviendo con su madre en la casa de su infancia, se entera que ella ha decidido desenchufar a su padre luego de estar internado durante dos años en estado vegetativo.",
+    "poster_path": "/cYkUyZMdvvcreDz9fTP8e7eUJFv.jpg",
+    "poster_local": "imagenes_estrenos/Los_domingos_mueren_m_s_personas_cYkUyZMdvvcreDz9fTP8e7eUJFv.jpg",
+    "backdrop_path": "/649dDJWcWziBfnmcAxJqrMEmOAP.jpg",
+    "backdrop_local": "imagenes_estrenos/Los_domingos_mueren_m_s_personas_backdrop_649dDJWcWziBfnmcAxJqrMEmOAP.jpg",
+    "fecha_estreno": "2025-07-18T00:00:00.000Z",
+    "duración": "75 min",
+    "director": "Iair Said",
+    "directores": [
+      {
+        "name": "Iair Said",
+        "id": 1882871
+      }
+    ],
+    "actores": [
+      {
+        "name": "Iair Said",
+        "id": 1882871,
+        "character": "David",
+        "profile_path": "/AdjK38mrVT4m4GwyuBMnHjCeq4N.jpg"
+      },
+      {
+        "name": "Rita Cortese",
+        "id": 99113,
+        "character": "Dora",
+        "profile_path": "/3CtvCjKbUPyWq5SLAbYeBbb9M8d.jpg"
+      },
+      {
+        "name": "Juliana Gattas",
+        "id": 1745728,
+        "character": "Elisa",
+        "profile_path": "/tEGFgs6rbhnd47kJqF9Ozc6qJQF.jpg"
+      },
+      {
+        "name": "Antonia Zegers",
+        "id": 141624,
+        "character": "Silvia",
+        "profile_path": "/6wd9Jb4kxSDfxWXMUWTgLEF8HiY.jpg"
+      },
+      {
+        "name": "Lucas Besasso",
+        "id": 2098973,
+        "character": "Gastón",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.0023,
+    "puntuación": 6.9,
+    "votos": 5,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 864,
+          "iso_639_1": null,
+          "file_path": "/649dDJWcWziBfnmcAxJqrMEmOAP.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1536
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2025,
+          "iso_639_1": null,
+          "file_path": "/Aw9f9go15dPIjhDincX9ehJrfpu.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3600
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/2pDhovmgyEyhXEIHecD49CBxs4h.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/1nUxE1HseFFMqaY98TMsuBsYYVs.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/kk18AN6uSkczngeYxHGSP1oPNIu.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-07-05 22:02:36"
   },
   {
     "id": 887180,
@@ -2160,7 +2160,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-05 10:02:15"
+    "última_actualización": "2025-07-05 22:02:36"
   },
   {
     "id": 1003504,
@@ -2253,7 +2253,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-05 10:02:16"
+    "última_actualización": "2025-07-05 22:02:36"
   },
   {
     "id": 1358831,
@@ -2322,7 +2322,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-07-05 10:02:16"
+    "última_actualización": "2025-07-05 22:02:37"
   },
   {
     "id": 878607,
@@ -2612,7 +2612,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-05 10:02:13"
+    "última_actualización": "2025-07-05 22:02:34"
   },
   {
     "id": 1096846,
@@ -2746,7 +2746,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-05 10:02:14"
+    "última_actualización": "2025-07-05 22:02:35"
   },
   {
     "id": 1064307,
@@ -2883,7 +2883,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-05 10:02:14"
+    "última_actualización": "2025-07-05 22:02:34"
   },
   {
     "id": 1113120,
@@ -3012,7 +3012,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-05 10:02:14"
+    "última_actualización": "2025-07-05 22:02:34"
   },
   {
     "id": 1076555,
@@ -3150,7 +3150,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-05 10:02:14"
+    "última_actualización": "2025-07-05 22:02:35"
   },
   {
     "id": 1175267,
@@ -3279,7 +3279,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-05 10:02:15"
+    "última_actualización": "2025-07-05 22:02:36"
   },
   {
     "id": 1396371,
@@ -3372,7 +3372,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-05 10:02:15"
+    "última_actualización": "2025-07-05 22:02:37"
   },
   {
     "id": 1341788,
@@ -3439,7 +3439,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-05 10:02:15"
+    "última_actualización": "2025-07-05 22:02:37"
   },
   {
     "id": 1011477,
