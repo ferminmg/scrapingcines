@@ -1,190 +1,5 @@
 [
   {
-    "id": 1022787,
-    "tmdb_id": 1022787,
-    "título": "Elio",
-    "título_original": "Elio",
-    "sinopsis": "Cuenta la historia de Elio, un niño de 11 años, que lucha por encajar hasta que de repente es transportado por extraterrestres y es elegido para ser el embajador galáctico de la Tierra.",
-    "poster_path": "/fGjwHlv8bCjZypi2bHbbSmyIGMV.jpg",
-    "poster_local": "imagenes_estrenos/Elio_fGjwHlv8bCjZypi2bHbbSmyIGMV.jpg",
-    "backdrop_path": "/mBDoBHUZHHy9WG7dRFndjB8adhc.jpg",
-    "backdrop_local": "imagenes_estrenos/Elio_backdrop_mBDoBHUZHHy9WG7dRFndjB8adhc.jpg",
-    "fecha_estreno": "2025-07-09T00:00:00.000Z",
-    "duración": "98 min",
-    "director": "Madeline Sharafian, Domee Shi, Adrian Molina",
-    "directores": [
-      {
-        "name": "Madeline Sharafian",
-        "id": 1171950
-      },
-      {
-        "name": "Domee Shi",
-        "id": 2009739
-      },
-      {
-        "name": "Adrian Molina",
-        "id": 1684652
-      }
-    ],
-    "actores": [
-      {
-        "name": "Yonas Kibreab",
-        "id": 2986863,
-        "character": "Elio / Other Elio (voice)",
-        "profile_path": "/vp7wBIQ4MkfJJ5KfN8bMOLxdSJE.jpg"
-      },
-      {
-        "name": "Zoe Saldaña",
-        "id": 8691,
-        "character": "Olga Solís (voice)",
-        "profile_path": "/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
-      },
-      {
-        "name": "Remy Edgerly",
-        "id": 3455058,
-        "character": "Glordon (voice)",
-        "profile_path": "/ik41sbEMHnoAT3LMIv7f0krXRwB.jpg"
-      },
-      {
-        "name": "Brandon Moon",
-        "id": 5077775,
-        "character": "Ambassador Helix (voice)",
-        "profile_path": "/ocSrdXMrKNMLSJZLTrIxMaU53ie.jpg"
-      },
-      {
-        "name": "Brad Garrett",
-        "id": 18,
-        "character": "Lord Grigon (voice)",
-        "profile_path": "/wGklfTf3zpTegGoV1jOi5NzpZnd.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 10751,
-        "name": "Familia"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 12,
-        "name": "Aventura"
-      },
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 878,
-        "name": "Ciencia ficción"
-      }
-    ],
-    "popularidad": 50.4002,
-    "puntuación": 6.778,
-    "votos": 158,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/mBDoBHUZHHy9WG7dRFndjB8adhc.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/vZMsr4qYIbozkYiMyxF4Y6nbXnf.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/qK37eBNhlo4GcrYHWdXa3bjfVFO.jpg",
-          "vote_average": 2.066,
-          "vote_count": 5,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1102,
-          "iso_639_1": null,
-          "file_path": "/sNZzV9UaVjwEQr1f07Tupips0w0.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1959
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/oLN4E0pX0z0wLnlfyn8vwnuGBYF.jpg",
-          "vote_average": 1.222,
-          "vote_count": 3,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/aQ4IBwoJAjucUIZh33wOKAQmxcQ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/ckZeo7gOCxzxVu5pjX4zPBSiR4u.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/8t7BTLifbTuKPDgpllepmq06Gp0.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/l91wOs6zFdgI6wTCDoZoSfJBcpb.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/8pLnI6eOh11wg6c9pgw8Om0SXOu.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-07-08 22:02:12"
-  },
-  {
     "id": 1507502,
     "tmdb_id": 1507502,
     "título": "De tros en tros",
@@ -1254,7 +1069,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 17.2225,
+    "popularidad": 19.7785,
     "puntuación": 8.5,
     "votos": 4,
     "adulto": false,
@@ -1356,7 +1171,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-09 22:02:30"
+    "última_actualización": "2025-07-10 10:02:12"
   },
   {
     "id": 1083433,
@@ -1423,7 +1238,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 12.2886,
+    "popularidad": 13.0248,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1453,7 +1268,7 @@
           "aspect_ratio": 1.778,
           "height": 2160,
           "iso_639_1": null,
-          "file_path": "/bWfxuAQU5CwtwnCB5HglqsBSGC1.jpg",
+          "file_path": "/nmnx8WWGQsqwGNrd9oiS8EsN6e6.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 3840
@@ -1462,7 +1277,7 @@
           "aspect_ratio": 1.778,
           "height": 2160,
           "iso_639_1": null,
-          "file_path": "/nmnx8WWGQsqwGNrd9oiS8EsN6e6.jpg",
+          "file_path": "/jXVQS9BXTajzdYeor3PBqkljmWk.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 3840
@@ -1507,7 +1322,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-09 22:02:30"
+    "última_actualización": "2025-07-10 10:02:12"
   },
   {
     "id": 1169789,
@@ -1570,9 +1385,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 4.588,
-    "puntuación": 7.4,
-    "votos": 35,
+    "popularidad": 4.4757,
+    "puntuación": 7.472,
+    "votos": 36,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1645,7 +1460,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-09 22:02:30"
+    "última_actualización": "2025-07-10 10:02:12"
   },
   {
     "id": 1108336,
@@ -1704,7 +1519,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.7364,
+    "popularidad": 1.3468,
     "puntuación": 6.452,
     "votos": 62,
     "adulto": false,
@@ -1760,7 +1575,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-09 22:02:31"
+    "última_actualización": "2025-07-10 10:02:13"
   },
   {
     "id": 943414,
@@ -1819,7 +1634,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.8519,
+    "popularidad": 0.9231,
     "puntuación": 6.9,
     "votos": 5,
     "adulto": false,
@@ -1875,7 +1690,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-09 22:02:31"
+    "última_actualización": "2025-07-10 10:02:13"
   },
   {
     "id": 1003504,
@@ -1938,7 +1753,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.6366,
+    "popularidad": 0.6013,
     "puntuación": 7.4,
     "votos": 67,
     "adulto": false,
@@ -1968,7 +1783,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-09 22:02:31"
+    "última_actualización": "2025-07-10 10:02:13"
   },
   {
     "id": 887180,
@@ -2027,7 +1842,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.4161,
+    "popularidad": 0.3434,
     "puntuación": 6.885,
     "votos": 26,
     "adulto": false,
@@ -2093,7 +1908,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-09 22:02:31"
+    "última_actualización": "2025-07-10 10:02:13"
   },
   {
     "id": 1358831,
@@ -2152,7 +1967,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.3321,
+    "popularidad": 0.2874,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2162,7 +1977,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-07-09 22:02:32"
+    "última_actualización": "2025-07-10 10:02:14"
   },
   {
     "id": 617126,
@@ -2225,7 +2040,7 @@
         "name": "Aventura"
       }
     ],
-    "popularidad": 42.3796,
+    "popularidad": 43.4426,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2327,7 +2142,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-09 22:02:30"
+    "última_actualización": "2025-07-10 10:02:12"
   },
   {
     "id": 1096846,
@@ -2386,7 +2201,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.0707,
+    "popularidad": 1.1055,
     "puntuación": 7.389,
     "votos": 36,
     "adulto": false,
@@ -2461,7 +2276,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-09 22:02:31"
+    "última_actualización": "2025-07-10 10:02:13"
   },
   {
     "id": 1064307,
@@ -2532,9 +2347,9 @@
         "name": "Aventura"
       }
     ],
-    "popularidad": 7.3026,
-    "puntuación": 6.6,
-    "votos": 10,
+    "popularidad": 7.5374,
+    "puntuación": 6.909,
+    "votos": 11,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2598,7 +2413,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-09 22:02:30"
+    "última_actualización": "2025-07-10 10:02:12"
   },
   {
     "id": 1113120,
@@ -2661,7 +2476,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.1983,
+    "popularidad": 2.1283,
     "puntuación": 6.8,
     "votos": 51,
     "adulto": false,
@@ -2727,7 +2542,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-09 22:02:31"
+    "última_actualización": "2025-07-10 10:02:12"
   },
   {
     "id": 1076555,
@@ -2790,7 +2605,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 1.0588,
+    "popularidad": 1.219,
     "puntuación": 6.144,
     "votos": 97,
     "adulto": false,
@@ -2865,7 +2680,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-09 22:02:31"
+    "última_actualización": "2025-07-10 10:02:13"
   },
   {
     "id": 1175267,
@@ -2928,7 +2743,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.5879,
+    "popularidad": 0.4299,
     "puntuación": 6.22,
     "votos": 50,
     "adulto": false,
@@ -2994,7 +2809,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-09 22:02:31"
+    "última_actualización": "2025-07-10 10:02:13"
   },
   {
     "id": 1396371,
@@ -3057,7 +2872,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.2273,
+    "popularidad": 0.2269,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3087,7 +2902,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-09 22:02:32"
+    "última_actualización": "2025-07-10 10:02:14"
   },
   {
     "id": 1341788,
@@ -3134,7 +2949,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.1249,
+    "popularidad": 0.0857,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3154,7 +2969,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-09 22:02:32"
+    "última_actualización": "2025-07-10 10:02:14"
   },
   {
     "id": 1151031,
@@ -3217,9 +3032,9 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 250.4393,
-    "puntuación": 7.3,
-    "votos": 202,
+    "popularidad": 223.8848,
+    "puntuación": 7.321,
+    "votos": 210,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3319,7 +3134,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-09 22:02:30"
+    "última_actualización": "2025-07-10 10:02:12"
   },
   {
     "id": 1175942,
@@ -3394,7 +3209,7 @@
         "name": "Animación"
       }
     ],
-    "popularidad": 14.2231,
+    "popularidad": 14.4766,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3496,7 +3311,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-09 22:02:30"
+    "última_actualización": "2025-07-10 10:02:12"
   },
   {
     "id": 1210732,
@@ -3559,7 +3374,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 3.4615,
+    "popularidad": 2.7857,
     "puntuación": 6.557,
     "votos": 175,
     "adulto": false,
@@ -3616,7 +3431,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-09 22:02:31"
+    "última_actualización": "2025-07-10 10:02:12"
   },
   {
     "id": 878607,
@@ -3675,7 +3490,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.6619,
+    "popularidad": 2.2406,
     "puntuación": 7.69,
     "votos": 21,
     "adulto": false,
@@ -3741,7 +3556,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-09 22:02:31"
+    "última_actualización": "2025-07-10 10:02:12"
   },
   {
     "id": 1193421,
@@ -3804,7 +3619,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 0.5056,
+    "popularidad": 0.5905,
     "puntuación": 7.215,
     "votos": 123,
     "adulto": false,
@@ -3860,7 +3675,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-09 22:02:31"
+    "última_actualización": "2025-07-10 10:02:13"
   },
   {
     "id": 1243800,
@@ -3919,7 +3734,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.3007,
+    "popularidad": 0.2699,
     "puntuación": 6.9,
     "votos": 15,
     "adulto": false,
@@ -3967,7 +3782,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-09 22:02:32"
+    "última_actualización": "2025-07-10 10:02:14"
   },
   {
     "id": 1254754,
@@ -4030,7 +3845,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 0.2196,
+    "popularidad": 0.2455,
     "puntuación": 10.0,
     "votos": 1,
     "adulto": false,
@@ -4050,7 +3865,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-09 22:02:32"
+    "última_actualización": "2025-07-10 10:02:14"
   },
   {
     "id": 1341125,
@@ -4086,7 +3901,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.0398,
+    "popularidad": 0.047,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4106,7 +3921,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-09 22:02:32"
+    "última_actualización": "2025-07-10 10:02:14"
   },
   {
     "id": 1011477,
