@@ -4,23 +4,6 @@
         "cartel": "imagenes_peliculas/tmdb_superman.jpg",
         "horarios": [
             {
-                "fecha": "2025-07-13",
-                "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=94429&eventCode=94541"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "James Gunn",
-        "duración": "129 min",
-        "actores": "David Corenswet, Rachel Brosnahan, Nicholas Hoult, Edi Gathegi, Anthony Carrigan",
-        "sinopsis": "En un mundo que ha perdido la fe en la bondad, Superman lucha por reconciliar su herencia kryptoniana con los valores humanos que moldearon su carácter. Criado en la Tierra, representa la verdad, la justicia y el estilo americano, pero debe enfrentarse a un mundo cínico que cuestiona sus ideales. Entre el deber de proteger a la humanidad y la búsqueda de su identidad, Superman demuestra que la esperanza y la bondad nunca pasan de moda, incluso en los tiempos más oscuros, inspirando a otros a creer en un futuro mejor.",
-        "año": "2025"
-    },
-    {
-        "título": "Superman",
-        "cartel": "imagenes_peliculas/tmdb_superman.jpg",
-        "horarios": [
-            {
                 "fecha": "2025-07-14",
                 "hora": "19:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=94443&eventCode=94541"
@@ -619,6 +602,23 @@
                 "fecha": "2025-07-22",
                 "hora": "19:00",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=85927&eventCode=99774"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "David Lynch",
+        "duración": "124 min",
+        "actores": "Anthony Hopkins, John Hurt, Anne Bancroft, John Gielgud, Wendy Hiller",
+        "sinopsis": "A finales del siglo XIX, el doctor Frederick Treves descubre en un circo a un hombre llamado John Merrick. Se trata de un ciudadano británico con la cabeza monstruosamente deformada, que vive en una situación de constante humillación y sufrimiento al ser exhibido diariamente como una atracción de feria.",
+        "año": "1980"
+    },
+    {
+        "título": "El hombre elefante",
+        "cartel": "imagenes_peliculas/tmdb_el_hombre_elefante.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-07-23",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=85930&eventCode=99774"
             }
         ],
         "cine": "Golem Yamaguchi",
