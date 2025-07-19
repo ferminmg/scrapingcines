@@ -1,837 +1,5 @@
 [
   {
-    "id": 1083433,
-    "tmdb_id": 1083433,
-    "título": "Sé lo que hicisteis el último verano",
-    "título_original": "I Know What You Did Last Summer",
-    "sinopsis": "Un grupo de amigos está aterrorizado por un acosador que conoce un incidente espantoso de su pasado.",
-    "poster_path": "/mGcovsd7S72nzB2W2tUkK9EcjAf.jpg",
-    "poster_local": "imagenes_estrenos/S__lo_que_hicisteis_el__ltimo_verano_gEYgEUghllhEeaORejMX7sNEwCJ.jpg",
-    "backdrop_path": "/djkxDBzBEL3xShrtpJP17L8V2U3.jpg",
-    "backdrop_local": "imagenes_estrenos/S__lo_que_hicisteis_el__ltimo_verano_backdrop_djkxDBzBEL3xShrtpJP17L8V2U3.jpg",
-    "fecha_estreno": "2025-07-18T00:00:00.000Z",
-    "duración": "111 min",
-    "director": "Jennifer Kaytin Robinson",
-    "directores": [
-      {
-        "name": "Jennifer Kaytin Robinson",
-        "id": 1721377
-      }
-    ],
-    "actores": [
-      {
-        "name": "Chase Sui Wonders",
-        "id": 2420169,
-        "character": "Ava Brucks",
-        "profile_path": "/e89eEhNUIfMawLNdJ3jXft8AAMF.jpg"
-      },
-      {
-        "name": "Madelyn Cline",
-        "id": 1642789,
-        "character": "Danica Richards",
-        "profile_path": "/9pVpUGJdOEmQKhJy1IPqGoVB3Q7.jpg"
-      },
-      {
-        "name": "Jonah Hauer-King",
-        "id": 1599391,
-        "character": "Milo Griffin",
-        "profile_path": "/7MWSV7gg8OQqOirQyWMBr8aQt3G.jpg"
-      },
-      {
-        "name": "Tyriq Withers",
-        "id": 3052321,
-        "character": "Teddy Spencer",
-        "profile_path": "/lwdIoyA2V9cAQf8rWDijINLsA9O.jpg"
-      },
-      {
-        "name": "Sarah Pidgeon",
-        "id": 2286541,
-        "character": "Stevie Ward",
-        "profile_path": "/wMj4WykLKTc6iHIYiXnho6jeYN1.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      },
-      {
-        "id": 9648,
-        "name": "Misterio"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 19.4739,
-    "puntuación": 8.4,
-    "votos": 5,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/djkxDBzBEL3xShrtpJP17L8V2U3.jpg",
-          "vote_average": 5.25,
-          "vote_count": 8,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/hniP6c6Tss51qKc5vYMycDBDf9P.jpg",
-          "vote_average": 3.334,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/nmnx8WWGQsqwGNrd9oiS8EsN6e6.jpg",
-          "vote_average": 3.334,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/jXVQS9BXTajzdYeor3PBqkljmWk.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/4R8wP5rqqhklo8NSkQn3wHJvfhj.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/lu6NcSWXI7Xh2J9zJolu2iH5qbl.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/r8qbEVlwcDcuuHCKfWBlXM70uLB.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/afzZbjaClK53pzZiCYUQ92ivPbq.jpg",
-          "vote_average": 0.0,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.666,
-          "height": 2288,
-          "iso_639_1": null,
-          "file_path": "/uBsWrx7UrZe7ZSqJVcxRvJc9l5C.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1524
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 2652,
-          "iso_639_1": null,
-          "file_path": "/xOJfMVIe5OSnqk7ryTxWy6Uf6Wx.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1768
-        }
-      ]
-    },
-    "última_actualización": "2025-07-15 22:02:27"
-  },
-  {
-    "id": 1003504,
-    "tmdb_id": 1003504,
-    "título": "Bon voyage, Marie",
-    "título_original": "On ira",
-    "sinopsis": "",
-    "poster_path": "/lmMB37su4Nq4RipDoxBM06bqg9L.jpg",
-    "poster_local": "imagenes_estrenos/Bn_voyage__Marie_lmMB37su4Nq4RipDoxBM06bqg9L.jpg",
-    "backdrop_path": "/q2eG7uym3RukEwsqWDD3lIyL8Z9.jpg",
-    "backdrop_local": "imagenes_estrenos/Bn_voyage__Marie_backdrop_q2eG7uym3RukEwsqWDD3lIyL8Z9.jpg",
-    "fecha_estreno": "2025-07-18T00:00:00.000Z",
-    "duración": "97 min",
-    "director": "Enya Baroux",
-    "directores": [
-      {
-        "name": "Enya Baroux",
-        "id": 2032919
-      }
-    ],
-    "actores": [
-      {
-        "name": "Hélène Vincent",
-        "id": 1141,
-        "character": "Marie",
-        "profile_path": "/lJJ9WjZJI6cVCpFTsXoHqSDW23v.jpg"
-      },
-      {
-        "name": "Pierre Lottin",
-        "id": 544685,
-        "character": "Rudy",
-        "profile_path": "/1d0CBRIjScO7AUkQAqPcaRuC9Mg.jpg"
-      },
-      {
-        "name": "David Ayala",
-        "id": 1636467,
-        "character": "Bruno",
-        "profile_path": "/g1FlhpnXANAvr80osb0rpazI5V6.jpg"
-      },
-      {
-        "name": "Juliette Gasquet",
-        "id": 3936734,
-        "character": "Anna",
-        "profile_path": "/eoNHYcLKFl1ao3gCsGNEPX8tVkW.jpg"
-      },
-      {
-        "name": "Enya Baroux",
-        "id": 2032919,
-        "character": "L'influenceuse",
-        "profile_path": "/nG2UL3cOG0syBYkQNroGhA3L8a3.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 4.3882,
-    "puntuación": 7.359,
-    "votos": 71,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/q2eG7uym3RukEwsqWDD3lIyL8Z9.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/bVIGnzMjMHuJDQsSaVG5vLP6pQE.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/oTai2zngbGbAIuq9wGZvtXyuoJF.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-07-15 22:02:28"
-  },
-  {
-    "id": 1169789,
-    "tmdb_id": 1169789,
-    "título": "Un \"like\" de Bob Trevino",
-    "título_original": "Bob Trevino Likes It",
-    "sinopsis": "Tras buscar a su padre en Internet, una joven que se siente atraída por la gente establece inesperadamente un estrecho vínculo con un hombre afligido y sin hijos que se llama igual que su padre en Facebook. Inspirada en una historia real.",
-    "poster_path": "/22TqqVfuSrZhPIdtpnNm92sQ4cS.jpg",
-    "poster_local": "imagenes_estrenos/Un__like__de_Bob_Trevino_klnOORuufcSysfWDR7dsO0LTAvF.jpg",
-    "backdrop_path": "/m0VOz5KTHxGZB5iegG48U5EjHQD.jpg",
-    "backdrop_local": "imagenes_estrenos/Un__like__de_Bob_Trevino_backdrop_m0VOz5KTHxGZB5iegG48U5EjHQD.jpg",
-    "fecha_estreno": "2025-07-18T00:00:00.000Z",
-    "duración": "102 min",
-    "director": "Tracie Laymon",
-    "directores": [
-      {
-        "name": "Tracie Laymon",
-        "id": 2826360
-      }
-    ],
-    "actores": [
-      {
-        "name": "Barbie Ferreira",
-        "id": 2340185,
-        "character": "Lily Trevino",
-        "profile_path": "/kl59GoAbazPffmmZtSLZmUQCK6S.jpg"
-      },
-      {
-        "name": "John Leguizamo",
-        "id": 5723,
-        "character": "Bob Trevino",
-        "profile_path": "/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
-      },
-      {
-        "name": "French Stewart",
-        "id": 67711,
-        "character": "Robert",
-        "profile_path": "/5c1YaxSkFmwsqEnL7ARyQw2FQ3D.jpg"
-      },
-      {
-        "name": "Lauren 'Lolo' Spencer",
-        "id": 2198941,
-        "character": "Daphne",
-        "profile_path": "/5Dot27yaI6m4HYhkYDZGQpTA77f.jpg"
-      },
-      {
-        "name": "Rachel Bay Jones",
-        "id": 2138774,
-        "character": "Jeanie",
-        "profile_path": "/tpRPZq95tM9v1GOzDYtxPu4isPq.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 3.3812,
-    "puntuación": 7.421,
-    "votos": 38,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/m0VOz5KTHxGZB5iegG48U5EjHQD.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/uFZFLUtbHJDY7S7I7QARz83QXKG.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/5T21iuLXRMywQR68rQcVFHWFjEZ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/hIagBMj5FR6lVSwbFVaLLRsjEid.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/ksur0bA9lOkPcBpsHdRvU42OCNz.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1500,
-          "iso_639_1": null,
-          "file_path": "/dFjA9Cka87umGBLiqLMwNyxsxt3.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 900,
-          "iso_639_1": null,
-          "file_path": "/tGSaMAwXHgdTAqPEY4m5S9WoYQE.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 600
-        }
-      ]
-    },
-    "última_actualización": "2025-07-15 22:02:28"
-  },
-  {
-    "id": 887180,
-    "tmdb_id": 887180,
-    "título": "Matt and Mara",
-    "título_original": "Matt and Mara",
-    "sinopsis": "",
-    "poster_path": "/qeyNyRSCwgXgRAg9cwoYr4qN1EY.jpg",
-    "poster_local": "imagenes_estrenos/Matt_and_Mara_qeyNyRSCwgXgRAg9cwoYr4qN1EY.jpg",
-    "backdrop_path": "/zbhs099mZdsQheqnpgSpANfFDFU.jpg",
-    "backdrop_local": "imagenes_estrenos/Matt_and_Mara_backdrop_zbhs099mZdsQheqnpgSpANfFDFU.jpg",
-    "fecha_estreno": "2025-07-18T00:00:00.000Z",
-    "duración": "80 min",
-    "director": "Kazik Radwanski",
-    "directores": [
-      {
-        "name": "Kazik Radwanski",
-        "id": 1081569
-      }
-    ],
-    "actores": [
-      {
-        "name": "Deragh Campbell",
-        "id": 1049919,
-        "character": "Mara",
-        "profile_path": "/4EWpsyfKr2FR0OL84dl5Vqcuq8Z.jpg"
-      },
-      {
-        "name": "Matt Johnson",
-        "id": 1144092,
-        "character": "Matt",
-        "profile_path": "/iOiDGPElqDLCDdoMLTDFsaG3aSl.jpg"
-      },
-      {
-        "name": "Mounir al Shami",
-        "id": 4494283,
-        "character": "Samir",
-        "profile_path": null
-      },
-      {
-        "name": "Emma Healey",
-        "id": 2474610,
-        "character": "Emma",
-        "profile_path": null
-      },
-      {
-        "name": "Avery Nayman",
-        "id": 4494284,
-        "character": "Avery",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 1.2435,
-    "puntuación": 6.852,
-    "votos": 27,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/zbhs099mZdsQheqnpgSpANfFDFU.jpg",
-          "vote_average": 3.334,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/dnO9T6GrycQ0lDTQfWynpAx5LMO.jpg",
-          "vote_average": 2.542,
-          "vote_count": 4,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/aVG37ZtWVIaQ9krUwM4Bg8lUVoN.jpg",
-          "vote_average": 2.066,
-          "vote_count": 5,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/7tcNwKAYPECwNi1PUgHg38E2hrI.jpg",
-          "vote_average": 1.75,
-          "vote_count": 4,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/x0KdSgc2Cnd8gIdHP0tynaEyeIT.jpg",
-          "vote_average": 1.75,
-          "vote_count": 4,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/aXurQAKYSkcXYsDx2aqbGwM9XK1.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-07-15 22:02:29"
-  },
-  {
-    "id": 1108336,
-    "tmdb_id": 1108336,
-    "título": "Diamante en bruto",
-    "título_original": "Diamant brut",
-    "sinopsis": "",
-    "poster_path": "/jxpcCCtQOqGj02mVBVyVtUSHI7X.jpg",
-    "poster_local": "imagenes_estrenos/Diamante_en_bruto_jxpcCCtQOqGj02mVBVyVtUSHI7X.jpg",
-    "backdrop_path": "/wG3uiJk5nYW96iImXnnpWaLZ03m.jpg",
-    "backdrop_local": "imagenes_estrenos/Diamante_en_bruto_backdrop_wG3uiJk5nYW96iImXnnpWaLZ03m.jpg",
-    "fecha_estreno": "2025-07-18T00:00:00.000Z",
-    "duración": "103 min",
-    "director": "Agathe Riedinger",
-    "directores": [
-      {
-        "name": "Agathe Riedinger",
-        "id": 2223326
-      }
-    ],
-    "actores": [
-      {
-        "name": "Malou Khebizi",
-        "id": 3992572,
-        "character": "Liane",
-        "profile_path": "/qoMvNb8vfEJ8SSzx94IIj8bobKd.jpg"
-      },
-      {
-        "name": "Idir Azougli",
-        "id": 2024090,
-        "character": "Dino",
-        "profile_path": "/Ai6dsG4qtbUsXDEXx0Yd0Y7llpb.jpg"
-      },
-      {
-        "name": "Andréa Bescond",
-        "id": 1916259,
-        "character": "Sabine",
-        "profile_path": "/mZHtrSEdOiNF3jkKSv7qKUef1pG.jpg"
-      },
-      {
-        "name": "Ashley Romano",
-        "id": 4566616,
-        "character": "Alicia",
-        "profile_path": null
-      },
-      {
-        "name": "Alexis Manenti",
-        "id": 1710851,
-        "character": "Nathan",
-        "profile_path": "/n9YW0FkKhxlwMhFQz3U2OokuWFZ.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 1.0996,
-    "puntuación": 6.444,
-    "votos": 63,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/wG3uiJk5nYW96iImXnnpWaLZ03m.jpg",
-          "vote_average": 3.334,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1688,
-          "iso_639_1": null,
-          "file_path": "/4N51DxGxfN3r9j7eShUzPBo4ZiV.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 3000
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/porsI62IMq0AVqYfOfo3BveNOj7.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1800,
-          "iso_639_1": null,
-          "file_path": "/714y7zECZVXbZCmAbq35Aw57OYX.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 3200
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1800,
-          "iso_639_1": null,
-          "file_path": "/gW2X0msp8XyTD5IqsN4VrM0wP34.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 3200
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-07-15 22:02:29"
-  },
-  {
-    "id": 943414,
-    "tmdb_id": 943414,
-    "título": "Los domingos mueren más personas",
-    "título_original": "Los domingos mueren más personas",
-    "sinopsis": "David es un joven que vuelve a vivir a Buenos Aires con su familia para esperar la muerte de su padre, en estado vegetal desde hace años. David es un muchacho treintañero, judío, homosexual, de clase media y con miedo a volar en avión. Vuelve de su beca de estudio en Europa a Buenos Aires, por la muerte de un familiar. A su regreso, conviviendo con su madre en la casa de su infancia, se entera que ella ha decidido desenchufar a su padre luego de estar internado durante dos años en estado vegetativo.",
-    "poster_path": "/cYkUyZMdvvcreDz9fTP8e7eUJFv.jpg",
-    "poster_local": "imagenes_estrenos/Los_domingos_mueren_m_s_personas_cYkUyZMdvvcreDz9fTP8e7eUJFv.jpg",
-    "backdrop_path": "/649dDJWcWziBfnmcAxJqrMEmOAP.jpg",
-    "backdrop_local": "imagenes_estrenos/Los_domingos_mueren_m_s_personas_backdrop_649dDJWcWziBfnmcAxJqrMEmOAP.jpg",
-    "fecha_estreno": "2025-07-18T00:00:00.000Z",
-    "duración": "75 min",
-    "director": "Iair Said",
-    "directores": [
-      {
-        "name": "Iair Said",
-        "id": 1882871
-      }
-    ],
-    "actores": [
-      {
-        "name": "Iair Said",
-        "id": 1882871,
-        "character": "David",
-        "profile_path": "/AdjK38mrVT4m4GwyuBMnHjCeq4N.jpg"
-      },
-      {
-        "name": "Rita Cortese",
-        "id": 99113,
-        "character": "Dora",
-        "profile_path": "/3CtvCjKbUPyWq5SLAbYeBbb9M8d.jpg"
-      },
-      {
-        "name": "Juliana Gattas",
-        "id": 1745728,
-        "character": "Elisa",
-        "profile_path": "/tEGFgs6rbhnd47kJqF9Ozc6qJQF.jpg"
-      },
-      {
-        "name": "Antonia Zegers",
-        "id": 141624,
-        "character": "Silvia",
-        "profile_path": "/6wd9Jb4kxSDfxWXMUWTgLEF8HiY.jpg"
-      },
-      {
-        "name": "Lucas Besasso",
-        "id": 2098973,
-        "character": "Gastón",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.8501,
-    "puntuación": 6.9,
-    "votos": 5,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 864,
-          "iso_639_1": null,
-          "file_path": "/649dDJWcWziBfnmcAxJqrMEmOAP.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1536
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2025,
-          "iso_639_1": null,
-          "file_path": "/Aw9f9go15dPIjhDincX9ehJrfpu.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3600
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/2pDhovmgyEyhXEIHecD49CBxs4h.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/1nUxE1HseFFMqaY98TMsuBsYYVs.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/kk18AN6uSkczngeYxHGSP1oPNIu.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-07-15 22:02:29"
-  },
-  {
-    "id": 1358831,
-    "tmdb_id": 1358831,
-    "título": "Voy a pasármelo mejor",
-    "título_original": "Voy a pasármelo mejor",
-    "sinopsis": "1992. Los Pitus ya tienen quince años y este verano se van de campamento para aprender inglés. Eso sí, lo hacen como aprendimos inglés a principios de los noventa: en un campamento no muy lejos de nuestra casa y con profesores españoles cuyo acento dejaba bastante que desear. En esas semanas los tres amigos vivirán un montón de nuevas aventuras, sobre todo amorosas, que son siempre las aventuras más importantes, especialmente a los quince años. Ah, y también cantarán y bailarán un montón de canciones de la época. Ellos no lo saben, pero será el mejor verano de su vida.",
-    "poster_path": "/1IeT1Xti8uUsdvnOdBfRCd5IjnD.jpg",
-    "poster_local": "imagenes_estrenos/Voy_a_pas_rmelo_mejor_1IeT1Xti8uUsdvnOdBfRCd5IjnD.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-07-18T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Ana de Alva",
-    "directores": [
-      {
-        "name": "Ana de Alva",
-        "id": 3108914
-      }
-    ],
-    "actores": [
-      {
-        "name": "Izan Fernández",
-        "id": 3622441,
-        "character": "David",
-        "profile_path": "/2kD88MpIgXvB9uUGnMjQFM58eLp.jpg"
-      },
-      {
-        "name": "Renata Hermida Richards",
-        "id": 4951650,
-        "character": "Layla",
-        "profile_path": null
-      },
-      {
-        "name": "Rodrigo Díaz",
-        "id": 4951656,
-        "character": "Paco",
-        "profile_path": null
-      },
-      {
-        "name": "Rodrigo Gibaja",
-        "id": 2365652,
-        "character": "Luis",
-        "profile_path": null
-      },
-      {
-        "name": "Michel Herráiz",
-        "id": 1966683,
-        "character": "Fernando 'El Cabra'",
-        "profile_path": "/ajje3FMj6JbnVESX1iHque5u01r.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 0.621,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2025-07-15 22:02:30"
-  },
-  {
     "id": 617126,
     "tmdb_id": 617126,
     "título": "Los Cuatro Fantásticos: Primeros pasos",
@@ -892,9 +60,9 @@
         "name": "Aventura"
       }
     ],
-    "popularidad": 70.2918,
-    "puntuación": 9.75,
-    "votos": 4,
+    "popularidad": 78.6387,
+    "puntuación": 9.6,
+    "votos": 5,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -994,7 +162,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:31"
+    "última_actualización": "2025-07-19 10:02:36"
   },
   {
     "id": 1096846,
@@ -1053,7 +221,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.79,
+    "popularidad": 0.8,
     "puntuación": 7.389,
     "votos": 36,
     "adulto": false,
@@ -1128,7 +296,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:33"
+    "última_actualización": "2025-07-19 10:02:37"
   },
   {
     "id": 1396371,
@@ -1191,7 +359,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.2291,
+    "popularidad": 0.2759,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1221,7 +389,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:34"
+    "última_actualización": "2025-07-19 10:02:38"
   },
   {
     "id": 1064307,
@@ -1292,9 +460,9 @@
         "name": "Aventura"
       }
     ],
-    "popularidad": 21.7354,
-    "puntuación": 6.5,
-    "votos": 16,
+    "popularidad": 21.1994,
+    "puntuación": 6.441,
+    "votos": 17,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1358,7 +526,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:31"
+    "última_actualización": "2025-07-19 10:02:36"
   },
   {
     "id": 1113120,
@@ -1421,7 +589,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 3.1638,
+    "popularidad": 2.525,
     "puntuación": 6.827,
     "votos": 52,
     "adulto": false,
@@ -1487,7 +655,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:32"
+    "última_actualización": "2025-07-19 10:02:36"
   },
   {
     "id": 1175267,
@@ -1550,7 +718,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 2.786,
+    "popularidad": 2.5489,
     "puntuación": 6.255,
     "votos": 51,
     "adulto": false,
@@ -1616,7 +784,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:32"
+    "última_actualización": "2025-07-19 10:02:37"
   },
   {
     "id": 1076555,
@@ -1679,7 +847,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.9112,
+    "popularidad": 0.9836,
     "puntuación": 6.1,
     "votos": 97,
     "adulto": false,
@@ -1754,7 +922,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:33"
+    "última_actualización": "2025-07-19 10:02:37"
   },
   {
     "id": 1341788,
@@ -1801,7 +969,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.048,
+    "popularidad": 0.047,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1821,7 +989,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:35"
+    "última_actualización": "2025-07-19 10:02:38"
   },
   {
     "id": 1338799,
@@ -1829,7 +997,7 @@
     "título": "JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie",
     "título_original": "劇場版総集編 呪術廻戦 懐玉・玉折",
     "sinopsis": "Perseguidos por una secta religiosa y otros usuarios de maldiciones, compañeros hechos enemigos Satoru Gojo y Suguru Geto son los únicos hechiceros capaces de proteger a Riko Amanai, una estudiante que ha sido designada para ser sacrificada como Recipiente de Plasma Estelar hasta que pueda cumplir con su deber, pero esta misión marcará sus destinos y desafiará a los dos hechiceros de formas inimaginables.",
-    "poster_path": "/gO0B3CwQ0gmLSFk9YwkNMvvvp0a.jpg",
+    "poster_path": "/xaQdh164coVcrNiQm6jpehYG1dV.jpg",
     "poster_local": "imagenes_estrenos/__________________gO0B3CwQ0gmLSFk9YwkNMvvvp0a.jpg",
     "backdrop_path": "/w8j0HVX7xasNVGAva2T3W4ncoN4.jpg",
     "backdrop_local": "imagenes_estrenos/__________________backdrop_w8j0HVX7xasNVGAva2T3W4ncoN4.jpg",
@@ -1888,7 +1056,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 10.9804,
+    "popularidad": 12.7247,
     "puntuación": 8.2,
     "votos": 5,
     "adulto": false,
@@ -1944,7 +1112,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-18 22:02:32"
+    "última_actualización": "2025-07-19 10:02:36"
   },
   {
     "id": 1151031,
@@ -2007,9 +1175,9 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 128.8494,
-    "puntuación": 7.421,
-    "votos": 273,
+    "popularidad": 123.0261,
+    "puntuación": 7.405,
+    "votos": 279,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2109,7 +1277,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:31"
+    "última_actualización": "2025-07-19 10:02:36"
   },
   {
     "id": 1175942,
@@ -2184,7 +1352,7 @@
         "name": "Animación"
       }
     ],
-    "popularidad": 19.3763,
+    "popularidad": 20.9261,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2286,7 +1454,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:31"
+    "última_actualización": "2025-07-19 10:02:36"
   },
   {
     "id": 1225572,
@@ -2349,7 +1517,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 2.5391,
+    "popularidad": 2.7664,
     "puntuación": 4.833,
     "votos": 39,
     "adulto": false,
@@ -2424,7 +1592,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:33"
+    "última_actualización": "2025-07-19 10:02:37"
   },
   {
     "id": 1210732,
@@ -2487,7 +1655,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 2.051,
+    "popularidad": 2.0483,
     "puntuación": 6.525,
     "votos": 177,
     "adulto": false,
@@ -2544,7 +1712,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:33"
+    "última_actualización": "2025-07-19 10:02:37"
   },
   {
     "id": 878607,
@@ -2603,7 +1771,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.1654,
+    "popularidad": 1.1163,
     "puntuación": 7.69,
     "votos": 21,
     "adulto": false,
@@ -2669,7 +1837,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:33"
+    "última_actualización": "2025-07-19 10:02:37"
   },
   {
     "id": 1243800,
@@ -2728,7 +1896,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.4617,
+    "popularidad": 0.3398,
     "puntuación": 6.9,
     "votos": 15,
     "adulto": false,
@@ -2766,7 +1934,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-18 22:02:34"
+    "última_actualización": "2025-07-19 10:02:37"
   },
   {
     "id": 1193421,
@@ -2829,7 +1997,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 0.3159,
+    "popularidad": 0.3051,
     "puntuación": 7.2,
     "votos": 123,
     "adulto": false,
@@ -2885,7 +2053,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-18 22:02:34"
+    "última_actualización": "2025-07-19 10:02:38"
   },
   {
     "id": 1254754,
@@ -2948,7 +2116,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 0.1295,
+    "popularidad": 0.2076,
     "puntuación": 10.0,
     "votos": 1,
     "adulto": false,
@@ -2968,7 +2136,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-18 22:02:34"
+    "última_actualización": "2025-07-19 10:02:38"
   },
   {
     "id": 1341125,
@@ -3004,7 +2172,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.0629,
+    "popularidad": 0.0772,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3024,7 +2192,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:35"
+    "última_actualización": "2025-07-19 10:02:38"
   },
   {
     "id": 1011477,
@@ -3091,9 +2259,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 542.4689,
-    "puntuación": 7.3,
-    "votos": 437,
+    "popularidad": 481.9314,
+    "puntuación": 7.276,
+    "votos": 442,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3193,7 +2361,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:31"
+    "última_actualización": "2025-07-19 10:02:36"
   },
   {
     "id": 1125257,
@@ -3216,41 +2384,37 @@
     ],
     "actores": [
       {
-        "name": "Lindsay Lohan",
-        "id": 49265,
-        "character": "Anna Coleman",
-        "profile_path": "/ltBiDGrteROUr5OMf5NVlcAymwW.jpg"
-      },
-      {
         "name": "Jamie Lee Curtis",
         "id": 8944,
         "character": "Tess Coleman",
         "profile_path": "/hOQXeDjTlPoTKc0TvJuNue7ZIuG.jpg"
       },
       {
+        "name": "Lindsay Lohan",
+        "id": 49265,
+        "character": "Anna Coleman",
+        "profile_path": "/ltBiDGrteROUr5OMf5NVlcAymwW.jpg"
+      },
+      {
         "name": "Julia Butters",
         "id": 1651362,
         "character": "Harper Coleman",
-        "profile_path": "/9JqtqDi2hsh3mOq2v5fc5HJB6T9.jpg"
+        "profile_path": "/jkpdX2kg8jlSYJYH3lDg0wP72fo.jpg"
       },
       {
         "name": "Sophia Hammons",
         "id": 2705566,
-        "character": "Lily Davies",
+        "character": "Lily Reyes",
         "profile_path": "/fgRdE3wyvkxhlIXhPSgGhJG1bQN.jpg"
       },
       {
-        "name": "Manny Jacinto",
-        "id": 1368795,
-        "character": "Eric Davies",
-        "profile_path": "/cjkZzaVR5StB4fqnl58NAOSsH0o.jpg"
+        "name": "Mark Harmon",
+        "id": 19728,
+        "character": "Ryan",
+        "profile_path": "/7M6M2Fbb5dZxY1wBhS5AYBw98PX.jpg"
       }
     ],
     "géneros": [
-      {
-        "id": 10751,
-        "name": "Familia"
-      },
       {
         "id": 14,
         "name": "Fantasía"
@@ -3258,9 +2422,13 @@
       {
         "id": 35,
         "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
       }
     ],
-    "popularidad": 17.6136,
+    "popularidad": 17.0705,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3326,7 +2494,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:31"
+    "última_actualización": "2025-07-19 10:02:36"
   },
   {
     "id": 1078605,
@@ -3389,7 +2557,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 12.1721,
+    "popularidad": 11.9227,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3403,7 +2571,7 @@
           "iso_639_1": null,
           "file_path": "/kyqM6padQzZ1eYxv84i9smNvZAG.jpg",
           "vote_average": 3.334,
-          "vote_count": 2,
+          "vote_count": 3,
           "width": 1920
         },
         {
@@ -3473,7 +2641,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:31"
+    "última_actualización": "2025-07-19 10:02:36"
   },
   {
     "id": 1092506,
@@ -3536,7 +2704,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 7.1738,
+    "popularidad": 7.0306,
     "puntuación": 6.114,
     "votos": 44,
     "adulto": false,
@@ -3602,7 +2770,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:32"
+    "última_actualización": "2025-07-19 10:02:36"
   },
   {
     "id": 1234591,
@@ -3616,15 +2784,15 @@
     "backdrop_local": "imagenes_estrenos/Mi_postre_favorito_backdrop_3p1bD9QYA41lb5MBijhYee70Fxz.jpg",
     "fecha_estreno": "2025-08-08T00:00:00.000Z",
     "duración": "97 min",
-    "director": "مریم مقدم, Behtash Sanaeeha",
+    "director": "Behtash Sanaeeha, مریم مقدم",
     "directores": [
-      {
-        "name": "مریم مقدم",
-        "id": 1152099
-      },
       {
         "name": "Behtash Sanaeeha",
         "id": 1901973
+      },
+      {
+        "name": "مریم مقدم",
+        "id": 1152099
       }
     ],
     "actores": [
@@ -3673,7 +2841,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 1.4553,
+    "popularidad": 1.4001,
     "puntuación": 7.4,
     "votos": 92,
     "adulto": false,
@@ -3729,7 +2897,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-18 22:02:33"
+    "última_actualización": "2025-07-19 10:02:37"
   },
   {
     "id": 659956,
@@ -3788,7 +2956,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.3996,
+    "popularidad": 1.5118,
     "puntuación": 6.1,
     "votos": 25,
     "adulto": false,
@@ -3863,7 +3031,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:33"
+    "última_actualización": "2025-07-19 10:02:37"
   },
   {
     "id": 1251717,
@@ -3926,7 +3094,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 0.8152,
+    "popularidad": 0.9203,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3946,7 +3114,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:33"
+    "última_actualización": "2025-07-19 10:02:37"
   },
   {
     "id": 563470,
@@ -4009,7 +3177,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 0.5183,
+    "popularidad": 0.56,
     "puntuación": 6.2,
     "votos": 5,
     "adulto": false,
@@ -4065,7 +3233,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-18 22:02:34"
+    "última_actualización": "2025-07-19 10:02:37"
   },
   {
     "id": 1311379,
@@ -4132,7 +3300,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.4229,
+    "popularidad": 0.6215,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4152,7 +3320,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:34"
+    "última_actualización": "2025-07-19 10:02:38"
   },
   {
     "id": 1170141,
@@ -4211,7 +3379,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.2912,
+    "popularidad": 0.2747,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4267,7 +3435,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-18 22:02:34"
+    "última_actualización": "2025-07-19 10:02:38"
   },
   {
     "id": 1294706,
@@ -4330,7 +3498,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.2549,
+    "popularidad": 0.4169,
     "puntuación": 6.5,
     "votos": 4,
     "adulto": false,
@@ -4396,7 +3564,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-18 22:02:34"
+    "última_actualización": "2025-07-19 10:02:38"
   },
   {
     "id": 1451296,
@@ -4455,7 +3623,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.0952,
+    "popularidad": 0.2441,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4475,6 +3643,6 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-18 22:02:34"
+    "última_actualización": "2025-07-19 10:02:38"
   }
 ]
