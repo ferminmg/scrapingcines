@@ -91,7 +91,7 @@
             {
                 "fecha": "2025-07-22",
                 "hora": "17:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86153&eventCode=100153"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2025-07-22",
@@ -246,6 +246,96 @@
         "actores": "Anthony Hopkins, John Hurt, Anne Bancroft, John Gielgud, Wendy Hiller",
         "sinopsis": "A finales del siglo XIX, el doctor Frederick Treves descubre en un circo a un hombre llamado John Merrick. Se trata de un ciudadano británico con la cabeza monstruosamente deformada, que vive en una situación de constante humillación y sufrimiento al ser exhibido diariamente como una atracción de feria.",
         "año": "1980"
+    },
+    {
+        "título": "Köln 75",
+        "cartel": "imagenes_peliculas/tmdb_koln_75.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-07-24",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86191&eventCode=100255"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Ido Fluk",
+        "duración": "116 min",
+        "actores": "Mala Emde, John Magaro, Michael Chernus, Jördis Triebel, Alexander Scheer",
+        "sinopsis": "La verdadera historia de Vera Brandes, una joven promotora de la escena musical de Colonia de los años 70, que lo arriesgó todo para organizar la más grande actuación en solitario de la historia de la música: el legendario concierto de Colonia del pianista de jazz Keith Jarret.",
+        "año": "2025"
+    },
+    {
+        "título": "Las irresponsables",
+        "cartel": "imagenes_peliculas/tmdb_las_irresponsables.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-07-24",
+                "hora": "18:25",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86194&eventCode=100259"
+            },
+            {
+                "fecha": "2025-07-24",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86196&eventCode=100259"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura Mañá",
+        "duración": "94 min",
+        "actores": "Laia Marull, Betsy Túrnez, Àgata Roca, Jordi Sánchez, Rut Llopis",
+        "sinopsis": "Núria, Lila y Andrea se disponen a pasar un fin de semana juntas, fuera de la ciudad, en una casa inteligente, de lujo  y llena de obras de arte que un amigo de Núria le ha dejado. Su grupo de WhatsApp arde repleto de buenas intenciones, pero la realidad es que a las tres les da mucha pereza…Todo cambia cuando una pregunta inocente las empuja a liberarse y a dejarse llevar por sus impulsos.",
+        "año": "2025"
+    },
+    {
+        "título": "Leer Lolita en Teherán",
+        "cartel": "imagenes_peliculas/tmdb_leer_lolita_en_teheran.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-07-24",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86198&eventCode=99269"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Eran Riklis",
+        "duración": "108 min",
+        "actores": "Golshifteh Farahani, Zar Amir Ebrahimi, Mina Kavani, Bahar Beihaghi, Isabella Nefar",
+        "sinopsis": "En el Irán postrevolucionario, donde los derechos y libertades de las mujeres están oprimidos, Azar, una valiente profesora reúne clandestinamente a siete alumnas para leer libros clásicos occidentales prohibidos, a pesar de los graves peligros que ello acarrea.",
+        "año": "2024"
+    },
+    {
+        "título": "Porco Rosso",
+        "cartel": "imagenes_peliculas/tmdb_porco_rosso.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-07-24",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86189&eventCode=100153"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Hayao Miyazaki",
+        "duración": "93 min",
+        "actores": "森山周一郎, 加藤登紀子, Bunshi Katsura Vi, Tsunehiko Kamijō, Akemi Okamura",
+        "sinopsis": "Periodo de entreguerras. Porco es un cerdo aviador que fustra todos los actos de piratería perpetrados por los piratas aéreos del Adriático. Éstos, decididos a acabar con el valiente y hábil Porco, se unen para contratar a un aventurero americano que le elimine de los aires donde las mafias operan",
+        "año": "1992"
+    },
+    {
+        "título": "Black Dog",
+        "cartel": "imagenes_peliculas/tmdb_black_dog.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-07-24",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86199&eventCode=99704"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Guan Hu",
+        "duración": "116 min",
+        "actores": "彭于晏, 佟麗婭, Jia Zhangke, 周游, Xiaoguang Hu",
+        "sinopsis": "",
+        "año": "2024"
     },
     {
         "título": "El hombre elefante",
