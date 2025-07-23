@@ -1,0 +1,55 @@
+2025-07-23 10:02:41,087 - INFO - Iniciando proceso de scraping
+2025-07-23 10:02:41,089 - INFO - Posts existentes encontrados: 2417
+2025-07-23 10:02:41,089 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-07-23 10:02:43,871 - INFO - Se encontraron 10 posts
+2025-07-23 10:02:43,871 - INFO - Comenzando extracción de información del post
+2025-07-23 10:02:43,872 - INFO - Título del post: BREVE HISTORIA DE UNA FAMILIA de Lin Jianjie
+2025-07-23 10:02:43,872 - INFO - Fecha del post: 2025-07-23T10:33:33+02:00
+2025-07-23 10:02:43,872 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/07/critica-de-breve-historia-de-una-familia-de-lin-jianjie.html
+2025-07-23 10:02:44,997 - INFO - Contenido extraído y estructurado (4361 caracteres)
+2025-07-23 10:02:44,997 - INFO - Guardando post en: posts/BREVE_HISTORIA_DE_UNA_FAMILIA_2025-07-23.json
+2025-07-23 10:02:44,998 - INFO - Post guardado exitosamente
+2025-07-23 10:02:44,998 - INFO - Actualizando índice de películas
+2025-07-23 10:02:44,998 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-07-23 10:02:45,001 - INFO - Índice existente cargado con 2517 películas
+2025-07-23 10:02:45,013 - INFO - Película agregada al índice: BREVE HISTORIA DE UNA FAMILIA
+2025-07-23 10:02:45,013 - INFO - Nuevo post guardado: BREVE HISTORIA DE UNA FAMILIA de Lin Jianjie
+2025-07-23 10:02:45,013 - INFO - Comenzando extracción de información del post
+2025-07-23 10:02:45,013 - INFO - Título del post: LA MERCANCÍA MÁS PRECIOSA de Michel Hazanavicius
+2025-07-23 10:02:45,013 - INFO - Fecha del post: 2025-07-23T10:22:22+02:00
+2025-07-23 10:02:45,013 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/07/critica-de-la-mercancia-mas-preciosa-de-michel-hazanavicius.html
+2025-07-23 10:02:46,239 - INFO - Contenido extraído y estructurado (2787 caracteres)
+2025-07-23 10:02:46,239 - INFO - Guardando post en: posts/LA_MERCANCÍA_MÁS_PRECIOSA_2025-07-23.json
+2025-07-23 10:02:46,239 - INFO - Post guardado exitosamente
+2025-07-23 10:02:46,239 - INFO - Actualizando índice de películas
+2025-07-23 10:02:46,239 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-07-23 10:02:46,243 - INFO - Índice existente cargado con 2518 películas
+2025-07-23 10:02:46,254 - INFO - Película agregada al índice: LA MERCANCÍA MÁS PRECIOSA
+2025-07-23 10:02:46,254 - INFO - Nuevo post guardado: LA MERCANCÍA MÁS PRECIOSA de Michel Hazanavicius
+2025-07-23 10:02:46,254 - INFO - Comenzando extracción de información del post
+2025-07-23 10:02:46,254 - INFO - Título del post: TRES AMIGAS de Emmanuel Mouret
+2025-07-23 10:02:46,254 - INFO - Fecha del post: 2025-07-23T10:12:24+02:00
+2025-07-23 10:02:46,254 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/07/critica-de-tres-amigas-de-emmanuel-mouret.html
+2025-07-23 10:02:47,542 - INFO - Contenido extraído y estructurado (2733 caracteres)
+2025-07-23 10:02:47,542 - INFO - Guardando post en: posts/TRES_AMIGAS_2025-07-23.json
+2025-07-23 10:02:47,542 - INFO - Post guardado exitosamente
+2025-07-23 10:02:47,542 - INFO - Actualizando índice de películas
+2025-07-23 10:02:47,542 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-07-23 10:02:47,546 - INFO - Índice existente cargado con 2519 películas
+2025-07-23 10:02:47,557 - INFO - Película agregada al índice: TRES AMIGAS
+2025-07-23 10:02:47,558 - INFO - Nuevo post guardado: TRES AMIGAS de Emmanuel Mouret
+2025-07-23 10:02:47,558 - INFO - Comenzando extracción de información del post
+2025-07-23 10:02:47,558 - INFO - Post ya existente, saltando: BLACK DOG de Guan Hu
+2025-07-23 10:02:47,558 - INFO - Comenzando extracción de información del post
+2025-07-23 10:02:47,558 - INFO - Post ya existente, saltando: F1: LA PELÍCULA de Joseph Kosinski
+2025-07-23 10:02:47,558 - INFO - Comenzando extracción de información del post
+2025-07-23 10:02:47,558 - INFO - Post ya existente, saltando: VOLVER A TI de Jeanette Nordahl
+2025-07-23 10:02:47,558 - INFO - Comenzando extracción de información del post
+2025-07-23 10:02:47,559 - INFO - Post ya existente, saltando: THE LAST SHOWGIRL de Gia Coppola
+2025-07-23 10:02:47,559 - INFO - Comenzando extracción de información del post
+2025-07-23 10:02:47,559 - INFO - Post ya existente, saltando: JULIETTE EN PRIMAVERA de Blandine Lenoir
+2025-07-23 10:02:47,559 - INFO - Comenzando extracción de información del post
+2025-07-23 10:02:47,559 - INFO - Post ya existente, saltando: RAMÓN Y RAMÓN de Salvador del Solar
+2025-07-23 10:02:47,559 - INFO - Comenzando extracción de información del post
+2025-07-23 10:02:47,559 - INFO - Post ya existente, saltando: A LA DERIVA de Jia Zhangke
+2025-07-23 10:02:47,559 - INFO - Proceso completado. Posts nuevos guardados: 3
