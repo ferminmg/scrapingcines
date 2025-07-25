@@ -1,397 +1,5 @@
 [
   {
-    "id": 617126,
-    "tmdb_id": 617126,
-    "título": "Los Cuatro Fantásticos: Primeros pasos",
-    "título_original": "The Fantastic Four: First Steps",
-    "sinopsis": "Con un mundo retrofuturista inspirado en los años 60 como telón de fondo, la Primera Familia de Marvel deberá hacer frente a su mayor desafío hasta la fecha. Obligados a buscar el equilibrio entre su papel de héroes y sus fuertes vínculos familiares, tendrán que defender la Tierra de un hambriento dios espacial llamado Galactus y su intrigante heraldo, Estela Plateada.",
-    "poster_path": "/u6iFFGcOXk4d6C5pZes1qRgU8Nt.jpg",
-    "poster_local": "imagenes_estrenos/Los_Cuatro_Fant_sticos__Primeros_pasos_u6iFFGcOXk4d6C5pZes1qRgU8Nt.jpg",
-    "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
-    "backdrop_local": "imagenes_estrenos/Los_Cuatro_Fant_sticos__Primeros_pasos_backdrop_unthV1mq9llhEinIMPcCUImFodt.jpg",
-    "fecha_estreno": "2025-07-24T00:00:00.000Z",
-    "duración": "115 min",
-    "director": "Matt Shakman",
-    "directores": [
-      {
-        "name": "Matt Shakman",
-        "id": 1212522
-      }
-    ],
-    "actores": [
-      {
-        "name": "Pedro Pascal",
-        "id": 1253360,
-        "character": "Reed Richards / Mister Fantastic",
-        "profile_path": "/9VYK7oxcqhjd5LAH6ZFJ3XzOlID.jpg"
-      },
-      {
-        "name": "Vanessa Kirby",
-        "id": 556356,
-        "character": "Sue Storm / The Invisible Woman",
-        "profile_path": "/a8a9U00KL2JJkkekzhNnueIGKKF.jpg"
-      },
-      {
-        "name": "Joseph Quinn",
-        "id": 1597365,
-        "character": "Johnny Storm / Human Torch",
-        "profile_path": "/zshhuioZaH8S5ZKdMcojzWi1ntl.jpg"
-      },
-      {
-        "name": "Ebon Moss-Bachrach",
-        "id": 21042,
-        "character": "Ben Grimm / The Thing",
-        "profile_path": "/xD8GVNayMpiTZxLfahy2DseYcQq.jpg"
-      },
-      {
-        "name": "Ralph Ineson",
-        "id": 202032,
-        "character": "Galactus",
-        "profile_path": "/sn3ONJw2pJxMHiCqPwvkaiWr5mc.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 878,
-        "name": "Ciencia ficción"
-      },
-      {
-        "id": 12,
-        "name": "Aventura"
-      }
-    ],
-    "popularidad": 115.1372,
-    "puntuación": 5.9,
-    "votos": 18,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
-          "vote_average": 7.19,
-          "vote_count": 8,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.781,
-          "height": 1833,
-          "iso_639_1": null,
-          "file_path": "/4b2mLlMMaMcZhvNvmPgwaFqme8Y.jpg",
-          "vote_average": 4.458,
-          "vote_count": 12,
-          "width": 3264
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1715,
-          "iso_639_1": null,
-          "file_path": "/unthV1mq9llhEinIMPcCUImFodt.jpg",
-          "vote_average": 3.666,
-          "vote_count": 24,
-          "width": 3050
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/g2Wzs93aF1LUFLxOJD7EbeZSGZt.jpg",
-          "vote_average": 3.5,
-          "vote_count": 19,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/3IgJReIyunq95ta86CTSOs9vAht.jpg",
-          "vote_average": 1.75,
-          "vote_count": 6,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/2oTQvKnE9qulAuEZlfWMktVpGNK.jpg",
-          "vote_average": 10.0,
-          "vote_count": 4,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/g4iSlC7W3SrQRkNw2fRizMBrmsu.jpg",
-          "vote_average": 8.034,
-          "vote_count": 5,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/tOX8vpYmRQzCviNl5TxTn4CqsZX.jpg",
-          "vote_average": 6.722,
-          "vote_count": 6,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/63ZbwVdLPG8zjyMCqvhzVtDdL0W.jpg",
-          "vote_average": 6.722,
-          "vote_count": 6,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/zYQkHiXPL9jewUfttwoqnRwN9OQ.jpg",
-          "vote_average": 6.722,
-          "vote_count": 6,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-07-22 22:02:29"
-  },
-  {
-    "id": 1096846,
-    "tmdb_id": 1096846,
-    "título": "Leer Lolita en Teheran",
-    "título_original": "Reading Lolita in Tehran",
-    "sinopsis": "En el Irán postrevolucionario, donde los derechos y libertades de las mujeres están oprimidos, Azar, una valiente profesora reúne clandestinamente a siete alumnas para leer libros clásicos occidentales prohibidos, a pesar de los graves peligros que ello acarrea.",
-    "poster_path": "/r4f3uSsiTpFFMH0PUiT0gNShqUh.jpg",
-    "poster_local": "imagenes_estrenos/Leer_Lolita_en_Teheran_r4f3uSsiTpFFMH0PUiT0gNShqUh.jpg",
-    "backdrop_path": "/7VaR9bGnX9PSgtiAPl6D5TchWeW.jpg",
-    "backdrop_local": "imagenes_estrenos/Leer_Lolita_en_Teheran_backdrop_7VaR9bGnX9PSgtiAPl6D5TchWeW.jpg",
-    "fecha_estreno": "2025-07-24T00:00:00.000Z",
-    "duración": "108 min",
-    "director": "Eran Riklis",
-    "directores": [
-      {
-        "name": "Eran Riklis",
-        "id": 53090
-      }
-    ],
-    "actores": [
-      {
-        "name": "Golshifteh Farahani",
-        "id": 229932,
-        "character": "Azar Nafisi",
-        "profile_path": "/DuAPmZxZlX25m57pJy16WbIyKM.jpg"
-      },
-      {
-        "name": "Zar Amir Ebrahimi",
-        "id": 1236122,
-        "character": "Sanaz",
-        "profile_path": "/dtrpzRUt1ZW8aFKBswArMYXaeZo.jpg"
-      },
-      {
-        "name": "Mina Kavani",
-        "id": 2260343,
-        "character": "Nassrin",
-        "profile_path": "/oqNXCEc6eaBgyuIpkJDmmIPsAwI.jpg"
-      },
-      {
-        "name": "Bahar Beihaghi",
-        "id": 2881595,
-        "character": "Mahshid",
-        "profile_path": "/nx3RA73vbVVFHw68o6AUzMGwqrZ.jpg"
-      },
-      {
-        "name": "Isabella Nefar",
-        "id": 1840837,
-        "character": "Yassi",
-        "profile_path": "/bEKjW2Yz8oG2m64PJdEhXmej257.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.8978,
-    "puntuación": 7.365,
-    "votos": 37,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/7VaR9bGnX9PSgtiAPl6D5TchWeW.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/kfrgPAJiVnpgXFORn6b3UtEr1iL.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/ln9C1lSbShM8RprReEv8pbcNQz9.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/cRtEKhanBszmJm4sBswX2ax7jaA.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/s2VVdqjI84f7Y5icdriyHG7GKCm.jpg",
-          "vote_average": 0.166,
-          "vote_count": 2,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_639_1": null,
-          "file_path": "/gCBByvo65bZYT64a3DAK2JOE1nW.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 500
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/26rXtcJf1JVw6gowe60Q4apcTVf.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-07-22 22:02:31"
-  },
-  {
-    "id": 1396371,
-    "tmdb_id": 1396371,
-    "título": "Las irresponsables",
-    "título_original": "Las irresponsables",
-    "sinopsis": "Núria, Lila y Andrea se disponen a pasar un fin de semana juntas, fuera de la ciudad, en una casa inteligente, de lujo  y llena de obras de arte que un amigo de Núria le ha dejado. Su grupo de WhatsApp arde repleto de buenas intenciones, pero la realidad es que a las tres les da mucha pereza…Todo cambia cuando una pregunta inocente las empuja a liberarse y a dejarse llevar por sus impulsos.",
-    "poster_path": "/epyaKcrFSOhd1UVLZYHR2bMshfF.jpg",
-    "poster_local": "imagenes_estrenos/Las_irresponsables_epyaKcrFSOhd1UVLZYHR2bMshfF.jpg",
-    "backdrop_path": "/d8rFsRuL5uDmlPg9gTBpe2pwCyw.jpg",
-    "backdrop_local": "imagenes_estrenos/Las_irresponsables_backdrop_d8rFsRuL5uDmlPg9gTBpe2pwCyw.jpg",
-    "fecha_estreno": "2025-07-24T00:00:00.000Z",
-    "duración": "94 min",
-    "director": "Laura Mañá",
-    "directores": [
-      {
-        "name": "Laura Mañá",
-        "id": 133526
-      }
-    ],
-    "actores": [
-      {
-        "name": "Laia Marull",
-        "id": 16974,
-        "character": "",
-        "profile_path": "/9UCGtbwtrgXuQSgznmXvVgKIEmQ.jpg"
-      },
-      {
-        "name": "Betsy Túrnez",
-        "id": 1621789,
-        "character": "",
-        "profile_path": "/oLrguHu0Er29T8QyhZ2R0mCGSQ0.jpg"
-      },
-      {
-        "name": "Àgata Roca",
-        "id": 1032556,
-        "character": "",
-        "profile_path": "/2Mc7AyIrr8hhhxLhTYRsJF7jM4S.jpg"
-      },
-      {
-        "name": "Jordi Sánchez",
-        "id": 560254,
-        "character": "",
-        "profile_path": "/mNB7etSWQng4c4AyycnNb5HC7a6.jpg"
-      },
-      {
-        "name": "Rut Llopis",
-        "id": 5094775,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.3127,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.779,
-          "height": 1011,
-          "iso_639_1": null,
-          "file_path": "/d8rFsRuL5uDmlPg9gTBpe2pwCyw.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1799
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.72,
-          "height": 1199,
-          "iso_639_1": null,
-          "file_path": "/67oSwNC8OATsTGarLSKNTcfDiZK.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 863
-        }
-      ]
-    },
-    "última_actualización": "2025-07-22 22:02:31"
-  },
-  {
     "id": 1064307,
     "tmdb_id": 1064307,
     "título": "Spermageddon",
@@ -1116,7 +724,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 12.8426,
+    "popularidad": 12.6609,
     "puntuación": 8.2,
     "votos": 5,
     "adulto": false,
@@ -1172,7 +780,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-24 22:02:21"
+    "última_actualización": "2025-07-25 10:02:23"
   },
   {
     "id": 1151031,
@@ -1186,15 +794,15 @@
     "backdrop_local": "imagenes_estrenos/Devu_lvemela_backdrop_5esDYWV0NoFwqPa1iC0g9akqZo9.jpg",
     "fecha_estreno": "2025-08-01T00:00:00.000Z",
     "duración": "104 min",
-    "director": "Danny Philippou, Michael Philippou",
+    "director": "Michael Philippou, Danny Philippou",
     "directores": [
-      {
-        "name": "Danny Philippou",
-        "id": 2070453
-      },
       {
         "name": "Michael Philippou",
         "id": 2070452
+      },
+      {
+        "name": "Danny Philippou",
+        "id": 2070453
       }
     ],
     "actores": [
@@ -1235,9 +843,9 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 105.9636,
-    "puntuación": 7.448,
-    "votos": 308,
+    "popularidad": 103.4383,
+    "puntuación": 7.443,
+    "votos": 314,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1337,7 +945,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-24 22:02:20"
+    "última_actualización": "2025-07-25 10:02:22"
   },
   {
     "id": 1175942,
@@ -1412,9 +1020,9 @@
         "name": "Animación"
       }
     ],
-    "popularidad": 25.9874,
-    "puntuación": 9.0,
-    "votos": 2,
+    "popularidad": 29.8108,
+    "puntuación": 9.3,
+    "votos": 3,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1514,7 +1122,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-24 22:02:20"
+    "última_actualización": "2025-07-25 10:02:23"
   },
   {
     "id": 1225572,
@@ -1577,7 +1185,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 2.2455,
+    "popularidad": 2.0807,
     "puntuación": 4.833,
     "votos": 39,
     "adulto": false,
@@ -1652,7 +1260,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-24 22:02:21"
+    "última_actualización": "2025-07-25 10:02:24"
   },
   {
     "id": 1210732,
@@ -1715,9 +1323,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 1.8318,
-    "puntuación": 6.525,
-    "votos": 177,
+    "popularidad": 1.5561,
+    "puntuación": 6.534,
+    "votos": 178,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1772,7 +1380,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-24 22:02:21"
+    "última_actualización": "2025-07-25 10:02:24"
   },
   {
     "id": 878607,
@@ -1831,9 +1439,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.1237,
-    "puntuación": 7.69,
-    "votos": 21,
+    "popularidad": 1.3426,
+    "puntuación": 7.659,
+    "votos": 22,
     "adulto": false,
     "video": false,
     "año": "2024",
@@ -1897,7 +1505,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-24 22:02:22"
+    "última_actualización": "2025-07-25 10:02:25"
   },
   {
     "id": 1193421,
@@ -1960,7 +1568,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 0.3971,
+    "popularidad": 0.4305,
     "puntuación": 7.206,
     "votos": 124,
     "adulto": false,
@@ -2016,7 +1624,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-24 22:02:22"
+    "última_actualización": "2025-07-25 10:02:25"
   },
   {
     "id": 1254754,
@@ -2079,7 +1687,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 0.2881,
+    "popularidad": 0.239,
     "puntuación": 10.0,
     "votos": 1,
     "adulto": false,
@@ -2099,7 +1707,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-24 22:02:22"
+    "última_actualización": "2025-07-25 10:02:26"
   },
   {
     "id": 1243800,
@@ -2158,7 +1766,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.2424,
+    "popularidad": 0.2733,
     "puntuación": 6.9,
     "votos": 15,
     "adulto": false,
@@ -2196,7 +1804,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-24 22:02:23"
+    "última_actualización": "2025-07-25 10:02:27"
   },
   {
     "id": 1341125,
@@ -2232,7 +1840,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.0482,
+    "popularidad": 0.1156,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2252,7 +1860,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-24 22:02:23"
+    "última_actualización": "2025-07-25 10:02:28"
   },
   {
     "id": 1011477,
@@ -2319,9 +1927,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 339.016,
-    "puntuación": 7.231,
-    "votos": 526,
+    "popularidad": 317.8487,
+    "puntuación": 7.23,
+    "votos": 532,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2421,7 +2029,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-24 22:02:20"
+    "última_actualización": "2025-07-25 10:02:22"
   },
   {
     "id": 1125257,
@@ -2488,7 +2096,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 16.5631,
+    "popularidad": 17.2148,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2554,7 +2162,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-24 22:02:21"
+    "última_actualización": "2025-07-25 10:02:23"
   },
   {
     "id": 1078605,
@@ -2617,7 +2225,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 15.0361,
+    "popularidad": 15.545,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2701,7 +2309,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-24 22:02:21"
+    "última_actualización": "2025-07-25 10:02:23"
   },
   {
     "id": 1092506,
@@ -2764,7 +2372,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 6.3468,
+    "popularidad": 6.4873,
     "puntuación": 6.1,
     "votos": 45,
     "adulto": false,
@@ -2830,7 +2438,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-24 22:02:21"
+    "última_actualización": "2025-07-25 10:02:24"
   },
   {
     "id": 1234591,
@@ -2844,15 +2452,15 @@
     "backdrop_local": "imagenes_estrenos/Mi_postre_favorito_backdrop_3p1bD9QYA41lb5MBijhYee70Fxz.jpg",
     "fecha_estreno": "2025-08-08T00:00:00.000Z",
     "duración": "97 min",
-    "director": "مریم مقدم, Behtash Sanaeeha",
+    "director": "Behtash Sanaeeha, مریم مقدم",
     "directores": [
-      {
-        "name": "مریم مقدم",
-        "id": 1152099
-      },
       {
         "name": "Behtash Sanaeeha",
         "id": 1901973
+      },
+      {
+        "name": "مریم مقدم",
+        "id": 1152099
       }
     ],
     "actores": [
@@ -2901,7 +2509,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 1.4075,
+    "popularidad": 1.3145,
     "puntuación": 7.4,
     "votos": 92,
     "adulto": false,
@@ -2957,7 +2565,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-24 22:02:21"
+    "última_actualización": "2025-07-25 10:02:24"
   },
   {
     "id": 659956,
@@ -3016,7 +2624,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.2828,
+    "popularidad": 1.2549,
     "puntuación": 6.1,
     "votos": 25,
     "adulto": false,
@@ -3091,7 +2699,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-24 22:02:21"
+    "última_actualización": "2025-07-25 10:02:25"
   },
   {
     "id": 1251717,
@@ -3154,7 +2762,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 0.6987,
+    "popularidad": 0.7798,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3174,7 +2782,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-24 22:02:22"
+    "última_actualización": "2025-07-25 10:02:25"
   },
   {
     "id": 1311379,
@@ -3241,7 +2849,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.3596,
+    "popularidad": 0.4313,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3261,7 +2869,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-24 22:02:22"
+    "última_actualización": "2025-07-25 10:02:26"
   },
   {
     "id": 563470,
@@ -3324,7 +2932,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 0.2754,
+    "popularidad": 0.3282,
     "puntuación": 6.2,
     "votos": 5,
     "adulto": false,
@@ -3380,7 +2988,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-24 22:02:22"
+    "última_actualización": "2025-07-25 10:02:27"
   },
   {
     "id": 1294706,
@@ -3443,7 +3051,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.1683,
+    "popularidad": 0.1701,
     "puntuación": 6.5,
     "votos": 4,
     "adulto": false,
@@ -3509,7 +3117,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-24 22:02:23"
+    "última_actualización": "2025-07-25 10:02:27"
   },
   {
     "id": 1170141,
@@ -3568,7 +3176,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.1422,
+    "popularidad": 0.0992,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3624,7 +3232,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-24 22:02:23"
+    "última_actualización": "2025-07-25 10:02:28"
   },
   {
     "id": 1451296,
@@ -3683,7 +3291,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.1,
+    "popularidad": 0.0846,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3703,7 +3311,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-07-24 22:02:23"
+    "última_actualización": "2025-07-25 10:02:28"
   },
   {
     "id": 1136867,
@@ -3766,9 +3374,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 117.3064,
-    "puntuación": 7.0,
-    "votos": 140,
+    "popularidad": 119.6993,
+    "puntuación": 6.844,
+    "votos": 154,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3868,7 +3476,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-24 22:02:20"
+    "última_actualización": "2025-07-25 10:02:22"
   },
   {
     "id": 1285965,
@@ -3931,9 +3539,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 45.0578,
-    "puntuación": 6.854,
-    "votos": 41,
+    "popularidad": 107.0802,
+    "puntuación": 6.811,
+    "votos": 53,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -4012,10 +3620,19 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 1920
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1536,
+          "iso_639_1": null,
+          "file_path": "/8VqwOsGpnZrk29bT3kUcIQlXQAs.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1024
         }
       ]
     },
-    "última_actualización": "2025-07-24 22:02:20"
+    "última_actualización": "2025-07-25 10:02:22"
   },
   {
     "id": 1007734,
@@ -4078,7 +3695,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 8.3664,
+    "popularidad": 8.776,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4162,7 +3779,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-24 22:02:21"
+    "última_actualización": "2025-07-25 10:02:24"
   },
   {
     "id": 1318691,
@@ -4233,7 +3850,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 0.3406,
+    "popularidad": 0.2813,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4253,7 +3870,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-24 22:02:22"
+    "última_actualización": "2025-07-25 10:02:26"
   },
   {
     "id": 1244112,
@@ -4320,7 +3937,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 0.3196,
+    "popularidad": 0.5052,
     "puntuación": 6.2,
     "votos": 6,
     "adulto": false,
@@ -4359,7 +3976,7 @@
         }
       ]
     },
-    "última_actualización": "2025-07-24 22:02:22"
+    "última_actualización": "2025-07-25 10:02:26"
   },
   {
     "id": 1462904,
@@ -4418,7 +4035,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.1702,
+    "popularidad": 0.1388,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4428,6 +4045,6 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-07-24 22:02:23"
+    "última_actualización": "2025-07-25 10:02:27"
   }
 ]
