@@ -1,5 +1,23 @@
 [
     {
+        "título": "El golpe",
+        "cartel": "imagenes_filmoteca/tmdb_El_golpe.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-07-29",
+                "hora": "21:15",
+                "enlace_entradas": "https://www.bacantix.com/Entradas/WebForms/Forms/Evento.aspx?id=Baluarte&Recinto=000119&Sala=006&Espectaculo=2024/2025ZIN&TituloEspectaculo=ZINEMA+BEACH+2025&ActivePage=1"
+            }
+        ],
+        "cine": "Filmoteca de Navarra",
+        "tmdb_id": 9277,
+        "director": "George Roy Hill",
+        "duración": "122 min",
+        "actores": "Paul Newman, Robert Redford, Robert Shaw, Charles Durning, Ray Walston",
+        "sinopsis": "En Illinois, en 1936, dos ladrones dan un golpe a un hombre de confianza de un gángster y se embolsan un montón de dinero. El gángster decide vengarse y mata a uno de los que dieron el golpe, mientras que el otro logra escapar y entra en contacto con un ex compinche. Los dos deciden intentar un gran timo que hará temblar las finanzas del jefe de la mafia.",
+        "año": "1973"
+    },
+    {
         "título": "Grease",
         "cartel": "imagenes_filmoteca/tmdb_Grease.jpg",
         "horarios": [
