@@ -1,22 +1,5 @@
 [
     {
-        "título": "Jujutsu Kaisen: El tesoro escondido",
-        "cartel": "imagenes_filmaffinity/jujutsu-kaisen-el-tesoro-escondido.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-07-31",
-                "hora": "20:10",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=19375"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
-    },
-    {
         "título": "Los tipos malos 2",
         "cartel": "imagenes_filmaffinity/tmdb_los-tipos-malos-2.jpg",
         "horarios": [
@@ -83,5 +66,27 @@
         "actores": "Julia Garner, Josh Brolin, Alden Ehrenreich, Benedict Wong, Toby Huss",
         "sinopsis": "Cuando todos menos uno de los niños de la misma clase desaparecen misteriosamente en la misma noche exactamente al mismo tiempo, una comunidad se queda cuestionando quién o qué está detrás de su desaparición.",
         "año": "2025"
+    },
+    {
+        "título": "Tiburón (50 Aniversario)",
+        "cartel": "imagenes_filmaffinity/tiburon-50-aniversario.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-08-29",
+                "hora": "17:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=19766"
+            },
+            {
+                "fecha": "2025-09-02",
+                "hora": "19:30",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=19779"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
     }
 ]
