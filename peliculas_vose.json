@@ -73,6 +73,11 @@
         "horarios": [
             {
                 "fecha": "2025-08-04",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86377&eventCode=100558"
+            },
+            {
+                "fecha": "2025-08-04",
                 "hora": "21:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86325&eventCode=100558"
             }
@@ -170,6 +175,28 @@
         "año": "1992"
     },
     {
+        "título": "Ponyo en el Acantilado",
+        "cartel": "imagenes_peliculas/tmdb_ponyo_en_el_acantilado.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-08-05",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86378&eventCode=100558"
+            },
+            {
+                "fecha": "2025-08-05",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86337&eventCode=100558"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Hayao Miyazaki",
+        "duración": "100 min",
+        "actores": "神月柚莉愛, 土井洋輝, 所ジョージ, 山口智子, 天海祐希",
+        "sinopsis": "La historia se centra en Sosuke, un niño de 5 años, y su relación con una princesa pez que ansía convertirse en un ser humano. Libre adaptación de \"La sirenita\" que obtuvo muy buena acogida de la crítica en el Festival de Venecia 2008.",
+        "año": "2008"
+    },
+    {
         "título": "Las irresponsables",
         "cartel": "imagenes_peliculas/1753097837.jpg",
         "horarios": [
@@ -258,6 +285,11 @@
         "título": "Ponyo en el Acantilado",
         "cartel": "imagenes_peliculas/tmdb_ponyo_en_el_acantilado.jpg",
         "horarios": [
+            {
+                "fecha": "2025-08-06",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86379&eventCode=100558"
+            },
             {
                 "fecha": "2025-08-06",
                 "hora": "21:30",
@@ -360,6 +392,11 @@
         "título": "Ponyo en el Acantilado",
         "cartel": "imagenes_peliculas/tmdb_ponyo_en_el_acantilado.jpg",
         "horarios": [
+            {
+                "fecha": "2025-08-07",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86380&eventCode=100558"
+            },
             {
                 "fecha": "2025-08-07",
                 "hora": "21:30",
