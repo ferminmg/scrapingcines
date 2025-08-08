@@ -1539,7 +1539,7 @@
       }
     ],
     "popularidad": 69.6572,
-    "puntuación": 6.489,
+    "puntuación": 6.5,
     "votos": 132,
     "adulto": false,
     "video": false,
@@ -1622,7 +1622,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-08 10:02:18"
+    "última_actualización": "2025-08-08 22:02:15"
   },
   {
     "id": 1136867,
@@ -1686,8 +1686,8 @@
       }
     ],
     "popularidad": 62.7913,
-    "puntuación": 6.793,
-    "votos": 268,
+    "puntuación": 6.77,
+    "votos": 272,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1787,7 +1787,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-08 10:02:18"
+    "última_actualización": "2025-08-08 22:02:15"
   },
   {
     "id": 1007734,
@@ -1848,6 +1848,14 @@
       {
         "id": 53,
         "name": "Suspense"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
       }
     ],
     "popularidad": 11.3341,
@@ -1934,7 +1942,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-08 10:02:18"
+    "última_actualización": "2025-08-08 22:02:15"
   },
   {
     "id": 1153399,
@@ -1944,7 +1952,7 @@
     "sinopsis": "",
     "poster_path": "/kr36awqmziEI5mfUElsHB0pj9zP.jpg",
     "poster_local": "imagenes_estrenos/_____3ZYNYK8SxX8Kmi13WGdG1q54lgh.jpg",
-    "backdrop_path": "/thqnMXaGINOmm0096eGu7Z9iUvK.jpg",
+    "backdrop_path": "/bLn0CPzrrqFLicjNTgrzaIyE0gZ.jpg",
     "backdrop_local": "imagenes_estrenos/_____backdrop_thqnMXaGINOmm0096eGu7Z9iUvK.jpg",
     "fecha_estreno": "2025-08-14T00:00:00.000Z",
     "duración": "170 min",
@@ -1981,10 +1989,10 @@
         "profile_path": "/lcxwf2cFMmO2JH1fGULGzfBprk.jpg"
       },
       {
-        "name": "Shruti Haasan",
-        "id": 85883,
-        "character": "Preeti",
-        "profile_path": "/3hwWtOzgq2GF4j6uCbZvtk6Kjw2.jpg"
+        "name": "Sathyaraj",
+        "id": 581895,
+        "character": "Rajasekar",
+        "profile_path": "/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
       }
     ],
     "géneros": [
@@ -2013,6 +2021,33 @@
           "aspect_ratio": 1.778,
           "height": 2160,
           "iso_639_1": null,
+          "file_path": "/bLn0CPzrrqFLicjNTgrzaIyE0gZ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/btBN7iV1CT1R3sbMzPF0iz8nbnn.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2025,
+          "iso_639_1": null,
+          "file_path": "/6junzTa3Pc1gwWp4gbBPOYfKkSF.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3600
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
           "file_path": "/thqnMXaGINOmm0096eGu7Z9iUvK.jpg",
           "vote_average": 2.542,
           "vote_count": 4,
@@ -2026,33 +2061,6 @@
           "vote_average": 2.542,
           "vote_count": 4,
           "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/si5OYp0KVb5a7Y5XlLmjXyzHOtt.jpg",
-          "vote_average": 2.542,
-          "vote_count": 4,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/pAG8nMT5l11Nx8QU7XZ02GZBLih.jpg",
-          "vote_average": 2.542,
-          "vote_count": 4,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/itGjrAuueHx0La98noBKOYlK0GT.jpg",
-          "vote_average": 2.066,
-          "vote_count": 5,
-          "width": 3840
         }
       ],
       "posters": [
@@ -2064,10 +2072,137 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/horaqZT6aB8BC3xeNmQltE8WypN.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/9FIkFc8jkaZzdm6ckuREGUjmquo.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/wvwir3VltoKD2WbxlDLWJzH15kq.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/clexAqRguYIVCn7GdNVwzxE9syE.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
         }
       ]
     },
-    "última_actualización": "2025-08-08 10:02:18"
+    "última_actualización": "2025-08-08 22:02:15"
+  },
+  {
+    "id": 1318691,
+    "tmdb_id": 1318691,
+    "título": "Los Muértimer",
+    "título_original": "Los Muértimer",
+    "sinopsis": "Gabi llega desde Francia como estudiante de intercambio a un pequeño pueblo en el imaginario Valle de Murrieta, en el norte de España. Se aloja en casa de Nico Mortimer y de sus padres de este, Marisa y Sebastián Mortimer, que están al frente de la funeraria de la localidad, situada junto al cementerio municipal. Un día, Pol, el tallista de lápidas, les cuenta una de las muchas historias paranormales que oculta el cementerio y deciden investigar.",
+    "poster_path": "/tveUmniYWiZxE5CHWENSGIuZ7mJ.jpg",
+    "poster_local": "imagenes_estrenos/Los_Mu_rtimer_vm53WDLC8iwh9VDqLTiAASzBWjQ.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-08-14T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Álvaro Fernández Armero",
+    "directores": [
+      {
+        "name": "Álvaro Fernández Armero",
+        "id": 563824
+      }
+    ],
+    "actores": [
+      {
+        "name": "Diego Montejo",
+        "id": 4305033,
+        "character": "Nico Mortimer",
+        "profile_path": "/gUnznKhGmpvUQaC9yNQYXXzW2nk.jpg"
+      },
+      {
+        "name": "Iratxe Emparan",
+        "id": 3003304,
+        "character": "Gabi",
+        "profile_path": "/9a2Ft181YpYXJT5xbwt3UatFpyt.jpg"
+      },
+      {
+        "name": "Adrián Checa",
+        "id": 2848850,
+        "character": "Marc",
+        "profile_path": null
+      },
+      {
+        "name": "Bruna González",
+        "id": 1757603,
+        "character": "Sofía",
+        "profile_path": "/hXFu425GS3IZKiLXMFKeSQDkuGp.jpg"
+      },
+      {
+        "name": "Melani García",
+        "id": 4837948,
+        "character": "Raquel",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 0.5966,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.707,
+          "height": 1200,
+          "iso_639_1": null,
+          "file_path": "/vm53WDLC8iwh9VDqLTiAASzBWjQ.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 848
+        }
+      ]
+    },
+    "última_actualización": "2025-08-08 22:02:16"
   },
   {
     "id": 1244112,
@@ -2173,98 +2308,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-08 10:02:19"
-  },
-  {
-    "id": 1318691,
-    "tmdb_id": 1318691,
-    "título": "Los Muértimer",
-    "título_original": "Los Muértimer",
-    "sinopsis": "Gabi llega desde Francia como estudiante de intercambio a un pequeño pueblo en el imaginario Valle de Murrieta, en el norte de España. Se aloja en casa de Nico Mortimer y de sus padres de este, Marisa y Sebastián Mortimer, que están al frente de la funeraria de la localidad, situada junto al cementerio municipal. Un día, Pol, el tallista de lápidas, les cuenta una de las muchas historias paranormales que oculta el cementerio y deciden investigar.",
-    "poster_path": "/tveUmniYWiZxE5CHWENSGIuZ7mJ.jpg",
-    "poster_local": "imagenes_estrenos/Los_Mu_rtimer_vm53WDLC8iwh9VDqLTiAASzBWjQ.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-08-14T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Álvaro Fernández Armero",
-    "directores": [
-      {
-        "name": "Álvaro Fernández Armero",
-        "id": 563824
-      }
-    ],
-    "actores": [
-      {
-        "name": "Diego Montejo",
-        "id": 4305033,
-        "character": "Nico Mortimer",
-        "profile_path": "/gUnznKhGmpvUQaC9yNQYXXzW2nk.jpg"
-      },
-      {
-        "name": "Iratxe Emparan",
-        "id": 3003304,
-        "character": "Gabi",
-        "profile_path": "/9a2Ft181YpYXJT5xbwt3UatFpyt.jpg"
-      },
-      {
-        "name": "Adrián Checa",
-        "id": 2848850,
-        "character": "Marc",
-        "profile_path": null
-      },
-      {
-        "name": "Bruna González",
-        "id": 1757603,
-        "character": "Sofía",
-        "profile_path": "/hXFu425GS3IZKiLXMFKeSQDkuGp.jpg"
-      },
-      {
-        "name": "Melani García",
-        "id": 4837948,
-        "character": "Raquel",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 27,
-        "name": "Terror"
-      },
-      {
-        "id": 9648,
-        "name": "Misterio"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 0.5966,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.707,
-          "height": 1200,
-          "iso_639_1": null,
-          "file_path": "/vm53WDLC8iwh9VDqLTiAASzBWjQ.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 848
-        }
-      ]
-    },
-    "última_actualización": "2025-08-08 10:02:19"
+    "última_actualización": "2025-08-08 22:02:16"
   },
   {
     "id": 1462904,
@@ -2333,7 +2377,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-08-08 10:02:20"
+    "última_actualización": "2025-08-08 22:02:17"
   },
   {
     "id": 1035259,
@@ -2401,8 +2445,8 @@
       }
     ],
     "popularidad": 86.1343,
-    "puntuación": 7.092,
-    "votos": 120,
+    "puntuación": 7.057,
+    "votos": 123,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2414,7 +2458,7 @@
           "iso_639_1": null,
           "file_path": "/1wi1hcbl6KYqARjdQ4qrBWZdiau.jpg",
           "vote_average": 10.0,
-          "vote_count": 4,
+          "vote_count": 5,
           "width": 3840
         },
         {
@@ -2423,7 +2467,7 @@
           "iso_639_1": null,
           "file_path": "/g5BaB7tcZufpVBFN9E21kfILFeq.jpg",
           "vote_average": 4.458,
-          "vote_count": 12,
+          "vote_count": 13,
           "width": 2168
         },
         {
@@ -2502,7 +2546,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-08 10:02:17"
+    "última_actualización": "2025-08-08 22:02:15"
   },
   {
     "id": 757725,
@@ -2653,7 +2697,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-08 10:02:18"
+    "última_actualización": "2025-08-08 22:02:15"
   },
   {
     "id": 507244,
@@ -2730,7 +2774,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-08-08 10:02:18"
+    "última_actualización": "2025-08-08 22:02:15"
   },
   {
     "id": 975511,
@@ -2872,7 +2916,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-08 10:02:18"
+    "última_actualización": "2025-08-08 22:02:16"
   },
   {
     "id": 944931,
@@ -2880,7 +2924,7 @@
     "título": "Heidi. El rescate del lince",
     "título_original": "Heidi - Die Legende vom Luchs",
     "sinopsis": "",
-    "poster_path": "/34jyLIzJekbhTf5OIXsjQ5ITOmw.jpg",
+    "poster_path": "/29QgWSQ3fN8YV3dNx68kBESP4gE.jpg",
     "poster_local": "imagenes_estrenos/Heidi__El_rescate_del_lince_34jyLIzJekbhTf5OIXsjQ5ITOmw.jpg",
     "backdrop_path": "/zfjbzbB9Y421DK62XxJCiL2yGhD.jpg",
     "backdrop_local": "imagenes_estrenos/Heidi__El_rescate_del_lince_backdrop_zfjbzbB9Y421DK62XxJCiL2yGhD.jpg",
@@ -2909,7 +2953,7 @@
       }
     ],
     "popularidad": 1.012,
-    "puntuación": 7.667,
+    "puntuación": 7.7,
     "votos": 3,
     "adulto": false,
     "video": false,
@@ -2937,7 +2981,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-08 10:02:19"
+    "última_actualización": "2025-08-08 22:02:16"
   },
   {
     "id": 1370124,
@@ -3028,109 +3072,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-08 10:02:19"
-  },
-  {
-    "id": 1001684,
-    "tmdb_id": 1001684,
-    "título": "Niki",
-    "título_original": "Niki",
-    "sinopsis": "",
-    "poster_path": "/m2Do2c0tWxXRUCeqYkUzXb68FgV.jpg",
-    "poster_local": "imagenes_estrenos/Niki_m2Do2c0tWxXRUCeqYkUzXb68FgV.jpg",
-    "backdrop_path": "/oRKEvwoPgmbeL4DUw2BJu5q68tN.jpg",
-    "backdrop_local": "imagenes_estrenos/Niki_backdrop_oRKEvwoPgmbeL4DUw2BJu5q68tN.jpg",
-    "fecha_estreno": "2025-08-22T00:00:00.000Z",
-    "duración": "98 min",
-    "director": "Céline Sallette",
-    "directores": [
-      {
-        "name": "Céline Sallette",
-        "id": 72255
-      }
-    ],
-    "actores": [
-      {
-        "name": "Charlotte Le Bon",
-        "id": 1021684,
-        "character": "Niki de Saint Phalle",
-        "profile_path": "/gFxDFaeEDNjT9gKrQNB5GG8b8aM.jpg"
-      },
-      {
-        "name": "Damien Bonnard",
-        "id": 579211,
-        "character": "Jean Tinguely",
-        "profile_path": "/cN9L9PWztvkhvkAllldc3j07HtC.jpg"
-      },
-      {
-        "name": "John Robinson",
-        "id": 19197,
-        "character": "Harry Matthews",
-        "profile_path": "/qoNT5AaBO3JRMzySItJB8AVGSkj.jpg"
-      },
-      {
-        "name": "Quentin Dolmaire",
-        "id": 1451520,
-        "character": "Pierre Restany",
-        "profile_path": "/vHHMEJAOpr8xz36p7YnHrFDBCxx.jpg"
-      },
-      {
-        "name": "Judith Chemla",
-        "id": 72946,
-        "character": "Eva Aeppli",
-        "profile_path": "/duOQg0sLbFgJ7wKdoaivQ0tArDv.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 36,
-        "name": "Historia"
-      }
-    ],
-    "popularidad": 0.4167,
-    "puntuación": 6.2,
-    "votos": 38,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/oRKEvwoPgmbeL4DUw2BJu5q68tN.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/9WC4xKhbkjsdb2aOp40ZsS82v7j.jpg",
-          "vote_average": 0.166,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1500,
-          "iso_639_1": null,
-          "file_path": "/60hvhnWOXOe6NXsHzUclQ0qQlQS.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1000
-        }
-      ]
-    },
-    "última_actualización": "2025-08-08 10:02:19"
+    "última_actualización": "2025-08-08 22:02:16"
   },
   {
     "id": 1274751,
@@ -3255,7 +3197,109 @@
         }
       ]
     },
-    "última_actualización": "2025-08-08 10:02:19"
+    "última_actualización": "2025-08-08 22:02:17"
+  },
+  {
+    "id": 1001684,
+    "tmdb_id": 1001684,
+    "título": "Niki",
+    "título_original": "Niki",
+    "sinopsis": "",
+    "poster_path": "/m2Do2c0tWxXRUCeqYkUzXb68FgV.jpg",
+    "poster_local": "imagenes_estrenos/Niki_m2Do2c0tWxXRUCeqYkUzXb68FgV.jpg",
+    "backdrop_path": "/oRKEvwoPgmbeL4DUw2BJu5q68tN.jpg",
+    "backdrop_local": "imagenes_estrenos/Niki_backdrop_oRKEvwoPgmbeL4DUw2BJu5q68tN.jpg",
+    "fecha_estreno": "2025-08-22T00:00:00.000Z",
+    "duración": "98 min",
+    "director": "Céline Sallette",
+    "directores": [
+      {
+        "name": "Céline Sallette",
+        "id": 72255
+      }
+    ],
+    "actores": [
+      {
+        "name": "Charlotte Le Bon",
+        "id": 1021684,
+        "character": "Niki de Saint Phalle",
+        "profile_path": "/gFxDFaeEDNjT9gKrQNB5GG8b8aM.jpg"
+      },
+      {
+        "name": "Damien Bonnard",
+        "id": 579211,
+        "character": "Jean Tinguely",
+        "profile_path": "/cN9L9PWztvkhvkAllldc3j07HtC.jpg"
+      },
+      {
+        "name": "John Robinson",
+        "id": 19197,
+        "character": "Harry Matthews",
+        "profile_path": "/qoNT5AaBO3JRMzySItJB8AVGSkj.jpg"
+      },
+      {
+        "name": "Quentin Dolmaire",
+        "id": 1451520,
+        "character": "Pierre Restany",
+        "profile_path": "/vHHMEJAOpr8xz36p7YnHrFDBCxx.jpg"
+      },
+      {
+        "name": "Judith Chemla",
+        "id": 72946,
+        "character": "Eva Aeppli",
+        "profile_path": "/duOQg0sLbFgJ7wKdoaivQ0tArDv.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "popularidad": 0.4167,
+    "puntuación": 6.2,
+    "votos": 38,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/oRKEvwoPgmbeL4DUw2BJu5q68tN.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_639_1": null,
+          "file_path": "/9WC4xKhbkjsdb2aOp40ZsS82v7j.jpg",
+          "vote_average": 0.166,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_639_1": null,
+          "file_path": "/60hvhnWOXOe6NXsHzUclQ0qQlQS.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1000
+        }
+      ]
+    },
+    "última_actualización": "2025-08-08 22:02:17"
   },
   {
     "id": 1518257,
@@ -3338,103 +3382,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-08 10:02:20"
-  },
-  {
-    "id": 1293244,
-    "tmdb_id": 1293244,
-    "título": "Amor en cuatro letras",
-    "título_original": "Four Letters of Love",
-    "sinopsis": "Basado en la novela más vendida de Niall Williams. Nicholas e Isabel fueron hechos el uno para el otro, pero ¿cómo lo sabrán? Así como los fantasmas, el destino y el puro poder del amor verdadero los unen, la vida también amenaza con separarlos.",
-    "poster_path": "/q2cvZZmKow5dFzGVlixkC9tUo3C.jpg",
-    "poster_local": "imagenes_estrenos/Amor_en_cuatro_letras_q2cvZZmKow5dFzGVlixkC9tUo3C.jpg",
-    "backdrop_path": "/gcA4dwi8vFMPF0inS84j25kx69P.jpg",
-    "backdrop_local": "imagenes_estrenos/Amor_en_cuatro_letras_backdrop_gcA4dwi8vFMPF0inS84j25kx69P.jpg",
-    "fecha_estreno": "2025-08-29T00:00:00.000Z",
-    "duración": "110 min",
-    "director": "Polly Steele",
-    "directores": [
-      {
-        "name": "Polly Steele",
-        "id": 1702841
-      }
-    ],
-    "actores": [
-      {
-        "name": "Fionn O'Shea",
-        "id": 1118363,
-        "character": "Nicholas Coughlan",
-        "profile_path": "/9N6urqHr74JaBVfV227Wj4aDHL6.jpg"
-      },
-      {
-        "name": "Ann Skelly",
-        "id": 1429007,
-        "character": "Isabel Gore",
-        "profile_path": "/3GGcZVnhdAeJskoKZJg44CAIy6X.jpg"
-      },
-      {
-        "name": "Pierce Brosnan",
-        "id": 517,
-        "character": "William Coughlan",
-        "profile_path": "/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg"
-      },
-      {
-        "name": "Helena Bonham Carter",
-        "id": 1283,
-        "character": "Margaret Gore",
-        "profile_path": "/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
-      },
-      {
-        "name": "Gabriel Byrne",
-        "id": 5168,
-        "character": "Muiris Gore",
-        "profile_path": "/9r9oDGENg92VYYFMkV4C09IUlrb.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 10749,
-        "name": "Romance"
-      },
-      {
-        "id": 14,
-        "name": "Fantasía"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 3.5726,
-    "puntuación": 6.4,
-    "votos": 5,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/gcA4dwi8vFMPF0inS84j25kx69P.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.78,
-          "height": 863,
-          "iso_639_1": null,
-          "file_path": "/8dW3sbtLXpQ89fGzKwVKHEhtr0X.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1536
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-08-08 10:02:18"
+    "última_actualización": "2025-08-08 22:02:17"
   },
   {
     "id": 972533,
@@ -3599,7 +3547,103 @@
         }
       ]
     },
-    "última_actualización": "2025-08-08 10:02:18"
+    "última_actualización": "2025-08-08 22:02:15"
+  },
+  {
+    "id": 1293244,
+    "tmdb_id": 1293244,
+    "título": "Amor en cuatro letras",
+    "título_original": "Four Letters of Love",
+    "sinopsis": "Basado en la novela más vendida de Niall Williams. Nicholas e Isabel fueron hechos el uno para el otro, pero ¿cómo lo sabrán? Así como los fantasmas, el destino y el puro poder del amor verdadero los unen, la vida también amenaza con separarlos.",
+    "poster_path": "/q2cvZZmKow5dFzGVlixkC9tUo3C.jpg",
+    "poster_local": "imagenes_estrenos/Amor_en_cuatro_letras_q2cvZZmKow5dFzGVlixkC9tUo3C.jpg",
+    "backdrop_path": "/gcA4dwi8vFMPF0inS84j25kx69P.jpg",
+    "backdrop_local": "imagenes_estrenos/Amor_en_cuatro_letras_backdrop_gcA4dwi8vFMPF0inS84j25kx69P.jpg",
+    "fecha_estreno": "2025-08-29T00:00:00.000Z",
+    "duración": "110 min",
+    "director": "Polly Steele",
+    "directores": [
+      {
+        "name": "Polly Steele",
+        "id": 1702841
+      }
+    ],
+    "actores": [
+      {
+        "name": "Fionn O'Shea",
+        "id": 1118363,
+        "character": "Nicholas Coughlan",
+        "profile_path": "/9N6urqHr74JaBVfV227Wj4aDHL6.jpg"
+      },
+      {
+        "name": "Ann Skelly",
+        "id": 1429007,
+        "character": "Isabel Gore",
+        "profile_path": "/3GGcZVnhdAeJskoKZJg44CAIy6X.jpg"
+      },
+      {
+        "name": "Pierce Brosnan",
+        "id": 517,
+        "character": "William Coughlan",
+        "profile_path": "/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg"
+      },
+      {
+        "name": "Helena Bonham Carter",
+        "id": 1283,
+        "character": "Margaret Gore",
+        "profile_path": "/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+      },
+      {
+        "name": "Gabriel Byrne",
+        "id": 5168,
+        "character": "Muiris Gore",
+        "profile_path": "/9r9oDGENg92VYYFMkV4C09IUlrb.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 3.5726,
+    "puntuación": 6.4,
+    "votos": 5,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/gcA4dwi8vFMPF0inS84j25kx69P.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.78,
+          "height": 863,
+          "iso_639_1": null,
+          "file_path": "/8dW3sbtLXpQ89fGzKwVKHEhtr0X.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1536
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-08-08 22:02:15"
   },
   {
     "id": 1267905,
@@ -3764,7 +3808,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-08 10:02:18"
+    "última_actualización": "2025-08-08 22:02:16"
   },
   {
     "id": 1316147,
@@ -3887,126 +3931,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-08 10:02:19"
-  },
-  {
-    "id": 1312157,
-    "tmdb_id": 1312157,
-    "título": "Locamente",
-    "título_original": "FolleMente",
-    "sinopsis": "En su primera cita, Piero y Lara intentan impresionarse, pero dentro de sus cabezas reina el caos. Las múltiples personalidades que ocupan su mente — la romántica, la racional, la insegura y la pasional— pelean por el control de la situación. Discuten, seducen, sabotean y a veces pierden los nervios. ¿Quién ganará la batalla interior? ¿El corazón o el deseo? Las expectativas son altas y la noche promete.",
-    "poster_path": "/xu8S0c15iUIWWmQh1x7OGld1KlH.jpg",
-    "poster_local": "imagenes_estrenos/Locamente_xu8S0c15iUIWWmQh1x7OGld1KlH.jpg",
-    "backdrop_path": "/pPa1BCiVQUv6sJnvxGmhukJklFs.jpg",
-    "backdrop_local": "imagenes_estrenos/Locamente_backdrop_pPa1BCiVQUv6sJnvxGmhukJklFs.jpg",
-    "fecha_estreno": "2025-08-29T00:00:00.000Z",
-    "duración": "97 min",
-    "director": "Paolo Genovese",
-    "directores": [
-      {
-        "name": "Paolo Genovese",
-        "id": 225160
-      }
-    ],
-    "actores": [
-      {
-        "name": "Edoardo Leo",
-        "id": 1047948,
-        "character": "Piero",
-        "profile_path": "/coKBvQI0zhAHz0DwiLEmgpaCvn4.jpg"
-      },
-      {
-        "name": "Pilar Fogliati",
-        "id": 1588444,
-        "character": "Lara",
-        "profile_path": "/okUcQvsAJZpoUN8YcfExRmPCTC4.jpg"
-      },
-      {
-        "name": "Emanuela Fanelli",
-        "id": 1689522,
-        "character": "Trilli",
-        "profile_path": "/iBnInh4sJq0VQKITiHPp4R5gJWc.jpg"
-      },
-      {
-        "name": "Maria Chiara Giannetta",
-        "id": 2086629,
-        "character": "Scheggia",
-        "profile_path": "/hej1rYJi1qZ5LuIylFh0gMZqOHF.jpg"
-      },
-      {
-        "name": "Claudia Pandolfi",
-        "id": 126984,
-        "character": "Alfa",
-        "profile_path": "/iMpEYOtePEw3SeFsb6brwp0Hahu.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      }
-    ],
-    "popularidad": 1.5074,
-    "puntuación": 7.283,
-    "votos": 441,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/pPa1BCiVQUv6sJnvxGmhukJklFs.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/9UL0hOzqQr2rJpiJSUZE044EUYS.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/ehvTKhLC78QuwmrVcwIFin0MfHC.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/f0sZ2WcB6GUVXUQnXlNE2asIR0j.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/upL8PGP7GqFXNv2iCmVwp0iySZC.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-08-08 10:02:19"
+    "última_actualización": "2025-08-08 22:02:16"
   },
   {
     "id": 1002155,
@@ -4139,7 +4064,126 @@
         }
       ]
     },
-    "última_actualización": "2025-08-08 10:02:19"
+    "última_actualización": "2025-08-08 22:02:16"
+  },
+  {
+    "id": 1312157,
+    "tmdb_id": 1312157,
+    "título": "Locamente",
+    "título_original": "FolleMente",
+    "sinopsis": "En su primera cita, Piero y Lara intentan impresionarse, pero dentro de sus cabezas reina el caos. Las múltiples personalidades que ocupan su mente — la romántica, la racional, la insegura y la pasional— pelean por el control de la situación. Discuten, seducen, sabotean y a veces pierden los nervios. ¿Quién ganará la batalla interior? ¿El corazón o el deseo? Las expectativas son altas y la noche promete.",
+    "poster_path": "/xu8S0c15iUIWWmQh1x7OGld1KlH.jpg",
+    "poster_local": "imagenes_estrenos/Locamente_xu8S0c15iUIWWmQh1x7OGld1KlH.jpg",
+    "backdrop_path": "/pPa1BCiVQUv6sJnvxGmhukJklFs.jpg",
+    "backdrop_local": "imagenes_estrenos/Locamente_backdrop_pPa1BCiVQUv6sJnvxGmhukJklFs.jpg",
+    "fecha_estreno": "2025-08-29T00:00:00.000Z",
+    "duración": "97 min",
+    "director": "Paolo Genovese",
+    "directores": [
+      {
+        "name": "Paolo Genovese",
+        "id": 225160
+      }
+    ],
+    "actores": [
+      {
+        "name": "Edoardo Leo",
+        "id": 1047948,
+        "character": "Piero",
+        "profile_path": "/coKBvQI0zhAHz0DwiLEmgpaCvn4.jpg"
+      },
+      {
+        "name": "Pilar Fogliati",
+        "id": 1588444,
+        "character": "Lara",
+        "profile_path": "/okUcQvsAJZpoUN8YcfExRmPCTC4.jpg"
+      },
+      {
+        "name": "Emanuela Fanelli",
+        "id": 1689522,
+        "character": "Trilli",
+        "profile_path": "/iBnInh4sJq0VQKITiHPp4R5gJWc.jpg"
+      },
+      {
+        "name": "Maria Chiara Giannetta",
+        "id": 2086629,
+        "character": "Scheggia",
+        "profile_path": "/hej1rYJi1qZ5LuIylFh0gMZqOHF.jpg"
+      },
+      {
+        "name": "Claudia Pandolfi",
+        "id": 126984,
+        "character": "Alfa",
+        "profile_path": "/iMpEYOtePEw3SeFsb6brwp0Hahu.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "popularidad": 1.5074,
+    "puntuación": 7.283,
+    "votos": 441,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/pPa1BCiVQUv6sJnvxGmhukJklFs.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/9UL0hOzqQr2rJpiJSUZE044EUYS.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/ehvTKhLC78QuwmrVcwIFin0MfHC.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/f0sZ2WcB6GUVXUQnXlNE2asIR0j.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/upL8PGP7GqFXNv2iCmVwp0iySZC.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-08-08 22:02:16"
   },
   {
     "id": 1304625,
@@ -4222,7 +4266,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-08 10:02:20"
+    "última_actualización": "2025-08-08 22:02:17"
   },
   {
     "id": 1252182,
@@ -4305,7 +4349,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-08 10:02:20"
+    "última_actualización": "2025-08-08 22:02:17"
   },
   {
     "id": 1361451,
@@ -4425,7 +4469,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-08 10:02:20"
+    "última_actualización": "2025-08-08 22:02:17"
   },
   {
     "id": 1519538,
@@ -4513,7 +4557,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-08 10:02:20"
+    "última_actualización": "2025-08-08 22:02:17"
   },
   {
     "id": 1519553,
@@ -4579,7 +4623,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-08 10:02:20"
+    "última_actualización": "2025-08-08 22:02:17"
   },
   {
     "id": 1503738,
@@ -4634,6 +4678,6 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-08-08 10:02:20"
+    "última_actualización": "2025-08-08 22:02:17"
   }
 ]
