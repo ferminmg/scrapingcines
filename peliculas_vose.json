@@ -4,28 +4,6 @@
         "cartel": "imagenes_peliculas/1753359420.jpg",
         "horarios": [
             {
-                "fecha": "2025-08-10",
-                "hora": "18:20",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=94986&eventCode=100273"
-            },
-            {
-                "fecha": "2025-08-10",
-                "hora": "21:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=94988&eventCode=100273"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
-    },
-    {
-        "título": "Aquel verano en París",
-        "cartel": "imagenes_peliculas/1753359420.jpg",
-        "horarios": [
-            {
                 "fecha": "2025-08-11",
                 "hora": "18:20",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95007&eventCode=100273"
@@ -92,132 +70,13 @@
         "cartel": "imagenes_peliculas/tmdb_mi_postre_favorito.jpg",
         "horarios": [
             {
-                "fecha": "2025-08-10",
-                "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86417&eventCode=100281"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Behtash Sanaeeha, مریم مقدم",
-        "duración": "97 min",
-        "actores": "لیلی فرهادپور, Esmaeel Mehrabi, Mansoureh Ilkhani, Soraya Orang, Homa Mottahedin",
-        "sinopsis": "Mahin, de 70 años, vive sola en Teherán desde que murió su marido y su hija se marchó a Europa. Una tarde, un té con amigos la lleva a romper su solitaria rutina y a revitalizar su vida amorosa. Pero cuando Mahin se abre a un nuevo romance, lo que comienza como un encuentro inesperado se convierte rápidamente en una velada imprevisible e inolvidable.",
-        "año": "2024"
-    },
-    {
-        "título": "Never Alone",
-        "cartel": "imagenes_peliculas/tmdb_never_alone.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-08-10",
-                "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86414&eventCode=100277"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Klaus Härö",
-        "duración": "85 min",
-        "actores": "Ville Virtanen, Nina Hukkinen, Rony Herman, Naemi Latzer, Kari Hietalahti",
-        "sinopsis": "Helsinki, 1942. Mientras Finlandia mantiene una peligrosa alianza con la Alemania nazi, un solo hombre se enfrenta al sistema. Abraham Stiller, un empresario judío, arriesga su vida para impedir que los servicios de seguridad finlandeses entreguen en secreto a refugiados judíos a la Gestapo.",
-        "año": "2025"
-    },
-    {
-        "título": "Ponyo en el Acantilado",
-        "cartel": "imagenes_peliculas/tmdb_ponyo_en_el_acantilado.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-08-10",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86411&eventCode=100558"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Hayao Miyazaki",
-        "duración": "100 min",
-        "actores": "神月柚莉愛, 土井洋輝, 所ジョージ, 山口智子, 天海祐希",
-        "sinopsis": "La historia se centra en Sosuke, un niño de 5 años, y su relación con una princesa pez que ansía convertirse en un ser humano. Libre adaptación de \"La sirenita\" que obtuvo muy buena acogida de la crítica en el Festival de Venecia 2008.",
-        "año": "2008"
-    },
-    {
-        "título": "Leer Lolita en Teherán",
-        "cartel": "imagenes_peliculas/tmdb_leer_lolita_en_teheran.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-08-10",
-                "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86419&eventCode=99269"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Eran Riklis",
-        "duración": "108 min",
-        "actores": "Golshifteh Farahani, Zar Amir Ebrahimi, Mina Kavani, Bahar Beihaghi, Isabella Nefar",
-        "sinopsis": "En el Irán postrevolucionario, donde los derechos y libertades de las mujeres están oprimidos, Azar, una valiente profesora reúne clandestinamente a siete alumnas para leer libros clásicos occidentales prohibidos, a pesar de los graves peligros que ello acarrea.",
-        "año": "2024"
-    },
-    {
-        "título": "Camboya, 1978",
-        "cartel": "imagenes_peliculas/tmdb_camboya_1978.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-08-10",
-                "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=85989&eventCode=99770"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Rithy Panh",
-        "duración": "113 min",
-        "actores": "Irène Jacob, Grégoire Colin, Cyril Gueï, Bun-Hok Lim, Somaline Mao",
-        "sinopsis": "Tres periodistas franceses viajan a Camboya en 1978 tras recibir una invitación del régimen de los Jemeres Rojos, embarcándose en una peligrosa aventura.",
-        "año": "2024"
-    },
-    {
-        "título": "Carretera perdida",
-        "cartel": "imagenes_peliculas/tmdb_carretera_perdida.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-08-10",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=85987&eventCode=99772"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "David Lynch",
-        "duración": "132 min",
-        "actores": "Patricia Arquette, Bill Pullman, Balthazar Getty, Robert Blake, Robert Loggia",
-        "sinopsis": "Fred Madison, un músico de Jazz, recibe una serie de misteriosas cintas de video en las que aparece con su mujer Renée dentro de su propia casa. En la última, que Fred ve a solas, junto a él aparece su esposa muerta.",
-        "año": "1997"
-    },
-    {
-        "título": "Las chicas del balcón",
-        "cartel": "imagenes_peliculas/tmdb_las_chicas_del_balcon.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-08-10",
-                "hora": "17:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=85988&eventCode=99790"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Noémie Merlant",
-        "duración": "105 min",
-        "actores": "Souheila Yacoub, Sanda Codreanu, Noémie Merlant, Lucas Bravo, Nadège Beausson-Diagne",
-        "sinopsis": "Tres mujeres en un piso de Marsella en plena ola de calor. Frente a ellas se encuentra su misterioso vecino, objeto de todas sus fantasías. Se encuentran atrapadas en una aventura terrorífica y delirante, cuya única búsqueda es su libertad.",
-        "año": "2024"
-    },
-    {
-        "título": "Mi postre favorito",
-        "cartel": "imagenes_peliculas/tmdb_mi_postre_favorito.jpg",
-        "horarios": [
-            {
                 "fecha": "2025-08-11",
                 "hora": "20:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86427&eventCode=100281"
             }
         ],
         "cine": "Golem Yamaguchi",
-        "director": "Behtash Sanaeeha, مریم مقدم",
+        "director": "مریم مقدم, Behtash Sanaeeha",
         "duración": "97 min",
         "actores": "لیلی فرهادپور, Esmaeel Mehrabi, Mansoureh Ilkhani, Soraya Orang, Homa Mottahedin",
         "sinopsis": "Mahin, de 70 años, vive sola en Teherán desde que murió su marido y su hija se marchó a Europa. Una tarde, un té con amigos la lleva a romper su solitaria rutina y a revitalizar su vida amorosa. Pero cuando Mahin se abre a un nuevo romance, lo que comienza como un encuentro inesperado se convierte rápidamente en una velada imprevisible e inolvidable.",
@@ -319,7 +178,7 @@
             }
         ],
         "cine": "Golem Yamaguchi",
-        "director": "Behtash Sanaeeha, مریم مقدم",
+        "director": "مریم مقدم, Behtash Sanaeeha",
         "duración": "97 min",
         "actores": "لیلی فرهادپور, Esmaeel Mehrabi, Mansoureh Ilkhani, Soraya Orang, Homa Mottahedin",
         "sinopsis": "Mahin, de 70 años, vive sola en Teherán desde que murió su marido y su hija se marchó a Europa. Una tarde, un té con amigos la lleva a romper su solitaria rutina y a revitalizar su vida amorosa. Pero cuando Mahin se abre a un nuevo romance, lo que comienza como un encuentro inesperado se convierte rápidamente en una velada imprevisible e inolvidable.",
@@ -438,7 +297,7 @@
             }
         ],
         "cine": "Golem Yamaguchi",
-        "director": "Behtash Sanaeeha, مریم مقدم",
+        "director": "مریم مقدم, Behtash Sanaeeha",
         "duración": "97 min",
         "actores": "لیلی فرهادپور, Esmaeel Mehrabi, Mansoureh Ilkhani, Soraya Orang, Homa Mottahedin",
         "sinopsis": "Mahin, de 70 años, vive sola en Teherán desde que murió su marido y su hija se marchó a Europa. Una tarde, un té con amigos la lleva a romper su solitaria rutina y a revitalizar su vida amorosa. Pero cuando Mahin se abre a un nuevo romance, lo que comienza como un encuentro inesperado se convierte rápidamente en una velada imprevisible e inolvidable.",
@@ -758,6 +617,40 @@
                 "fecha": "2025-08-19",
                 "hora": "19:00",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86014&eventCode=99812"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Sebastián Bednarik",
+        "duración": "0 min",
+        "actores": "",
+        "sinopsis": "",
+        "año": "2019"
+    },
+    {
+        "título": "Bauryna Salu",
+        "cartel": "imagenes_peliculas/tmdb_bauryna_salu.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-08-20",
+                "hora": "17:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86018&eventCode=99766"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Askhat Kuchencherekov",
+        "duración": "114 min",
+        "actores": "Yersultan Yerman, Aidos Auesbayev, Bigaysha Salkyn, Dinara Shymyrbay, Yerkin Berikuly",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Una historia verdadera",
+        "cartel": "imagenes_peliculas/tmdb_una_historia_verdadera.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-08-20",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86017&eventCode=99812"
             }
         ],
         "cine": "Golem Yamaguchi",
