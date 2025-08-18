@@ -166,7 +166,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-18 10:02:24"
+    "última_actualización": "2025-08-18 22:02:17"
   },
   {
     "id": 757725,
@@ -240,84 +240,10 @@
     "video": false,
     "año": "2025",
     "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/lBsbWXGn9maPKGhN3fozTU3BH0r.jpg",
-          "vote_average": 10.0,
-          "vote_count": 4,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1822,
-          "iso_639_1": null,
-          "file_path": "/v67tbCB03CMcJRWit8CS7JdJp6.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 3239
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/pjsmhkv97C8bdxwchuuNh8NiSab.jpg",
-          "vote_average": 1.444,
-          "vote_count": 6,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/oUQyf2k3R1P4PdAyFY9QmjcEOBc.jpg",
-          "vote_average": 1.31,
-          "vote_count": 7,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 945,
-          "iso_639_1": null,
-          "file_path": "/mmQ0FmtkZZZ514egSaXmvVcesjT.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1680
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/99rpAJQn6Q85OHDUHKyxSDFEiW8.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/Ah7aWI4hCQvc87aTZ1BQkhczkAq.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 2100,
-          "iso_639_1": null,
-          "file_path": "/1Pku10Ih0zaAbjNqh9PJo8UUDYx.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1400
-        }
-      ]
+      "backdrops": [],
+      "posters": []
     },
-    "última_actualización": "2025-08-18 10:02:24"
+    "última_actualización": "2025-08-18 22:02:28"
   },
   {
     "id": 975511,
@@ -459,7 +385,90 @@
         }
       ]
     },
-    "última_actualización": "2025-08-18 10:02:24"
+    "última_actualización": "2025-08-18 22:02:32"
+  },
+  {
+    "id": 1518257,
+    "tmdb_id": 1518257,
+    "título": "La coleccionista",
+    "título_original": "La coleccionista",
+    "sinopsis": "En el pueblo fronterizo de Reino del Duero, Fátima, conocida como \"La coleccionista\", obsequia a algunos forasteros que visitan el pueblo con un objeto aparentemente mundano. Lo que los visitantes no sospechan es que los regalos de Fátima desencadenarán una serie de inquietantes y dramáticos sucesos paranormales que cambiarán para siempre sus vidas.",
+    "poster_path": "/pc7Nl2L4bD9yVJ3UVzI9OrvYWxp.jpg",
+    "poster_local": "imagenes_estrenos/La_coleccionista_pc7Nl2L4bD9yVJ3UVzI9OrvYWxp.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-08-22T00:00:00.000Z",
+    "duración": "96 min",
+    "director": "Manuel Sanabria",
+    "directores": [
+      {
+        "name": "Manuel Sanabria",
+        "id": 1098341
+      }
+    ],
+    "actores": [
+      {
+        "name": "Maggie Civantos",
+        "id": 1075560,
+        "character": "",
+        "profile_path": "/gCDu8bx0Aklyhe0phKbzXUEY8RW.jpg"
+      },
+      {
+        "name": "Daniel Grao",
+        "id": 233947,
+        "character": "",
+        "profile_path": "/8pNOwG9UxgHestAriO0N7r5GHN8.jpg"
+      },
+      {
+        "name": "Canco Rodríguez",
+        "id": 1444942,
+        "character": "",
+        "profile_path": "/elAZYFdEn6zYerF1qXCy4ynm2PS.jpg"
+      },
+      {
+        "name": "Belén López",
+        "id": 96686,
+        "character": "",
+        "profile_path": "/rl22Ll44NIitP1nUtORp90OUvGI.jpg"
+      },
+      {
+        "name": "Assumpta Serna",
+        "id": 42123,
+        "character": "",
+        "profile_path": "/bSiZG1PQAhdBjF0ucubXvTA7fuV.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "popularidad": 1.393,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.668,
+          "height": 1000,
+          "iso_639_1": null,
+          "file_path": "/pc7Nl2L4bD9yVJ3UVzI9OrvYWxp.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 668
+        }
+      ]
+    },
+    "última_actualización": "2025-08-18 22:02:36"
   },
   {
     "id": 1370124,
@@ -550,90 +559,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-18 10:02:25"
-  },
-  {
-    "id": 1518257,
-    "tmdb_id": 1518257,
-    "título": "La coleccionista",
-    "título_original": "La coleccionista",
-    "sinopsis": "En el pueblo fronterizo de Reino del Duero, Fátima, conocida como \"La coleccionista\", obsequia a algunos forasteros que visitan el pueblo con un objeto aparentemente mundano. Lo que los visitantes no sospechan es que los regalos de Fátima desencadenarán una serie de inquietantes y dramáticos sucesos paranormales que cambiarán para siempre sus vidas.",
-    "poster_path": "/pc7Nl2L4bD9yVJ3UVzI9OrvYWxp.jpg",
-    "poster_local": "imagenes_estrenos/La_coleccionista_pc7Nl2L4bD9yVJ3UVzI9OrvYWxp.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-08-22T00:00:00.000Z",
-    "duración": "96 min",
-    "director": "Manuel Sanabria",
-    "directores": [
-      {
-        "name": "Manuel Sanabria",
-        "id": 1098341
-      }
-    ],
-    "actores": [
-      {
-        "name": "Maggie Civantos",
-        "id": 1075560,
-        "character": "",
-        "profile_path": "/gCDu8bx0Aklyhe0phKbzXUEY8RW.jpg"
-      },
-      {
-        "name": "Daniel Grao",
-        "id": 233947,
-        "character": "",
-        "profile_path": "/8pNOwG9UxgHestAriO0N7r5GHN8.jpg"
-      },
-      {
-        "name": "Canco Rodríguez",
-        "id": 1444942,
-        "character": "",
-        "profile_path": "/elAZYFdEn6zYerF1qXCy4ynm2PS.jpg"
-      },
-      {
-        "name": "Belén López",
-        "id": 96686,
-        "character": "",
-        "profile_path": "/rl22Ll44NIitP1nUtORp90OUvGI.jpg"
-      },
-      {
-        "name": "Assumpta Serna",
-        "id": 42123,
-        "character": "",
-        "profile_path": "/bSiZG1PQAhdBjF0ucubXvTA7fuV.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      },
-      {
-        "id": 9648,
-        "name": "Misterio"
-      }
-    ],
-    "popularidad": 1.393,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.668,
-          "height": 1000,
-          "iso_639_1": null,
-          "file_path": "/pc7Nl2L4bD9yVJ3UVzI9OrvYWxp.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 668
-        }
-      ]
-    },
-    "última_actualización": "2025-08-18 10:02:25"
+    "última_actualización": "2025-08-18 22:02:37"
   },
   {
     "id": 1001684,
@@ -735,7 +661,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-18 10:02:25"
+    "última_actualización": "2025-08-18 22:02:39"
   },
   {
     "id": 1274751,
@@ -860,7 +786,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-18 10:02:25"
+    "última_actualización": "2025-08-18 22:02:39"
   },
   {
     "id": 944931,
@@ -925,7 +851,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-18 10:02:26"
+    "última_actualización": "2025-08-18 22:02:40"
   },
   {
     "id": 507244,
@@ -1167,7 +1093,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-18 10:02:24"
+    "última_actualización": "2025-08-18 22:02:28"
   },
   {
     "id": 1267905,
@@ -1332,7 +1258,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-18 10:02:24"
+    "última_actualización": "2025-08-18 22:02:32"
   },
   {
     "id": 1293244,
@@ -1455,130 +1381,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-18 10:02:25"
-  },
-  {
-    "id": 1316147,
-    "tmdb_id": 1316147,
-    "título": "El Gran Premio; A todo Gas!!",
-    "título_original": "Grand Prix of Europe",
-    "sinopsis": "",
-    "poster_path": "/uOEgCIpKtZZ7Iz6kXe3LvTPldje.jpg",
-    "poster_local": "imagenes_estrenos/El_Gran_Premio__A_todo_Gas___uOEgCIpKtZZ7Iz6kXe3LvTPldje.jpg",
-    "backdrop_path": "/te6lZvv2XcUZ8PTALSMj7R4GiCX.jpg",
-    "backdrop_local": "imagenes_estrenos/El_Gran_Premio__A_todo_Gas___backdrop_te6lZvv2XcUZ8PTALSMj7R4GiCX.jpg",
-    "fecha_estreno": "2025-08-29T00:00:00.000Z",
-    "duración": "98 min",
-    "director": "Waldemar Fast",
-    "directores": [
-      {
-        "name": "Waldemar Fast",
-        "id": 4826007
-      }
-    ],
-    "actores": [
-      {
-        "name": "Gemma Arterton",
-        "id": 59620,
-        "character": "Edda (voice)",
-        "profile_path": "/Alfm28oyHNiYweNCUaMmrVjVMAT.jpg"
-      },
-      {
-        "name": "Thomas Brodie-Sangster",
-        "id": 25663,
-        "character": "Ed (voice)",
-        "profile_path": "/ovfgjgaE7aAXKYaemABX6pJFwRk.jpg"
-      },
-      {
-        "name": "Hayley Atwell",
-        "id": 39459,
-        "character": "Cindy (voice)",
-        "profile_path": "/x57wXHexIjD2ywly9cRA4rov7cu.jpg"
-      },
-      {
-        "name": "Lenny Henry",
-        "id": 53519,
-        "character": "Erwin (voice)",
-        "profile_path": "/aT5zYMfGI3x4sGtCs9QM4gT0G2h.jpg"
-      },
-      {
-        "name": "Colin McFarlane",
-        "id": 128386,
-        "character": "(voice)",
-        "profile_path": "/tCLiWpKooSQJfyC260qNeNYTe9S.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 12,
-        "name": "Aventura"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 1.6691,
-    "puntuación": 8.7,
-    "votos": 3,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/te6lZvv2XcUZ8PTALSMj7R4GiCX.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/w23xIXHBsOHuv08IWdZpm6gfsLS.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/3WpJ3t13VFeyvAdFuvYkDeGwE0C.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/acWCWq1yh4ZobxyP3KjUQm1toFr.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/eEWdfYSuT0Rn4XY7HGL5wRUaAzW.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-08-18 10:02:25"
+    "última_actualización": "2025-08-18 22:02:33"
   },
   {
     "id": 1002155,
@@ -1711,7 +1514,130 @@
         }
       ]
     },
-    "última_actualización": "2025-08-18 10:02:25"
+    "última_actualización": "2025-08-18 22:02:34"
+  },
+  {
+    "id": 1316147,
+    "tmdb_id": 1316147,
+    "título": "El Gran Premio; A todo Gas!!",
+    "título_original": "Grand Prix of Europe",
+    "sinopsis": "",
+    "poster_path": "/uOEgCIpKtZZ7Iz6kXe3LvTPldje.jpg",
+    "poster_local": "imagenes_estrenos/El_Gran_Premio__A_todo_Gas___uOEgCIpKtZZ7Iz6kXe3LvTPldje.jpg",
+    "backdrop_path": "/te6lZvv2XcUZ8PTALSMj7R4GiCX.jpg",
+    "backdrop_local": "imagenes_estrenos/El_Gran_Premio__A_todo_Gas___backdrop_te6lZvv2XcUZ8PTALSMj7R4GiCX.jpg",
+    "fecha_estreno": "2025-08-29T00:00:00.000Z",
+    "duración": "98 min",
+    "director": "Waldemar Fast",
+    "directores": [
+      {
+        "name": "Waldemar Fast",
+        "id": 4826007
+      }
+    ],
+    "actores": [
+      {
+        "name": "Gemma Arterton",
+        "id": 59620,
+        "character": "Edda (voice)",
+        "profile_path": "/Alfm28oyHNiYweNCUaMmrVjVMAT.jpg"
+      },
+      {
+        "name": "Thomas Brodie-Sangster",
+        "id": 25663,
+        "character": "Ed (voice)",
+        "profile_path": "/ovfgjgaE7aAXKYaemABX6pJFwRk.jpg"
+      },
+      {
+        "name": "Hayley Atwell",
+        "id": 39459,
+        "character": "Cindy (voice)",
+        "profile_path": "/x57wXHexIjD2ywly9cRA4rov7cu.jpg"
+      },
+      {
+        "name": "Lenny Henry",
+        "id": 53519,
+        "character": "Erwin (voice)",
+        "profile_path": "/aT5zYMfGI3x4sGtCs9QM4gT0G2h.jpg"
+      },
+      {
+        "name": "Colin McFarlane",
+        "id": 128386,
+        "character": "(voice)",
+        "profile_path": "/tCLiWpKooSQJfyC260qNeNYTe9S.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 1.6691,
+    "puntuación": 7.25,
+    "votos": 4,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_639_1": null,
+          "file_path": "/te6lZvv2XcUZ8PTALSMj7R4GiCX.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_639_1": null,
+          "file_path": "/w23xIXHBsOHuv08IWdZpm6gfsLS.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_639_1": null,
+          "file_path": "/3WpJ3t13VFeyvAdFuvYkDeGwE0C.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_639_1": null,
+          "file_path": "/acWCWq1yh4ZobxyP3KjUQm1toFr.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_639_1": null,
+          "file_path": "/eEWdfYSuT0Rn4XY7HGL5wRUaAzW.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-08-18 22:02:34"
   },
   {
     "id": 1312157,
@@ -1830,7 +1756,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-18 10:02:25"
+    "última_actualización": "2025-08-18 22:02:35"
   },
   {
     "id": 1304625,
@@ -1913,7 +1839,73 @@
         }
       ]
     },
-    "última_actualización": "2025-08-18 10:02:26"
+    "última_actualización": "2025-08-18 22:02:35"
+  },
+  {
+    "id": 1519553,
+    "tmdb_id": 1519553,
+    "título": "Madrid, Ext.",
+    "título_original": "Madrid, Ext.",
+    "sinopsis": "Ensayo fílmico acerca de la ciudad y el paso del tiempo, de sus transformaciones y sus contradicciones. Es un homenaje a Madrid a modo de gran archivo visual y sonoro de sus habitantes y localizaciones donde se cruza comercio y fauna, arquitectura y señoras, mercerías y poetas, constructores y destructores de la ciudad.",
+    "poster_path": "/aLl48zQzbVZZ9pJJ0f0aG3GiakN.jpg",
+    "poster_local": "imagenes_estrenos/Madrid__Ext__aLl48zQzbVZZ9pJJ0f0aG3GiakN.jpg",
+    "backdrop_path": "/oYVKqpnoQ9y2yjr6UywBSdXuNOd.jpg",
+    "backdrop_local": "imagenes_estrenos/Madrid__Ext__backdrop_oYVKqpnoQ9y2yjr6UywBSdXuNOd.jpg",
+    "fecha_estreno": "2025-08-29T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Juan Cavestany",
+    "directores": [
+      {
+        "name": "Juan Cavestany",
+        "id": 225020
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 1.0632,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/oYVKqpnoQ9y2yjr6UywBSdXuNOd.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/irMdyi6rMcYfI64JWOOj3p2Lwu8.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/oju0QGNIuvSHBriQYwIXsYHoZlg.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-08-18 22:02:37"
   },
   {
     "id": 1252182,
@@ -1996,73 +1988,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-18 10:02:26"
-  },
-  {
-    "id": 1519553,
-    "tmdb_id": 1519553,
-    "título": "Madrid, Ext.",
-    "título_original": "Madrid, Ext.",
-    "sinopsis": "Ensayo fílmico acerca de la ciudad y el paso del tiempo, de sus transformaciones y sus contradicciones. Es un homenaje a Madrid a modo de gran archivo visual y sonoro de sus habitantes y localizaciones donde se cruza comercio y fauna, arquitectura y señoras, mercerías y poetas, constructores y destructores de la ciudad.",
-    "poster_path": "/aLl48zQzbVZZ9pJJ0f0aG3GiakN.jpg",
-    "poster_local": "imagenes_estrenos/Madrid__Ext__aLl48zQzbVZZ9pJJ0f0aG3GiakN.jpg",
-    "backdrop_path": "/oYVKqpnoQ9y2yjr6UywBSdXuNOd.jpg",
-    "backdrop_local": "imagenes_estrenos/Madrid__Ext__backdrop_oYVKqpnoQ9y2yjr6UywBSdXuNOd.jpg",
-    "fecha_estreno": "2025-08-29T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Juan Cavestany",
-    "directores": [
-      {
-        "name": "Juan Cavestany",
-        "id": 225020
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 1.0632,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/oYVKqpnoQ9y2yjr6UywBSdXuNOd.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/irMdyi6rMcYfI64JWOOj3p2Lwu8.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/oju0QGNIuvSHBriQYwIXsYHoZlg.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-08-18 10:02:26"
+    "última_actualización": "2025-08-18 22:02:38"
   },
   {
     "id": 1519538,
@@ -2150,7 +2076,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-18 10:02:26"
+    "última_actualización": "2025-08-18 22:02:40"
   },
   {
     "id": 1361451,
@@ -2270,7 +2196,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-18 10:02:26"
+    "última_actualización": "2025-08-18 22:02:40"
   },
   {
     "id": 1503738,
@@ -2325,7 +2251,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-08-18 10:02:26"
+    "última_actualización": "2025-08-18 22:02:41"
   },
   {
     "id": 1358748,
@@ -2431,7 +2357,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-18 10:02:25"
+    "última_actualización": "2025-08-18 22:02:34"
   },
   {
     "id": 1038392,
@@ -2558,6 +2484,24 @@
           "aspect_ratio": 0.667,
           "height": 3000,
           "iso_639_1": null,
+          "file_path": "/otPSycSItFSqAJ2gCBA5aOc7glB.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/7wKBAoZ9u8TNtf55Ic7x1wsN2lK.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
           "file_path": "/HOAhgZc3nD3wAwB3r1yBhyKITo.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -2574,7 +2518,130 @@
         }
       ]
     },
-    "última_actualización": "2025-08-18 10:02:24"
+    "última_actualización": "2025-08-18 22:02:17"
+  },
+  {
+    "id": 1254135,
+    "tmdb_id": 1254135,
+    "título": "13 días, 13 noches",
+    "título_original": "13 jours, 13 nuits",
+    "sinopsis": "Kabul, agosto de 2021. Mientras las tropas estadounidenses se preparan para abandonar el país, los talibanes asaltan la capital y toman el poder. En medio del caos, el comandante Bida intenta garantizar la seguridad de aquellos que se encuentran en el único refugio que queda en la ciudad, la embajada francesa. Con cientos de vidas en juego, Bida negocia con los talibanes con el fin de organizar un convoy hacia el aeropuerto. Comienza entonces una carrera contrarreloj para huir del infierno de Kabul antes de que sea demasiado tarde.",
+    "poster_path": "/j3FN1msfXUOFGhy9viu4NNL6btF.jpg",
+    "poster_local": "imagenes_estrenos/13_d_as__13_noches_j3FN1msfXUOFGhy9viu4NNL6btF.jpg",
+    "backdrop_path": "/2QwSEIwlSPUIjB06nvNpcl7oBoo.jpg",
+    "backdrop_local": "imagenes_estrenos/13_d_as__13_noches_backdrop_2QwSEIwlSPUIjB06nvNpcl7oBoo.jpg",
+    "fecha_estreno": "2025-09-05T00:00:00.000Z",
+    "duración": "112 min",
+    "director": "Martin Bourboulon",
+    "directores": [
+      {
+        "name": "Martin Bourboulon",
+        "id": 1422940
+      }
+    ],
+    "actores": [
+      {
+        "name": "Roschdy Zem",
+        "id": 20442,
+        "character": "Commandant Mohamed Bida",
+        "profile_path": "/9SUbcnRYvp1Bs1pyiaVK4GWuZgT.jpg"
+      },
+      {
+        "name": "Lyna Khoudri",
+        "id": 1886168,
+        "character": "Eva",
+        "profile_path": "/auPn5fVmn8oTcJLLsRR3sC0ulNu.jpg"
+      },
+      {
+        "name": "Sidse Babett Knudsen",
+        "id": 32683,
+        "character": "Kate",
+        "profile_path": "/yVkWyBuJaup9I6FIgjZlGkczNNj.jpg"
+      },
+      {
+        "name": "Christophe Montenez",
+        "id": 1622993,
+        "character": "Martin",
+        "profile_path": "/zmeyQ1BBgzOOJNPaEnmtmQh9a98.jpg"
+      },
+      {
+        "name": "Sina Parvaneh",
+        "id": 3514167,
+        "character": "Général Sediqi",
+        "profile_path": "/wGDwPyzJ5cxsMRMubwp5aHdN9IM.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      }
+    ],
+    "popularidad": 4.13,
+    "puntuación": 6.73,
+    "votos": 63,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/2QwSEIwlSPUIjB06nvNpcl7oBoo.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/txUO8S5j2W0h1hTdX2Zo2TTuZrP.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_639_1": null,
+          "file_path": "/foK1uBVK2TqKAPuZD8Kavg6FsJP.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1254,
+          "iso_639_1": null,
+          "file_path": "/f9y31CgpSipCwdDZbnDfnDqprfK.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2230
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/qAZ2uyd0ZKGurBbTUtAadhYPDML.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-08-18 22:02:32"
   },
   {
     "id": 1086497,
@@ -2726,130 +2793,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-18 10:02:24"
-  },
-  {
-    "id": 1254135,
-    "tmdb_id": 1254135,
-    "título": "13 días, 13 noches",
-    "título_original": "13 jours, 13 nuits",
-    "sinopsis": "Kabul, agosto de 2021. Mientras las tropas estadounidenses se preparan para abandonar el país, los talibanes asaltan la capital y toman el poder. En medio del caos, el comandante Bida intenta garantizar la seguridad de aquellos que se encuentran en el único refugio que queda en la ciudad, la embajada francesa. Con cientos de vidas en juego, Bida negocia con los talibanes con el fin de organizar un convoy hacia el aeropuerto. Comienza entonces una carrera contrarreloj para huir del infierno de Kabul antes de que sea demasiado tarde.",
-    "poster_path": "/j3FN1msfXUOFGhy9viu4NNL6btF.jpg",
-    "poster_local": "imagenes_estrenos/13_d_as__13_noches_j3FN1msfXUOFGhy9viu4NNL6btF.jpg",
-    "backdrop_path": "/2QwSEIwlSPUIjB06nvNpcl7oBoo.jpg",
-    "backdrop_local": "imagenes_estrenos/13_d_as__13_noches_backdrop_2QwSEIwlSPUIjB06nvNpcl7oBoo.jpg",
-    "fecha_estreno": "2025-09-05T00:00:00.000Z",
-    "duración": "112 min",
-    "director": "Martin Bourboulon",
-    "directores": [
-      {
-        "name": "Martin Bourboulon",
-        "id": 1422940
-      }
-    ],
-    "actores": [
-      {
-        "name": "Roschdy Zem",
-        "id": 20442,
-        "character": "Commandant Mohamed Bida",
-        "profile_path": "/9SUbcnRYvp1Bs1pyiaVK4GWuZgT.jpg"
-      },
-      {
-        "name": "Lyna Khoudri",
-        "id": 1886168,
-        "character": "Eva",
-        "profile_path": "/auPn5fVmn8oTcJLLsRR3sC0ulNu.jpg"
-      },
-      {
-        "name": "Sidse Babett Knudsen",
-        "id": 32683,
-        "character": "Kate",
-        "profile_path": "/yVkWyBuJaup9I6FIgjZlGkczNNj.jpg"
-      },
-      {
-        "name": "Christophe Montenez",
-        "id": 1622993,
-        "character": "Martin",
-        "profile_path": "/zmeyQ1BBgzOOJNPaEnmtmQh9a98.jpg"
-      },
-      {
-        "name": "Sina Parvaneh",
-        "id": 3514167,
-        "character": "Général Sediqi",
-        "profile_path": "/wGDwPyzJ5cxsMRMubwp5aHdN9IM.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 28,
-        "name": "Acción"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      },
-      {
-        "id": 10752,
-        "name": "Bélica"
-      }
-    ],
-    "popularidad": 4.13,
-    "puntuación": 6.742,
-    "votos": 62,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/2QwSEIwlSPUIjB06nvNpcl7oBoo.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/txUO8S5j2W0h1hTdX2Zo2TTuZrP.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/foK1uBVK2TqKAPuZD8Kavg6FsJP.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1254,
-          "iso_639_1": null,
-          "file_path": "/f9y31CgpSipCwdDZbnDfnDqprfK.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2230
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/qAZ2uyd0ZKGurBbTUtAadhYPDML.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-08-18 10:02:24"
+    "última_actualización": "2025-08-18 22:02:33"
   },
   {
     "id": 784524,
@@ -3001,7 +2945,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-18 10:02:24"
+    "última_actualización": "2025-08-18 22:02:33"
   },
   {
     "id": 1306293,
@@ -3120,7 +3064,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-18 10:02:25"
+    "última_actualización": "2025-08-18 22:02:36"
   },
   {
     "id": 1351046,
@@ -3186,29 +3130,10 @@
     "video": false,
     "año": "2025",
     "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.777,
-          "height": 1266,
-          "iso_639_1": null,
-          "file_path": "/aWPAU9dFcPq9uTgCUh5Os6xQ3t1.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2250
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 900,
-          "iso_639_1": null,
-          "file_path": "/eSVnoUbdmmlxJoktbsqOwnSjheo.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1600
-        }
-      ],
+      "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-08-18 10:02:26"
+    "última_actualización": "2025-08-18 22:02:37"
   },
   {
     "id": 1182861,
@@ -3318,7 +3243,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-18 10:02:26"
+    "última_actualización": "2025-08-18 22:02:39"
   },
   {
     "id": 1057823,
@@ -3407,6 +3332,6 @@
         }
       ]
     },
-    "última_actualización": "2025-08-18 10:02:26"
+    "última_actualización": "2025-08-18 22:02:40"
   }
 ]
