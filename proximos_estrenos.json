@@ -1065,7 +1065,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 7.9802,
+    "popularidad": 9.3256,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1167,7 +1167,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:22"
+    "última_actualización": "2025-08-22 10:02:12"
   },
   {
     "id": 972533,
@@ -1230,9 +1230,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 6.0387,
-    "puntuación": 6.9,
-    "votos": 382,
+    "popularidad": 7.5266,
+    "puntuación": 6.963,
+    "votos": 387,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1332,7 +1332,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:22"
+    "última_actualización": "2025-08-22 10:02:12"
   },
   {
     "id": 1293244,
@@ -1399,7 +1399,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.5207,
+    "popularidad": 2.7695,
     "puntuación": 6.333,
     "votos": 6,
     "adulto": false,
@@ -1455,7 +1455,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-21 22:02:22"
+    "última_actualización": "2025-08-22 10:02:12"
   },
   {
     "id": 1316147,
@@ -1522,7 +1522,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 2.055,
+    "popularidad": 2.2302,
     "puntuación": 7.2,
     "votos": 4,
     "adulto": false,
@@ -1578,7 +1578,126 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-21 22:02:23"
+    "última_actualización": "2025-08-22 10:02:13"
+  },
+  {
+    "id": 1312157,
+    "tmdb_id": 1312157,
+    "título": "Locamente",
+    "título_original": "FolleMente",
+    "sinopsis": "En su primera cita, Piero y Lara intentan impresionarse, pero dentro de sus cabezas reina el caos. Las múltiples personalidades que ocupan su mente — la romántica, la racional, la insegura y la pasional— pelean por el control de la situación. Discuten, seducen, sabotean y a veces pierden los nervios. ¿Quién ganará la batalla interior? ¿El corazón o el deseo? Las expectativas son altas y la noche promete.",
+    "poster_path": "/xu8S0c15iUIWWmQh1x7OGld1KlH.jpg",
+    "poster_local": "imagenes_estrenos/Locamente_xu8S0c15iUIWWmQh1x7OGld1KlH.jpg",
+    "backdrop_path": "/pPa1BCiVQUv6sJnvxGmhukJklFs.jpg",
+    "backdrop_local": "imagenes_estrenos/Locamente_backdrop_pPa1BCiVQUv6sJnvxGmhukJklFs.jpg",
+    "fecha_estreno": "2025-08-29T00:00:00.000Z",
+    "duración": "97 min",
+    "director": "Paolo Genovese",
+    "directores": [
+      {
+        "name": "Paolo Genovese",
+        "id": 225160
+      }
+    ],
+    "actores": [
+      {
+        "name": "Edoardo Leo",
+        "id": 1047948,
+        "character": "Piero",
+        "profile_path": "/coKBvQI0zhAHz0DwiLEmgpaCvn4.jpg"
+      },
+      {
+        "name": "Pilar Fogliati",
+        "id": 1588444,
+        "character": "Lara",
+        "profile_path": "/okUcQvsAJZpoUN8YcfExRmPCTC4.jpg"
+      },
+      {
+        "name": "Emanuela Fanelli",
+        "id": 1689522,
+        "character": "Trilli",
+        "profile_path": "/iBnInh4sJq0VQKITiHPp4R5gJWc.jpg"
+      },
+      {
+        "name": "Maria Chiara Giannetta",
+        "id": 2086629,
+        "character": "Scheggia",
+        "profile_path": "/hej1rYJi1qZ5LuIylFh0gMZqOHF.jpg"
+      },
+      {
+        "name": "Claudia Pandolfi",
+        "id": 126984,
+        "character": "Alfa",
+        "profile_path": "/iMpEYOtePEw3SeFsb6brwp0Hahu.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "popularidad": 1.842,
+    "puntuación": 7.3,
+    "votos": 452,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/pPa1BCiVQUv6sJnvxGmhukJklFs.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/9UL0hOzqQr2rJpiJSUZE044EUYS.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/ehvTKhLC78QuwmrVcwIFin0MfHC.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/f0sZ2WcB6GUVXUQnXlNE2asIR0j.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/upL8PGP7GqFXNv2iCmVwp0iySZC.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-08-22 10:02:13"
   },
   {
     "id": 1002155,
@@ -1645,7 +1764,7 @@
         "name": "Música"
       }
     ],
-    "popularidad": 1.6574,
+    "popularidad": 1.5761,
     "puntuación": 7.308,
     "votos": 252,
     "adulto": false,
@@ -1711,126 +1830,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:23"
-  },
-  {
-    "id": 1312157,
-    "tmdb_id": 1312157,
-    "título": "Locamente",
-    "título_original": "FolleMente",
-    "sinopsis": "En su primera cita, Piero y Lara intentan impresionarse, pero dentro de sus cabezas reina el caos. Las múltiples personalidades que ocupan su mente — la romántica, la racional, la insegura y la pasional— pelean por el control de la situación. Discuten, seducen, sabotean y a veces pierden los nervios. ¿Quién ganará la batalla interior? ¿El corazón o el deseo? Las expectativas son altas y la noche promete.",
-    "poster_path": "/xu8S0c15iUIWWmQh1x7OGld1KlH.jpg",
-    "poster_local": "imagenes_estrenos/Locamente_xu8S0c15iUIWWmQh1x7OGld1KlH.jpg",
-    "backdrop_path": "/pPa1BCiVQUv6sJnvxGmhukJklFs.jpg",
-    "backdrop_local": "imagenes_estrenos/Locamente_backdrop_pPa1BCiVQUv6sJnvxGmhukJklFs.jpg",
-    "fecha_estreno": "2025-08-29T00:00:00.000Z",
-    "duración": "97 min",
-    "director": "Paolo Genovese",
-    "directores": [
-      {
-        "name": "Paolo Genovese",
-        "id": 225160
-      }
-    ],
-    "actores": [
-      {
-        "name": "Edoardo Leo",
-        "id": 1047948,
-        "character": "Piero",
-        "profile_path": "/coKBvQI0zhAHz0DwiLEmgpaCvn4.jpg"
-      },
-      {
-        "name": "Pilar Fogliati",
-        "id": 1588444,
-        "character": "Lara",
-        "profile_path": "/okUcQvsAJZpoUN8YcfExRmPCTC4.jpg"
-      },
-      {
-        "name": "Emanuela Fanelli",
-        "id": 1689522,
-        "character": "Trilli",
-        "profile_path": "/iBnInh4sJq0VQKITiHPp4R5gJWc.jpg"
-      },
-      {
-        "name": "Maria Chiara Giannetta",
-        "id": 2086629,
-        "character": "Scheggia",
-        "profile_path": "/hej1rYJi1qZ5LuIylFh0gMZqOHF.jpg"
-      },
-      {
-        "name": "Claudia Pandolfi",
-        "id": 126984,
-        "character": "Alfa",
-        "profile_path": "/iMpEYOtePEw3SeFsb6brwp0Hahu.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      }
-    ],
-    "popularidad": 1.6135,
-    "puntuación": 7.3,
-    "votos": 452,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/pPa1BCiVQUv6sJnvxGmhukJklFs.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/9UL0hOzqQr2rJpiJSUZE044EUYS.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/ehvTKhLC78QuwmrVcwIFin0MfHC.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/f0sZ2WcB6GUVXUQnXlNE2asIR0j.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/upL8PGP7GqFXNv2iCmVwp0iySZC.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-08-21 22:02:23"
+    "última_actualización": "2025-08-22 10:02:13"
   },
   {
     "id": 1519553,
@@ -1858,7 +1858,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 1.4243,
+    "popularidad": 2.8358,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1896,7 +1896,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-21 22:02:24"
+    "última_actualización": "2025-08-22 10:02:14"
   },
   {
     "id": 1252182,
@@ -1959,7 +1959,7 @@
         "name": "Bélica"
       }
     ],
-    "popularidad": 1.3353,
+    "popularidad": 1.1905,
     "puntuación": 5.8,
     "votos": 4,
     "adulto": false,
@@ -1979,7 +1979,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-21 22:02:24"
+    "última_actualización": "2025-08-22 10:02:14"
   },
   {
     "id": 1304625,
@@ -2042,7 +2042,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 1.2059,
+    "popularidad": 1.2796,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2062,7 +2062,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:24"
+    "última_actualización": "2025-08-22 10:02:14"
   },
   {
     "id": 1519538,
@@ -2121,7 +2121,7 @@
         "name": "Acción"
       }
     ],
-    "popularidad": 0.6923,
+    "popularidad": 0.9395,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2150,7 +2150,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-21 22:02:25"
+    "última_actualización": "2025-08-22 10:02:15"
   },
   {
     "id": 1361451,
@@ -2213,7 +2213,7 @@
         "name": "Crimen"
       }
     ],
-    "popularidad": 0.2246,
+    "popularidad": 0.1839,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2270,7 +2270,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:26"
+    "última_actualización": "2025-08-22 10:02:15"
   },
   {
     "id": 1503738,
@@ -2325,7 +2325,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-08-21 22:02:26"
+    "última_actualización": "2025-08-22 10:02:16"
   },
   {
     "id": 1358748,
@@ -2392,7 +2392,7 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 1.2945,
+    "popularidad": 1.5165,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2431,7 +2431,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:24"
+    "última_actualización": "2025-08-22 10:02:14"
   },
   {
     "id": 1038392,
@@ -2490,7 +2490,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 27.6742,
+    "popularidad": 31.0167,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2592,7 +2592,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:21"
+    "última_actualización": "2025-08-22 10:02:12"
   },
   {
     "id": 1306293,
@@ -2655,7 +2655,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 7.4847,
+    "popularidad": 6.0503,
     "puntuación": 5.867,
     "votos": 15,
     "adulto": false,
@@ -2711,7 +2711,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-21 22:02:22"
+    "última_actualización": "2025-08-22 10:02:12"
   },
   {
     "id": 1254135,
@@ -2778,7 +2778,7 @@
         "name": "Bélica"
       }
     ],
-    "popularidad": 4.0607,
+    "popularidad": 4.2721,
     "puntuación": 6.73,
     "votos": 63,
     "adulto": false,
@@ -2834,7 +2834,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-21 22:02:22"
+    "última_actualización": "2025-08-22 10:02:12"
   },
   {
     "id": 1086497,
@@ -2893,9 +2893,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.4839,
-    "puntuación": 7.075,
-    "votos": 53,
+    "popularidad": 2.5185,
+    "puntuación": 7.056,
+    "votos": 54,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2986,7 +2986,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:22"
+    "última_actualización": "2025-08-22 10:02:12"
   },
   {
     "id": 784524,
@@ -3045,7 +3045,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.2658,
+    "popularidad": 1.926,
     "puntuación": 6.729,
     "votos": 48,
     "adulto": false,
@@ -3138,7 +3138,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:22"
+    "última_actualización": "2025-08-22 10:02:12"
   },
   {
     "id": 1351046,
@@ -3197,7 +3197,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.1454,
+    "popularidad": 1.22,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3226,7 +3226,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-21 22:02:24"
+    "última_actualización": "2025-08-22 10:02:14"
   },
   {
     "id": 1182861,
@@ -3289,7 +3289,7 @@
         "name": "Música"
       }
     ],
-    "popularidad": 0.5018,
+    "popularidad": 0.4562,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3336,7 +3336,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-21 22:02:25"
+    "última_actualización": "2025-08-22 10:02:15"
   },
   {
     "id": 1057823,
@@ -3395,7 +3395,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.2364,
+    "popularidad": 0.221,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3425,7 +3425,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:25"
+    "última_actualización": "2025-08-22 10:02:15"
   },
   {
     "id": 1311031,
@@ -3496,8 +3496,8 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 304.1338,
-    "puntuación": 7.127,
+    "popularidad": 299.5512,
+    "puntuación": 7.1,
     "votos": 83,
     "adulto": false,
     "video": false,
@@ -3598,7 +3598,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:21"
+    "última_actualización": "2025-08-22 10:02:11"
   },
   {
     "id": 648878,
@@ -3665,9 +3665,9 @@
         "name": "Crimen"
       }
     ],
-    "popularidad": 71.9762,
-    "puntuación": 6.541,
-    "votos": 170,
+    "popularidad": 62.4907,
+    "puntuación": 6.558,
+    "votos": 172,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3767,7 +3767,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:21"
+    "última_actualización": "2025-08-22 10:02:11"
   },
   {
     "id": 1181540,
@@ -3834,9 +3834,9 @@
         "name": "Crimen"
       }
     ],
-    "popularidad": 43.6111,
-    "puntuación": 6.819,
-    "votos": 72,
+    "popularidad": 41.2623,
+    "puntuación": 6.822,
+    "votos": 73,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3909,7 +3909,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:21"
+    "última_actualización": "2025-08-22 10:02:11"
   },
   {
     "id": 1238188,
@@ -3972,7 +3972,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 1.714,
+    "popularidad": 1.5363,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4029,7 +4029,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:23"
+    "última_actualización": "2025-08-22 10:02:13"
   },
   {
     "id": 756397,
@@ -4104,7 +4104,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 1.4946,
+    "popularidad": 1.7123,
     "puntuación": 6.7,
     "votos": 24,
     "adulto": false,
@@ -4170,7 +4170,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:23"
+    "última_actualización": "2025-08-22 10:02:13"
   },
   {
     "id": 1440185,
@@ -4227,7 +4227,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 1.4581,
+    "popularidad": 1.9856,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4257,7 +4257,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:24"
+    "última_actualización": "2025-08-22 10:02:13"
   },
   {
     "id": 1001266,
@@ -4310,7 +4310,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.2339,
+    "popularidad": 1.1825,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4320,7 +4320,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-08-21 22:02:24"
+    "última_actualización": "2025-08-22 10:02:14"
   },
   {
     "id": 1219606,
@@ -4379,7 +4379,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.9922,
+    "popularidad": 0.8793,
     "puntuación": 7.0,
     "votos": 1,
     "adulto": false,
@@ -4409,7 +4409,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:25"
+    "última_actualización": "2025-08-22 10:02:14"
   },
   {
     "id": 1144443,
@@ -4472,7 +4472,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 0.6897,
+    "popularidad": 0.5518,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4510,7 +4510,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:25"
+    "última_actualización": "2025-08-22 10:02:15"
   },
   {
     "id": 572732,
@@ -4533,7 +4533,7 @@
     ],
     "actores": [],
     "géneros": [],
-    "popularidad": 0.0985,
+    "popularidad": 0.0872,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4543,7 +4543,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-08-21 22:02:26"
+    "última_actualización": "2025-08-22 10:02:16"
   },
   {
     "id": 1514726,
@@ -4602,7 +4602,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.6387,
+    "popularidad": 0.4377,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4622,7 +4622,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:25"
+    "última_actualización": "2025-08-22 10:02:15"
   },
   {
     "id": 1512705,
@@ -4669,7 +4669,7 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 0.3245,
+    "popularidad": 0.3053,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4679,7 +4679,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-08-21 22:02:25"
+    "última_actualización": "2025-08-22 10:02:15"
   },
   {
     "id": 1290088,
@@ -4732,7 +4732,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.0968,
+    "popularidad": 0.1677,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4779,6 +4779,6 @@
         }
       ]
     },
-    "última_actualización": "2025-08-21 22:02:26"
+    "última_actualización": "2025-08-22 10:02:16"
   }
 ]
