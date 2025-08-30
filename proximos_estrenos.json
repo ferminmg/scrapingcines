@@ -1,1273 +1,5 @@
 [
   {
-    "id": 1267905,
-    "tmdb_id": 1267905,
-    "título": "Los Rose",
-    "título_original": "The Roses",
-    "sinopsis": "La vida parece fácil para la pareja perfecta que forman Ivy y Theo: carreras de éxito, un matrimonio feliz y unos hijos estupendos. Pero detrás de la fachada de su supuesta vida ideal, se avecina una tormenta: la carrera de Theo se desploma mientras que las ambiciones de Ivy despegan, lo que desencadena una caja de Pandora de competitividad y resentimiento ocultos.",
-    "poster_path": "/lXumhtgMOxA3aqocplC8YIMwOv8.jpg",
-    "poster_local": "imagenes_estrenos/Los_Rose_lXumhtgMOxA3aqocplC8YIMwOv8.jpg",
-    "backdrop_path": "/A5m0wi9rm4kxf9T5wFn3pBqaLtp.jpg",
-    "backdrop_local": "imagenes_estrenos/Los_Rose_backdrop_7N0s2TFPl0sz6e7dXG8DaQrUUin.jpg",
-    "fecha_estreno": "2025-08-29T00:00:00.000Z",
-    "duración": "105 min",
-    "director": "Jay Roach",
-    "directores": [
-      {
-        "name": "Jay Roach",
-        "id": 6737
-      }
-    ],
-    "actores": [
-      {
-        "name": "Benedict Cumberbatch",
-        "id": 71580,
-        "character": "Theo",
-        "profile_path": "/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
-      },
-      {
-        "name": "Olivia Colman",
-        "id": 39187,
-        "character": "Ivy",
-        "profile_path": "/lawJUdbLb1YW0niaYjiVGR9IBG8.jpg"
-      },
-      {
-        "name": "Andy Samberg",
-        "id": 62861,
-        "character": "Barry",
-        "profile_path": "/jMXU5oG3i93SH1yhkpbBGskFiJl.jpg"
-      },
-      {
-        "name": "Kate McKinnon",
-        "id": 1240487,
-        "character": "Amy",
-        "profile_path": "/7o26OzpEPAUma65jGQZop9d52gy.jpg"
-      },
-      {
-        "name": "Allison Janney",
-        "id": 19,
-        "character": "Eleanor",
-        "profile_path": "/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 13.2928,
-    "puntuación": 8.0,
-    "votos": 1,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/A5m0wi9rm4kxf9T5wFn3pBqaLtp.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/7N0s2TFPl0sz6e7dXG8DaQrUUin.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/OlfN7Rf3y6mveULIy8Mgq4rOyv.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/4ygHZ8LPwcJNk9LfpWmKeW00sPY.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/aKfz8RQnIm1s65erA73XJzxe97K.jpg",
-          "vote_average": 0.166,
-          "vote_count": 2,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/d37vlfwt17BIQn82HZ5HESpWZri.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/5R38PY1mvRBIpGGxYSzZyY9ug6j.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/8U6WyQdXHxn3v9eFYiRyGyeVoU9.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/blI7uzMgR0ZRvmzilmkNJrHP5Jl.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/gfH0CVLjV4xfJCAryaVhKPt5xmb.jpg",
-          "vote_average": 1.222,
-          "vote_count": 2,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-08-26 22:02:19"
-  },
-  {
-    "id": 972533,
-    "tmdb_id": 972533,
-    "título": "Sin oxígeno",
-    "título_original": "Last Breath",
-    "sinopsis": "La increíble historia real de Chris Lemons (Finn Cole), un buzo profesional que, tras un extraño accidente, queda atrapado en el fondo del Mar del Norte. Con tan solo 10 minutos de oxígeno de emergencia y a más de media hora de cualquier esperanza de rescate, esta es la lucha imposible de un hombre por sobrevivir a 90 metros de profundidad. Mientras tanto, en la superficie, sus compañeros Duncan (Woody Harrelson) y Dave (Simu Liu) lucharán contra una feroz tormenta y harán todo lo posible por rescatarlo con vida.",
-    "poster_path": "/yXSsRxw89KDfUs1mdyQuUDUTLvI.jpg",
-    "poster_local": "imagenes_estrenos/Sin_ox_geno_yXSsRxw89KDfUs1mdyQuUDUTLvI.jpg",
-    "backdrop_path": "/661n67NhaW12hC2ux7Tm2KgR1u1.jpg",
-    "backdrop_local": "imagenes_estrenos/Sin_ox_geno_backdrop_661n67NhaW12hC2ux7Tm2KgR1u1.jpg",
-    "fecha_estreno": "2025-08-29T00:00:00.000Z",
-    "duración": "93 min",
-    "director": "Alex Parkinson",
-    "directores": [
-      {
-        "name": "Alex Parkinson",
-        "id": 2202407
-      }
-    ],
-    "actores": [
-      {
-        "name": "Woody Harrelson",
-        "id": 57755,
-        "character": "Duncan Allcock",
-        "profile_path": "/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
-      },
-      {
-        "name": "Simu Liu",
-        "id": 1489211,
-        "character": "David Yuasa",
-        "profile_path": "/xc7I32luBZfJgx9lm92aT9xiI6T.jpg"
-      },
-      {
-        "name": "Finn Cole",
-        "id": 1508313,
-        "character": "Chris Lemons",
-        "profile_path": "/fBRdM1HDRqvZP52lsQAzREZubwa.jpg"
-      },
-      {
-        "name": "Cliff Curtis",
-        "id": 7248,
-        "character": "Andre Jenson (Captain)",
-        "profile_path": "/3D6qz8vL6DWHAO3HeXeaSuwxq3s.jpg"
-      },
-      {
-        "name": "Mark Bonnar",
-        "id": 1231402,
-        "character": "Craig (Dive Supervisor)",
-        "profile_path": "/qEOp1lj0HGAVy1wpqIxMNkxIzn7.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 53,
-        "name": "Suspense"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 7.3876,
-    "puntuación": 6.968,
-    "votos": 395,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/661n67NhaW12hC2ux7Tm2KgR1u1.jpg",
-          "vote_average": 10.0,
-          "vote_count": 5,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/eAlnmJt8Pd8vB1BJGbIeuO4wkfS.jpg",
-          "vote_average": 5.25,
-          "vote_count": 12,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/dGULFnPJKPh0sdu3F64YmQ0qcym.jpg",
-          "vote_average": 5.25,
-          "vote_count": 10,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/nwW328vGoy83xicIwBLK7J6DuaV.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/tFNnex0vvGqqGVU4NQzUh1AF1Cq.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/n74aeSburl1MhCNFlQxHxXp0NVn.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/dGKrfut5qWwEw7vS91N3JQty1OK.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.7,
-          "height": 2430,
-          "iso_639_1": null,
-          "file_path": "/920sg6Ok8byvLGRfEVv68JTHSPP.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1700
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/koAkpcTCQ44oBePUdgdBZIrjp1m.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.666,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/x2e1Lqq36I7g1diGxRs5cinn20b.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1999
-        }
-      ]
-    },
-    "última_actualización": "2025-08-26 22:02:19"
-  },
-  {
-    "id": 1519553,
-    "tmdb_id": 1519553,
-    "título": "Madrid, Ext.",
-    "título_original": "Madrid, Ext.",
-    "sinopsis": "Ensayo fílmico acerca de la ciudad y el paso del tiempo, de sus transformaciones y sus contradicciones. Es un homenaje a Madrid a modo de gran archivo visual y sonoro de sus habitantes y localizaciones donde se cruza comercio y fauna, arquitectura y señoras, mercerías y poetas, constructores y destructores de la ciudad.",
-    "poster_path": "/aLl48zQzbVZZ9pJJ0f0aG3GiakN.jpg",
-    "poster_local": "imagenes_estrenos/Madrid__Ext__aLl48zQzbVZZ9pJJ0f0aG3GiakN.jpg",
-    "backdrop_path": "/oYVKqpnoQ9y2yjr6UywBSdXuNOd.jpg",
-    "backdrop_local": "imagenes_estrenos/Madrid__Ext__backdrop_oYVKqpnoQ9y2yjr6UywBSdXuNOd.jpg",
-    "fecha_estreno": "2025-08-29T00:00:00.000Z",
-    "duración": "93 min",
-    "director": "Juan Cavestany",
-    "directores": [
-      {
-        "name": "Juan Cavestany",
-        "id": 225020
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 4.099,
-    "puntuación": 10.0,
-    "votos": 1,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/oYVKqpnoQ9y2yjr6UywBSdXuNOd.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/irMdyi6rMcYfI64JWOOj3p2Lwu8.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/oju0QGNIuvSHBriQYwIXsYHoZlg.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-08-26 22:02:19"
-  },
-  {
-    "id": 1316147,
-    "tmdb_id": 1316147,
-    "título": "El Gran Premio; A todo Gas!!",
-    "título_original": "Grand Prix of Europe",
-    "sinopsis": "",
-    "poster_path": "/uOEgCIpKtZZ7Iz6kXe3LvTPldje.jpg",
-    "poster_local": "imagenes_estrenos/El_Gran_Premio__A_todo_Gas___uOEgCIpKtZZ7Iz6kXe3LvTPldje.jpg",
-    "backdrop_path": "/te6lZvv2XcUZ8PTALSMj7R4GiCX.jpg",
-    "backdrop_local": "imagenes_estrenos/El_Gran_Premio__A_todo_Gas___backdrop_te6lZvv2XcUZ8PTALSMj7R4GiCX.jpg",
-    "fecha_estreno": "2025-08-29T00:00:00.000Z",
-    "duración": "98 min",
-    "director": "Waldemar Fast",
-    "directores": [
-      {
-        "name": "Waldemar Fast",
-        "id": 4826007
-      }
-    ],
-    "actores": [
-      {
-        "name": "Gemma Arterton",
-        "id": 59620,
-        "character": "Edda (voice)",
-        "profile_path": "/Alfm28oyHNiYweNCUaMmrVjVMAT.jpg"
-      },
-      {
-        "name": "Thomas Brodie-Sangster",
-        "id": 25663,
-        "character": "Ed (voice)",
-        "profile_path": "/ovfgjgaE7aAXKYaemABX6pJFwRk.jpg"
-      },
-      {
-        "name": "Hayley Atwell",
-        "id": 39459,
-        "character": "Cindy (voice)",
-        "profile_path": "/x57wXHexIjD2ywly9cRA4rov7cu.jpg"
-      },
-      {
-        "name": "Lenny Henry",
-        "id": 53519,
-        "character": "Erwin (voice)",
-        "profile_path": "/aT5zYMfGI3x4sGtCs9QM4gT0G2h.jpg"
-      },
-      {
-        "name": "Colin McFarlane",
-        "id": 128386,
-        "character": "(voice)",
-        "profile_path": "/tCLiWpKooSQJfyC260qNeNYTe9S.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 12,
-        "name": "Aventura"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 1.9237,
-    "puntuación": 7.2,
-    "votos": 4,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/te6lZvv2XcUZ8PTALSMj7R4GiCX.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/w23xIXHBsOHuv08IWdZpm6gfsLS.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/3WpJ3t13VFeyvAdFuvYkDeGwE0C.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/acWCWq1yh4ZobxyP3KjUQm1toFr.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/eEWdfYSuT0Rn4XY7HGL5wRUaAzW.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-08-26 22:02:20"
-  },
-  {
-    "id": 1312157,
-    "tmdb_id": 1312157,
-    "título": "Locamente",
-    "título_original": "FolleMente",
-    "sinopsis": "En su primera cita, Piero y Lara intentan impresionarse, pero dentro de sus cabezas reina el caos. Las múltiples personalidades que ocupan su mente — la romántica, la racional, la insegura y la pasional— pelean por el control de la situación. Discuten, seducen, sabotean y a veces pierden los nervios. ¿Quién ganará la batalla interior? ¿El corazón o el deseo? Las expectativas son altas y la noche promete.",
-    "poster_path": "/xu8S0c15iUIWWmQh1x7OGld1KlH.jpg",
-    "poster_local": "imagenes_estrenos/Locamente_xu8S0c15iUIWWmQh1x7OGld1KlH.jpg",
-    "backdrop_path": "/pPa1BCiVQUv6sJnvxGmhukJklFs.jpg",
-    "backdrop_local": "imagenes_estrenos/Locamente_backdrop_pPa1BCiVQUv6sJnvxGmhukJklFs.jpg",
-    "fecha_estreno": "2025-08-29T00:00:00.000Z",
-    "duración": "97 min",
-    "director": "Paolo Genovese",
-    "directores": [
-      {
-        "name": "Paolo Genovese",
-        "id": 225160
-      }
-    ],
-    "actores": [
-      {
-        "name": "Edoardo Leo",
-        "id": 1047948,
-        "character": "Piero",
-        "profile_path": "/coKBvQI0zhAHz0DwiLEmgpaCvn4.jpg"
-      },
-      {
-        "name": "Pilar Fogliati",
-        "id": 1588444,
-        "character": "Lara",
-        "profile_path": "/okUcQvsAJZpoUN8YcfExRmPCTC4.jpg"
-      },
-      {
-        "name": "Emanuela Fanelli",
-        "id": 1689522,
-        "character": "Trilli",
-        "profile_path": "/iBnInh4sJq0VQKITiHPp4R5gJWc.jpg"
-      },
-      {
-        "name": "Maria Chiara Giannetta",
-        "id": 2086629,
-        "character": "Scheggia",
-        "profile_path": "/hej1rYJi1qZ5LuIylFh0gMZqOHF.jpg"
-      },
-      {
-        "name": "Claudia Pandolfi",
-        "id": 126984,
-        "character": "Alfa",
-        "profile_path": "/iMpEYOtePEw3SeFsb6brwp0Hahu.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      }
-    ],
-    "popularidad": 1.5561,
-    "puntuación": 7.258,
-    "votos": 457,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/pPa1BCiVQUv6sJnvxGmhukJklFs.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/9UL0hOzqQr2rJpiJSUZE044EUYS.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/ehvTKhLC78QuwmrVcwIFin0MfHC.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/f0sZ2WcB6GUVXUQnXlNE2asIR0j.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/upL8PGP7GqFXNv2iCmVwp0iySZC.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-08-26 22:02:20"
-  },
-  {
-    "id": 1252182,
-    "tmdb_id": 1252182,
-    "título": "El volcán",
-    "título_original": "Pod wulkanem",
-    "sinopsis": "Una familia ucraniana está disfrutando de sus últimos días de vacaciones en Tenerife. Ignoran completamente que su vida dará un vuelco inesperado cuando llegan al aeropuerto y les informan que su vuelo ha sido cancelado: Rusia ha invadido Ucrania. Atrapados en la isla, la familia de turistas pasa de convertirse de la noche a la mañana en refugiados.",
-    "poster_path": "/nmYZTGxJytTP6oTg0rMMxI27vvg.jpg",
-    "poster_local": "imagenes_estrenos/El_volc_n_nmYZTGxJytTP6oTg0rMMxI27vvg.jpg",
-    "backdrop_path": "/mSor3C78wpTKumUp957arHLrdAm.jpg",
-    "backdrop_local": "imagenes_estrenos/El_volc_n_backdrop_mSor3C78wpTKumUp957arHLrdAm.jpg",
-    "fecha_estreno": "2025-08-29T00:00:00.000Z",
-    "duración": "105 min",
-    "director": "Damian Kocur",
-    "directores": [
-      {
-        "name": "Damian Kocur",
-        "id": 2130589
-      }
-    ],
-    "actores": [
-      {
-        "name": "Sofia Berezovska",
-        "id": 4063708,
-        "character": "Sofia",
-        "profile_path": null
-      },
-      {
-        "name": "Анастасія Карпенко",
-        "id": 2518718,
-        "character": "Nastia",
-        "profile_path": "/1RHHE1wnIPgaByAsY7qHJjmdBlq.jpg"
-      },
-      {
-        "name": "Роман Луцький",
-        "id": 1822798,
-        "character": "Roma",
-        "profile_path": "/5BCrlruiKy1PlJ7GqUOpdn1Onyy.jpg"
-      },
-      {
-        "name": "Fedir Pugachov",
-        "id": 4564915,
-        "character": "Fedir",
-        "profile_path": null
-      },
-      {
-        "name": "Almira Hryhorets",
-        "id": 4915186,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10752,
-        "name": "Bélica"
-      }
-    ],
-    "popularidad": 1.4818,
-    "puntuación": 5.8,
-    "votos": 4,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/mSor3C78wpTKumUp957arHLrdAm.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-08-26 22:02:20"
-  },
-  {
-    "id": 1519538,
-    "tmdb_id": 1519538,
-    "título": "Urbana, la película",
-    "título_original": "Urbana, la película",
-    "sinopsis": "Cuando un artista urbano es asesinado en la ciudad de Panamá, JC, un despiadado narcotraficante colombiano, amenaza con iniciar una guerra total con los miembros del cártel, ya que la DEA los tiene a todos bajo vigilancia.",
-    "poster_path": "/pcXqmcafS5xoI9nLMmri8sikpn5.jpg",
-    "poster_local": "imagenes_estrenos/Urbana__la_pel_cula_9x7RDagEvb61ga3VlBS5E7AVwtt.jpg",
-    "backdrop_path": "/bGpFUgE3twOja0svujsYKrVP8kc.jpg",
-    "backdrop_local": "imagenes_estrenos/Urbana__la_pel_cula_backdrop_bGpFUgE3twOja0svujsYKrVP8kc.jpg",
-    "fecha_estreno": "2025-08-29T00:00:00.000Z",
-    "duración": "92 min",
-    "director": "Mike Niche",
-    "directores": [
-      {
-        "name": "Mike Niche",
-        "id": 5587731
-      }
-    ],
-    "actores": [
-      {
-        "name": "Flora Martínez",
-        "id": 66913,
-        "character": "La Jefa",
-        "profile_path": "/r2A4acUJEYit2Lh4ehT72a0RuNB.jpg"
-      },
-      {
-        "name": "Lenard Vanderaa",
-        "id": 2233468,
-        "character": "Pedro",
-        "profile_path": null
-      },
-      {
-        "name": "Fernando Solórzano",
-        "id": 942617,
-        "character": "El Jefe",
-        "profile_path": "/6prPbNJDuwRyPspjGUd5PPk57VE.jpg"
-      },
-      {
-        "name": "Carrell Lasso",
-        "id": 3294512,
-        "character": "Panamá",
-        "profile_path": null
-      },
-      {
-        "name": "Lina Nieto",
-        "id": 5587707,
-        "character": "Informant",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 28,
-        "name": "Acción"
-      }
-    ],
-    "popularidad": 1.4679,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/bGpFUgE3twOja0svujsYKrVP8kc.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/16033xk7WQN27dviH74rHldXpJu.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-08-26 22:02:20"
-  },
-  {
-    "id": 1293244,
-    "tmdb_id": 1293244,
-    "título": "Amor en cuatro letras",
-    "título_original": "Four Letters of Love",
-    "sinopsis": "Basado en la novela más vendida de Niall Williams. Nicholas e Isabel fueron hechos el uno para el otro, pero ¿cómo lo sabrán? Así como los fantasmas, el destino y el puro poder del amor verdadero los unen, la vida también amenaza con separarlos.",
-    "poster_path": "/e3DlPw9ok4DU2fBOJflLxV56feu.jpg",
-    "poster_local": "imagenes_estrenos/Amor_en_cuatro_letras_q2cvZZmKow5dFzGVlixkC9tUo3C.jpg",
-    "backdrop_path": "/gcA4dwi8vFMPF0inS84j25kx69P.jpg",
-    "backdrop_local": "imagenes_estrenos/Amor_en_cuatro_letras_backdrop_gcA4dwi8vFMPF0inS84j25kx69P.jpg",
-    "fecha_estreno": "2025-08-29T00:00:00.000Z",
-    "duración": "110 min",
-    "director": "Polly Steele",
-    "directores": [
-      {
-        "name": "Polly Steele",
-        "id": 1702841
-      }
-    ],
-    "actores": [
-      {
-        "name": "Fionn O'Shea",
-        "id": 1118363,
-        "character": "Nicholas Coughlan",
-        "profile_path": "/9N6urqHr74JaBVfV227Wj4aDHL6.jpg"
-      },
-      {
-        "name": "Ann Skelly",
-        "id": 1429007,
-        "character": "Isabel Gore",
-        "profile_path": "/3GGcZVnhdAeJskoKZJg44CAIy6X.jpg"
-      },
-      {
-        "name": "Pierce Brosnan",
-        "id": 517,
-        "character": "William Coughlan",
-        "profile_path": "/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg"
-      },
-      {
-        "name": "Helena Bonham Carter",
-        "id": 1283,
-        "character": "Margaret Gore",
-        "profile_path": "/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
-      },
-      {
-        "name": "Gabriel Byrne",
-        "id": 5168,
-        "character": "Muiris Gore",
-        "profile_path": "/9r9oDGENg92VYYFMkV4C09IUlrb.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 10749,
-        "name": "Romance"
-      },
-      {
-        "id": 14,
-        "name": "Fantasía"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 1.4002,
-    "puntuación": 6.3,
-    "votos": 6,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/gcA4dwi8vFMPF0inS84j25kx69P.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.78,
-          "height": 863,
-          "iso_639_1": null,
-          "file_path": "/8dW3sbtLXpQ89fGzKwVKHEhtr0X.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1536
-        },
-        {
-          "aspect_ratio": 1.779,
-          "height": 1942,
-          "iso_639_1": null,
-          "file_path": "/uyRaqSAPApLgkdeYX8AEQRWNKSo.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3454
-        },
-        {
-          "aspect_ratio": 1.779,
-          "height": 1942,
-          "iso_639_1": null,
-          "file_path": "/XXMsdNCdfvCIuDe6foI2UaiMGd.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3454
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1943,
-          "iso_639_1": null,
-          "file_path": "/xfBCQf4GCdek2WfX1kKNhYEavbA.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3454
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-08-26 22:02:21"
-  },
-  {
-    "id": 1002155,
-    "tmdb_id": 1002155,
-    "título": "Monsieur Aznavour",
-    "título_original": "Monsieur Aznavour",
-    "sinopsis": "",
-    "poster_path": "/23FkaTaAosaTcTgyuJdTf7TvcJu.jpg",
-    "poster_local": "imagenes_estrenos/Monsieur_Aznavour_23FkaTaAosaTcTgyuJdTf7TvcJu.jpg",
-    "backdrop_path": "/jLvNVWqyfvaMaYrOwtuVmNaGGXQ.jpg",
-    "backdrop_local": "imagenes_estrenos/Monsieur_Aznavour_backdrop_jLvNVWqyfvaMaYrOwtuVmNaGGXQ.jpg",
-    "fecha_estreno": "2025-08-29T00:00:00.000Z",
-    "duración": "134 min",
-    "director": "Grand Corps Malade, Mehdi Idir",
-    "directores": [
-      {
-        "name": "Grand Corps Malade",
-        "id": 1186858
-      },
-      {
-        "name": "Mehdi Idir",
-        "id": 1562429
-      }
-    ],
-    "actores": [
-      {
-        "name": "Tahar Rahim",
-        "id": 81051,
-        "character": "Charles Aznavour",
-        "profile_path": "/r1SJ9nkG9q4JbPHbtcvcVxmRcHw.jpg"
-      },
-      {
-        "name": "Bastien Bouillon",
-        "id": 910944,
-        "character": "Pierre Roche",
-        "profile_path": "/8ksm25v40MS2p2y0EyyNrxdt7it.jpg"
-      },
-      {
-        "name": "Marie-Julie Baup",
-        "id": 99304,
-        "character": "Edith Piaf",
-        "profile_path": "/8o3zCF8Cb5nDzgmgimobatzaQGu.jpg"
-      },
-      {
-        "name": "Luc Antoni",
-        "id": 1757024,
-        "character": "Raoul Breton",
-        "profile_path": "/3QzlgZMFBab1EdSAGww8lMKXqLc.jpg"
-      },
-      {
-        "name": "Nicolas Chupin",
-        "id": 1622994,
-        "character": "Jean-Louis Marquet",
-        "profile_path": "/dLP97PyuAlJz2vxHmBWg0rGiSlg.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 36,
-        "name": "Historia"
-      },
-      {
-        "id": 10402,
-        "name": "Música"
-      }
-    ],
-    "popularidad": 1.3855,
-    "puntuación": 7.308,
-    "votos": 252,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/jLvNVWqyfvaMaYrOwtuVmNaGGXQ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/6mChyZ4b7cbzkZVDfbokbOHLzcU.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/1M9A2kW2jGCBEltdxrodXmujTEC.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/3Pvs0wzCHGsTBZd15q0Y6WpDSQW.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.779,
-          "height": 2159,
-          "iso_639_1": null,
-          "file_path": "/AwfFdLt1Odsy7vPEWozQQKBtwT9.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.666,
-          "height": 1280,
-          "iso_639_1": null,
-          "file_path": "/npA73iWIgKG0La9nDfjLCzmDZNg.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 853
-        }
-      ]
-    },
-    "última_actualización": "2025-08-26 22:02:21"
-  },
-  {
-    "id": 1304625,
-    "tmdb_id": 1304625,
-    "título": "Campamento Garra de Oso",
-    "título_original": "Campamento Garra de Oso",
-    "sinopsis": "Maia, una imaginativa y alborotada niña, y Jan, un niño miedica de ciudad, lucharán a contrarreloj para salvar el campamento de verano amenazado por el excéntrico constructor Sebastián Sebastián. Para ello, buscarán sin descanso un oso que creen que todavía habita en el valle pero que nadie ha visto. En esta intrépida aventura les ayudará Fritz, una divertida y gruñona mofeta… ¡que habla! y que se unirá al equipo para salvar el valle y sus animales.",
-    "poster_path": "/oyDatWcNymovwg9FhmDoffrIdtM.jpg",
-    "poster_local": "imagenes_estrenos/Campamento_Garra_de_Oso_jKqQWMDybmxou1c7J8Eim11rGzq.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-08-29T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Sílvia Quer",
-    "directores": [
-      {
-        "name": "Sílvia Quer",
-        "id": 1141769
-      }
-    ],
-    "actores": [
-      {
-        "name": "Júlia Raya",
-        "id": 4775227,
-        "character": "Maia",
-        "profile_path": null
-      },
-      {
-        "name": "Martín Abello",
-        "id": 4775228,
-        "character": "Jan",
-        "profile_path": null
-      },
-      {
-        "name": "Anabel Alonso",
-        "id": 24894,
-        "character": "López",
-        "profile_path": "/h5QM85iI4726m8OgbZGZxkuC6aA.jpg"
-      },
-      {
-        "name": "Edu Soto",
-        "id": 118209,
-        "character": "Gómez",
-        "profile_path": "/9DkWGASgjyv1Tk6RnZNuYXtHLAq.jpg"
-      },
-      {
-        "name": "Gonçalo Diniz",
-        "id": 1902792,
-        "character": "Sebastián Sebastián",
-        "profile_path": "/iCtj8hAq1Sz7GmDKv4HzVC3pis9.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 0.888,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.707,
-          "height": 828,
-          "iso_639_1": null,
-          "file_path": "/jKqQWMDybmxou1c7J8Eim11rGzq.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 585
-        }
-      ]
-    },
-    "última_actualización": "2025-08-26 22:02:21"
-  },
-  {
-    "id": 1361451,
-    "tmdb_id": 1361451,
-    "título": "La tierra negra",
-    "título_original": "La terra negra",
-    "sinopsis": "María trabaja con su hermano Ángel en un negocio familiar, el molino industrial del pueblo, que abandonó hace años. Ella, desterrada de todo, trabaja metódicamente para sobrevivir mientras los amigos de Ángel contemplan con satisfacción el regreso de María, saboreando su fracaso vital. Ángel contrata a Miquel, y entre él y María nace una admiración mutua. La presencia del extranjero causa temor porque Miquel ha estado en la cárcel y además hay algo místico en él capaz de influir en los demás.",
-    "poster_path": "/rMsYibvmn9sg5m6oIaVeYOu95UM.jpg",
-    "poster_local": "imagenes_estrenos/La_tierra_negra_3iRxZlTSkXUON99zEq1iZQV2VH2.jpg",
-    "backdrop_path": "/dFzKhPaC4wIMmp6eHQr1a2EBstH.jpg",
-    "backdrop_local": "imagenes_estrenos/La_tierra_negra_backdrop_dFzKhPaC4wIMmp6eHQr1a2EBstH.jpg",
-    "fecha_estreno": "2025-08-29T00:00:00.000Z",
-    "duración": "98 min",
-    "director": "Alberto Morais",
-    "directores": [
-      {
-        "name": "Alberto Morais",
-        "id": 1074938
-      }
-    ],
-    "actores": [
-      {
-        "name": "Laia Marull",
-        "id": 16974,
-        "character": "María",
-        "profile_path": "/9UCGtbwtrgXuQSgznmXvVgKIEmQ.jpg"
-      },
-      {
-        "name": "Sergi López",
-        "id": 16972,
-        "character": "Miquel",
-        "profile_path": "/n3HcmUflYYaHUiQmzaayi0yqcRf.jpg"
-      },
-      {
-        "name": "Andrés Gertrúdix",
-        "id": 51905,
-        "character": "Ángel",
-        "profile_path": "/qR9EyorWi9Z8WnoFcY5AskYBW4B.jpg"
-      },
-      {
-        "name": "Abdelatif Hwidar",
-        "id": 1149052,
-        "character": "David",
-        "profile_path": "/zeJjozJIvaa0qlZRufSC0J2sr86.jpg"
-      },
-      {
-        "name": "Álvaro Báguena",
-        "id": 3820283,
-        "character": "Pere",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 80,
-        "name": "Crimen"
-      }
-    ],
-    "popularidad": 0.4402,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1099,
-          "iso_639_1": null,
-          "file_path": "/dFzKhPaC4wIMmp6eHQr1a2EBstH.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1954
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1031,
-          "iso_639_1": null,
-          "file_path": "/iSe8mpNFAXxog6pHdNhnZPXfXoh.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1833
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.715,
-          "height": 768,
-          "iso_639_1": null,
-          "file_path": "/3iRxZlTSkXUON99zEq1iZQV2VH2.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 549
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/bvL2ZIYWQ2faA7Ai5DnaQYT1pa0.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/2SYM0yzhBaCObR2kUEnjhFH7F6I.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-08-26 22:02:22"
-  },
-  {
     "id": 1503738,
     "tmdb_id": 1503738,
     "título": "The Websim Movie",
@@ -1387,7 +119,7 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 0.9132,
+    "popularidad": 0.8083,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1426,7 +158,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:03:01"
+    "última_actualización": "2025-08-30 10:02:59"
   },
   {
     "id": 1038392,
@@ -1489,9 +221,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 47.0978,
-    "puntuación": 6.0,
-    "votos": 3,
+    "popularidad": 55.4974,
+    "puntuación": 0.0,
+    "votos": 0,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1591,7 +323,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:02:59"
+    "última_actualización": "2025-08-30 10:02:58"
   },
   {
     "id": 1086497,
@@ -1650,7 +382,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 5.2573,
+    "popularidad": 5.4148,
     "puntuación": 7.051,
     "votos": 59,
     "adulto": false,
@@ -1752,7 +484,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:02:59"
+    "última_actualización": "2025-08-30 10:02:58"
   },
   {
     "id": 1254135,
@@ -1819,7 +551,7 @@
         "name": "Bélica"
       }
     ],
-    "popularidad": 3.6464,
+    "popularidad": 3.9987,
     "puntuación": 6.742,
     "votos": 64,
     "adulto": false,
@@ -1875,7 +607,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-29 22:02:59"
+    "última_actualización": "2025-08-30 10:02:58"
   },
   {
     "id": 1306293,
@@ -1938,9 +670,9 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 3.065,
-    "puntuación": 5.706,
-    "votos": 17,
+    "popularidad": 3.1031,
+    "puntuación": 5.611,
+    "votos": 18,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1994,7 +726,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-29 22:03:00"
+    "última_actualización": "2025-08-30 10:02:58"
   },
   {
     "id": 784524,
@@ -2053,7 +785,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.7751,
+    "popularidad": 2.2154,
     "puntuación": 6.7,
     "votos": 48,
     "adulto": false,
@@ -2146,7 +878,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:03:00"
+    "última_actualización": "2025-08-30 10:02:59"
   },
   {
     "id": 1182861,
@@ -2209,7 +941,7 @@
         "name": "Música"
       }
     ],
-    "popularidad": 0.8599,
+    "popularidad": 0.919,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2256,7 +988,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-29 22:03:01"
+    "última_actualización": "2025-08-30 10:03:00"
   },
   {
     "id": 1351046,
@@ -2315,7 +1047,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.7673,
+    "popularidad": 0.6954,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2344,7 +1076,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-29 22:03:01"
+    "última_actualización": "2025-08-30 10:03:00"
   },
   {
     "id": 1057823,
@@ -2403,7 +1135,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.0925,
+    "popularidad": 0.1027,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2433,7 +1165,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:03:02"
+    "última_actualización": "2025-08-30 10:03:01"
   },
   {
     "id": 1503422,
@@ -2474,7 +1206,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.3786,
+    "popularidad": 0.4526,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2494,7 +1226,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-29 22:03:02"
+    "última_actualización": "2025-08-30 10:03:00"
   },
   {
     "id": 1311031,
@@ -2565,8 +1297,8 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 515.3334,
-    "puntuación": 7.133,
+    "popularidad": 483.0503,
+    "puntuación": 7.1,
     "votos": 94,
     "adulto": false,
     "video": false,
@@ -2667,7 +1399,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:02:58"
+    "última_actualización": "2025-08-30 10:02:57"
   },
   {
     "id": 1181540,
@@ -2734,7 +1466,7 @@
         "name": "Crimen"
       }
     ],
-    "popularidad": 35.2325,
+    "popularidad": 34.2114,
     "puntuación": 6.861,
     "votos": 79,
     "adulto": false,
@@ -2809,7 +1541,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:02:59"
+    "última_actualización": "2025-08-30 10:02:58"
   },
   {
     "id": 648878,
@@ -2876,9 +1608,9 @@
         "name": "Crimen"
       }
     ],
-    "popularidad": 28.9968,
-    "puntuación": 6.5,
-    "votos": 211,
+    "popularidad": 26.8805,
+    "puntuación": 6.474,
+    "votos": 214,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2969,7 +1701,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:02:59"
+    "última_actualización": "2025-08-30 10:02:58"
   },
   {
     "id": 1238188,
@@ -3032,7 +1764,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 2.7489,
+    "popularidad": 2.9034,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3089,7 +1821,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:03:00"
+    "última_actualización": "2025-08-30 10:02:59"
   },
   {
     "id": 1440185,
@@ -3146,7 +1878,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 1.9433,
+    "popularidad": 1.6077,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3176,7 +1908,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:03:00"
+    "última_actualización": "2025-08-30 10:02:59"
   },
   {
     "id": 756397,
@@ -3251,7 +1983,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 1.4878,
+    "popularidad": 1.5732,
     "puntuación": 6.68,
     "votos": 25,
     "adulto": false,
@@ -3317,7 +2049,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:03:00"
+    "última_actualización": "2025-08-30 10:02:59"
   },
   {
     "id": 1144443,
@@ -3380,7 +2112,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 0.4334,
+    "popularidad": 0.409,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3418,7 +2150,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:03:01"
+    "última_actualización": "2025-08-30 10:03:00"
   },
   {
     "id": 1001266,
@@ -3471,7 +2203,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.3009,
+    "popularidad": 0.2556,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3481,7 +2213,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-08-29 22:03:02"
+    "última_actualización": "2025-08-30 10:03:00"
   },
   {
     "id": 1219606,
@@ -3540,7 +2272,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.1253,
+    "popularidad": 0.2818,
     "puntuación": 7.0,
     "votos": 1,
     "adulto": false,
@@ -3570,7 +2302,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:03:02"
+    "última_actualización": "2025-08-30 10:03:01"
   },
   {
     "id": 572732,
@@ -3593,7 +2325,7 @@
     ],
     "actores": [],
     "géneros": [],
-    "popularidad": 0.0409,
+    "popularidad": 0.0327,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3603,7 +2335,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-08-29 22:03:03"
+    "última_actualización": "2025-08-30 10:03:01"
   },
   {
     "id": 1514726,
@@ -3662,7 +2394,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.1974,
+    "popularidad": 0.2503,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3682,7 +2414,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:03:02"
+    "última_actualización": "2025-08-30 10:03:00"
   },
   {
     "id": 1512705,
@@ -3729,7 +2461,7 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 0.0621,
+    "popularidad": 0.051,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3739,7 +2471,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-08-29 22:03:02"
+    "última_actualización": "2025-08-30 10:03:01"
   },
   {
     "id": 1290088,
@@ -3792,7 +2524,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.0511,
+    "popularidad": 0.0286,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3839,7 +2571,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:03:03"
+    "última_actualización": "2025-08-30 10:03:01"
   },
   {
     "id": 1537256,
@@ -3893,7 +2625,7 @@
       }
     ],
     "géneros": [],
-    "popularidad": 0.0214,
+    "popularidad": 0.0193,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3903,7 +2635,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-08-29 22:03:03"
+    "última_actualización": "2025-08-30 10:03:01"
   },
   {
     "id": 507244,
@@ -3970,7 +2702,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 9.4291,
+    "popularidad": 8.9667,
     "puntuación": 6.3,
     "votos": 3,
     "adulto": false,
@@ -3990,7 +2722,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-29 22:02:59"
+    "última_actualización": "2025-08-30 10:02:58"
   },
   {
     "id": 1241921,
@@ -4057,7 +2789,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 4.2478,
+    "popularidad": 4.8483,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4159,7 +2891,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:02:59"
+    "última_actualización": "2025-08-30 10:02:58"
   },
   {
     "id": 1102493,
@@ -4222,9 +2954,9 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 2.7523,
-    "puntuación": 6.733,
-    "votos": 350,
+    "popularidad": 3.3944,
+    "puntuación": 6.736,
+    "votos": 351,
     "adulto": false,
     "video": false,
     "año": "2024",
@@ -4306,7 +3038,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:03:00"
+    "última_actualización": "2025-08-30 10:02:59"
   },
   {
     "id": 1225624,
@@ -4365,7 +3097,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.1247,
+    "popularidad": 1.1273,
     "puntuación": 6.7,
     "votos": 12,
     "adulto": false,
@@ -4431,7 +3163,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:03:00"
+    "última_actualización": "2025-08-30 10:02:59"
   },
   {
     "id": 1063875,
@@ -4494,7 +3226,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 1.0239,
+    "popularidad": 1.805,
     "puntuación": 7.2,
     "votos": 40,
     "adulto": false,
@@ -4560,7 +3292,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:03:01"
+    "última_actualización": "2025-08-30 10:02:59"
   },
   {
     "id": 999160,
@@ -4631,7 +3363,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 0.9032,
+    "popularidad": 0.6327,
     "puntuación": 6.6,
     "votos": 8,
     "adulto": false,
@@ -4678,7 +3410,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-29 22:03:01"
+    "última_actualización": "2025-08-30 10:03:00"
   },
   {
     "id": 1066583,
@@ -4741,7 +3473,7 @@
         "name": "Música"
       }
     ],
-    "popularidad": 0.6613,
+    "popularidad": 0.9538,
     "puntuación": 6.0,
     "votos": 1,
     "adulto": false,
@@ -4771,7 +3503,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-29 22:03:01"
+    "última_actualización": "2025-08-30 10:03:00"
   },
   {
     "id": 1297953,
@@ -4834,7 +3566,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.1015,
+    "popularidad": 0.0764,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4854,6 +3586,6 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-29 22:03:02"
+    "última_actualización": "2025-08-30 10:03:01"
   }
 ]
