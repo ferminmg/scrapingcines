@@ -162,7 +162,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-31 10:03:05"
+    "última_actualización": "2025-08-31 22:03:09"
   },
   {
     "id": 1038392,
@@ -327,7 +327,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-31 10:03:03"
+    "última_actualización": "2025-08-31 22:03:04"
   },
   {
     "id": 1086497,
@@ -488,7 +488,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-31 10:03:04"
+    "última_actualización": "2025-08-31 22:03:05"
   },
   {
     "id": 1254135,
@@ -547,16 +547,16 @@
         "name": "Acción"
       },
       {
-        "id": 53,
-        "name": "Suspense"
-      },
-      {
         "id": 10752,
         "name": "Bélica"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
       }
     ],
     "popularidad": 3.7374,
-    "puntuación": 6.742,
+    "puntuación": 6.7,
     "votos": 64,
     "adulto": false,
     "video": false,
@@ -611,7 +611,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-31 10:03:04"
+    "última_actualización": "2025-08-31 22:03:06"
   },
   {
     "id": 1306293,
@@ -730,7 +730,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-31 10:03:04"
+    "última_actualización": "2025-08-31 22:03:06"
   },
   {
     "id": 784524,
@@ -882,7 +882,95 @@
         }
       ]
     },
-    "última_actualización": "2025-08-31 10:03:04"
+    "última_actualización": "2025-08-31 22:03:06"
+  },
+  {
+    "id": 1351046,
+    "tmdb_id": 1351046,
+    "título": "El Talento",
+    "título_original": "El Talento",
+    "sinopsis": "Elsa es una prometedora estudiante de violonchelo que disfruta de la exclusiva fiesta de aniversario de su amiga Idoia, cuando recibe una inesperada llamada de su madre. Lo que le pide obligará a Elsa a elegir entre su futuro y su dignidad.",
+    "poster_path": "/o95i6lMrVL0tbpp8csJapgZKKqr.jpg",
+    "poster_local": "imagenes_estrenos/El_Talento_o95i6lMrVL0tbpp8csJapgZKKqr.jpg",
+    "backdrop_path": "/aWPAU9dFcPq9uTgCUh5Os6xQ3t1.jpg",
+    "backdrop_local": "imagenes_estrenos/El_Talento_backdrop_aWPAU9dFcPq9uTgCUh5Os6xQ3t1.jpg",
+    "fecha_estreno": "2025-09-05T00:00:00.000Z",
+    "duración": "103 min",
+    "director": "Polo Menárguez",
+    "directores": [
+      {
+        "name": "Polo Menárguez",
+        "id": 2373399
+      }
+    ],
+    "actores": [
+      {
+        "name": "Ester Expósito",
+        "id": 2025252,
+        "character": "Elsa",
+        "profile_path": "/fFUopfnowRJvp2iOIztyUu0v2a.jpg"
+      },
+      {
+        "name": "Pedro Casablanc",
+        "id": 227071,
+        "character": "Ignacio",
+        "profile_path": "/7oXGl8Nr2w7SaES4tbzjw4RYtF0.jpg"
+      },
+      {
+        "name": "Mirela Balić",
+        "id": 3692236,
+        "character": "Idoia",
+        "profile_path": "/xgGvzfTd7FThbehjCtGeSg4UTXP.jpg"
+      },
+      {
+        "name": "Juan Pablo Fuentes",
+        "id": 4244398,
+        "character": "",
+        "profile_path": "/jLfVppw8buGesJWQt1WNnDQKHia.jpg"
+      },
+      {
+        "name": "Carlos Suárez",
+        "id": 2365759,
+        "character": "",
+        "profile_path": "/u5rNLvm41egbGSyRVisFxkzhyPx.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.8948,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.777,
+          "height": 1266,
+          "iso_639_1": null,
+          "file_path": "/aWPAU9dFcPq9uTgCUh5Os6xQ3t1.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2250
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_639_1": null,
+          "file_path": "/eSVnoUbdmmlxJoktbsqOwnSjheo.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1600
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-08-31 22:03:08"
   },
   {
     "id": 1182861,
@@ -992,95 +1080,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-31 10:03:05"
-  },
-  {
-    "id": 1351046,
-    "tmdb_id": 1351046,
-    "título": "El Talento",
-    "título_original": "El Talento",
-    "sinopsis": "Elsa es una prometedora estudiante de violonchelo que disfruta de la exclusiva fiesta de aniversario de su amiga Idoia, cuando recibe una inesperada llamada de su madre. Lo que le pide obligará a Elsa a elegir entre su futuro y su dignidad.",
-    "poster_path": "/o95i6lMrVL0tbpp8csJapgZKKqr.jpg",
-    "poster_local": "imagenes_estrenos/El_Talento_o95i6lMrVL0tbpp8csJapgZKKqr.jpg",
-    "backdrop_path": "/aWPAU9dFcPq9uTgCUh5Os6xQ3t1.jpg",
-    "backdrop_local": "imagenes_estrenos/El_Talento_backdrop_aWPAU9dFcPq9uTgCUh5Os6xQ3t1.jpg",
-    "fecha_estreno": "2025-09-05T00:00:00.000Z",
-    "duración": "103 min",
-    "director": "Polo Menárguez",
-    "directores": [
-      {
-        "name": "Polo Menárguez",
-        "id": 2373399
-      }
-    ],
-    "actores": [
-      {
-        "name": "Ester Expósito",
-        "id": 2025252,
-        "character": "Elsa",
-        "profile_path": "/fFUopfnowRJvp2iOIztyUu0v2a.jpg"
-      },
-      {
-        "name": "Pedro Casablanc",
-        "id": 227071,
-        "character": "Ignacio",
-        "profile_path": "/7oXGl8Nr2w7SaES4tbzjw4RYtF0.jpg"
-      },
-      {
-        "name": "Mirela Balić",
-        "id": 3692236,
-        "character": "Idoia",
-        "profile_path": "/xgGvzfTd7FThbehjCtGeSg4UTXP.jpg"
-      },
-      {
-        "name": "Juan Pablo Fuentes",
-        "id": 4244398,
-        "character": "",
-        "profile_path": "/jLfVppw8buGesJWQt1WNnDQKHia.jpg"
-      },
-      {
-        "name": "Carlos Suárez",
-        "id": 2365759,
-        "character": "",
-        "profile_path": "/u5rNLvm41egbGSyRVisFxkzhyPx.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.8948,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.777,
-          "height": 1266,
-          "iso_639_1": null,
-          "file_path": "/aWPAU9dFcPq9uTgCUh5Os6xQ3t1.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2250
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 900,
-          "iso_639_1": null,
-          "file_path": "/eSVnoUbdmmlxJoktbsqOwnSjheo.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1600
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-08-31 10:03:05"
+    "última_actualización": "2025-08-31 22:03:08"
   },
   {
     "id": 1057823,
@@ -1169,7 +1169,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-31 10:03:07"
+    "última_actualización": "2025-08-31 22:03:11"
   },
   {
     "id": 1503422,
@@ -1230,7 +1230,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-31 10:03:06"
+    "última_actualización": "2025-08-31 22:03:09"
   },
   {
     "id": 1311031,
@@ -1302,8 +1302,8 @@
       }
     ],
     "popularidad": 421.3014,
-    "puntuación": 7.156,
-    "votos": 93,
+    "puntuación": 7.165,
+    "votos": 94,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1403,7 +1403,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-31 10:03:03"
+    "última_actualización": "2025-08-31 22:03:04"
   },
   {
     "id": 1181540,
@@ -1545,7 +1545,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-31 10:03:03"
+    "última_actualización": "2025-08-31 22:03:04"
   },
   {
     "id": 648878,
@@ -1613,8 +1613,8 @@
       }
     ],
     "popularidad": 25.1393,
-    "puntuación": 6.464,
-    "votos": 223,
+    "puntuación": 6.456,
+    "votos": 227,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1705,7 +1705,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-31 10:03:03"
+    "última_actualización": "2025-08-31 22:03:05"
   },
   {
     "id": 1238188,
@@ -1825,94 +1825,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-31 10:03:04"
-  },
-  {
-    "id": 1440185,
-    "tmdb_id": 1440185,
-    "título": "Jone, a veces",
-    "título_original": "Jone, batzuetan",
-    "sinopsis": "Bilbao, pleno agosto. Jone, 20 años, vive con su padre y su hermana pequeña Marta. Aita, el padre de Jone, ha tenido que dejar su trabajo debido a las consecuencias de su Parkinson. Al mismo tiempo, empiezan las fiestas de la Semana Grande de Bilbao en las que Jone se enamorará por primera vez. Durante este verano, Jone vivirá entre la sensación de inmortalidad que transita con Olga, la chica de la que se enamora, y el miedo a quedarse sola debido a la enfermedad de su padre.",
-    "poster_path": "/o1jsDGlUrT6A1JGQGXz3XtgR81A.jpg",
-    "poster_local": "imagenes_estrenos/Jone__a_veces_o1jsDGlUrT6A1JGQGXz3XtgR81A.jpg",
-    "backdrop_path": "/4Nttep9FdxEOcFJbUCFQoOnmU8p.jpg",
-    "backdrop_local": "imagenes_estrenos/Jone__a_veces_backdrop_4Nttep9FdxEOcFJbUCFQoOnmU8p.jpg",
-    "fecha_estreno": "2025-09-12T00:00:00.000Z",
-    "duración": "80 min",
-    "director": "Sara Fantova",
-    "directores": [
-      {
-        "name": "Sara Fantova",
-        "id": 2270948
-      }
-    ],
-    "actores": [
-      {
-        "name": "Olaia Aguayo",
-        "id": 4964589,
-        "character": "Jone",
-        "profile_path": null
-      },
-      {
-        "name": "Ainhoa Artetxe",
-        "id": 2828107,
-        "character": "Olga",
-        "profile_path": "/gCodSmrUd3ostW5nFwqAqsiy75j.jpg"
-      },
-      {
-        "name": "Josean Bengoetxea",
-        "id": 840814,
-        "character": "Aita",
-        "profile_path": "/iTswC5Qjmv8McucuShSDwVl6Smu.jpg"
-      },
-      {
-        "name": "Adrián Santos",
-        "id": 5272192,
-        "character": "Fantasma",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      }
-    ],
-    "popularidad": 1.2523,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/4Nttep9FdxEOcFJbUCFQoOnmU8p.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.672,
-          "height": 1674,
-          "iso_639_1": null,
-          "file_path": "/sgeMbGcysuioza8K3L2S1MZzmar.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1125
-        }
-      ]
-    },
-    "última_actualización": "2025-08-31 10:03:05"
+    "última_actualización": "2025-08-31 22:03:06"
   },
   {
     "id": 756397,
@@ -2053,7 +1966,94 @@
         }
       ]
     },
-    "última_actualización": "2025-08-31 10:03:05"
+    "última_actualización": "2025-08-31 22:03:07"
+  },
+  {
+    "id": 1440185,
+    "tmdb_id": 1440185,
+    "título": "Jone, a veces",
+    "título_original": "Jone, batzuetan",
+    "sinopsis": "Bilbao, pleno agosto. Jone, 20 años, vive con su padre y su hermana pequeña Marta. Aita, el padre de Jone, ha tenido que dejar su trabajo debido a las consecuencias de su Parkinson. Al mismo tiempo, empiezan las fiestas de la Semana Grande de Bilbao en las que Jone se enamorará por primera vez. Durante este verano, Jone vivirá entre la sensación de inmortalidad que transita con Olga, la chica de la que se enamora, y el miedo a quedarse sola debido a la enfermedad de su padre.",
+    "poster_path": "/o1jsDGlUrT6A1JGQGXz3XtgR81A.jpg",
+    "poster_local": "imagenes_estrenos/Jone__a_veces_o1jsDGlUrT6A1JGQGXz3XtgR81A.jpg",
+    "backdrop_path": "/4Nttep9FdxEOcFJbUCFQoOnmU8p.jpg",
+    "backdrop_local": "imagenes_estrenos/Jone__a_veces_backdrop_4Nttep9FdxEOcFJbUCFQoOnmU8p.jpg",
+    "fecha_estreno": "2025-09-12T00:00:00.000Z",
+    "duración": "80 min",
+    "director": "Sara Fantova",
+    "directores": [
+      {
+        "name": "Sara Fantova",
+        "id": 2270948
+      }
+    ],
+    "actores": [
+      {
+        "name": "Olaia Aguayo",
+        "id": 4964589,
+        "character": "Jone",
+        "profile_path": null
+      },
+      {
+        "name": "Ainhoa Artetxe",
+        "id": 2828107,
+        "character": "Olga",
+        "profile_path": "/gCodSmrUd3ostW5nFwqAqsiy75j.jpg"
+      },
+      {
+        "name": "Josean Bengoetxea",
+        "id": 840814,
+        "character": "Aita",
+        "profile_path": "/iTswC5Qjmv8McucuShSDwVl6Smu.jpg"
+      },
+      {
+        "name": "Adrián Santos",
+        "id": 5272192,
+        "character": "Fantasma",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "popularidad": 1.2523,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/4Nttep9FdxEOcFJbUCFQoOnmU8p.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.672,
+          "height": 1674,
+          "iso_639_1": null,
+          "file_path": "/sgeMbGcysuioza8K3L2S1MZzmar.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1125
+        }
+      ]
+    },
+    "última_actualización": "2025-08-31 22:03:07"
   },
   {
     "id": 1144443,
@@ -2154,7 +2154,70 @@
         }
       ]
     },
-    "última_actualización": "2025-08-31 10:03:06"
+    "última_actualización": "2025-08-31 22:03:09"
+  },
+  {
+    "id": 1001266,
+    "tmdb_id": 1001266,
+    "título": "Kwibuka (Se Souvenir)",
+    "título_original": "Kwibuka (Se Souvenir)",
+    "sinopsis": "",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-09-12T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Jonas D'Adesky",
+    "directores": [
+      {
+        "name": "Jonas D'Adesky",
+        "id": 1086487
+      }
+    ],
+    "actores": [
+      {
+        "name": "Sonia Rolland",
+        "id": 585668,
+        "character": "",
+        "profile_path": "/tq9p6RTFSryoiIwHj8nLPgvcGqq.jpg"
+      },
+      {
+        "name": "Jean-Hugues Anglade",
+        "id": 7037,
+        "character": "",
+        "profile_path": "/vidk0fZfz56flOBuUzZHDkwsGdb.jpg"
+      },
+      {
+        "name": "Jean-Henri Compère",
+        "id": 1063356,
+        "character": "",
+        "profile_path": "/lKlvckBsOnA0TzZQ4nWLp20x0QI.jpg"
+      },
+      {
+        "name": "Ruth Nirere",
+        "id": 139917,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.281,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-08-31 22:03:10"
   },
   {
     "id": 1219606,
@@ -2243,70 +2306,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-31 10:03:06"
-  },
-  {
-    "id": 1001266,
-    "tmdb_id": 1001266,
-    "título": "Kwibuka (Se Souvenir)",
-    "título_original": "Kwibuka (Se Souvenir)",
-    "sinopsis": "",
-    "poster_path": null,
-    "poster_local": "",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-09-12T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Jonas D'Adesky",
-    "directores": [
-      {
-        "name": "Jonas D'Adesky",
-        "id": 1086487
-      }
-    ],
-    "actores": [
-      {
-        "name": "Sonia Rolland",
-        "id": 585668,
-        "character": "",
-        "profile_path": "/tq9p6RTFSryoiIwHj8nLPgvcGqq.jpg"
-      },
-      {
-        "name": "Jean-Hugues Anglade",
-        "id": 7037,
-        "character": "",
-        "profile_path": "/vidk0fZfz56flOBuUzZHDkwsGdb.jpg"
-      },
-      {
-        "name": "Jean-Henri Compère",
-        "id": 1063356,
-        "character": "",
-        "profile_path": "/lKlvckBsOnA0TzZQ4nWLp20x0QI.jpg"
-      },
-      {
-        "name": "Ruth Nirere",
-        "id": 139917,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.281,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2025-08-31 10:03:06"
+    "última_actualización": "2025-08-31 22:03:10"
   },
   {
     "id": 572732,
@@ -2339,7 +2339,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-08-31 10:03:07"
+    "última_actualización": "2025-08-31 22:03:11"
   },
   {
     "id": 1514726,
@@ -2418,7 +2418,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-31 10:03:07"
+    "última_actualización": "2025-08-31 22:03:10"
   },
   {
     "id": 1512705,
@@ -2475,7 +2475,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-08-31 10:03:07"
+    "última_actualización": "2025-08-31 22:03:11"
   },
   {
     "id": 1290088,
@@ -2575,7 +2575,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-31 10:03:07"
+    "última_actualización": "2025-08-31 22:03:11"
   },
   {
     "id": 1537256,
@@ -2639,7 +2639,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-08-31 10:03:07"
+    "última_actualización": "2025-08-31 22:03:12"
   },
   {
     "id": 507244,
@@ -2726,7 +2726,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-31 10:03:03"
+    "última_actualización": "2025-08-31 22:03:05"
   },
   {
     "id": 1241921,
@@ -2895,7 +2895,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-31 10:03:04"
+    "última_actualización": "2025-08-31 22:03:05"
   },
   {
     "id": 1102493,
@@ -2959,8 +2959,8 @@
       }
     ],
     "popularidad": 3.1099,
-    "puntuación": 6.742,
-    "votos": 352,
+    "puntuación": 6.738,
+    "votos": 353,
     "adulto": false,
     "video": false,
     "año": "2024",
@@ -3042,7 +3042,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-31 10:03:04"
+    "última_actualización": "2025-08-31 22:03:06"
   },
   {
     "id": 1063875,
@@ -3171,7 +3171,125 @@
         }
       ]
     },
-    "última_actualización": "2025-08-31 10:03:04"
+    "última_actualización": "2025-08-31 22:03:07"
+  },
+  {
+    "id": 999160,
+    "tmdb_id": 999160,
+    "título": "Angelo en el bosque misterioso",
+    "título_original": "Angelo dans la forêt mystérieuse",
+    "sinopsis": "",
+    "poster_path": "/O6Dpav16qWIWYmquaoFAU4G63z.jpg",
+    "poster_local": "imagenes_estrenos/Angelo_en_el_bosque_misterioso_O6Dpav16qWIWYmquaoFAU4G63z.jpg",
+    "backdrop_path": "/xusMjLyXKjsFZeig9s8joGYtnhy.jpg",
+    "backdrop_local": "imagenes_estrenos/Angelo_en_el_bosque_misterioso_backdrop_xusMjLyXKjsFZeig9s8joGYtnhy.jpg",
+    "fecha_estreno": "2025-09-19T00:00:00.000Z",
+    "duración": "81 min",
+    "director": "Alexis Ducord, Vincent Paronnaud",
+    "directores": [
+      {
+        "name": "Alexis Ducord",
+        "id": 1804197
+      },
+      {
+        "name": "Vincent Paronnaud",
+        "id": 20709
+      }
+    ],
+    "actores": [
+      {
+        "name": "Yolande Moreau",
+        "id": 2415,
+        "character": "Mémé (voice)",
+        "profile_path": "/f7lsmnQoml8dwpFtB4pUQbOhqUE.jpg"
+      },
+      {
+        "name": "Philippe Katerine",
+        "id": 119501,
+        "character": "Fabrice (voice)",
+        "profile_path": "/gXu7bbIOqac33Kimq5fIFzF9F4F.jpg"
+      },
+      {
+        "name": "José Garcia",
+        "id": 24895,
+        "character": "Ultra (voice)",
+        "profile_path": "/8KqGjV89hgj15yDeWZkk0FUsr13.jpg"
+      },
+      {
+        "name": "Dario Hardouin Spurio",
+        "id": 4649542,
+        "character": "Angelo (voice)",
+        "profile_path": null
+      },
+      {
+        "name": "Prune Bozo",
+        "id": 2517950,
+        "character": "Zaza (voice)",
+        "profile_path": "/kD0CyLZFN0cRTe9emcVBb6EhIie.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 0.9265,
+    "puntuación": 6.6,
+    "votos": 8,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/xusMjLyXKjsFZeig9s8joGYtnhy.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/tdTwSrS1B13SgDpcRHu1fBeoBNp.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1310,
+          "iso_639_1": null,
+          "file_path": "/oH7YAvRgeC5xeMgXSnQBfIllb7X.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 2328
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/jvr5gAmCVuwCL5NiWSW2NGyO1qw.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-08-31 22:03:07"
   },
   {
     "id": 1225624,
@@ -3296,7 +3414,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-31 10:03:05"
+    "última_actualización": "2025-08-31 22:03:08"
   },
   {
     "id": 1066583,
@@ -3389,125 +3507,7 @@
         }
       ]
     },
-    "última_actualización": "2025-08-31 10:03:05"
-  },
-  {
-    "id": 999160,
-    "tmdb_id": 999160,
-    "título": "Angelo en el bosque misterioso",
-    "título_original": "Angelo dans la forêt mystérieuse",
-    "sinopsis": "",
-    "poster_path": "/O6Dpav16qWIWYmquaoFAU4G63z.jpg",
-    "poster_local": "imagenes_estrenos/Angelo_en_el_bosque_misterioso_O6Dpav16qWIWYmquaoFAU4G63z.jpg",
-    "backdrop_path": "/xusMjLyXKjsFZeig9s8joGYtnhy.jpg",
-    "backdrop_local": "imagenes_estrenos/Angelo_en_el_bosque_misterioso_backdrop_xusMjLyXKjsFZeig9s8joGYtnhy.jpg",
-    "fecha_estreno": "2025-09-19T00:00:00.000Z",
-    "duración": "81 min",
-    "director": "Alexis Ducord, Vincent Paronnaud",
-    "directores": [
-      {
-        "name": "Alexis Ducord",
-        "id": 1804197
-      },
-      {
-        "name": "Vincent Paronnaud",
-        "id": 20709
-      }
-    ],
-    "actores": [
-      {
-        "name": "Yolande Moreau",
-        "id": 2415,
-        "character": "Mémé (voice)",
-        "profile_path": "/f7lsmnQoml8dwpFtB4pUQbOhqUE.jpg"
-      },
-      {
-        "name": "Philippe Katerine",
-        "id": 119501,
-        "character": "Fabrice (voice)",
-        "profile_path": "/gXu7bbIOqac33Kimq5fIFzF9F4F.jpg"
-      },
-      {
-        "name": "José Garcia",
-        "id": 24895,
-        "character": "Ultra (voice)",
-        "profile_path": "/8KqGjV89hgj15yDeWZkk0FUsr13.jpg"
-      },
-      {
-        "name": "Dario Hardouin Spurio",
-        "id": 4649542,
-        "character": "Angelo (voice)",
-        "profile_path": null
-      },
-      {
-        "name": "Prune Bozo",
-        "id": 2517950,
-        "character": "Zaza (voice)",
-        "profile_path": "/kD0CyLZFN0cRTe9emcVBb6EhIie.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 12,
-        "name": "Aventura"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 0.9265,
-    "puntuación": 6.6,
-    "votos": 8,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/xusMjLyXKjsFZeig9s8joGYtnhy.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/tdTwSrS1B13SgDpcRHu1fBeoBNp.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1310,
-          "iso_639_1": null,
-          "file_path": "/oH7YAvRgeC5xeMgXSnQBfIllb7X.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 2328
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/jvr5gAmCVuwCL5NiWSW2NGyO1qw.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-08-31 10:03:06"
+    "última_actualización": "2025-08-31 22:03:08"
   },
   {
     "id": 1361854,
@@ -3586,7 +3586,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-31 10:03:06"
+    "última_actualización": "2025-08-31 22:03:09"
   },
   {
     "id": 1297953,
@@ -3669,6 +3669,6 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-08-31 10:03:07"
+    "última_actualización": "2025-08-31 22:03:10"
   }
 ]
