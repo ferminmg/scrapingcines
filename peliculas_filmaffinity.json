@@ -1,27 +1,5 @@
 [
     {
-        "título": "Concierto de Maastricht 2025 de André Rieu",
-        "cartel": "imagenes_filmaffinity/concierto-de-maastricht-2025-de-andre-rieu.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-09-05",
-                "hora": "20:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=19985"
-            },
-            {
-                "fecha": "2025-09-11",
-                "hora": "20:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=19987"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
-    },
-    {
         "título": "Expediente Warren: El último rito",
         "cartel": "imagenes_filmaffinity/tmdb_expediente-warren-el-ultimo-rito.jpg",
         "horarios": [
@@ -37,6 +15,23 @@
         "actores": "Vera Farmiga, Patrick Wilson, Mia Tomlinson, Ben Hardy, Rebecca Calder",
         "sinopsis": "Los investigadores de lo paranormal Ed y Lorraine Warren se enfrentan a un último caso aterrador en el que están implicadas entidades misteriosas a las que deben enfrentarse.",
         "año": "2025"
+    },
+    {
+        "título": "Concierto de Maastricht 2025 de André Rieu",
+        "cartel": "imagenes_filmaffinity/concierto-de-maastricht-2025-de-andre-rieu.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-11",
+                "hora": "20:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=19987"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
     },
     {
         "título": "Guardianes de la noche: La fortaleza infinita",
