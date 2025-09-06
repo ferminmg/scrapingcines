@@ -1,103 +1,5 @@
 [
   {
-    "id": 1390641,
-    "tmdb_id": 1390641,
-    "título": "Las chicas",
-    "título_original": "Las chicas",
-    "sinopsis": "Para nada un retrato condescendiente de la ado-  lescencia, ni un coming-of-age al uso, el debut de  Laura Obradors va empañando la jovialidad y la  ingenuidad inicial de las tres amigas protagonis-  tas que disfrutan de unos días de camping, pisci-  na, helados y Súper Pop. A medida que el interés  por los chicos va haciendo su aparición, las cosas  se precipitarán hacia direcciones inesperadas.",
-    "poster_path": "/4LpvbCs17KQLcntJoyu59zqj2AG.jpg",
-    "poster_local": "imagenes_estrenos/Las_chicas_4LpvbCs17KQLcntJoyu59zqj2AG.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2024-04-17T00:00:00.000Z",
-    "duración": "16 min",
-    "director": "Laura Obrador",
-    "directores": [
-      {
-        "name": "Laura Obrador",
-        "id": 3302262
-      }
-    ],
-    "actores": [
-      {
-        "name": "Zoe Arnao",
-        "id": 2417344,
-        "character": "",
-        "profile_path": "/8waPAaGwDg98QL0202CA3QcYUSi.jpg"
-      },
-      {
-        "name": "Júlia Mascort",
-        "id": 3774690,
-        "character": "",
-        "profile_path": "/9qbkyvJJ5lmsjjvHSg6q3grlZwh.jpg"
-      },
-      {
-        "name": "Nora Sala-Patau",
-        "id": 2561766,
-        "character": "",
-        "profile_path": "/Am2vDFteBEU58tIJspLmeYrK8PY.jpg"
-      },
-      {
-        "name": "Manel Llunell",
-        "id": 2354333,
-        "character": "",
-        "profile_path": "/z1osXVU30zcHO8x5XeeZOQ7s15u.jpg"
-      },
-      {
-        "name": "Adrià Salazar",
-        "id": 2246876,
-        "character": "",
-        "profile_path": "/2D7RK7epzY8xGSWIbmic6vgfNfO.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 10749,
-        "name": "Romance"
-      }
-    ],
-    "popularidad": 0.5945,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/eyR5d61VolUjaMTNbYwXQTE6WMM.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.675,
-          "height": 1600,
-          "iso_639_1": null,
-          "file_path": "/4LpvbCs17KQLcntJoyu59zqj2AG.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1080
-        },
-        {
-          "aspect_ratio": 0.666,
-          "height": 806,
-          "iso_639_1": null,
-          "file_path": "/mG0yP006VAltVPe4JoJbnWh2lLx.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 537
-        }
-      ]
-    },
-    "última_actualización": "2025-09-06 10:02:53"
-  },
-  {
     "id": 1397625,
     "tmdb_id": 1397625,
     "título": "Donde se quejan los pinos",
@@ -182,7 +84,120 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-06 10:02:54"
+    "última_actualización": "2025-09-06 22:02:43"
+  },
+  {
+    "id": 1364538,
+    "tmdb_id": 1364538,
+    "título": "La sangre",
+    "título_original": "La sangre",
+    "sinopsis": "Álvaro es un chico que no encaja en su vida. Ni le interesa estudiar ni trabajar en la granja. Durante una emotiva procesión de la Virgen María en su pueblo, llora sangre, lo que lleva a la gente a ofrecerle grandes cantidades de dinero.",
+    "poster_path": "/9Ej9FL3KyJxuBTK7DQHRVdPVMbT.jpg",
+    "poster_local": "imagenes_estrenos/La_sangre_9Ej9FL3KyJxuBTK7DQHRVdPVMbT.jpg",
+    "backdrop_path": "/6ipGSHkLuPf1m0iNmUCjM9S6r59.jpg",
+    "backdrop_local": "imagenes_estrenos/La_sangre_backdrop_6ipGSHkLuPf1m0iNmUCjM9S6r59.jpg",
+    "fecha_estreno": "2025-02-01",
+    "duración": "15 min",
+    "director": "Joaquín León",
+    "directores": [
+      {
+        "name": "Joaquín León",
+        "id": 3305980
+      }
+    ],
+    "actores": [
+      {
+        "name": "Luka Albarrán",
+        "id": 5426926,
+        "character": "Álvaro",
+        "profile_path": null
+      },
+      {
+        "name": "Esther Luna",
+        "id": 5426927,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Ana Rodríguez",
+        "id": 5426931,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.0379,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_639_1": null,
+          "file_path": "/6ipGSHkLuPf1m0iNmUCjM9S6r59.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2048
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_639_1": null,
+          "file_path": "/xzlvb6bru5y4RbfMkPK0L8dAEJ8.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2048
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_639_1": null,
+          "file_path": "/4l3UtHLsaCi55hjG2oY0upcpnpT.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2048
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_639_1": null,
+          "file_path": "/mHtDsSmnRBf4ifUYKa5iXJFWHF6.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2048
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_639_1": null,
+          "file_path": "/rKkSXf81eHTQgzOCo32BI4QZWum.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2048
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "iso_639_1": null,
+          "file_path": "/9Ej9FL3KyJxuBTK7DQHRVdPVMbT.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1365
+        }
+      ]
+    },
+    "última_actualización": "2025-09-06 22:02:46"
   },
   {
     "id": 1414077,
@@ -257,7 +272,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:55"
+    "última_actualización": "2025-09-06 22:02:44"
   },
   {
     "id": 1503422,
@@ -407,7 +422,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:53"
+    "última_actualización": "2025-09-06 22:02:42"
   },
   {
     "id": 1263911,
@@ -509,7 +524,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:59"
+    "última_actualización": "2025-09-06 22:02:47"
   },
   {
     "id": 1317615,
@@ -599,7 +614,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:54"
+    "última_actualización": "2025-09-06 22:02:42"
   },
   {
     "id": 1355317,
@@ -704,7 +719,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:55"
+    "última_actualización": "2025-09-06 22:02:45"
   },
   {
     "id": 1483887,
@@ -781,7 +796,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:59"
+    "última_actualización": "2025-09-06 22:02:45"
   },
   {
     "id": 1311031,
@@ -853,8 +868,8 @@
       }
     ],
     "popularidad": 262.8372,
-    "puntuación": 7.3,
-    "votos": 102,
+    "puntuación": 7.311,
+    "votos": 103,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -954,7 +969,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:49"
+    "última_actualización": "2025-09-06 22:02:39"
   },
   {
     "id": 1181540,
@@ -1022,7 +1037,7 @@
       }
     ],
     "popularidad": 24.3717,
-    "puntuación": 6.878,
+    "puntuación": 6.9,
     "votos": 86,
     "adulto": false,
     "video": false,
@@ -1096,7 +1111,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:50"
+    "última_actualización": "2025-09-06 22:02:40"
   },
   {
     "id": 648878,
@@ -1164,8 +1179,8 @@
       }
     ],
     "popularidad": 16.7694,
-    "puntuación": 6.467,
-    "votos": 244,
+    "puntuación": 6.471,
+    "votos": 245,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1256,7 +1271,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:50"
+    "última_actualización": "2025-09-06 22:02:40"
   },
   {
     "id": 1238188,
@@ -1376,7 +1391,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:51"
+    "última_actualización": "2025-09-06 22:02:41"
   },
   {
     "id": 756397,
@@ -1517,7 +1532,179 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:52"
+    "última_actualización": "2025-09-06 22:02:41"
+  },
+  {
+    "id": 1440185,
+    "tmdb_id": 1440185,
+    "título": "Jone, a veces",
+    "título_original": "Jone, batzuetan",
+    "sinopsis": "Bilbao, pleno agosto. Jone, 20 años, vive con su padre y su hermana pequeña Marta. Aita, el padre de Jone, ha tenido que dejar su trabajo debido a las consecuencias de su Parkinson. Al mismo tiempo, empiezan las fiestas de la Semana Grande de Bilbao en las que Jone se enamorará por primera vez. Durante este verano, Jone vivirá entre la sensación de inmortalidad que transita con Olga, la chica de la que se enamora, y el miedo a quedarse sola debido a la enfermedad de su padre.",
+    "poster_path": "/o1jsDGlUrT6A1JGQGXz3XtgR81A.jpg",
+    "poster_local": "imagenes_estrenos/Jone__a_veces_o1jsDGlUrT6A1JGQGXz3XtgR81A.jpg",
+    "backdrop_path": "/4Nttep9FdxEOcFJbUCFQoOnmU8p.jpg",
+    "backdrop_local": "imagenes_estrenos/Jone__a_veces_backdrop_4Nttep9FdxEOcFJbUCFQoOnmU8p.jpg",
+    "fecha_estreno": "2025-09-12T00:00:00.000Z",
+    "duración": "80 min",
+    "director": "Sara Fantova",
+    "directores": [
+      {
+        "name": "Sara Fantova",
+        "id": 2270948
+      }
+    ],
+    "actores": [
+      {
+        "name": "Olaia Aguayo",
+        "id": 4964589,
+        "character": "Jone",
+        "profile_path": null
+      },
+      {
+        "name": "Ainhoa Artetxe",
+        "id": 2828107,
+        "character": "Olga",
+        "profile_path": "/gCodSmrUd3ostW5nFwqAqsiy75j.jpg"
+      },
+      {
+        "name": "Josean Bengoetxea",
+        "id": 840814,
+        "character": "Aita",
+        "profile_path": "/iTswC5Qjmv8McucuShSDwVl6Smu.jpg"
+      },
+      {
+        "name": "Adrián Santos",
+        "id": 5272192,
+        "character": "Fantasma",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "popularidad": 0.464,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/4Nttep9FdxEOcFJbUCFQoOnmU8p.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.672,
+          "height": 1674,
+          "iso_639_1": null,
+          "file_path": "/sgeMbGcysuioza8K3L2S1MZzmar.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1125
+        }
+      ]
+    },
+    "última_actualización": "2025-09-06 22:02:43"
+  },
+  {
+    "id": 1032344,
+    "tmdb_id": 1032344,
+    "título": "Nahid & Adele",
+    "título_original": "Nahid & Adele",
+    "sinopsis": "Nahid es una joven de origen nigeriano que trabaja como camarera de pisos en un hotel. En el mismo hotel se aloja Adele, una actriz europea que, debido a un rodaje, está pasando una temporada en España. Nahid se irá involucrando poco a poco en la intimidad de Adele hasta que el encuentro entre ellas se haga inevitable.",
+    "poster_path": "/yuBDd1sqFXlF7V8RQYbljh2dsv9.jpg",
+    "poster_local": "imagenes_estrenos/Nahid___Adele_yuBDd1sqFXlF7V8RQYbljh2dsv9.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-09-12T00:00:00.000Z",
+    "duración": "13 min",
+    "director": "Tábata Cerezo",
+    "directores": [
+      {
+        "name": "Tábata Cerezo",
+        "id": 1535344
+      }
+    ],
+    "actores": [
+      {
+        "name": "Melina Matthews",
+        "id": 1289925,
+        "character": "Adele",
+        "profile_path": "/bPwRAyD6DrAEj3DIzTibVDdJ51M.jpg"
+      },
+      {
+        "name": "Silvercloud Okpamen Iyahen",
+        "id": 3729093,
+        "character": "Nahid",
+        "profile_path": null
+      },
+      {
+        "name": "Paula Soldevila",
+        "id": 17082,
+        "character": "Companion 1",
+        "profile_path": "/6gJRS8toQA7dLKW5n1XG3kcPqlY.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.4157,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/7At1YUEBPHVIzhXsd0zoz7H04Kx.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_639_1": null,
+          "file_path": "/yuBDd1sqFXlF7V8RQYbljh2dsv9.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        }
+      ]
+    },
+    "última_actualización": "2025-09-06 22:02:43"
   },
   {
     "id": 1144443,
@@ -1618,169 +1805,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:54"
-  },
-  {
-    "id": 1032344,
-    "tmdb_id": 1032344,
-    "título": "Nahid & Adele",
-    "título_original": "Nahid & Adele",
-    "sinopsis": "Nahid es una joven de origen nigeriano que trabaja como camarera de pisos en un hotel. En el mismo hotel se aloja Adele, una actriz europea que, debido a un rodaje, está pasando una temporada en España. Nahid se irá involucrando poco a poco en la intimidad de Adele hasta que el encuentro entre ellas se haga inevitable.",
-    "poster_path": "/yuBDd1sqFXlF7V8RQYbljh2dsv9.jpg",
-    "poster_local": "imagenes_estrenos/Nahid___Adele_yuBDd1sqFXlF7V8RQYbljh2dsv9.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-09-12T00:00:00.000Z",
-    "duración": "13 min",
-    "director": "Tábata Cerezo",
-    "directores": [
-      {
-        "name": "Tábata Cerezo",
-        "id": 1535344
-      }
-    ],
-    "actores": [
-      {
-        "name": "Melina Matthews",
-        "id": 1289925,
-        "character": "Adele",
-        "profile_path": "/bPwRAyD6DrAEj3DIzTibVDdJ51M.jpg"
-      },
-      {
-        "name": "Silvercloud Okpamen Iyahen",
-        "id": 3729093,
-        "character": "Nahid",
-        "profile_path": null
-      },
-      {
-        "name": "Paula Soldevila",
-        "id": 17082,
-        "character": "Companion 1",
-        "profile_path": "/6gJRS8toQA7dLKW5n1XG3kcPqlY.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 10749,
-        "name": "Romance"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.4157,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1500,
-          "iso_639_1": null,
-          "file_path": "/yuBDd1sqFXlF7V8RQYbljh2dsv9.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1000
-        }
-      ]
-    },
-    "última_actualización": "2025-09-06 10:02:54"
-  },
-  {
-    "id": 1440185,
-    "tmdb_id": 1440185,
-    "título": "Jone, a veces",
-    "título_original": "Jone, batzuetan",
-    "sinopsis": "Bilbao, pleno agosto. Jone, 20 años, vive con su padre y su hermana pequeña Marta. Aita, el padre de Jone, ha tenido que dejar su trabajo debido a las consecuencias de su Parkinson. Al mismo tiempo, empiezan las fiestas de la Semana Grande de Bilbao en las que Jone se enamorará por primera vez. Durante este verano, Jone vivirá entre la sensación de inmortalidad que transita con Olga, la chica de la que se enamora, y el miedo a quedarse sola debido a la enfermedad de su padre.",
-    "poster_path": "/o1jsDGlUrT6A1JGQGXz3XtgR81A.jpg",
-    "poster_local": "imagenes_estrenos/Jone__a_veces_o1jsDGlUrT6A1JGQGXz3XtgR81A.jpg",
-    "backdrop_path": "/4Nttep9FdxEOcFJbUCFQoOnmU8p.jpg",
-    "backdrop_local": "imagenes_estrenos/Jone__a_veces_backdrop_4Nttep9FdxEOcFJbUCFQoOnmU8p.jpg",
-    "fecha_estreno": "2025-09-12T00:00:00.000Z",
-    "duración": "80 min",
-    "director": "Sara Fantova",
-    "directores": [
-      {
-        "name": "Sara Fantova",
-        "id": 2270948
-      }
-    ],
-    "actores": [
-      {
-        "name": "Olaia Aguayo",
-        "id": 4964589,
-        "character": "Jone",
-        "profile_path": null
-      },
-      {
-        "name": "Ainhoa Artetxe",
-        "id": 2828107,
-        "character": "Olga",
-        "profile_path": "/gCodSmrUd3ostW5nFwqAqsiy75j.jpg"
-      },
-      {
-        "name": "Josean Bengoetxea",
-        "id": 840814,
-        "character": "Aita",
-        "profile_path": "/iTswC5Qjmv8McucuShSDwVl6Smu.jpg"
-      },
-      {
-        "name": "Adrián Santos",
-        "id": 5272192,
-        "character": "Fantasma",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      }
-    ],
-    "popularidad": 0.464,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/4Nttep9FdxEOcFJbUCFQoOnmU8p.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.672,
-          "height": 1674,
-          "iso_639_1": null,
-          "file_path": "/sgeMbGcysuioza8K3L2S1MZzmar.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1125
-        }
-      ]
-    },
-    "última_actualización": "2025-09-06 10:02:54"
+    "última_actualización": "2025-09-06 22:02:43"
   },
   {
     "id": 1219606,
@@ -1869,7 +1894,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:55"
+    "última_actualización": "2025-09-06 22:02:44"
   },
   {
     "id": 1001266,
@@ -1932,40 +1957,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-06 10:02:55"
-  },
-  {
-    "id": 572732,
-    "tmdb_id": 572732,
-    "título": "Vestida de Blanco",
-    "título_original": "Vestida de Blanco",
-    "sinopsis": "",
-    "poster_path": null,
-    "poster_local": "",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-09-12T00:00:00.000Z",
-    "duración": "7 min",
-    "director": "Russel Álvarez",
-    "directores": [
-      {
-        "name": "Russel Álvarez",
-        "id": 2208281
-      }
-    ],
-    "actores": [],
-    "géneros": [],
-    "popularidad": 0.0071,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2025-09-06 10:03:00"
+    "última_actualización": "2025-09-06 22:02:45"
   },
   {
     "id": 1541896,
@@ -2032,7 +2024,211 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-06 10:03:00"
+    "última_actualización": "2025-09-06 22:02:48"
+  },
+  {
+    "id": 572732,
+    "tmdb_id": 572732,
+    "título": "Vestida de Blanco",
+    "título_original": "Vestida de Blanco",
+    "sinopsis": "",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-09-12T00:00:00.000Z",
+    "duración": "7 min",
+    "director": "Russel Álvarez",
+    "directores": [
+      {
+        "name": "Russel Álvarez",
+        "id": 2208281
+      }
+    ],
+    "actores": [],
+    "géneros": [],
+    "popularidad": 0.0071,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-09-06 22:02:48"
+  },
+  {
+    "id": 1390641,
+    "tmdb_id": 1390641,
+    "título": "Las chicas",
+    "título_original": "Las chicas",
+    "sinopsis": "María está embobada mirando a Rubén cuando de repente recibe un balonazo en la cara. Lejos de disculparse, Rubén y los chicos la avergonzarán, despertando en ella y sus amigas una feroz sed de venganza.",
+    "poster_path": "/4LpvbCs17KQLcntJoyu59zqj2AG.jpg",
+    "poster_local": "imagenes_estrenos/Las_chicas_4LpvbCs17KQLcntJoyu59zqj2AG.jpg",
+    "backdrop_path": "/eyR5d61VolUjaMTNbYwXQTE6WMM.jpg",
+    "backdrop_local": "imagenes_estrenos/Las_chicas_backdrop_eyR5d61VolUjaMTNbYwXQTE6WMM.jpg",
+    "fecha_estreno": "2025-09-13",
+    "duración": "16 min",
+    "director": "Laura Obrador",
+    "directores": [
+      {
+        "name": "Laura Obrador",
+        "id": 3302262
+      }
+    ],
+    "actores": [
+      {
+        "name": "Zoe Arnao",
+        "id": 2417344,
+        "character": "",
+        "profile_path": "/8waPAaGwDg98QL0202CA3QcYUSi.jpg"
+      },
+      {
+        "name": "Júlia Mascort",
+        "id": 3774690,
+        "character": "",
+        "profile_path": "/9qbkyvJJ5lmsjjvHSg6q3grlZwh.jpg"
+      },
+      {
+        "name": "Nora Sala-Patau",
+        "id": 2561766,
+        "character": "",
+        "profile_path": "/Am2vDFteBEU58tIJspLmeYrK8PY.jpg"
+      },
+      {
+        "name": "Manel Llunell",
+        "id": 2354333,
+        "character": "",
+        "profile_path": "/z1osXVU30zcHO8x5XeeZOQ7s15u.jpg"
+      },
+      {
+        "name": "Adrià Salazar",
+        "id": 2246876,
+        "character": "",
+        "profile_path": "/2D7RK7epzY8xGSWIbmic6vgfNfO.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 0.5945,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/eyR5d61VolUjaMTNbYwXQTE6WMM.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.675,
+          "height": 1600,
+          "iso_639_1": null,
+          "file_path": "/4LpvbCs17KQLcntJoyu59zqj2AG.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1080
+        },
+        {
+          "aspect_ratio": 0.666,
+          "height": 806,
+          "iso_639_1": null,
+          "file_path": "/mG0yP006VAltVPe4JoJbnWh2lLx.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 537
+        }
+      ]
+    },
+    "última_actualización": "2025-09-06 22:02:43"
+  },
+  {
+    "id": 1379910,
+    "tmdb_id": 1379910,
+    "título": "Felina",
+    "título_original": "Felina",
+    "sinopsis": "Felina, una mujer capaz de convertirse en pantera, o quizá una pantera capaz de convertirse en mujer, vive enamorada de un pianista ciego.",
+    "poster_path": "/acqncX3d44U2kBmdfVXLbYmhX4C.jpg",
+    "poster_local": "imagenes_estrenos/Felina_acqncX3d44U2kBmdfVXLbYmhX4C.jpg",
+    "backdrop_path": "/2nP3IS2GyxHatLmsHY1jggCZDKH.jpg",
+    "backdrop_local": "imagenes_estrenos/Felina_backdrop_2nP3IS2GyxHatLmsHY1jggCZDKH.jpg",
+    "fecha_estreno": "2025-09-13",
+    "duración": "12 min",
+    "director": "María Lorenzo",
+    "directores": [
+      {
+        "name": "María Lorenzo",
+        "id": 1628629
+      }
+    ],
+    "actores": [
+      {
+        "name": "Laura Candela",
+        "id": 2315898,
+        "character": "Voice Sounds (voice)",
+        "profile_path": null
+      },
+      {
+        "name": "Juan Sastre",
+        "id": 5039897,
+        "character": "Voice Sounds (voice)",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "popularidad": 0.18,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/2nP3IS2GyxHatLmsHY1jggCZDKH.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-09-06 22:02:44"
   },
   {
     "id": 1301299,
@@ -2119,76 +2315,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-06 10:02:57"
-  },
-  {
-    "id": 1379910,
-    "tmdb_id": 1379910,
-    "título": "Felina",
-    "título_original": "Felina",
-    "sinopsis": "Felina, una mujer capaz de convertirse en pantera, o quizá una pantera capaz de convertirse en mujer, vive enamorada de un pianista ciego.",
-    "poster_path": "/acqncX3d44U2kBmdfVXLbYmhX4C.jpg",
-    "poster_local": "imagenes_estrenos/Felina_acqncX3d44U2kBmdfVXLbYmhX4C.jpg",
-    "backdrop_path": "/2nP3IS2GyxHatLmsHY1jggCZDKH.jpg",
-    "backdrop_local": "imagenes_estrenos/Felina_backdrop_2nP3IS2GyxHatLmsHY1jggCZDKH.jpg",
-    "fecha_estreno": "2025-09-13",
-    "duración": "12 min",
-    "director": "María Lorenzo",
-    "directores": [
-      {
-        "name": "María Lorenzo",
-        "id": 1628629
-      }
-    ],
-    "actores": [
-      {
-        "name": "Laura Candela",
-        "id": 2315898,
-        "character": "Voice Sounds (voice)",
-        "profile_path": null
-      },
-      {
-        "name": "Juan Sastre",
-        "id": 5039897,
-        "character": "Voice Sounds (voice)",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 14,
-        "name": "Fantasía"
-      }
-    ],
-    "popularidad": 0.18,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/2nP3IS2GyxHatLmsHY1jggCZDKH.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-09-06 10:02:57"
+    "última_actualización": "2025-09-06 22:02:44"
   },
   {
     "id": 1436823,
@@ -2279,7 +2406,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:59"
+    "última_actualización": "2025-09-06 22:02:45"
   },
   {
     "id": 1461415,
@@ -2350,7 +2477,96 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:59"
+    "última_actualización": "2025-09-06 22:02:46"
+  },
+  {
+    "id": 1363629,
+    "tmdb_id": 1363629,
+    "título": "Chicos",
+    "título_original": "Nens",
+    "sinopsis": "Teo y sus amigos son chicos que creen estar lejos de las formas más tóxicas de masculinidad. Aún así, cualquier juego, sin medir el espacio que ocupan, es una excusa para ser violentos entre ellos. Un día de verano, llevan el juego al límite.",
+    "poster_path": "/xN3mbbguPd7Syun4DPmOYEyhaZG.jpg",
+    "poster_local": "imagenes_estrenos/Chicos_xN3mbbguPd7Syun4DPmOYEyhaZG.jpg",
+    "backdrop_path": "/qZqvjLbVPCPglXLKO7441VVyUk3.jpg",
+    "backdrop_local": "imagenes_estrenos/Chicos_backdrop_qZqvjLbVPCPglXLKO7441VVyUk3.jpg",
+    "fecha_estreno": "2025-09-13",
+    "duración": "15 min",
+    "director": "Anna Martí Domingo",
+    "directores": [
+      {
+        "name": "Anna Martí Domingo",
+        "id": 4970204
+      }
+    ],
+    "actores": [
+      {
+        "name": "Pablo Scapigliatti",
+        "id": 4970216,
+        "character": "Teo",
+        "profile_path": null
+      },
+      {
+        "name": "Eloi Rubinart",
+        "id": 4970219,
+        "character": "Mauri",
+        "profile_path": null
+      },
+      {
+        "name": "Lluís Català",
+        "id": 4062485,
+        "character": "Iván",
+        "profile_path": null
+      },
+      {
+        "name": "Paulí Casals",
+        "id": 4970221,
+        "character": "Aleix",
+        "profile_path": null
+      },
+      {
+        "name": "Jan Vilalta",
+        "id": 5674544,
+        "character": "Oscar",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.0311,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/qZqvjLbVPCPglXLKO7441VVyUk3.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.715,
+          "height": 1511,
+          "iso_639_1": null,
+          "file_path": "/xN3mbbguPd7Syun4DPmOYEyhaZG.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1080
+        }
+      ]
+    },
+    "última_actualización": "2025-09-06 22:02:47"
   },
   {
     "id": 1281558,
@@ -2421,7 +2637,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-06 10:02:57"
+    "última_actualización": "2025-09-06 22:02:44"
   },
   {
     "id": 1537256,
@@ -2485,7 +2701,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-06 10:02:56"
+    "última_actualización": "2025-09-06 22:02:43"
   },
   {
     "id": 1514726,
@@ -2564,7 +2780,64 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:57"
+    "última_actualización": "2025-09-06 22:02:45"
+  },
+  {
+    "id": 1512705,
+    "tmdb_id": 1512705,
+    "título": "El fin de la cosa",
+    "título_original": "El fin de la cosa",
+    "sinopsis": "San Millán de la Cogolla recibe la visita de un artista al que han dado carta blanca para desarrollar y exponer su nuevo proyecto, el cual tendrá lugar en lo que parecen ser los últimos días del pueblo.",
+    "poster_path": "/mxqUxy4KETbfdYqh2XymLYBG8p8.jpg",
+    "poster_local": "imagenes_estrenos/El_fin_de_la_cosa_mxqUxy4KETbfdYqh2XymLYBG8p8.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-09-16",
+    "duración": "29 min",
+    "director": "Jorge Aliende, Alejandro Morales, Ángel Gutiérrez",
+    "directores": [
+      {
+        "name": "Jorge Aliende",
+        "id": 4801999
+      },
+      {
+        "name": "Alejandro Morales",
+        "id": 4749130
+      },
+      {
+        "name": "Ángel Gutiérrez",
+        "id": 5200996
+      }
+    ],
+    "actores": [
+      {
+        "name": "Mario Manso",
+        "id": 5561726,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "popularidad": 0.0621,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-09-06 22:02:45"
   },
   {
     "id": 1290088,
@@ -2664,64 +2937,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:59"
-  },
-  {
-    "id": 1512705,
-    "tmdb_id": 1512705,
-    "título": "El fin de la cosa",
-    "título_original": "El fin de la cosa",
-    "sinopsis": "San Millán de la Cogolla recibe la visita de un artista al que han dado carta blanca para desarrollar y exponer su nuevo proyecto, el cual tendrá lugar en lo que parecen ser los últimos días del pueblo.",
-    "poster_path": "/mxqUxy4KETbfdYqh2XymLYBG8p8.jpg",
-    "poster_local": "imagenes_estrenos/El_fin_de_la_cosa_mxqUxy4KETbfdYqh2XymLYBG8p8.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-09-16",
-    "duración": "29 min",
-    "director": "Jorge Aliende, Alejandro Morales, Ángel Gutiérrez",
-    "directores": [
-      {
-        "name": "Jorge Aliende",
-        "id": 4801999
-      },
-      {
-        "name": "Alejandro Morales",
-        "id": 4749130
-      },
-      {
-        "name": "Ángel Gutiérrez",
-        "id": 5200996
-      }
-    ],
-    "actores": [
-      {
-        "name": "Mario Manso",
-        "id": 5561726,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      },
-      {
-        "id": 878,
-        "name": "Ciencia ficción"
-      }
-    ],
-    "popularidad": 0.0621,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2025-09-06 10:02:59"
+    "última_actualización": "2025-09-06 22:02:47"
   },
   {
     "id": 1241921,
@@ -2872,7 +3088,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:50"
+    "última_actualización": "2025-09-06 22:02:40"
   },
   {
     "id": 507244,
@@ -3041,7 +3257,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:50"
+    "última_actualización": "2025-09-06 22:02:40"
   },
   {
     "id": 1102493,
@@ -3188,7 +3404,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:51"
+    "última_actualización": "2025-09-06 22:02:41"
   },
   {
     "id": 1063875,
@@ -3317,7 +3533,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:51"
+    "última_actualización": "2025-09-06 22:02:41"
   },
   {
     "id": 1066583,
@@ -3410,86 +3626,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:52"
-  },
-  {
-    "id": 1361854,
-    "tmdb_id": 1361854,
-    "título": "Las delicias del jardín",
-    "título_original": "Las delicias del jardín",
-    "sinopsis": "Fermín es un veterano y reconocido pintor abstracto que no está viviendo sus mejores momentos. Oculta un “temblor esencial” en la mano que le dificulta para seguir pintando. Por eso rechaza la propuesta de su galerista y ex mujer Pepa para presentarse a un concurso millonario y versionar el tríptico de El Bosco ‘El jardín de las delicias’. Pero la notificación de embargo sobre sus cuentas y tarjetas bancarias, y la aparición de su hijo Pablo, le harán cambiar de opinión.",
-    "poster_path": "/k3KWJ9HTFiwLDPwSCu3Ag1Teh7i.jpg",
-    "poster_local": "imagenes_estrenos/Las_delicias_del_jard_n_k3KWJ9HTFiwLDPwSCu3Ag1Teh7i.jpg",
-    "backdrop_path": "/k9HKoKMtWiEPQGu7rGZnPtkCmr4.jpg",
-    "backdrop_local": "imagenes_estrenos/Las_delicias_del_jard_n_backdrop_k9HKoKMtWiEPQGu7rGZnPtkCmr4.jpg",
-    "fecha_estreno": "2025-09-19T00:00:00.000Z",
-    "duración": "94 min",
-    "director": "Fernando Colomo",
-    "directores": [
-      {
-        "name": "Fernando Colomo",
-        "id": 37561
-      }
-    ],
-    "actores": [
-      {
-        "name": "Fernando Colomo",
-        "id": 37561,
-        "character": "",
-        "profile_path": "/u1a2wGiuyqulFtKiOZmgENUJZU1.jpg"
-      },
-      {
-        "name": "Carmen Machi",
-        "id": 102222,
-        "character": "",
-        "profile_path": "/qP3zz6e08UklfmPCf627vwUDVsK.jpg"
-      },
-      {
-        "name": "Antonio Resines",
-        "id": 37569,
-        "character": "",
-        "profile_path": "/jm4yMnneOWa5diykiBV13qbMsS2.jpg"
-      },
-      {
-        "name": "María Hervás",
-        "id": 1334527,
-        "character": "",
-        "profile_path": "/c5PUcS2pOpFni1c3FNRgKtXWaeO.jpg"
-      },
-      {
-        "name": "Luis Bermejo",
-        "id": 27471,
-        "character": "",
-        "profile_path": "/rl4hG3Ou4N244hq5eKhGLz0gIBL.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 0.8408,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/k9HKoKMtWiEPQGu7rGZnPtkCmr4.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-09-06 10:02:52"
+    "última_actualización": "2025-09-06 22:02:41"
   },
   {
     "id": 999160,
@@ -3607,7 +3744,86 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-06 10:02:53"
+    "última_actualización": "2025-09-06 22:02:42"
+  },
+  {
+    "id": 1361854,
+    "tmdb_id": 1361854,
+    "título": "Las delicias del jardín",
+    "título_original": "Las delicias del jardín",
+    "sinopsis": "Fermín es un veterano y reconocido pintor abstracto que no está viviendo sus mejores momentos. Oculta un “temblor esencial” en la mano que le dificulta para seguir pintando. Por eso rechaza la propuesta de su galerista y ex mujer Pepa para presentarse a un concurso millonario y versionar el tríptico de El Bosco ‘El jardín de las delicias’. Pero la notificación de embargo sobre sus cuentas y tarjetas bancarias, y la aparición de su hijo Pablo, le harán cambiar de opinión.",
+    "poster_path": "/k3KWJ9HTFiwLDPwSCu3Ag1Teh7i.jpg",
+    "poster_local": "imagenes_estrenos/Las_delicias_del_jard_n_k3KWJ9HTFiwLDPwSCu3Ag1Teh7i.jpg",
+    "backdrop_path": "/k9HKoKMtWiEPQGu7rGZnPtkCmr4.jpg",
+    "backdrop_local": "imagenes_estrenos/Las_delicias_del_jard_n_backdrop_k9HKoKMtWiEPQGu7rGZnPtkCmr4.jpg",
+    "fecha_estreno": "2025-09-19T00:00:00.000Z",
+    "duración": "94 min",
+    "director": "Fernando Colomo",
+    "directores": [
+      {
+        "name": "Fernando Colomo",
+        "id": 37561
+      }
+    ],
+    "actores": [
+      {
+        "name": "Fernando Colomo",
+        "id": 37561,
+        "character": "",
+        "profile_path": "/u1a2wGiuyqulFtKiOZmgENUJZU1.jpg"
+      },
+      {
+        "name": "Carmen Machi",
+        "id": 102222,
+        "character": "",
+        "profile_path": "/qP3zz6e08UklfmPCf627vwUDVsK.jpg"
+      },
+      {
+        "name": "Antonio Resines",
+        "id": 37569,
+        "character": "",
+        "profile_path": "/jm4yMnneOWa5diykiBV13qbMsS2.jpg"
+      },
+      {
+        "name": "María Hervás",
+        "id": 1334527,
+        "character": "",
+        "profile_path": "/c5PUcS2pOpFni1c3FNRgKtXWaeO.jpg"
+      },
+      {
+        "name": "Luis Bermejo",
+        "id": 27471,
+        "character": "",
+        "profile_path": "/rl4hG3Ou4N244hq5eKhGLz0gIBL.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 0.8408,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/k9HKoKMtWiEPQGu7rGZnPtkCmr4.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-09-06 22:02:42"
   },
   {
     "id": 1225624,
@@ -3732,7 +3948,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:53"
+    "última_actualización": "2025-09-06 22:02:43"
   },
   {
     "id": 1297953,
@@ -3815,7 +4031,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-06 10:02:55"
+    "última_actualización": "2025-09-06 22:02:44"
   },
   {
     "id": 1541991,
@@ -3895,7 +4111,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:03:00"
+    "última_actualización": "2025-09-06 22:02:47"
   },
   {
     "id": 1319969,
@@ -3967,8 +4183,8 @@
       }
     ],
     "popularidad": 42.431,
-    "puntuación": 7.375,
-    "votos": 36,
+    "puntuación": 7.3,
+    "votos": 37,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -4038,10 +4254,37 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 2000
+        },
+        {
+          "aspect_ratio": 0.666,
+          "height": 1349,
+          "iso_639_1": null,
+          "file_path": "/bwXxrgaH4tINkb9sv5Hx4dhPTQa.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 899
+        },
+        {
+          "aspect_ratio": 0.666,
+          "height": 1349,
+          "iso_639_1": null,
+          "file_path": "/ahOuXaO8piqkV7uRg7bDOQXL5hv.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 899
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1297,
+          "iso_639_1": null,
+          "file_path": "/sUW46UMVUavhJntNGPC9MmdHf0w.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 865
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:50"
+    "última_actualización": "2025-09-06 22:02:39"
   },
   {
     "id": 1054867,
@@ -4201,7 +4444,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:50"
+    "última_actualización": "2025-09-06 22:02:40"
   },
   {
     "id": 338969,
@@ -4370,7 +4613,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:50"
+    "última_actualización": "2025-09-06 22:02:40"
   },
   {
     "id": 1374686,
@@ -4511,7 +4754,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:51"
+    "última_actualización": "2025-09-06 22:02:40"
   },
   {
     "id": 1088166,
@@ -4630,7 +4873,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-06 10:02:51"
+    "última_actualización": "2025-09-06 22:02:40"
   },
   {
     "id": 1010756,
@@ -4706,8 +4949,8 @@
           "height": 2160,
           "iso_639_1": null,
           "file_path": "/zrsPMMwSxNTufRhTumspUkDEck4.jpg",
-          "vote_average": 5.786,
-          "vote_count": 7,
+          "vote_average": 6.722,
+          "vote_count": 6,
           "width": 3840
         },
         {
@@ -4716,7 +4959,7 @@
           "iso_639_1": null,
           "file_path": "/bXohszGO8u7gidmUdRWHjl3iOIY.jpg",
           "vote_average": 3.334,
-          "vote_count": 2,
+          "vote_count": 1,
           "width": 3840
         },
         {
@@ -4729,15 +4972,6 @@
           "width": 3840
         },
         {
-          "aspect_ratio": 1.778,
-          "height": 1237,
-          "iso_639_1": null,
-          "file_path": "/z9Y2MRvs3o9MZCfl3Ghp1y6SfPN.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2200
-        },
-        {
           "aspect_ratio": 1.78,
           "height": 1880,
           "iso_639_1": null,
@@ -4745,6 +4979,15 @@
           "vote_average": 0.958,
           "vote_count": 4,
           "width": 3346
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1215,
+          "iso_639_1": null,
+          "file_path": "/nOMpJQ9BV6n9tiToUeiRlFDxDFH.jpg",
+          "vote_average": 0.166,
+          "vote_count": 3,
+          "width": 2160
         }
       ],
       "posters": [
@@ -4795,90 +5038,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:51"
-  },
-  {
-    "id": 1175932,
-    "tmdb_id": 1175932,
-    "título": "Sigue volando",
-    "título_original": "ほつれる",
-    "sinopsis": "",
-    "poster_path": "/qTbodQx3O4ic2LDlgaJdgAmjKaP.jpg",
-    "poster_local": "imagenes_estrenos/Sigue_volando_qTbodQx3O4ic2LDlgaJdgAmjKaP.jpg",
-    "backdrop_path": "/ksHloizfhHW08m7PItn3n11LJJ9.jpg",
-    "backdrop_local": "imagenes_estrenos/Sigue_volando_backdrop_ksHloizfhHW08m7PItn3n11LJJ9.jpg",
-    "fecha_estreno": "2025-09-26T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "加藤拓也",
-    "directores": [
-      {
-        "name": "加藤拓也",
-        "id": 555050
-      }
-    ],
-    "actores": [
-      {
-        "name": "門脇麦",
-        "id": 1335392,
-        "character": "Watako",
-        "profile_path": "/iDaLuetWYMjCbvug0oDKqf4dJTl.jpg"
-      },
-      {
-        "name": "Shōta Sometani",
-        "id": 1018944,
-        "character": "Kimura",
-        "profile_path": "/sEEfyEfEbd9TQB9gFlvDTQJov76.jpg"
-      },
-      {
-        "name": "田村健太郎",
-        "id": 1610105,
-        "character": "Fuminori",
-        "profile_path": "/pNKVZIuFOpwHimkzSWOMdBDpjOo.jpg"
-      },
-      {
-        "name": "黒木華",
-        "id": 1054260,
-        "character": "Eri",
-        "profile_path": "/rTxASkiwbxohT0UVHORLmECo53Y.jpg"
-      },
-      {
-        "name": "古舘寛治",
-        "id": 1014996,
-        "character": "Tetsuya",
-        "profile_path": "/lDhhTMzBlR9v5XbjOmfilG0PaFj.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 10749,
-        "name": "Romance"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 2.2035,
-    "puntuación": 7.0,
-    "votos": 11,
-    "adulto": false,
-    "video": false,
-    "año": "2023",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/ksHloizfhHW08m7PItn3n11LJJ9.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-09-06 10:02:51"
+    "última_actualización": "2025-09-06 22:02:40"
   },
   {
     "id": 1086260,
@@ -4975,7 +5135,90 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:52"
+    "última_actualización": "2025-09-06 22:02:41"
+  },
+  {
+    "id": 1175932,
+    "tmdb_id": 1175932,
+    "título": "Sigue volando",
+    "título_original": "ほつれる",
+    "sinopsis": "",
+    "poster_path": "/qTbodQx3O4ic2LDlgaJdgAmjKaP.jpg",
+    "poster_local": "imagenes_estrenos/Sigue_volando_qTbodQx3O4ic2LDlgaJdgAmjKaP.jpg",
+    "backdrop_path": "/ksHloizfhHW08m7PItn3n11LJJ9.jpg",
+    "backdrop_local": "imagenes_estrenos/Sigue_volando_backdrop_ksHloizfhHW08m7PItn3n11LJJ9.jpg",
+    "fecha_estreno": "2025-09-26T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "加藤拓也",
+    "directores": [
+      {
+        "name": "加藤拓也",
+        "id": 555050
+      }
+    ],
+    "actores": [
+      {
+        "name": "門脇麦",
+        "id": 1335392,
+        "character": "Watako",
+        "profile_path": "/iDaLuetWYMjCbvug0oDKqf4dJTl.jpg"
+      },
+      {
+        "name": "Shōta Sometani",
+        "id": 1018944,
+        "character": "Kimura",
+        "profile_path": "/sEEfyEfEbd9TQB9gFlvDTQJov76.jpg"
+      },
+      {
+        "name": "田村健太郎",
+        "id": 1610105,
+        "character": "Fuminori",
+        "profile_path": "/pNKVZIuFOpwHimkzSWOMdBDpjOo.jpg"
+      },
+      {
+        "name": "黒木華",
+        "id": 1054260,
+        "character": "Eri",
+        "profile_path": "/rTxASkiwbxohT0UVHORLmECo53Y.jpg"
+      },
+      {
+        "name": "古舘寛治",
+        "id": 1014996,
+        "character": "Tetsuya",
+        "profile_path": "/lDhhTMzBlR9v5XbjOmfilG0PaFj.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 2.2035,
+    "puntuación": 7.0,
+    "votos": 11,
+    "adulto": false,
+    "video": false,
+    "año": "2023",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/ksHloizfhHW08m7PItn3n11LJJ9.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-09-06 22:02:41"
   },
   {
     "id": 1400214,
@@ -5058,7 +5301,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-06 10:02:52"
+    "última_actualización": "2025-09-06 22:02:41"
   },
   {
     "id": 1096642,
@@ -5173,7 +5416,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-06 10:02:52"
+    "última_actualización": "2025-09-06 22:02:42"
   },
   {
     "id": 1453828,
@@ -5266,7 +5509,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:53"
+    "última_actualización": "2025-09-06 22:02:42"
   },
   {
     "id": 1293641,
@@ -5322,7 +5565,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-06 10:02:54"
+    "última_actualización": "2025-09-06 22:02:43"
   },
   {
     "id": 1426968,
@@ -5418,7 +5661,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-06 10:02:55"
+    "última_actualización": "2025-09-06 22:02:44"
   },
   {
     "id": 1536049,
@@ -5501,7 +5744,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-06 10:02:57"
+    "última_actualización": "2025-09-06 22:02:44"
   },
   {
     "id": 1431314,
@@ -5570,7 +5813,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-06 10:02:57"
+    "última_actualización": "2025-09-06 22:02:45"
   },
   {
     "id": 1381107,
@@ -5626,7 +5869,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:55"
+    "última_actualización": "2025-09-06 22:02:45"
   },
   {
     "id": 1325104,
@@ -5681,6 +5924,6 @@
         }
       ]
     },
-    "última_actualización": "2025-09-06 10:02:58"
+    "última_actualización": "2025-09-06 22:02:45"
   }
 ]
