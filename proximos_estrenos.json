@@ -60,7 +60,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:21"
+    "última_actualización": "2025-09-08 22:02:57"
   },
   {
     "id": 1397625,
@@ -147,7 +147,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:15"
+    "última_actualización": "2025-09-08 22:02:54"
   },
   {
     "id": 1414077,
@@ -222,7 +222,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:18"
+    "última_actualización": "2025-09-08 22:02:56"
   },
   {
     "id": 1503422,
@@ -288,7 +288,7 @@
   {
     "id": 1242444,
     "tmdb_id": 1242444,
-    "título": "El príncep",
+    "título": "El príncipe",
     "título_original": "El príncep",
     "sinopsis": "Hoy es día de estreno y Artur, hijo de una familia burguesa y bailarín en una compañía de danza contemporánea, actúa como el príncipe de un reino hecho a su medida. Todo cambia cuando su padre es arrestado por corrupción en un escándalo inmobiliario. A partir de ese momento, deberá decidir entre proteger a su familia encubriendo a su padre o enfrentar las consecuencias de renunciar a sus privilegios.",
     "poster_path": "/6EsZAzqdPfSIIrT93jEQYDUxKGy.jpg",
@@ -372,7 +372,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:14"
+    "última_actualización": "2025-09-08 22:02:54"
   },
   {
     "id": 1263911,
@@ -380,21 +380,21 @@
     "título": "Lavadoiro",
     "título_original": "Lavadoiro",
     "sinopsis": "Reflexión activa y multidisciplinar sobre el patrimonio, material e inmaterial, de los lavaderos como espacios ligados al trabajo doméstico y de relación exclusivos de las mujeres.",
-    "poster_path": "/vuptT33bInpE5pcibGztqFLCJVb.jpg",
+    "poster_path": "/m5l1VFLCAqaBIHv42R5iIppAxC8.jpg",
     "poster_local": "imagenes_estrenos/Lavadoiro_vuptT33bInpE5pcibGztqFLCJVb.jpg",
     "backdrop_path": "/xWpiRAreAzfM7ljMhUsMwTYIgTW.jpg",
     "backdrop_local": "imagenes_estrenos/Lavadoiro_backdrop_xWpiRAreAzfM7ljMhUsMwTYIgTW.jpg",
     "fecha_estreno": "2025-09-11",
     "duración": "17 min",
-    "director": "Lois Patiño, Ana Amado",
+    "director": "Ana Amado, Lois Patiño",
     "directores": [
-      {
-        "name": "Lois Patiño",
-        "id": 1221292
-      },
       {
         "name": "Ana Amado",
         "id": 4611763
+      },
+      {
+        "name": "Lois Patiño",
+        "id": 1221292
       }
     ],
     "actores": [
@@ -455,26 +455,26 @@
       ],
       "posters": [
         {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_639_1": null,
+          "file_path": "/m5l1VFLCAqaBIHv42R5iIppAxC8.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 500
+        },
+        {
           "aspect_ratio": 0.666,
           "height": 800,
           "iso_639_1": null,
           "file_path": "/vuptT33bInpE5pcibGztqFLCJVb.jpg",
           "vote_average": 0.166,
-          "vote_count": 1,
+          "vote_count": 2,
           "width": 533
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_639_1": null,
-          "file_path": "/m5l1VFLCAqaBIHv42R5iIppAxC8.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:26"
+    "última_actualización": "2025-09-08 22:02:59"
   },
   {
     "id": 1366976,
@@ -571,7 +571,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:13"
+    "última_actualización": "2025-09-08 22:02:53"
   },
   {
     "id": 1249796,
@@ -646,12 +646,12 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:14"
+    "última_actualización": "2025-09-08 22:02:54"
   },
   {
     "id": 1317615,
     "tmdb_id": 1317615,
-    "título": "Aigua Salina",
+    "título": "Agua salina",
     "título_original": "Aigua Salina",
     "sinopsis": "Montse, una mujer que trata a un muñeco hiperrealista como su propio hijo, está evitando conocer a su sobrina recién nacida porque no sabe cómo enfrentarse a su propio pasado.",
     "poster_path": "/ufRgKR5P6kPlLCLAvKIpuy2kR5X.jpg",
@@ -736,94 +736,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:15"
-  },
-  {
-    "id": 1474239,
-    "tmdb_id": 1474239,
-    "título": "Happy Hour",
-    "título_original": "Happy Hour",
-    "sinopsis": "David, un enfermero, pasa las noches de verano de guardia en el consultorio de un pequeño pueblo del interior, aislado en mitad de Extremadura. La noche parece tranquila, incluso monótona, pero entre el personal de urgencias circula una leyenda: a las tres de la mañana, como en una película de zombis, lo peor de cada casa emerge de las sombras. Es lo que los sanitarios llaman la Happy Hour.",
-    "poster_path": "/hwMBpEhcZ43cWjimO6hIdPI4BoB.jpg",
-    "poster_local": "imagenes_estrenos/Happy_Hour_hwMBpEhcZ43cWjimO6hIdPI4BoB.jpg",
-    "backdrop_path": "/fcb9yc4c2vVth5mEk23T5AfqQpv.jpg",
-    "backdrop_local": "imagenes_estrenos/Happy_Hour_backdrop_fcb9yc4c2vVth5mEk23T5AfqQpv.jpg",
-    "fecha_estreno": "2025-09-12",
-    "duración": "22 min",
-    "director": "Nico Romero, Álvaro Monje",
-    "directores": [
-      {
-        "name": "Nico Romero",
-        "id": 1330941
-      },
-      {
-        "name": "Álvaro Monje",
-        "id": 229243
-      }
-    ],
-    "actores": [
-      {
-        "name": "Nico Romero",
-        "id": 1330941,
-        "character": "Antonio",
-        "profile_path": "/46KRVkcecnOkygXmmyyhrbE2t68.jpg"
-      },
-      {
-        "name": "Marcos Ruiz",
-        "id": 224733,
-        "character": "David",
-        "profile_path": "/rpAw3p2WjLFYfmqM3JdF1tgDEDE.jpg"
-      },
-      {
-        "name": "Vicente Vergara",
-        "id": 2264687,
-        "character": "Doctor",
-        "profile_path": "/sexFRRIeaUo883zLsxVLcgei3cw.jpg"
-      },
-      {
-        "name": "Carolina Yuste",
-        "id": 2025663,
-        "character": "Jara",
-        "profile_path": "/WbPX1SzFmAEaF4ioMEwgumvqzW.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.1322,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.775,
-          "height": 721,
-          "iso_639_1": null,
-          "file_path": "/fcb9yc4c2vVth5mEk23T5AfqQpv.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.702,
-          "height": 1425,
-          "iso_639_1": null,
-          "file_path": "/hwMBpEhcZ43cWjimO6hIdPI4BoB.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1000
-        }
-      ]
-    },
-    "última_actualización": "2025-09-08 10:03:17"
+    "última_actualización": "2025-09-08 22:02:54"
   },
   {
     "id": 1367416,
@@ -920,7 +833,100 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:17"
+    "última_actualización": "2025-09-08 22:02:55"
+  },
+  {
+    "id": 1474239,
+    "tmdb_id": 1474239,
+    "título": "Happy Hour",
+    "título_original": "Happy Hour",
+    "sinopsis": "David, un enfermero, pasa las noches de verano de guardia en el consultorio de un pequeño pueblo del interior, aislado en mitad de Extremadura. La noche parece tranquila, incluso monótona, pero entre el personal de urgencias circula una leyenda: a las tres de la mañana, como en una película de zombis, lo peor de cada casa emerge de las sombras. Es lo que los sanitarios llaman la Happy Hour.",
+    "poster_path": "/hwMBpEhcZ43cWjimO6hIdPI4BoB.jpg",
+    "poster_local": "imagenes_estrenos/Happy_Hour_hwMBpEhcZ43cWjimO6hIdPI4BoB.jpg",
+    "backdrop_path": "/fcb9yc4c2vVth5mEk23T5AfqQpv.jpg",
+    "backdrop_local": "imagenes_estrenos/Happy_Hour_backdrop_fcb9yc4c2vVth5mEk23T5AfqQpv.jpg",
+    "fecha_estreno": "2025-09-12",
+    "duración": "22 min",
+    "director": "Nico Romero, Álvaro Monje",
+    "directores": [
+      {
+        "name": "Nico Romero",
+        "id": 1330941
+      },
+      {
+        "name": "Álvaro Monje",
+        "id": 229243
+      }
+    ],
+    "actores": [
+      {
+        "name": "Nico Romero",
+        "id": 1330941,
+        "character": "Antonio",
+        "profile_path": "/46KRVkcecnOkygXmmyyhrbE2t68.jpg"
+      },
+      {
+        "name": "Marcos Ruiz",
+        "id": 224733,
+        "character": "David",
+        "profile_path": "/rpAw3p2WjLFYfmqM3JdF1tgDEDE.jpg"
+      },
+      {
+        "name": "Vicente Vergara",
+        "id": 2264687,
+        "character": "Doctor",
+        "profile_path": "/sexFRRIeaUo883zLsxVLcgei3cw.jpg"
+      },
+      {
+        "name": "Carolina Yuste",
+        "id": 2025663,
+        "character": "Jara",
+        "profile_path": "/WbPX1SzFmAEaF4ioMEwgumvqzW.jpg"
+      },
+      {
+        "name": "Mateo Durán Moreno",
+        "id": 5677886,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.1322,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.775,
+          "height": 721,
+          "iso_639_1": null,
+          "file_path": "/fcb9yc4c2vVth5mEk23T5AfqQpv.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.702,
+          "height": 1425,
+          "iso_639_1": null,
+          "file_path": "/hwMBpEhcZ43cWjimO6hIdPI4BoB.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        }
+      ]
+    },
+    "última_actualización": "2025-09-08 22:02:56"
   },
   {
     "id": 1355317,
@@ -1025,7 +1031,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:20"
+    "última_actualización": "2025-09-08 22:02:57"
   },
   {
     "id": 1316804,
@@ -1106,7 +1112,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:23"
+    "última_actualización": "2025-09-08 22:02:58"
   },
   {
     "id": 1253647,
@@ -1164,155 +1170,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:25"
-  },
-  {
-    "id": 1483887,
-    "tmdb_id": 1483887,
-    "título": "Carmela",
-    "título_original": "Carmela",
-    "sinopsis": "Tras la Guerra Civil Española, Carmela se une a las milicias junto a miles de mujeres. Su lucha es doble: enfrentar al fascismo y defender las libertades ganadas en la Segunda República. En combate, una granada casera le amputa la mano con la que había sostenido sus ideales y su arma en defensa de sus derechos.",
-    "poster_path": "/tTachmzn03Ziin2K23wE5k8I1FX.jpg",
-    "poster_local": "imagenes_estrenos/Carmela_tTachmzn03Ziin2K23wE5k8I1FX.jpg",
-    "backdrop_path": "/ym0lEEPctFhesGls77EjA0pOlvX.jpg",
-    "backdrop_local": "imagenes_estrenos/Carmela_backdrop_ym0lEEPctFhesGls77EjA0pOlvX.jpg",
-    "fecha_estreno": "2025-09-12",
-    "duración": "15 min",
-    "director": "Vicente Mallols",
-    "directores": [
-      {
-        "name": "Vicente Mallols",
-        "id": 1626244
-      }
-    ],
-    "actores": [
-      {
-        "name": "Gloria March",
-        "id": 2783021,
-        "character": "Carmela (voz)",
-        "profile_path": null
-      },
-      {
-        "name": "Empar Ferrer",
-        "id": 82353,
-        "character": "Clara Campoamor (voz)",
-        "profile_path": "/uehx0a3h4NyZrMyzKt3eelvdCxe.jpg"
-      },
-      {
-        "name": "Mireia Palau",
-        "id": 5496953,
-        "character": "Niña (voz)",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      }
-    ],
-    "popularidad": 0.045,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/ym0lEEPctFhesGls77EjA0pOlvX.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_639_1": null,
-          "file_path": "/tTachmzn03Ziin2K23wE5k8I1FX.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2025-09-08 10:03:25"
-  },
-  {
-    "id": 1365292,
-    "tmdb_id": 1365292,
-    "título": "Pietra",
-    "título_original": "Pietra",
-    "sinopsis": "Al soñar despierto con relaciones improbables, la flor, tan delicada como revolucionaria, representa un acto de amor en medio de la asfixia y el abrazo de un clásico barrio portugués.",
-    "poster_path": "/7B3mLxoSyZYJp6J7uSY2LIpDEHt.jpg",
-    "poster_local": "imagenes_estrenos/Pietra_7B3mLxoSyZYJp6J7uSY2LIpDEHt.jpg",
-    "backdrop_path": "/z1auCtQjdn5bg0klQlzuFFoppLV.jpg",
-    "backdrop_local": "imagenes_estrenos/Pietra_backdrop_z1auCtQjdn5bg0klQlzuFFoppLV.jpg",
-    "fecha_estreno": "2025-09-12",
-    "duración": "12 min",
-    "director": "Cynthia Levitan",
-    "directores": [
-      {
-        "name": "Cynthia Levitan",
-        "id": 4976578
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.0214,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/z1auCtQjdn5bg0klQlzuFFoppLV.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/j6rKFiFL7tnAMBprDBDkP7cXraa.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.676,
-          "height": 1000,
-          "iso_639_1": null,
-          "file_path": "/7B3mLxoSyZYJp6J7uSY2LIpDEHt.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 676
-        }
-      ]
-    },
-    "última_actualización": "2025-09-08 10:03:27"
+    "última_actualización": "2025-09-08 22:02:58"
   },
   {
     "id": 1229561,
@@ -1401,12 +1259,89 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:28"
+    "última_actualización": "2025-09-08 22:02:59"
+  },
+  {
+    "id": 1483887,
+    "tmdb_id": 1483887,
+    "título": "Carmela",
+    "título_original": "Carmela",
+    "sinopsis": "Tras la Guerra Civil Española, Carmela se une a las milicias junto a miles de mujeres. Su lucha es doble: enfrentar al fascismo y defender las libertades ganadas en la Segunda República. En combate, una granada casera le amputa la mano con la que había sostenido sus ideales y su arma en defensa de sus derechos.",
+    "poster_path": "/tTachmzn03Ziin2K23wE5k8I1FX.jpg",
+    "poster_local": "imagenes_estrenos/Carmela_tTachmzn03Ziin2K23wE5k8I1FX.jpg",
+    "backdrop_path": "/ym0lEEPctFhesGls77EjA0pOlvX.jpg",
+    "backdrop_local": "imagenes_estrenos/Carmela_backdrop_ym0lEEPctFhesGls77EjA0pOlvX.jpg",
+    "fecha_estreno": "2025-09-12",
+    "duración": "15 min",
+    "director": "Vicente Mallols",
+    "directores": [
+      {
+        "name": "Vicente Mallols",
+        "id": 1626244
+      }
+    ],
+    "actores": [
+      {
+        "name": "Gloria March",
+        "id": 2783021,
+        "character": "Carmela (voz)",
+        "profile_path": null
+      },
+      {
+        "name": "Empar Ferrer",
+        "id": 82353,
+        "character": "Clara Campoamor (voz)",
+        "profile_path": "/uehx0a3h4NyZrMyzKt3eelvdCxe.jpg"
+      },
+      {
+        "name": "Mireia Palau",
+        "id": 5496953,
+        "character": "Niña (voz)",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "popularidad": 0.045,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/ym0lEEPctFhesGls77EjA0pOlvX.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_639_1": null,
+          "file_path": "/tTachmzn03Ziin2K23wE5k8I1FX.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2025-09-08 22:02:59"
   },
   {
     "id": 1482458,
     "tmdb_id": 1482458,
-    "título": "Els Simiots. Els homes salvatges",
+    "título": "Los Simiots",
     "título_original": "Els Simiots. Els homes salvatges",
     "sinopsis": "Las leyendas de hombres salvajes, como la del Yeti del Himalaya o la el Bigfoot de América, están presentes en todo el mundo. Los Simiots son los hombres salvajes de los Pirineos. En Arles del Tec, una pequeña población de la Catalunya Nord, la leyenda está muy viva desde hace más de mil años. También hay quien cree que los Simiots no son sólo un mito. Incluso hay quien los ha visto y ha tenido contacto con ellos.",
     "poster_path": "/2uBkAQfsK7JEPTroCYwSdFqgnl.jpg",
@@ -1498,7 +1433,213 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:29"
+    "última_actualización": "2025-09-08 22:02:59"
+  },
+  {
+    "id": 1543055,
+    "tmdb_id": 1543055,
+    "título": "Lettre à la Terre",
+    "título_original": "Lettre à la Terre",
+    "sinopsis": "Carta a la Tierra es una oda a nuestro planeta, a nuestra diosa, sea Gaia o Pangea.",
+    "poster_path": "/dT82kZAxRwsfqg8WL1xmP9B3gV1.jpg",
+    "poster_local": "imagenes_estrenos/Lettre___la_Terre_dT82kZAxRwsfqg8WL1xmP9B3gV1.jpg",
+    "backdrop_path": "/hFpJy9phTmSa6kAb0dXnzhNoYff.jpg",
+    "backdrop_local": "imagenes_estrenos/Lettre___la_Terre_backdrop_hFpJy9phTmSa6kAb0dXnzhNoYff.jpg",
+    "fecha_estreno": "2025-09-12",
+    "duración": "2 min",
+    "director": "Paul Marlier, Jeanne Morel",
+    "directores": [
+      {
+        "name": "Paul Marlier",
+        "id": 5676946
+      },
+      {
+        "name": "Jeanne Morel",
+        "id": 5676945
+      }
+    ],
+    "actores": [
+      {
+        "name": "Jeanne Morel",
+        "id": 5676945,
+        "character": "Self",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.0214,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/hFpJy9phTmSa6kAb0dXnzhNoYff.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_639_1": null,
+          "file_path": "/dT82kZAxRwsfqg8WL1xmP9B3gV1.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2025-09-08 22:03:00"
+  },
+  {
+    "id": 1365292,
+    "tmdb_id": 1365292,
+    "título": "Pietra",
+    "título_original": "Pietra",
+    "sinopsis": "Al soñar despierto con relaciones improbables, la flor, tan delicada como revolucionaria, representa un acto de amor en medio de la asfixia y el abrazo de un clásico barrio portugués.",
+    "poster_path": "/7B3mLxoSyZYJp6J7uSY2LIpDEHt.jpg",
+    "poster_local": "imagenes_estrenos/Pietra_7B3mLxoSyZYJp6J7uSY2LIpDEHt.jpg",
+    "backdrop_path": "/z1auCtQjdn5bg0klQlzuFFoppLV.jpg",
+    "backdrop_local": "imagenes_estrenos/Pietra_backdrop_z1auCtQjdn5bg0klQlzuFFoppLV.jpg",
+    "fecha_estreno": "2025-09-12",
+    "duración": "12 min",
+    "director": "Cynthia Levitan",
+    "directores": [
+      {
+        "name": "Cynthia Levitan",
+        "id": 4976578
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.0214,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_639_1": null,
+          "file_path": "/z1auCtQjdn5bg0klQlzuFFoppLV.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/j6rKFiFL7tnAMBprDBDkP7cXraa.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.676,
+          "height": 1000,
+          "iso_639_1": null,
+          "file_path": "/7B3mLxoSyZYJp6J7uSY2LIpDEHt.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 676
+        }
+      ]
+    },
+    "última_actualización": "2025-09-08 22:03:00"
+  },
+  {
+    "id": 1542867,
+    "tmdb_id": 1542867,
+    "título": "La valla",
+    "título_original": "La valla",
+    "sinopsis": "Una familia ha emprendido un largo camino, enfrentándose a numerosos peligros e incertidumbres e impulsados sólo por un sueño, el de una vida mejor. Tan sólo una valla les separa de su meta, un pedazo de metal infinito, infranqueable y fuertemente custodiado por unos centinelas eficientes y despiadado",
+    "poster_path": "/3nmmnl8UOiSTL8xU28AzbKFdxw4.jpg",
+    "poster_local": "imagenes_estrenos/La_valla_3nmmnl8UOiSTL8xU28AzbKFdxw4.jpg",
+    "backdrop_path": "/7u9tfC73IFMmnEH52wJbvVyEm27.jpg",
+    "backdrop_local": "imagenes_estrenos/La_valla_backdrop_7u9tfC73IFMmnEH52wJbvVyEm27.jpg",
+    "fecha_estreno": "2025-09-12",
+    "duración": "14 min",
+    "director": "Samuel Ortí Martí",
+    "directores": [
+      {
+        "name": "Samuel Ortí Martí",
+        "id": 1460241
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "popularidad": 0.0143,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/7u9tfC73IFMmnEH52wJbvVyEm27.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_639_1": null,
+          "file_path": "/3nmmnl8UOiSTL8xU28AzbKFdxw4.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2025-09-08 22:03:00"
   },
   {
     "id": 1457338,
@@ -1591,142 +1732,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:30"
-  },
-  {
-    "id": 1543055,
-    "tmdb_id": 1543055,
-    "título": "Lettre à la Terre",
-    "título_original": "Lettre à la Terre",
-    "sinopsis": "Carta a la Tierra es una oda a nuestro planeta, a nuestra diosa, sea Gaia o Pangea.",
-    "poster_path": "/dT82kZAxRwsfqg8WL1xmP9B3gV1.jpg",
-    "poster_local": "imagenes_estrenos/Lettre___la_Terre_dT82kZAxRwsfqg8WL1xmP9B3gV1.jpg",
-    "backdrop_path": "/hFpJy9phTmSa6kAb0dXnzhNoYff.jpg",
-    "backdrop_local": "imagenes_estrenos/Lettre___la_Terre_backdrop_hFpJy9phTmSa6kAb0dXnzhNoYff.jpg",
-    "fecha_estreno": "2025-09-12",
-    "duración": "2 min",
-    "director": "Paul Marlier, Jeanne Morel",
-    "directores": [
-      {
-        "name": "Paul Marlier",
-        "id": 5676946
-      },
-      {
-        "name": "Jeanne Morel",
-        "id": 5676945
-      }
-    ],
-    "actores": [
-      {
-        "name": "Jeanne Morel",
-        "id": 5676945,
-        "character": "Self",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.0214,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/hFpJy9phTmSa6kAb0dXnzhNoYff.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_639_1": null,
-          "file_path": "/dT82kZAxRwsfqg8WL1xmP9B3gV1.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2025-09-08 10:03:32"
-  },
-  {
-    "id": 1542867,
-    "tmdb_id": 1542867,
-    "título": "La valla",
-    "título_original": "La valla",
-    "sinopsis": "Una familia ha emprendido un largo camino, enfrentándose a numerosos peligros e incertidumbres e impulsados sólo por un sueño, el de una vida mejor. Tan sólo una valla les separa de su meta, un pedazo de metal infinito, infranqueable y fuertemente custodiado por unos centinelas eficientes y despiadado",
-    "poster_path": "/3nmmnl8UOiSTL8xU28AzbKFdxw4.jpg",
-    "poster_local": "imagenes_estrenos/La_valla_3nmmnl8UOiSTL8xU28AzbKFdxw4.jpg",
-    "backdrop_path": "/7u9tfC73IFMmnEH52wJbvVyEm27.jpg",
-    "backdrop_local": "imagenes_estrenos/La_valla_backdrop_7u9tfC73IFMmnEH52wJbvVyEm27.jpg",
-    "fecha_estreno": "2025-09-12",
-    "duración": "14 min",
-    "director": "Samuel Ortí Martí",
-    "directores": [
-      {
-        "name": "Samuel Ortí Martí",
-        "id": 1460241
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 14,
-        "name": "Fantasía"
-      },
-      {
-        "id": 878,
-        "name": "Ciencia ficción"
-      }
-    ],
-    "popularidad": 0.0143,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/7u9tfC73IFMmnEH52wJbvVyEm27.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_639_1": null,
-          "file_path": "/3nmmnl8UOiSTL8xU28AzbKFdxw4.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2025-09-08 10:03:34"
+    "última_actualización": "2025-09-08 22:03:01"
   },
   {
     "id": 1311031,
@@ -1798,7 +1804,7 @@
       }
     ],
     "popularidad": 280.5123,
-    "puntuación": 7.337,
+    "puntuación": 7.3,
     "votos": 104,
     "adulto": false,
     "video": false,
@@ -1899,7 +1905,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:08"
+    "última_actualización": "2025-09-08 22:02:51"
   },
   {
     "id": 1181540,
@@ -2041,7 +2047,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:08"
+    "última_actualización": "2025-09-08 22:02:51"
   },
   {
     "id": 648878,
@@ -2109,8 +2115,8 @@
       }
     ],
     "popularidad": 15.9436,
-    "puntuación": 6.436,
-    "votos": 251,
+    "puntuación": 6.4,
+    "votos": 252,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2210,7 +2216,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:09"
+    "última_actualización": "2025-09-08 22:02:51"
   },
   {
     "id": 1238188,
@@ -2330,7 +2336,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:11"
+    "última_actualización": "2025-09-08 22:02:52"
   },
   {
     "id": 756397,
@@ -2471,7 +2477,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:13"
+    "última_actualización": "2025-09-08 22:02:53"
   },
   {
     "id": 1144443,
@@ -2572,7 +2578,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:16"
+    "última_actualización": "2025-09-08 22:02:54"
   },
   {
     "id": 1440185,
@@ -2617,6 +2623,12 @@
         "id": 5272192,
         "character": "Fantasma",
         "profile_path": null
+      },
+      {
+        "name": "Elorri Arrizabalaga",
+        "id": 5677446,
+        "character": "",
+        "profile_path": null
       }
     ],
     "géneros": [
@@ -2659,12 +2671,12 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:16"
+    "última_actualización": "2025-09-08 22:02:55"
   },
   {
     "id": 1032344,
     "tmdb_id": 1032344,
-    "título": "Nahid & Adele",
+    "título": "Nahid y Adèle",
     "título_original": "Nahid & Adele",
     "sinopsis": "Nahid es una joven de origen nigeriano que trabaja como camarera de pisos en un hotel. En el mismo hotel se aloja Adele, una actriz europea que, debido a un rodaje, está pasando una temporada en España. Nahid se irá involucrando poco a poco en la intimidad de Adele hasta que el encuentro entre ellas se haga inevitable.",
     "poster_path": "/yuBDd1sqFXlF7V8RQYbljh2dsv9.jpg",
@@ -2744,7 +2756,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:17"
+    "última_actualización": "2025-09-08 22:02:55"
   },
   {
     "id": 1219606,
@@ -2833,7 +2845,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:19"
+    "última_actualización": "2025-09-08 22:02:56"
   },
   {
     "id": 1001266,
@@ -2896,7 +2908,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:19"
+    "última_actualización": "2025-09-08 22:02:56"
   },
   {
     "id": 1541896,
@@ -2963,7 +2975,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:26"
+    "última_actualización": "2025-09-08 22:02:59"
   },
   {
     "id": 1500850,
@@ -3040,7 +3052,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:29"
+    "última_actualización": "2025-09-08 22:03:00"
   },
   {
     "id": 1475515,
@@ -3137,7 +3149,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:29"
+    "última_actualización": "2025-09-08 22:03:01"
   },
   {
     "id": 572732,
@@ -3170,7 +3182,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:30"
+    "última_actualización": "2025-09-08 22:03:01"
   },
   {
     "id": 1275370,
@@ -3259,7 +3271,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:13"
+    "última_actualización": "2025-09-08 22:02:53"
   },
   {
     "id": 1390641,
@@ -3361,94 +3373,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:16"
-  },
-  {
-    "id": 1301299,
-    "tmdb_id": 1301299,
-    "título": "Maria Enganxa",
-    "título_original": "Maria Enganxa",
-    "sinopsis": "Mallorca, invierno de 1975. Durante la tradicional matanza del cerdo de invierno, una abuela les cuenta a sus nietos la terrorífica leyenda de Maria Enganxa. Una historia que narra la vida de una mujer que vive en los pozos y que arrastra dentro a los niños atrevidos que osan acercarse a mirar dentro de estos.",
-    "poster_path": "/hi3Zgl1TitRH7jYZzTx6gn81FWa.jpg",
-    "poster_local": "imagenes_estrenos/Maria_Enganxa_hi3Zgl1TitRH7jYZzTx6gn81FWa.jpg",
-    "backdrop_path": "/2mcmQKdJQAoQ7c2O51vmJprtLhg.jpg",
-    "backdrop_local": "imagenes_estrenos/Maria_Enganxa_backdrop_2mcmQKdJQAoQ7c2O51vmJprtLhg.jpg",
-    "fecha_estreno": "2025-09-13",
-    "duración": "15 min",
-    "director": "Luis Ortas",
-    "directores": [
-      {
-        "name": "Luis Ortas",
-        "id": 5673642
-      }
-    ],
-    "actores": [
-      {
-        "name": "Catalina Carrasco",
-        "id": 4760882,
-        "character": "Maria Enganxa",
-        "profile_path": null
-      },
-      {
-        "name": "Guiomar Caiado",
-        "id": 3631249,
-        "character": "Joana",
-        "profile_path": "/qY3YAoEYD3E3RQqflWN9NoggRPw.jpg"
-      },
-      {
-        "name": "Marta Gràcia",
-        "id": 4760885,
-        "character": "Marina",
-        "profile_path": null
-      },
-      {
-        "name": "Assun Planas",
-        "id": 1080147,
-        "character": "Mare",
-        "profile_path": "/v3nUhul3UKxgGNqnrYSJYNJuE0M.jpg"
-      },
-      {
-        "name": "Xim Vidal",
-        "id": 3570874,
-        "character": "Conco",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.1769,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/2mcmQKdJQAoQ7c2O51vmJprtLhg.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-09-08 10:03:18"
+    "última_actualización": "2025-09-08 22:02:55"
   },
   {
     "id": 1304477,
@@ -3531,7 +3456,94 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:19"
+    "última_actualización": "2025-09-08 22:02:56"
+  },
+  {
+    "id": 1301299,
+    "tmdb_id": 1301299,
+    "título": "Maria engancha",
+    "título_original": "Maria Enganxa",
+    "sinopsis": "Mallorca, invierno de 1975. Durante la tradicional matanza del cerdo de invierno, una abuela les cuenta a sus nietos la terrorífica leyenda de Maria Enganxa. Una historia que narra la vida de una mujer que vive en los pozos y que arrastra dentro a los niños atrevidos que osan acercarse a mirar dentro de estos.",
+    "poster_path": "/hi3Zgl1TitRH7jYZzTx6gn81FWa.jpg",
+    "poster_local": "imagenes_estrenos/Maria_Enganxa_hi3Zgl1TitRH7jYZzTx6gn81FWa.jpg",
+    "backdrop_path": "/2mcmQKdJQAoQ7c2O51vmJprtLhg.jpg",
+    "backdrop_local": "imagenes_estrenos/Maria_Enganxa_backdrop_2mcmQKdJQAoQ7c2O51vmJprtLhg.jpg",
+    "fecha_estreno": "2025-09-13",
+    "duración": "15 min",
+    "director": "Luis Ortas",
+    "directores": [
+      {
+        "name": "Luis Ortas",
+        "id": 5673642
+      }
+    ],
+    "actores": [
+      {
+        "name": "Catalina Carrasco",
+        "id": 4760882,
+        "character": "Maria Enganxa",
+        "profile_path": null
+      },
+      {
+        "name": "Guiomar Caiado",
+        "id": 3631249,
+        "character": "Joana",
+        "profile_path": "/qY3YAoEYD3E3RQqflWN9NoggRPw.jpg"
+      },
+      {
+        "name": "Marta Gràcia",
+        "id": 4760885,
+        "character": "Marina",
+        "profile_path": null
+      },
+      {
+        "name": "Assun Planas",
+        "id": 1080147,
+        "character": "Mare",
+        "profile_path": "/v3nUhul3UKxgGNqnrYSJYNJuE0M.jpg"
+      },
+      {
+        "name": "Xim Vidal",
+        "id": 3570874,
+        "character": "Conco",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.1769,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/2mcmQKdJQAoQ7c2O51vmJprtLhg.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-09-08 22:02:56"
   },
   {
     "id": 1484050,
@@ -3608,76 +3620,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:20"
-  },
-  {
-    "id": 1379910,
-    "tmdb_id": 1379910,
-    "título": "Felina",
-    "título_original": "Felina",
-    "sinopsis": "Felina, una mujer capaz de convertirse en pantera, o quizá una pantera capaz de convertirse en mujer, vive enamorada de un pianista ciego.",
-    "poster_path": "/acqncX3d44U2kBmdfVXLbYmhX4C.jpg",
-    "poster_local": "imagenes_estrenos/Felina_acqncX3d44U2kBmdfVXLbYmhX4C.jpg",
-    "backdrop_path": "/2nP3IS2GyxHatLmsHY1jggCZDKH.jpg",
-    "backdrop_local": "imagenes_estrenos/Felina_backdrop_2nP3IS2GyxHatLmsHY1jggCZDKH.jpg",
-    "fecha_estreno": "2025-09-13",
-    "duración": "12 min",
-    "director": "María Lorenzo",
-    "directores": [
-      {
-        "name": "María Lorenzo",
-        "id": 1628629
-      }
-    ],
-    "actores": [
-      {
-        "name": "Laura Candela",
-        "id": 2315898,
-        "character": "Voice Sounds (voice)",
-        "profile_path": null
-      },
-      {
-        "name": "Juan Sastre",
-        "id": 5039897,
-        "character": "Voice Sounds (voice)",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 14,
-        "name": "Fantasía"
-      }
-    ],
-    "popularidad": 0.084,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/2nP3IS2GyxHatLmsHY1jggCZDKH.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-09-08 10:03:22"
+    "última_actualización": "2025-09-08 22:02:56"
   },
   {
     "id": 1208359,
@@ -3766,7 +3709,165 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:22"
+    "última_actualización": "2025-09-08 22:02:57"
+  },
+  {
+    "id": 1379910,
+    "tmdb_id": 1379910,
+    "título": "Felina",
+    "título_original": "Felina",
+    "sinopsis": "Felina, una mujer capaz de convertirse en pantera, o quizá una pantera capaz de convertirse en mujer, vive enamorada de un pianista ciego.",
+    "poster_path": "/acqncX3d44U2kBmdfVXLbYmhX4C.jpg",
+    "poster_local": "imagenes_estrenos/Felina_acqncX3d44U2kBmdfVXLbYmhX4C.jpg",
+    "backdrop_path": "/2nP3IS2GyxHatLmsHY1jggCZDKH.jpg",
+    "backdrop_local": "imagenes_estrenos/Felina_backdrop_2nP3IS2GyxHatLmsHY1jggCZDKH.jpg",
+    "fecha_estreno": "2025-09-13",
+    "duración": "12 min",
+    "director": "María Lorenzo",
+    "directores": [
+      {
+        "name": "María Lorenzo",
+        "id": 1628629
+      }
+    ],
+    "actores": [
+      {
+        "name": "Laura Candela",
+        "id": 2315898,
+        "character": "Voice Sounds (voice)",
+        "profile_path": null
+      },
+      {
+        "name": "Juan Sastre",
+        "id": 5039897,
+        "character": "Voice Sounds (voice)",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "popularidad": 0.084,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/2nP3IS2GyxHatLmsHY1jggCZDKH.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-09-08 22:02:57"
+  },
+  {
+    "id": 1363629,
+    "tmdb_id": 1363629,
+    "título": "Chicos",
+    "título_original": "Nens",
+    "sinopsis": "Teo y sus amigos son chicos que creen estar lejos de las formas más tóxicas de masculinidad. Aún así, cualquier juego, sin medir el espacio que ocupan, es una excusa para ser violentos entre ellos. Un día de verano, llevan el juego al límite.",
+    "poster_path": "/xN3mbbguPd7Syun4DPmOYEyhaZG.jpg",
+    "poster_local": "imagenes_estrenos/Chicos_xN3mbbguPd7Syun4DPmOYEyhaZG.jpg",
+    "backdrop_path": "/qZqvjLbVPCPglXLKO7441VVyUk3.jpg",
+    "backdrop_local": "imagenes_estrenos/Chicos_backdrop_qZqvjLbVPCPglXLKO7441VVyUk3.jpg",
+    "fecha_estreno": "2025-09-13",
+    "duración": "15 min",
+    "director": "Anna Martí Domingo",
+    "directores": [
+      {
+        "name": "Anna Martí Domingo",
+        "id": 4970204
+      }
+    ],
+    "actores": [
+      {
+        "name": "Pablo Scapigliatti",
+        "id": 4970216,
+        "character": "Teo",
+        "profile_path": null
+      },
+      {
+        "name": "Eloi Rubinart",
+        "id": 4970219,
+        "character": "Mauri",
+        "profile_path": null
+      },
+      {
+        "name": "Lluís Català",
+        "id": 4062485,
+        "character": "Iván",
+        "profile_path": null
+      },
+      {
+        "name": "Paulí Casals",
+        "id": 4970221,
+        "character": "Aleix",
+        "profile_path": null
+      },
+      {
+        "name": "Jan Vilalta",
+        "id": 5674544,
+        "character": "Oscar",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.0777,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/qZqvjLbVPCPglXLKO7441VVyUk3.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.715,
+          "height": 1511,
+          "iso_639_1": null,
+          "file_path": "/xN3mbbguPd7Syun4DPmOYEyhaZG.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1080
+        }
+      ]
+    },
+    "última_actualización": "2025-09-08 22:02:57"
   },
   {
     "id": 1436823,
@@ -3857,381 +3958,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:22"
-  },
-  {
-    "id": 1414153,
-    "tmdb_id": 1414153,
-    "título": "Broken Wings",
-    "título_original": "Broken Wings",
-    "sinopsis": "La historia nunca contada de la caza furtiva de aves en el sudeste asiático. Los bosques se vacían a gran escala y la extinción amenaza a más de un millar de especies de aves. Casi nadie lo sabe.",
-    "poster_path": "/zbmRI09OzNXm8FnogMJ5w9pn1aP.jpg",
-    "poster_local": "imagenes_estrenos/Broken_Wings_zbmRI09OzNXm8FnogMJ5w9pn1aP.jpg",
-    "backdrop_path": "/1vCWgYOM38WwjxcGKRPnJvx06Mp.jpg",
-    "backdrop_local": "imagenes_estrenos/Broken_Wings_backdrop_1vCWgYOM38WwjxcGKRPnJvx06Mp.jpg",
-    "fecha_estreno": "2025-09-13",
-    "duración": "7 min",
-    "director": "Jorik Dozy, Sil van der Woerd",
-    "directores": [
-      {
-        "name": "Jorik Dozy",
-        "id": 2045148
-      },
-      {
-        "name": "Sil van der Woerd",
-        "id": 1682833
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.0524,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.779,
-          "height": 750,
-          "iso_639_1": null,
-          "file_path": "/1vCWgYOM38WwjxcGKRPnJvx06Mp.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1334
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1800,
-          "iso_639_1": null,
-          "file_path": "/zbmRI09OzNXm8FnogMJ5w9pn1aP.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1201
-        }
-      ]
-    },
-    "última_actualización": "2025-09-08 10:03:23"
-  },
-  {
-    "id": 1367435,
-    "tmdb_id": 1367435,
-    "título": "Baile con la muerte",
-    "título_original": "Baile con la muerte",
-    "sinopsis": "Durante una peligrosa persecución tras un atraco, la muerte sesga el alma de los que van muriendo, hasta caer rendido al amor a primera vista de un alma que debe segar.",
-    "poster_path": "/44zb8T7EMPbR1Q8ZyOR9xcjMH8l.jpg",
-    "poster_local": "imagenes_estrenos/Baile_con_la_muerte_44zb8T7EMPbR1Q8ZyOR9xcjMH8l.jpg",
-    "backdrop_path": "/maxop4gDOsBilyesUAVjpywpWbS.jpg",
-    "backdrop_local": "imagenes_estrenos/Baile_con_la_muerte_backdrop_maxop4gDOsBilyesUAVjpywpWbS.jpg",
-    "fecha_estreno": "2025-09-13",
-    "duración": "4 min",
-    "director": "Berta Alsinet, Paula Anglàs, Nuria Aranda, Martina Barney, Joan Cortit, Laia Domene, David Martin, Carlota Massó, Roger Menta, Víctor Moya, Gisela Torras",
-    "directores": [
-      {
-        "name": "Berta Alsinet",
-        "id": 4985397
-      },
-      {
-        "name": "Paula Anglàs",
-        "id": 4985400
-      },
-      {
-        "name": "Nuria Aranda",
-        "id": 4985401
-      },
-      {
-        "name": "Martina Barney",
-        "id": 4985402
-      },
-      {
-        "name": "Joan Cortit",
-        "id": 4985403
-      },
-      {
-        "name": "Laia Domene",
-        "id": 4985404
-      },
-      {
-        "name": "David Martin",
-        "id": 4985406
-      },
-      {
-        "name": "Carlota Massó",
-        "id": 4985407
-      },
-      {
-        "name": "Roger Menta",
-        "id": 4985408
-      },
-      {
-        "name": "Víctor Moya",
-        "id": 3269232
-      },
-      {
-        "name": "Gisela Torras",
-        "id": 4985409
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      }
-    ],
-    "popularidad": 0.0741,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/maxop4gDOsBilyesUAVjpywpWbS.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.704,
-          "height": 750,
-          "iso_639_1": null,
-          "file_path": "/44zb8T7EMPbR1Q8ZyOR9xcjMH8l.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 528
-        }
-      ]
-    },
-    "última_actualización": "2025-09-08 10:03:24"
-  },
-  {
-    "id": 1363629,
-    "tmdb_id": 1363629,
-    "título": "Chicos",
-    "título_original": "Nens",
-    "sinopsis": "Teo y sus amigos son chicos que creen estar lejos de las formas más tóxicas de masculinidad. Aún así, cualquier juego, sin medir el espacio que ocupan, es una excusa para ser violentos entre ellos. Un día de verano, llevan el juego al límite.",
-    "poster_path": "/xN3mbbguPd7Syun4DPmOYEyhaZG.jpg",
-    "poster_local": "imagenes_estrenos/Chicos_xN3mbbguPd7Syun4DPmOYEyhaZG.jpg",
-    "backdrop_path": "/qZqvjLbVPCPglXLKO7441VVyUk3.jpg",
-    "backdrop_local": "imagenes_estrenos/Chicos_backdrop_qZqvjLbVPCPglXLKO7441VVyUk3.jpg",
-    "fecha_estreno": "2025-09-13",
-    "duración": "15 min",
-    "director": "Anna Martí Domingo",
-    "directores": [
-      {
-        "name": "Anna Martí Domingo",
-        "id": 4970204
-      }
-    ],
-    "actores": [
-      {
-        "name": "Pablo Scapigliatti",
-        "id": 4970216,
-        "character": "Teo",
-        "profile_path": null
-      },
-      {
-        "name": "Eloi Rubinart",
-        "id": 4970219,
-        "character": "Mauri",
-        "profile_path": null
-      },
-      {
-        "name": "Lluís Català",
-        "id": 4062485,
-        "character": "Iván",
-        "profile_path": null
-      },
-      {
-        "name": "Paulí Casals",
-        "id": 4970221,
-        "character": "Aleix",
-        "profile_path": null
-      },
-      {
-        "name": "Jan Vilalta",
-        "id": 5674544,
-        "character": "Oscar",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.0777,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/qZqvjLbVPCPglXLKO7441VVyUk3.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.715,
-          "height": 1511,
-          "iso_639_1": null,
-          "file_path": "/xN3mbbguPd7Syun4DPmOYEyhaZG.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1080
-        }
-      ]
-    },
-    "última_actualización": "2025-09-08 10:03:24"
-  },
-  {
-    "id": 1364538,
-    "tmdb_id": 1364538,
-    "título": "La sangre",
-    "título_original": "La sangre",
-    "sinopsis": "Álvaro es un chico que no encaja en su vida. Ni le interesa estudiar ni trabajar en la granja. Durante una emotiva procesión de la Virgen María en su pueblo, llora sangre, lo que lleva a la gente a ofrecerle grandes cantidades de dinero.",
-    "poster_path": "/9Ej9FL3KyJxuBTK7DQHRVdPVMbT.jpg",
-    "poster_local": "imagenes_estrenos/La_sangre_9Ej9FL3KyJxuBTK7DQHRVdPVMbT.jpg",
-    "backdrop_path": "/6ipGSHkLuPf1m0iNmUCjM9S6r59.jpg",
-    "backdrop_local": "imagenes_estrenos/La_sangre_backdrop_6ipGSHkLuPf1m0iNmUCjM9S6r59.jpg",
-    "fecha_estreno": "2025-09-13",
-    "duración": "15 min",
-    "director": "Joaquín León",
-    "directores": [
-      {
-        "name": "Joaquín León",
-        "id": 3305980
-      }
-    ],
-    "actores": [
-      {
-        "name": "Luka Albarrán",
-        "id": 5426926,
-        "character": "Álvaro",
-        "profile_path": null
-      },
-      {
-        "name": "Esther Luna",
-        "id": 5426927,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Ana Rodríguez",
-        "id": 5426931,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 0.0462,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1152,
-          "iso_639_1": null,
-          "file_path": "/6ipGSHkLuPf1m0iNmUCjM9S6r59.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2048
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1152,
-          "iso_639_1": null,
-          "file_path": "/xzlvb6bru5y4RbfMkPK0L8dAEJ8.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2048
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1152,
-          "iso_639_1": null,
-          "file_path": "/4l3UtHLsaCi55hjG2oY0upcpnpT.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2048
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1152,
-          "iso_639_1": null,
-          "file_path": "/mHtDsSmnRBf4ifUYKa5iXJFWHF6.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2048
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1152,
-          "iso_639_1": null,
-          "file_path": "/rKkSXf81eHTQgzOCo32BI4QZWum.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2048
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 2048,
-          "iso_639_1": null,
-          "file_path": "/9Ej9FL3KyJxuBTK7DQHRVdPVMbT.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1365
-        }
-      ]
-    },
-    "última_actualización": "2025-09-08 10:03:24"
+    "última_actualización": "2025-09-08 22:02:57"
   },
   {
     "id": 1260235,
@@ -4320,7 +4047,315 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:25"
+    "última_actualización": "2025-09-08 22:02:58"
+  },
+  {
+    "id": 1367435,
+    "tmdb_id": 1367435,
+    "título": "Baile con la muerte",
+    "título_original": "Baile con la muerte",
+    "sinopsis": "Durante una peligrosa persecución tras un atraco, la muerte sesga el alma de los que van muriendo, hasta caer rendido al amor a primera vista de un alma que debe segar.",
+    "poster_path": "/44zb8T7EMPbR1Q8ZyOR9xcjMH8l.jpg",
+    "poster_local": "imagenes_estrenos/Baile_con_la_muerte_44zb8T7EMPbR1Q8ZyOR9xcjMH8l.jpg",
+    "backdrop_path": "/maxop4gDOsBilyesUAVjpywpWbS.jpg",
+    "backdrop_local": "imagenes_estrenos/Baile_con_la_muerte_backdrop_maxop4gDOsBilyesUAVjpywpWbS.jpg",
+    "fecha_estreno": "2025-09-13",
+    "duración": "4 min",
+    "director": "Berta Alsinet, Paula Anglàs, Nuria Aranda, Martina Barney, Joan Cortit, Laia Domene, David Martin, Carlota Massó, Roger Menta, Víctor Moya, Gisela Torras",
+    "directores": [
+      {
+        "name": "Berta Alsinet",
+        "id": 4985397
+      },
+      {
+        "name": "Paula Anglàs",
+        "id": 4985400
+      },
+      {
+        "name": "Nuria Aranda",
+        "id": 4985401
+      },
+      {
+        "name": "Martina Barney",
+        "id": 4985402
+      },
+      {
+        "name": "Joan Cortit",
+        "id": 4985403
+      },
+      {
+        "name": "Laia Domene",
+        "id": 4985404
+      },
+      {
+        "name": "David Martin",
+        "id": 4985406
+      },
+      {
+        "name": "Carlota Massó",
+        "id": 4985407
+      },
+      {
+        "name": "Roger Menta",
+        "id": 4985408
+      },
+      {
+        "name": "Víctor Moya",
+        "id": 3269232
+      },
+      {
+        "name": "Gisela Torras",
+        "id": 4985409
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "popularidad": 0.0741,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/maxop4gDOsBilyesUAVjpywpWbS.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.704,
+          "height": 750,
+          "iso_639_1": null,
+          "file_path": "/44zb8T7EMPbR1Q8ZyOR9xcjMH8l.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 528
+        }
+      ]
+    },
+    "última_actualización": "2025-09-08 22:02:58"
+  },
+  {
+    "id": 1414153,
+    "tmdb_id": 1414153,
+    "título": "Broken Wings",
+    "título_original": "Broken Wings",
+    "sinopsis": "La historia nunca contada de la caza furtiva de aves en el sudeste asiático. Los bosques se vacían a gran escala y la extinción amenaza a más de un millar de especies de aves. Casi nadie lo sabe.",
+    "poster_path": "/zbmRI09OzNXm8FnogMJ5w9pn1aP.jpg",
+    "poster_local": "imagenes_estrenos/Broken_Wings_zbmRI09OzNXm8FnogMJ5w9pn1aP.jpg",
+    "backdrop_path": "/1vCWgYOM38WwjxcGKRPnJvx06Mp.jpg",
+    "backdrop_local": "imagenes_estrenos/Broken_Wings_backdrop_1vCWgYOM38WwjxcGKRPnJvx06Mp.jpg",
+    "fecha_estreno": "2025-09-13",
+    "duración": "7 min",
+    "director": "Jorik Dozy, Sil van der Woerd",
+    "directores": [
+      {
+        "name": "Jorik Dozy",
+        "id": 2045148
+      },
+      {
+        "name": "Sil van der Woerd",
+        "id": 1682833
+      }
+    ],
+    "actores": [
+      {
+        "name": "Ludovico Einaudi",
+        "id": 70526,
+        "character": "",
+        "profile_path": "/e0XPd7u1aVKRKUjikSYJPmrw9wk.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0524,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.779,
+          "height": 750,
+          "iso_639_1": null,
+          "file_path": "/1vCWgYOM38WwjxcGKRPnJvx06Mp.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1334
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1800,
+          "iso_639_1": null,
+          "file_path": "/zbmRI09OzNXm8FnogMJ5w9pn1aP.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1201
+        }
+      ]
+    },
+    "última_actualización": "2025-09-08 22:02:58"
+  },
+  {
+    "id": 1364538,
+    "tmdb_id": 1364538,
+    "título": "La sangre",
+    "título_original": "La sangre",
+    "sinopsis": "Álvaro es un chico que no encaja en su vida. Ni le interesa estudiar ni trabajar en la granja. Durante una emotiva procesión de la Virgen María en su pueblo, llora sangre, lo que lleva a la gente a ofrecerle grandes cantidades de dinero.",
+    "poster_path": "/9Ej9FL3KyJxuBTK7DQHRVdPVMbT.jpg",
+    "poster_local": "imagenes_estrenos/La_sangre_9Ej9FL3KyJxuBTK7DQHRVdPVMbT.jpg",
+    "backdrop_path": "/6ipGSHkLuPf1m0iNmUCjM9S6r59.jpg",
+    "backdrop_local": "imagenes_estrenos/La_sangre_backdrop_6ipGSHkLuPf1m0iNmUCjM9S6r59.jpg",
+    "fecha_estreno": "2025-09-13",
+    "duración": "15 min",
+    "director": "Joaquín León",
+    "directores": [
+      {
+        "name": "Joaquín León",
+        "id": 3305980
+      }
+    ],
+    "actores": [
+      {
+        "name": "Luka Albarrán",
+        "id": 5426926,
+        "character": "Álvaro",
+        "profile_path": null
+      },
+      {
+        "name": "Esther Luna",
+        "id": 5426927,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Ana Rodríguez",
+        "id": 5426931,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Manuel Triano",
+        "id": 5677957,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Marta Reyes",
+        "id": 5677958,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 0.0462,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_639_1": null,
+          "file_path": "/6ipGSHkLuPf1m0iNmUCjM9S6r59.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2048
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_639_1": null,
+          "file_path": "/xzlvb6bru5y4RbfMkPK0L8dAEJ8.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2048
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_639_1": null,
+          "file_path": "/4l3UtHLsaCi55hjG2oY0upcpnpT.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2048
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_639_1": null,
+          "file_path": "/mHtDsSmnRBf4ifUYKa5iXJFWHF6.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2048
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_639_1": null,
+          "file_path": "/rKkSXf81eHTQgzOCo32BI4QZWum.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2048
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "iso_639_1": null,
+          "file_path": "/9Ej9FL3KyJxuBTK7DQHRVdPVMbT.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1365
+        }
+      ]
+    },
+    "última_actualización": "2025-09-08 22:02:59"
   },
   {
     "id": 1461415,
@@ -4391,146 +4426,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:26"
-  },
-  {
-    "id": 1477560,
-    "tmdb_id": 1477560,
-    "título": "Santa Bárbara",
-    "título_original": "Santa Bárbara",
-    "sinopsis": "En 2022, Navarra sufrió devastadores incendios forestales que se acercaron cada vez más a la ciudad, quemando más de 14.000 hectáreas. En este documental, una voz colectiva y anónima reflexiona sobre nuestra relación con la naturaleza.",
-    "poster_path": "/gm72aZNHtE2sHbNC7lVj1qDJnwk.jpg",
-    "poster_local": "imagenes_estrenos/Santa_B_rbara_gm72aZNHtE2sHbNC7lVj1qDJnwk.jpg",
-    "backdrop_path": "/vLB8pvCgX9Inco7k2cqvGlzycIU.jpg",
-    "backdrop_local": "imagenes_estrenos/Santa_B_rbara_backdrop_vLB8pvCgX9Inco7k2cqvGlzycIU.jpg",
-    "fecha_estreno": "2025-09-13",
-    "duración": "11 min",
-    "director": "Bárbara Fdez",
-    "directores": [
-      {
-        "name": "Bárbara Fdez",
-        "id": 5424854
-      }
-    ],
-    "actores": [
-      {
-        "name": "Diego Pazó",
-        "id": 5676461,
-        "character": "Self",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.0143,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/vLB8pvCgX9Inco7k2cqvGlzycIU.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.664,
-          "height": 753,
-          "iso_639_1": null,
-          "file_path": "/gm72aZNHtE2sHbNC7lVj1qDJnwk.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2025-09-08 10:03:27"
-  },
-  {
-    "id": 1465936,
-    "tmdb_id": 1465936,
-    "título": "Wainitai",
-    "título_original": "Wainitai",
-    "sinopsis": "En una comunidad awajún de la selva amazónica, Jarumi, una adolescente de 14 años, aprende en silencio las tradiciones y las tareas del hogar, mientras observa cómo los hombres disfrutan de una libertad que a ella le parece inalcanzable. A través de sus dibujos y de la naturaleza que retrata desde su habitación, empieza a surgir una pregunta: si existe un lugar para ser ella misma.",
-    "poster_path": "/vi0B7YFi4uGmcIZ7nLZfl7MjTtY.jpg",
-    "poster_local": "imagenes_estrenos/Wainitai_vi0B7YFi4uGmcIZ7nLZfl7MjTtY.jpg",
-    "backdrop_path": "/26rxo9VLM6yBm9azjO72an93ygd.jpg",
-    "backdrop_local": "imagenes_estrenos/Wainitai_backdrop_26rxo9VLM6yBm9azjO72an93ygd.jpg",
-    "fecha_estreno": "2025-09-13",
-    "duración": "21 min",
-    "director": "Pablo García Vizcarra",
-    "directores": [
-      {
-        "name": "Pablo García Vizcarra",
-        "id": 5377815
-      }
-    ],
-    "actores": [
-      {
-        "name": "Jarumi",
-        "id": 5674838,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.0071,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/26rxo9VLM6yBm9azjO72an93ygd.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.683,
-          "height": 1152,
-          "iso_639_1": null,
-          "file_path": "/vi0B7YFi4uGmcIZ7nLZfl7MjTtY.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 787
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_639_1": null,
-          "file_path": "/qj7sgv3PI1NPFIzpEqlYLSD5M7.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2025-09-08 10:03:27"
+    "última_actualización": "2025-09-08 22:02:59"
   },
   {
     "id": 1542966,
@@ -4611,7 +4507,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:33"
+    "última_actualización": "2025-09-08 22:03:00"
   },
   {
     "id": 1542935,
@@ -4676,7 +4572,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:33"
+    "última_actualización": "2025-09-08 22:03:00"
   },
   {
     "id": 1542853,
@@ -4743,7 +4639,164 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:34"
+    "última_actualización": "2025-09-08 22:03:00"
+  },
+  {
+    "id": 1477560,
+    "tmdb_id": 1477560,
+    "título": "Santa Bárbara",
+    "título_original": "Santa Bárbara",
+    "sinopsis": "En 2022, Navarra sufrió devastadores incendios forestales que se acercaron cada vez más a la ciudad, quemando más de 14.000 hectáreas. En este documental, una voz colectiva y anónima reflexiona sobre nuestra relación con la naturaleza.",
+    "poster_path": "/gm72aZNHtE2sHbNC7lVj1qDJnwk.jpg",
+    "poster_local": "imagenes_estrenos/Santa_B_rbara_gm72aZNHtE2sHbNC7lVj1qDJnwk.jpg",
+    "backdrop_path": "/vLB8pvCgX9Inco7k2cqvGlzycIU.jpg",
+    "backdrop_local": "imagenes_estrenos/Santa_B_rbara_backdrop_vLB8pvCgX9Inco7k2cqvGlzycIU.jpg",
+    "fecha_estreno": "2025-09-13",
+    "duración": "11 min",
+    "director": "Bárbara Fdez",
+    "directores": [
+      {
+        "name": "Bárbara Fdez",
+        "id": 5424854
+      }
+    ],
+    "actores": [
+      {
+        "name": "Diego Pazó",
+        "id": 5676461,
+        "character": "Self",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0143,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/vLB8pvCgX9Inco7k2cqvGlzycIU.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.664,
+          "height": 753,
+          "iso_639_1": null,
+          "file_path": "/gm72aZNHtE2sHbNC7lVj1qDJnwk.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2025-09-08 22:03:00"
+  },
+  {
+    "id": 1465936,
+    "tmdb_id": 1465936,
+    "título": "Wainitai",
+    "título_original": "Wainitai",
+    "sinopsis": "En una comunidad awajún de la selva amazónica, Jarumi, una adolescente de 14 años, aprende en silencio las tradiciones y las tareas del hogar, mientras observa cómo los hombres disfrutan de una libertad que a ella le parece inalcanzable. A través de sus dibujos y de la naturaleza que retrata desde su habitación, empieza a surgir una pregunta: si existe un lugar para ser ella misma.",
+    "poster_path": "/vi0B7YFi4uGmcIZ7nLZfl7MjTtY.jpg",
+    "poster_local": "imagenes_estrenos/Wainitai_vi0B7YFi4uGmcIZ7nLZfl7MjTtY.jpg",
+    "backdrop_path": "/26rxo9VLM6yBm9azjO72an93ygd.jpg",
+    "backdrop_local": "imagenes_estrenos/Wainitai_backdrop_26rxo9VLM6yBm9azjO72an93ygd.jpg",
+    "fecha_estreno": "2025-09-13",
+    "duración": "21 min",
+    "director": "Pablo García Vizcarra",
+    "directores": [
+      {
+        "name": "Pablo García Vizcarra",
+        "id": 5377815
+      }
+    ],
+    "actores": [
+      {
+        "name": "Jarumi Sejekam Antuash",
+        "id": 5677949,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Arlita Antuash Paaty",
+        "id": 5677946,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Wagner Achayap Sejekam",
+        "id": 5677947,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "José Manuel Sejekam Antuash",
+        "id": 5677948,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0071,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/26rxo9VLM6yBm9azjO72an93ygd.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.683,
+          "height": 1152,
+          "iso_639_1": null,
+          "file_path": "/vi0B7YFi4uGmcIZ7nLZfl7MjTtY.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 787
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_639_1": null,
+          "file_path": "/qj7sgv3PI1NPFIzpEqlYLSD5M7.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2025-09-08 22:03:01"
   },
   {
     "id": 1281558,
@@ -4814,7 +4867,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:20"
+    "última_actualización": "2025-09-08 22:02:57"
   },
   {
     "id": 1542942,
@@ -4889,7 +4942,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:33"
+    "última_actualización": "2025-09-08 22:03:00"
   },
   {
     "id": 1537256,
@@ -4902,7 +4955,7 @@
     "backdrop_path": null,
     "backdrop_local": "",
     "fecha_estreno": "2025-09-16",
-    "duración": "0 min",
+    "duración": "15 min",
     "director": "Marco Araujo",
     "directores": [
       {
@@ -4953,7 +5006,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:16"
+    "última_actualización": "2025-09-08 22:02:55"
   },
   {
     "id": 1514726,
@@ -5032,7 +5085,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:23"
+    "última_actualización": "2025-09-08 22:02:58"
   },
   {
     "id": 1512705,
@@ -5089,7 +5142,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:24"
+    "última_actualización": "2025-09-08 22:02:58"
   },
   {
     "id": 1290088,
@@ -5189,7 +5242,246 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:27"
+    "última_actualización": "2025-09-08 22:02:59"
+  },
+  {
+    "id": 1543297,
+    "tmdb_id": 1543297,
+    "título": "Los murciélagos han abandonado el campanario",
+    "título_original": "Los murciélagos han abandonado el campanario",
+    "sinopsis": "",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-09-16",
+    "duración": "16 min",
+    "director": "Alfonso Bernal, Manuel Bernal",
+    "directores": [
+      {
+        "name": "Alfonso Bernal",
+        "id": 3644632
+      },
+      {
+        "name": "Manuel Bernal",
+        "id": 3644566
+      }
+    ],
+    "actores": [
+      {
+        "name": "Nacho Sánchez",
+        "id": 2388421,
+        "character": "",
+        "profile_path": "/pIcRBrNFCqbvaqvE7eoBzKtPH7R.jpg"
+      },
+      {
+        "name": "Estefanía de los Santos",
+        "id": 1103795,
+        "character": "",
+        "profile_path": "/s08UMCjRXWt8w3dwhJhmeaq2YkC.jpg"
+      },
+      {
+        "name": "María Romanillos",
+        "id": 2545932,
+        "character": "",
+        "profile_path": "/sjFIhCetynIKYorwNWiU5gebsP7.jpg"
+      },
+      {
+        "name": "Manolo Caro",
+        "id": 1105251,
+        "character": "",
+        "profile_path": "/vqzcs9bYhoMG9Fu5amagwvDlYQs.jpg"
+      },
+      {
+        "name": "Gabriel Ignacio",
+        "id": 2687402,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [],
+    "popularidad": 0.0,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-09-08 22:03:01"
+  },
+  {
+    "id": 1543275,
+    "tmdb_id": 1543275,
+    "título": "No hay paraíso",
+    "título_original": "No hay paraíso",
+    "sinopsis": "",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-09-16",
+    "duración": "13 min",
+    "director": "Víctor Ballesteros Siguero",
+    "directores": [
+      {
+        "name": "Víctor Ballesteros Siguero",
+        "id": 5026093
+      }
+    ],
+    "actores": [
+      {
+        "name": "Mario Alonso",
+        "id": 2765950,
+        "character": "Jesús",
+        "profile_path": null
+      },
+      {
+        "name": "Jorge Usón",
+        "id": 1456034,
+        "character": "Don Antonio",
+        "profile_path": "/zXXmIRRFvQbXk5qMPOjGtw21Ion.jpg"
+      },
+      {
+        "name": "María Garralón",
+        "id": 1032983,
+        "character": "Sagrario",
+        "profile_path": "/fRVw2GOGT1TFXCB0YzsK0G6ttqQ.jpg"
+      },
+      {
+        "name": "Laura Cortón",
+        "id": 3795742,
+        "character": "Conchi",
+        "profile_path": "/9awpWb2qrVlbe17BIK3eQdI5DSQ.jpg"
+      },
+      {
+        "name": "Chari Gutiérrez",
+        "id": 2930879,
+        "character": "Paloma",
+        "profile_path": "/b5LWJisuHRtCgwEmc7sMQxtwl2t.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 0.0,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-09-08 22:03:01"
+  },
+  {
+    "id": 1543265,
+    "tmdb_id": 1543265,
+    "título": "No son sus ojos",
+    "título_original": "No son sus ojos",
+    "sinopsis": "",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-09-16",
+    "duración": "12 min",
+    "director": "Alejandro Guisado, Varo López",
+    "directores": [
+      {
+        "name": "Alejandro Guisado",
+        "id": 4803003
+      },
+      {
+        "name": "Varo López",
+        "id": 4814525
+      }
+    ],
+    "actores": [
+      {
+        "name": "Sara Ferro",
+        "id": 3169340,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Guti González",
+        "id": 4394084,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Isabel Portas",
+        "id": 5677570,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [],
+    "popularidad": 0.0,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-09-08 22:03:01"
+  },
+  {
+    "id": 1543246,
+    "tmdb_id": 1543246,
+    "título": "Tendrá tus ojos",
+    "título_original": "Tendrá tus ojos",
+    "sinopsis": "",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-09-16",
+    "duración": "14 min",
+    "director": "Gonzalo Cámara",
+    "directores": [
+      {
+        "name": "Gonzalo Cámara",
+        "id": 3774444
+      }
+    ],
+    "actores": [
+      {
+        "name": "George Steane",
+        "id": 3136506,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Aritz Kortabarria",
+        "id": 3073635,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [],
+    "popularidad": 0.0,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-09-08 22:03:01"
   },
   {
     "id": 1543237,
@@ -5268,7 +5560,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:31"
+    "última_actualización": "2025-09-08 22:03:02"
   },
   {
     "id": 1543219,
@@ -5325,7 +5617,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:32"
+    "última_actualización": "2025-09-08 22:03:02"
   },
   {
     "id": 1241921,
@@ -5476,7 +5768,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:10"
+    "última_actualización": "2025-09-08 22:02:52"
   },
   {
     "id": 507244,
@@ -5544,8 +5836,8 @@
       }
     ],
     "popularidad": 6.703,
-    "puntuación": 7.2,
-    "votos": 4,
+    "puntuación": 7.0,
+    "votos": 5,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -5645,7 +5937,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:10"
+    "última_actualización": "2025-09-08 22:02:52"
   },
   {
     "id": 1102493,
@@ -5792,7 +6084,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:11"
+    "última_actualización": "2025-09-08 22:02:52"
   },
   {
     "id": 1063875,
@@ -5921,7 +6213,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:12"
+    "última_actualización": "2025-09-08 22:02:53"
   },
   {
     "id": 1066583,
@@ -6014,7 +6306,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:12"
+    "última_actualización": "2025-09-08 22:02:53"
   },
   {
     "id": 1361854,
@@ -6093,7 +6385,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:13"
+    "última_actualización": "2025-09-08 22:02:53"
   },
   {
     "id": 1225624,
@@ -6218,7 +6510,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:14"
+    "última_actualización": "2025-09-08 22:02:54"
   },
   {
     "id": 999160,
@@ -6232,15 +6524,15 @@
     "backdrop_local": "imagenes_estrenos/Angelo_en_el_bosque_misterioso_backdrop_xusMjLyXKjsFZeig9s8joGYtnhy.jpg",
     "fecha_estreno": "2025-09-19T00:00:00.000Z",
     "duración": "81 min",
-    "director": "Vincent Paronnaud, Alexis Ducord",
+    "director": "Alexis Ducord, Vincent Paronnaud",
     "directores": [
-      {
-        "name": "Vincent Paronnaud",
-        "id": 20709
-      },
       {
         "name": "Alexis Ducord",
         "id": 1804197
+      },
+      {
+        "name": "Vincent Paronnaud",
+        "id": 20709
       }
     ],
     "actores": [
@@ -6336,7 +6628,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:15"
+    "última_actualización": "2025-09-08 22:02:54"
   },
   {
     "id": 1297953,
@@ -6419,7 +6711,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:17"
+    "última_actualización": "2025-09-08 22:02:55"
   },
   {
     "id": 1541991,
@@ -6580,8 +6872,8 @@
       }
     ],
     "popularidad": 36.6368,
-    "puntuación": 7.282,
-    "votos": 39,
+    "puntuación": 7.2,
+    "votos": 41,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -6681,7 +6973,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:08"
+    "última_actualización": "2025-09-08 22:02:51"
   },
   {
     "id": 1054867,
@@ -6834,23 +7126,23 @@
           "aspect_ratio": 0.667,
           "height": 3000,
           "iso_639_1": null,
-          "file_path": "/5L8FoGMNblAqi5zf6pCqwWU0W7q.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
           "file_path": "/iYLCXB2w4QOq59mJIZMmm7HGs6p.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
           "width": 2000
+        },
+        {
+          "aspect_ratio": 0.7,
+          "height": 2048,
+          "iso_639_1": null,
+          "file_path": "/hT74rRpJzT9mU7RlaRWJKLpgC5R.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1434
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:09"
+    "última_actualización": "2025-09-08 22:02:51"
   },
   {
     "id": 338969,
@@ -7019,7 +7311,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:09"
+    "última_actualización": "2025-09-08 22:02:51"
   },
   {
     "id": 1374686,
@@ -7160,7 +7452,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:09"
+    "última_actualización": "2025-09-08 22:02:51"
   },
   {
     "id": 1088166,
@@ -7224,7 +7516,7 @@
       }
     ],
     "popularidad": 4.5296,
-    "puntuación": 6.182,
+    "puntuación": 6.2,
     "votos": 11,
     "adulto": false,
     "video": false,
@@ -7279,7 +7571,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:10"
+    "última_actualización": "2025-09-08 22:02:52"
   },
   {
     "id": 1010756,
@@ -7444,7 +7736,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:11"
+    "última_actualización": "2025-09-08 22:02:52"
   },
   {
     "id": 1175932,
@@ -7527,7 +7819,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:11"
+    "última_actualización": "2025-09-08 22:02:52"
   },
   {
     "id": 1086260,
@@ -7624,7 +7916,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:12"
+    "última_actualización": "2025-09-08 22:02:52"
   },
   {
     "id": 1400214,
@@ -7707,7 +7999,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:12"
+    "última_actualización": "2025-09-08 22:02:53"
   },
   {
     "id": 1096642,
@@ -7822,7 +8114,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:14"
+    "última_actualización": "2025-09-08 22:02:54"
   },
   {
     "id": 1453828,
@@ -7915,7 +8207,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:15"
+    "última_actualización": "2025-09-08 22:02:54"
   },
   {
     "id": 1293641,
@@ -7971,7 +8263,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:18"
+    "última_actualización": "2025-09-08 22:02:55"
   },
   {
     "id": 1426968,
@@ -8067,7 +8359,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:19"
+    "última_actualización": "2025-09-08 22:02:56"
   },
   {
     "id": 1536049,
@@ -8150,7 +8442,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:21"
+    "última_actualización": "2025-09-08 22:02:57"
   },
   {
     "id": 1431314,
@@ -8219,7 +8511,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-08 10:03:21"
+    "última_actualización": "2025-09-08 22:02:58"
   },
   {
     "id": 1325104,
@@ -8274,7 +8566,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:20"
+    "última_actualización": "2025-09-08 22:02:55"
   },
   {
     "id": 1381107,
@@ -8330,6 +8622,6 @@
         }
       ]
     },
-    "última_actualización": "2025-09-08 10:03:21"
+    "última_actualización": "2025-09-08 22:02:57"
   }
 ]
