@@ -1,0 +1,45 @@
+2025-09-09 12:09:01,956 - INFO - Iniciando proceso de scraping
+2025-09-09 12:09:01,958 - INFO - Posts existentes encontrados: 2434
+2025-09-09 12:09:01,958 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-09-09 12:09:03,658 - INFO - Se encontraron 10 posts
+2025-09-09 12:09:03,659 - INFO - Comenzando extracción de información del post
+2025-09-09 12:09:03,659 - INFO - Título del post: AGÁRRALO COMO PUEDAS de Akiva Schaffer
+2025-09-09 12:09:03,659 - INFO - Fecha del post: 2025-09-09T14:03:49+02:00
+2025-09-09 12:09:03,659 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/09/agarralo-como-puedas-de-akiva-schaffer.html
+2025-09-09 12:09:05,168 - INFO - Contenido extraído y estructurado (2530 caracteres)
+2025-09-09 12:09:05,169 - INFO - Guardando post en: posts/AGÁRRALO_COMO_PUEDAS_2025-09-09.json
+2025-09-09 12:09:05,169 - INFO - Post guardado exitosamente
+2025-09-09 12:09:05,169 - INFO - Actualizando índice de películas
+2025-09-09 12:09:05,169 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-09-09 12:09:05,173 - INFO - Índice existente cargado con 2535 películas
+2025-09-09 12:09:05,185 - INFO - Película agregada al índice: AGÁRRALO COMO PUEDAS
+2025-09-09 12:09:05,185 - INFO - Nuevo post guardado: AGÁRRALO COMO PUEDAS de Akiva Schaffer
+2025-09-09 12:09:05,185 - INFO - Comenzando extracción de información del post
+2025-09-09 12:09:05,185 - INFO - Título del post: EL REGRESO DE ULISES de Uberto Pasolini
+2025-09-09 12:09:05,185 - INFO - Fecha del post: 2025-09-09T13:56:48+02:00
+2025-09-09 12:09:05,185 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/09/el-regreso-de-ulises-de-uberto-pasolini.html
+2025-09-09 12:09:06,718 - INFO - Contenido extraído y estructurado (2832 caracteres)
+2025-09-09 12:09:06,719 - INFO - Guardando post en: posts/EL_REGRESO_DE_ULISES_2025-09-09.json
+2025-09-09 12:09:06,719 - INFO - Post guardado exitosamente
+2025-09-09 12:09:06,719 - INFO - Actualizando índice de películas
+2025-09-09 12:09:06,719 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-09-09 12:09:06,723 - INFO - Índice existente cargado con 2536 películas
+2025-09-09 12:09:06,734 - INFO - Película agregada al índice: EL REGRESO DE ULISES
+2025-09-09 12:09:06,735 - INFO - Nuevo post guardado: EL REGRESO DE ULISES de Uberto Pasolini
+2025-09-09 12:09:06,735 - INFO - Comenzando extracción de información del post
+2025-09-09 12:09:06,735 - INFO - Post ya existente, saltando: BLUE SUN PALACE de Constance Sang
+2025-09-09 12:09:06,735 - INFO - Comenzando extracción de información del post
+2025-09-09 12:09:06,735 - INFO - Post ya existente, saltando: MATERIALISTAS de Celine Song
+2025-09-09 12:09:06,735 - INFO - Comenzando extracción de información del post
+2025-09-09 12:09:06,735 - INFO - Post ya existente, saltando: WEAPONS de Zach Cregger
+2025-09-09 12:09:06,735 - INFO - Comenzando extracción de información del post
+2025-09-09 12:09:06,735 - INFO - Post ya existente, saltando: MI POSTRE FAVORITO de Maryam Moghadam y Behtash Sanaeeha
+2025-09-09 12:09:06,736 - INFO - Comenzando extracción de información del post
+2025-09-09 12:09:06,736 - INFO - Post ya existente, saltando: AQUÉL VERANO EN PARÍS de Valentine Cadic
+2025-09-09 12:09:06,736 - INFO - Comenzando extracción de información del post
+2025-09-09 12:09:06,736 - INFO - Post ya existente, saltando: MR. NADIE de Miguel Ángel Calvo Buttini
+2025-09-09 12:09:06,736 - INFO - Comenzando extracción de información del post
+2025-09-09 12:09:06,736 - INFO - Post ya existente, saltando: NUNCA MÁS de Klaus Härö
+2025-09-09 12:09:06,736 - INFO - Comenzando extracción de información del post
+2025-09-09 12:09:06,736 - INFO - Post ya existente, saltando: DEVUÉLVEMELA de Danny y Michael Philippou
+2025-09-09 12:09:06,736 - INFO - Proceso completado. Posts nuevos guardados: 2
