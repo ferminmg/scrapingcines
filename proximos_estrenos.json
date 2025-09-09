@@ -1,73 +1,5 @@
 [
   {
-    "id": 1543320,
-    "tmdb_id": 1543320,
-    "título": "El lago silente",
-    "título_original": "El lago silente",
-    "sinopsis": "",
-    "poster_path": null,
-    "poster_local": "",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "",
-    "duración": "15 min",
-    "director": "Varo López, Sara Manzano",
-    "directores": [
-      {
-        "name": "Varo López",
-        "id": 4814525
-      },
-      {
-        "name": "Sara Manzano",
-        "id": 3906585
-      }
-    ],
-    "actores": [
-      {
-        "name": "Lorena Arroyo Suárez",
-        "id": 5677766,
-        "character": "Joven",
-        "profile_path": null
-      },
-      {
-        "name": "Juan Manuel Barreiro",
-        "id": 5677769,
-        "character": "Hombre",
-        "profile_path": null
-      },
-      {
-        "name": "Raúl Sáez",
-        "id": 2662249,
-        "character": "Cura",
-        "profile_path": "/9vRZ0nLkOZwn11mbsACxkP6xg0Z.jpg"
-      },
-      {
-        "name": "María Dopico Villarino",
-        "id": 5563676,
-        "character": "Mujer",
-        "profile_path": "/y0manYZdC1GbKRjJoC98UlUaZdQ.jpg"
-      },
-      {
-        "name": "Albert Ponseti",
-        "id": 5677772,
-        "character": "Marido",
-        "profile_path": null
-      }
-    ],
-    "géneros": [],
-    "popularidad": 0.0143,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2025-09-09 10:03:28"
-  },
-  {
     "id": 1424528,
     "tmdb_id": 1424528,
     "título": "Spider-Zan",
@@ -128,7 +60,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:20"
+    "última_actualización": "2025-09-09 22:02:54"
   },
   {
     "id": 1397625,
@@ -215,7 +147,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:16"
+    "última_actualización": "2025-09-09 22:02:51"
   },
   {
     "id": 1414077,
@@ -290,7 +222,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:18"
+    "última_actualización": "2025-09-09 22:02:53"
   },
   {
     "id": 1242444,
@@ -379,7 +311,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:14"
+    "última_actualización": "2025-09-09 22:02:51"
   },
   {
     "id": 1263911,
@@ -481,7 +413,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:25"
+    "última_actualización": "2025-09-09 22:02:55"
   },
   {
     "id": 1366976,
@@ -578,82 +510,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:12"
-  },
-  {
-    "id": 1249796,
-    "tmdb_id": 1249796,
-    "título": "Adiós",
-    "título_original": "Adiós",
-    "sinopsis": "",
-    "poster_path": "/bo4MucPnaj7iv2QDfXCg0nk44GO.jpg",
-    "poster_local": "imagenes_estrenos/Adi_s_bo4MucPnaj7iv2QDfXCg0nk44GO.jpg",
-    "backdrop_path": "/pFiKvmgiqzYFHqkFgeTPNdq2bgx.jpg",
-    "backdrop_local": "imagenes_estrenos/Adi_s_backdrop_pFiKvmgiqzYFHqkFgeTPNdq2bgx.jpg",
-    "fecha_estreno": "2025-09-12",
-    "duración": "8 min",
-    "director": "José Prats",
-    "directores": [
-      {
-        "name": "José Prats",
-        "id": 2264140
-      }
-    ],
-    "actores": [
-      {
-        "name": "Ginés García Millán",
-        "id": 24923,
-        "character": "Pedro",
-        "profile_path": "/lWbOCU1yUUHKmGwzp8iLUEcLgam.jpg"
-      },
-      {
-        "name": "Pepe Villena",
-        "id": 4555612,
-        "character": "Alex",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.4652,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/pFiKvmgiqzYFHqkFgeTPNdq2bgx.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/nB3vrBvAzr9bHP8K4WDpUYtoWxi.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-09-09 10:03:15"
+    "última_actualización": "2025-09-09 22:02:50"
   },
   {
     "id": 1317615,
@@ -743,7 +600,82 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:15"
+    "última_actualización": "2025-09-09 22:02:51"
+  },
+  {
+    "id": 1249796,
+    "tmdb_id": 1249796,
+    "título": "Adiós",
+    "título_original": "Adiós",
+    "sinopsis": "",
+    "poster_path": "/bo4MucPnaj7iv2QDfXCg0nk44GO.jpg",
+    "poster_local": "imagenes_estrenos/Adi_s_bo4MucPnaj7iv2QDfXCg0nk44GO.jpg",
+    "backdrop_path": "/pFiKvmgiqzYFHqkFgeTPNdq2bgx.jpg",
+    "backdrop_local": "imagenes_estrenos/Adi_s_backdrop_pFiKvmgiqzYFHqkFgeTPNdq2bgx.jpg",
+    "fecha_estreno": "2025-09-12",
+    "duración": "8 min",
+    "director": "José Prats",
+    "directores": [
+      {
+        "name": "José Prats",
+        "id": 2264140
+      }
+    ],
+    "actores": [
+      {
+        "name": "Ginés García Millán",
+        "id": 24923,
+        "character": "Pedro",
+        "profile_path": "/lWbOCU1yUUHKmGwzp8iLUEcLgam.jpg"
+      },
+      {
+        "name": "Pepe Villena",
+        "id": 4555612,
+        "character": "Alex",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.4652,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/pFiKvmgiqzYFHqkFgeTPNdq2bgx.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/nB3vrBvAzr9bHP8K4WDpUYtoWxi.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-09-09 22:02:51"
   },
   {
     "id": 1367416,
@@ -840,100 +772,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:17"
-  },
-  {
-    "id": 1474239,
-    "tmdb_id": 1474239,
-    "título": "Happy Hour",
-    "título_original": "Happy Hour",
-    "sinopsis": "David, un enfermero, pasa las noches de verano de guardia en el consultorio de un pequeño pueblo del interior, aislado en mitad de Extremadura. La noche parece tranquila, incluso monótona, pero entre el personal de urgencias circula una leyenda: a las tres de la mañana, como en una película de zombis, lo peor de cada casa emerge de las sombras. Es lo que los sanitarios llaman la Happy Hour.",
-    "poster_path": "/hwMBpEhcZ43cWjimO6hIdPI4BoB.jpg",
-    "poster_local": "imagenes_estrenos/Happy_Hour_hwMBpEhcZ43cWjimO6hIdPI4BoB.jpg",
-    "backdrop_path": "/fcb9yc4c2vVth5mEk23T5AfqQpv.jpg",
-    "backdrop_local": "imagenes_estrenos/Happy_Hour_backdrop_fcb9yc4c2vVth5mEk23T5AfqQpv.jpg",
-    "fecha_estreno": "2025-09-12",
-    "duración": "22 min",
-    "director": "Nico Romero, Álvaro Monje",
-    "directores": [
-      {
-        "name": "Nico Romero",
-        "id": 1330941
-      },
-      {
-        "name": "Álvaro Monje",
-        "id": 229243
-      }
-    ],
-    "actores": [
-      {
-        "name": "Nico Romero",
-        "id": 1330941,
-        "character": "Antonio",
-        "profile_path": "/46KRVkcecnOkygXmmyyhrbE2t68.jpg"
-      },
-      {
-        "name": "Marcos Ruiz",
-        "id": 224733,
-        "character": "David",
-        "profile_path": "/rpAw3p2WjLFYfmqM3JdF1tgDEDE.jpg"
-      },
-      {
-        "name": "Vicente Vergara",
-        "id": 2264687,
-        "character": "Doctor",
-        "profile_path": "/sexFRRIeaUo883zLsxVLcgei3cw.jpg"
-      },
-      {
-        "name": "Carolina Yuste",
-        "id": 2025663,
-        "character": "Jara",
-        "profile_path": "/WbPX1SzFmAEaF4ioMEwgumvqzW.jpg"
-      },
-      {
-        "name": "Mateo Durán Moreno",
-        "id": 5677886,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.1299,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.775,
-          "height": 721,
-          "iso_639_1": null,
-          "file_path": "/fcb9yc4c2vVth5mEk23T5AfqQpv.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.702,
-          "height": 1425,
-          "iso_639_1": null,
-          "file_path": "/hwMBpEhcZ43cWjimO6hIdPI4BoB.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1000
-        }
-      ]
-    },
-    "última_actualización": "2025-09-09 10:03:20"
+    "última_actualización": "2025-09-09 22:02:52"
   },
   {
     "id": 1355317,
@@ -1038,7 +877,100 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:21"
+    "última_actualización": "2025-09-09 22:02:54"
+  },
+  {
+    "id": 1474239,
+    "tmdb_id": 1474239,
+    "título": "Happy Hour",
+    "título_original": "Happy Hour",
+    "sinopsis": "David, un enfermero, pasa las noches de verano de guardia en el consultorio de un pequeño pueblo del interior, aislado en mitad de Extremadura. La noche parece tranquila, incluso monótona, pero entre el personal de urgencias circula una leyenda: a las tres de la mañana, como en una película de zombis, lo peor de cada casa emerge de las sombras. Es lo que los sanitarios llaman la Happy Hour.",
+    "poster_path": "/hwMBpEhcZ43cWjimO6hIdPI4BoB.jpg",
+    "poster_local": "imagenes_estrenos/Happy_Hour_hwMBpEhcZ43cWjimO6hIdPI4BoB.jpg",
+    "backdrop_path": "/fcb9yc4c2vVth5mEk23T5AfqQpv.jpg",
+    "backdrop_local": "imagenes_estrenos/Happy_Hour_backdrop_fcb9yc4c2vVth5mEk23T5AfqQpv.jpg",
+    "fecha_estreno": "2025-09-12",
+    "duración": "22 min",
+    "director": "Nico Romero, Álvaro Monje",
+    "directores": [
+      {
+        "name": "Nico Romero",
+        "id": 1330941
+      },
+      {
+        "name": "Álvaro Monje",
+        "id": 229243
+      }
+    ],
+    "actores": [
+      {
+        "name": "Nico Romero",
+        "id": 1330941,
+        "character": "Antonio",
+        "profile_path": "/46KRVkcecnOkygXmmyyhrbE2t68.jpg"
+      },
+      {
+        "name": "Marcos Ruiz",
+        "id": 224733,
+        "character": "David",
+        "profile_path": "/rpAw3p2WjLFYfmqM3JdF1tgDEDE.jpg"
+      },
+      {
+        "name": "Vicente Vergara",
+        "id": 2264687,
+        "character": "Doctor",
+        "profile_path": "/sexFRRIeaUo883zLsxVLcgei3cw.jpg"
+      },
+      {
+        "name": "Carolina Yuste",
+        "id": 2025663,
+        "character": "Jara",
+        "profile_path": "/WbPX1SzFmAEaF4ioMEwgumvqzW.jpg"
+      },
+      {
+        "name": "Mateo Durán Moreno",
+        "id": 5677886,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.1299,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.775,
+          "height": 721,
+          "iso_639_1": null,
+          "file_path": "/fcb9yc4c2vVth5mEk23T5AfqQpv.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.702,
+          "height": 1425,
+          "iso_639_1": null,
+          "file_path": "/hwMBpEhcZ43cWjimO6hIdPI4BoB.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        }
+      ]
+    },
+    "última_actualización": "2025-09-09 22:02:54"
   },
   {
     "id": 1316804,
@@ -1119,65 +1051,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:23"
-  },
-  {
-    "id": 1253647,
-    "tmdb_id": 1253647,
-    "título": "Lobos",
-    "título_original": "Lobos",
-    "sinopsis": "¿Por qué existe el deseo de matar lobos? En Asturias pervive la lucha entre el lobo y el hombre. Cazadores y ganaderos manifiestan un pensamiento arraigado a sus leyendas.",
-    "poster_path": "/9Lqxd728j8ihxrEEUnUf5cDfaH3.jpg",
-    "poster_local": "imagenes_estrenos/Lobos_9Lqxd728j8ihxrEEUnUf5cDfaH3.jpg",
-    "backdrop_path": "/niZpBkTgbW69gAOluv8ADD6YJeg.jpg",
-    "backdrop_local": "imagenes_estrenos/Lobos_backdrop_niZpBkTgbW69gAOluv8ADD6YJeg.jpg",
-    "fecha_estreno": "2025-09-12",
-    "duración": "30 min",
-    "director": "Marina G. Andreu",
-    "directores": [
-      {
-        "name": "Marina G. Andreu",
-        "id": 4570315
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.0662,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/niZpBkTgbW69gAOluv8ADD6YJeg.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.712,
-          "height": 1405,
-          "iso_639_1": null,
-          "file_path": "/9Lqxd728j8ihxrEEUnUf5cDfaH3.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1000
-        }
-      ]
-    },
-    "última_actualización": "2025-09-09 10:03:24"
+    "última_actualización": "2025-09-09 22:02:54"
   },
   {
     "id": 1229561,
@@ -1266,7 +1140,136 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:25"
+    "última_actualización": "2025-09-09 22:02:55"
+  },
+  {
+    "id": 1253647,
+    "tmdb_id": 1253647,
+    "título": "Lobos",
+    "título_original": "Lobos",
+    "sinopsis": "¿Por qué existe el deseo de matar lobos? En Asturias pervive la lucha entre el lobo y el hombre. Cazadores y ganaderos manifiestan un pensamiento arraigado a sus leyendas.",
+    "poster_path": "/9Lqxd728j8ihxrEEUnUf5cDfaH3.jpg",
+    "poster_local": "imagenes_estrenos/Lobos_9Lqxd728j8ihxrEEUnUf5cDfaH3.jpg",
+    "backdrop_path": "/niZpBkTgbW69gAOluv8ADD6YJeg.jpg",
+    "backdrop_local": "imagenes_estrenos/Lobos_backdrop_niZpBkTgbW69gAOluv8ADD6YJeg.jpg",
+    "fecha_estreno": "2025-09-12",
+    "duración": "30 min",
+    "director": "Marina G. Andreu",
+    "directores": [
+      {
+        "name": "Marina G. Andreu",
+        "id": 4570315
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0662,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/niZpBkTgbW69gAOluv8ADD6YJeg.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.712,
+          "height": 1405,
+          "iso_639_1": null,
+          "file_path": "/9Lqxd728j8ihxrEEUnUf5cDfaH3.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        }
+      ]
+    },
+    "última_actualización": "2025-09-09 22:02:55"
+  },
+  {
+    "id": 1365292,
+    "tmdb_id": 1365292,
+    "título": "Pietra",
+    "título_original": "Pietra",
+    "sinopsis": "Al soñar despierto con relaciones improbables, la flor, tan delicada como revolucionaria, representa un acto de amor en medio de la asfixia y el abrazo de un clásico barrio portugués.",
+    "poster_path": "/7B3mLxoSyZYJp6J7uSY2LIpDEHt.jpg",
+    "poster_local": "imagenes_estrenos/Pietra_7B3mLxoSyZYJp6J7uSY2LIpDEHt.jpg",
+    "backdrop_path": "/z1auCtQjdn5bg0klQlzuFFoppLV.jpg",
+    "backdrop_local": "imagenes_estrenos/Pietra_backdrop_z1auCtQjdn5bg0klQlzuFFoppLV.jpg",
+    "fecha_estreno": "2025-09-12",
+    "duración": "12 min",
+    "director": "Cynthia Levitan",
+    "directores": [
+      {
+        "name": "Cynthia Levitan",
+        "id": 4976578
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.0658,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_639_1": null,
+          "file_path": "/z1auCtQjdn5bg0klQlzuFFoppLV.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/j6rKFiFL7tnAMBprDBDkP7cXraa.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.676,
+          "height": 1000,
+          "iso_639_1": null,
+          "file_path": "/7B3mLxoSyZYJp6J7uSY2LIpDEHt.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 676
+        }
+      ]
+    },
+    "última_actualización": "2025-09-09 22:02:56"
   },
   {
     "id": 1483887,
@@ -1343,7 +1346,76 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:26"
+    "última_actualización": "2025-09-09 22:02:56"
+  },
+  {
+    "id": 1543055,
+    "tmdb_id": 1543055,
+    "título": "Lettre à la Terre",
+    "título_original": "Lettre à la Terre",
+    "sinopsis": "Carta a la Tierra es una oda a nuestro planeta, a nuestra diosa, sea Gaia o Pangea.",
+    "poster_path": "/dT82kZAxRwsfqg8WL1xmP9B3gV1.jpg",
+    "poster_local": "imagenes_estrenos/Lettre___la_Terre_dT82kZAxRwsfqg8WL1xmP9B3gV1.jpg",
+    "backdrop_path": "/hFpJy9phTmSa6kAb0dXnzhNoYff.jpg",
+    "backdrop_local": "imagenes_estrenos/Lettre___la_Terre_backdrop_hFpJy9phTmSa6kAb0dXnzhNoYff.jpg",
+    "fecha_estreno": "2025-09-12",
+    "duración": "2 min",
+    "director": "Paul Marlier, Jeanne Morel",
+    "directores": [
+      {
+        "name": "Paul Marlier",
+        "id": 5676946
+      },
+      {
+        "name": "Jeanne Morel",
+        "id": 5676945
+      }
+    ],
+    "actores": [
+      {
+        "name": "Jeanne Morel",
+        "id": 5676945,
+        "character": "Self",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.0311,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/hFpJy9phTmSa6kAb0dXnzhNoYff.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_639_1": null,
+          "file_path": "/dT82kZAxRwsfqg8WL1xmP9B3gV1.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2025-09-09 22:02:57"
   },
   {
     "id": 1482458,
@@ -1440,213 +1512,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:26"
-  },
-  {
-    "id": 1543055,
-    "tmdb_id": 1543055,
-    "título": "Lettre à la Terre",
-    "título_original": "Lettre à la Terre",
-    "sinopsis": "Carta a la Tierra es una oda a nuestro planeta, a nuestra diosa, sea Gaia o Pangea.",
-    "poster_path": "/dT82kZAxRwsfqg8WL1xmP9B3gV1.jpg",
-    "poster_local": "imagenes_estrenos/Lettre___la_Terre_dT82kZAxRwsfqg8WL1xmP9B3gV1.jpg",
-    "backdrop_path": "/hFpJy9phTmSa6kAb0dXnzhNoYff.jpg",
-    "backdrop_local": "imagenes_estrenos/Lettre___la_Terre_backdrop_hFpJy9phTmSa6kAb0dXnzhNoYff.jpg",
-    "fecha_estreno": "2025-09-12",
-    "duración": "2 min",
-    "director": "Paul Marlier, Jeanne Morel",
-    "directores": [
-      {
-        "name": "Paul Marlier",
-        "id": 5676946
-      },
-      {
-        "name": "Jeanne Morel",
-        "id": 5676945
-      }
-    ],
-    "actores": [
-      {
-        "name": "Jeanne Morel",
-        "id": 5676945,
-        "character": "Self",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.0311,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/hFpJy9phTmSa6kAb0dXnzhNoYff.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_639_1": null,
-          "file_path": "/dT82kZAxRwsfqg8WL1xmP9B3gV1.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2025-09-09 10:03:27"
-  },
-  {
-    "id": 1365292,
-    "tmdb_id": 1365292,
-    "título": "Pietra",
-    "título_original": "Pietra",
-    "sinopsis": "Al soñar despierto con relaciones improbables, la flor, tan delicada como revolucionaria, representa un acto de amor en medio de la asfixia y el abrazo de un clásico barrio portugués.",
-    "poster_path": "/7B3mLxoSyZYJp6J7uSY2LIpDEHt.jpg",
-    "poster_local": "imagenes_estrenos/Pietra_7B3mLxoSyZYJp6J7uSY2LIpDEHt.jpg",
-    "backdrop_path": "/z1auCtQjdn5bg0klQlzuFFoppLV.jpg",
-    "backdrop_local": "imagenes_estrenos/Pietra_backdrop_z1auCtQjdn5bg0klQlzuFFoppLV.jpg",
-    "fecha_estreno": "2025-09-12",
-    "duración": "12 min",
-    "director": "Cynthia Levitan",
-    "directores": [
-      {
-        "name": "Cynthia Levitan",
-        "id": 4976578
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.0658,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/z1auCtQjdn5bg0klQlzuFFoppLV.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/j6rKFiFL7tnAMBprDBDkP7cXraa.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.676,
-          "height": 1000,
-          "iso_639_1": null,
-          "file_path": "/7B3mLxoSyZYJp6J7uSY2LIpDEHt.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 676
-        }
-      ]
-    },
-    "última_actualización": "2025-09-09 10:03:27"
-  },
-  {
-    "id": 1542867,
-    "tmdb_id": 1542867,
-    "título": "La valla",
-    "título_original": "La valla",
-    "sinopsis": "Una familia ha emprendido un largo camino, enfrentándose a numerosos peligros e incertidumbres e impulsados sólo por un sueño, el de una vida mejor. Tan sólo una valla les separa de su meta, un pedazo de metal infinito, infranqueable y fuertemente custodiado por unos centinelas eficientes y despiadado",
-    "poster_path": "/3nmmnl8UOiSTL8xU28AzbKFdxw4.jpg",
-    "poster_local": "imagenes_estrenos/La_valla_3nmmnl8UOiSTL8xU28AzbKFdxw4.jpg",
-    "backdrop_path": "/7u9tfC73IFMmnEH52wJbvVyEm27.jpg",
-    "backdrop_local": "imagenes_estrenos/La_valla_backdrop_7u9tfC73IFMmnEH52wJbvVyEm27.jpg",
-    "fecha_estreno": "2025-09-12",
-    "duración": "14 min",
-    "director": "Samuel Ortí Martí",
-    "directores": [
-      {
-        "name": "Samuel Ortí Martí",
-        "id": 1460241
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 14,
-        "name": "Fantasía"
-      },
-      {
-        "id": 878,
-        "name": "Ciencia ficción"
-      }
-    ],
-    "popularidad": 0.0168,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/7u9tfC73IFMmnEH52wJbvVyEm27.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_639_1": null,
-          "file_path": "/3nmmnl8UOiSTL8xU28AzbKFdxw4.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2025-09-09 10:03:29"
+    "última_actualización": "2025-09-09 22:02:57"
   },
   {
     "id": 1457338,
@@ -1739,7 +1605,73 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:31"
+    "última_actualización": "2025-09-09 22:02:58"
+  },
+  {
+    "id": 1542867,
+    "tmdb_id": 1542867,
+    "título": "La valla",
+    "título_original": "La valla",
+    "sinopsis": "Una familia ha emprendido un largo camino, enfrentándose a numerosos peligros e incertidumbres e impulsados sólo por un sueño, el de una vida mejor. Tan sólo una valla les separa de su meta, un pedazo de metal infinito, infranqueable y fuertemente custodiado por unos centinelas eficientes y despiadado",
+    "poster_path": "/3nmmnl8UOiSTL8xU28AzbKFdxw4.jpg",
+    "poster_local": "imagenes_estrenos/La_valla_3nmmnl8UOiSTL8xU28AzbKFdxw4.jpg",
+    "backdrop_path": "/7u9tfC73IFMmnEH52wJbvVyEm27.jpg",
+    "backdrop_local": "imagenes_estrenos/La_valla_backdrop_7u9tfC73IFMmnEH52wJbvVyEm27.jpg",
+    "fecha_estreno": "2025-09-12",
+    "duración": "14 min",
+    "director": "Samuel Ortí Martí",
+    "directores": [
+      {
+        "name": "Samuel Ortí Martí",
+        "id": 1460241
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "popularidad": 0.0168,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/7u9tfC73IFMmnEH52wJbvVyEm27.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_639_1": null,
+          "file_path": "/3nmmnl8UOiSTL8xU28AzbKFdxw4.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2025-09-09 22:02:59"
   },
   {
     "id": 1311031,
@@ -1811,7 +1743,7 @@
       }
     ],
     "popularidad": 273.9112,
-    "puntuación": 7.3,
+    "puntuación": 7.327,
     "votos": 104,
     "adulto": false,
     "video": false,
@@ -1912,7 +1844,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:07"
+    "última_actualización": "2025-09-09 22:02:47"
   },
   {
     "id": 1181540,
@@ -1980,7 +1912,7 @@
       }
     ],
     "popularidad": 25.8092,
-    "puntuación": 6.826,
+    "puntuación": 6.8,
     "votos": 89,
     "adulto": false,
     "video": false,
@@ -2054,7 +1986,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:08"
+    "última_actualización": "2025-09-09 22:02:47"
   },
   {
     "id": 648878,
@@ -2122,8 +2054,8 @@
       }
     ],
     "popularidad": 14.1385,
-    "puntuación": 6.425,
-    "votos": 253,
+    "puntuación": 6.423,
+    "votos": 254,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2223,7 +2155,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:08"
+    "última_actualización": "2025-09-09 22:02:48"
   },
   {
     "id": 1238188,
@@ -2343,7 +2275,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:10"
+    "última_actualización": "2025-09-09 22:02:49"
   },
   {
     "id": 756397,
@@ -2351,7 +2283,7 @@
     "título": "Super agente Hitpig",
     "título_original": "Hitpig!",
     "sinopsis": "HITPIG es un cerdo contratado por humanos para traer de vuelta a sus animales escapados.  No es fácil, pero es una vida! Su último éxito es Pickles, un  elefante ingenuo pero vivaz que ha escapado de las garras de un malvado showman de Las Vegas. Aunque HITPIG inicialmente se propone capturar al alegre paquidermo por mucho dinero, la extraña pareja se encuentra en una aventura inesperada que recorre el mundo y saca lo mejor de ambos. Ambientado en un mundo cyberpunk futurista, HITPIG demuestra que a veces lo que queremos no es lo que necesitamos.",
-    "poster_path": "/bYa20LYAZ3Q7lKXtLYybo0yWWTN.jpg",
+    "poster_path": "/v7c7Ex7Jo7KpSLXEHsxKZ6qgkZG.jpg",
     "poster_local": "imagenes_estrenos/Super_agente_Hitpig_bYa20LYAZ3Q7lKXtLYybo0yWWTN.jpg",
     "backdrop_path": "/ownr1JeuYB4Xnlcl2la88c3CE3z.jpg",
     "backdrop_local": "imagenes_estrenos/Super_agente_Hitpig_backdrop_ownr1JeuYB4Xnlcl2la88c3CE3z.jpg",
@@ -2419,7 +2351,7 @@
       }
     ],
     "popularidad": 1.8556,
-    "puntuación": 6.68,
+    "puntuación": 6.7,
     "votos": 25,
     "adulto": false,
     "video": false,
@@ -2484,7 +2416,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:12"
+    "última_actualización": "2025-09-09 22:02:49"
   },
   {
     "id": 1144443,
@@ -2585,7 +2517,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:15"
+    "última_actualización": "2025-09-09 22:02:50"
   },
   {
     "id": 1440185,
@@ -2678,7 +2610,96 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:17"
+    "última_actualización": "2025-09-09 22:02:52"
+  },
+  {
+    "id": 1219606,
+    "tmdb_id": 1219606,
+    "título": "Retrato de un cierto Oriente",
+    "título_original": "Retrato de um Certo Oriente",
+    "sinopsis": "",
+    "poster_path": "/tBeDDvSs6F2AueZoqeZpSpY1kXa.jpg",
+    "poster_local": "imagenes_estrenos/Retrato_de_un_cierto_Oriente_jUa2RypM8eUNW9JwN5XDJfrZhsx.jpg",
+    "backdrop_path": "/t6KB414HaWaYXiTqqpxKpnyad0U.jpg",
+    "backdrop_local": "imagenes_estrenos/Retrato_de_un_cierto_Oriente_backdrop_t6KB414HaWaYXiTqqpxKpnyad0U.jpg",
+    "fecha_estreno": "2025-09-12T00:00:00.000Z",
+    "duración": "92 min",
+    "director": "Marcelo Gomes",
+    "directores": [
+      {
+        "name": "Marcelo Gomes",
+        "id": 129530
+      }
+    ],
+    "actores": [
+      {
+        "name": "Wafa'a Celine Halawi",
+        "id": 2418532,
+        "character": "Emilie",
+        "profile_path": "/hr1p1WgCYYqsdMcDT8linoliMxP.jpg"
+      },
+      {
+        "name": "Charbel Kamel",
+        "id": 2569246,
+        "character": "Omar",
+        "profile_path": "/Ag4U5Ez3Jm8byG3iPj8jrAALaRN.jpg"
+      },
+      {
+        "name": "Zakaria Kaakour",
+        "id": 2677884,
+        "character": "Emir",
+        "profile_path": "/zGs5fEeSfs9v2kkKGQzSZe4JbiF.jpg"
+      },
+      {
+        "name": "Eros Galbiati",
+        "id": 125695,
+        "character": "Dorner",
+        "profile_path": "/kAfTxqhBbLccaVZqn33en5JY9uz.jpg"
+      },
+      {
+        "name": "Rosa Peixoto",
+        "id": 2363818,
+        "character": "Anastásia",
+        "profile_path": "/ApuB2vBoMRI6AouAu0N5YJssLyr.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.2775,
+    "puntuación": 7.0,
+    "votos": 1,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/t6KB414HaWaYXiTqqpxKpnyad0U.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.665,
+          "height": 774,
+          "iso_639_1": null,
+          "file_path": "/gjwbBHfS1eizEedvJTdgGN01sAY.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 515
+        }
+      ]
+    },
+    "última_actualización": "2025-09-09 22:02:52"
   },
   {
     "id": 1032344,
@@ -2763,96 +2784,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:17"
-  },
-  {
-    "id": 1219606,
-    "tmdb_id": 1219606,
-    "título": "Retrato de un cierto Oriente",
-    "título_original": "Retrato de um Certo Oriente",
-    "sinopsis": "",
-    "poster_path": "/jUa2RypM8eUNW9JwN5XDJfrZhsx.jpg",
-    "poster_local": "imagenes_estrenos/Retrato_de_un_cierto_Oriente_jUa2RypM8eUNW9JwN5XDJfrZhsx.jpg",
-    "backdrop_path": "/t6KB414HaWaYXiTqqpxKpnyad0U.jpg",
-    "backdrop_local": "imagenes_estrenos/Retrato_de_un_cierto_Oriente_backdrop_t6KB414HaWaYXiTqqpxKpnyad0U.jpg",
-    "fecha_estreno": "2025-09-12T00:00:00.000Z",
-    "duración": "92 min",
-    "director": "Marcelo Gomes",
-    "directores": [
-      {
-        "name": "Marcelo Gomes",
-        "id": 129530
-      }
-    ],
-    "actores": [
-      {
-        "name": "Wafa'a Celine Halawi",
-        "id": 2418532,
-        "character": "Emilie",
-        "profile_path": "/hr1p1WgCYYqsdMcDT8linoliMxP.jpg"
-      },
-      {
-        "name": "Charbel Kamel",
-        "id": 2569246,
-        "character": "Omar",
-        "profile_path": "/Ag4U5Ez3Jm8byG3iPj8jrAALaRN.jpg"
-      },
-      {
-        "name": "Zakaria Kaakour",
-        "id": 2677884,
-        "character": "Emir",
-        "profile_path": "/zGs5fEeSfs9v2kkKGQzSZe4JbiF.jpg"
-      },
-      {
-        "name": "Eros Galbiati",
-        "id": 125695,
-        "character": "Dorner",
-        "profile_path": "/kAfTxqhBbLccaVZqn33en5JY9uz.jpg"
-      },
-      {
-        "name": "Rosa Peixoto",
-        "id": 2363818,
-        "character": "Anastásia",
-        "profile_path": "/ApuB2vBoMRI6AouAu0N5YJssLyr.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.2775,
-    "puntuación": 7.0,
-    "votos": 1,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/t6KB414HaWaYXiTqqpxKpnyad0U.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.665,
-          "height": 774,
-          "iso_639_1": null,
-          "file_path": "/gjwbBHfS1eizEedvJTdgGN01sAY.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 515
-        }
-      ]
-    },
-    "última_actualización": "2025-09-09 10:03:18"
+    "última_actualización": "2025-09-09 22:02:53"
   },
   {
     "id": 1001266,
@@ -2915,151 +2847,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:19"
-  },
-  {
-    "id": 1541896,
-    "tmdb_id": 1541896,
-    "título": "Albertosaurio",
-    "título_original": "Albertosaurio",
-    "sinopsis": "Alberto cree que es un dinosaurio, concretamente un albertosaurio. Esto hace que le sea difícil congeniar con el resto de humanos. Cansado de estar solo, un día decide emitir una señal al espacio en busca de otros dinosaurios...",
-    "poster_path": "/uOcfSMM0Nb2nLYUNSRj1sxv78XZ.jpg",
-    "poster_local": "imagenes_estrenos/Albertosaurio_uOcfSMM0Nb2nLYUNSRj1sxv78XZ.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-09-12T00:00:00.000Z",
-    "duración": "10 min",
-    "director": "Cayetano Martínez Tejonero",
-    "directores": [
-      {
-        "name": "Cayetano Martínez Tejonero",
-        "id": 5672309
-      }
-    ],
-    "actores": [
-      {
-        "name": "Pedro Endolz",
-        "id": 5672304,
-        "character": "Albertosaurio",
-        "profile_path": null
-      },
-      {
-        "name": "Carla Nieto",
-        "id": 1031745,
-        "character": "Chica Alienígena",
-        "profile_path": "/3gzJ7wfzW6O3qfnsjB4CnGWPiL.jpg"
-      },
-      {
-        "name": "Charo Zapardiel",
-        "id": 2014380,
-        "character": "Madre de Albertosaurio",
-        "profile_path": "/zH5Ykh9EOKyOb9JpkRmPe9LNzoq.jpg"
-      },
-      {
-        "name": "Mario Saura",
-        "id": 4133486,
-        "character": "Novio Chica Alienígena",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 878,
-        "name": "Ciencia ficción"
-      }
-    ],
-    "popularidad": 0.0281,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2025-09-09 10:03:26"
-  },
-  {
-    "id": 1500850,
-    "tmdb_id": 1500850,
-    "título": "El Fin del Mundo",
-    "título_original": "El Fin del Mundo",
-    "sinopsis": "Un niño se ha perdido en la montaña y busca el camino de casa.",
-    "poster_path": "/ioK2q9iD2zYC4n2XuiZhx1WTu95.jpg",
-    "poster_local": "imagenes_estrenos/El_Fin_del_Mundo_ioK2q9iD2zYC4n2XuiZhx1WTu95.jpg",
-    "backdrop_path": "/syWgUvyjoAqI84UpuBppQJkOBV0.jpg",
-    "backdrop_local": "imagenes_estrenos/El_Fin_del_Mundo_backdrop_syWgUvyjoAqI84UpuBppQJkOBV0.jpg",
-    "fecha_estreno": "2025-09-12T00:00:00.000Z",
-    "duración": "14 min",
-    "director": "Alessandro Mosca",
-    "directores": [
-      {
-        "name": "Alessandro Mosca",
-        "id": 5515368
-      }
-    ],
-    "actores": [
-      {
-        "name": "Jorge Flores",
-        "id": 5676722,
-        "character": "Epifanio",
-        "profile_path": null
-      },
-      {
-        "name": "Jorge Leon",
-        "id": 5676725,
-        "character": "Niño 1",
-        "profile_path": null
-      },
-      {
-        "name": "Andre Garey",
-        "id": 5676727,
-        "character": "Niño 2",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.0362,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.775,
-          "height": 721,
-          "iso_639_1": null,
-          "file_path": "/syWgUvyjoAqI84UpuBppQJkOBV0.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_639_1": null,
-          "file_path": "/ioK2q9iD2zYC4n2XuiZhx1WTu95.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2025-09-09 10:03:30"
+    "última_actualización": "2025-09-09 22:02:54"
   },
   {
     "id": 1475515,
@@ -3156,7 +2944,151 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:30"
+    "última_actualización": "2025-09-09 22:02:57"
+  },
+  {
+    "id": 1500850,
+    "tmdb_id": 1500850,
+    "título": "El Fin del Mundo",
+    "título_original": "El Fin del Mundo",
+    "sinopsis": "Un niño se ha perdido en la montaña y busca el camino de casa.",
+    "poster_path": "/ioK2q9iD2zYC4n2XuiZhx1WTu95.jpg",
+    "poster_local": "imagenes_estrenos/El_Fin_del_Mundo_ioK2q9iD2zYC4n2XuiZhx1WTu95.jpg",
+    "backdrop_path": "/syWgUvyjoAqI84UpuBppQJkOBV0.jpg",
+    "backdrop_local": "imagenes_estrenos/El_Fin_del_Mundo_backdrop_syWgUvyjoAqI84UpuBppQJkOBV0.jpg",
+    "fecha_estreno": "2025-09-12T00:00:00.000Z",
+    "duración": "14 min",
+    "director": "Alessandro Mosca",
+    "directores": [
+      {
+        "name": "Alessandro Mosca",
+        "id": 5515368
+      }
+    ],
+    "actores": [
+      {
+        "name": "Jorge Flores",
+        "id": 5676722,
+        "character": "Epifanio",
+        "profile_path": null
+      },
+      {
+        "name": "Jorge Leon",
+        "id": 5676725,
+        "character": "Niño 1",
+        "profile_path": null
+      },
+      {
+        "name": "Andre Garey",
+        "id": 5676727,
+        "character": "Niño 2",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.0362,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.775,
+          "height": 721,
+          "iso_639_1": null,
+          "file_path": "/syWgUvyjoAqI84UpuBppQJkOBV0.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_639_1": null,
+          "file_path": "/ioK2q9iD2zYC4n2XuiZhx1WTu95.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2025-09-09 22:02:57"
+  },
+  {
+    "id": 1541896,
+    "tmdb_id": 1541896,
+    "título": "Albertosaurio",
+    "título_original": "Albertosaurio",
+    "sinopsis": "Alberto cree que es un dinosaurio, concretamente un albertosaurio. Esto hace que le sea difícil congeniar con el resto de humanos. Cansado de estar solo, un día decide emitir una señal al espacio en busca de otros dinosaurios...",
+    "poster_path": "/uOcfSMM0Nb2nLYUNSRj1sxv78XZ.jpg",
+    "poster_local": "imagenes_estrenos/Albertosaurio_uOcfSMM0Nb2nLYUNSRj1sxv78XZ.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-09-12T00:00:00.000Z",
+    "duración": "10 min",
+    "director": "Cayetano Martínez Tejonero",
+    "directores": [
+      {
+        "name": "Cayetano Martínez Tejonero",
+        "id": 5672309
+      }
+    ],
+    "actores": [
+      {
+        "name": "Pedro Endolz",
+        "id": 5672304,
+        "character": "Albertosaurio",
+        "profile_path": null
+      },
+      {
+        "name": "Carla Nieto",
+        "id": 1031745,
+        "character": "Chica Alienígena",
+        "profile_path": "/3gzJ7wfzW6O3qfnsjB4CnGWPiL.jpg"
+      },
+      {
+        "name": "Charo Zapardiel",
+        "id": 2014380,
+        "character": "Madre de Albertosaurio",
+        "profile_path": "/zH5Ykh9EOKyOb9JpkRmPe9LNzoq.jpg"
+      },
+      {
+        "name": "Mario Saura",
+        "id": 4133486,
+        "character": "Novio Chica Alienígena",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "popularidad": 0.0281,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-09-09 22:02:58"
   },
   {
     "id": 572732,
@@ -3189,7 +3121,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:31"
+    "última_actualización": "2025-09-09 22:02:59"
   },
   {
     "id": 1275370,
@@ -3278,7 +3210,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:13"
+    "última_actualización": "2025-09-09 22:02:50"
   },
   {
     "id": 1390641,
@@ -3380,56 +3312,60 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:16"
+    "última_actualización": "2025-09-09 22:02:51"
   },
   {
-    "id": 1304477,
-    "tmdb_id": 1304477,
-    "título": "Llora aquí",
-    "título_original": "Plora aquí",
-    "sinopsis": "Cortometraje musical realizado a partir del álbum \"Plora aquí\", el sexto disco en solitario del músico catalán ex miembro de la banda Anímic, Ferran Palau.",
-    "poster_path": "/L8w3Rp8J62yZndo49yHVYYtxot.jpg",
-    "poster_local": "imagenes_estrenos/Plora_aqu__L8w3Rp8J62yZndo49yHVYYtxot.jpg",
-    "backdrop_path": "/fmc9qaR8QaeyV6q5TvJmUfa5Af9.jpg",
-    "backdrop_local": "imagenes_estrenos/Plora_aqu__backdrop_fmc9qaR8QaeyV6q5TvJmUfa5Af9.jpg",
+    "id": 1484050,
+    "tmdb_id": 1484050,
+    "título": "Furia",
+    "título_original": "Furia",
+    "sinopsis": "Eric vive en un centro de menores. Trata de reconstruir la relación con su madre para volver a vivir con ella cuando cumpla 18. Cuando ella no acude a visitarlo, se escapa para ir a su casa. Allí descubre que ella tiene una nueva familia y que ha rehecho su vida sin él.",
+    "poster_path": "/h1n4zlF4TxYRck4yI9nbD9yoJGf.jpg",
+    "poster_local": "imagenes_estrenos/Furia_h1n4zlF4TxYRck4yI9nbD9yoJGf.jpg",
+    "backdrop_path": "/fempUmfeSDoSm9crMcDoD2uAtUW.jpg",
+    "backdrop_local": "imagenes_estrenos/Furia_backdrop_fempUmfeSDoSm9crMcDoD2uAtUW.jpg",
     "fecha_estreno": "2025-09-13",
-    "duración": "8 min",
-    "director": "Pablo Maestres",
+    "duración": "19 min",
+    "director": "Santiago Pujol, Fran Moreno",
     "directores": [
       {
-        "name": "Pablo Maestres",
-        "id": 4777435
+        "name": "Santiago Pujol",
+        "id": 3983928
+      },
+      {
+        "name": "Fran Moreno",
+        "id": 3983927
       }
     ],
     "actores": [
       {
-        "name": "Ferran Palau",
-        "id": 3378446,
-        "character": "",
+        "name": "Eric Espin",
+        "id": 5449109,
+        "character": "Eric",
         "profile_path": null
       },
       {
-        "name": "Bruna Cusí",
-        "id": 1743949,
-        "character": "",
-        "profile_path": "/3yv66ERiyxWwFiFyfKt5BaPbFxZ.jpg"
-      },
-      {
-        "name": "Rober Gómez",
-        "id": 4777436,
-        "character": "",
+        "name": "Valli Asunción",
+        "id": 5449110,
+        "character": "Valli",
         "profile_path": null
       },
       {
-        "name": "Judit Mascó",
-        "id": 1235345,
-        "character": "",
-        "profile_path": "/cyH5ekGrgGYBrE0ZuTkL10tbsbB.jpg"
+        "name": "Jordi Adonay Ramírez",
+        "id": 5449163,
+        "character": "Gerard",
+        "profile_path": null
       },
       {
-        "name": "Clara Mingueza",
-        "id": 3718752,
-        "character": "",
+        "name": "Raquel Iglesias",
+        "id": 5449164,
+        "character": "Raquel",
+        "profile_path": null
+      },
+      {
+        "name": "Jordi Ramírez",
+        "id": 5449166,
+        "character": "Jordi",
         "profile_path": null
       }
     ],
@@ -3439,31 +3375,21 @@
         "name": "Drama"
       },
       {
-        "id": 878,
-        "name": "Ciencia ficción"
+        "id": 10751,
+        "name": "Familia"
       }
     ],
-    "popularidad": 0.2113,
+    "popularidad": 0.2579,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
     "video": false,
     "año": "2025",
     "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/fmc9qaR8QaeyV6q5TvJmUfa5Af9.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
+      "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:19"
+    "última_actualización": "2025-09-09 22:02:53"
   },
   {
     "id": 1301299,
@@ -3550,242 +3476,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:19"
-  },
-  {
-    "id": 1484050,
-    "tmdb_id": 1484050,
-    "título": "Furia",
-    "título_original": "Furia",
-    "sinopsis": "Eric vive en un centro de menores. Trata de reconstruir la relación con su madre para volver a vivir con ella cuando cumpla 18. Cuando ella no acude a visitarlo, se escapa para ir a su casa. Allí descubre que ella tiene una nueva familia y que ha rehecho su vida sin él.",
-    "poster_path": "/h1n4zlF4TxYRck4yI9nbD9yoJGf.jpg",
-    "poster_local": "imagenes_estrenos/Furia_h1n4zlF4TxYRck4yI9nbD9yoJGf.jpg",
-    "backdrop_path": "/fempUmfeSDoSm9crMcDoD2uAtUW.jpg",
-    "backdrop_local": "imagenes_estrenos/Furia_backdrop_fempUmfeSDoSm9crMcDoD2uAtUW.jpg",
-    "fecha_estreno": "2025-09-13",
-    "duración": "19 min",
-    "director": "Santiago Pujol, Fran Moreno",
-    "directores": [
-      {
-        "name": "Santiago Pujol",
-        "id": 3983928
-      },
-      {
-        "name": "Fran Moreno",
-        "id": 3983927
-      }
-    ],
-    "actores": [
-      {
-        "name": "Eric Espin",
-        "id": 5449109,
-        "character": "Eric",
-        "profile_path": null
-      },
-      {
-        "name": "Valli Asunción",
-        "id": 5449110,
-        "character": "Valli",
-        "profile_path": null
-      },
-      {
-        "name": "Jordi Adonay Ramírez",
-        "id": 5449163,
-        "character": "Gerard",
-        "profile_path": null
-      },
-      {
-        "name": "Raquel Iglesias",
-        "id": 5449164,
-        "character": "Raquel",
-        "profile_path": null
-      },
-      {
-        "name": "Jordi Ramírez",
-        "id": 5449166,
-        "character": "Jordi",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 0.2579,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2025-09-09 10:03:20"
-  },
-  {
-    "id": 1208359,
-    "tmdb_id": 1208359,
-    "título": "Audio y el Caimán",
-    "título_original": "Audio y el Caimán",
-    "sinopsis": "Audio Caña es un granjero venezolano que ha deleitado a su familia toda la vida con historias increíbles, pero cuando cuenta que hay un caimán gigante en su estanque nadie le cree. Para probar que es una historia cierta seguimos sus pasos cuando estrecha lazos con su familia y su nieta, buscando la forma de acreditar su historia.",
-    "poster_path": "/1zjGracxpHlK4NjjX9SSsuUvTwq.jpg",
-    "poster_local": "imagenes_estrenos/Audio_y_el_Caim_n_1zjGracxpHlK4NjjX9SSsuUvTwq.jpg",
-    "backdrop_path": "/ykSqETpkcVoCAAiKcIJpOYMRL0M.jpg",
-    "backdrop_local": "imagenes_estrenos/Audio_y_el_Caim_n_backdrop_ykSqETpkcVoCAAiKcIJpOYMRL0M.jpg",
-    "fecha_estreno": "2025-09-13",
-    "duración": "16 min",
-    "director": "Andrés I. Estrada",
-    "directores": [
-      {
-        "name": "Andrés I. Estrada",
-        "id": 2368726
-      }
-    ],
-    "actores": [
-      {
-        "name": "Audio Caña",
-        "id": 4389763,
-        "character": "Self",
-        "profile_path": null
-      },
-      {
-        "name": "Maria Caña",
-        "id": 4389844,
-        "character": "Self",
-        "profile_path": null
-      },
-      {
-        "name": "Audimar España",
-        "id": 4389845,
-        "character": "Self",
-        "profile_path": null
-      },
-      {
-        "name": "Javier España",
-        "id": 4389846,
-        "character": "Self",
-        "profile_path": null
-      },
-      {
-        "name": "Anaís España",
-        "id": 4389847,
-        "character": "Self",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.1083,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/ykSqETpkcVoCAAiKcIJpOYMRL0M.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.663,
-          "height": 2048,
-          "iso_639_1": null,
-          "file_path": "/1zjGracxpHlK4NjjX9SSsuUvTwq.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1358
-        }
-      ]
-    },
-    "última_actualización": "2025-09-09 10:03:22"
-  },
-  {
-    "id": 1379910,
-    "tmdb_id": 1379910,
-    "título": "Felina",
-    "título_original": "Felina",
-    "sinopsis": "Felina, una mujer capaz de convertirse en pantera, o quizá una pantera capaz de convertirse en mujer, vive enamorada de un pianista ciego.",
-    "poster_path": "/acqncX3d44U2kBmdfVXLbYmhX4C.jpg",
-    "poster_local": "imagenes_estrenos/Felina_acqncX3d44U2kBmdfVXLbYmhX4C.jpg",
-    "backdrop_path": "/2nP3IS2GyxHatLmsHY1jggCZDKH.jpg",
-    "backdrop_local": "imagenes_estrenos/Felina_backdrop_2nP3IS2GyxHatLmsHY1jggCZDKH.jpg",
-    "fecha_estreno": "2025-09-13",
-    "duración": "12 min",
-    "director": "María Lorenzo",
-    "directores": [
-      {
-        "name": "María Lorenzo",
-        "id": 1628629
-      }
-    ],
-    "actores": [
-      {
-        "name": "Laura Candela",
-        "id": 2315898,
-        "character": "Voice Sounds (voice)",
-        "profile_path": null
-      },
-      {
-        "name": "Juan Sastre",
-        "id": 5039897,
-        "character": "Voice Sounds (voice)",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 14,
-        "name": "Fantasía"
-      }
-    ],
-    "popularidad": 0.1289,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/2nP3IS2GyxHatLmsHY1jggCZDKH.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-09-09 10:03:22"
+    "última_actualización": "2025-09-09 22:02:53"
   },
   {
     "id": 1363629,
@@ -3874,7 +3565,337 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:22"
+    "última_actualización": "2025-09-09 22:02:53"
+  },
+  {
+    "id": 1304477,
+    "tmdb_id": 1304477,
+    "título": "Llora aquí",
+    "título_original": "Plora aquí",
+    "sinopsis": "Cortometraje musical realizado a partir del álbum \"Plora aquí\", el sexto disco en solitario del músico catalán ex miembro de la banda Anímic, Ferran Palau.",
+    "poster_path": "/L8w3Rp8J62yZndo49yHVYYtxot.jpg",
+    "poster_local": "imagenes_estrenos/Plora_aqu__L8w3Rp8J62yZndo49yHVYYtxot.jpg",
+    "backdrop_path": "/fmc9qaR8QaeyV6q5TvJmUfa5Af9.jpg",
+    "backdrop_local": "imagenes_estrenos/Plora_aqu__backdrop_fmc9qaR8QaeyV6q5TvJmUfa5Af9.jpg",
+    "fecha_estreno": "2025-09-13",
+    "duración": "8 min",
+    "director": "Pablo Maestres",
+    "directores": [
+      {
+        "name": "Pablo Maestres",
+        "id": 4777435
+      }
+    ],
+    "actores": [
+      {
+        "name": "Ferran Palau",
+        "id": 3378446,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Bruna Cusí",
+        "id": 1743949,
+        "character": "",
+        "profile_path": "/3yv66ERiyxWwFiFyfKt5BaPbFxZ.jpg"
+      },
+      {
+        "name": "Rober Gómez",
+        "id": 4777436,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Judit Mascó",
+        "id": 1235345,
+        "character": "",
+        "profile_path": "/cyH5ekGrgGYBrE0ZuTkL10tbsbB.jpg"
+      },
+      {
+        "name": "Clara Mingueza",
+        "id": 3718752,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "popularidad": 0.2113,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/fmc9qaR8QaeyV6q5TvJmUfa5Af9.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-09-09 22:02:53"
+  },
+  {
+    "id": 1260235,
+    "tmdb_id": 1260235,
+    "título": "Decían que era bruja",
+    "título_original": "Decían que era bruja",
+    "sinopsis": "Mujeres que habitan los lugares donde se dio con más intensidad la caza de brujas en los Pirineos relatan el feminicidio que se produjo entre los Siglos XV y XVIII, nos invitan a adentrarnos en su propia existencia y comparten sus temores; nuevos o quizá ancestrales.",
+    "poster_path": "/auRp6w1lOaCH6yK8ehislyINDhz.jpg",
+    "poster_local": "imagenes_estrenos/Dec_an_que_era_bruja_auRp6w1lOaCH6yK8ehislyINDhz.jpg",
+    "backdrop_path": "/kaKjXaD4o78RLqEZOPG967Je0bL.jpg",
+    "backdrop_local": "imagenes_estrenos/Dec_an_que_era_bruja_backdrop_kaKjXaD4o78RLqEZOPG967Je0bL.jpg",
+    "fecha_estreno": "2025-09-13",
+    "duración": "20 min",
+    "director": "Judith Prat",
+    "directores": [
+      {
+        "name": "Judith Prat",
+        "id": 5015165
+      }
+    ],
+    "actores": [
+      {
+        "name": "Emilia Puyuelo Grasa",
+        "id": 5015152,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Edna Montserrat Froniés",
+        "id": 5015153,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Vanessa Freixa Riba",
+        "id": 5015154,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Adela Viviente Solé",
+        "id": 5015155,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Ivet Eroles Palacios",
+        "id": 5015156,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.1339,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.781,
+          "height": 757,
+          "iso_639_1": null,
+          "file_path": "/kaKjXaD4o78RLqEZOPG967Je0bL.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1348
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.707,
+          "height": 2560,
+          "iso_639_1": null,
+          "file_path": "/auRp6w1lOaCH6yK8ehislyINDhz.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1810
+        }
+      ]
+    },
+    "última_actualización": "2025-09-09 22:02:54"
+  },
+  {
+    "id": 1379910,
+    "tmdb_id": 1379910,
+    "título": "Felina",
+    "título_original": "Felina",
+    "sinopsis": "Felina, una mujer capaz de convertirse en pantera, o quizá una pantera capaz de convertirse en mujer, vive enamorada de un pianista ciego.",
+    "poster_path": "/acqncX3d44U2kBmdfVXLbYmhX4C.jpg",
+    "poster_local": "imagenes_estrenos/Felina_acqncX3d44U2kBmdfVXLbYmhX4C.jpg",
+    "backdrop_path": "/2nP3IS2GyxHatLmsHY1jggCZDKH.jpg",
+    "backdrop_local": "imagenes_estrenos/Felina_backdrop_2nP3IS2GyxHatLmsHY1jggCZDKH.jpg",
+    "fecha_estreno": "2025-09-13",
+    "duración": "12 min",
+    "director": "María Lorenzo",
+    "directores": [
+      {
+        "name": "María Lorenzo",
+        "id": 1628629
+      }
+    ],
+    "actores": [
+      {
+        "name": "Laura Candela",
+        "id": 2315898,
+        "character": "Voice Sounds (voice)",
+        "profile_path": null
+      },
+      {
+        "name": "Juan Sastre",
+        "id": 5039897,
+        "character": "Voice Sounds (voice)",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "popularidad": 0.1289,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/2nP3IS2GyxHatLmsHY1jggCZDKH.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-09-09 22:02:54"
+  },
+  {
+    "id": 1208359,
+    "tmdb_id": 1208359,
+    "título": "Audio y el Caimán",
+    "título_original": "Audio y el Caimán",
+    "sinopsis": "Audio Caña es un granjero venezolano que ha deleitado a su familia toda la vida con historias increíbles, pero cuando cuenta que hay un caimán gigante en su estanque nadie le cree. Para probar que es una historia cierta seguimos sus pasos cuando estrecha lazos con su familia y su nieta, buscando la forma de acreditar su historia.",
+    "poster_path": "/1zjGracxpHlK4NjjX9SSsuUvTwq.jpg",
+    "poster_local": "imagenes_estrenos/Audio_y_el_Caim_n_1zjGracxpHlK4NjjX9SSsuUvTwq.jpg",
+    "backdrop_path": "/ykSqETpkcVoCAAiKcIJpOYMRL0M.jpg",
+    "backdrop_local": "imagenes_estrenos/Audio_y_el_Caim_n_backdrop_ykSqETpkcVoCAAiKcIJpOYMRL0M.jpg",
+    "fecha_estreno": "2025-09-13",
+    "duración": "16 min",
+    "director": "Andrés I. Estrada",
+    "directores": [
+      {
+        "name": "Andrés I. Estrada",
+        "id": 2368726
+      }
+    ],
+    "actores": [
+      {
+        "name": "Audio Caña",
+        "id": 4389763,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Maria Caña",
+        "id": 4389844,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Audimar España",
+        "id": 4389845,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Javier España",
+        "id": 4389846,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Anaís España",
+        "id": 4389847,
+        "character": "Self",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.1083,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_639_1": null,
+          "file_path": "/ykSqETpkcVoCAAiKcIJpOYMRL0M.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.663,
+          "height": 2048,
+          "iso_639_1": null,
+          "file_path": "/1zjGracxpHlK4NjjX9SSsuUvTwq.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1358
+        }
+      ]
+    },
+    "última_actualización": "2025-09-09 22:02:54"
   },
   {
     "id": 1436823,
@@ -3965,96 +3986,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:22"
-  },
-  {
-    "id": 1260235,
-    "tmdb_id": 1260235,
-    "título": "Decían que era bruja",
-    "título_original": "Decían que era bruja",
-    "sinopsis": "Mujeres que habitan los lugares donde se dio con más intensidad la caza de brujas en los Pirineos relatan el feminicidio que se produjo entre los Siglos XV y XVIII, nos invitan a adentrarnos en su propia existencia y comparten sus temores; nuevos o quizá ancestrales.",
-    "poster_path": "/auRp6w1lOaCH6yK8ehislyINDhz.jpg",
-    "poster_local": "imagenes_estrenos/Dec_an_que_era_bruja_auRp6w1lOaCH6yK8ehislyINDhz.jpg",
-    "backdrop_path": "/kaKjXaD4o78RLqEZOPG967Je0bL.jpg",
-    "backdrop_local": "imagenes_estrenos/Dec_an_que_era_bruja_backdrop_kaKjXaD4o78RLqEZOPG967Je0bL.jpg",
-    "fecha_estreno": "2025-09-13",
-    "duración": "20 min",
-    "director": "Judith Prat",
-    "directores": [
-      {
-        "name": "Judith Prat",
-        "id": 5015165
-      }
-    ],
-    "actores": [
-      {
-        "name": "Emilia Puyuelo Grasa",
-        "id": 5015152,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Edna Montserrat Froniés",
-        "id": 5015153,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Vanessa Freixa Riba",
-        "id": 5015154,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Adela Viviente Solé",
-        "id": 5015155,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Ivet Eroles Palacios",
-        "id": 5015156,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.1339,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.781,
-          "height": 757,
-          "iso_639_1": null,
-          "file_path": "/kaKjXaD4o78RLqEZOPG967Je0bL.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1348
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.707,
-          "height": 2560,
-          "iso_639_1": null,
-          "file_path": "/auRp6w1lOaCH6yK8ehislyINDhz.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1810
-        }
-      ]
-    },
-    "última_actualización": "2025-09-09 10:03:23"
+    "última_actualización": "2025-09-09 22:02:55"
   },
   {
     "id": 1367435,
@@ -4164,7 +4096,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:23"
+    "última_actualización": "2025-09-09 22:02:55"
   },
   {
     "id": 1414153,
@@ -4233,7 +4165,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:24"
+    "última_actualización": "2025-09-09 22:02:56"
   },
   {
     "id": 1364538,
@@ -4362,7 +4294,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:25"
+    "última_actualización": "2025-09-09 22:02:56"
   },
   {
     "id": 1461415,
@@ -4433,88 +4365,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:26"
-  },
-  {
-    "id": 1542966,
-    "tmdb_id": 1542966,
-    "título": "Púca",
-    "título_original": "Púca",
-    "sinopsis": "En 1967, en una solitaria granja del oeste de Irlanda, Donnellan se inquieta cada vez más en medida que pasa el tiempo y su hermana no vuelve.",
-    "poster_path": "/8T09D6TDSqW1tlPlTIuOTQnSVqT.jpg",
-    "poster_local": "imagenes_estrenos/P_ca_8T09D6TDSqW1tlPlTIuOTQnSVqT.jpg",
-    "backdrop_path": "/yBOq8EIXAewtyZZ3o15zqEkNh6H.jpg",
-    "backdrop_local": "imagenes_estrenos/P_ca_backdrop_yBOq8EIXAewtyZZ3o15zqEkNh6H.jpg",
-    "fecha_estreno": "2025-09-13",
-    "duración": "29 min",
-    "director": "Conor Kennedy-Burke",
-    "directores": [
-      {
-        "name": "Conor Kennedy-Burke",
-        "id": 5676666
-      }
-    ],
-    "actores": [
-      {
-        "name": "Eilish McCarthy",
-        "id": 5464767,
-        "character": "Donnellan",
-        "profile_path": null
-      },
-      {
-        "name": "Neasa Ní Chuanaigh",
-        "id": 4071407,
-        "character": "Puca (voice)",
-        "profile_path": null
-      },
-      {
-        "name": "Yvette Picque",
-        "id": 5464807,
-        "character": "Púca",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 14,
-        "name": "Fantasía"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.0168,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/yBOq8EIXAewtyZZ3o15zqEkNh6H.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_639_1": null,
-          "file_path": "/8T09D6TDSqW1tlPlTIuOTQnSVqT.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2025-09-09 10:03:28"
+    "última_actualización": "2025-09-09 22:02:56"
   },
   {
     "id": 1542935,
@@ -4579,139 +4430,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:29"
-  },
-  {
-    "id": 1542853,
-    "tmdb_id": 1542853,
-    "título": "Close your eyes",
-    "título_original": "Close your eyes",
-    "sinopsis": "Elliot, un niño de 9 años, ha dejado de creer en la magia. Sin embargo, tras una conversación con su abuelo, se da cuenta de que, aunque no sea exactamente como se la imaginaba, hay magia en todo lo que nos rodea: solo tienes que estar dispuesto a verla.",
-    "poster_path": "/rs6fq6Zd1kvo4cZOudq3wBc4hys.jpg",
-    "poster_local": "imagenes_estrenos/Close_your_eyes_rs6fq6Zd1kvo4cZOudq3wBc4hys.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-09-13",
-    "duración": "5 min",
-    "director": "Gus St. Clair",
-    "directores": [
-      {
-        "name": "Gus St. Clair",
-        "id": 5676228
-      }
-    ],
-    "actores": [
-      {
-        "name": "Elliot Lilley Diaz",
-        "id": 5676221,
-        "character": "Elliot",
-        "profile_path": null
-      },
-      {
-        "name": "Denis Rafter",
-        "id": 229927,
-        "character": "Abuelo",
-        "profile_path": "/kkITBylVvW5dC7caHsiBNkQXML7.jpg"
-      },
-      {
-        "name": "Claudia Lilley",
-        "id": 5676225,
-        "character": "Hermana",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.0286,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_639_1": null,
-          "file_path": "/rs6fq6Zd1kvo4cZOudq3wBc4hys.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2025-09-09 10:03:29"
-  },
-  {
-    "id": 1477560,
-    "tmdb_id": 1477560,
-    "título": "Santa Bárbara",
-    "título_original": "Santa Bárbara",
-    "sinopsis": "En 2022, Navarra sufrió devastadores incendios forestales que se acercaron cada vez más a la ciudad, quemando más de 14.000 hectáreas. En este documental, una voz colectiva y anónima reflexiona sobre nuestra relación con la naturaleza.",
-    "poster_path": "/gm72aZNHtE2sHbNC7lVj1qDJnwk.jpg",
-    "poster_local": "imagenes_estrenos/Santa_B_rbara_gm72aZNHtE2sHbNC7lVj1qDJnwk.jpg",
-    "backdrop_path": "/vLB8pvCgX9Inco7k2cqvGlzycIU.jpg",
-    "backdrop_local": "imagenes_estrenos/Santa_B_rbara_backdrop_vLB8pvCgX9Inco7k2cqvGlzycIU.jpg",
-    "fecha_estreno": "2025-09-13",
-    "duración": "11 min",
-    "director": "Bárbara Fdez",
-    "directores": [
-      {
-        "name": "Bárbara Fdez",
-        "id": 5424854
-      }
-    ],
-    "actores": [
-      {
-        "name": "Diego Pazó",
-        "id": 5676461,
-        "character": "Self",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.0143,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/vLB8pvCgX9Inco7k2cqvGlzycIU.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.664,
-          "height": 753,
-          "iso_639_1": null,
-          "file_path": "/gm72aZNHtE2sHbNC7lVj1qDJnwk.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2025-09-09 10:03:30"
+    "última_actualización": "2025-09-09 22:02:57"
   },
   {
     "id": 1465936,
@@ -4803,7 +4522,220 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:30"
+    "última_actualización": "2025-09-09 22:02:57"
+  },
+  {
+    "id": 1542853,
+    "tmdb_id": 1542853,
+    "título": "Close your eyes",
+    "título_original": "Close your eyes",
+    "sinopsis": "Elliot, un niño de 9 años, ha dejado de creer en la magia. Sin embargo, tras una conversación con su abuelo, se da cuenta de que, aunque no sea exactamente como se la imaginaba, hay magia en todo lo que nos rodea: solo tienes que estar dispuesto a verla.",
+    "poster_path": "/rs6fq6Zd1kvo4cZOudq3wBc4hys.jpg",
+    "poster_local": "imagenes_estrenos/Close_your_eyes_rs6fq6Zd1kvo4cZOudq3wBc4hys.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-09-13",
+    "duración": "5 min",
+    "director": "Gus St. Clair",
+    "directores": [
+      {
+        "name": "Gus St. Clair",
+        "id": 5676228
+      }
+    ],
+    "actores": [
+      {
+        "name": "Elliot Lilley Diaz",
+        "id": 5676221,
+        "character": "Elliot",
+        "profile_path": null
+      },
+      {
+        "name": "Denis Rafter",
+        "id": 229927,
+        "character": "Abuelo",
+        "profile_path": "/kkITBylVvW5dC7caHsiBNkQXML7.jpg"
+      },
+      {
+        "name": "Claudia Lilley",
+        "id": 5676225,
+        "character": "Hermana",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.0286,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_639_1": null,
+          "file_path": "/rs6fq6Zd1kvo4cZOudq3wBc4hys.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2025-09-09 22:02:58"
+  },
+  {
+    "id": 1542966,
+    "tmdb_id": 1542966,
+    "título": "Púca",
+    "título_original": "Púca",
+    "sinopsis": "En 1967, en una solitaria granja del oeste de Irlanda, Donnellan se inquieta cada vez más en medida que pasa el tiempo y su hermana no vuelve.",
+    "poster_path": "/8T09D6TDSqW1tlPlTIuOTQnSVqT.jpg",
+    "poster_local": "imagenes_estrenos/P_ca_8T09D6TDSqW1tlPlTIuOTQnSVqT.jpg",
+    "backdrop_path": "/yBOq8EIXAewtyZZ3o15zqEkNh6H.jpg",
+    "backdrop_local": "imagenes_estrenos/P_ca_backdrop_yBOq8EIXAewtyZZ3o15zqEkNh6H.jpg",
+    "fecha_estreno": "2025-09-13",
+    "duración": "29 min",
+    "director": "Conor Kennedy-Burke",
+    "directores": [
+      {
+        "name": "Conor Kennedy-Burke",
+        "id": 5676666
+      }
+    ],
+    "actores": [
+      {
+        "name": "Eilish McCarthy",
+        "id": 5464767,
+        "character": "Donnellan",
+        "profile_path": null
+      },
+      {
+        "name": "Neasa Ní Chuanaigh",
+        "id": 4071407,
+        "character": "Puca (voice)",
+        "profile_path": null
+      },
+      {
+        "name": "Yvette Picque",
+        "id": 5464807,
+        "character": "Púca",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.0168,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/yBOq8EIXAewtyZZ3o15zqEkNh6H.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_639_1": null,
+          "file_path": "/8T09D6TDSqW1tlPlTIuOTQnSVqT.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2025-09-09 22:02:58"
+  },
+  {
+    "id": 1477560,
+    "tmdb_id": 1477560,
+    "título": "Santa Bárbara",
+    "título_original": "Santa Bárbara",
+    "sinopsis": "En 2022, Navarra sufrió devastadores incendios forestales que se acercaron cada vez más a la ciudad, quemando más de 14.000 hectáreas. En este documental, una voz colectiva y anónima reflexiona sobre nuestra relación con la naturaleza.",
+    "poster_path": "/gm72aZNHtE2sHbNC7lVj1qDJnwk.jpg",
+    "poster_local": "imagenes_estrenos/Santa_B_rbara_gm72aZNHtE2sHbNC7lVj1qDJnwk.jpg",
+    "backdrop_path": "/vLB8pvCgX9Inco7k2cqvGlzycIU.jpg",
+    "backdrop_local": "imagenes_estrenos/Santa_B_rbara_backdrop_vLB8pvCgX9Inco7k2cqvGlzycIU.jpg",
+    "fecha_estreno": "2025-09-13",
+    "duración": "11 min",
+    "director": "Bárbara Fdez",
+    "directores": [
+      {
+        "name": "Bárbara Fdez",
+        "id": 5424854
+      }
+    ],
+    "actores": [
+      {
+        "name": "Diego Pazó",
+        "id": 5676461,
+        "character": "Self",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0143,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/vLB8pvCgX9Inco7k2cqvGlzycIU.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.664,
+          "height": 753,
+          "iso_639_1": null,
+          "file_path": "/gm72aZNHtE2sHbNC7lVj1qDJnwk.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2025-09-09 22:02:59"
   },
   {
     "id": 1281558,
@@ -4874,7 +4806,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:21"
+    "última_actualización": "2025-09-09 22:02:53"
   },
   {
     "id": 1542942,
@@ -4949,7 +4881,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:28"
+    "última_actualización": "2025-09-09 22:02:59"
   },
   {
     "id": 1537256,
@@ -5013,7 +4945,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:17"
+    "última_actualización": "2025-09-09 22:02:52"
   },
   {
     "id": 1514726,
@@ -5092,7 +5024,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:23"
+    "última_actualización": "2025-09-09 22:02:55"
   },
   {
     "id": 1512705,
@@ -5149,7 +5081,76 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:25"
+    "última_actualización": "2025-09-09 22:02:56"
+  },
+  {
+    "id": 1543275,
+    "tmdb_id": 1543275,
+    "título": "No hay paraíso",
+    "título_original": "No hay paraíso",
+    "sinopsis": "",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-09-16",
+    "duración": "13 min",
+    "director": "Víctor Ballesteros Siguero",
+    "directores": [
+      {
+        "name": "Víctor Ballesteros Siguero",
+        "id": 5026093
+      }
+    ],
+    "actores": [
+      {
+        "name": "Mario Alonso",
+        "id": 2765950,
+        "character": "Jesús",
+        "profile_path": null
+      },
+      {
+        "name": "Jorge Usón",
+        "id": 1456034,
+        "character": "Don Antonio",
+        "profile_path": "/zXXmIRRFvQbXk5qMPOjGtw21Ion.jpg"
+      },
+      {
+        "name": "María Garralón",
+        "id": 1032983,
+        "character": "Sagrario",
+        "profile_path": "/fRVw2GOGT1TFXCB0YzsK0G6ttqQ.jpg"
+      },
+      {
+        "name": "Laura Cortón",
+        "id": 3795742,
+        "character": "Conchi",
+        "profile_path": "/9awpWb2qrVlbe17BIK3eQdI5DSQ.jpg"
+      },
+      {
+        "name": "Chari Gutiérrez",
+        "id": 2930879,
+        "character": "Paloma",
+        "profile_path": "/b5LWJisuHRtCgwEmc7sMQxtwl2t.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 0.0286,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-09-09 22:02:57"
   },
   {
     "id": 1290088,
@@ -5249,63 +5250,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:27"
-  },
-  {
-    "id": 1543265,
-    "tmdb_id": 1543265,
-    "título": "No son sus ojos",
-    "título_original": "No son sus ojos",
-    "sinopsis": "",
-    "poster_path": null,
-    "poster_local": "",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-09-16",
-    "duración": "12 min",
-    "director": "Alejandro Guisado, Varo López",
-    "directores": [
-      {
-        "name": "Alejandro Guisado",
-        "id": 4803003
-      },
-      {
-        "name": "Varo López",
-        "id": 4814525
-      }
-    ],
-    "actores": [
-      {
-        "name": "Sara Ferro",
-        "id": 3169340,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Guti González",
-        "id": 4394084,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Isabel Portas",
-        "id": 5677570,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [],
-    "popularidad": 0.0143,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2025-09-09 10:03:28"
+    "última_actualización": "2025-09-09 22:02:58"
   },
   {
     "id": 1543297,
@@ -5373,122 +5318,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:31"
-  },
-  {
-    "id": 1543275,
-    "tmdb_id": 1543275,
-    "título": "No hay paraíso",
-    "título_original": "No hay paraíso",
-    "sinopsis": "",
-    "poster_path": null,
-    "poster_local": "",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-09-16",
-    "duración": "13 min",
-    "director": "Víctor Ballesteros Siguero",
-    "directores": [
-      {
-        "name": "Víctor Ballesteros Siguero",
-        "id": 5026093
-      }
-    ],
-    "actores": [
-      {
-        "name": "Mario Alonso",
-        "id": 2765950,
-        "character": "Jesús",
-        "profile_path": null
-      },
-      {
-        "name": "Jorge Usón",
-        "id": 1456034,
-        "character": "Don Antonio",
-        "profile_path": "/zXXmIRRFvQbXk5qMPOjGtw21Ion.jpg"
-      },
-      {
-        "name": "María Garralón",
-        "id": 1032983,
-        "character": "Sagrario",
-        "profile_path": "/fRVw2GOGT1TFXCB0YzsK0G6ttqQ.jpg"
-      },
-      {
-        "name": "Laura Cortón",
-        "id": 3795742,
-        "character": "Conchi",
-        "profile_path": "/9awpWb2qrVlbe17BIK3eQdI5DSQ.jpg"
-      },
-      {
-        "name": "Chari Gutiérrez",
-        "id": 2930879,
-        "character": "Paloma",
-        "profile_path": "/b5LWJisuHRtCgwEmc7sMQxtwl2t.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 0.0286,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2025-09-09 10:03:31"
-  },
-  {
-    "id": 1543246,
-    "tmdb_id": 1543246,
-    "título": "Tendrá tus ojos",
-    "título_original": "Tendrá tus ojos",
-    "sinopsis": "",
-    "poster_path": null,
-    "poster_local": "",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-09-16",
-    "duración": "14 min",
-    "director": "Gonzalo Cámara",
-    "directores": [
-      {
-        "name": "Gonzalo Cámara",
-        "id": 3774444
-      }
-    ],
-    "actores": [
-      {
-        "name": "George Steane",
-        "id": 3136506,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Aritz Kortabarria",
-        "id": 3073635,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [],
-    "popularidad": 0.0143,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2025-09-09 10:03:32"
+    "última_actualización": "2025-09-09 22:02:58"
   },
   {
     "id": 1543237,
@@ -5567,7 +5397,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:32"
+    "última_actualización": "2025-09-09 22:02:58"
   },
   {
     "id": 1543219,
@@ -5581,7 +5411,7 @@
     "backdrop_local": "",
     "fecha_estreno": "2025-09-16",
     "duración": "16 min",
-    "director": "Marc Gass, Yara Pérez Sánchez, Tristán Rodríguez, Iago Martínez López",
+    "director": "Marc Gass, Yara Pérez Sánchez, Iago Martínez López, Tristán Rodríguez",
     "directores": [
       {
         "name": "Marc Gass",
@@ -5592,12 +5422,12 @@
         "id": 4803005
       },
       {
-        "name": "Tristán Rodríguez",
-        "id": 3335328
-      },
-      {
         "name": "Iago Martínez López",
         "id": 5589687
+      },
+      {
+        "name": "Tristán Rodríguez",
+        "id": 3335328
       }
     ],
     "actores": [
@@ -5624,7 +5454,177 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:32"
+    "última_actualización": "2025-09-09 22:02:58"
+  },
+  {
+    "id": 1543320,
+    "tmdb_id": 1543320,
+    "título": "El lago silente",
+    "título_original": "El lago silente",
+    "sinopsis": "",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-09-16",
+    "duración": "15 min",
+    "director": "Varo López, Sara Manzano",
+    "directores": [
+      {
+        "name": "Varo López",
+        "id": 4814525
+      },
+      {
+        "name": "Sara Manzano",
+        "id": 3906585
+      }
+    ],
+    "actores": [
+      {
+        "name": "Lorena Arroyo Suárez",
+        "id": 5677766,
+        "character": "Joven",
+        "profile_path": null
+      },
+      {
+        "name": "Juan Manuel Barreiro",
+        "id": 5677769,
+        "character": "Hombre",
+        "profile_path": null
+      },
+      {
+        "name": "Raúl Sáez",
+        "id": 2662249,
+        "character": "Cura",
+        "profile_path": "/9vRZ0nLkOZwn11mbsACxkP6xg0Z.jpg"
+      },
+      {
+        "name": "María Dopico Villarino",
+        "id": 5563676,
+        "character": "Mujer",
+        "profile_path": "/y0manYZdC1GbKRjJoC98UlUaZdQ.jpg"
+      },
+      {
+        "name": "Albert Ponseti",
+        "id": 5677772,
+        "character": "Marido",
+        "profile_path": null
+      }
+    ],
+    "géneros": [],
+    "popularidad": 0.0143,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-09-09 22:02:59"
+  },
+  {
+    "id": 1543265,
+    "tmdb_id": 1543265,
+    "título": "No son sus ojos",
+    "título_original": "No son sus ojos",
+    "sinopsis": "",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-09-16",
+    "duración": "12 min",
+    "director": "Alejandro Guisado, Varo López",
+    "directores": [
+      {
+        "name": "Alejandro Guisado",
+        "id": 4803003
+      },
+      {
+        "name": "Varo López",
+        "id": 4814525
+      }
+    ],
+    "actores": [
+      {
+        "name": "Sara Ferro",
+        "id": 3169340,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Guti González",
+        "id": 4394084,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Isabel Portas",
+        "id": 5677570,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [],
+    "popularidad": 0.0143,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-09-09 22:02:59"
+  },
+  {
+    "id": 1543246,
+    "tmdb_id": 1543246,
+    "título": "Tendrá tus ojos",
+    "título_original": "Tendrá tus ojos",
+    "sinopsis": "",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-09-16",
+    "duración": "14 min",
+    "director": "Gonzalo Cámara",
+    "directores": [
+      {
+        "name": "Gonzalo Cámara",
+        "id": 3774444
+      }
+    ],
+    "actores": [
+      {
+        "name": "George Steane",
+        "id": 3136506,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Aritz Kortabarria",
+        "id": 3073635,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [],
+    "popularidad": 0.0143,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-09-09 22:02:59"
   },
   {
     "id": 1241921,
@@ -5775,7 +5775,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:09"
+    "última_actualización": "2025-09-09 22:02:48"
   },
   {
     "id": 507244,
@@ -5944,7 +5944,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:10"
+    "última_actualización": "2025-09-09 22:02:48"
   },
   {
     "id": 1102493,
@@ -6091,7 +6091,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:11"
+    "última_actualización": "2025-09-09 22:02:49"
   },
   {
     "id": 1063875,
@@ -6220,7 +6220,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:12"
+    "última_actualización": "2025-09-09 22:02:49"
   },
   {
     "id": 1066583,
@@ -6313,7 +6313,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:13"
+    "última_actualización": "2025-09-09 22:02:50"
   },
   {
     "id": 1361854,
@@ -6392,7 +6392,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:13"
+    "última_actualización": "2025-09-09 22:02:50"
   },
   {
     "id": 1225624,
@@ -6517,7 +6517,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:14"
+    "última_actualización": "2025-09-09 22:02:50"
   },
   {
     "id": 999160,
@@ -6531,15 +6531,15 @@
     "backdrop_local": "imagenes_estrenos/Angelo_en_el_bosque_misterioso_backdrop_xusMjLyXKjsFZeig9s8joGYtnhy.jpg",
     "fecha_estreno": "2025-09-19T00:00:00.000Z",
     "duración": "81 min",
-    "director": "Alexis Ducord, Vincent Paronnaud",
+    "director": "Vincent Paronnaud, Alexis Ducord",
     "directores": [
-      {
-        "name": "Alexis Ducord",
-        "id": 1804197
-      },
       {
         "name": "Vincent Paronnaud",
         "id": 20709
+      },
+      {
+        "name": "Alexis Ducord",
+        "id": 1804197
       }
     ],
     "actores": [
@@ -6635,7 +6635,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:14"
+    "última_actualización": "2025-09-09 22:02:51"
   },
   {
     "id": 1297953,
@@ -6718,7 +6718,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:16"
+    "última_actualización": "2025-09-09 22:02:52"
   },
   {
     "id": 1541991,
@@ -6980,7 +6980,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:08"
+    "última_actualización": "2025-09-09 22:02:47"
   },
   {
     "id": 1054867,
@@ -6990,7 +6990,7 @@
     "sinopsis": "",
     "poster_path": "/oZPiCb9BFV85O3pnbv9jx7l8Lfv.jpg",
     "poster_local": "imagenes_estrenos/Una_batalla_tras_otra_oZPiCb9BFV85O3pnbv9jx7l8Lfv.jpg",
-    "backdrop_path": "/oPILHSxZ0mFHjKwEfGKtbNjdaxV.jpg",
+    "backdrop_path": "/wZYjrOQSJXbIil6Ij07badqJWdE.jpg",
     "backdrop_local": "imagenes_estrenos/Una_batalla_tras_otra_backdrop_ev06XwWLSoTG2DkLlsllAhlWGsk.jpg",
     "fecha_estreno": "2025-09-26T00:00:00.000Z",
     "duración": "162 min",
@@ -7057,36 +7057,9 @@
       "backdrops": [
         {
           "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/oPILHSxZ0mFHjKwEfGKtbNjdaxV.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/hd0vCY2mloUVqcJ1NtoajeuYpRF.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/zlp46sKrzIZkFPGf2sNR9T5uSmU.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
           "height": 2160,
           "iso_639_1": null,
-          "file_path": "/bUpujwhtDBYqcZBElE0EiIfgecS.jpg",
+          "file_path": "/wZYjrOQSJXbIil6Ij07badqJWdE.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 3840
@@ -7095,9 +7068,36 @@
           "aspect_ratio": 1.778,
           "height": 2160,
           "iso_639_1": null,
-          "file_path": "/yqYRRCjogZUbI6Tj23OeOzyKByR.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
+          "file_path": "/hwSNOOACfmHQNVoTOVTY1JKt00V.jpg",
+          "vote_average": 2.542,
+          "vote_count": 4,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/cIF5CfiPmzoJWE21aiJJrWUl165.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/wx5Wx7gfEsHRLKHmLK0t9YVBMuo.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/rh22ZREkbLycvWI0OJST2Cg9fLV.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
           "width": 3840
         }
       ],
@@ -7149,7 +7149,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:08"
+    "última_actualización": "2025-09-09 22:02:48"
   },
   {
     "id": 338969,
@@ -7318,7 +7318,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:09"
+    "última_actualización": "2025-09-09 22:02:48"
   },
   {
     "id": 1374686,
@@ -7459,7 +7459,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:09"
+    "última_actualización": "2025-09-09 22:02:48"
   },
   {
     "id": 1088166,
@@ -7578,7 +7578,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:10"
+    "última_actualización": "2025-09-09 22:02:48"
   },
   {
     "id": 1010756,
@@ -7635,10 +7635,6 @@
       {
         "id": 27,
         "name": "Terror"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
       }
     ],
     "popularidad": 5.0246,
@@ -7743,7 +7739,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:10"
+    "última_actualización": "2025-09-09 22:02:49"
   },
   {
     "id": 1175932,
@@ -7826,7 +7822,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:11"
+    "última_actualización": "2025-09-09 22:02:49"
   },
   {
     "id": 1086260,
@@ -7923,7 +7919,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:11"
+    "última_actualización": "2025-09-09 22:02:49"
   },
   {
     "id": 1400214,
@@ -8006,7 +8002,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:12"
+    "última_actualización": "2025-09-09 22:02:50"
   },
   {
     "id": 1096642,
@@ -8121,7 +8117,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:13"
+    "última_actualización": "2025-09-09 22:02:50"
   },
   {
     "id": 1453828,
@@ -8214,63 +8210,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:15"
-  },
-  {
-    "id": 1293641,
-    "tmdb_id": 1293641,
-    "título": "El tesoro de Barracuda",
-    "título_original": "El tesoro de Barracuda",
-    "sinopsis": "Mientras intenta encontrar a sus padres, Chispas acaba por accidente en el barco pirata del Capitán Barracuda, tripulado por temibles marineros armados hasta los dientes y con un grave problema: no saben leer. Solo ella puede ayudarles a encontrar el tesoro de Phineas Crane, el más valioso y codiciado por todos los piratas del Caribe. Así comienza una aventura que cambiará sus vidas para siempre.",
-    "poster_path": "/fp8qV16V2iorrDeVXeWcsoSt2W2.jpg",
-    "poster_local": "imagenes_estrenos/El_tesoro_de_Barracuda_fp8qV16V2iorrDeVXeWcsoSt2W2.jpg",
-    "backdrop_path": "/lbNczKJlmxI1TWAuCYsUhqCwX2B.jpg",
-    "backdrop_local": "imagenes_estrenos/El_tesoro_de_Barracuda_backdrop_lbNczKJlmxI1TWAuCYsUhqCwX2B.jpg",
-    "fecha_estreno": "2025-09-26T00:00:00.000Z",
-    "duración": "90 min",
-    "director": "Adrià García",
-    "directores": [
-      {
-        "name": "Adrià García",
-        "id": 96665
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 12,
-        "name": "Aventura"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 0.2905,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/lbNczKJlmxI1TWAuCYsUhqCwX2B.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-09-09 10:03:16"
+    "última_actualización": "2025-09-09 22:02:51"
   },
   {
     "id": 1426968,
@@ -8366,7 +8306,63 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:19"
+    "última_actualización": "2025-09-09 22:02:51"
+  },
+  {
+    "id": 1293641,
+    "tmdb_id": 1293641,
+    "título": "El tesoro de Barracuda",
+    "título_original": "El tesoro de Barracuda",
+    "sinopsis": "Mientras intenta encontrar a sus padres, Chispas acaba por accidente en el barco pirata del Capitán Barracuda, tripulado por temibles marineros armados hasta los dientes y con un grave problema: no saben leer. Solo ella puede ayudarles a encontrar el tesoro de Phineas Crane, el más valioso y codiciado por todos los piratas del Caribe. Así comienza una aventura que cambiará sus vidas para siempre.",
+    "poster_path": "/fp8qV16V2iorrDeVXeWcsoSt2W2.jpg",
+    "poster_local": "imagenes_estrenos/El_tesoro_de_Barracuda_fp8qV16V2iorrDeVXeWcsoSt2W2.jpg",
+    "backdrop_path": "/lbNczKJlmxI1TWAuCYsUhqCwX2B.jpg",
+    "backdrop_local": "imagenes_estrenos/El_tesoro_de_Barracuda_backdrop_lbNczKJlmxI1TWAuCYsUhqCwX2B.jpg",
+    "fecha_estreno": "2025-09-26T00:00:00.000Z",
+    "duración": "90 min",
+    "director": "Adrià García",
+    "directores": [
+      {
+        "name": "Adrià García",
+        "id": 96665
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 0.2905,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/lbNczKJlmxI1TWAuCYsUhqCwX2B.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-09-09 22:02:52"
   },
   {
     "id": 1536049,
@@ -8449,7 +8445,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:21"
+    "última_actualización": "2025-09-09 22:02:55"
   },
   {
     "id": 1431314,
@@ -8518,7 +8514,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-09 10:03:24"
+    "última_actualización": "2025-09-09 22:02:56"
   },
   {
     "id": 1325104,
@@ -8573,7 +8569,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:18"
+    "última_actualización": "2025-09-09 22:02:52"
   },
   {
     "id": 1381107,
@@ -8629,6 +8625,6 @@
         }
       ]
     },
-    "última_actualización": "2025-09-09 10:03:21"
+    "última_actualización": "2025-09-09 22:02:55"
   }
 ]
