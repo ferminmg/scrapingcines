@@ -1,0 +1,65 @@
+2025-09-09 16:06:39,437 - INFO - Iniciando proceso de scraping
+2025-09-09 16:06:39,439 - INFO - Posts existentes encontrados: 2436
+2025-09-09 16:06:39,439 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-09-09 16:06:41,906 - INFO - Se encontraron 10 posts
+2025-09-09 16:06:41,907 - INFO - Comenzando extracción de información del post
+2025-09-09 16:06:41,907 - INFO - Título del post: ROMERÍA de Carla Simón
+2025-09-09 16:06:41,908 - INFO - Fecha del post: 2025-09-09T16:20:10+02:00
+2025-09-09 16:06:41,908 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/09/romeria-de-carla-simon.html
+2025-09-09 16:06:43,285 - INFO - Contenido extraído y estructurado (4619 caracteres)
+2025-09-09 16:06:43,286 - INFO - Guardando post en: posts/ROMERÍA_2025-09-09.json
+2025-09-09 16:06:43,286 - INFO - Post guardado exitosamente
+2025-09-09 16:06:43,286 - INFO - Actualizando índice de películas
+2025-09-09 16:06:43,286 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-09-09 16:06:43,290 - INFO - Índice existente cargado con 2537 películas
+2025-09-09 16:06:43,302 - INFO - Película agregada al índice: ROMERÍA
+2025-09-09 16:06:43,302 - INFO - Nuevo post guardado: ROMERÍA de Carla Simón
+2025-09-09 16:06:43,302 - INFO - Comenzando extracción de información del post
+2025-09-09 16:06:43,302 - INFO - Título del post: LA TIERRA NEGRA de Alberto Morais
+2025-09-09 16:06:43,302 - INFO - Fecha del post: 2025-09-09T14:28:24+02:00
+2025-09-09 16:06:43,302 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/09/la-tierra-negra-de-alberto-morais.html
+2025-09-09 16:06:44,561 - INFO - Contenido extraído y estructurado (2289 caracteres)
+2025-09-09 16:06:44,563 - INFO - Guardando post en: posts/LA_TIERRA_NEGRA_2025-09-09.json
+2025-09-09 16:06:44,563 - INFO - Post guardado exitosamente
+2025-09-09 16:06:44,563 - INFO - Actualizando índice de películas
+2025-09-09 16:06:44,563 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-09-09 16:06:44,566 - INFO - Índice existente cargado con 2538 películas
+2025-09-09 16:06:44,578 - INFO - Película agregada al índice: LA TIERRA NEGRA
+2025-09-09 16:06:44,578 - INFO - Nuevo post guardado: LA TIERRA NEGRA de Alberto Morais
+2025-09-09 16:06:44,578 - INFO - Comenzando extracción de información del post
+2025-09-09 16:06:44,578 - INFO - Título del post: AMOR EN CUATRO LETRAS de Polly Steele
+2025-09-09 16:06:44,578 - INFO - Fecha del post: 2025-09-09T14:21:21+02:00
+2025-09-09 16:06:44,578 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/09/amor-en-cuatro-letras-de-polly-steele.html
+2025-09-09 16:06:45,941 - INFO - Contenido extraído y estructurado (2768 caracteres)
+2025-09-09 16:06:45,942 - INFO - Guardando post en: posts/AMOR_EN_CUATRO_LETRAS_2025-09-09.json
+2025-09-09 16:06:45,943 - INFO - Post guardado exitosamente
+2025-09-09 16:06:45,943 - INFO - Actualizando índice de películas
+2025-09-09 16:06:45,943 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-09-09 16:06:45,947 - INFO - Índice existente cargado con 2539 películas
+2025-09-09 16:06:45,958 - INFO - Película agregada al índice: AMOR EN CUATRO LETRAS
+2025-09-09 16:06:45,959 - INFO - Nuevo post guardado: AMOR EN CUATRO LETRAS de Polly Steele
+2025-09-09 16:06:45,959 - INFO - Comenzando extracción de información del post
+2025-09-09 16:06:45,959 - INFO - Título del post: EL VOLCÁN de Damian Kocur
+2025-09-09 16:06:45,959 - INFO - Fecha del post: 2025-09-09T14:16:44+02:00
+2025-09-09 16:06:45,959 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/09/critica-de-el-volcan-de-damian-kocur.html
+2025-09-09 16:06:47,330 - INFO - Contenido extraído y estructurado (4406 caracteres)
+2025-09-09 16:06:47,332 - INFO - Guardando post en: posts/EL_VOLCÁN_2025-09-09.json
+2025-09-09 16:06:47,332 - INFO - Post guardado exitosamente
+2025-09-09 16:06:47,332 - INFO - Actualizando índice de películas
+2025-09-09 16:06:47,332 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-09-09 16:06:47,335 - INFO - Índice existente cargado con 2540 películas
+2025-09-09 16:06:47,347 - INFO - Película agregada al índice: EL VOLCÁN
+2025-09-09 16:06:47,347 - INFO - Nuevo post guardado: EL VOLCÁN de Damian Kocur
+2025-09-09 16:06:47,347 - INFO - Comenzando extracción de información del post
+2025-09-09 16:06:47,347 - INFO - Post ya existente, saltando: AGÁRRALO COMO PUEDAS de Akiva Schaffer
+2025-09-09 16:06:47,348 - INFO - Comenzando extracción de información del post
+2025-09-09 16:06:47,348 - INFO - Post ya existente, saltando: EL REGRESO DE ULISES de Uberto Pasolini
+2025-09-09 16:06:47,348 - INFO - Comenzando extracción de información del post
+2025-09-09 16:06:47,348 - INFO - Post ya existente, saltando: BLUE SUN PALACE de Constance Sang
+2025-09-09 16:06:47,348 - INFO - Comenzando extracción de información del post
+2025-09-09 16:06:47,348 - INFO - Post ya existente, saltando: MATERIALISTAS de Celine Song
+2025-09-09 16:06:47,348 - INFO - Comenzando extracción de información del post
+2025-09-09 16:06:47,348 - INFO - Post ya existente, saltando: WEAPONS de Zach Cregger
+2025-09-09 16:06:47,348 - INFO - Comenzando extracción de información del post
+2025-09-09 16:06:47,349 - INFO - Post ya existente, saltando: MI POSTRE FAVORITO de Maryam Moghadam y Behtash Sanaeeha
+2025-09-09 16:06:47,349 - INFO - Proceso completado. Posts nuevos guardados: 4
