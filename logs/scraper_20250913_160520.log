@@ -1,0 +1,55 @@
+2025-09-13 16:05:20,331 - INFO - Iniciando proceso de scraping
+2025-09-13 16:05:20,333 - INFO - Posts existentes encontrados: 2440
+2025-09-13 16:05:20,333 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-09-13 16:05:21,521 - INFO - Se encontraron 10 posts
+2025-09-13 16:05:21,522 - INFO - Comenzando extracción de información del post
+2025-09-13 16:05:21,523 - INFO - Título del post: LA LEY DE JENNY PEN de James Ashcroft
+2025-09-13 16:05:21,523 - INFO - Fecha del post: 2025-09-13T17:18:53+02:00
+2025-09-13 16:05:21,523 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/09/la-ley-de-jenny-pen-de-james-ashcroft.html
+2025-09-13 16:05:22,804 - INFO - Contenido extraído y estructurado (4358 caracteres)
+2025-09-13 16:05:22,805 - INFO - Guardando post en: posts/LA_LEY_DE_JENNY_PEN_2025-09-13.json
+2025-09-13 16:05:22,805 - INFO - Post guardado exitosamente
+2025-09-13 16:05:22,805 - INFO - Actualizando índice de películas
+2025-09-13 16:05:22,805 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-09-13 16:05:22,809 - INFO - Índice existente cargado con 2541 películas
+2025-09-13 16:05:22,821 - INFO - Película agregada al índice: LA LEY DE JENNY PEN
+2025-09-13 16:05:22,821 - INFO - Nuevo post guardado: LA LEY DE JENNY PEN de James Ashcroft
+2025-09-13 16:05:22,821 - INFO - Comenzando extracción de información del post
+2025-09-13 16:05:22,821 - INFO - Título del post: APRIL de Dea Kulumbegashvilis
+2025-09-13 16:05:22,821 - INFO - Fecha del post: 2025-09-13T17:07:32+02:00
+2025-09-13 16:05:22,822 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/09/critica-de-april-de-dea-kulumbegashvilis.html
+2025-09-13 16:05:24,028 - INFO - Contenido extraído y estructurado (2644 caracteres)
+2025-09-13 16:05:24,029 - INFO - Guardando post en: posts/APRIL_2025-09-13.json
+2025-09-13 16:05:24,029 - INFO - Post guardado exitosamente
+2025-09-13 16:05:24,029 - INFO - Actualizando índice de películas
+2025-09-13 16:05:24,029 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-09-13 16:05:24,033 - INFO - Índice existente cargado con 2542 películas
+2025-09-13 16:05:24,045 - INFO - Película agregada al índice: APRIL
+2025-09-13 16:05:24,046 - INFO - Nuevo post guardado: APRIL de Dea Kulumbegashvilis
+2025-09-13 16:05:24,046 - INFO - Comenzando extracción de información del post
+2025-09-13 16:05:24,046 - INFO - Título del post: 13 DÍAS, 13 NOCHES de Martin Bourboulon
+2025-09-13 16:05:24,046 - INFO - Fecha del post: 2025-09-13T16:59:31+02:00
+2025-09-13 16:05:24,046 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/09/13-dias-13-noches-de-martin-bourboulon.html
+2025-09-13 16:05:26,065 - INFO - Contenido extraído y estructurado (2735 caracteres)
+2025-09-13 16:05:26,067 - INFO - Guardando post en: posts/13_DÍAS,_13_NOCHES_2025-09-13.json
+2025-09-13 16:05:26,067 - INFO - Post guardado exitosamente
+2025-09-13 16:05:26,067 - INFO - Actualizando índice de películas
+2025-09-13 16:05:26,067 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-09-13 16:05:26,071 - INFO - Índice existente cargado con 2543 películas
+2025-09-13 16:05:26,082 - INFO - Película agregada al índice: 13 DÍAS, 13 NOCHES
+2025-09-13 16:05:26,082 - INFO - Nuevo post guardado: 13 DÍAS, 13 NOCHES de Martin Bourboulon
+2025-09-13 16:05:26,082 - INFO - Comenzando extracción de información del post
+2025-09-13 16:05:26,082 - INFO - Post ya existente, saltando: ROMERÍA de Carla Simón
+2025-09-13 16:05:26,082 - INFO - Comenzando extracción de información del post
+2025-09-13 16:05:26,083 - INFO - Post ya existente, saltando: LA TIERRA NEGRA de Alberto Morais
+2025-09-13 16:05:26,083 - INFO - Comenzando extracción de información del post
+2025-09-13 16:05:26,083 - INFO - Post ya existente, saltando: AMOR EN CUATRO LETRAS de Polly Steele
+2025-09-13 16:05:26,083 - INFO - Comenzando extracción de información del post
+2025-09-13 16:05:26,083 - INFO - Post ya existente, saltando: EL VOLCÁN de Damian Kocur
+2025-09-13 16:05:26,083 - INFO - Comenzando extracción de información del post
+2025-09-13 16:05:26,083 - INFO - Post ya existente, saltando: AGÁRRALO COMO PUEDAS de Akiva Schaffer
+2025-09-13 16:05:26,083 - INFO - Comenzando extracción de información del post
+2025-09-13 16:05:26,083 - INFO - Post ya existente, saltando: EL REGRESO DE ULISES de Uberto Pasolini
+2025-09-13 16:05:26,084 - INFO - Comenzando extracción de información del post
+2025-09-13 16:05:26,084 - INFO - Post ya existente, saltando: BLUE SUN PALACE de Constance Sang
+2025-09-13 16:05:26,084 - INFO - Proceso completado. Posts nuevos guardados: 3
