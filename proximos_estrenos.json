@@ -891,7 +891,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:49"
+    "última_actualización": "2025-09-15 22:02:56"
   },
   {
     "id": 507244,
@@ -1060,7 +1060,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:49"
+    "última_actualización": "2025-09-15 22:02:57"
   },
   {
     "id": 1102493,
@@ -1207,7 +1207,100 @@
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:50"
+    "última_actualización": "2025-09-15 22:02:57"
+  },
+  {
+    "id": 1066583,
+    "tmdb_id": 1066583,
+    "título": "Una mano sola no aplaude",
+    "título_original": "One Hand Don't Clap",
+    "sinopsis": "",
+    "poster_path": "/tnsTgNHBuUxJ02pT4muY2bzxVoO.jpg",
+    "poster_local": "imagenes_estrenos/Una_mano_sola_no_aplaude_tnsTgNHBuUxJ02pT4muY2bzxVoO.jpg",
+    "backdrop_path": "/f3Bk9vzhjrU34g4OmxYwfq1gTgA.jpg",
+    "backdrop_local": "imagenes_estrenos/Una_mano_sola_no_aplaude_backdrop_f3Bk9vzhjrU34g4OmxYwfq1gTgA.jpg",
+    "fecha_estreno": "2025-09-19T00:00:00.000Z",
+    "duración": "92 min",
+    "director": "Kavery Kaul",
+    "directores": [
+      {
+        "name": "Kavery Kaul",
+        "id": 3287202
+      }
+    ],
+    "actores": [
+      {
+        "name": "Lord Kitchener",
+        "id": 3847664,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Calypso Rose",
+        "id": 1921026,
+        "character": "Self",
+        "profile_path": "/hdbu6rFiUT49WmMT1553hvbMG3P.jpg"
+      },
+      {
+        "name": "Mighty Duke",
+        "id": 4067867,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Lord Pretender",
+        "id": 4067869,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "David Rudder",
+        "id": 4067873,
+        "character": "Self",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "popularidad": 1.7858,
+    "puntuación": 6.0,
+    "votos": 1,
+    "adulto": false,
+    "video": false,
+    "año": "1991",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1125,
+          "iso_639_1": null,
+          "file_path": "/f3Bk9vzhjrU34g4OmxYwfq1gTgA.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_639_1": null,
+          "file_path": "/3gu5Tj25LrCkrg2dWekHk6XZy7N.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2025-09-15 22:03:00"
   },
   {
     "id": 1063875,
@@ -1336,193 +1429,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:50"
-  },
-  {
-    "id": 1066583,
-    "tmdb_id": 1066583,
-    "título": "Una mano sola no aplaude",
-    "título_original": "One Hand Don't Clap",
-    "sinopsis": "",
-    "poster_path": "/tnsTgNHBuUxJ02pT4muY2bzxVoO.jpg",
-    "poster_local": "imagenes_estrenos/Una_mano_sola_no_aplaude_tnsTgNHBuUxJ02pT4muY2bzxVoO.jpg",
-    "backdrop_path": "/f3Bk9vzhjrU34g4OmxYwfq1gTgA.jpg",
-    "backdrop_local": "imagenes_estrenos/Una_mano_sola_no_aplaude_backdrop_f3Bk9vzhjrU34g4OmxYwfq1gTgA.jpg",
-    "fecha_estreno": "2025-09-19T00:00:00.000Z",
-    "duración": "92 min",
-    "director": "Kavery Kaul",
-    "directores": [
-      {
-        "name": "Kavery Kaul",
-        "id": 3287202
-      }
-    ],
-    "actores": [
-      {
-        "name": "Lord Kitchener",
-        "id": 3847664,
-        "character": "Self",
-        "profile_path": null
-      },
-      {
-        "name": "Calypso Rose",
-        "id": 1921026,
-        "character": "Self",
-        "profile_path": "/hdbu6rFiUT49WmMT1553hvbMG3P.jpg"
-      },
-      {
-        "name": "Mighty Duke",
-        "id": 4067867,
-        "character": "Self",
-        "profile_path": null
-      },
-      {
-        "name": "Lord Pretender",
-        "id": 4067869,
-        "character": "Self",
-        "profile_path": null
-      },
-      {
-        "name": "David Rudder",
-        "id": 4067873,
-        "character": "Self",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      },
-      {
-        "id": 10402,
-        "name": "Música"
-      }
-    ],
-    "popularidad": 1.7858,
-    "puntuación": 6.0,
-    "votos": 1,
-    "adulto": false,
-    "video": false,
-    "año": "1991",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1125,
-          "iso_639_1": null,
-          "file_path": "/f3Bk9vzhjrU34g4OmxYwfq1gTgA.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_639_1": null,
-          "file_path": "/3gu5Tj25LrCkrg2dWekHk6XZy7N.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2025-09-15 10:02:51"
-  },
-  {
-    "id": 1066583,
-    "tmdb_id": 1066583,
-    "título": "Una mano sola no aplaude",
-    "título_original": "One Hand Don't Clap",
-    "sinopsis": "",
-    "poster_path": "/tnsTgNHBuUxJ02pT4muY2bzxVoO.jpg",
-    "poster_local": "imagenes_estrenos/Una_mano_sola_no_aplaude_tnsTgNHBuUxJ02pT4muY2bzxVoO.jpg",
-    "backdrop_path": "/f3Bk9vzhjrU34g4OmxYwfq1gTgA.jpg",
-    "backdrop_local": "imagenes_estrenos/Una_mano_sola_no_aplaude_backdrop_f3Bk9vzhjrU34g4OmxYwfq1gTgA.jpg",
-    "fecha_estreno": "2025-09-19T00:00:00.000Z",
-    "duración": "92 min",
-    "director": "Kavery Kaul",
-    "directores": [
-      {
-        "name": "Kavery Kaul",
-        "id": 3287202
-      }
-    ],
-    "actores": [
-      {
-        "name": "Lord Kitchener",
-        "id": 3847664,
-        "character": "Self",
-        "profile_path": null
-      },
-      {
-        "name": "Calypso Rose",
-        "id": 1921026,
-        "character": "Self",
-        "profile_path": "/hdbu6rFiUT49WmMT1553hvbMG3P.jpg"
-      },
-      {
-        "name": "Mighty Duke",
-        "id": 4067867,
-        "character": "Self",
-        "profile_path": null
-      },
-      {
-        "name": "Lord Pretender",
-        "id": 4067869,
-        "character": "Self",
-        "profile_path": null
-      },
-      {
-        "name": "David Rudder",
-        "id": 4067873,
-        "character": "Self",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      },
-      {
-        "id": 10402,
-        "name": "Música"
-      }
-    ],
-    "popularidad": 1.7858,
-    "puntuación": 6.0,
-    "votos": 1,
-    "adulto": false,
-    "video": false,
-    "año": "1991",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1125,
-          "iso_639_1": null,
-          "file_path": "/f3Bk9vzhjrU34g4OmxYwfq1gTgA.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_639_1": null,
-          "file_path": "/3gu5Tj25LrCkrg2dWekHk6XZy7N.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2025-09-15 10:02:51"
+    "última_actualización": "2025-09-15 22:03:00"
   },
   {
     "id": 1361854,
@@ -1601,7 +1508,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-15 10:02:51"
+    "última_actualización": "2025-09-15 22:03:01"
   },
   {
     "id": 1225624,
@@ -1726,7 +1633,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:51"
+    "última_actualización": "2025-09-15 22:03:01"
   },
   {
     "id": 999160,
@@ -1740,15 +1647,15 @@
     "backdrop_local": "imagenes_estrenos/Angelo_en_el_bosque_misterioso_backdrop_xusMjLyXKjsFZeig9s8joGYtnhy.jpg",
     "fecha_estreno": "2025-09-19T00:00:00.000Z",
     "duración": "81 min",
-    "director": "Alexis Ducord, Vincent Paronnaud",
+    "director": "Vincent Paronnaud, Alexis Ducord",
     "directores": [
-      {
-        "name": "Alexis Ducord",
-        "id": 1804197
-      },
       {
         "name": "Vincent Paronnaud",
         "id": 20709
+      },
+      {
+        "name": "Alexis Ducord",
+        "id": 1804197
       }
     ],
     "actores": [
@@ -1844,7 +1751,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-15 10:02:52"
+    "última_actualización": "2025-09-15 22:03:02"
   },
   {
     "id": 1297953,
@@ -1927,7 +1834,69 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-15 10:02:52"
+    "última_actualización": "2025-09-15 22:03:03"
+  },
+  {
+    "id": 1546883,
+    "tmdb_id": 1546883,
+    "título": "Mackerel-man",
+    "título_original": "Mackerel-man",
+    "sinopsis": "",
+    "poster_path": "/xOAOiyjhhptvevZvHGOuI8cPZHe.jpg",
+    "poster_local": "imagenes_estrenos/Mackerel_man_xOAOiyjhhptvevZvHGOuI8cPZHe.jpg",
+    "backdrop_path": "/wFXWk700CUY8kIm9kILUiwWfw1M.jpg",
+    "backdrop_local": "imagenes_estrenos/Mackerel_man_backdrop_wFXWk700CUY8kIm9kILUiwWfw1M.jpg",
+    "fecha_estreno": "2025-09-20T00:00:00.000Z",
+    "duración": "17 min",
+    "director": "Rintaro Uekawa",
+    "directores": [
+      {
+        "name": "Rintaro Uekawa",
+        "id": 5690765
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.0,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/wFXWk700CUY8kIm9kILUiwWfw1M.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_639_1": null,
+          "file_path": "/xOAOiyjhhptvevZvHGOuI8cPZHe.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2025-09-15 22:03:08"
   },
   {
     "id": 1541991,
@@ -2185,7 +2154,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:48"
+    "última_actualización": "2025-09-15 22:02:55"
   },
   {
     "id": 1319969,
@@ -2358,7 +2327,176 @@
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:48"
+    "última_actualización": "2025-09-15 22:02:55"
+  },
+  {
+    "id": 338969,
+    "tmdb_id": 338969,
+    "título": "The Toxic Avenger Unrated",
+    "título_original": "The Toxic Avenger Unrated",
+    "sinopsis": "",
+    "poster_path": "/uEqiAF3jtlyXL4fd1NEgJUlGolZ.jpg",
+    "poster_local": "imagenes_estrenos/The_Toxic_Avenger_uEqiAF3jtlyXL4fd1NEgJUlGolZ.jpg",
+    "backdrop_path": "/dnzq8322gN4QWm8iL5l5jeqc4Nu.jpg",
+    "backdrop_local": "imagenes_estrenos/The_Toxic_Avenger_backdrop_dnzq8322gN4QWm8iL5l5jeqc4Nu.jpg",
+    "fecha_estreno": "2025-09-26T00:00:00.000Z",
+    "duración": "102 min",
+    "director": "Macon Blair",
+    "directores": [
+      {
+        "name": "Macon Blair",
+        "id": 209513
+      }
+    ],
+    "actores": [
+      {
+        "name": "Peter Dinklage",
+        "id": 22970,
+        "character": "Winston Gooze / Toxie (Voice)",
+        "profile_path": "/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+      },
+      {
+        "name": "Jacob Tremblay",
+        "id": 1277188,
+        "character": "Wade Gooze",
+        "profile_path": "/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg"
+      },
+      {
+        "name": "Kevin Bacon",
+        "id": 4724,
+        "character": "Bob Garbinger",
+        "profile_path": "/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
+      },
+      {
+        "name": "Elijah Wood",
+        "id": 109,
+        "character": "Fritz Garbinger",
+        "profile_path": "/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+      },
+      {
+        "name": "Taylour Paige",
+        "id": 1335818,
+        "character": "J.J. Doherty",
+        "profile_path": "/kCSH5Ihy22arcQFUBzSsMVnguBX.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "popularidad": 9.3551,
+    "puntuación": 6.0,
+    "votos": 23,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_639_1": null,
+          "file_path": "/dnzq8322gN4QWm8iL5l5jeqc4Nu.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/qmMkaK6Tq75o6Wb6BVbr3pOnpbF.jpg",
+          "vote_average": 1.75,
+          "vote_count": 4,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_639_1": null,
+          "file_path": "/ikyqP3OY87nhn0wHpkuADkLvQiH.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2048
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1030,
+          "iso_639_1": null,
+          "file_path": "/sQZ9Mdi8jcmQ8B8ETmaJoEUkRIa.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1830
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/kVIsUFrVDXbb3A2MpWbO8KdH55o.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/8UsBL6rNxTX9yOW1vaHifwIHPl5.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/22MNOSsFNcUWkBLT9omRIirJTI5.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.666,
+          "height": 1280,
+          "iso_639_1": null,
+          "file_path": "/cvoOjPbxOgtpqVmjQlHtNm5mJs4.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 853
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/xbr2lcb97zx32MjBZsZutu7DfrU.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.666,
+          "height": 1280,
+          "iso_639_1": null,
+          "file_path": "/rydPVKemJOpX2DKDPhlavSbi93I.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 853
+        }
+      ]
+    },
+    "última_actualización": "2025-09-15 22:02:56"
   },
   {
     "id": 1374686,
@@ -2499,176 +2637,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:49"
-  },
-  {
-    "id": 338969,
-    "tmdb_id": 338969,
-    "título": "The Toxic Avenger Unrated",
-    "título_original": "The Toxic Avenger Unrated",
-    "sinopsis": "",
-    "poster_path": "/uEqiAF3jtlyXL4fd1NEgJUlGolZ.jpg",
-    "poster_local": "imagenes_estrenos/The_Toxic_Avenger_uEqiAF3jtlyXL4fd1NEgJUlGolZ.jpg",
-    "backdrop_path": "/dnzq8322gN4QWm8iL5l5jeqc4Nu.jpg",
-    "backdrop_local": "imagenes_estrenos/The_Toxic_Avenger_backdrop_dnzq8322gN4QWm8iL5l5jeqc4Nu.jpg",
-    "fecha_estreno": "2025-09-26T00:00:00.000Z",
-    "duración": "102 min",
-    "director": "Macon Blair",
-    "directores": [
-      {
-        "name": "Macon Blair",
-        "id": 209513
-      }
-    ],
-    "actores": [
-      {
-        "name": "Peter Dinklage",
-        "id": 22970,
-        "character": "Winston Gooze / Toxie (Voice)",
-        "profile_path": "/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
-      },
-      {
-        "name": "Jacob Tremblay",
-        "id": 1277188,
-        "character": "Wade Gooze",
-        "profile_path": "/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg"
-      },
-      {
-        "name": "Kevin Bacon",
-        "id": 4724,
-        "character": "Bob Garbinger",
-        "profile_path": "/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
-      },
-      {
-        "name": "Elijah Wood",
-        "id": 109,
-        "character": "Fritz Garbinger",
-        "profile_path": "/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
-      },
-      {
-        "name": "Taylour Paige",
-        "id": 1335818,
-        "character": "J.J. Doherty",
-        "profile_path": "/kCSH5Ihy22arcQFUBzSsMVnguBX.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 28,
-        "name": "Acción"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 878,
-        "name": "Ciencia ficción"
-      }
-    ],
-    "popularidad": 9.3551,
-    "puntuación": 6.0,
-    "votos": 22,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/dnzq8322gN4QWm8iL5l5jeqc4Nu.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/qmMkaK6Tq75o6Wb6BVbr3pOnpbF.jpg",
-          "vote_average": 1.75,
-          "vote_count": 4,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1152,
-          "iso_639_1": null,
-          "file_path": "/ikyqP3OY87nhn0wHpkuADkLvQiH.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2048
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1030,
-          "iso_639_1": null,
-          "file_path": "/sQZ9Mdi8jcmQ8B8ETmaJoEUkRIa.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1830
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/kVIsUFrVDXbb3A2MpWbO8KdH55o.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/8UsBL6rNxTX9yOW1vaHifwIHPl5.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/22MNOSsFNcUWkBLT9omRIirJTI5.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.666,
-          "height": 1280,
-          "iso_639_1": null,
-          "file_path": "/cvoOjPbxOgtpqVmjQlHtNm5mJs4.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 853
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/xbr2lcb97zx32MjBZsZutu7DfrU.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.666,
-          "height": 1280,
-          "iso_639_1": null,
-          "file_path": "/rydPVKemJOpX2DKDPhlavSbi93I.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 853
-        }
-      ]
-    },
-    "última_actualización": "2025-09-15 10:02:49"
+    "última_actualización": "2025-09-15 22:02:56"
   },
   {
     "id": 1010756,
@@ -2829,7 +2798,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:49"
+    "última_actualización": "2025-09-15 22:02:57"
   },
   {
     "id": 1088166,
@@ -2893,8 +2862,8 @@
       }
     ],
     "popularidad": 5.8661,
-    "puntuación": 6.3,
-    "votos": 12,
+    "puntuación": 6.462,
+    "votos": 13,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2948,90 +2917,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-15 10:02:49"
-  },
-  {
-    "id": 1175932,
-    "tmdb_id": 1175932,
-    "título": "Sigue volando",
-    "título_original": "ほつれる",
-    "sinopsis": "",
-    "poster_path": "/qTbodQx3O4ic2LDlgaJdgAmjKaP.jpg",
-    "poster_local": "imagenes_estrenos/Sigue_volando_qTbodQx3O4ic2LDlgaJdgAmjKaP.jpg",
-    "backdrop_path": "/ksHloizfhHW08m7PItn3n11LJJ9.jpg",
-    "backdrop_local": "imagenes_estrenos/Sigue_volando_backdrop_ksHloizfhHW08m7PItn3n11LJJ9.jpg",
-    "fecha_estreno": "2025-09-26T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "加藤拓也",
-    "directores": [
-      {
-        "name": "加藤拓也",
-        "id": 555050
-      }
-    ],
-    "actores": [
-      {
-        "name": "門脇麦",
-        "id": 1335392,
-        "character": "Watako",
-        "profile_path": "/iDaLuetWYMjCbvug0oDKqf4dJTl.jpg"
-      },
-      {
-        "name": "Shōta Sometani",
-        "id": 1018944,
-        "character": "Kimura",
-        "profile_path": "/sEEfyEfEbd9TQB9gFlvDTQJov76.jpg"
-      },
-      {
-        "name": "田村健太郎",
-        "id": 1610105,
-        "character": "Fuminori",
-        "profile_path": "/pNKVZIuFOpwHimkzSWOMdBDpjOo.jpg"
-      },
-      {
-        "name": "黒木華",
-        "id": 1054260,
-        "character": "Eri",
-        "profile_path": "/rTxASkiwbxohT0UVHORLmECo53Y.jpg"
-      },
-      {
-        "name": "古舘寛治",
-        "id": 1014996,
-        "character": "Tetsuya",
-        "profile_path": "/lDhhTMzBlR9v5XbjOmfilG0PaFj.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 10749,
-        "name": "Romance"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 2.7493,
-    "puntuación": 7.0,
-    "votos": 11,
-    "adulto": false,
-    "video": false,
-    "año": "2023",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_639_1": null,
-          "file_path": "/ksHloizfhHW08m7PItn3n11LJJ9.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-09-15 10:02:50"
+    "última_actualización": "2025-09-15 22:02:57"
   },
   {
     "id": 1086260,
@@ -3128,7 +3014,90 @@
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:50"
+    "última_actualización": "2025-09-15 22:02:58"
+  },
+  {
+    "id": 1175932,
+    "tmdb_id": 1175932,
+    "título": "Sigue volando",
+    "título_original": "ほつれる",
+    "sinopsis": "",
+    "poster_path": "/qTbodQx3O4ic2LDlgaJdgAmjKaP.jpg",
+    "poster_local": "imagenes_estrenos/Sigue_volando_qTbodQx3O4ic2LDlgaJdgAmjKaP.jpg",
+    "backdrop_path": "/ksHloizfhHW08m7PItn3n11LJJ9.jpg",
+    "backdrop_local": "imagenes_estrenos/Sigue_volando_backdrop_ksHloizfhHW08m7PItn3n11LJJ9.jpg",
+    "fecha_estreno": "2025-09-26T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "加藤拓也",
+    "directores": [
+      {
+        "name": "加藤拓也",
+        "id": 555050
+      }
+    ],
+    "actores": [
+      {
+        "name": "門脇麦",
+        "id": 1335392,
+        "character": "Watako",
+        "profile_path": "/iDaLuetWYMjCbvug0oDKqf4dJTl.jpg"
+      },
+      {
+        "name": "Shōta Sometani",
+        "id": 1018944,
+        "character": "Kimura",
+        "profile_path": "/sEEfyEfEbd9TQB9gFlvDTQJov76.jpg"
+      },
+      {
+        "name": "田村健太郎",
+        "id": 1610105,
+        "character": "Fuminori",
+        "profile_path": "/pNKVZIuFOpwHimkzSWOMdBDpjOo.jpg"
+      },
+      {
+        "name": "黒木華",
+        "id": 1054260,
+        "character": "Eri",
+        "profile_path": "/rTxASkiwbxohT0UVHORLmECo53Y.jpg"
+      },
+      {
+        "name": "古舘寛治",
+        "id": 1014996,
+        "character": "Tetsuya",
+        "profile_path": "/lDhhTMzBlR9v5XbjOmfilG0PaFj.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 2.7493,
+    "puntuación": 7.0,
+    "votos": 11,
+    "adulto": false,
+    "video": false,
+    "año": "2023",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/ksHloizfhHW08m7PItn3n11LJJ9.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-09-15 22:02:58"
   },
   {
     "id": 1400214,
@@ -3211,7 +3180,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-15 10:02:50"
+    "última_actualización": "2025-09-15 22:02:58"
   },
   {
     "id": 1096642,
@@ -3326,7 +3295,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-15 10:02:51"
+    "última_actualización": "2025-09-15 22:03:02"
   },
   {
     "id": 1453828,
@@ -3419,63 +3388,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:52"
-  },
-  {
-    "id": 1293641,
-    "tmdb_id": 1293641,
-    "título": "El tesoro de Barracuda",
-    "título_original": "El tesoro de Barracuda",
-    "sinopsis": "Mientras intenta encontrar a sus padres, Chispas acaba por accidente en el barco pirata del Capitán Barracuda, tripulado por temibles marineros armados hasta los dientes y con un grave problema: no saben leer. Solo ella puede ayudarles a encontrar el tesoro de Phineas Crane, el más valioso y codiciado por todos los piratas del Caribe. Así comienza una aventura que cambiará sus vidas para siempre.",
-    "poster_path": "/fp8qV16V2iorrDeVXeWcsoSt2W2.jpg",
-    "poster_local": "imagenes_estrenos/El_tesoro_de_Barracuda_fp8qV16V2iorrDeVXeWcsoSt2W2.jpg",
-    "backdrop_path": "/lbNczKJlmxI1TWAuCYsUhqCwX2B.jpg",
-    "backdrop_local": "imagenes_estrenos/El_tesoro_de_Barracuda_backdrop_lbNczKJlmxI1TWAuCYsUhqCwX2B.jpg",
-    "fecha_estreno": "2025-09-26T00:00:00.000Z",
-    "duración": "90 min",
-    "director": "Adrià García",
-    "directores": [
-      {
-        "name": "Adrià García",
-        "id": 96665
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 12,
-        "name": "Aventura"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 0.3004,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/lbNczKJlmxI1TWAuCYsUhqCwX2B.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-09-15 10:02:52"
+    "última_actualización": "2025-09-15 22:03:02"
   },
   {
     "id": 1426968,
@@ -3571,7 +3484,63 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-15 10:02:52"
+    "última_actualización": "2025-09-15 22:03:03"
+  },
+  {
+    "id": 1293641,
+    "tmdb_id": 1293641,
+    "título": "El tesoro de Barracuda",
+    "título_original": "El tesoro de Barracuda",
+    "sinopsis": "Mientras intenta encontrar a sus padres, Chispas acaba por accidente en el barco pirata del Capitán Barracuda, tripulado por temibles marineros armados hasta los dientes y con un grave problema: no saben leer. Solo ella puede ayudarles a encontrar el tesoro de Phineas Crane, el más valioso y codiciado por todos los piratas del Caribe. Así comienza una aventura que cambiará sus vidas para siempre.",
+    "poster_path": "/fp8qV16V2iorrDeVXeWcsoSt2W2.jpg",
+    "poster_local": "imagenes_estrenos/El_tesoro_de_Barracuda_fp8qV16V2iorrDeVXeWcsoSt2W2.jpg",
+    "backdrop_path": "/lbNczKJlmxI1TWAuCYsUhqCwX2B.jpg",
+    "backdrop_local": "imagenes_estrenos/El_tesoro_de_Barracuda_backdrop_lbNczKJlmxI1TWAuCYsUhqCwX2B.jpg",
+    "fecha_estreno": "2025-09-26T00:00:00.000Z",
+    "duración": "90 min",
+    "director": "Adrià García",
+    "directores": [
+      {
+        "name": "Adrià García",
+        "id": 96665
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 0.3004,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/lbNczKJlmxI1TWAuCYsUhqCwX2B.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-09-15 22:03:04"
   },
   {
     "id": 1307648,
@@ -3654,7 +3623,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-15 10:02:53"
+    "última_actualización": "2025-09-15 22:03:05"
   },
   {
     "id": 1536049,
@@ -3737,7 +3706,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-15 10:02:53"
+    "última_actualización": "2025-09-15 22:03:06"
   },
   {
     "id": 1546349,
@@ -3799,7 +3768,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:54"
+    "última_actualización": "2025-09-15 22:03:06"
   },
   {
     "id": 1546391,
@@ -3852,7 +3821,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:54"
+    "última_actualización": "2025-09-15 22:03:07"
   },
   {
     "id": 1431314,
@@ -3921,7 +3890,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-15 10:02:53"
+    "última_actualización": "2025-09-15 22:03:05"
   },
   {
     "id": 1325104,
@@ -3976,7 +3945,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:53"
+    "última_actualización": "2025-09-15 22:03:04"
   },
   {
     "id": 1381107,
@@ -4032,7 +4001,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:54"
+    "última_actualización": "2025-09-15 22:03:06"
   },
   {
     "id": 1149504,
@@ -4096,8 +4065,8 @@
       }
     ],
     "popularidad": 78.0289,
-    "puntuación": 5.7,
-    "votos": 74,
+    "puntuación": 5.673,
+    "votos": 78,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -4176,10 +4145,19 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 986
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/eVZCT05dbBRfMtRvL7tvTFdc9Ah.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:48"
+    "última_actualización": "2025-09-15 22:02:55"
   },
   {
     "id": 760329,
@@ -4322,71 +4300,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:49"
-  },
-  {
-    "id": 1339367,
-    "tmdb_id": 1339367,
-    "título": "Un cabo suelto",
-    "título_original": "Un cabo suelto",
-    "sinopsis": "Santiago, un cabo de la policía argentina, cruza la frontera hacia Uruguay huyendo de otros agentes policiales que lo andan buscando. Valiéndose de su uniforme, va inspeccionando puestos de comida regional, probando lácteos y embutidos para sobrevivir, al tiempo que intenta pasar desapercibido entre los lugareños. Sin dinero ni hospedaje pero con empatía y astucia, comienza a tramar una nueva vida, recibiendo la ayuda de personajes locales que va cruzando en el camino e, incluso, encuentra a quien cree puede ser el amor de su vida.",
-    "poster_path": "/m84j2QvJZ50kYjheyKqQdbpcvSh.jpg",
-    "poster_local": "imagenes_estrenos/Un_cabo_suelto_m84j2QvJZ50kYjheyKqQdbpcvSh.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-10-03T00:00:00.000Z",
-    "duración": "93 min",
-    "director": "Daniel Hendler",
-    "directores": [
-      {
-        "name": "Daniel Hendler",
-        "id": 131867
-      }
-    ],
-    "actores": [
-      {
-        "name": "Sergio Prina",
-        "id": 1171461,
-        "character": "",
-        "profile_path": "/iC7YLuMTKmHBQ9diXwsbEOzRDSj.jpg"
-      },
-      {
-        "name": "Pilar Gamboa",
-        "id": 1086355,
-        "character": "",
-        "profile_path": "/nBhqzOm0SfEskzL3hacEQWhZd5b.jpg"
-      },
-      {
-        "name": "César Troncoso",
-        "id": 54190,
-        "character": "",
-        "profile_path": "/eUbQSEPu2qrIAQ2UMzTXN1Ofq8r.jpg"
-      },
-      {
-        "name": "Mandrake Wolf",
-        "id": 4906301,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Néstor Guzzini",
-        "id": 548835,
-        "character": "",
-        "profile_path": "/sIxuUnMnHGG0Z0ohQYfF3AmI7nw.jpg"
-      }
-    ],
-    "géneros": [],
-    "popularidad": 2.3947,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2025-09-15 10:02:50"
+    "última_actualización": "2025-09-15 22:02:56"
   },
   {
     "id": 1275151,
@@ -4487,66 +4401,66 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-15 10:02:50"
+    "última_actualización": "2025-09-15 22:02:58"
   },
   {
-    "id": 1292315,
-    "tmdb_id": 1292315,
-    "título": "Parecido a un asesinato",
-    "título_original": "Parecido a un asesinato",
-    "sinopsis": "Eva vive un momento feliz, con una nueva pareja, Nazario, escritor de éxito, y su hija, Alicia, una adolescente con la que espera congeniar; por fin tiene una familia que le permitirá olvidar el pasado. Pero no será tan fácil. El horror que sufrió con José, su ex marido, un policía posesivo y violento vuelve para amenazar su paraíso; de nada le servirá esconderse en el refugio de su infancia, nada podrá protegerla. Será un viaje hacia el miedo, hasta un lugar de consecuencias terribles que afectarán a todos. Nada es lo que parece… Todos son testigos de verdades paralelas.",
-    "poster_path": "/tzRbiQOKBHn15ri72EgBeHBLcyH.jpg",
-    "poster_local": "imagenes_estrenos/Parecido_a_un_asesinato_tzRbiQOKBHn15ri72EgBeHBLcyH.jpg",
+    "id": 1339367,
+    "tmdb_id": 1339367,
+    "título": "Un cabo suelto",
+    "título_original": "Un cabo suelto",
+    "sinopsis": "Santiago, un cabo de la policía argentina, cruza la frontera hacia Uruguay huyendo de otros agentes policiales que lo andan buscando. Valiéndose de su uniforme, va inspeccionando puestos de comida regional, probando lácteos y embutidos para sobrevivir, al tiempo que intenta pasar desapercibido entre los lugareños. Sin dinero ni hospedaje pero con empatía y astucia, comienza a tramar una nueva vida, recibiendo la ayuda de personajes locales que va cruzando en el camino e, incluso, encuentra a quien cree puede ser el amor de su vida.",
+    "poster_path": "/m84j2QvJZ50kYjheyKqQdbpcvSh.jpg",
+    "poster_local": "imagenes_estrenos/Un_cabo_suelto_m84j2QvJZ50kYjheyKqQdbpcvSh.jpg",
     "backdrop_path": null,
     "backdrop_local": "",
     "fecha_estreno": "2025-10-03T00:00:00.000Z",
-    "duración": "111 min",
-    "director": "Antonio Hernández",
+    "duración": "93 min",
+    "director": "Daniel Hendler",
     "directores": [
       {
-        "name": "Antonio Hernández",
-        "id": 78996
+        "name": "Daniel Hendler",
+        "id": 131867
       }
     ],
     "actores": [
       {
-        "name": "Blanca Suárez",
-        "id": 106817,
+        "name": "Sergio Prina",
+        "id": 1171461,
         "character": "",
-        "profile_path": "/c0V6SxTJAmhhIj7UVBNRUTPn1Iw.jpg"
+        "profile_path": "/iC7YLuMTKmHBQ9diXwsbEOzRDSj.jpg"
       },
       {
-        "name": "Eduardo Noriega",
-        "id": 17093,
+        "name": "Pilar Gamboa",
+        "id": 1086355,
         "character": "",
-        "profile_path": "/wL2pCdw5lNsDrWRor3rxwLaSTQK.jpg"
+        "profile_path": "/nBhqzOm0SfEskzL3hacEQWhZd5b.jpg"
       },
       {
-        "name": "Tamar Novas",
-        "id": 33411,
+        "name": "César Troncoso",
+        "id": 54190,
         "character": "",
-        "profile_path": "/3MpjB6lxeTUA9EunaV4kAyvOvIG.jpg"
+        "profile_path": "/eUbQSEPu2qrIAQ2UMzTXN1Ofq8r.jpg"
       },
       {
-        "name": "Claudia Mora",
-        "id": 3705593,
+        "name": "Mandrake Wolf",
+        "id": 4906301,
         "character": "",
         "profile_path": null
       },
       {
-        "name": "Marian Álvarez",
-        "id": 592476,
+        "name": "Néstor Guzzini",
+        "id": 548835,
         "character": "",
-        "profile_path": "/1pD1WvFckQ8t6LrovKn8wWkCxvW.jpg"
+        "profile_path": "/sIxuUnMnHGG0Z0ohQYfF3AmI7nw.jpg"
       }
     ],
     "géneros": [
       {
-        "id": 53,
-        "name": "Suspense"
+        "id": 18,
+        "name": "Drama"
       }
     ],
-    "popularidad": 1.6969,
+    "popularidad": 2.3947,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4556,7 +4470,86 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-15 10:02:50"
+    "última_actualización": "2025-09-15 22:02:59"
+  },
+  {
+    "id": 1212880,
+    "tmdb_id": 1212880,
+    "título": "El sueño de Emma",
+    "título_original": "El sueño de Emma",
+    "sinopsis": "Emma (16) y su papá Marcos (48) viven en una casa humilde en el Delta del Tigre, una zona de ríos cercana a Buenos Aires. Emma está ensayando una obra de Shakespeare en el colegio y sueña con viajar a Londres. Un día sucede lo impensado, la maestra le consigue una beca de intercambio cultural con Inglaterra. La idea de estar separados los desarma y juntos tendrán que aprender otra forma posible de amar.",
+    "poster_path": "/7AWFOo8VTo3dQciW3n3SpxH7SVO.jpg",
+    "poster_local": "imagenes_estrenos/El_sue_o_de_Emma_7AWFOo8VTo3dQciW3n3SpxH7SVO.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-10-03T00:00:00.000Z",
+    "duración": "88 min",
+    "director": "Germán Vilche",
+    "directores": [
+      {
+        "name": "Germán Vilche",
+        "id": 2441065
+      }
+    ],
+    "actores": [
+      {
+        "name": "Luthien Ramos",
+        "id": 4772360,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Sebastián Arzeno",
+        "id": 2406318,
+        "character": "",
+        "profile_path": "/9eK44lgu8hTJSnssFUVU1QGIvuB.jpg"
+      },
+      {
+        "name": "Verónica Intile",
+        "id": 1575136,
+        "character": "",
+        "profile_path": "/sRp23LuwPgbcsVGCmA6gVoXIVEG.jpg"
+      },
+      {
+        "name": "Luis Ziembrowski",
+        "id": 1028444,
+        "character": "",
+        "profile_path": "/8ePSSKG8Kjf6ZEnANnWhCXwu6Jv.jpg"
+      },
+      {
+        "name": "Lautaro Murray",
+        "id": 2695845,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.7379,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.706,
+          "height": 1024,
+          "iso_639_1": null,
+          "file_path": "/7AWFOo8VTo3dQciW3n3SpxH7SVO.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 723
+        }
+      ]
+    },
+    "última_actualización": "2025-09-15 22:03:00"
   },
   {
     "id": 1228322,
@@ -4675,66 +4668,66 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-15 10:02:51"
+    "última_actualización": "2025-09-15 22:03:01"
   },
   {
-    "id": 1212880,
-    "tmdb_id": 1212880,
-    "título": "El sueño de Emma",
-    "título_original": "El sueño de Emma",
-    "sinopsis": "Emma (16) y su papá Marcos (48) viven en una casa humilde en el Delta del Tigre, una zona de ríos cercana a Buenos Aires. Emma está ensayando una obra de Shakespeare en el colegio y sueña con viajar a Londres. Un día sucede lo impensado, la maestra le consigue una beca de intercambio cultural con Inglaterra. La idea de estar separados los desarma y juntos tendrán que aprender otra forma posible de amar.",
-    "poster_path": "/7AWFOo8VTo3dQciW3n3SpxH7SVO.jpg",
-    "poster_local": "imagenes_estrenos/El_sue_o_de_Emma_7AWFOo8VTo3dQciW3n3SpxH7SVO.jpg",
+    "id": 1292315,
+    "tmdb_id": 1292315,
+    "título": "Parecido a un asesinato",
+    "título_original": "Parecido a un asesinato",
+    "sinopsis": "Eva vive un momento feliz, con una nueva pareja, Nazario, escritor de éxito, y su hija, Alicia, una adolescente con la que espera congeniar; por fin tiene una familia que le permitirá olvidar el pasado. Pero no será tan fácil. El horror que sufrió con José, su ex marido, un policía posesivo y violento vuelve para amenazar su paraíso; de nada le servirá esconderse en el refugio de su infancia, nada podrá protegerla. Será un viaje hacia el miedo, hasta un lugar de consecuencias terribles que afectarán a todos. Nada es lo que parece… Todos son testigos de verdades paralelas.",
+    "poster_path": "/tzRbiQOKBHn15ri72EgBeHBLcyH.jpg",
+    "poster_local": "imagenes_estrenos/Parecido_a_un_asesinato_tzRbiQOKBHn15ri72EgBeHBLcyH.jpg",
     "backdrop_path": null,
     "backdrop_local": "",
     "fecha_estreno": "2025-10-03T00:00:00.000Z",
-    "duración": "88 min",
-    "director": "Germán Vilche",
+    "duración": "111 min",
+    "director": "Antonio Hernández",
     "directores": [
       {
-        "name": "Germán Vilche",
-        "id": 2441065
+        "name": "Antonio Hernández",
+        "id": 78996
       }
     ],
     "actores": [
       {
-        "name": "Luthien Ramos",
-        "id": 4772360,
+        "name": "Blanca Suárez",
+        "id": 106817,
+        "character": "",
+        "profile_path": "/c0V6SxTJAmhhIj7UVBNRUTPn1Iw.jpg"
+      },
+      {
+        "name": "Eduardo Noriega",
+        "id": 17093,
+        "character": "",
+        "profile_path": "/wL2pCdw5lNsDrWRor3rxwLaSTQK.jpg"
+      },
+      {
+        "name": "Tamar Novas",
+        "id": 33411,
+        "character": "",
+        "profile_path": "/3MpjB6lxeTUA9EunaV4kAyvOvIG.jpg"
+      },
+      {
+        "name": "Claudia Mora",
+        "id": 3705593,
         "character": "",
         "profile_path": null
       },
       {
-        "name": "Sebastián Arzeno",
-        "id": 2406318,
+        "name": "Marian Álvarez",
+        "id": 592476,
         "character": "",
-        "profile_path": "/9eK44lgu8hTJSnssFUVU1QGIvuB.jpg"
-      },
-      {
-        "name": "Verónica Intile",
-        "id": 1575136,
-        "character": "",
-        "profile_path": "/sRp23LuwPgbcsVGCmA6gVoXIVEG.jpg"
-      },
-      {
-        "name": "Luis Ziembrowski",
-        "id": 1028444,
-        "character": "",
-        "profile_path": "/8ePSSKG8Kjf6ZEnANnWhCXwu6Jv.jpg"
-      },
-      {
-        "name": "Lautaro Murray",
-        "id": 2695845,
-        "character": "",
-        "profile_path": null
+        "profile_path": "/1pD1WvFckQ8t6LrovKn8wWkCxvW.jpg"
       }
     ],
     "géneros": [
       {
-        "id": 18,
-        "name": "Drama"
+        "id": 53,
+        "name": "Suspense"
       }
     ],
-    "popularidad": 1.7379,
+    "popularidad": 1.6969,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4742,19 +4735,9 @@
     "año": "2025",
     "imágenes": {
       "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.706,
-          "height": 1024,
-          "iso_639_1": null,
-          "file_path": "/7AWFOo8VTo3dQciW3n3SpxH7SVO.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 723
-        }
-      ]
+      "posters": []
     },
-    "última_actualización": "2025-09-15 10:02:51"
+    "última_actualización": "2025-09-15 22:03:01"
   },
   {
     "id": 1193115,
@@ -4818,7 +4801,7 @@
       }
     ],
     "popularidad": 1.0976,
-    "puntuación": 5.908,
+    "puntuación": 5.9,
     "votos": 38,
     "adulto": false,
     "video": false,
@@ -4874,7 +4857,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:51"
+    "última_actualización": "2025-09-15 22:03:02"
   },
   {
     "id": 1520850,
@@ -4920,7 +4903,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-15 10:02:52"
+    "última_actualización": "2025-09-15 22:03:03"
   },
   {
     "id": 1485539,
@@ -4973,7 +4956,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:52"
+    "última_actualización": "2025-09-15 22:03:03"
   },
   {
     "id": 1025389,
@@ -5052,7 +5035,52 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-15 10:02:53"
+    "última_actualización": "2025-09-15 22:03:04"
+  },
+  {
+    "id": 1459349,
+    "tmdb_id": 1459349,
+    "título": "Pasionaria. Dolores Ibárruri",
+    "título_original": "Pasionaria. Dolores Ibárruri",
+    "sinopsis": "Una visión profunda y humanizada de Dolores Ibárruri, Pasionaria, presidenta del Partido Comunista de España y una de las figuras políticas más icónicas del siglo XX. Una biografía emocional, vinculada a los grandes acontecimientos históricos y su impacto en la sociedad. Dolores y su nieta, Lola, nos conducirán por los caminos más íntimos del amor, las nostalgias, las pérdidas y las soledades. Acompañada de una selección de documentos, poesía y música, que le añaden una dimensión íntima y emocional al relato.",
+    "poster_path": "/alGg8fNE4G8yQTgvCp1HYFL70Rf.jpg",
+    "poster_local": "imagenes_estrenos/Pasionaria__Dolores_Ib_rruri_alGg8fNE4G8yQTgvCp1HYFL70Rf.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-10-03T00:00:00.000Z",
+    "duración": "80 min",
+    "director": "Amparo Climent",
+    "directores": [
+      {
+        "name": "Amparo Climent",
+        "id": 1436448
+      }
+    ],
+    "actores": [
+      {
+        "name": "Dolores Ibárruri",
+        "id": 994268,
+        "character": "",
+        "profile_path": "/3JTP5Fd9jpQf2ZwU5hedYDCpS5W.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0954,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-09-15 22:03:05"
   },
   {
     "id": 1512711,
@@ -5125,52 +5153,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-15 10:02:53"
-  },
-  {
-    "id": 1459349,
-    "tmdb_id": 1459349,
-    "título": "Pasionaria. Dolores Ibárruri",
-    "título_original": "Pasionaria. Dolores Ibárruri",
-    "sinopsis": "Una visión profunda y humanizada de Dolores Ibárruri, Pasionaria, presidenta del Partido Comunista de España y una de las figuras políticas más icónicas del siglo XX. Una biografía emocional, vinculada a los grandes acontecimientos históricos y su impacto en la sociedad. Dolores y su nieta, Lola, nos conducirán por los caminos más íntimos del amor, las nostalgias, las pérdidas y las soledades. Acompañada de una selección de documentos, poesía y música, que le añaden una dimensión íntima y emocional al relato.",
-    "poster_path": "/alGg8fNE4G8yQTgvCp1HYFL70Rf.jpg",
-    "poster_local": "imagenes_estrenos/Pasionaria__Dolores_Ib_rruri_alGg8fNE4G8yQTgvCp1HYFL70Rf.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-10-03T00:00:00.000Z",
-    "duración": "80 min",
-    "director": "Amparo Climent",
-    "directores": [
-      {
-        "name": "Amparo Climent",
-        "id": 1436448
-      }
-    ],
-    "actores": [
-      {
-        "name": "Dolores Ibárruri",
-        "id": 994268,
-        "character": "",
-        "profile_path": "/3JTP5Fd9jpQf2ZwU5hedYDCpS5W.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.0954,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2025-09-15 10:02:54"
+    "última_actualización": "2025-09-15 22:03:05"
   },
   {
     "id": 1509184,
@@ -5257,6 +5240,79 @@
         }
       ]
     },
-    "última_actualización": "2025-09-15 10:02:53"
+    "última_actualización": "2025-09-15 22:03:04"
+  },
+  {
+    "id": 1025388,
+    "tmdb_id": 1025388,
+    "título": "Aro berria",
+    "título_original": "Aro berria",
+    "sinopsis": "",
+    "poster_path": "/2jTqc6aNRe81XiPpKgoMHkYGm6j.jpg",
+    "poster_local": "imagenes_estrenos/Aro_berria_2jTqc6aNRe81XiPpKgoMHkYGm6j.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-11-28T00:00:00.000Z",
+    "duración": "110 min",
+    "director": "Irati Gorostidi",
+    "directores": [
+      {
+        "name": "Irati Gorostidi",
+        "id": 1708407
+      }
+    ],
+    "actores": [
+      {
+        "name": "Maite Mugerza",
+        "id": 5659230,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Óscar Pascual López",
+        "id": 5659231,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Edurne Azkarate",
+        "id": 3586088,
+        "character": "",
+        "profile_path": "/a2m6FMPziFIOshAoZMfJ5pDms2I.jpg"
+      },
+      {
+        "name": "Aimar Uribesalgo",
+        "id": 5659232,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Natalia Suárez",
+        "id": 4080807,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.8272,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-09-15 22:02:59"
   }
 ]
