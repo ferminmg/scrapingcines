@@ -202,6 +202,45 @@
         "año": "2025"
     },
     {
+        "título": "Eddington",
+        "cartel": "imagenes_peliculas/tmdb_eddington.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-19",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95763&eventCode=101297"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Ari Aster",
+        "duración": "149 min",
+        "actores": "Joaquin Phoenix, Deirdre O'Connell, Emma Stone, Micheal Ward, Pedro Pascal",
+        "sinopsis": "En mayo de 2020, la disputa entre el sheriff de un pequeño pueblo y su alcalde prende un auténtico polvorín al enfrentar a los vecinos de Eddington, Nuevo México.",
+        "año": "2025"
+    },
+    {
+        "título": "Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita",
+        "cartel": "imagenes_peliculas/tmdb_guardianes_de_la_noche_kimetsu_no_yaiba__la_fortaleza_infinita.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-19",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95774&eventCode=100372"
+            },
+            {
+                "fecha": "2025-09-19",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95775&eventCode=100372"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Haruo Sotozaki",
+        "duración": "155 min",
+        "actores": "Natsuki Hanae, Hiro Shimono, Takahiro Sakurai, Akira Ishida, Yoshitsugu Matsuoka",
+        "sinopsis": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+        "año": "2025"
+    },
+    {
         "título": "Blue Sun Palace",
         "cartel": "imagenes_peliculas/tmdb_blue_sun_palace.jpg",
         "horarios": [
