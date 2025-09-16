@@ -4,16 +4,6 @@
         "cartel": "imagenes_filmaffinity/tmdb_guardianes-de-la-noche-la-fortaleza-infinita.jpg",
         "horarios": [
             {
-                "fecha": "2025-09-16",
-                "hora": "20:40",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=21097"
-            },
-            {
-                "fecha": "2025-09-16",
-                "hora": "22:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=20284"
-            },
-            {
                 "fecha": "2025-09-17",
                 "hora": "17:40",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=21116"
@@ -212,28 +202,6 @@
         "año": "2025"
     },
     {
-        "título": "Expediente Warren: El último rito",
-        "cartel": "imagenes_filmaffinity/tmdb_expediente-warren-el-ultimo-rito.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-09-16",
-                "hora": "21:05",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=21104"
-            },
-            {
-                "fecha": "2025-09-23",
-                "hora": "21:20",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=21356"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Michael Chaves",
-        "duración": "135 min",
-        "actores": "Vera Farmiga, Patrick Wilson, Mia Tomlinson, Ben Hardy, Rebecca Calder",
-        "sinopsis": "Los investigadores de lo paranormal Ed y Lorraine Warren se enfrentan a un último caso aterrador en el que están implicadas entidades misteriosas a las que deben enfrentarse.",
-        "año": "2025"
-    },
-    {
         "título": "Un gran viaje atrevido y maravilloso",
         "cartel": "imagenes_filmaffinity/tmdb_un-gran-viaje-atrevido-y-maravilloso.jpg",
         "horarios": [
@@ -248,6 +216,23 @@
         "duración": "109 min",
         "actores": "Colin Farrell, Margot Robbie, Kevin Kline, Phoebe Waller-Bridge, Lily Rabe",
         "sinopsis": "Sarah y David son dos solteros que se conocen en la boda de un amigo común y, pronto, por un sorprendente giro del destino, se embarcan en Un gran viaje atrevido y maravilloso, una aventura divertida, fantástica y arrolladora en la que reviven juntos momentos importantes de sus respectivos pasados, descubriendo cómo han llegado a donde están.",
+        "año": "2025"
+    },
+    {
+        "título": "Expediente Warren: El último rito",
+        "cartel": "imagenes_filmaffinity/tmdb_expediente-warren-el-ultimo-rito.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-23",
+                "hora": "21:20",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=21356"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Michael Chaves",
+        "duración": "135 min",
+        "actores": "Vera Farmiga, Patrick Wilson, Mia Tomlinson, Ben Hardy, Rebecca Calder",
+        "sinopsis": "Los investigadores de lo paranormal Ed y Lorraine Warren se enfrentan a un último caso aterrador en el que están implicadas entidades misteriosas a las que deben enfrentarse.",
         "año": "2025"
     },
     {
