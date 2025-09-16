@@ -5,16 +5,6 @@
         "horarios": [
             {
                 "fecha": "2025-09-16",
-                "hora": "17:40",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=21095"
-            },
-            {
-                "fecha": "2025-09-16",
-                "hora": "19:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=20285"
-            },
-            {
-                "fecha": "2025-09-16",
                 "hora": "20:40",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=21097"
             },
@@ -361,5 +351,27 @@
         "actores": "",
         "sinopsis": "",
         "año": ""
+    },
+    {
+        "título": "Depeche Mode: M",
+        "cartel": "imagenes_filmaffinity/tmdb_depeche-mode-m.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-10-28",
+                "hora": "20:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=21412"
+            },
+            {
+                "fecha": "2025-10-30",
+                "hora": "20:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=21413"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Luis Fernando Frías de la Parra",
+        "duración": "95 min",
+        "actores": "Dave Gahan, Martin Gore",
+        "sinopsis": "",
+        "año": "2025"
     }
 ]

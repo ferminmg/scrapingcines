@@ -6,7 +6,7 @@
             {
                 "fecha": "2025-09-16",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95713&eventCode=101297"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -23,12 +23,12 @@
             {
                 "fecha": "2025-09-16",
                 "hora": "18:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95721&eventCode=100372"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2025-09-16",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95722&eventCode=100372"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -45,7 +45,7 @@
             {
                 "fecha": "2025-09-16",
                 "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95715&eventCode=99517"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -241,13 +241,210 @@
         "año": "2025"
     },
     {
+        "título": "Eddington",
+        "cartel": "imagenes_peliculas/tmdb_eddington.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-20",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95781&eventCode=101297"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Ari Aster",
+        "duración": "149 min",
+        "actores": "Joaquin Phoenix, Deirdre O'Connell, Emma Stone, Micheal Ward, Pedro Pascal",
+        "sinopsis": "En mayo de 2020, la disputa entre el sheriff de un pequeño pueblo y su alcalde prende un auténtico polvorín al enfrentar a los vecinos de Eddington, Nuevo México.",
+        "año": "2025"
+    },
+    {
+        "título": "Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita",
+        "cartel": "imagenes_peliculas/tmdb_guardianes_de_la_noche_kimetsu_no_yaiba__la_fortaleza_infinita.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-20",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95792&eventCode=100372"
+            },
+            {
+                "fecha": "2025-09-20",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95793&eventCode=100372"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Haruo Sotozaki",
+        "duración": "155 min",
+        "actores": "Natsuki Hanae, Hiro Shimono, Takahiro Sakurai, Akira Ishida, Yoshitsugu Matsuoka",
+        "sinopsis": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+        "año": "2025"
+    },
+    {
+        "título": "Eddington",
+        "cartel": "imagenes_peliculas/tmdb_eddington.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-21",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95799&eventCode=101297"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Ari Aster",
+        "duración": "149 min",
+        "actores": "Joaquin Phoenix, Deirdre O'Connell, Emma Stone, Micheal Ward, Pedro Pascal",
+        "sinopsis": "En mayo de 2020, la disputa entre el sheriff de un pequeño pueblo y su alcalde prende un auténtico polvorín al enfrentar a los vecinos de Eddington, Nuevo México.",
+        "año": "2025"
+    },
+    {
+        "título": "Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita",
+        "cartel": "imagenes_peliculas/tmdb_guardianes_de_la_noche_kimetsu_no_yaiba__la_fortaleza_infinita.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-21",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95810&eventCode=100372"
+            },
+            {
+                "fecha": "2025-09-21",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95811&eventCode=100372"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Haruo Sotozaki",
+        "duración": "155 min",
+        "actores": "Natsuki Hanae, Hiro Shimono, Takahiro Sakurai, Akira Ishida, Yoshitsugu Matsuoka",
+        "sinopsis": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+        "año": "2025"
+    },
+    {
+        "título": "Eddington",
+        "cartel": "imagenes_peliculas/tmdb_eddington.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-22",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95817&eventCode=101297"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Ari Aster",
+        "duración": "149 min",
+        "actores": "Joaquin Phoenix, Deirdre O'Connell, Emma Stone, Micheal Ward, Pedro Pascal",
+        "sinopsis": "En mayo de 2020, la disputa entre el sheriff de un pequeño pueblo y su alcalde prende un auténtico polvorín al enfrentar a los vecinos de Eddington, Nuevo México.",
+        "año": "2025"
+    },
+    {
+        "título": "Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita",
+        "cartel": "imagenes_peliculas/tmdb_guardianes_de_la_noche_kimetsu_no_yaiba__la_fortaleza_infinita.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-22",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95829&eventCode=100372"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Haruo Sotozaki",
+        "duración": "155 min",
+        "actores": "Natsuki Hanae, Hiro Shimono, Takahiro Sakurai, Akira Ishida, Yoshitsugu Matsuoka",
+        "sinopsis": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+        "año": "2025"
+    },
+    {
+        "título": "Eddington",
+        "cartel": "imagenes_peliculas/tmdb_eddington.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-23",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95836&eventCode=101297"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Ari Aster",
+        "duración": "149 min",
+        "actores": "Joaquin Phoenix, Deirdre O'Connell, Emma Stone, Micheal Ward, Pedro Pascal",
+        "sinopsis": "En mayo de 2020, la disputa entre el sheriff de un pequeño pueblo y su alcalde prende un auténtico polvorín al enfrentar a los vecinos de Eddington, Nuevo México.",
+        "año": "2025"
+    },
+    {
+        "título": "Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita",
+        "cartel": "imagenes_peliculas/tmdb_guardianes_de_la_noche_kimetsu_no_yaiba__la_fortaleza_infinita.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-23",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95846&eventCode=100372"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Haruo Sotozaki",
+        "duración": "155 min",
+        "actores": "Natsuki Hanae, Hiro Shimono, Takahiro Sakurai, Akira Ishida, Yoshitsugu Matsuoka",
+        "sinopsis": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+        "año": "2025"
+    },
+    {
+        "título": "Eddington",
+        "cartel": "imagenes_peliculas/tmdb_eddington.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-24",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95853&eventCode=101297"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Ari Aster",
+        "duración": "149 min",
+        "actores": "Joaquin Phoenix, Deirdre O'Connell, Emma Stone, Micheal Ward, Pedro Pascal",
+        "sinopsis": "En mayo de 2020, la disputa entre el sheriff de un pequeño pueblo y su alcalde prende un auténtico polvorín al enfrentar a los vecinos de Eddington, Nuevo México.",
+        "año": "2025"
+    },
+    {
+        "título": "Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita",
+        "cartel": "imagenes_peliculas/tmdb_guardianes_de_la_noche_kimetsu_no_yaiba__la_fortaleza_infinita.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-24",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95863&eventCode=100372"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Haruo Sotozaki",
+        "duración": "155 min",
+        "actores": "Natsuki Hanae, Hiro Shimono, Takahiro Sakurai, Akira Ishida, Yoshitsugu Matsuoka",
+        "sinopsis": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+        "año": "2025"
+    },
+    {
+        "título": "Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita",
+        "cartel": "imagenes_peliculas/tmdb_guardianes_de_la_noche_kimetsu_no_yaiba__la_fortaleza_infinita.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-25",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95869&eventCode=100372"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Haruo Sotozaki",
+        "duración": "155 min",
+        "actores": "Natsuki Hanae, Hiro Shimono, Takahiro Sakurai, Akira Ishida, Yoshitsugu Matsuoka",
+        "sinopsis": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+        "año": "2025"
+    },
+    {
         "título": "Blue Sun Palace",
         "cartel": "imagenes_peliculas/tmdb_blue_sun_palace.jpg",
         "horarios": [
             {
                 "fecha": "2025-09-16",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86945&eventCode=99927"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -264,7 +461,7 @@
             {
                 "fecha": "2025-09-16",
                 "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=86944&eventCode=99921"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -343,18 +540,137 @@
         "año": "2024"
     },
     {
+        "título": "On Falling",
+        "cartel": "imagenes_peliculas/tmdb_on_falling.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-19",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87031&eventCode=101489"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura Carreira",
+        "duración": "101 min",
+        "actores": "Joana Santos, Inês Vaz, Olga Prokopenko, Billy Reid, Neil Leiper",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "On Falling",
+        "cartel": "imagenes_peliculas/tmdb_on_falling.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-20",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87014&eventCode=101489"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura Carreira",
+        "duración": "101 min",
+        "actores": "Joana Santos, Inês Vaz, Olga Prokopenko, Billy Reid, Neil Leiper",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "On Falling",
+        "cartel": "imagenes_peliculas/tmdb_on_falling.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-21",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87106&eventCode=101489"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura Carreira",
+        "duración": "101 min",
+        "actores": "Joana Santos, Inês Vaz, Olga Prokopenko, Billy Reid, Neil Leiper",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "On Falling",
+        "cartel": "imagenes_peliculas/tmdb_on_falling.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-22",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87046&eventCode=101489"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura Carreira",
+        "duración": "101 min",
+        "actores": "Joana Santos, Inês Vaz, Olga Prokopenko, Billy Reid, Neil Leiper",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "On Falling",
+        "cartel": "imagenes_peliculas/tmdb_on_falling.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-23",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87061&eventCode=101489"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura Carreira",
+        "duración": "101 min",
+        "actores": "Joana Santos, Inês Vaz, Olga Prokopenko, Billy Reid, Neil Leiper",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "On Falling",
+        "cartel": "imagenes_peliculas/tmdb_on_falling.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-24",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87076&eventCode=101489"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura Carreira",
+        "duración": "101 min",
+        "actores": "Joana Santos, Inês Vaz, Olga Prokopenko, Billy Reid, Neil Leiper",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "On Falling",
+        "cartel": "imagenes_peliculas/tmdb_on_falling.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-25",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87091&eventCode=101489"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura Carreira",
+        "duración": "101 min",
+        "actores": "Joana Santos, Inês Vaz, Olga Prokopenko, Billy Reid, Neil Leiper",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
         "título": "Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita",
         "cartel": "imagenes_peliculas/tmdb_guardianes_de_la_noche_kimetsu_no_yaiba__la_fortaleza_infinita.jpg",
         "horarios": [
             {
                 "fecha": "2025-09-16",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=214691&eventCode=100372"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2025-09-16",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215112&eventCode=100372"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem La Morea",
@@ -399,6 +715,195 @@
                 "fecha": "2025-09-18",
                 "hora": "21:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215058&eventCode=100372"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": "Haruo Sotozaki",
+        "duración": "155 min",
+        "actores": "Natsuki Hanae, Hiro Shimono, Takahiro Sakurai, Akira Ishida, Yoshitsugu Matsuoka",
+        "sinopsis": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+        "año": "2025"
+    },
+    {
+        "título": "Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita",
+        "cartel": "imagenes_peliculas/tmdb_guardianes_de_la_noche_kimetsu_no_yaiba__la_fortaleza_infinita.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-19",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215169&eventCode=100372"
+            },
+            {
+                "fecha": "2025-09-19",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215163&eventCode=100372"
+            },
+            {
+                "fecha": "2025-09-19",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215192&eventCode=100372"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": "Haruo Sotozaki",
+        "duración": "155 min",
+        "actores": "Natsuki Hanae, Hiro Shimono, Takahiro Sakurai, Akira Ishida, Yoshitsugu Matsuoka",
+        "sinopsis": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+        "año": "2025"
+    },
+    {
+        "título": "Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita",
+        "cartel": "imagenes_peliculas/tmdb_guardianes_de_la_noche_kimetsu_no_yaiba__la_fortaleza_infinita.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-20",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215203&eventCode=100372"
+            },
+            {
+                "fecha": "2025-09-20",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215197&eventCode=100372"
+            },
+            {
+                "fecha": "2025-09-20",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215226&eventCode=100372"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": "Haruo Sotozaki",
+        "duración": "155 min",
+        "actores": "Natsuki Hanae, Hiro Shimono, Takahiro Sakurai, Akira Ishida, Yoshitsugu Matsuoka",
+        "sinopsis": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+        "año": "2025"
+    },
+    {
+        "título": "Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita",
+        "cartel": "imagenes_peliculas/tmdb_guardianes_de_la_noche_kimetsu_no_yaiba__la_fortaleza_infinita.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-21",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215237&eventCode=100372"
+            },
+            {
+                "fecha": "2025-09-21",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215231&eventCode=100372"
+            },
+            {
+                "fecha": "2025-09-21",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215260&eventCode=100372"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": "Haruo Sotozaki",
+        "duración": "155 min",
+        "actores": "Natsuki Hanae, Hiro Shimono, Takahiro Sakurai, Akira Ishida, Yoshitsugu Matsuoka",
+        "sinopsis": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+        "año": "2025"
+    },
+    {
+        "título": "Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita",
+        "cartel": "imagenes_peliculas/tmdb_guardianes_de_la_noche_kimetsu_no_yaiba__la_fortaleza_infinita.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-22",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215270&eventCode=100372"
+            },
+            {
+                "fecha": "2025-09-22",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215265&eventCode=100372"
+            },
+            {
+                "fecha": "2025-09-22",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215271&eventCode=100372"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": "Haruo Sotozaki",
+        "duración": "155 min",
+        "actores": "Natsuki Hanae, Hiro Shimono, Takahiro Sakurai, Akira Ishida, Yoshitsugu Matsuoka",
+        "sinopsis": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+        "año": "2025"
+    },
+    {
+        "título": "Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita",
+        "cartel": "imagenes_peliculas/tmdb_guardianes_de_la_noche_kimetsu_no_yaiba__la_fortaleza_infinita.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-23",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215300&eventCode=100372"
+            },
+            {
+                "fecha": "2025-09-23",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215295&eventCode=100372"
+            },
+            {
+                "fecha": "2025-09-23",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215301&eventCode=100372"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": "Haruo Sotozaki",
+        "duración": "155 min",
+        "actores": "Natsuki Hanae, Hiro Shimono, Takahiro Sakurai, Akira Ishida, Yoshitsugu Matsuoka",
+        "sinopsis": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+        "año": "2025"
+    },
+    {
+        "título": "Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita",
+        "cartel": "imagenes_peliculas/tmdb_guardianes_de_la_noche_kimetsu_no_yaiba__la_fortaleza_infinita.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-24",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215330&eventCode=100372"
+            },
+            {
+                "fecha": "2025-09-24",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215325&eventCode=100372"
+            },
+            {
+                "fecha": "2025-09-24",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215331&eventCode=100372"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": "Haruo Sotozaki",
+        "duración": "155 min",
+        "actores": "Natsuki Hanae, Hiro Shimono, Takahiro Sakurai, Akira Ishida, Yoshitsugu Matsuoka",
+        "sinopsis": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+        "año": "2025"
+    },
+    {
+        "título": "Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita",
+        "cartel": "imagenes_peliculas/tmdb_guardianes_de_la_noche_kimetsu_no_yaiba__la_fortaleza_infinita.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-25",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215360&eventCode=100372"
+            },
+            {
+                "fecha": "2025-09-25",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215355&eventCode=100372"
+            },
+            {
+                "fecha": "2025-09-25",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215361&eventCode=100372"
             }
         ],
         "cine": "Golem La Morea",
