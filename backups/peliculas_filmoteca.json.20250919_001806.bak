@@ -28,5 +28,35 @@
             }
         ],
         "cine": "Filmoteca de Navarra"
+    },
+    {
+        "título": "Verano del 42 (Summer of 42, EEUU, 1971)",
+        "cartel": "imagenes_filmoteca/tmdb_Verano_del_42__Summer_of__42__EEUU__1971_.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-18",
+                "hora": "19:30",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Filmoteca de Navarra",
+        "tmdb_id": 41357,
+        "director": "Robert Mulligan",
+        "duración": "102 min",
+        "actores": "Jennifer O'Neill, Gary Grimes, Jerry Houser, Oliver Conant, Katherine Allentuck",
+        "sinopsis": "Han pasado muchos años desde que Hernie pasó sus vacaciones con sus amigos Oscy y Benji en una isla de Nueva Inglaterra. Todavía recuerda aquel verano, en plena Segunda Guerra Mundial (1939-1945), en el que se enamoró de una atractiva mujer mucho mayor que él.",
+        "año": "1971"
+    },
+    {
+        "título": "Verano del 42 (Summer of 42, EEUU, 1971)",
+        "cartel": "imagenes_filmoteca/Verano_del_42__Summer_of__42__EEUU__1971_.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-18",
+                "hora": "19:30",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Filmoteca de Navarra"
     }
 ]
