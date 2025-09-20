@@ -1,0 +1,55 @@
+2025-09-20 08:06:12,735 - INFO - Iniciando proceso de scraping
+2025-09-20 08:06:12,737 - INFO - Posts existentes encontrados: 2443
+2025-09-20 08:06:12,737 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-09-20 08:06:15,545 - INFO - Se encontraron 10 posts
+2025-09-20 08:06:15,546 - INFO - Comenzando extracción de información del post
+2025-09-20 08:06:15,547 - INFO - Título del post: EL CAUTIVO de Alejandro Amenábar
+2025-09-20 08:06:15,547 - INFO - Fecha del post: 2025-09-20T09:17:35+02:00
+2025-09-20 08:06:15,547 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/09/critica-de-el-cautivo-de-alejandro-amenabar.html
+2025-09-20 08:06:17,041 - INFO - Contenido extraído y estructurado (3396 caracteres)
+2025-09-20 08:06:17,043 - INFO - Guardando post en: posts/EL_CAUTIVO_2025-09-20.json
+2025-09-20 08:06:17,043 - INFO - Post guardado exitosamente
+2025-09-20 08:06:17,043 - INFO - Actualizando índice de películas
+2025-09-20 08:06:17,043 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-09-20 08:06:17,047 - INFO - Índice existente cargado con 2544 películas
+2025-09-20 08:06:17,058 - INFO - Película agregada al índice: EL CAUTIVO
+2025-09-20 08:06:17,059 - INFO - Nuevo post guardado: EL CAUTIVO de Alejandro Amenábar
+2025-09-20 08:06:17,059 - INFO - Comenzando extracción de información del post
+2025-09-20 08:06:17,059 - INFO - Título del post: EDDINGTON de Ari Aster
+2025-09-20 08:06:17,059 - INFO - Fecha del post: 2025-09-20T09:11:22+02:00
+2025-09-20 08:06:17,059 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/09/critica-de-eddington-de-ari-aster.html
+2025-09-20 08:06:18,515 - INFO - Contenido extraído y estructurado (2660 caracteres)
+2025-09-20 08:06:18,517 - INFO - Guardando post en: posts/EDDINGTON_2025-09-20.json
+2025-09-20 08:06:18,517 - INFO - Post guardado exitosamente
+2025-09-20 08:06:18,517 - INFO - Actualizando índice de películas
+2025-09-20 08:06:18,517 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-09-20 08:06:18,520 - INFO - Índice existente cargado con 2545 películas
+2025-09-20 08:06:18,532 - INFO - Película agregada al índice: EDDINGTON
+2025-09-20 08:06:18,532 - INFO - Nuevo post guardado: EDDINGTON de Ari Aster
+2025-09-20 08:06:18,532 - INFO - Comenzando extracción de información del post
+2025-09-20 08:06:18,532 - INFO - Título del post: JONE, A VECES de Sara Fantoya
+2025-09-20 08:06:18,532 - INFO - Fecha del post: 2025-09-20T09:05:10+02:00
+2025-09-20 08:06:18,533 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/09/critica-de-jone-batzuetan-de-sara-fantoya.html
+2025-09-20 08:06:20,262 - INFO - Contenido extraído y estructurado (2649 caracteres)
+2025-09-20 08:06:20,263 - INFO - Guardando post en: posts/JONE,_A_VECES_2025-09-20.json
+2025-09-20 08:06:20,263 - INFO - Post guardado exitosamente
+2025-09-20 08:06:20,263 - INFO - Actualizando índice de películas
+2025-09-20 08:06:20,263 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-09-20 08:06:20,267 - INFO - Índice existente cargado con 2546 películas
+2025-09-20 08:06:20,278 - INFO - Película agregada al índice: JONE, A VECES
+2025-09-20 08:06:20,278 - INFO - Nuevo post guardado: JONE, A VECES de Sara Fantoya
+2025-09-20 08:06:20,278 - INFO - Comenzando extracción de información del post
+2025-09-20 08:06:20,278 - INFO - Post ya existente, saltando: LA LEY DE JENNY PEN de James Ashcroft
+2025-09-20 08:06:20,278 - INFO - Comenzando extracción de información del post
+2025-09-20 08:06:20,279 - INFO - Post ya existente, saltando: APRIL de Dea Kulumbegashvilis
+2025-09-20 08:06:20,279 - INFO - Comenzando extracción de información del post
+2025-09-20 08:06:20,279 - INFO - Post ya existente, saltando: 13 DÍAS, 13 NOCHES de Martin Bourboulon
+2025-09-20 08:06:20,279 - INFO - Comenzando extracción de información del post
+2025-09-20 08:06:20,279 - INFO - Post ya existente, saltando: ROMERÍA de Carla Simón
+2025-09-20 08:06:20,279 - INFO - Comenzando extracción de información del post
+2025-09-20 08:06:20,279 - INFO - Post ya existente, saltando: LA TIERRA NEGRA de Alberto Morais
+2025-09-20 08:06:20,279 - INFO - Comenzando extracción de información del post
+2025-09-20 08:06:20,279 - INFO - Post ya existente, saltando: AMOR EN CUATRO LETRAS de Polly Steele
+2025-09-20 08:06:20,279 - INFO - Comenzando extracción de información del post
+2025-09-20 08:06:20,280 - INFO - Post ya existente, saltando: EL VOLCÁN de Damian Kocur
+2025-09-20 08:06:20,280 - INFO - Proceso completado. Posts nuevos guardados: 3
