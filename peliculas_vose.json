@@ -23,7 +23,7 @@
             {
                 "fecha": "2025-09-23",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95836&eventCode=101297"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -40,7 +40,7 @@
             {
                 "fecha": "2025-09-23",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95846&eventCode=100372"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -136,13 +136,196 @@
         "año": "2025"
     },
     {
+        "título": "Maspalomas",
+        "cartel": "imagenes_peliculas/tmdb_maspalomas.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-26",
+                "hora": "17:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95909&eventCode=101497"
+            },
+            {
+                "fecha": "2025-09-26",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95910&eventCode=101497"
+            },
+            {
+                "fecha": "2025-09-26",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95911&eventCode=101497"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Aitor Arregi, Jose Mari Goenaga",
+        "duración": "115 min",
+        "actores": "José Ramón Soroiz, Nagore Aranburu, Kandido Uranga, Zorion Eguileor, Kepa Errasti",
+        "sinopsis": "Vicente es un señor mayor abiertamente homosexual que, cuando es ingresado en una residencia, opta por volver al armario.",
+        "año": "2025"
+    },
+    {
+        "título": "Una batalla tras otra",
+        "cartel": "imagenes_peliculas/tmdb_una_batalla_tras_otra.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-26",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95899&eventCode=100784"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Paul Thomas Anderson",
+        "duración": "162 min",
+        "actores": "Leonardo DiCaprio, Sean Penn, Chase Infiniti, Benicio del Toro, Regina Hall",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Eddington",
+        "cartel": "imagenes_peliculas/tmdb_eddington.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-26",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95908&eventCode=101297"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Ari Aster",
+        "duración": "149 min",
+        "actores": "Joaquin Phoenix, Deirdre O'Connell, Emma Stone, Micheal Ward, Pedro Pascal",
+        "sinopsis": "En mayo de 2020, la disputa entre el sheriff de un pequeño pueblo y su alcalde prende un auténtico polvorín al enfrentar a los vecinos de Eddington, Nuevo México.",
+        "año": "2025"
+    },
+    {
+        "título": "Maspalomas",
+        "cartel": "imagenes_peliculas/tmdb_maspalomas.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-27",
+                "hora": "17:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95926&eventCode=101497"
+            },
+            {
+                "fecha": "2025-09-27",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95927&eventCode=101497"
+            },
+            {
+                "fecha": "2025-09-27",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95928&eventCode=101497"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Aitor Arregi, Jose Mari Goenaga",
+        "duración": "115 min",
+        "actores": "José Ramón Soroiz, Nagore Aranburu, Kandido Uranga, Zorion Eguileor, Kepa Errasti",
+        "sinopsis": "Vicente es un señor mayor abiertamente homosexual que, cuando es ingresado en una residencia, opta por volver al armario.",
+        "año": "2025"
+    },
+    {
+        "título": "Una batalla tras otra",
+        "cartel": "imagenes_peliculas/tmdb_una_batalla_tras_otra.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-27",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95916&eventCode=100784"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Paul Thomas Anderson",
+        "duración": "162 min",
+        "actores": "Leonardo DiCaprio, Sean Penn, Chase Infiniti, Benicio del Toro, Regina Hall",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Eddington",
+        "cartel": "imagenes_peliculas/tmdb_eddington.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-27",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95925&eventCode=101297"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Ari Aster",
+        "duración": "149 min",
+        "actores": "Joaquin Phoenix, Deirdre O'Connell, Emma Stone, Micheal Ward, Pedro Pascal",
+        "sinopsis": "En mayo de 2020, la disputa entre el sheriff de un pequeño pueblo y su alcalde prende un auténtico polvorín al enfrentar a los vecinos de Eddington, Nuevo México.",
+        "año": "2025"
+    },
+    {
+        "título": "Maspalomas",
+        "cartel": "imagenes_peliculas/tmdb_maspalomas.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-28",
+                "hora": "17:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95943&eventCode=101497"
+            },
+            {
+                "fecha": "2025-09-28",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95944&eventCode=101497"
+            },
+            {
+                "fecha": "2025-09-28",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95945&eventCode=101497"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Aitor Arregi, Jose Mari Goenaga",
+        "duración": "115 min",
+        "actores": "José Ramón Soroiz, Nagore Aranburu, Kandido Uranga, Zorion Eguileor, Kepa Errasti",
+        "sinopsis": "Vicente es un señor mayor abiertamente homosexual que, cuando es ingresado en una residencia, opta por volver al armario.",
+        "año": "2025"
+    },
+    {
+        "título": "Una batalla tras otra",
+        "cartel": "imagenes_peliculas/tmdb_una_batalla_tras_otra.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-28",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95933&eventCode=100784"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Paul Thomas Anderson",
+        "duración": "162 min",
+        "actores": "Leonardo DiCaprio, Sean Penn, Chase Infiniti, Benicio del Toro, Regina Hall",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Eddington",
+        "cartel": "imagenes_peliculas/tmdb_eddington.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-28",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=95942&eventCode=101297"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Ari Aster",
+        "duración": "149 min",
+        "actores": "Joaquin Phoenix, Deirdre O'Connell, Emma Stone, Micheal Ward, Pedro Pascal",
+        "sinopsis": "En mayo de 2020, la disputa entre el sheriff de un pequeño pueblo y su alcalde prende un auténtico polvorín al enfrentar a los vecinos de Eddington, Nuevo México.",
+        "año": "2025"
+    },
+    {
         "título": "La primera escuela",
         "cartel": "imagenes_peliculas/tmdb_la_primera_escuela.jpg",
         "horarios": [
             {
                 "fecha": "2025-09-23",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87065&eventCode=101485"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -159,7 +342,7 @@
             {
                 "fecha": "2025-09-23",
                 "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87061&eventCode=101489"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -238,23 +421,261 @@
         "año": "2025"
     },
     {
+        "título": "La primera escuela",
+        "cartel": "imagenes_peliculas/tmdb_la_primera_escuela.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-26",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87141&eventCode=101485"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Éric Besnard",
+        "duración": "107 min",
+        "actores": "Alexandra Lamy, Grégory Gadebois, Jérôme Kircher, Jérémy Lopez, Patrick Pineau",
+        "sinopsis": "Francia, finales del siglo XIX. Louise Violet es una profesora parisina, enviada a la campiña francesa. En un lugar donde la vida cotidiana está ligada a las estaciones, la tierra y los cultivos, primero deberá convencer a los habitantes para que envíen a sus hijos a la escuela. Con la ayuda del alcalde, los padres y sus hijos acaban por aceptarla. Pero pronto, su pasado la alcanza. A pesar de los obstáculos, la señorita Violet se entregará en cuerpo y alma a su creencia: la educación es la clave de la libertad.",
+        "año": "2024"
+    },
+    {
+        "título": "On Falling",
+        "cartel": "imagenes_peliculas/tmdb_on_falling.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-26",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87142&eventCode=101489"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura Carreira",
+        "duración": "101 min",
+        "actores": "Joana Santos, Inês Vaz, Olga Prokopenko, Billy Reid, Neil Leiper",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La primera escuela",
+        "cartel": "imagenes_peliculas/tmdb_la_primera_escuela.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-27",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87125&eventCode=101485"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Éric Besnard",
+        "duración": "107 min",
+        "actores": "Alexandra Lamy, Grégory Gadebois, Jérôme Kircher, Jérémy Lopez, Patrick Pineau",
+        "sinopsis": "Francia, finales del siglo XIX. Louise Violet es una profesora parisina, enviada a la campiña francesa. En un lugar donde la vida cotidiana está ligada a las estaciones, la tierra y los cultivos, primero deberá convencer a los habitantes para que envíen a sus hijos a la escuela. Con la ayuda del alcalde, los padres y sus hijos acaban por aceptarla. Pero pronto, su pasado la alcanza. A pesar de los obstáculos, la señorita Violet se entregará en cuerpo y alma a su creencia: la educación es la clave de la libertad.",
+        "año": "2024"
+    },
+    {
+        "título": "On Falling",
+        "cartel": "imagenes_peliculas/tmdb_on_falling.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-27",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87126&eventCode=101489"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura Carreira",
+        "duración": "101 min",
+        "actores": "Joana Santos, Inês Vaz, Olga Prokopenko, Billy Reid, Neil Leiper",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La primera escuela",
+        "cartel": "imagenes_peliculas/tmdb_la_primera_escuela.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-28",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87154&eventCode=101485"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Éric Besnard",
+        "duración": "107 min",
+        "actores": "Alexandra Lamy, Grégory Gadebois, Jérôme Kircher, Jérémy Lopez, Patrick Pineau",
+        "sinopsis": "Francia, finales del siglo XIX. Louise Violet es una profesora parisina, enviada a la campiña francesa. En un lugar donde la vida cotidiana está ligada a las estaciones, la tierra y los cultivos, primero deberá convencer a los habitantes para que envíen a sus hijos a la escuela. Con la ayuda del alcalde, los padres y sus hijos acaban por aceptarla. Pero pronto, su pasado la alcanza. A pesar de los obstáculos, la señorita Violet se entregará en cuerpo y alma a su creencia: la educación es la clave de la libertad.",
+        "año": "2024"
+    },
+    {
+        "título": "On Falling",
+        "cartel": "imagenes_peliculas/tmdb_on_falling.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-28",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87155&eventCode=101489"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura Carreira",
+        "duración": "101 min",
+        "actores": "Joana Santos, Inês Vaz, Olga Prokopenko, Billy Reid, Neil Leiper",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La primera escuela",
+        "cartel": "imagenes_peliculas/tmdb_la_primera_escuela.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-29",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87169&eventCode=101485"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Éric Besnard",
+        "duración": "107 min",
+        "actores": "Alexandra Lamy, Grégory Gadebois, Jérôme Kircher, Jérémy Lopez, Patrick Pineau",
+        "sinopsis": "Francia, finales del siglo XIX. Louise Violet es una profesora parisina, enviada a la campiña francesa. En un lugar donde la vida cotidiana está ligada a las estaciones, la tierra y los cultivos, primero deberá convencer a los habitantes para que envíen a sus hijos a la escuela. Con la ayuda del alcalde, los padres y sus hijos acaban por aceptarla. Pero pronto, su pasado la alcanza. A pesar de los obstáculos, la señorita Violet se entregará en cuerpo y alma a su creencia: la educación es la clave de la libertad.",
+        "año": "2024"
+    },
+    {
+        "título": "On Falling",
+        "cartel": "imagenes_peliculas/tmdb_on_falling.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-29",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87170&eventCode=101489"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura Carreira",
+        "duración": "101 min",
+        "actores": "Joana Santos, Inês Vaz, Olga Prokopenko, Billy Reid, Neil Leiper",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La primera escuela",
+        "cartel": "imagenes_peliculas/tmdb_la_primera_escuela.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-30",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87184&eventCode=101485"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Éric Besnard",
+        "duración": "107 min",
+        "actores": "Alexandra Lamy, Grégory Gadebois, Jérôme Kircher, Jérémy Lopez, Patrick Pineau",
+        "sinopsis": "Francia, finales del siglo XIX. Louise Violet es una profesora parisina, enviada a la campiña francesa. En un lugar donde la vida cotidiana está ligada a las estaciones, la tierra y los cultivos, primero deberá convencer a los habitantes para que envíen a sus hijos a la escuela. Con la ayuda del alcalde, los padres y sus hijos acaban por aceptarla. Pero pronto, su pasado la alcanza. A pesar de los obstáculos, la señorita Violet se entregará en cuerpo y alma a su creencia: la educación es la clave de la libertad.",
+        "año": "2024"
+    },
+    {
+        "título": "On Falling",
+        "cartel": "imagenes_peliculas/tmdb_on_falling.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-30",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87185&eventCode=101489"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura Carreira",
+        "duración": "101 min",
+        "actores": "Joana Santos, Inês Vaz, Olga Prokopenko, Billy Reid, Neil Leiper",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La primera escuela",
+        "cartel": "imagenes_peliculas/tmdb_la_primera_escuela.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-10-01",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87199&eventCode=101485"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Éric Besnard",
+        "duración": "107 min",
+        "actores": "Alexandra Lamy, Grégory Gadebois, Jérôme Kircher, Jérémy Lopez, Patrick Pineau",
+        "sinopsis": "Francia, finales del siglo XIX. Louise Violet es una profesora parisina, enviada a la campiña francesa. En un lugar donde la vida cotidiana está ligada a las estaciones, la tierra y los cultivos, primero deberá convencer a los habitantes para que envíen a sus hijos a la escuela. Con la ayuda del alcalde, los padres y sus hijos acaban por aceptarla. Pero pronto, su pasado la alcanza. A pesar de los obstáculos, la señorita Violet se entregará en cuerpo y alma a su creencia: la educación es la clave de la libertad.",
+        "año": "2024"
+    },
+    {
+        "título": "On Falling",
+        "cartel": "imagenes_peliculas/tmdb_on_falling.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-10-01",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87200&eventCode=101489"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura Carreira",
+        "duración": "101 min",
+        "actores": "Joana Santos, Inês Vaz, Olga Prokopenko, Billy Reid, Neil Leiper",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La primera escuela",
+        "cartel": "imagenes_peliculas/tmdb_la_primera_escuela.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-10-02",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87214&eventCode=101485"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Éric Besnard",
+        "duración": "107 min",
+        "actores": "Alexandra Lamy, Grégory Gadebois, Jérôme Kircher, Jérémy Lopez, Patrick Pineau",
+        "sinopsis": "Francia, finales del siglo XIX. Louise Violet es una profesora parisina, enviada a la campiña francesa. En un lugar donde la vida cotidiana está ligada a las estaciones, la tierra y los cultivos, primero deberá convencer a los habitantes para que envíen a sus hijos a la escuela. Con la ayuda del alcalde, los padres y sus hijos acaban por aceptarla. Pero pronto, su pasado la alcanza. A pesar de los obstáculos, la señorita Violet se entregará en cuerpo y alma a su creencia: la educación es la clave de la libertad.",
+        "año": "2024"
+    },
+    {
+        "título": "On Falling",
+        "cartel": "imagenes_peliculas/tmdb_on_falling.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-10-02",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87215&eventCode=101489"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura Carreira",
+        "duración": "101 min",
+        "actores": "Joana Santos, Inês Vaz, Olga Prokopenko, Billy Reid, Neil Leiper",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
         "título": "Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita",
         "cartel": "imagenes_peliculas/tmdb_guardianes_de_la_noche_kimetsu_no_yaiba__la_fortaleza_infinita.jpg",
         "horarios": [
             {
                 "fecha": "2025-09-23",
                 "hora": "18:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215300&eventCode=100372"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2025-09-23",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215295&eventCode=100372"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2025-09-23",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=215301&eventCode=100372"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem La Morea",
