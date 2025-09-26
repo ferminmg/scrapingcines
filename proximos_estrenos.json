@@ -1,5 +1,80 @@
 [
   {
+    "id": 1425458,
+    "tmdb_id": 1425458,
+    "título": "Gallina",
+    "título_original": "Gallina",
+    "sinopsis": "Paraguay, 1999. El país atraviesa un período de agitación política y social. Una mañana, Ramón, un campesino empobrecido, recibe una petición inesperada de su esposa: sacrificar a su última gallina y a su fiel mascota para poder cenar esa noche.",
+    "poster_path": "/lVVUrpudhUuvAb6dPm4WrEMbVsB.jpg",
+    "poster_local": "imagenes_estrenos/Gallina_lVVUrpudhUuvAb6dPm4WrEMbVsB.jpg",
+    "backdrop_path": "/hnV1goL2wMNhP1qdWOsaOr7gcE7.jpg",
+    "backdrop_local": "imagenes_estrenos/Gallina_backdrop_hnV1goL2wMNhP1qdWOsaOr7gcE7.jpg",
+    "fecha_estreno": "2024-08-14T00:00:00.000Z",
+    "duración": "13 min",
+    "director": "Ana Arza",
+    "directores": [
+      {
+        "name": "Ana Arza",
+        "id": 4274346
+      }
+    ],
+    "actores": [
+      {
+        "name": "Mario Toñánez",
+        "id": 1781206,
+        "character": "Ramón",
+        "profile_path": null
+      },
+      {
+        "name": "Ana Ivanova",
+        "id": 1910292,
+        "character": "María",
+        "profile_path": "/kT9AL9N1zwi4gksDPdLXGAThbpx.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.1316,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/hnV1goL2wMNhP1qdWOsaOr7gcE7.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 1536,
+          "iso_639_1": null,
+          "file_path": "/lVVUrpudhUuvAb6dPm4WrEMbVsB.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1075
+        }
+      ]
+    },
+    "última_actualización": "2025-09-26 10:03:11"
+  },
+  {
     "id": 1388490,
     "tmdb_id": 1388490,
     "título": "Filmei paxaros voando",
@@ -60,7 +135,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 0.0168,
+    "popularidad": 0.0143,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -90,7 +165,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:33"
+    "última_actualización": "2025-09-26 10:03:18"
   },
   {
     "id": 1535761,
@@ -147,7 +222,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 0.0621,
+    "popularidad": 0.0557,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -177,7 +252,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:32"
+    "última_actualización": "2025-09-26 10:03:13"
   },
   {
     "id": 1483887,
@@ -228,7 +303,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.1604,
+    "popularidad": 0.151,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -258,7 +333,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:31"
+    "última_actualización": "2025-09-26 10:03:11"
   },
   {
     "id": 1548684,
@@ -2255,7 +2330,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.7622,
+    "popularidad": 0.5985,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2294,7 +2369,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:29"
+    "última_actualización": "2025-09-26 10:03:07"
   },
   {
     "id": 1021954,
@@ -2357,7 +2432,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 0.2703,
+    "popularidad": 0.3089,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2377,7 +2452,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-25 22:02:30"
+    "última_actualización": "2025-09-26 10:03:09"
   },
   {
     "id": 1486212,
@@ -2422,7 +2497,7 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 0.2208,
+    "popularidad": 0.1894,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2452,7 +2527,93 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:31"
+    "última_actualización": "2025-09-26 10:03:10"
+  },
+  {
+    "id": 1552392,
+    "tmdb_id": 1552392,
+    "título": "Sad Girl Summer",
+    "título_original": "Sad Girl Summer",
+    "sinopsis": "Después de que su padre desapareciera sin previo aviso, sumiendo a Grecia en la desolación, encuentra refugio en la compañía de Amanda, una adolescente alborotada y rebelde. A pesar de su corta edad, la conexión entre ellas se convierte en una inesperada amistad que las sumerge en un torbellino de emociones; emociones intensas. Juntas, exploran un mundo lleno de contrastes, donde el brillo y las lágrimas se mezclan con el aroma del tabaco y la crudeza de las experiencias. Este viaje marcado por la complicidad les lleva por caminos intrincados hacia la madurez.",
+    "poster_path": "/bZPWdMgmz8AMReFao9n3e91QZKY.jpg",
+    "poster_local": "imagenes_estrenos/Sad_Girl_Summer_bZPWdMgmz8AMReFao9n3e91QZKY.jpg",
+    "backdrop_path": "/9pC7cn8Z2sbtydq3HnJKIrksofq.jpg",
+    "backdrop_local": "imagenes_estrenos/Sad_Girl_Summer_backdrop_9pC7cn8Z2sbtydq3HnJKIrksofq.jpg",
+    "fecha_estreno": "2025-10-01",
+    "duración": "10 min",
+    "director": "Roberta Chávez",
+    "directores": [
+      {
+        "name": "Roberta Chávez",
+        "id": 5711600
+      }
+    ],
+    "actores": [
+      {
+        "name": "Josefa Aravena",
+        "id": 5711809,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Luz Ottone",
+        "id": 2782919,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Paco Miranda",
+        "id": 5711810,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.0071,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/9pC7cn8Z2sbtydq3HnJKIrksofq.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_639_1": null,
+          "file_path": "/bZPWdMgmz8AMReFao9n3e91QZKY.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 500
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_639_1": null,
+          "file_path": "/81wt4u3hrRKRzAG99qijyKHnowH.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2025-09-26 10:03:20"
   },
   {
     "id": 1325104,
@@ -2487,7 +2648,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 0.0887,
+    "popularidad": 0.1161,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2507,7 +2668,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:32"
+    "última_actualización": "2025-09-26 10:03:12"
   },
   {
     "id": 1448698,
@@ -2560,7 +2721,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.0538,
+    "popularidad": 0.0416,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2580,7 +2741,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-25 22:02:33"
+    "última_actualización": "2025-09-26 10:03:13"
   },
   {
     "id": 1381107,
@@ -2616,7 +2777,7 @@
       }
     ],
     "géneros": [],
-    "popularidad": 0.053,
+    "popularidad": 0.0493,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2636,7 +2797,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:33"
+    "última_actualización": "2025-09-26 10:03:14"
   },
   {
     "id": 1530366,
@@ -2699,7 +2860,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 0.4063,
+    "popularidad": 0.4641,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2729,7 +2890,248 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:30"
+    "última_actualización": "2025-09-26 10:03:08"
+  },
+  {
+    "id": 1499952,
+    "tmdb_id": 1499952,
+    "título": "Mexillonaria",
+    "título_original": "Mexillonaria",
+    "sinopsis": "El mejillón en Galicia tiene carácter propio. Consumido desde la época Edad de hierro hasta nuestros días, marcando un punto de inflexión con la llegada de las primeras embarcaciones a la Ría de Arousa hacia 1945. En esta época pasa de una recolección rústica y primaria a transformarse en cultivo, convirtiéndose en el motor económico para muchas localidades costeras.",
+    "poster_path": "/8nTBNnFbYwiJUE2xZcHBinA7mjI.jpg",
+    "poster_local": "imagenes_estrenos/Mexillonaria_8nTBNnFbYwiJUE2xZcHBinA7mjI.jpg",
+    "backdrop_path": "/zuNeav3AhZQQaN9Z6X7BXYsyoFi.jpg",
+    "backdrop_local": "imagenes_estrenos/Mexillonaria_backdrop_zuNeav3AhZQQaN9Z6X7BXYsyoFi.jpg",
+    "fecha_estreno": "2025-10-02",
+    "duración": "15 min",
+    "director": "Pablo Chouza",
+    "directores": [
+      {
+        "name": "Pablo Chouza",
+        "id": 5511791
+      }
+    ],
+    "actores": [
+      {
+        "name": "Celia Herbón",
+        "id": 5511780,
+        "character": "Moza bateeira - Self",
+        "profile_path": null
+      },
+      {
+        "name": "Flora Fernández",
+        "id": 5511781,
+        "character": "Bateeira retirada - Self",
+        "profile_path": null
+      },
+      {
+        "name": "Gerardo Triñanes",
+        "id": 5511787,
+        "character": "Carpinteiro naval en madeira - Self",
+        "profile_path": null
+      },
+      {
+        "name": "Xocas Rubido",
+        "id": 5511789,
+        "character": "Self",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0239,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.777,
+          "height": 1080,
+          "iso_639_1": null,
+          "file_path": "/zuNeav3AhZQQaN9Z6X7BXYsyoFi.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1919
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.707,
+          "height": 2829,
+          "iso_639_1": null,
+          "file_path": "/8nTBNnFbYwiJUE2xZcHBinA7mjI.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-09-26 10:03:15"
+  },
+  {
+    "id": 1408705,
+    "tmdb_id": 1408705,
+    "título": "The Boy Who Cheated Death",
+    "título_original": "The Boy Who Cheated Death",
+    "sinopsis": "En un mundo en el que la realidad y la imaginación se difuminan, Syd, un pequeño niño de ocho años, intenta esconder a su madre de la Muerte. Se embarcan en un juego de escondite como criaturas de la Tierra, siendo la Muerte su implacable depredadora. Syd lucha con la fragilidad de su madre, mientras el poder de la Muerte crece cada vez más. En un momento, se abrazan y aceptan su destino.",
+    "poster_path": "/qvwF1wP5y7WuPFcaDQkDFqxeX1G.jpg",
+    "poster_local": "imagenes_estrenos/The_Boy_Who_Cheated_Death_qvwF1wP5y7WuPFcaDQkDFqxeX1G.jpg",
+    "backdrop_path": "/6Ge6K8EB9O0rjyKcEXBQIxW0x6L.jpg",
+    "backdrop_local": "imagenes_estrenos/The_Boy_Who_Cheated_Death_backdrop_6Ge6K8EB9O0rjyKcEXBQIxW0x6L.jpg",
+    "fecha_estreno": "2025-10-02",
+    "duración": "5 min",
+    "director": "Pipou Phuong Nguyen",
+    "directores": [
+      {
+        "name": "Pipou Phuong Nguyen",
+        "id": 5145278
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "popularidad": 0.0512,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_639_1": null,
+          "file_path": "/6Ge6K8EB9O0rjyKcEXBQIxW0x6L.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_639_1": null,
+          "file_path": "/qvwF1wP5y7WuPFcaDQkDFqxeX1G.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        },
+        {
+          "aspect_ratio": 0.75,
+          "height": 1066,
+          "iso_639_1": null,
+          "file_path": "/2HOg9TnuS6vbJuJIiUQsgsplf3m.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 800
+        }
+      ]
+    },
+    "última_actualización": "2025-09-26 10:03:18"
+  },
+  {
+    "id": 1552385,
+    "tmdb_id": 1552385,
+    "título": "Polvo de ángel",
+    "título_original": "Polvo de ángel",
+    "sinopsis": "Sora tiene un día tumultuoso que la deja marcada: su exnovio la engaña diciéndole que está enfermo y, cuando va a cuidarlo, sufre un ataque. Conmocionada, intenta distraerse saliendo de fiesta con sus amigos, pero la dejan sola al final de la noche.",
+    "poster_path": "/cVDRiqR5bHZ1XMbHrtH3JxwiWLS.jpg",
+    "poster_local": "imagenes_estrenos/Polvo_de__ngel_cVDRiqR5bHZ1XMbHrtH3JxwiWLS.jpg",
+    "backdrop_path": "/eD5qCg8XWvbIRmsXmToAMNS86v5.jpg",
+    "backdrop_local": "imagenes_estrenos/Polvo_de__ngel_backdrop_eD5qCg8XWvbIRmsXmToAMNS86v5.jpg",
+    "fecha_estreno": "2025-10-02",
+    "duración": "15 min",
+    "director": "Miguel Varela",
+    "directores": [
+      {
+        "name": "Miguel Varela",
+        "id": 5273798
+      }
+    ],
+    "actores": [
+      {
+        "name": "Rosa de la Torre",
+        "id": 5711586,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Lázaro Mur",
+        "id": 1156199,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "DJ Valentina Izumi",
+        "id": 5711588,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Aitor Sánchez",
+        "id": 5711590,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 0.0143,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_639_1": null,
+          "file_path": "/eD5qCg8XWvbIRmsXmToAMNS86v5.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_639_1": null,
+          "file_path": "/cVDRiqR5bHZ1XMbHrtH3JxwiWLS.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2025-09-26 10:03:19"
   },
   {
     "id": 1502960,
@@ -2776,7 +3178,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.0502,
+    "popularidad": 0.0762,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2796,7 +3198,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:33"
+    "última_actualización": "2025-09-26 10:03:14"
   },
   {
     "id": 1149504,
@@ -2859,9 +3261,9 @@
         "name": "Crimen"
       }
     ],
-    "popularidad": 20.6512,
-    "puntuación": 5.796,
-    "votos": 120,
+    "popularidad": 18.9892,
+    "puntuación": 5.8,
+    "votos": 122,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2952,7 +3354,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:25"
+    "última_actualización": "2025-09-26 10:03:01"
   },
   {
     "id": 760329,
@@ -3011,7 +3413,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 10.3628,
+    "popularidad": 10.201,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3113,7 +3515,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:26"
+    "última_actualización": "2025-09-26 10:03:02"
   },
   {
     "id": 1275151,
@@ -3176,7 +3578,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 4.4175,
+    "popularidad": 4.2546,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3214,7 +3616,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-25 22:02:26"
+    "última_actualización": "2025-09-26 10:03:03"
   },
   {
     "id": 1339367,
@@ -3273,7 +3675,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.6249,
+    "popularidad": 2.6117,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3293,7 +3695,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-25 22:02:27"
+    "última_actualización": "2025-09-26 10:03:03"
   },
   {
     "id": 1228322,
@@ -3356,7 +3758,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 1.883,
+    "popularidad": 1.8581,
     "puntuación": 5.991,
     "votos": 57,
     "adulto": false,
@@ -3412,7 +3814,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-25 22:02:27"
+    "última_actualización": "2025-09-26 10:03:04"
   },
   {
     "id": 1212880,
@@ -3471,7 +3873,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.5751,
+    "popularidad": 1.7935,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3491,7 +3893,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:28"
+    "última_actualización": "2025-09-26 10:03:05"
   },
   {
     "id": 1193115,
@@ -3554,7 +3956,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 1.3093,
+    "popularidad": 1.0154,
     "puntuación": 5.908,
     "votos": 38,
     "adulto": false,
@@ -3611,7 +4013,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:28"
+    "última_actualización": "2025-09-26 10:03:06"
   },
   {
     "id": 1292315,
@@ -3670,7 +4072,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 1.0999,
+    "popularidad": 0.9292,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3680,7 +4082,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-25 22:02:29"
+    "última_actualización": "2025-09-26 10:03:07"
   },
   {
     "id": 1520850,
@@ -3716,7 +4118,7 @@
       }
     ],
     "géneros": [],
-    "popularidad": 0.7805,
+    "popularidad": 0.944,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3726,7 +4128,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-25 22:02:29"
+    "última_actualización": "2025-09-26 10:03:07"
   },
   {
     "id": 1485539,
@@ -3749,7 +4151,7 @@
         "name": "Animación"
       }
     ],
-    "popularidad": 0.4334,
+    "popularidad": 0.4515,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3779,7 +4181,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:29"
+    "última_actualización": "2025-09-26 10:03:08"
   },
   {
     "id": 1025389,
@@ -3838,7 +4240,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.3104,
+    "popularidad": 0.3861,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3858,7 +4260,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-25 22:02:30"
+    "última_actualización": "2025-09-26 10:03:09"
   },
   {
     "id": 1512711,
@@ -3921,7 +4323,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.2662,
+    "popularidad": 0.2431,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3931,7 +4333,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-25 22:02:30"
+    "última_actualización": "2025-09-26 10:03:09"
   },
   {
     "id": 1459349,
@@ -3966,7 +4368,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.1124,
+    "popularidad": 0.0831,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3976,7 +4378,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-25 22:02:31"
+    "última_actualización": "2025-09-26 10:03:12"
   },
   {
     "id": 1409631,
@@ -4023,7 +4425,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.0544,
+    "popularidad": 0.0343,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4033,7 +4435,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-25 22:02:32"
+    "última_actualización": "2025-09-26 10:03:13"
   },
   {
     "id": 1367212,
@@ -4100,7 +4502,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:34"
+    "última_actualización": "2025-09-26 10:03:19"
   },
   {
     "id": 1509184,
@@ -4167,7 +4569,7 @@
         "name": "Crimen"
       }
     ],
-    "popularidad": 0.1488,
+    "popularidad": 0.1132,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4187,7 +4589,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:31"
+    "última_actualización": "2025-09-26 10:03:11"
   },
   {
     "id": 1549177,
@@ -4280,7 +4682,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:33"
+    "última_actualización": "2025-09-26 10:03:14"
   },
   {
     "id": 1289936,
@@ -4343,7 +4745,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 21.8303,
+    "popularidad": 20.5571,
     "puntuación": 7.9,
     "votos": 39,
     "adulto": false,
@@ -4436,7 +4838,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:25"
+    "última_actualización": "2025-09-26 10:03:00"
   },
   {
     "id": 533533,
@@ -4503,7 +4905,7 @@
         "name": "Acción"
       }
     ],
-    "popularidad": 14.7998,
+    "popularidad": 18.3075,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4605,7 +5007,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:25"
+    "última_actualización": "2025-09-26 10:03:01"
   },
   {
     "id": 1245993,
@@ -4672,9 +5074,9 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 14.6087,
+    "popularidad": 13.9841,
     "puntuación": 6.94,
-    "votos": 199,
+    "votos": 200,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -4774,7 +5176,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:25"
+    "última_actualización": "2025-09-26 10:03:01"
   },
   {
     "id": 1374686,
@@ -4849,7 +5251,7 @@
         "name": "Música"
       }
     ],
-    "popularidad": 6.8795,
+    "popularidad": 6.5175,
     "puntuación": 10.0,
     "votos": 3,
     "adulto": false,
@@ -4915,7 +5317,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:26"
+    "última_actualización": "2025-09-26 10:03:02"
   },
   {
     "id": 1049942,
@@ -4978,7 +5380,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 4.098,
+    "popularidad": 3.9976,
     "puntuación": 6.3,
     "votos": 50,
     "adulto": false,
@@ -5062,7 +5464,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:26"
+    "última_actualización": "2025-09-26 10:03:03"
   },
   {
     "id": 1324019,
@@ -5129,7 +5531,7 @@
         "name": "Animación"
       }
     ],
-    "popularidad": 2.4398,
+    "popularidad": 2.1956,
     "puntuación": 6.3,
     "votos": 3,
     "adulto": false,
@@ -5158,7 +5560,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-25 22:02:27"
+    "última_actualización": "2025-09-26 10:03:03"
   },
   {
     "id": 1495245,
@@ -5211,7 +5613,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.7729,
+    "popularidad": 1.6651,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -5231,7 +5633,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:28"
+    "última_actualización": "2025-09-26 10:03:05"
   },
   {
     "id": 1434973,
@@ -5294,7 +5696,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 1.2044,
+    "popularidad": 0.9549,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -5314,7 +5716,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:28"
+    "última_actualización": "2025-09-26 10:03:06"
   },
   {
     "id": 1375306,
@@ -5373,7 +5775,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 1.1993,
+    "popularidad": 1.1643,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -5383,7 +5785,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-25 22:02:28"
+    "última_actualización": "2025-09-26 10:03:06"
   },
   {
     "id": 1318339,
@@ -5436,7 +5838,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.1082,
+    "popularidad": 1.1315,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -5456,7 +5858,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:29"
+    "última_actualización": "2025-09-26 10:03:07"
   },
   {
     "id": 1255674,
@@ -5513,7 +5915,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 0.3106,
+    "popularidad": 0.3006,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -5543,7 +5945,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:30"
+    "última_actualización": "2025-09-26 10:03:08"
   },
   {
     "id": 1319478,
@@ -5602,7 +6004,7 @@
         "name": "Animación"
       }
     ],
-    "popularidad": 0.2473,
+    "popularidad": 0.2513,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -5622,7 +6024,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-25 22:02:30"
+    "última_actualización": "2025-09-26 10:03:09"
   },
   {
     "id": 1550915,
@@ -5709,7 +6111,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-25 22:02:33"
+    "última_actualización": "2025-09-26 10:03:16"
   },
   {
     "id": 1271055,
@@ -5732,7 +6134,7 @@
     ],
     "actores": [],
     "géneros": [],
-    "popularidad": 0.1124,
+    "popularidad": 0.0651,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -5770,7 +6172,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:32"
+    "última_actualización": "2025-09-26 10:03:12"
   },
   {
     "id": 1284120,
@@ -5841,9 +6243,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 66.8438,
-    "puntuación": 7.2,
-    "votos": 402,
+    "popularidad": 63.7922,
+    "puntuación": 7.236,
+    "votos": 404,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -5925,7 +6327,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:25"
+    "última_actualización": "2025-09-26 10:03:00"
   },
   {
     "id": 842924,
@@ -5988,9 +6390,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 16.2187,
-    "puntuación": 7.372,
-    "votos": 392,
+    "popularidad": 14.9928,
+    "puntuación": 7.373,
+    "votos": 395,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -6090,7 +6492,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:25"
+    "última_actualización": "2025-09-26 10:03:01"
   },
   {
     "id": 1280282,
@@ -6139,11 +6541,19 @@
       {
         "name": "Eduardo Franco",
         "id": 1653235,
-        "character": "Daniel James \"DJ\" Catnip (voice)",
+        "character": "Daniel James 'DJ' Catnip (voice)",
         "profile_path": "/mbGv6DB2JR4DbmoTwfvy5wKToRo.jpg"
       }
     ],
     "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
       {
         "id": 10751,
         "name": "Familia"
@@ -6151,19 +6561,11 @@
       {
         "id": 35,
         "name": "Comedia"
-      },
-      {
-        "id": 12,
-        "name": "Aventura"
-      },
-      {
-        "id": 16,
-        "name": "Animación"
       }
     ],
-    "popularidad": 10.8274,
-    "puntuación": 1.0,
-    "votos": 1,
+    "popularidad": 12.5115,
+    "puntuación": 4.7,
+    "votos": 3,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -6245,7 +6647,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:26"
+    "última_actualización": "2025-09-26 10:03:01"
   },
   {
     "id": 1408208,
@@ -6312,7 +6714,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 10.0244,
+    "popularidad": 9.6226,
     "puntuación": 6.2,
     "votos": 48,
     "adulto": false,
@@ -6387,7 +6789,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:26"
+    "última_actualización": "2025-09-26 10:03:02"
   },
   {
     "id": 896536,
@@ -6454,7 +6856,7 @@
         "name": "Aventura"
       }
     ],
-    "popularidad": 9.719,
+    "popularidad": 10.151,
     "puntuación": 6.287,
     "votos": 195,
     "adulto": false,
@@ -6556,7 +6958,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:26"
+    "última_actualización": "2025-09-26 10:03:02"
   },
   {
     "id": 1265063,
@@ -6619,7 +7021,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 5.2497,
+    "popularidad": 5.2334,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -6640,7 +7042,7 @@
           "aspect_ratio": 1.778,
           "height": 2160,
           "iso_639_1": null,
-          "file_path": "/AohITmzWdR86ex2hssdTw2P7gbe.jpg",
+          "file_path": "/fmlBcsE2py3L3mVIhJjallXG2Ck.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 3840
@@ -6685,7 +7087,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:26"
+    "última_actualización": "2025-09-26 10:03:02"
   },
   {
     "id": 1433680,
@@ -6748,7 +7150,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 3.0921,
+    "popularidad": 3.1339,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -6768,7 +7170,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:27"
+    "última_actualización": "2025-09-26 10:03:03"
   },
   {
     "id": 1272166,
@@ -6823,11 +7225,23 @@
     ],
     "géneros": [
       {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
         "id": 18,
         "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
       }
     ],
-    "popularidad": 2.2912,
+    "popularidad": 2.2891,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -6893,7 +7307,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:27"
+    "última_actualización": "2025-09-26 10:03:04"
   },
   {
     "id": 1242501,
@@ -6956,7 +7370,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 2.2842,
+    "popularidad": 2.7341,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -6966,7 +7380,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-25 22:02:27"
+    "última_actualización": "2025-09-26 10:03:04"
   },
   {
     "id": 1463240,
@@ -7025,7 +7439,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 1.8432,
+    "popularidad": 1.5245,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -7045,7 +7459,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:28"
+    "última_actualización": "2025-09-26 10:03:05"
   },
   {
     "id": 1443576,
@@ -7104,7 +7518,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.5919,
+    "popularidad": 1.7426,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -7134,7 +7548,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:28"
+    "última_actualización": "2025-09-26 10:03:05"
   },
   {
     "id": 1127628,
@@ -7193,7 +7607,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.6888,
+    "popularidad": 0.9856,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -7213,7 +7627,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-25 22:02:29"
+    "última_actualización": "2025-09-26 10:03:07"
   },
   {
     "id": 1440144,
@@ -7272,7 +7686,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.5142,
+    "popularidad": 0.5144,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -7292,7 +7706,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-25 22:02:29"
+    "última_actualización": "2025-09-26 10:03:08"
   },
   {
     "id": 1513031,
@@ -7335,7 +7749,7 @@
         "name": "Música"
       }
     ],
-    "popularidad": 0.149,
+    "popularidad": 0.1281,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -7345,7 +7759,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-25 22:02:31"
+    "última_actualización": "2025-09-26 10:03:11"
   },
   {
     "id": 1317641,
@@ -7495,7 +7909,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:33"
+    "última_actualización": "2025-09-26 10:03:14"
   },
   {
     "id": 1536703,
@@ -7523,7 +7937,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.1321,
+    "popularidad": 0.0775,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -7553,7 +7967,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-25 22:02:31"
+    "última_actualización": "2025-09-26 10:03:12"
   },
   {
     "id": 1025388,
