@@ -1,13 +1,25 @@
 [
     {
+        "título": "BTS 2016 & 2017 Concert Marathon",
+        "cartel": "imagenes_filmaffinity/tmdb_bts-2016-2017-concert-marathon.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-28",
+                "hora": "15:45",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=20740"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "",
+        "duración": "102 min",
+        "actores": "",
+        "sinopsis": "",
+        "año": ""
+    },
+    {
         "título": "Guardianes de la noche: La fortaleza infinita",
         "cartel": "imagenes_filmaffinity/tmdb_guardianes-de-la-noche-la-fortaleza-infinita.jpg",
         "horarios": [
-            {
-                "fecha": "2025-09-27",
-                "hora": "21:55",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=21447"
-            },
             {
                 "fecha": "2025-09-28",
                 "hora": "18:50",
@@ -67,23 +79,6 @@
         "año": "2025"
     },
     {
-        "título": "BTS 2016 & 2017 Concert Marathon",
-        "cartel": "imagenes_filmaffinity/tmdb_bts-2016-2017-concert-marathon.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-09-28",
-                "hora": "15:45",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=20740"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "",
-        "duración": "102 min",
-        "actores": "",
-        "sinopsis": "",
-        "año": ""
-    },
-    {
         "título": "Una batalla tras otra",
         "cartel": "imagenes_filmaffinity/tmdb_una-batalla-tras-otra.jpg",
         "horarios": [
@@ -95,7 +90,7 @@
         ],
         "cine": "Yelmo Itaroa",
         "director": "Paul Thomas Anderson",
-        "duración": "162 min",
+        "duración": "161 min",
         "actores": "Leonardo DiCaprio, Sean Penn, Chase Infiniti, Benicio del Toro, Regina Hall",
         "sinopsis": "",
         "año": "2025"

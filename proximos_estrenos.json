@@ -72,7 +72,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:25"
+    "última_actualización": "2025-09-27 22:03:41"
   },
   {
     "id": 1388490,
@@ -165,7 +165,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:29"
+    "última_actualización": "2025-09-27 22:03:43"
   },
   {
     "id": 1535761,
@@ -252,7 +252,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:26"
+    "última_actualización": "2025-09-27 22:03:43"
   },
   {
     "id": 1483887,
@@ -333,7 +333,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:25"
+    "última_actualización": "2025-09-27 22:03:40"
   },
   {
     "id": 1546391,
@@ -561,7 +561,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:24"
+    "última_actualización": "2025-09-27 22:03:37"
   },
   {
     "id": 1021954,
@@ -644,7 +644,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-27 10:03:24"
+    "última_actualización": "2025-09-27 22:03:39"
   },
   {
     "id": 1486212,
@@ -719,7 +719,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:25"
+    "última_actualización": "2025-09-27 22:03:40"
   },
   {
     "id": 1552392,
@@ -805,7 +805,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:29"
+    "última_actualización": "2025-09-27 22:03:44"
   },
   {
     "id": 1325104,
@@ -860,63 +860,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:25"
-  },
-  {
-    "id": 1381107,
-    "tmdb_id": 1381107,
-    "título": "Colección de Rodajes en Soledad",
-    "título_original": "Colección de Rodajes en Soledad",
-    "sinopsis": "Una trilogía de cortometrajes formada por: A Short Film About Endings, 3STIGIA y A Short Film About My House.",
-    "poster_path": "/fBqG1ameLo6BV9rxQsCsvRvAdZu.jpg",
-    "poster_local": "imagenes_estrenos/Colecci_n_de_Rodajes_en_Soledad_fBqG1ameLo6BV9rxQsCsvRvAdZu.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-10-01T00:00:00.000Z",
-    "duración": "36 min",
-    "director": "Diego Ferrando",
-    "directores": [
-      {
-        "name": "Diego Ferrando",
-        "id": 4101227
-      }
-    ],
-    "actores": [
-      {
-        "name": "Luciano Pereyra",
-        "id": 4847494,
-        "character": "Luciano/La Muerte",
-        "profile_path": null
-      },
-      {
-        "name": "Diego Ferrando",
-        "id": 4101227,
-        "character": "Diego/Sonábulo",
-        "profile_path": "/dgxexPhaVwdQP7Ddg6Z5tI9gAMn.jpg"
-      }
-    ],
-    "géneros": [],
-    "popularidad": 0.0564,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/fBqG1ameLo6BV9rxQsCsvRvAdZu.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-09-27 10:03:27"
+    "última_actualización": "2025-09-27 22:03:40"
   },
   {
     "id": 1448698,
@@ -989,7 +933,63 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-27 10:03:27"
+    "última_actualización": "2025-09-27 22:03:42"
+  },
+  {
+    "id": 1381107,
+    "tmdb_id": 1381107,
+    "título": "Colección de Rodajes en Soledad",
+    "título_original": "Colección de Rodajes en Soledad",
+    "sinopsis": "Una trilogía de cortometrajes formada por: A Short Film About Endings, 3STIGIA y A Short Film About My House.",
+    "poster_path": "/fBqG1ameLo6BV9rxQsCsvRvAdZu.jpg",
+    "poster_local": "imagenes_estrenos/Colecci_n_de_Rodajes_en_Soledad_fBqG1ameLo6BV9rxQsCsvRvAdZu.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-10-01T00:00:00.000Z",
+    "duración": "36 min",
+    "director": "Diego Ferrando",
+    "directores": [
+      {
+        "name": "Diego Ferrando",
+        "id": 4101227
+      }
+    ],
+    "actores": [
+      {
+        "name": "Luciano Pereyra",
+        "id": 4847494,
+        "character": "Luciano/La Muerte",
+        "profile_path": null
+      },
+      {
+        "name": "Diego Ferrando",
+        "id": 4101227,
+        "character": "Diego/Sonábulo",
+        "profile_path": "/dgxexPhaVwdQP7Ddg6Z5tI9gAMn.jpg"
+      }
+    ],
+    "géneros": [],
+    "popularidad": 0.0564,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/fBqG1ameLo6BV9rxQsCsvRvAdZu.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-09-27 22:03:42"
   },
   {
     "id": 1530366,
@@ -1082,7 +1082,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:24"
+    "última_actualización": "2025-09-27 22:03:38"
   },
   {
     "id": 1408705,
@@ -1153,7 +1153,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:26"
+    "última_actualización": "2025-09-27 22:03:43"
   },
   {
     "id": 1499952,
@@ -1236,7 +1236,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:27"
+    "última_actualización": "2025-09-27 22:03:45"
   },
   {
     "id": 1552385,
@@ -1323,7 +1323,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:27"
+    "última_actualización": "2025-09-27 22:03:45"
   },
   {
     "id": 1502960,
@@ -1390,7 +1390,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:26"
+    "última_actualización": "2025-09-27 22:03:40"
   },
   {
     "id": 1149504,
@@ -1454,8 +1454,8 @@
       }
     ],
     "popularidad": 19.161,
-    "puntuación": 5.738,
-    "votos": 128,
+    "puntuación": 5.733,
+    "votos": 129,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1546,7 +1546,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:20"
+    "última_actualización": "2025-09-27 22:03:29"
   },
   {
     "id": 760329,
@@ -1707,7 +1707,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:21"
+    "última_actualización": "2025-09-27 22:03:30"
   },
   {
     "id": 1275151,
@@ -1808,7 +1808,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-27 10:03:21"
+    "última_actualización": "2025-09-27 22:03:31"
   },
   {
     "id": 1339367,
@@ -1887,7 +1887,86 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-27 10:03:22"
+    "última_actualización": "2025-09-27 22:03:33"
+  },
+  {
+    "id": 1212880,
+    "tmdb_id": 1212880,
+    "título": "El sueño de Emma",
+    "título_original": "El sueño de Emma",
+    "sinopsis": "Emma (16) y su papá Marcos (48) viven en una casa humilde en el Delta del Tigre, una zona de ríos cercana a Buenos Aires. Emma está ensayando una obra de Shakespeare en el colegio y sueña con viajar a Londres. Un día sucede lo impensado, la maestra le consigue una beca de intercambio cultural con Inglaterra. La idea de estar separados los desarma y juntos tendrán que aprender otra forma posible de amar.",
+    "poster_path": "/7AWFOo8VTo3dQciW3n3SpxH7SVO.jpg",
+    "poster_local": "imagenes_estrenos/El_sue_o_de_Emma_7AWFOo8VTo3dQciW3n3SpxH7SVO.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-10-03T00:00:00.000Z",
+    "duración": "88 min",
+    "director": "Germán Vilche",
+    "directores": [
+      {
+        "name": "Germán Vilche",
+        "id": 2441065
+      }
+    ],
+    "actores": [
+      {
+        "name": "Luthien Ramos",
+        "id": 4772360,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Sebastián Arzeno",
+        "id": 2406318,
+        "character": "",
+        "profile_path": "/9eK44lgu8hTJSnssFUVU1QGIvuB.jpg"
+      },
+      {
+        "name": "Verónica Intile",
+        "id": 1575136,
+        "character": "",
+        "profile_path": "/sRp23LuwPgbcsVGCmA6gVoXIVEG.jpg"
+      },
+      {
+        "name": "Luis Ziembrowski",
+        "id": 1028444,
+        "character": "",
+        "profile_path": "/8ePSSKG8Kjf6ZEnANnWhCXwu6Jv.jpg"
+      },
+      {
+        "name": "Lautaro Murray",
+        "id": 2695845,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.874,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.706,
+          "height": 1024,
+          "iso_639_1": null,
+          "file_path": "/7AWFOo8VTo3dQciW3n3SpxH7SVO.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 723
+        }
+      ]
+    },
+    "última_actualización": "2025-09-27 22:03:33"
   },
   {
     "id": 1228322,
@@ -2006,86 +2085,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-27 10:03:22"
-  },
-  {
-    "id": 1212880,
-    "tmdb_id": 1212880,
-    "título": "El sueño de Emma",
-    "título_original": "El sueño de Emma",
-    "sinopsis": "Emma (16) y su papá Marcos (48) viven en una casa humilde en el Delta del Tigre, una zona de ríos cercana a Buenos Aires. Emma está ensayando una obra de Shakespeare en el colegio y sueña con viajar a Londres. Un día sucede lo impensado, la maestra le consigue una beca de intercambio cultural con Inglaterra. La idea de estar separados los desarma y juntos tendrán que aprender otra forma posible de amar.",
-    "poster_path": "/7AWFOo8VTo3dQciW3n3SpxH7SVO.jpg",
-    "poster_local": "imagenes_estrenos/El_sue_o_de_Emma_7AWFOo8VTo3dQciW3n3SpxH7SVO.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-10-03T00:00:00.000Z",
-    "duración": "88 min",
-    "director": "Germán Vilche",
-    "directores": [
-      {
-        "name": "Germán Vilche",
-        "id": 2441065
-      }
-    ],
-    "actores": [
-      {
-        "name": "Luthien Ramos",
-        "id": 4772360,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Sebastián Arzeno",
-        "id": 2406318,
-        "character": "",
-        "profile_path": "/9eK44lgu8hTJSnssFUVU1QGIvuB.jpg"
-      },
-      {
-        "name": "Verónica Intile",
-        "id": 1575136,
-        "character": "",
-        "profile_path": "/sRp23LuwPgbcsVGCmA6gVoXIVEG.jpg"
-      },
-      {
-        "name": "Luis Ziembrowski",
-        "id": 1028444,
-        "character": "",
-        "profile_path": "/8ePSSKG8Kjf6ZEnANnWhCXwu6Jv.jpg"
-      },
-      {
-        "name": "Lautaro Murray",
-        "id": 2695845,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 1.874,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.706,
-          "height": 1024,
-          "iso_639_1": null,
-          "file_path": "/7AWFOo8VTo3dQciW3n3SpxH7SVO.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 723
-        }
-      ]
-    },
-    "última_actualización": "2025-09-27 10:03:22"
+    "última_actualización": "2025-09-27 22:03:33"
   },
   {
     "id": 1193115,
@@ -2205,53 +2205,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:23"
-  },
-  {
-    "id": 1520850,
-    "tmdb_id": 1520850,
-    "título": "La sospecha de Sofía",
-    "título_original": "La sospecha de Sofía",
-    "sinopsis": "Cuando Daniel recibe una enigmática invitación para conocer a su madre biológica en el Berlín del Este, se convierte en la pieza esencial de un plan secreto de la KGB y su hermano gemelo, Klaus, le roba su identidad. Su esposa, Sofía, empieza a sospechar que la persona que clama ser Daniel no lo es en realidad.",
-    "poster_path": "/zWxMdaC96JeRFjQDy70bBopqYNO.jpg",
-    "poster_local": "imagenes_estrenos/La_sospecha_de_Sof_a_zWxMdaC96JeRFjQDy70bBopqYNO.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-10-03T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Imanol Uribe",
-    "directores": [
-      {
-        "name": "Imanol Uribe",
-        "id": 224884
-      }
-    ],
-    "actores": [
-      {
-        "name": "Aura Garrido",
-        "id": 566544,
-        "character": "",
-        "profile_path": "/195NlsR4hNQtvvZi3eZ19EJCOu7.jpg"
-      },
-      {
-        "name": "Álex González",
-        "id": 1030252,
-        "character": "",
-        "profile_path": "/wSshBfOlhrRbHG7SRJp8nDeOtnD.jpg"
-      }
-    ],
-    "géneros": [],
-    "popularidad": 0.9787,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2025-09-27 10:03:23"
+    "última_actualización": "2025-09-27 22:03:34"
   },
   {
     "id": 1292315,
@@ -2259,10 +2213,10 @@
     "título": "Parecido a un asesinato",
     "título_original": "Parecido a un asesinato",
     "sinopsis": "Eva vive un momento feliz, con una nueva pareja, Nazario, escritor de éxito, y su hija, Alicia, una adolescente con la que espera congeniar; por fin tiene una familia que le permitirá olvidar el pasado. Pero no será tan fácil. El horror que sufrió con José, su ex marido, un policía posesivo y violento vuelve para amenazar su paraíso; de nada le servirá esconderse en el refugio de su infancia, nada podrá protegerla. Será un viaje hacia el miedo, hasta un lugar de consecuencias terribles que afectarán a todos. Nada es lo que parece… Todos son testigos de verdades paralelas.",
-    "poster_path": "/tzRbiQOKBHn15ri72EgBeHBLcyH.jpg",
+    "poster_path": "/9hGp5Zwe5fRwvTYbtAwjClVJNnd.jpg",
     "poster_local": "imagenes_estrenos/Parecido_a_un_asesinato_tzRbiQOKBHn15ri72EgBeHBLcyH.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
+    "backdrop_path": "/8tSGmvgg1QzNXkB86m9X9zOftnE.jpg",
+    "backdrop_local": "imagenes_estrenos/Parecido_a_un_asesinato_backdrop_8tSGmvgg1QzNXkB86m9X9zOftnE.jpg",
     "fecha_estreno": "2025-10-03T00:00:00.000Z",
     "duración": "111 min",
     "director": "Antonio Hernández",
@@ -2317,10 +2271,102 @@
     "video": false,
     "año": "2025",
     "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.779,
+          "height": 1820,
+          "iso_639_1": null,
+          "file_path": "/8tSGmvgg1QzNXkB86m9X9zOftnE.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3238
+        },
+        {
+          "aspect_ratio": 1.779,
+          "height": 2158,
+          "iso_639_1": null,
+          "file_path": "/xVwm26l5TX8QAs4fwUU62brrgHR.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.78,
+          "height": 2157,
+          "iso_639_1": null,
+          "file_path": "/xgzV0uv15VBVu60HfL8xJtBQqIQ.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.779,
+          "height": 2158,
+          "iso_639_1": null,
+          "file_path": "/3RNUYcMEH4VzJ9HqctZiuOKCBlI.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.779,
+          "height": 2158,
+          "iso_639_1": null,
+          "file_path": "/nT5Wc6aQfeHN0x42pSEU499H7sf.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-09-27 22:03:36"
+  },
+  {
+    "id": 1520850,
+    "tmdb_id": 1520850,
+    "título": "La sospecha de Sofía",
+    "título_original": "La sospecha de Sofía",
+    "sinopsis": "Cuando Daniel recibe una enigmática invitación para conocer a su madre biológica en el Berlín del Este, se convierte en la pieza esencial de un plan secreto de la KGB y su hermano gemelo, Klaus, le roba su identidad. Su esposa, Sofía, empieza a sospechar que la persona que clama ser Daniel no lo es en realidad.",
+    "poster_path": "/zWxMdaC96JeRFjQDy70bBopqYNO.jpg",
+    "poster_local": "imagenes_estrenos/La_sospecha_de_Sof_a_zWxMdaC96JeRFjQDy70bBopqYNO.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-10-03T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Imanol Uribe",
+    "directores": [
+      {
+        "name": "Imanol Uribe",
+        "id": 224884
+      }
+    ],
+    "actores": [
+      {
+        "name": "Aura Garrido",
+        "id": 566544,
+        "character": "",
+        "profile_path": "/195NlsR4hNQtvvZi3eZ19EJCOu7.jpg"
+      },
+      {
+        "name": "Álex González",
+        "id": 1030252,
+        "character": "",
+        "profile_path": "/wSshBfOlhrRbHG7SRJp8nDeOtnD.jpg"
+      }
+    ],
+    "géneros": [],
+    "popularidad": 0.9787,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-27 10:03:23"
+    "última_actualización": "2025-09-27 22:03:36"
   },
   {
     "id": 1485539,
@@ -2373,7 +2419,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:24"
+    "última_actualización": "2025-09-27 22:03:37"
   },
   {
     "id": 1025389,
@@ -2452,7 +2498,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-27 10:03:24"
+    "última_actualización": "2025-09-27 22:03:38"
   },
   {
     "id": 1512711,
@@ -2525,7 +2571,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-27 10:03:25"
+    "última_actualización": "2025-09-27 22:03:39"
   },
   {
     "id": 1459349,
@@ -2570,7 +2616,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-27 10:03:25"
+    "última_actualización": "2025-09-27 22:03:41"
   },
   {
     "id": 1409631,
@@ -2627,7 +2673,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-27 10:03:27"
+    "última_actualización": "2025-09-27 22:03:44"
   },
   {
     "id": 1367212,
@@ -2694,7 +2740,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:29"
+    "última_actualización": "2025-09-27 22:03:45"
   },
   {
     "id": 1509184,
@@ -2781,7 +2827,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:25"
+    "última_actualización": "2025-09-27 22:03:41"
   },
   {
     "id": 1549177,
@@ -2874,7 +2920,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:26"
+    "última_actualización": "2025-09-27 22:03:44"
   },
   {
     "id": 1289936,
@@ -2938,8 +2984,8 @@
       }
     ],
     "popularidad": 19.4895,
-    "puntuación": 7.863,
-    "votos": 40,
+    "puntuación": 7.826,
+    "votos": 43,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3030,7 +3076,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:20"
+    "última_actualización": "2025-09-27 22:03:28"
   },
   {
     "id": 533533,
@@ -3199,7 +3245,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:20"
+    "última_actualización": "2025-09-27 22:03:29"
   },
   {
     "id": 1245993,
@@ -3267,8 +3313,8 @@
       }
     ],
     "popularidad": 13.1425,
-    "puntuación": 6.951,
-    "votos": 203,
+    "puntuación": 6.937,
+    "votos": 206,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3368,7 +3414,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:20"
+    "última_actualización": "2025-09-27 22:03:30"
   },
   {
     "id": 1374686,
@@ -3509,7 +3555,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:21"
+    "última_actualización": "2025-09-27 22:03:31"
   },
   {
     "id": 1049942,
@@ -3656,7 +3702,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:21"
+    "última_actualización": "2025-09-27 22:03:31"
   },
   {
     "id": 1324019,
@@ -3752,7 +3798,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-27 10:03:22"
+    "última_actualización": "2025-09-27 22:03:32"
   },
   {
     "id": 1495245,
@@ -3825,149 +3871,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:22"
-  },
-  {
-    "id": 1375306,
-    "tmdb_id": 1375306,
-    "título": "Mario",
-    "título_original": "Mario",
-    "sinopsis": "Antònia, de 38 años, organiza una fiesta sorpresa de cumpleaños a su pareja, Mario, a quien todo el mundo quiere. Todo se tuerce cuando los seres queridos de Mario empiezan a descubrir que algunas historias que él les ha contado se contradicen y no encajan con el Mario al que todos conocen.",
-    "poster_path": "/9DRlrFmAP85JY48t6zyJB3DjZS.jpg",
-    "poster_local": "imagenes_estrenos/Mario_9DRlrFmAP85JY48t6zyJB3DjZS.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-10-10T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Guillem Miró",
-    "directores": [
-      {
-        "name": "Guillem Miró",
-        "id": 1839278
-      }
-    ],
-    "actores": [
-      {
-        "name": "Gloria March",
-        "id": 2783021,
-        "character": "",
-        "profile_path": "/seAKgaUsfKj3PdtcVi97bXm5z0c.jpg"
-      },
-      {
-        "name": "José Pérez Ocaña",
-        "id": 2655623,
-        "character": "",
-        "profile_path": "/tQDMm4GPgXGpfh8mSk9bc7dZhsi.jpg"
-      },
-      {
-        "name": "Raquel Ferri",
-        "id": 2619585,
-        "character": "",
-        "profile_path": "/b04X3oVzOj6Wi3J1LPM9p3tDm58.jpg"
-      },
-      {
-        "name": "Miquel Gelabert",
-        "id": 1276266,
-        "character": "",
-        "profile_path": "/6IHxfYEmDx5sczYES4CANUJzOlL.jpg"
-      },
-      {
-        "name": "Daniel Bayona",
-        "id": 4155392,
-        "character": "",
-        "profile_path": "/4JgtJXCzi5qZ2a2XvOt3LLcDFO2.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 0.9085,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2025-09-27 10:03:23"
-  },
-  {
-    "id": 1318339,
-    "tmdb_id": 1318339,
-    "título": "Día de caza",
-    "título_original": "Día de caza",
-    "sinopsis": "Otoño 2024.  Blanca, Rosa y Carmen son tres amigas de mediana edad que tras mucho tiempo sin coincidir todas juntas, quedan junto con Diana, la joven y taciturna sobrina de Rosa, para ir a cazar conejos a un coto de caza que Blanca heredó de su tío José.  Entre risas comparten los complicados momentos por los que están pasando en sus vidas. La relación con los hijos, separaciones, infidelidades, la menopausia, problemas con el alcohol, importantes proyectos profesionales… El calor, insoportable, asfixiante, y las conversaciones sobre temas del pasado van subiendo de tono hasta acabar enfrentando a las mujeres. Imposible no recordar que casi 60 años atrás, otro día de caza, en aquella misma finca, acabó en tragedia.",
-    "poster_path": "/fr4A7H95Svg8lbudGDr4fOiFEjx.jpg",
-    "poster_local": "imagenes_estrenos/D_a_de_caza_fr4A7H95Svg8lbudGDr4fOiFEjx.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-10-10T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Pedro Aguilera",
-    "directores": [
-      {
-        "name": "Pedro Aguilera",
-        "id": 1060641
-      }
-    ],
-    "actores": [
-      {
-        "name": "Carmen Machi",
-        "id": 102222,
-        "character": "Carmen",
-        "profile_path": "/qP3zz6e08UklfmPCf627vwUDVsK.jpg"
-      },
-      {
-        "name": "Rossy de Palma",
-        "id": 25258,
-        "character": "Rosa",
-        "profile_path": "/3IH9ZBUcFNwBr8IcS1RZhMKTpeg.jpg"
-      },
-      {
-        "name": "Blanca Portillo",
-        "id": 3480,
-        "character": "Blanca",
-        "profile_path": "/v4qOmywLSpM9vrlyKJYX6OYNehE.jpg"
-      },
-      {
-        "name": "Zoe Arnao",
-        "id": 2417344,
-        "character": "Diana",
-        "profile_path": "/nMmwMzZzeBCouyOMIgkgtSb8Cvn.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.9853,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.699,
-          "height": 1200,
-          "iso_639_1": null,
-          "file_path": "/fr4A7H95Svg8lbudGDr4fOiFEjx.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 839
-        }
-      ]
-    },
-    "última_actualización": "2025-09-27 10:03:23"
+    "última_actualización": "2025-09-27 22:03:34"
   },
   {
     "id": 1434973,
@@ -4050,7 +3954,149 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:23"
+    "última_actualización": "2025-09-27 22:03:35"
+  },
+  {
+    "id": 1318339,
+    "tmdb_id": 1318339,
+    "título": "Día de caza",
+    "título_original": "Día de caza",
+    "sinopsis": "Otoño 2024.  Blanca, Rosa y Carmen son tres amigas de mediana edad que tras mucho tiempo sin coincidir todas juntas, quedan junto con Diana, la joven y taciturna sobrina de Rosa, para ir a cazar conejos a un coto de caza que Blanca heredó de su tío José.  Entre risas comparten los complicados momentos por los que están pasando en sus vidas. La relación con los hijos, separaciones, infidelidades, la menopausia, problemas con el alcohol, importantes proyectos profesionales… El calor, insoportable, asfixiante, y las conversaciones sobre temas del pasado van subiendo de tono hasta acabar enfrentando a las mujeres. Imposible no recordar que casi 60 años atrás, otro día de caza, en aquella misma finca, acabó en tragedia.",
+    "poster_path": "/fr4A7H95Svg8lbudGDr4fOiFEjx.jpg",
+    "poster_local": "imagenes_estrenos/D_a_de_caza_fr4A7H95Svg8lbudGDr4fOiFEjx.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-10-10T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Pedro Aguilera",
+    "directores": [
+      {
+        "name": "Pedro Aguilera",
+        "id": 1060641
+      }
+    ],
+    "actores": [
+      {
+        "name": "Carmen Machi",
+        "id": 102222,
+        "character": "Carmen",
+        "profile_path": "/qP3zz6e08UklfmPCf627vwUDVsK.jpg"
+      },
+      {
+        "name": "Rossy de Palma",
+        "id": 25258,
+        "character": "Rosa",
+        "profile_path": "/3IH9ZBUcFNwBr8IcS1RZhMKTpeg.jpg"
+      },
+      {
+        "name": "Blanca Portillo",
+        "id": 3480,
+        "character": "Blanca",
+        "profile_path": "/v4qOmywLSpM9vrlyKJYX6OYNehE.jpg"
+      },
+      {
+        "name": "Zoe Arnao",
+        "id": 2417344,
+        "character": "Diana",
+        "profile_path": "/nMmwMzZzeBCouyOMIgkgtSb8Cvn.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.9853,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.699,
+          "height": 1200,
+          "iso_639_1": null,
+          "file_path": "/fr4A7H95Svg8lbudGDr4fOiFEjx.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 839
+        }
+      ]
+    },
+    "última_actualización": "2025-09-27 22:03:35"
+  },
+  {
+    "id": 1375306,
+    "tmdb_id": 1375306,
+    "título": "Mario",
+    "título_original": "Mario",
+    "sinopsis": "Antònia, de 38 años, organiza una fiesta sorpresa de cumpleaños a su pareja, Mario, a quien todo el mundo quiere. Todo se tuerce cuando los seres queridos de Mario empiezan a descubrir que algunas historias que él les ha contado se contradicen y no encajan con el Mario al que todos conocen.",
+    "poster_path": "/9DRlrFmAP85JY48t6zyJB3DjZS.jpg",
+    "poster_local": "imagenes_estrenos/Mario_9DRlrFmAP85JY48t6zyJB3DjZS.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-10-10T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Guillem Miró",
+    "directores": [
+      {
+        "name": "Guillem Miró",
+        "id": 1839278
+      }
+    ],
+    "actores": [
+      {
+        "name": "Gloria March",
+        "id": 2783021,
+        "character": "",
+        "profile_path": "/seAKgaUsfKj3PdtcVi97bXm5z0c.jpg"
+      },
+      {
+        "name": "José Pérez Ocaña",
+        "id": 2655623,
+        "character": "",
+        "profile_path": "/tQDMm4GPgXGpfh8mSk9bc7dZhsi.jpg"
+      },
+      {
+        "name": "Raquel Ferri",
+        "id": 2619585,
+        "character": "",
+        "profile_path": "/b04X3oVzOj6Wi3J1LPM9p3tDm58.jpg"
+      },
+      {
+        "name": "Miquel Gelabert",
+        "id": 1276266,
+        "character": "",
+        "profile_path": "/6IHxfYEmDx5sczYES4CANUJzOlL.jpg"
+      },
+      {
+        "name": "Daniel Bayona",
+        "id": 4155392,
+        "character": "",
+        "profile_path": "/4JgtJXCzi5qZ2a2XvOt3LLcDFO2.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 0.9085,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-09-27 22:03:36"
   },
   {
     "id": 1255674,
@@ -4137,7 +4183,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:24"
+    "última_actualización": "2025-09-27 22:03:38"
   },
   {
     "id": 1319478,
@@ -4216,7 +4262,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-27 10:03:24"
+    "última_actualización": "2025-09-27 22:03:39"
   },
   {
     "id": 1550915,
@@ -4303,7 +4349,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-27 10:03:27"
+    "última_actualización": "2025-09-27 22:03:44"
   },
   {
     "id": 1271055,
@@ -4364,7 +4410,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:26"
+    "última_actualización": "2025-09-27 22:03:41"
   },
   {
     "id": 1284120,
@@ -4437,7 +4483,7 @@
     ],
     "popularidad": 62.0928,
     "puntuación": 7.244,
-    "votos": 407,
+    "votos": 408,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -4519,172 +4565,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:20"
-  },
-  {
-    "id": 842924,
-    "tmdb_id": 842924,
-    "título": "La vida de Chuck",
-    "título_original": "The Life of Chuck",
-    "sinopsis": "Inspirado en un relato de Stephen King, narra tres episodios vinculados al personaje Charles Krantz, siguiendo un orden inverso: desde su fallecimiento a los 39 años debido a un tumor cerebral, hasta su niñez en una casa que se creía embrujada.",
-    "poster_path": "/6AlCVmiM7k6HsJIKWaIiJ75wcLe.jpg",
-    "poster_local": "imagenes_estrenos/La_vida_de_Chuck_6AlCVmiM7k6HsJIKWaIiJ75wcLe.jpg",
-    "backdrop_path": "/lecBUG6Hsw7pYjTNAPBUgouDfjW.jpg",
-    "backdrop_local": "imagenes_estrenos/La_vida_de_Chuck_backdrop_lecBUG6Hsw7pYjTNAPBUgouDfjW.jpg",
-    "fecha_estreno": "2025-10-17T00:00:00.000Z",
-    "duración": "110 min",
-    "director": "Mike Flanagan",
-    "directores": [
-      {
-        "name": "Mike Flanagan",
-        "id": 551463
-      }
-    ],
-    "actores": [
-      {
-        "name": "Tom Hiddleston",
-        "id": 91606,
-        "character": "Charles 'Chuck' Krantz",
-        "profile_path": "/mclHxMm8aPlCPKptP67257F5GPo.jpg"
-      },
-      {
-        "name": "Benjamin Pajak",
-        "id": 3356007,
-        "character": "Charles 'Chuck' Krantz (pre-teen)",
-        "profile_path": "/tNb5yd7NjD02PFCdSvNhY8jPRt8.jpg"
-      },
-      {
-        "name": "Nick Offerman",
-        "id": 17039,
-        "character": "Narrator (voice)",
-        "profile_path": "/f6z3mPVtaF40ewfdmZydprAjmYd.jpg"
-      },
-      {
-        "name": "Chiwetel Ejiofor",
-        "id": 5294,
-        "character": "Marty Anderson",
-        "profile_path": "/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
-      },
-      {
-        "name": "Karen Gillan",
-        "id": 543261,
-        "character": "Felicia Gordon",
-        "profile_path": "/rWx8u4F4aYIqmjJDeMK78ysPsu0.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 14,
-        "name": "Fantasía"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 13.7791,
-    "puntuación": 7.383,
-    "votos": 399,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/lecBUG6Hsw7pYjTNAPBUgouDfjW.jpg",
-          "vote_average": 5.786,
-          "vote_count": 7,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/51jDSREvaYRGjXBKd7jSSoOhFgc.jpg",
-          "vote_average": 5.25,
-          "vote_count": 10,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/6e2yeFZgtD7RKpUYEOjj5v7oAUz.jpg",
-          "vote_average": 5.25,
-          "vote_count": 8,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/gTSKIKCxO48xramfxFjjwJ526tM.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/1SgD8XMa6dDSBKbPU4TDe2cmfGK.jpg",
-          "vote_average": 2.278,
-          "vote_count": 4,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/7uPA7ur8LwRo3bxavMNsdpezmU8.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 2048,
-          "iso_639_1": null,
-          "file_path": "/bQGmEd6i4P9fb7nfjQDfkHWDmeW.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1365
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1620,
-          "iso_639_1": null,
-          "file_path": "/s1xaIRWzRxksKwjDOfNhMRzmxJZ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1080
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/4WufgIsMDHzpQeGWThZVDAyJdRu.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/ii8526rChtLXZ5mJFk7HgmbcAEV.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-09-27 10:03:20"
+    "última_actualización": "2025-09-27 22:03:28"
   },
   {
     "id": 1280282,
@@ -4839,7 +4720,172 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:21"
+    "última_actualización": "2025-09-27 22:03:29"
+  },
+  {
+    "id": 842924,
+    "tmdb_id": 842924,
+    "título": "La vida de Chuck",
+    "título_original": "The Life of Chuck",
+    "sinopsis": "Inspirado en un relato de Stephen King, narra tres episodios vinculados al personaje Charles Krantz, siguiendo un orden inverso: desde su fallecimiento a los 39 años debido a un tumor cerebral, hasta su niñez en una casa que se creía embrujada.",
+    "poster_path": "/6AlCVmiM7k6HsJIKWaIiJ75wcLe.jpg",
+    "poster_local": "imagenes_estrenos/La_vida_de_Chuck_6AlCVmiM7k6HsJIKWaIiJ75wcLe.jpg",
+    "backdrop_path": "/lecBUG6Hsw7pYjTNAPBUgouDfjW.jpg",
+    "backdrop_local": "imagenes_estrenos/La_vida_de_Chuck_backdrop_lecBUG6Hsw7pYjTNAPBUgouDfjW.jpg",
+    "fecha_estreno": "2025-10-17T00:00:00.000Z",
+    "duración": "110 min",
+    "director": "Mike Flanagan",
+    "directores": [
+      {
+        "name": "Mike Flanagan",
+        "id": 551463
+      }
+    ],
+    "actores": [
+      {
+        "name": "Tom Hiddleston",
+        "id": 91606,
+        "character": "Charles 'Chuck' Krantz",
+        "profile_path": "/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+      },
+      {
+        "name": "Benjamin Pajak",
+        "id": 3356007,
+        "character": "Charles 'Chuck' Krantz (pre-teen)",
+        "profile_path": "/tNb5yd7NjD02PFCdSvNhY8jPRt8.jpg"
+      },
+      {
+        "name": "Nick Offerman",
+        "id": 17039,
+        "character": "Narrator (voice)",
+        "profile_path": "/f6z3mPVtaF40ewfdmZydprAjmYd.jpg"
+      },
+      {
+        "name": "Chiwetel Ejiofor",
+        "id": 5294,
+        "character": "Marty Anderson",
+        "profile_path": "/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+      },
+      {
+        "name": "Karen Gillan",
+        "id": 543261,
+        "character": "Felicia Gordon",
+        "profile_path": "/rWx8u4F4aYIqmjJDeMK78ysPsu0.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 13.7791,
+    "puntuación": 7.386,
+    "votos": 402,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/lecBUG6Hsw7pYjTNAPBUgouDfjW.jpg",
+          "vote_average": 5.786,
+          "vote_count": 7,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/51jDSREvaYRGjXBKd7jSSoOhFgc.jpg",
+          "vote_average": 5.25,
+          "vote_count": 10,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/6e2yeFZgtD7RKpUYEOjj5v7oAUz.jpg",
+          "vote_average": 5.25,
+          "vote_count": 8,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/gTSKIKCxO48xramfxFjjwJ526tM.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/1SgD8XMa6dDSBKbPU4TDe2cmfGK.jpg",
+          "vote_average": 2.278,
+          "vote_count": 4,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/7uPA7ur8LwRo3bxavMNsdpezmU8.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "iso_639_1": null,
+          "file_path": "/bQGmEd6i4P9fb7nfjQDfkHWDmeW.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1365
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1620,
+          "iso_639_1": null,
+          "file_path": "/s1xaIRWzRxksKwjDOfNhMRzmxJZ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1080
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/4WufgIsMDHzpQeGWThZVDAyJdRu.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/ii8526rChtLXZ5mJFk7HgmbcAEV.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-09-27 22:03:29"
   },
   {
     "id": 896536,
@@ -4908,7 +4954,7 @@
     ],
     "popularidad": 9.4576,
     "puntuación": 6.281,
-    "votos": 196,
+    "votos": 197,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -5008,7 +5054,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:21"
+    "última_actualización": "2025-09-27 22:03:30"
   },
   {
     "id": 1408208,
@@ -5076,8 +5122,8 @@
       }
     ],
     "popularidad": 9.4453,
-    "puntuación": 6.147,
-    "votos": 51,
+    "puntuación": 6.144,
+    "votos": 52,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -5150,7 +5196,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:21"
+    "última_actualización": "2025-09-27 22:03:30"
   },
   {
     "id": 1265063,
@@ -5279,7 +5325,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:21"
+    "última_actualización": "2025-09-27 22:03:31"
   },
   {
     "id": 1433680,
@@ -5362,7 +5408,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:21"
+    "última_actualización": "2025-09-27 22:03:32"
   },
   {
     "id": 1242501,
@@ -5435,7 +5481,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-27 10:03:22"
+    "última_actualización": "2025-09-27 22:03:32"
   },
   {
     "id": 1272166,
@@ -5572,7 +5618,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:22"
+    "última_actualización": "2025-09-27 22:03:33"
   },
   {
     "id": 1443576,
@@ -5661,7 +5707,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:22"
+    "última_actualización": "2025-09-27 22:03:34"
   },
   {
     "id": 1463240,
@@ -5740,7 +5786,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:23"
+    "última_actualización": "2025-09-27 22:03:34"
   },
   {
     "id": 1127628,
@@ -5819,7 +5865,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-27 10:03:23"
+    "última_actualización": "2025-09-27 22:03:37"
   },
   {
     "id": 1440144,
@@ -5898,7 +5944,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-27 10:03:24"
+    "última_actualización": "2025-09-27 22:03:37"
   },
   {
     "id": 1513031,
@@ -5951,7 +5997,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-27 10:03:25"
+    "última_actualización": "2025-09-27 22:03:38"
   },
   {
     "id": 1317641,
@@ -6101,7 +6147,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:27"
+    "última_actualización": "2025-09-27 22:03:43"
   },
   {
     "id": 1536703,
@@ -6159,7 +6205,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-27 10:03:26"
+    "última_actualización": "2025-09-27 22:03:42"
   },
   {
     "id": 1025388,
