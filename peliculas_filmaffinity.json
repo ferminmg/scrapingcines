@@ -1,13 +1,42 @@
 [
     {
+        "título": "Una batalla tras otra",
+        "cartel": "imagenes_filmaffinity/tmdb_una-batalla-tras-otra.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-30",
+                "hora": "20:20",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=21555"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Paul Thomas Anderson",
+        "duración": "162 min",
+        "actores": "Leonardo DiCaprio, Sean Penn, Chase Infiniti, Benicio del Toro, Regina Hall",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Strangers: Capítulo 2",
+        "cartel": "imagenes_filmaffinity/tmdb_strangers-capitulo-2.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-09-30",
+                "hora": "19:55",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=21559"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Renny Harlin",
+        "duración": "96 min",
+        "actores": "Madelaine Petsch, Richard Brake, Rachel Shenton, Brooke Lena Johnson, Froy Gutierrez",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
         "título": "Guardianes de la noche: La fortaleza infinita",
         "cartel": "imagenes_filmaffinity/tmdb_guardianes-de-la-noche-la-fortaleza-infinita.jpg",
         "horarios": [
-            {
-                "fecha": "2025-09-29",
-                "hora": "22:05",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=21534"
-            },
             {
                 "fecha": "2025-09-30",
                 "hora": "19:00",
@@ -44,40 +73,6 @@
         "duración": "155 min",
         "actores": "Natsuki Hanae, Hiro Shimono, Takahiro Sakurai, Akira Ishida, Yoshitsugu Matsuoka",
         "sinopsis": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
-        "año": "2025"
-    },
-    {
-        "título": "Una batalla tras otra",
-        "cartel": "imagenes_filmaffinity/tmdb_una-batalla-tras-otra.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-09-30",
-                "hora": "20:20",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=21555"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Paul Thomas Anderson",
-        "duración": "162 min",
-        "actores": "Leonardo DiCaprio, Sean Penn, Chase Infiniti, Benicio del Toro, Regina Hall",
-        "sinopsis": "",
-        "año": "2025"
-    },
-    {
-        "título": "Strangers: Capítulo 2",
-        "cartel": "imagenes_filmaffinity/tmdb_strangers-capitulo-2.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-09-30",
-                "hora": "19:55",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=21559"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Renny Harlin",
-        "duración": "96 min",
-        "actores": "Madelaine Petsch, Richard Brake, Rachel Shenton, Brooke Lena Johnson, Froy Gutierrez",
-        "sinopsis": "",
         "año": "2025"
     },
     {
