@@ -72,7 +72,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:48"
+    "última_actualización": "2025-09-30 22:03:43"
   },
   {
     "id": 1388490,
@@ -165,7 +165,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:51"
+    "última_actualización": "2025-09-30 22:03:45"
   },
   {
     "id": 1535761,
@@ -252,7 +252,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:51"
+    "última_actualización": "2025-09-30 22:03:43"
   },
   {
     "id": 1483887,
@@ -333,7 +333,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:47"
+    "última_actualización": "2025-09-30 22:03:41"
   },
   {
     "id": 1431314,
@@ -508,7 +508,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:45"
+    "última_actualización": "2025-09-30 22:03:39"
   },
   {
     "id": 1021954,
@@ -591,7 +591,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-30 10:03:46"
+    "última_actualización": "2025-09-30 22:03:40"
   },
   {
     "id": 1486212,
@@ -666,7 +666,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:48"
+    "última_actualización": "2025-09-30 22:03:42"
   },
   {
     "id": 1552392,
@@ -752,7 +752,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:51"
+    "última_actualización": "2025-09-30 22:03:45"
   },
   {
     "id": 1325104,
@@ -807,7 +807,63 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:47"
+    "última_actualización": "2025-09-30 22:03:41"
+  },
+  {
+    "id": 1381107,
+    "tmdb_id": 1381107,
+    "título": "Colección de Rodajes en Soledad",
+    "título_original": "Colección de Rodajes en Soledad",
+    "sinopsis": "Una trilogía de cortometrajes formada por: A Short Film About Endings, 3STIGIA y A Short Film About My House.",
+    "poster_path": "/fBqG1ameLo6BV9rxQsCsvRvAdZu.jpg",
+    "poster_local": "imagenes_estrenos/Colecci_n_de_Rodajes_en_Soledad_fBqG1ameLo6BV9rxQsCsvRvAdZu.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-10-01T00:00:00.000Z",
+    "duración": "36 min",
+    "director": "Diego Ferrando",
+    "directores": [
+      {
+        "name": "Diego Ferrando",
+        "id": 4101227
+      }
+    ],
+    "actores": [
+      {
+        "name": "Luciano Pereyra",
+        "id": 4847494,
+        "character": "Luciano/La Muerte",
+        "profile_path": null
+      },
+      {
+        "name": "Diego Ferrando",
+        "id": 4101227,
+        "character": "Diego/Sonábulo",
+        "profile_path": "/dgxexPhaVwdQP7Ddg6Z5tI9gAMn.jpg"
+      }
+    ],
+    "géneros": [],
+    "popularidad": 0.0566,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_639_1": null,
+          "file_path": "/fBqG1ameLo6BV9rxQsCsvRvAdZu.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-09-30 22:03:43"
   },
   {
     "id": 1448698,
@@ -880,63 +936,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-30 10:03:50"
-  },
-  {
-    "id": 1381107,
-    "tmdb_id": 1381107,
-    "título": "Colección de Rodajes en Soledad",
-    "título_original": "Colección de Rodajes en Soledad",
-    "sinopsis": "Una trilogía de cortometrajes formada por: A Short Film About Endings, 3STIGIA y A Short Film About My House.",
-    "poster_path": "/fBqG1ameLo6BV9rxQsCsvRvAdZu.jpg",
-    "poster_local": "imagenes_estrenos/Colecci_n_de_Rodajes_en_Soledad_fBqG1ameLo6BV9rxQsCsvRvAdZu.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-10-01T00:00:00.000Z",
-    "duración": "36 min",
-    "director": "Diego Ferrando",
-    "directores": [
-      {
-        "name": "Diego Ferrando",
-        "id": 4101227
-      }
-    ],
-    "actores": [
-      {
-        "name": "Luciano Pereyra",
-        "id": 4847494,
-        "character": "Luciano/La Muerte",
-        "profile_path": null
-      },
-      {
-        "name": "Diego Ferrando",
-        "id": 4101227,
-        "character": "Diego/Sonábulo",
-        "profile_path": "/dgxexPhaVwdQP7Ddg6Z5tI9gAMn.jpg"
-      }
-    ],
-    "géneros": [],
-    "popularidad": 0.0566,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/fBqG1ameLo6BV9rxQsCsvRvAdZu.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-09-30 10:03:50"
+    "última_actualización": "2025-09-30 22:03:44"
   },
   {
     "id": 1530366,
@@ -1029,7 +1029,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:45"
+    "última_actualización": "2025-09-30 22:03:39"
   },
   {
     "id": 1408705,
@@ -1100,7 +1100,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:49"
+    "última_actualización": "2025-09-30 22:03:45"
   },
   {
     "id": 1499952,
@@ -1183,7 +1183,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:52"
+    "última_actualización": "2025-09-30 22:03:46"
   },
   {
     "id": 1552385,
@@ -1270,7 +1270,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:52"
+    "última_actualización": "2025-09-30 22:03:46"
   },
   {
     "id": 1502960,
@@ -1493,7 +1493,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:37"
+    "última_actualización": "2025-09-30 22:03:30"
   },
   {
     "id": 760329,
@@ -1582,16 +1582,7 @@
           "aspect_ratio": 1.778,
           "height": 2160,
           "iso_639_1": null,
-          "file_path": "/58oAWWINaKYY4c7NkWvJtKZ4IkG.jpg",
-          "vote_average": 3.334,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_639_1": null,
-          "file_path": "/kguLbWvwcTnphKYyICpgKTjgzVs.jpg",
+          "file_path": "/brxSMaf5TDdBWAOzNTCGoHVAArU.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 3840
@@ -1600,7 +1591,16 @@
           "aspect_ratio": 1.778,
           "height": 2160,
           "iso_639_1": null,
-          "file_path": "/brxSMaf5TDdBWAOzNTCGoHVAArU.jpg",
+          "file_path": "/vfbryKoLrisx8Xh37OaTjTyrFY0.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_639_1": null,
+          "file_path": "/szQnaCQ7dGkF6aMnMkp4b4B6EVf.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 3840
@@ -1642,19 +1642,10 @@
           "vote_average": 1.75,
           "vote_count": 2,
           "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_639_1": null,
-          "file_path": "/iyLWPJOH57lni5R8QEG6K0TBvHj.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2000
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:38"
+    "última_actualización": "2025-09-30 22:03:31"
   },
   {
     "id": 1275151,
@@ -1755,7 +1746,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-30 10:03:39"
+    "última_actualización": "2025-09-30 22:03:33"
   },
   {
     "id": 1339367,
@@ -1834,7 +1825,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-30 10:03:41"
+    "última_actualización": "2025-09-30 22:03:34"
   },
   {
     "id": 1212880,
@@ -1913,7 +1904,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:41"
+    "última_actualización": "2025-09-30 22:03:34"
   },
   {
     "id": 1228322,
@@ -1977,7 +1968,7 @@
       }
     ],
     "popularidad": 1.628,
-    "puntuación": 5.991,
+    "puntuación": 6.0,
     "votos": 57,
     "adulto": false,
     "video": false,
@@ -2032,7 +2023,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-30 10:03:42"
+    "última_actualización": "2025-09-30 22:03:35"
   },
   {
     "id": 1193115,
@@ -2152,7 +2143,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:43"
+    "última_actualización": "2025-09-30 22:03:36"
   },
   {
     "id": 1292315,
@@ -2267,7 +2258,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-30 10:03:43"
+    "última_actualización": "2025-09-30 22:03:36"
   },
   {
     "id": 1520850,
@@ -2313,7 +2304,69 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-30 10:03:43"
+    "última_actualización": "2025-09-30 22:03:37"
+  },
+  {
+    "id": 1485539,
+    "tmdb_id": 1485539,
+    "título": "Dora: Aventuras mágicas en el reino de las sirenas",
+    "título_original": "Dora the Explorer: Mermaid Adventures",
+    "sinopsis": "",
+    "poster_path": "/kHtgX0FEeRvxFWdV8iWXZuEYTJ5.jpg",
+    "poster_local": "imagenes_estrenos/Dora__Aventuras_m_gicas_en_el_reino_de_las_sirenas_bszNtxp3yv3mLb3lxHaE183i9Sh.jpg",
+    "backdrop_path": "/pFFLGNUz6sld3KqgwAIj2jVFhQe.jpg",
+    "backdrop_local": "imagenes_estrenos/Dora__Aventuras_m_gicas_en_el_reino_de_las_sirenas_backdrop_pFFLGNUz6sld3KqgwAIj2jVFhQe.jpg",
+    "fecha_estreno": "2025-10-03T00:00:00.000Z",
+    "duración": "55 min",
+    "director": "George Chialtas, Allan Jacobsen",
+    "directores": [
+      {
+        "name": "George Chialtas",
+        "id": 2060855
+      },
+      {
+        "name": "Allan Jacobsen",
+        "id": 1229360
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "popularidad": 0.8394,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_639_1": null,
+          "file_path": "/pFFLGNUz6sld3KqgwAIj2jVFhQe.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_639_1": null,
+          "file_path": "/bszNtxp3yv3mLb3lxHaE183i9Sh.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2025-09-30 22:03:38"
   },
   {
     "id": 1025389,
@@ -2392,69 +2445,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-30 10:03:45"
-  },
-  {
-    "id": 1485539,
-    "tmdb_id": 1485539,
-    "título": "Dora: Aventuras mágicas en el reino de las sirenas",
-    "título_original": "Dora the Explorer: Mermaid Adventures",
-    "sinopsis": "",
-    "poster_path": "/kHtgX0FEeRvxFWdV8iWXZuEYTJ5.jpg",
-    "poster_local": "imagenes_estrenos/Dora__Aventuras_m_gicas_en_el_reino_de_las_sirenas_bszNtxp3yv3mLb3lxHaE183i9Sh.jpg",
-    "backdrop_path": "/pFFLGNUz6sld3KqgwAIj2jVFhQe.jpg",
-    "backdrop_local": "imagenes_estrenos/Dora__Aventuras_m_gicas_en_el_reino_de_las_sirenas_backdrop_pFFLGNUz6sld3KqgwAIj2jVFhQe.jpg",
-    "fecha_estreno": "2025-10-03T00:00:00.000Z",
-    "duración": "55 min",
-    "director": "George Chialtas, Allan Jacobsen",
-    "directores": [
-      {
-        "name": "George Chialtas",
-        "id": 2060855
-      },
-      {
-        "name": "Allan Jacobsen",
-        "id": 1229360
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      }
-    ],
-    "popularidad": 0.8394,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/pFFLGNUz6sld3KqgwAIj2jVFhQe.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_639_1": null,
-          "file_path": "/bszNtxp3yv3mLb3lxHaE183i9Sh.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2025-09-30 10:03:45"
+    "última_actualización": "2025-09-30 22:03:39"
   },
   {
     "id": 1512711,
@@ -2527,7 +2518,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-30 10:03:47"
+    "última_actualización": "2025-09-30 22:03:42"
   },
   {
     "id": 1409631,
@@ -2584,7 +2575,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-30 10:03:48"
+    "última_actualización": "2025-09-30 22:03:44"
   },
   {
     "id": 1459349,
@@ -2629,7 +2620,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-30 10:03:50"
+    "última_actualización": "2025-09-30 22:03:45"
   },
   {
     "id": 1367212,
@@ -2696,7 +2687,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:52"
+    "última_actualización": "2025-09-30 22:03:46"
   },
   {
     "id": 1509184,
@@ -2783,7 +2774,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:47"
+    "última_actualización": "2025-09-30 22:03:41"
   },
   {
     "id": 1549177,
@@ -2876,7 +2867,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:50"
+    "última_actualización": "2025-09-30 22:03:44"
   },
   {
     "id": 533533,
@@ -3045,7 +3036,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:37"
+    "última_actualización": "2025-09-30 22:03:29"
   },
   {
     "id": 1289936,
@@ -3110,7 +3101,7 @@
     ],
     "popularidad": 17.4879,
     "puntuación": 7.8,
-    "votos": 47,
+    "votos": 50,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3201,7 +3192,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:37"
+    "última_actualización": "2025-09-30 22:03:30"
   },
   {
     "id": 1245993,
@@ -3251,7 +3242,7 @@
         "name": "Liev Schreiber",
         "id": 23626,
         "character": "Lipa",
-        "profile_path": "/gTHvDnTN52iTdnQPVPu6LhirUHc.jpg"
+        "profile_path": "/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg"
       }
     ],
     "géneros": [
@@ -3270,7 +3261,7 @@
     ],
     "popularidad": 11.2234,
     "puntuación": 7.0,
-    "votos": 210,
+    "votos": 211,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3278,29 +3269,11 @@
       "backdrops": [
         {
           "aspect_ratio": 1.778,
-          "height": 1125,
-          "iso_639_1": null,
-          "file_path": "/9ZhhlJbtLmzjvdbxbNzHZEBFdIZ.jpg",
-          "vote_average": 8.034,
-          "vote_count": 5,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_639_1": null,
-          "file_path": "/rID21heTRcx46XFt0eyMx9m2pvP.jpg",
-          "vote_average": 4.458,
-          "vote_count": 12,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
           "height": 2160,
           "iso_639_1": null,
-          "file_path": "/zWO3B2CTDguZqCrVQ2u5Xnp9VRS.jpg",
-          "vote_average": 3.334,
-          "vote_count": 3,
+          "file_path": "/41043LV7mfluH8iXEUPVseCDAv5.jpg",
+          "vote_average": 8.034,
+          "vote_count": 5,
           "width": 3840
         },
         {
@@ -3308,18 +3281,36 @@
           "height": 1080,
           "iso_639_1": null,
           "file_path": "/wUO4lGA9TDeDDQjfvgPXMtmF1EN.jpg",
-          "vote_average": 2.066,
-          "vote_count": 5,
+          "vote_average": 5.786,
+          "vote_count": 7,
           "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1125,
+          "iso_639_1": null,
+          "file_path": "/9ZhhlJbtLmzjvdbxbNzHZEBFdIZ.jpg",
+          "vote_average": 5.682,
+          "vote_count": 11,
+          "width": 2000
         },
         {
           "aspect_ratio": 1.778,
           "height": 1080,
           "iso_639_1": null,
-          "file_path": "/jIrvdwOWrQjuEVlajuljmZUcBOm.jpg",
-          "vote_average": 1.75,
-          "vote_count": 4,
+          "file_path": "/rID21heTRcx46XFt0eyMx9m2pvP.jpg",
+          "vote_average": 4.884,
+          "vote_count": 13,
           "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1125,
+          "iso_639_1": null,
+          "file_path": "/g7MFkDa8p1jR1VG72mHuY1tmLh5.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
         }
       ],
       "posters": [
@@ -3352,25 +3343,16 @@
         },
         {
           "aspect_ratio": 0.667,
-          "height": 1920,
+          "height": 1500,
           "iso_639_1": null,
-          "file_path": "/ng1PhJM89RkkDLuFFaxLxjwz5u9.jpg",
+          "file_path": "/g17M2bvbNMM8QUaUFd1uxAvdGyn.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 2880,
-          "iso_639_1": null,
-          "file_path": "/qKexsXGDhYBF3FpdmL0JcGnKVEq.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
+          "width": 1000
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:38"
+    "última_actualización": "2025-09-30 22:03:31"
   },
   {
     "id": 1374686,
@@ -3511,7 +3493,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:39"
+    "última_actualización": "2025-09-30 22:03:32"
   },
   {
     "id": 1049942,
@@ -3658,7 +3640,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:40"
+    "última_actualización": "2025-09-30 22:03:33"
   },
   {
     "id": 1324019,
@@ -3754,7 +3736,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-30 10:03:40"
+    "última_actualización": "2025-09-30 22:03:34"
   },
   {
     "id": 1495245,
@@ -3827,7 +3809,76 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:42"
+    "última_actualización": "2025-09-30 22:03:35"
+  },
+  {
+    "id": 1375306,
+    "tmdb_id": 1375306,
+    "título": "Mario",
+    "título_original": "Mario",
+    "sinopsis": "Antònia, de 38 años, organiza una fiesta sorpresa de cumpleaños a su pareja, Mario, a quien todo el mundo quiere. Todo se tuerce cuando los seres queridos de Mario empiezan a descubrir que algunas historias que él les ha contado se contradicen y no encajan con el Mario al que todos conocen.",
+    "poster_path": "/9DRlrFmAP85JY48t6zyJB3DjZS.jpg",
+    "poster_local": "imagenes_estrenos/Mario_9DRlrFmAP85JY48t6zyJB3DjZS.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-10-10T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Guillem Miró",
+    "directores": [
+      {
+        "name": "Guillem Miró",
+        "id": 1839278
+      }
+    ],
+    "actores": [
+      {
+        "name": "Gloria March",
+        "id": 2783021,
+        "character": "",
+        "profile_path": "/seAKgaUsfKj3PdtcVi97bXm5z0c.jpg"
+      },
+      {
+        "name": "José Pérez Ocaña",
+        "id": 2655623,
+        "character": "",
+        "profile_path": "/tQDMm4GPgXGpfh8mSk9bc7dZhsi.jpg"
+      },
+      {
+        "name": "Raquel Ferri",
+        "id": 2619585,
+        "character": "",
+        "profile_path": "/b04X3oVzOj6Wi3J1LPM9p3tDm58.jpg"
+      },
+      {
+        "name": "Miquel Gelabert",
+        "id": 1276266,
+        "character": "",
+        "profile_path": "/6IHxfYEmDx5sczYES4CANUJzOlL.jpg"
+      },
+      {
+        "name": "Daniel Bayona",
+        "id": 4155392,
+        "character": "",
+        "profile_path": "/4JgtJXCzi5qZ2a2XvOt3LLcDFO2.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 0.9218,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-09-30 22:03:37"
   },
   {
     "id": 1434973,
@@ -3910,76 +3961,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:43"
-  },
-  {
-    "id": 1375306,
-    "tmdb_id": 1375306,
-    "título": "Mario",
-    "título_original": "Mario",
-    "sinopsis": "Antònia, de 38 años, organiza una fiesta sorpresa de cumpleaños a su pareja, Mario, a quien todo el mundo quiere. Todo se tuerce cuando los seres queridos de Mario empiezan a descubrir que algunas historias que él les ha contado se contradicen y no encajan con el Mario al que todos conocen.",
-    "poster_path": "/9DRlrFmAP85JY48t6zyJB3DjZS.jpg",
-    "poster_local": "imagenes_estrenos/Mario_9DRlrFmAP85JY48t6zyJB3DjZS.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-10-10T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Guillem Miró",
-    "directores": [
-      {
-        "name": "Guillem Miró",
-        "id": 1839278
-      }
-    ],
-    "actores": [
-      {
-        "name": "Gloria March",
-        "id": 2783021,
-        "character": "",
-        "profile_path": "/seAKgaUsfKj3PdtcVi97bXm5z0c.jpg"
-      },
-      {
-        "name": "José Pérez Ocaña",
-        "id": 2655623,
-        "character": "",
-        "profile_path": "/tQDMm4GPgXGpfh8mSk9bc7dZhsi.jpg"
-      },
-      {
-        "name": "Raquel Ferri",
-        "id": 2619585,
-        "character": "",
-        "profile_path": "/b04X3oVzOj6Wi3J1LPM9p3tDm58.jpg"
-      },
-      {
-        "name": "Miquel Gelabert",
-        "id": 1276266,
-        "character": "",
-        "profile_path": "/6IHxfYEmDx5sczYES4CANUJzOlL.jpg"
-      },
-      {
-        "name": "Daniel Bayona",
-        "id": 4155392,
-        "character": "",
-        "profile_path": "/4JgtJXCzi5qZ2a2XvOt3LLcDFO2.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 0.9218,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2025-09-30 10:03:44"
+    "última_actualización": "2025-09-30 22:03:37"
   },
   {
     "id": 1318339,
@@ -4052,7 +4034,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:44"
+    "última_actualización": "2025-09-30 22:03:38"
   },
   {
     "id": 1255674,
@@ -4139,7 +4121,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:46"
+    "última_actualización": "2025-09-30 22:03:38"
   },
   {
     "id": 1319478,
@@ -4218,7 +4200,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-30 10:03:46"
+    "última_actualización": "2025-09-30 22:03:40"
   },
   {
     "id": 1550915,
@@ -4305,7 +4287,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-30 10:03:51"
+    "última_actualización": "2025-09-30 22:03:44"
   },
   {
     "id": 1271055,
@@ -4366,7 +4348,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:49"
+    "última_actualización": "2025-09-30 22:03:42"
   },
   {
     "id": 1284120,
@@ -4438,8 +4420,8 @@
       }
     ],
     "popularidad": 69.4126,
-    "puntuación": 7.225,
-    "votos": 416,
+    "puntuación": 7.227,
+    "votos": 417,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -4521,7 +4503,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:36"
+    "última_actualización": "2025-09-30 22:03:29"
   },
   {
     "id": 1280282,
@@ -4601,8 +4583,8 @@
           "height": 1025,
           "iso_639_1": null,
           "file_path": "/MrcSSzWGsXf2IUJpjPPFLlNbjX.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
+          "vote_average": 1.75,
+          "vote_count": 4,
           "width": 1822
         },
         {
@@ -4672,7 +4654,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:37"
+    "última_actualización": "2025-09-30 22:03:29"
   },
   {
     "id": 842924,
@@ -4737,7 +4719,7 @@
     ],
     "popularidad": 13.1658,
     "puntuación": 7.404,
-    "votos": 415,
+    "votos": 416,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -4837,7 +4819,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:38"
+    "última_actualización": "2025-09-30 22:03:31"
   },
   {
     "id": 896536,
@@ -5006,7 +4988,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:38"
+    "última_actualización": "2025-09-30 22:03:31"
   },
   {
     "id": 1408208,
@@ -5148,7 +5130,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:39"
+    "última_actualización": "2025-09-30 22:03:32"
   },
   {
     "id": 1265063,
@@ -5277,7 +5259,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:39"
+    "última_actualización": "2025-09-30 22:03:32"
   },
   {
     "id": 1433680,
@@ -5360,80 +5342,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:40"
-  },
-  {
-    "id": 1242501,
-    "tmdb_id": 1242501,
-    "título": "Icefall",
-    "título_original": "Icefall",
-    "sinopsis": "",
-    "poster_path": "/9stfcS3h1jLGGdVO6sS5c2snOxw.jpg",
-    "poster_local": "imagenes_estrenos/Icefall_9stfcS3h1jLGGdVO6sS5c2snOxw.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-10-17T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Stefan Ruzowitzky",
-    "directores": [
-      {
-        "name": "Stefan Ruzowitzky",
-        "id": 15115
-      }
-    ],
-    "actores": [
-      {
-        "name": "Joel Kinnaman",
-        "id": 92404,
-        "character": "",
-        "profile_path": "/iVTh89rxgPhZSuijVo467WNsvUw.jpg"
-      },
-      {
-        "name": "Cara Jade Myers",
-        "id": 3006897,
-        "character": "",
-        "profile_path": "/5oHV0iqIja1qmX5cKyQHWA0eVXB.jpg"
-      },
-      {
-        "name": "Danny Huston",
-        "id": 6413,
-        "character": "",
-        "profile_path": "/7Wdh73SltnllH4KVd64PvqKQ5NJ.jpg"
-      },
-      {
-        "name": "Graham Greene",
-        "id": 6804,
-        "character": "",
-        "profile_path": "/ubX9pwrzQqnR41gAGyY1GoSZr1G.jpg"
-      },
-      {
-        "name": "Martin Sensmeier",
-        "id": 1584347,
-        "character": "",
-        "profile_path": "/d25Mx8thmbgQWHR35S5s6MxjsCc.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 80,
-        "name": "Crimen"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 2.7538,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2025-09-30 10:03:40"
+    "última_actualización": "2025-09-30 22:03:33"
   },
   {
     "id": 1272166,
@@ -5441,7 +5350,7 @@
     "título": "Maldita suerte",
     "título_original": "Ballad of a Small Player",
     "sinopsis": "",
-    "poster_path": "/yiXpXNiBWENaSJmdKfoT5DU0bL4.jpg",
+    "poster_path": "/htL7xkjJ07DaFS3xnDf9BFNfoDI.jpg",
     "poster_local": "imagenes_estrenos/Maldita_suerte_yiXpXNiBWENaSJmdKfoT5DU0bL4.jpg",
     "backdrop_path": "/w7yq5g0v10y1QWnVmpXksccVnhJ.jpg",
     "backdrop_local": "imagenes_estrenos/Maldita_suerte_backdrop_w7yq5g0v10y1QWnVmpXksccVnhJ.jpg",
@@ -5570,7 +5479,80 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:41"
+    "última_actualización": "2025-09-30 22:03:33"
+  },
+  {
+    "id": 1242501,
+    "tmdb_id": 1242501,
+    "título": "Icefall",
+    "título_original": "Icefall",
+    "sinopsis": "",
+    "poster_path": "/9stfcS3h1jLGGdVO6sS5c2snOxw.jpg",
+    "poster_local": "imagenes_estrenos/Icefall_9stfcS3h1jLGGdVO6sS5c2snOxw.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-10-17T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Stefan Ruzowitzky",
+    "directores": [
+      {
+        "name": "Stefan Ruzowitzky",
+        "id": 15115
+      }
+    ],
+    "actores": [
+      {
+        "name": "Joel Kinnaman",
+        "id": 92404,
+        "character": "",
+        "profile_path": "/iVTh89rxgPhZSuijVo467WNsvUw.jpg"
+      },
+      {
+        "name": "Cara Jade Myers",
+        "id": 3006897,
+        "character": "",
+        "profile_path": "/5oHV0iqIja1qmX5cKyQHWA0eVXB.jpg"
+      },
+      {
+        "name": "Danny Huston",
+        "id": 6413,
+        "character": "",
+        "profile_path": "/7Wdh73SltnllH4KVd64PvqKQ5NJ.jpg"
+      },
+      {
+        "name": "Graham Greene",
+        "id": 6804,
+        "character": "",
+        "profile_path": "/ubX9pwrzQqnR41gAGyY1GoSZr1G.jpg"
+      },
+      {
+        "name": "Martin Sensmeier",
+        "id": 1584347,
+        "character": "",
+        "profile_path": "/d25Mx8thmbgQWHR35S5s6MxjsCc.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 2.7538,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-09-30 22:03:34"
   },
   {
     "id": 1443576,
@@ -5659,7 +5641,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:41"
+    "última_actualización": "2025-09-30 22:03:35"
   },
   {
     "id": 1463240,
@@ -5738,7 +5720,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:42"
+    "última_actualización": "2025-09-30 22:03:36"
   },
   {
     "id": 1127628,
@@ -5817,7 +5799,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-30 10:03:44"
+    "última_actualización": "2025-09-30 22:03:37"
   },
   {
     "id": 1440144,
@@ -5896,7 +5878,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-09-30 10:03:44"
+    "última_actualización": "2025-09-30 22:03:38"
   },
   {
     "id": 1513031,
@@ -5949,7 +5931,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-09-30 10:03:46"
+    "última_actualización": "2025-09-30 22:03:40"
   },
   {
     "id": 1317641,
@@ -6099,7 +6081,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:49"
+    "última_actualización": "2025-09-30 22:03:42"
   },
   {
     "id": 1536703,
@@ -6157,7 +6139,7 @@
         }
       ]
     },
-    "última_actualización": "2025-09-30 10:03:48"
+    "última_actualización": "2025-09-30 22:03:41"
   },
   {
     "id": 1025388,
