@@ -1,0 +1,55 @@
+2025-10-06 20:06:56,703 - INFO - Iniciando proceso de scraping
+2025-10-06 20:06:56,706 - INFO - Posts existentes encontrados: 2446
+2025-10-06 20:06:56,706 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-10-06 20:06:58,116 - INFO - Se encontraron 10 posts
+2025-10-06 20:06:58,117 - INFO - Comenzando extracción de información del post
+2025-10-06 20:06:58,118 - INFO - Título del post: MASPALOMAS de Aitor Arregi y José Mari Goenaga (Los Moriarti)
+2025-10-06 20:06:58,118 - INFO - Fecha del post: 2025-10-06T19:42:14+02:00
+2025-10-06 20:06:58,118 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/10/critica-de-maspalomas-de-aitor-arregi-y-jose-mari-goenaga-los-moriarti.html
+2025-10-06 20:06:59,564 - INFO - Contenido extraído y estructurado (4619 caracteres)
+2025-10-06 20:06:59,565 - INFO - Guardando post en: posts/MASPALOMAS_2025-10-06.json
+2025-10-06 20:06:59,566 - INFO - Post guardado exitosamente
+2025-10-06 20:06:59,566 - INFO - Actualizando índice de películas
+2025-10-06 20:06:59,566 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-10-06 20:06:59,570 - INFO - Índice existente cargado con 2547 películas
+2025-10-06 20:06:59,582 - INFO - Película agregada al índice: MASPALOMAS
+2025-10-06 20:06:59,583 - INFO - Nuevo post guardado: MASPALOMAS de Aitor Arregi y José Mari Goenaga (Los Moriarti)
+2025-10-06 20:06:59,583 - INFO - Comenzando extracción de información del post
+2025-10-06 20:06:59,583 - INFO - Título del post: MI AMIGA EVA de Cesc Gay
+2025-10-06 20:06:59,583 - INFO - Fecha del post: 2025-10-06T19:30:16+02:00
+2025-10-06 20:06:59,583 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/10/critica-de-mi-amiga-eva-de-cesc-gay.html
+2025-10-06 20:07:00,909 - INFO - Contenido extraído y estructurado (2750 caracteres)
+2025-10-06 20:07:00,910 - INFO - Guardando post en: posts/MI_AMIGA_EVA_2025-10-06.json
+2025-10-06 20:07:00,910 - INFO - Post guardado exitosamente
+2025-10-06 20:07:00,910 - INFO - Actualizando índice de películas
+2025-10-06 20:07:00,911 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-10-06 20:07:00,914 - INFO - Índice existente cargado con 2548 películas
+2025-10-06 20:07:00,926 - INFO - Película agregada al índice: MI AMIGA EVA
+2025-10-06 20:07:00,926 - INFO - Nuevo post guardado: MI AMIGA EVA de Cesc Gay
+2025-10-06 20:07:00,926 - INFO - Comenzando extracción de información del post
+2025-10-06 20:07:00,926 - INFO - Título del post: UN GRAN VIAJE ATREVIDO Y MARAVILLOSO de Kogonada
+2025-10-06 20:07:00,926 - INFO - Fecha del post: 2025-10-06T19:20:05+02:00
+2025-10-06 20:07:00,926 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/10/un-gran-viaje-atrevido-y-maravilloso-de-kogonada.html
+2025-10-06 20:07:02,396 - INFO - Contenido extraído y estructurado (2695 caracteres)
+2025-10-06 20:07:02,397 - INFO - Guardando post en: posts/UN_GRAN_VIAJE_ATREVIDO_Y_MARAVILLOSO_2025-10-06.json
+2025-10-06 20:07:02,397 - INFO - Post guardado exitosamente
+2025-10-06 20:07:02,397 - INFO - Actualizando índice de películas
+2025-10-06 20:07:02,397 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-10-06 20:07:02,401 - INFO - Índice existente cargado con 2549 películas
+2025-10-06 20:07:02,412 - INFO - Película agregada al índice: UN GRAN VIAJE ATREVIDO Y MARAVILLOSO
+2025-10-06 20:07:02,413 - INFO - Nuevo post guardado: UN GRAN VIAJE ATREVIDO Y MARAVILLOSO de Kogonada
+2025-10-06 20:07:02,413 - INFO - Comenzando extracción de información del post
+2025-10-06 20:07:02,413 - INFO - Post ya existente, saltando: EL CAUTIVO de Alejandro Amenábar
+2025-10-06 20:07:02,413 - INFO - Comenzando extracción de información del post
+2025-10-06 20:07:02,413 - INFO - Post ya existente, saltando: EDDINGTON de Ari Aster
+2025-10-06 20:07:02,413 - INFO - Comenzando extracción de información del post
+2025-10-06 20:07:02,413 - INFO - Post ya existente, saltando: JONE, A VECES de Sara Fantoya
+2025-10-06 20:07:02,413 - INFO - Comenzando extracción de información del post
+2025-10-06 20:07:02,414 - INFO - Post ya existente, saltando: LA LEY DE JENNY PEN de James Ashcroft
+2025-10-06 20:07:02,414 - INFO - Comenzando extracción de información del post
+2025-10-06 20:07:02,414 - INFO - Post ya existente, saltando: APRIL de Dea Kulumbegashvilis
+2025-10-06 20:07:02,414 - INFO - Comenzando extracción de información del post
+2025-10-06 20:07:02,414 - INFO - Post ya existente, saltando: 13 DÍAS, 13 NOCHES de Martin Bourboulon
+2025-10-06 20:07:02,414 - INFO - Comenzando extracción de información del post
+2025-10-06 20:07:02,414 - INFO - Post ya existente, saltando: ROMERÍA de Carla Simón
+2025-10-06 20:07:02,414 - INFO - Proceso completado. Posts nuevos guardados: 3
