@@ -94,5 +94,41 @@
             }
         ],
         "cine": "Filmoteca de Navarra"
+    },
+    {
+        "título": "Retrato de una mujer en llamas",
+        "tmdb_id": 531428,
+        "director": "Céline Sciamma",
+        "duración": "122 min",
+        "actores": "Noémie Merlant, Adèle Haenel, Luàna Bajrami, Valeria Golino, Christel Baras",
+        "sinopsis": "Bretaña francesa, 1770. Marianne es una pintora que debe realizar el retrato matrimonial de Héloïse, una joven que acaba de dejar el convento. Héloïse no acepta su destino como mujer casada y se niega a posar, por lo que Marianne debe trabajar en secreto. Para ello, se hace pasar por dama de compañía, para así observarla de día y pintarla de noche. Su relación se vuelve más intensa a medida que comparten juntas los últimos momentos de libertad de Héloïse antes de su boda.",
+        "año": "2019",
+        "cartel": "imagenes_filmoteca\\tmdb_Retrato_de_una_mujer_en_llamas.jpg",
+        "cine": "Civivox Iturrama",
+        "horarios": [
+            {
+                "fecha": "2025-10-13",
+                "hora": "19:00",
+                "enlace_entradas": ""
+            }
+        ]
+    },
+    {
+        "título": "Les Invisibles",
+        "tmdb_id": 126331,
+        "director": "Sébastien Lifshitz",
+        "duración": "115 min",
+        "actores": "Thérèse Clerc, Bernard Romieu, Christian de Leusse, Monique Isselé",
+        "sinopsis": "Hombres y mujeres homosexuales de avanzada edad hablan sobre sus vidas y cómo han lidiado con su sexualidad en una Francia que en su momento les rechazó.",
+        "año": "2012",
+        "cartel": "imagenes_filmoteca\\tmdb_Les_Invisibles.jpg",
+        "cine": "Civivox Iturrama",
+        "horarios": [
+            {
+                "fecha": "2025-11-24",
+                "hora": "19:00",
+                "enlace_entradas": ""
+            }
+        ]
     }
 ]
