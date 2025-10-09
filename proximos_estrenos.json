@@ -1,5 +1,103 @@
 [
   {
+    "id": 1054581,
+    "tmdb_id": 1054581,
+    "título": "Distant Nixa",
+    "título_original": "Distant Nixa",
+    "sinopsis": "",
+    "poster_path": "/8FqQiIhlhMxtojZ3ixzq1BYcRVF.jpg",
+    "poster_local": "imagenes_estrenos/Distant_Nixa_8FqQiIhlhMxtojZ3ixzq1BYcRVF.jpg",
+    "backdrop_path": "/7qty1R8cfz2s8xQHmHkeRLHDdIz.jpg",
+    "backdrop_local": "imagenes_estrenos/Distant_Nixa_backdrop_7qty1R8cfz2s8xQHmHkeRLHDdIz.jpg",
+    "fecha_estreno": "2018-11-13T00:00:00.000Z",
+    "duración": "4 min",
+    "director": "Antonis Kartezos",
+    "directores": [
+      {
+        "name": "Antonis Kartezos",
+        "id": 3656723
+      }
+    ],
+    "actores": [
+      {
+        "name": "Efi Dimou",
+        "id": 3806287,
+        "character": "1st And 2nd Dancer",
+        "profile_path": "/bw3W1mrYIxgyqcE4PFIPVcCPh2w.jpg"
+      },
+      {
+        "name": "Myrto Petrochilou",
+        "id": 3806288,
+        "character": "3rd And 4th Dancer",
+        "profile_path": "/on7hDQw4IOrryBTC2VjeYbJqUwI.jpg"
+      }
+    ],
+    "géneros": [],
+    "popularidad": 0.0766,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2015",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1570,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7qty1R8cfz2s8xQHmHkeRLHDdIz.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2791
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1600,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5vx5ITyNuGhza2DJfN4XPBoInbG.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2844
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/8FqQiIhlhMxtojZ3ixzq1BYcRVF.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1200,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/dS6JAg6bM97MR3wJ9MsFQKZizik.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 800
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/9k38nPGc8XORFYsCd9WKnulEEdL.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1000
+        }
+      ]
+    },
+    "última_actualización": "2025-10-09 22:03:07"
+  },
+  {
     "id": 1245993,
     "tmdb_id": 1245993,
     "título": "Bala perdida",
@@ -1740,7 +1838,7 @@
       }
     ],
     "popularidad": 52.4249,
-    "puntuación": 7.235,
+    "puntuación": 7.2,
     "votos": 451,
     "adulto": false,
     "video": false,
@@ -1750,8 +1848,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/eQV9rSQ6S1ja4lGTwHTnQuVhoG.jpg",
           "vote_average": 8.034,
           "vote_count": 5,
@@ -1760,8 +1858,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/uIrXtEXreyWCledCZJQ0qHtFVr6.jpg",
           "vote_average": 3.334,
           "vote_count": 2,
@@ -1770,8 +1868,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/ev9kxdoJ5IYVprt1OvH2SMWJdU1.jpg",
           "vote_average": 3.334,
           "vote_count": 2,
@@ -1780,8 +1878,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/kG8bBajeSTUxJGmS47WujcraZUk.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -1790,8 +1888,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/rQ26y9Tt0geJ50TunM1bv2UP1Ei.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -1802,8 +1900,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/90jJmRRNmWeWd7Hiuk6RwYHIZbM.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -1822,8 +1920,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 2250,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/30I6vLgUw0lE6reuFVE2inq3vMO.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -1832,8 +1930,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/fc2EURCFc3DXZpmoqjo8ilI45LV.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -1841,7 +1939,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:36"
+    "última_actualización": "2025-10-09 22:03:01"
   },
   {
     "id": 1280282,
@@ -1923,8 +2021,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1025,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/MrcSSzWGsXf2IUJpjPPFLlNbjX.jpg",
           "vote_average": 1.75,
           "vote_count": 4,
@@ -1933,8 +2031,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/4nBxazVPqf88v4omVqGJSUoX0lE.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -1943,8 +2041,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1620,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/m1f4Q57IlCsO2Kv0cnkvBHPOchL.jpg",
           "vote_average": 1.222,
           "vote_count": 3,
@@ -1953,8 +2051,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1620,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/2NHgrfCxqmRNmhVzZMZAgTq5iIm.jpg",
           "vote_average": 0.166,
           "vote_count": 1,
@@ -1963,8 +2061,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1620,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/51ljVbuqMDLmdhV8OJHbLYp6wi3.jpg",
           "vote_average": 0.166,
           "vote_count": 2,
@@ -1975,8 +2073,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/rSDxrcfydeRn68Zg4pch7PgyGGJ.jpg",
           "vote_average": 0.0,
           "vote_count": 1,
@@ -1985,8 +2083,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/17ch9dzQUpRyxeyO9SjHDAMiJe0.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -2004,7 +2102,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:36"
+    "última_actualización": "2025-10-09 22:03:02"
   },
   {
     "id": 842924,
@@ -2078,8 +2176,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/51jDSREvaYRGjXBKd7jSSoOhFgc.jpg",
           "vote_average": 5.682,
           "vote_count": 11,
@@ -2088,8 +2186,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/6e2yeFZgtD7RKpUYEOjj5v7oAUz.jpg",
           "vote_average": 5.25,
           "vote_count": 8,
@@ -2098,8 +2196,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/lecBUG6Hsw7pYjTNAPBUgouDfjW.jpg",
           "vote_average": 5.25,
           "vote_count": 8,
@@ -2108,8 +2206,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/gTSKIKCxO48xramfxFjjwJ526tM.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -2118,8 +2216,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/1SgD8XMa6dDSBKbPU4TDe2cmfGK.jpg",
           "vote_average": 2.278,
           "vote_count": 4,
@@ -2130,8 +2228,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/7uPA7ur8LwRo3bxavMNsdpezmU8.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -2140,8 +2238,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 2048,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/bQGmEd6i4P9fb7nfjQDfkHWDmeW.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -2150,8 +2248,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 1620,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/s1xaIRWzRxksKwjDOfNhMRzmxJZ.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -2160,8 +2258,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/4WufgIsMDHzpQeGWThZVDAyJdRu.jpg",
           "vote_average": 2.278,
           "vote_count": 3,
@@ -2170,8 +2268,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/ii8526rChtLXZ5mJFk7HgmbcAEV.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -2179,7 +2277,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:37"
+    "última_actualización": "2025-10-09 22:03:02"
   },
   {
     "id": 896536,
@@ -2257,8 +2355,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/yMatVGaUxw3Vi3Z0RsLetvcSYko.jpg",
           "vote_average": 8.362,
           "vote_count": 6,
@@ -2267,8 +2365,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/dJ1JpHuTCRxtGpRq8bQzk2jBqTi.jpg",
           "vote_average": 3.334,
           "vote_count": 2,
@@ -2277,8 +2375,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1080,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/qlJa9H6ss72tDtZfAma2TqEFrAX.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -2287,8 +2385,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/nJjuNGh35bXSBSNX8xVpNBZTFXy.jpg",
           "vote_average": 2.278,
           "vote_count": 3,
@@ -2297,8 +2395,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/4Gge8EHy7ziPt6k4l3c1Mvk3pf1.jpg",
           "vote_average": 2.278,
           "vote_count": 3,
@@ -2309,8 +2407,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/lXFmrJ37EQccLjlNcltf5Lp2Seu.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -2319,8 +2417,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/ab0eDpvdOP5iXbwd79njbXABCev.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -2339,8 +2437,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/4CTWwRESx4xVVRkadMpT7DlLWrJ.jpg",
           "vote_average": 1.75,
           "vote_count": 1,
@@ -2349,8 +2447,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/y6YqNYxr97FrNAmyJSCry1spneJ.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -2358,7 +2456,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:37"
+    "última_actualización": "2025-10-09 22:03:02"
   },
   {
     "id": 1408208,
@@ -2426,8 +2524,8 @@
       }
     ],
     "popularidad": 8.4674,
-    "puntuación": 6.2,
-    "votos": 57,
+    "puntuación": 6.172,
+    "votos": 58,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2436,8 +2534,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1800,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/f5csnjqQj5qdqc0EZchon94hXZ6.jpg",
           "vote_average": 3.334,
           "vote_count": 2,
@@ -2446,8 +2544,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1800,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/rh0sSq3RvjuVNjvNR899QQXQ5DD.jpg",
           "vote_average": 3.334,
           "vote_count": 2,
@@ -2456,8 +2554,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1800,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/eNLJ9YgUxrrhlVbCN9B22fO87Og.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -2466,8 +2564,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1800,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/vv5Zlkpaj9p76NvFxtFp0UJEEFc.jpg",
           "vote_average": 3.334,
           "vote_count": 2,
@@ -2476,8 +2574,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1800,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/vFQeyJbC418yxdJ4dRALucNIVys.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -2488,8 +2586,8 @@
         {
           "aspect_ratio": 0.708,
           "height": 1059,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/aFo8SeHnVHCw9CUIYYsJHNNB1pG.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -2498,8 +2596,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 1500,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/f099Csmi3eQrppokJnD4k2Uqkzh.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -2507,7 +2605,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:37"
+    "última_actualización": "2025-10-09 22:03:02"
   },
   {
     "id": 1265063,
@@ -2581,8 +2679,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1247,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/hb85dF0aoy8RwBLBemwR2QlVm0L.jpg",
           "vote_average": 1.75,
           "vote_count": 4,
@@ -2591,8 +2689,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1323,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/6C1qLAjgB1B60EyMog1nEspTdUB.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -2601,8 +2699,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1080,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/v64ahORIFDndK6CnoArk6O6Yqfo.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -2611,8 +2709,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/9Ahk82L8KqfDGxWfDX074Mnytsv.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -2621,8 +2719,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/AohITmzWdR86ex2hssdTw2P7gbe.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -2633,8 +2731,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/fQZZFyDrNFpY3dUM3WHhFNLrb9T.jpg",
           "vote_average": 0.166,
           "vote_count": 2,
@@ -2652,7 +2750,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:37"
+    "última_actualización": "2025-10-09 22:03:02"
   },
   {
     "id": 1272166,
@@ -2734,8 +2832,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/w7yq5g0v10y1QWnVmpXksccVnhJ.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -2744,8 +2842,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1350,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/fie95Vi5t3TNSZYeIVEaxfpNdEw.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -2754,8 +2852,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1800,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/qRJYnKpFjetFmow6KpAbyh8oLLE.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -2764,8 +2862,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1800,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/tqtNIB80k9XJgJ4NZ4iuPvK6SWI.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -2774,8 +2872,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1800,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/fpi6MtK74QY3wcY0rtXnf9TPpTJ.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -2786,8 +2884,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/esIIZihnyVNm1e5WyCkfUJvfSkg.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -2795,7 +2893,91 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:38"
+    "última_actualización": "2025-10-09 22:03:03"
+  },
+  {
+    "id": 1242501,
+    "tmdb_id": 1242501,
+    "título": "Ice Fall",
+    "título_original": "Icefall",
+    "sinopsis": "Un joven guardabosques nativo americano captura a un famoso cazador furtivo y descubre que éste conoce la ubicación de un avión que transporta millones de dólares y que se ha estrellado en un lago helado.",
+    "poster_path": "/9stfcS3h1jLGGdVO6sS5c2snOxw.jpg",
+    "poster_local": "imagenes_estrenos/Icefall_9stfcS3h1jLGGdVO6sS5c2snOxw.jpg",
+    "backdrop_path": "/xkYc3R0tDEWCHhMrTG2IJpzictS.jpg",
+    "backdrop_local": "imagenes_estrenos/Ice_Fall_backdrop_xkYc3R0tDEWCHhMrTG2IJpzictS.jpg",
+    "fecha_estreno": "2025-10-17T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Stefan Ruzowitzky",
+    "directores": [
+      {
+        "name": "Stefan Ruzowitzky",
+        "id": 15115
+      }
+    ],
+    "actores": [
+      {
+        "name": "Joel Kinnaman",
+        "id": 92404,
+        "character": "",
+        "profile_path": "/iVTh89rxgPhZSuijVo467WNsvUw.jpg"
+      },
+      {
+        "name": "Cara Jade Myers",
+        "id": 3006897,
+        "character": "",
+        "profile_path": "/5oHV0iqIja1qmX5cKyQHWA0eVXB.jpg"
+      },
+      {
+        "name": "Danny Huston",
+        "id": 6413,
+        "character": "",
+        "profile_path": "/7Wdh73SltnllH4KVd64PvqKQ5NJ.jpg"
+      },
+      {
+        "name": "Graham Greene",
+        "id": 6804,
+        "character": "",
+        "profile_path": "/ubX9pwrzQqnR41gAGyY1GoSZr1G.jpg"
+      },
+      {
+        "name": "Martin Sensmeier",
+        "id": 1584347,
+        "character": "",
+        "profile_path": "/d25Mx8thmbgQWHR35S5s6MxjsCc.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 3.14,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xkYc3R0tDEWCHhMrTG2IJpzictS.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-10-09 22:03:03"
   },
   {
     "id": 1433680,
@@ -2870,8 +3052,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 900,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/szQu1Bc42rbc9KTAukgljahlJpm.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -2899,91 +3081,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:38"
-  },
-  {
-    "id": 1242501,
-    "tmdb_id": 1242501,
-    "título": "Ice Fall",
-    "título_original": "Icefall",
-    "sinopsis": "Un joven guardabosques nativo americano captura a un famoso cazador furtivo y descubre que éste conoce la ubicación de un avión que transporta millones de dólares y que se ha estrellado en un lago helado.",
-    "poster_path": "/9stfcS3h1jLGGdVO6sS5c2snOxw.jpg",
-    "poster_local": "imagenes_estrenos/Icefall_9stfcS3h1jLGGdVO6sS5c2snOxw.jpg",
-    "backdrop_path": "/xkYc3R0tDEWCHhMrTG2IJpzictS.jpg",
-    "backdrop_local": "imagenes_estrenos/Ice_Fall_backdrop_xkYc3R0tDEWCHhMrTG2IJpzictS.jpg",
-    "fecha_estreno": "2025-10-17T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Stefan Ruzowitzky",
-    "directores": [
-      {
-        "name": "Stefan Ruzowitzky",
-        "id": 15115
-      }
-    ],
-    "actores": [
-      {
-        "name": "Joel Kinnaman",
-        "id": 92404,
-        "character": "",
-        "profile_path": "/iVTh89rxgPhZSuijVo467WNsvUw.jpg"
-      },
-      {
-        "name": "Cara Jade Myers",
-        "id": 3006897,
-        "character": "",
-        "profile_path": "/5oHV0iqIja1qmX5cKyQHWA0eVXB.jpg"
-      },
-      {
-        "name": "Danny Huston",
-        "id": 6413,
-        "character": "",
-        "profile_path": "/7Wdh73SltnllH4KVd64PvqKQ5NJ.jpg"
-      },
-      {
-        "name": "Graham Greene",
-        "id": 6804,
-        "character": "",
-        "profile_path": "/ubX9pwrzQqnR41gAGyY1GoSZr1G.jpg"
-      },
-      {
-        "name": "Martin Sensmeier",
-        "id": 1584347,
-        "character": "",
-        "profile_path": "/d25Mx8thmbgQWHR35S5s6MxjsCc.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 80,
-        "name": "Crimen"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 3.14,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
-          "file_path": "/xkYc3R0tDEWCHhMrTG2IJpzictS.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-10-09 10:20:39"
+    "última_actualización": "2025-10-09 22:03:03"
   },
   {
     "id": 1443576,
@@ -3053,8 +3151,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 720,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/2oqTu89OCk5unsKV1neMJP3Btor.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -3065,8 +3163,8 @@
         {
           "aspect_ratio": 0.7,
           "height": 2835,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/hFF2ESOCVVvJlufeC3roFoMMouJ.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -3084,87 +3182,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:39"
-  },
-  {
-    "id": 1127628,
-    "tmdb_id": 1127628,
-    "título": "Esa Cosa con Alas",
-    "título_original": "The Thing with Feathers",
-    "sinopsis": "Luchando por procesar la repentina e inesperada muerte de su esposa, un joven padre pierde el control de la realidad cuando una presencia aparentemente maligna comienza a acecharle desde los oscuros recovecos del apartamento que comparte con sus dos hijos pequeños.",
-    "poster_path": "/niC58UPfKMislQ6l9hoD41CvTdX.jpg",
-    "poster_local": "imagenes_estrenos/The_Thing_with_Feathers_xMpIt1tR6ob4bgp1vTyKSdvGDLe.jpg",
-    "backdrop_path": "/uIXIQUDXUxvhjfKvpUnXTiVfvuB.jpg",
-    "backdrop_local": "imagenes_estrenos/The_Thing_with_Feathers_backdrop_uIXIQUDXUxvhjfKvpUnXTiVfvuB.jpg",
-    "fecha_estreno": "2025-10-17T00:00:00.000Z",
-    "duración": "98 min",
-    "director": "Dylan Southern",
-    "directores": [
-      {
-        "name": "Dylan Southern",
-        "id": 128992
-      }
-    ],
-    "actores": [
-      {
-        "name": "Benedict Cumberbatch",
-        "id": 71580,
-        "character": "Dad",
-        "profile_path": "/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
-      },
-      {
-        "name": "David Thewlis",
-        "id": 11207,
-        "character": "Crow (voice)",
-        "profile_path": "/sNuYyT8ocLlQr3TdAW9CoKVbCU8.jpg"
-      },
-      {
-        "name": "Sam Spruell",
-        "id": 55585,
-        "character": "Paul",
-        "profile_path": "/mV62no6D4yYtYS4A6dkHCGPTugZ.jpg"
-      },
-      {
-        "name": "Vinette Robinson",
-        "id": 21679,
-        "character": "Amanda",
-        "profile_path": "/m9jFmatKXYyz1nfPdrfR5uCrGHC.jpg"
-      },
-      {
-        "name": "Leo Bill",
-        "id": 29237,
-        "character": "Dr. Bowden",
-        "profile_path": "/2x0eBDkpaZ4CGrI5H5w006YEoKk.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 1.474,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1440,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
-          "file_path": "/uIXIQUDXUxvhjfKvpUnXTiVfvuB.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2560
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-10-09 10:20:40"
+    "última_actualización": "2025-10-09 22:03:03"
   },
   {
     "id": 1463240,
@@ -3235,8 +3253,8 @@
         {
           "aspect_ratio": 0.7,
           "height": 1200,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/t3BzU9W8NNZXlZGrcWwLsqF3PIB.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -3254,7 +3272,87 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:41"
+    "última_actualización": "2025-10-09 22:03:04"
+  },
+  {
+    "id": 1127628,
+    "tmdb_id": 1127628,
+    "título": "Esa Cosa con Alas",
+    "título_original": "The Thing with Feathers",
+    "sinopsis": "Luchando por procesar la repentina e inesperada muerte de su esposa, un joven padre pierde el control de la realidad cuando una presencia aparentemente maligna comienza a acecharle desde los oscuros recovecos del apartamento que comparte con sus dos hijos pequeños.",
+    "poster_path": "/niC58UPfKMislQ6l9hoD41CvTdX.jpg",
+    "poster_local": "imagenes_estrenos/The_Thing_with_Feathers_xMpIt1tR6ob4bgp1vTyKSdvGDLe.jpg",
+    "backdrop_path": "/uIXIQUDXUxvhjfKvpUnXTiVfvuB.jpg",
+    "backdrop_local": "imagenes_estrenos/The_Thing_with_Feathers_backdrop_uIXIQUDXUxvhjfKvpUnXTiVfvuB.jpg",
+    "fecha_estreno": "2025-10-17T00:00:00.000Z",
+    "duración": "98 min",
+    "director": "Dylan Southern",
+    "directores": [
+      {
+        "name": "Dylan Southern",
+        "id": 128992
+      }
+    ],
+    "actores": [
+      {
+        "name": "Benedict Cumberbatch",
+        "id": 71580,
+        "character": "Dad",
+        "profile_path": "/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+      },
+      {
+        "name": "David Thewlis",
+        "id": 11207,
+        "character": "Crow (voice)",
+        "profile_path": "/sNuYyT8ocLlQr3TdAW9CoKVbCU8.jpg"
+      },
+      {
+        "name": "Sam Spruell",
+        "id": 55585,
+        "character": "Paul",
+        "profile_path": "/mV62no6D4yYtYS4A6dkHCGPTugZ.jpg"
+      },
+      {
+        "name": "Vinette Robinson",
+        "id": 21679,
+        "character": "Amanda",
+        "profile_path": "/m9jFmatKXYyz1nfPdrfR5uCrGHC.jpg"
+      },
+      {
+        "name": "Leo Bill",
+        "id": 29237,
+        "character": "Dr. Bowden",
+        "profile_path": "/2x0eBDkpaZ4CGrI5H5w006YEoKk.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.474,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1440,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/uIXIQUDXUxvhjfKvpUnXTiVfvuB.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2560
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-10-09 22:03:04"
   },
   {
     "id": 1440144,
@@ -3324,8 +3422,8 @@
         {
           "aspect_ratio": 1.782,
           "height": 864,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/yWRYg5M2iEkcZpepQNMfKCs50gt.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -3355,7 +3453,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:43"
+    "última_actualización": "2025-10-09 22:03:05"
   },
   {
     "id": 1513031,
@@ -3419,7 +3517,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:43"
+    "última_actualización": "2025-10-09 22:03:05"
   },
   {
     "id": 1317641,
@@ -3505,8 +3603,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 900,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/t9MsiW5Fzwwp1OydKLgVQEVA4aS.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -3515,8 +3613,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 900,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/fxbS4ZTViU83EPAp355gqwQvtjh.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -3525,8 +3623,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 900,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/7HitfIyIv8zQynXlb1ySH8ebDf0.jpg",
           "vote_average": 0.166,
           "vote_count": 1,
@@ -3535,8 +3633,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/rHERTr1HIqtBlpkZxVL6DJPGKpH.jpg",
           "vote_average": 0.166,
           "vote_count": 1,
@@ -3547,8 +3645,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/pJ0tJ7jCfd63wfvJeOxUyWBDtyB.jpg",
           "vote_average": 3.334,
           "vote_count": 2,
@@ -3557,8 +3655,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/c7rNhVlWSDf9w8GCz743lVYiyCS.jpg",
           "vote_average": 0.166,
           "vote_count": 2,
@@ -3567,8 +3665,8 @@
         {
           "aspect_ratio": 0.75,
           "height": 1600,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/bvqw1lUXd451bi4m5oEGrdDttKU.jpg",
           "vote_average": 0.166,
           "vote_count": 2,
@@ -3576,7 +3674,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:44"
+    "última_actualización": "2025-10-09 22:03:05"
   },
   {
     "id": 1536703,
@@ -3615,8 +3713,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1080,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/rVR4vQIePUPl0v3daWQcXsOauz8.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -3627,8 +3725,8 @@
         {
           "aspect_ratio": 0.707,
           "height": 2000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/8hpKyqjSSZ9nLxJSZ1Q9zJIbKUh.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -3636,7 +3734,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:44"
+    "última_actualización": "2025-10-09 22:03:07"
   },
   {
     "id": 1197137,
@@ -3668,7 +3766,7 @@
         "name": "Madeleine McGraw",
         "id": 1530558,
         "character": "Gwen Blake",
-        "profile_path": "/hnCnwHxMNAs5abWsYZvsfBHklIR.jpg"
+        "profile_path": "/y8BJm6csWWfMH2qsaTV192ZFICK.jpg"
       },
       {
         "name": "Ethan Hawke",
@@ -3700,8 +3798,8 @@
       }
     ],
     "popularidad": 22.715,
-    "puntuación": 0.0,
-    "votos": 0,
+    "puntuación": 7.25,
+    "votos": 2,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3710,8 +3808,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1701,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/eBhxn1g9l5UdnqfKdqMOBYltwZk.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -3720,8 +3818,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/GNeuKnbZRZj5JhKfnJOPyKJuVA.jpg",
           "vote_average": 2.278,
           "vote_count": 3,
@@ -3730,8 +3828,8 @@
         {
           "aspect_ratio": 1.776,
           "height": 1126,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/hQ3naChF8XajGCRcvOX5TLVSqQd.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -3740,8 +3838,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/uAZsKVSwUOHJBB0ELXlw6yIAejX.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -3750,8 +3848,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/ck8o7wiq0oSs0sgzO4IvOIQOhTd.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -3762,8 +3860,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/hZSjha0qirQ0IJr3cQGr7tTEmg5.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -3772,8 +3870,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/tKfFeuUxuudPYdH0HP16SZVjrmo.jpg",
           "vote_average": 3.334,
           "vote_count": 0,
@@ -3782,8 +3880,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/oQ6KMR28klh7gJiWFLJgvparvjM.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -3792,8 +3890,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/hH3DJi9TeC0x2poyednoJis0BVG.jpg",
           "vote_average": 0.166,
           "vote_count": 1,
@@ -3811,7 +3909,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:36"
+    "última_actualización": "2025-10-09 22:03:01"
   },
   {
     "id": 1327862,
@@ -3885,8 +3983,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/m3WlBJJRbFPaut1QS0PbOG8Wezy.jpg",
           "vote_average": 2.278,
           "vote_count": 3,
@@ -3895,8 +3993,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/ril2LHOGbmjHHV3asPHWKDdtGyG.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -3905,8 +4003,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/kCKFwFq97crSiYJcljIvcVoV4D3.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -3915,8 +4013,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/xMUQm05RNJhyhK4x4ZCFjHa8GH7.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -3925,8 +4023,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/dKPwnryTkgL0JihpQBnLvZTQnvT.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -3937,8 +4035,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/rT7mqhteIsdDKL5tsO8SpiJVtqc.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -3947,8 +4045,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/mUC1bN3h0jtOHhLtzGJWvonS36C.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -3976,7 +4074,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:37"
+    "última_actualización": "2025-10-09 22:03:02"
   },
   {
     "id": 1230368,
@@ -4050,8 +4148,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1728,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/7OwZxXuLPtCFjdqJdiTuEE1DE4J.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -4060,8 +4158,8 @@
         {
           "aspect_ratio": 1.777,
           "height": 880,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/qIIZqXu6RLP3EXFH7dvIyaKCteh.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -4070,8 +4168,8 @@
         {
           "aspect_ratio": 1.777,
           "height": 1595,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/7kbGRiOjWX9dGjdBpi0DU2Oh91H.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -4080,8 +4178,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/oOczvrnhpXUmqCbyKYFj4FQExAo.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -4090,8 +4188,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/dFPUfwDeRfySQoPTmzyORfOJGdn.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -4112,8 +4210,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/coiixu7hpx8yKWxihW61yzDNs0D.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -4122,8 +4220,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/u6dJZoxaSr5fRQF6EqgTgZDoK7a.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -4132,8 +4230,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/7IKHn9J1FTc3BfGeZqiiv7kPmaL.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -4142,8 +4240,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/cUWULoTJkTX9289s3QnNpo6o8a2.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -4151,7 +4249,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:38"
+    "última_actualización": "2025-10-09 22:03:02"
   },
   {
     "id": 1497970,
@@ -4225,8 +4323,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1080,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/9qI2hBLrhwtynNF4P0DjE2edY9W.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -4235,8 +4333,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/daVBzTiyRs4a7vf4SnBoeqJtwRy.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -4245,8 +4343,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1080,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/1enGiHq3W9GgH3VxVAwTPKg7HAO.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -4255,8 +4353,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 744,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/9RmIdlQpa0DLej4h24EZRmH9LR0.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -4265,7 +4363,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-09 10:20:39"
+    "última_actualización": "2025-10-09 22:03:03"
   },
   {
     "id": 988361,
@@ -4335,8 +4433,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/oerIAQCV2GjF4fdYZB8bhbwgQnU.jpg",
           "vote_average": 3.334,
           "vote_count": 2,
@@ -4345,8 +4443,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 720,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/jJFEAzm8nxdfnhVoQKP3ODzQH9s.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -4355,8 +4453,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/fKQOSxeuNZFE9CKzDvkE7l94WbA.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -4365,8 +4463,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/ltKXt1xhXZo7QmqzOOjw7Qmn2BQ.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -4375,8 +4473,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/9kNCwRzmjjswR9DcNSMrBvlR8mu.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -4385,7 +4483,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-09 10:20:40"
+    "última_actualización": "2025-10-09 22:03:03"
   },
   {
     "id": 1187298,
@@ -4465,7 +4563,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:41"
+    "última_actualización": "2025-10-09 22:03:04"
   },
   {
     "id": 1021643,
@@ -4539,8 +4637,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/A8NhXizmkhd8my2BHZPB1QYjYVd.jpg",
           "vote_average": 3.334,
           "vote_count": 2,
@@ -4549,8 +4647,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/vkx5tiUhWAPnw4jP9502i3RsJcS.jpg",
           "vote_average": 0.166,
           "vote_count": 1,
@@ -4561,8 +4659,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 2520,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/3cbU6vbaFdqBuH57GqRqYm5BYgM.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -4571,8 +4669,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 1800,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/4i323x79TJ35EhWdMYMcdWMYohR.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -4580,7 +4678,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:42"
+    "última_actualización": "2025-10-09 22:03:04"
   },
   {
     "id": 1063873,
@@ -4654,8 +4752,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/3x5FyDjNb61cZMET8pqhoKygHau.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -4664,8 +4762,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/jRc117FA9lUn12S3NDFpvEFrxMJ.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -4674,8 +4772,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/7GIjC4HOYd5VsZxdWlJYT2JsYl5.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -4684,8 +4782,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/n38cSR9bLvgf3aRNpNWR1jz2WG9.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -4694,8 +4792,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/kOuB5vZI1cJthJnry08FA98IOa2.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -4704,7 +4802,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-09 10:20:42"
+    "última_actualización": "2025-10-09 22:03:04"
   },
   {
     "id": 1383519,
@@ -4778,8 +4876,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 720,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/4OnIbWfh1MDp26EfMEaXxo2YMat.jpg",
           "vote_average": 0.0,
           "vote_count": 1,
@@ -4799,7 +4897,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:43"
+    "última_actualización": "2025-10-09 22:03:05"
   },
   {
     "id": 1061771,
@@ -4850,8 +4948,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1152,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/a1O27Bp7rxMgqgTu669sTYZQhKo.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -4881,7 +4979,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:43"
+    "última_actualización": "2025-10-09 22:03:05"
   },
   {
     "id": 1218925,
@@ -4949,8 +5047,8 @@
       }
     ],
     "popularidad": 100.2497,
-    "puntuación": 8.5,
-    "votos": 17,
+    "puntuación": 8.611,
+    "votos": 18,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -4959,8 +5057,8 @@
         {
           "aspect_ratio": 1.782,
           "height": 1434,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/dh0dLVLDLqUKhtytCFjkf3EHeJI.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -4969,8 +5067,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/7qa4woXYWbb7eK9zlaPOX50OdLi.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -4979,8 +5077,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/7BnTZKp5lVdaA7dlCG6y8TAiL7f.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -4989,8 +5087,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/rI4waA7VlRAynrYUUpiPScsdPm8.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -4999,8 +5097,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/wvfs2XZhXBKFgb33px1XKB7y2vN.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -5011,8 +5109,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/jJBpNLmkK63nTXRSb00RFNSHs4l.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -5021,8 +5119,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/2rFeA3uCgBy2Zh9fsyXkFK5ba4q.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -5031,8 +5129,8 @@
         {
           "aspect_ratio": 0.707,
           "height": 2048,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/zzuFDhbI7Ngt7E6M0nsobx0SohH.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -5041,8 +5139,8 @@
         {
           "aspect_ratio": 0.707,
           "height": 2048,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/tV9LLldHmdzuCtlEpmwQpmpNs71.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -5051,8 +5149,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/yhmbPBtBCTLjMJbtf7wzXDtFX1p.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -5060,7 +5158,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:35"
+    "última_actualización": "2025-10-09 22:03:01"
   },
   {
     "id": 1242011,
@@ -5130,8 +5228,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/fBlzTwgtbDYkDKlhnPu69jHfVGy.jpg",
           "vote_average": 7.05,
           "vote_count": 10,
@@ -5140,8 +5238,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1440,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/uBB1aMga5ngZxsUQL5k36zeW3pB.jpg",
           "vote_average": 6.722,
           "vote_count": 9,
@@ -5150,8 +5248,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1080,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/7aUy3OQvvaqtB8pmCoAAgi0a8f8.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -5160,8 +5258,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1080,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/9yftgda38e5ozKyJh5gQ8uSULku.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -5170,8 +5268,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1080,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/lYSVOoBe8zmhb9xumE2y5t44Wfp.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -5182,8 +5280,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/70TrYT2aFB9DCVDbUomqMPGFS3.jpg",
           "vote_average": 10.0,
           "vote_count": 4,
@@ -5192,8 +5290,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/2Ez1WPnsmFQA9wZmEiuTya3jksS.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -5202,8 +5300,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/uC6LEfdcXtuSRtWnZDfyIQJBnIn.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -5212,8 +5310,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/cFVbKnf25GuIKE2hZ4qz4BgvItK.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -5222,8 +5320,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/ieJkqAVPjKAQ3QnFiqzdqB5DSi8.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -5231,7 +5329,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:35"
+    "última_actualización": "2025-10-09 22:03:01"
   },
   {
     "id": 926606,
@@ -5309,8 +5407,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/IOEXDwaVH2IcSXIZhCg7g572ic.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -5319,8 +5417,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/irB2Kqh3LMYWXgvvnVjeoqTXF97.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -5329,8 +5427,8 @@
         {
           "aspect_ratio": 1.776,
           "height": 723,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/z55NkFTGhNX6QEOCGeDIROWIbnO.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -5339,8 +5437,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1712,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/kJwjlEhcQ9t9zi1U7Jx9sQw1ex6.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -5349,8 +5447,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 1080,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/Lu57GTE24Ja5O61jieY2aIBk8d.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -5361,8 +5459,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/eXty8TldtAcsxTW8KKawsyy81ix.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -5371,8 +5469,8 @@
         {
           "aspect_ratio": 0.701,
           "height": 1426,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/xBNaf0TgBBXG0BUk1hotuMsBhV5.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -5381,8 +5479,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/86U8lHXlbg7aPuvsEhMllzC6poH.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -5391,8 +5489,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/pSnRbv95yJB5uF61yCT2cNNiIE2.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -5400,7 +5498,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:36"
+    "última_actualización": "2025-10-09 22:03:02"
   },
   {
     "id": 1218032,
@@ -5482,8 +5580,8 @@
         {
           "aspect_ratio": 1.78,
           "height": 1200,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/o1j7fmpHPV38u0rkFOfPyRZjToZ.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -5492,8 +5590,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/fcZmSCx4eceuOYD6li7KGq0gMk5.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -5502,8 +5600,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 720,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/eQo72Lv7X0FsGcnzcerYOGkMKn5.jpg",
           "vote_average": 0.166,
           "vote_count": 1,
@@ -5512,8 +5610,8 @@
         {
           "aspect_ratio": 1.78,
           "height": 1200,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/6VFgxutJ0o8ELRbt6NE3gIl1s3V.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -5522,8 +5620,8 @@
         {
           "aspect_ratio": 1.78,
           "height": 1200,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/gwofonhNJQgI1VGVNxIywGhBSo1.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -5532,7 +5630,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-09 10:20:38"
+    "última_actualización": "2025-10-09 22:03:03"
   },
   {
     "id": 1242015,
@@ -5606,8 +5704,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/7UsW6pKkCdCmceBmdQ0MvV6zKhL.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -5616,8 +5714,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/lkaDi4yVKncVlKHXRLkssZ2vCcc.jpg",
           "vote_average": 1.222,
           "vote_count": 3,
@@ -5626,8 +5724,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/2LbCeTNBS8zftUeoT144SSscz54.jpg",
           "vote_average": 1.222,
           "vote_count": 3,
@@ -5636,8 +5734,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/pXtdugOFJPwSeigkHrHJpyI7abM.jpg",
           "vote_average": 1.222,
           "vote_count": 3,
@@ -5646,8 +5744,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/i5Dg18NBkto1ivzMpB6o0DGtoWZ.jpg",
           "vote_average": 1.222,
           "vote_count": 3,
@@ -5658,8 +5756,8 @@
         {
           "aspect_ratio": 0.681,
           "height": 1252,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/yLnrQiAByYDRZYMMwVHnq6Mql8b.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -5667,7 +5765,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:39"
+    "última_actualización": "2025-10-09 22:03:03"
   },
   {
     "id": 1464374,
@@ -5742,8 +5840,8 @@
         {
           "aspect_ratio": 0.724,
           "height": 1708,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/ffRoGZ5bH46RDAdhzSlU9BthGPt.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -5761,7 +5859,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:40"
+    "última_actualización": "2025-10-09 22:03:04"
   },
   {
     "id": 1214130,
@@ -5843,8 +5941,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 720,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/iJjwX97EKkcfZRMtoE9C3Uc0kz3.jpg",
           "vote_average": 3.334,
           "vote_count": 2,
@@ -5853,8 +5951,8 @@
         {
           "aspect_ratio": 1.781,
           "height": 1080,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/oSauWtwjdbcVahxWq2zVPkxuDBn.jpg",
           "vote_average": 2.278,
           "vote_count": 3,
@@ -5863,8 +5961,8 @@
         {
           "aspect_ratio": 1.781,
           "height": 1080,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/hNdD8w6OGgISCGBER9exiKoOizr.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -5873,8 +5971,8 @@
         {
           "aspect_ratio": 1.781,
           "height": 1080,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/qEWQcnkZg5uucfAVkYTDExkBAVz.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -5883,8 +5981,8 @@
         {
           "aspect_ratio": 1.781,
           "height": 1080,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/d64WXLBByvhMinbQWUxZcDyuYnC.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -5905,8 +6003,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/pse0tr4V9TuDRrokEl94jUFOUEC.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -5914,7 +6012,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:41"
+    "última_actualización": "2025-10-09 22:03:04"
   },
   {
     "id": 1465563,
@@ -5984,8 +6082,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/ztvFY1fw55BJ9Wmj05Z35ZA9tLj.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -5994,8 +6092,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/YK18OQW3Xl8PBhYQxFIyIp5uKw.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
@@ -6004,8 +6102,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/aY6mZHUAcL2YjnRmp0tRyYtmN9l.jpg",
           "vote_average": 0.166,
           "vote_count": 1,
@@ -6014,8 +6112,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/aU6wCChW9RT3wfNaQ4Q0kCuN5kQ.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -6046,8 +6144,8 @@
         {
           "aspect_ratio": 0.668,
           "height": 1522,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/vs0cynVUEJfStigBXtETUlW551Z.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -6055,7 +6153,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:41"
+    "última_actualización": "2025-10-09 22:03:04"
   },
   {
     "id": 1190449,
@@ -6125,8 +6223,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/7rzaqSDUfNirHqLkDalH4VBFzaX.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -6135,8 +6233,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/94oa2KbIYSBPXYn5XPTeZG5AFFQ.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -6145,8 +6243,8 @@
         {
           "aspect_ratio": 1.778,
           "height": 2160,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/oLUNuMorCHFKSfUy7Cn0270fX9h.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -6155,7 +6253,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-09 10:20:42"
+    "última_actualización": "2025-10-09 22:03:05"
   },
   {
     "id": 1460448,
@@ -6230,8 +6328,8 @@
         {
           "aspect_ratio": 0.7,
           "height": 1357,
-          "iso_3166_1": "XX",
-          "iso_639_1": "xx",
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/t6SoxUVENVxGxJWdiGBQs4izkAx.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -6239,7 +6337,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-09 10:20:42"
+    "última_actualización": "2025-10-09 22:03:05"
   },
   {
     "id": 1025388,
