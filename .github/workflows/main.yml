@@ -1,5 +1,9 @@
 name: Scraping Automatizado de Cines
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 on:
   schedule:
     - cron: '0 */4 * * *'     # Scraping general cada 4 horas
@@ -170,6 +174,7 @@ jobs:
           COMMIT_MSG="🔄 Actualización automática - $TIMESTAMP"
           
           git commit -m "$COMMIT_MSG"
+          git pull --rebase origin main
           git push origin main
 
       - name: 📄 Preparar archivos para GitHub Pages
