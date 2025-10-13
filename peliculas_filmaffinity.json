@@ -1,32 +1,5 @@
 [
     {
-        "título": "Guardianes de la noche: La fortaleza infinita",
-        "cartel": "imagenes_filmaffinity/tmdb_guardianes-de-la-noche-la-fortaleza-infinita.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-10-13",
-                "hora": "22:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=21972"
-            },
-            {
-                "fecha": "2025-10-14",
-                "hora": "22:10",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22044"
-            },
-            {
-                "fecha": "2025-10-15",
-                "hora": "22:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22000"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Haruo Sotozaki",
-        "duración": "155 min",
-        "actores": "Natsuki Hanae, Hiro Shimono, Takahiro Sakurai, Akira Ishida, Yoshitsugu Matsuoka",
-        "sinopsis": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
-        "año": "2025"
-    },
-    {
         "título": "Downton Abbey: El gran final",
         "cartel": "imagenes_filmaffinity/tmdb_downton-abbey-el-gran-final.jpg",
         "horarios": [
@@ -109,6 +82,28 @@
         "duración": "162 min",
         "actores": "Leonardo DiCaprio, Sean Penn, Chase Infiniti, Benicio del Toro, Regina Hall",
         "sinopsis": "Cuando su principal enemigo resurge después de 16 años, una banda de ex revolucionarios se pone de nuevo en contacto para rescatar a la hija de uno de los suyos, encarnado por Leonardo DiCaprio. Adaptación de la novela 'Vineland', de Thomas Pynchon (1990), sobre los movimientos radicales de los años sesenta.",
+        "año": "2025"
+    },
+    {
+        "título": "Guardianes de la noche: La fortaleza infinita",
+        "cartel": "imagenes_filmaffinity/tmdb_guardianes-de-la-noche-la-fortaleza-infinita.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-10-14",
+                "hora": "22:10",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22044"
+            },
+            {
+                "fecha": "2025-10-15",
+                "hora": "22:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22000"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Haruo Sotozaki",
+        "duración": "155 min",
+        "actores": "Natsuki Hanae, Hiro Shimono, Takahiro Sakurai, Akira Ishida, Yoshitsugu Matsuoka",
+        "sinopsis": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
         "año": "2025"
     },
     {
