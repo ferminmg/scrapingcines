@@ -1,69 +1,8 @@
 [
     {
-        "título": "Bala perdida",
-        "cartel": "imagenes_filmaffinity/tmdb_bala-perdida.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-10-14",
-                "hora": "20:25",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22043"
-            },
-            {
-                "fecha": "2025-10-21",
-                "hora": "19:55",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22249"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Darren Aronofsky",
-        "duración": "107 min",
-        "actores": "Austin Butler, Regina King, Zoë Kravitz, Matt Smith, Liev Schreiber",
-        "sinopsis": "Cuando su vecino punki Russ le pide que cuide de su gato durante unos días, Hank Thompson se encuentra atrapado en medio de un variopinto grupo de gángsters amenazantes. Todos quieren algo de él; el problema es que él no sabe por qué. Mientras Hank intenta eludir sus cada vez más estrechas garras, tendrá que emplear toda su habilidad para mantenerse con vida el tiempo suficiente para averiguarlo…",
-        "año": "2025"
-    },
-    {
-        "título": "The Smashing Machine",
-        "cartel": "imagenes_filmaffinity/tmdb_the-smashing-machine.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-10-14",
-                "hora": "22:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22040"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Benny Safdie",
-        "duración": "123 min",
-        "actores": "Dwayne Johnson, Emily Blunt, Ryan Bader, Bas Rutten, Lyndsey Gavin",
-        "sinopsis": "",
-        "año": "2025"
-    },
-    {
-        "título": "Una batalla tras otra",
-        "cartel": "imagenes_filmaffinity/tmdb_una-batalla-tras-otra.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-10-14",
-                "hora": "20:20",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22027"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Paul Thomas Anderson",
-        "duración": "162 min",
-        "actores": "Leonardo DiCaprio, Sean Penn, Chase Infiniti, Benicio del Toro, Regina Hall",
-        "sinopsis": "Cuando su principal enemigo resurge después de 16 años, una banda de ex revolucionarios se pone de nuevo en contacto para rescatar a la hija de uno de los suyos, encarnado por Leonardo DiCaprio. Adaptación de la novela 'Vineland', de Thomas Pynchon (1990), sobre los movimientos radicales de los años sesenta.",
-        "año": "2025"
-    },
-    {
         "título": "Guardianes de la noche: La fortaleza infinita",
         "cartel": "imagenes_filmaffinity/tmdb_guardianes-de-la-noche-la-fortaleza-infinita.jpg",
         "horarios": [
-            {
-                "fecha": "2025-10-14",
-                "hora": "22:10",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22044"
-            },
             {
                 "fecha": "2025-10-15",
                 "hora": "22:00",
@@ -131,6 +70,23 @@
         "duración": "119 min",
         "actores": "Jared Leto, Greta Lee, Evan Peters, Gillian Anderson, Jodie Turner-Smith",
         "sinopsis": "La historia de Ares, un programa muy sofisticado que se envía desde el mundo digital al mundo real en una misión peligrosa y que va a representar el primer encuentro de la humanidad con seres creados por la IA.",
+        "año": "2025"
+    },
+    {
+        "título": "Bala perdida",
+        "cartel": "imagenes_filmaffinity/tmdb_bala-perdida.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-10-21",
+                "hora": "19:55",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22249"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Darren Aronofsky",
+        "duración": "107 min",
+        "actores": "Austin Butler, Regina King, Zoë Kravitz, Matt Smith, Liev Schreiber",
+        "sinopsis": "Cuando su vecino punki Russ le pide que cuide de su gato durante unos días, Hank Thompson se encuentra atrapado en medio de un variopinto grupo de gángsters amenazantes. Todos quieren algo de él; el problema es que él no sabe por qué. Mientras Hank intenta eludir sus cada vez más estrechas garras, tendrá que emplear toda su habilidad para mantenerse con vida el tiempo suficiente para averiguarlo…",
         "año": "2025"
     },
     {
