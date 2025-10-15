@@ -6,7 +6,7 @@
             {
                 "fecha": "2025-10-15",
                 "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=96227&eventCode=100474"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -40,7 +40,12 @@
             {
                 "fecha": "2025-10-15",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=96216&eventCode=100784"
+                "enlace_entradas": null
+            },
+            {
+                "fecha": "2025-10-15",
+                "hora": "21:30",
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -91,7 +96,7 @@
             {
                 "fecha": "2025-10-16",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=96236&eventCode=100784"
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=96374&eventCode=100784"
             }
         ],
         "cine": "Golem Baiona",
@@ -346,7 +351,7 @@
             {
                 "fecha": "2025-10-15",
                 "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87420&eventCode=98493"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -363,7 +368,7 @@
             {
                 "fecha": "2025-10-15",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87414&eventCode=99013"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -398,6 +403,74 @@
                 "fecha": "2025-10-16",
                 "hora": "21:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87429&eventCode=99013"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Lilja Ingolfsdottir",
+        "duración": "101 min",
+        "actores": "Helga Guren, Oddgeir Thune, Heidi Gjermundsen, Maja Tothammer-Hruza, Marte Magnusdotter Solem",
+        "sinopsis": "Maria hace malabarismos con cuatro hijos y una carrera exigente mientras su segundo marido, Sigmund, viaja todo el tiempo. Un día se enzarzan en una fea discusión que lleva a Sigmund a pedirle el divorcio.",
+        "año": "2024"
+    },
+    {
+        "título": "Jugar con fuego",
+        "cartel": "imagenes_peliculas/tmdb_jugar_con_fuego.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-10-17",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87466&eventCode=98493"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Delphine Coulin, Muriel Coulin",
+        "duración": "110 min",
+        "actores": "Vincent Lindon, Benjamin Voisin, Stefan Crepon, Maëlle Poesy-Guichard, Édouard Sulpice",
+        "sinopsis": "Pierre, un trabajador ferroviario de cincuenta años, cría solo a sus dos hijos. Los tres están muy unidos. Cuando Louis, el más joven, deja su casa para estudiar en la Sorbona de París, Fus, el mayor y con peores resultados en los estudios, se vuelve cada vez más reservado. Fascinado por la violencia, se relaciona con grupos de extrema derecha, la antítesis de los valores de su padre. Pronto ocurre una tragedia.",
+        "año": "2025"
+    },
+    {
+        "título": "Adorable",
+        "cartel": "imagenes_peliculas/tmdb_adorable.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-10-17",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87462&eventCode=99013"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Lilja Ingolfsdottir",
+        "duración": "101 min",
+        "actores": "Helga Guren, Oddgeir Thune, Heidi Gjermundsen, Maja Tothammer-Hruza, Marte Magnusdotter Solem",
+        "sinopsis": "Maria hace malabarismos con cuatro hijos y una carrera exigente mientras su segundo marido, Sigmund, viaja todo el tiempo. Un día se enzarzan en una fea discusión que lleva a Sigmund a pedirle el divorcio.",
+        "año": "2024"
+    },
+    {
+        "título": "Jugar con fuego",
+        "cartel": "imagenes_peliculas/tmdb_jugar_con_fuego.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-10-18",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87450&eventCode=98493"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Delphine Coulin, Muriel Coulin",
+        "duración": "110 min",
+        "actores": "Vincent Lindon, Benjamin Voisin, Stefan Crepon, Maëlle Poesy-Guichard, Édouard Sulpice",
+        "sinopsis": "Pierre, un trabajador ferroviario de cincuenta años, cría solo a sus dos hijos. Los tres están muy unidos. Cuando Louis, el más joven, deja su casa para estudiar en la Sorbona de París, Fus, el mayor y con peores resultados en los estudios, se vuelve cada vez más reservado. Fascinado por la violencia, se relaciona con grupos de extrema derecha, la antítesis de los valores de su padre. Pronto ocurre una tragedia.",
+        "año": "2025"
+    },
+    {
+        "título": "Adorable",
+        "cartel": "imagenes_peliculas/tmdb_adorable.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-10-18",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87446&eventCode=99013"
             }
         ],
         "cine": "Golem Yamaguchi",
