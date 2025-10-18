@@ -95,7 +95,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:49"
+    "última_actualización": "2025-10-18 22:03:00"
   },
   {
     "id": 1317641,
@@ -532,7 +532,7 @@
     "sinopsis": "Secuela de \"The Black Phone\".",
     "poster_path": "/q2G2EsnMaDzcWJetfpxnqMu4smE.jpg",
     "poster_local": "imagenes_estrenos/Black_Phone_2_A6QNBDV1u3oaq3guBHGKcEJkYkX.jpg",
-    "backdrop_path": "/ck8o7wiq0oSs0sgzO4IvOIQOhTd.jpg",
+    "backdrop_path": "/7QMsQ465YlyCFstLJUeUdpEwNUd.jpg",
     "backdrop_local": "imagenes_estrenos/Black_Phone_2_backdrop_eBhxn1g9l5UdnqfKdqMOBYltwZk.jpg",
     "fecha_estreno": "2025-10-24T00:00:00.000Z",
     "duración": "114 min",
@@ -590,21 +590,41 @@
       }
     ],
     "popularidad": 103.1513,
-    "puntuación": 7.043,
-    "votos": 35,
+    "puntuación": 7.0,
+    "votos": 37,
     "adulto": false,
     "video": false,
     "año": "2025",
     "imágenes": {
       "backdrops": [
         {
+          "aspect_ratio": 1.779,
+          "height": 1594,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7QMsQ465YlyCFstLJUeUdpEwNUd.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2835
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/GNeuKnbZRZj5JhKfnJOPyKJuVA.jpg",
+          "vote_average": 2.542,
+          "vote_count": 4,
+          "width": 3840
+        },
+        {
           "aspect_ratio": 1.778,
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/ck8o7wiq0oSs0sgzO4IvOIQOhTd.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
+          "vote_average": 1.75,
+          "vote_count": 2,
           "width": 3840
         },
         {
@@ -613,8 +633,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/ym9tb3vsiGIqPyNkpGCk9LLYbGh.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
+          "vote_average": 1.75,
+          "vote_count": 2,
           "width": 1280
         },
         {
@@ -623,29 +643,9 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/kH9qhlCtf5gpYYWOm6mpQm6e0eR.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
+          "vote_average": 1.75,
+          "vote_count": 2,
           "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/GNeuKnbZRZj5JhKfnJOPyKJuVA.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.776,
-          "height": 1126,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/hQ3naChF8XajGCRcvOX5TLVSqQd.jpg",
-          "vote_average": 1.222,
-          "vote_count": 3,
-          "width": 2000
         }
       ],
       "posters": [
@@ -701,7 +701,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:46"
+    "última_actualización": "2025-10-18 22:02:52"
   },
   {
     "id": 1327862,
@@ -866,7 +866,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:47"
+    "última_actualización": "2025-10-18 22:02:53"
   },
   {
     "id": 1230368,
@@ -1041,7 +1041,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:47"
+    "última_actualización": "2025-10-18 22:02:53"
   },
   {
     "id": 1187298,
@@ -1121,7 +1121,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:48"
+    "última_actualización": "2025-10-18 22:02:55"
   },
   {
     "id": 1497970,
@@ -1246,7 +1246,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:48"
+    "última_actualización": "2025-10-18 22:02:56"
   },
   {
     "id": 988361,
@@ -1366,122 +1366,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-18 10:02:48"
-  },
-  {
-    "id": 1021643,
-    "tmdb_id": 1021643,
-    "título": "Una hija en Tokio",
-    "título_original": "Une part manquante",
-    "sinopsis": "",
-    "poster_path": "/9Uuyzox6HIzUSUCERL0qeKurjSk.jpg",
-    "poster_local": "imagenes_estrenos/Una_hija_en_Tokio_csnXlXerrotvwCtwAknH1eJsih9.jpg",
-    "backdrop_path": "/A8NhXizmkhd8my2BHZPB1QYjYVd.jpg",
-    "backdrop_local": "imagenes_estrenos/Una_hija_en_Tokio_backdrop_A8NhXizmkhd8my2BHZPB1QYjYVd.jpg",
-    "fecha_estreno": "2025-10-24T00:00:00.000Z",
-    "duración": "98 min",
-    "director": "Guillaume Senez",
-    "directores": [
-      {
-        "name": "Guillaume Senez",
-        "id": 1500586
-      }
-    ],
-    "actores": [
-      {
-        "name": "Romain Duris",
-        "id": 17497,
-        "character": "Jay",
-        "profile_path": "/4mteRrzowog0PkbsxstlPOz5PyW.jpg"
-      },
-      {
-        "name": "Mei Cirne-Masuki",
-        "id": 4323550,
-        "character": "Lily",
-        "profile_path": "/5Tr9udebovdhml4jDl5LvKefMOD.jpg"
-      },
-      {
-        "name": "Judith Chemla",
-        "id": 72946,
-        "character": "Jessica",
-        "profile_path": "/duOQg0sLbFgJ7wKdoaivQ0tArDv.jpg"
-      },
-      {
-        "name": "Tsuyu Shimizu",
-        "id": 146382,
-        "character": "Michiko",
-        "profile_path": "/8UGDQwCEgrE6CuOvylBrh4sR0Br.jpg"
-      },
-      {
-        "name": "内田春菊",
-        "id": 35643,
-        "character": "Lily's grandmother",
-        "profile_path": "/yULFUme9KfJPscwe9KJf5nrNRHS.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 0.9665,
-    "puntuación": 6.48,
-    "votos": 75,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/A8NhXizmkhd8my2BHZPB1QYjYVd.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/vkx5tiUhWAPnw4jP9502i3RsJcS.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 2520,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/3cbU6vbaFdqBuH57GqRqYm5BYgM.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1680
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1800,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/4i323x79TJ35EhWdMYMcdWMYohR.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1200
-        }
-      ]
-    },
-    "última_actualización": "2025-10-18 10:02:48"
+    "última_actualización": "2025-10-18 22:02:57"
   },
   {
     "id": 1063873,
@@ -1605,7 +1490,122 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-18 10:02:49"
+    "última_actualización": "2025-10-18 22:02:57"
+  },
+  {
+    "id": 1021643,
+    "tmdb_id": 1021643,
+    "título": "Una hija en Tokio",
+    "título_original": "Une part manquante",
+    "sinopsis": "",
+    "poster_path": "/9Uuyzox6HIzUSUCERL0qeKurjSk.jpg",
+    "poster_local": "imagenes_estrenos/Una_hija_en_Tokio_csnXlXerrotvwCtwAknH1eJsih9.jpg",
+    "backdrop_path": "/A8NhXizmkhd8my2BHZPB1QYjYVd.jpg",
+    "backdrop_local": "imagenes_estrenos/Una_hija_en_Tokio_backdrop_A8NhXizmkhd8my2BHZPB1QYjYVd.jpg",
+    "fecha_estreno": "2025-10-24T00:00:00.000Z",
+    "duración": "98 min",
+    "director": "Guillaume Senez",
+    "directores": [
+      {
+        "name": "Guillaume Senez",
+        "id": 1500586
+      }
+    ],
+    "actores": [
+      {
+        "name": "Romain Duris",
+        "id": 17497,
+        "character": "Jay",
+        "profile_path": "/4mteRrzowog0PkbsxstlPOz5PyW.jpg"
+      },
+      {
+        "name": "Mei Cirne-Masuki",
+        "id": 4323550,
+        "character": "Lily",
+        "profile_path": "/5Tr9udebovdhml4jDl5LvKefMOD.jpg"
+      },
+      {
+        "name": "Judith Chemla",
+        "id": 72946,
+        "character": "Jessica",
+        "profile_path": "/duOQg0sLbFgJ7wKdoaivQ0tArDv.jpg"
+      },
+      {
+        "name": "Tsuyu Shimizu",
+        "id": 146382,
+        "character": "Michiko",
+        "profile_path": "/8UGDQwCEgrE6CuOvylBrh4sR0Br.jpg"
+      },
+      {
+        "name": "内田春菊",
+        "id": 35643,
+        "character": "Lily's grandmother",
+        "profile_path": "/yULFUme9KfJPscwe9KJf5nrNRHS.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 0.9665,
+    "puntuación": 6.48,
+    "votos": 75,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/A8NhXizmkhd8my2BHZPB1QYjYVd.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vkx5tiUhWAPnw4jP9502i3RsJcS.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 2520,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3cbU6vbaFdqBuH57GqRqYm5BYgM.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1680
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1800,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/4i323x79TJ35EhWdMYMcdWMYohR.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1200
+        }
+      ]
+    },
+    "última_actualización": "2025-10-18 22:02:58"
   },
   {
     "id": 1061771,
@@ -1687,7 +1687,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:49"
+    "última_actualización": "2025-10-18 22:02:58"
   },
   {
     "id": 1383519,
@@ -1782,7 +1782,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:49"
+    "última_actualización": "2025-10-18 22:02:59"
   },
   {
     "id": 1562448,
@@ -1862,7 +1862,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:49"
+    "última_actualización": "2025-10-18 22:03:00"
   },
   {
     "id": 1218925,
@@ -2041,7 +2041,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:46"
+    "última_actualización": "2025-10-18 22:02:52"
   },
   {
     "id": 1562987,
@@ -2124,7 +2124,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-18 10:02:50"
+    "última_actualización": "2025-10-18 22:03:00"
   },
   {
     "id": 1242011,
@@ -2188,8 +2188,8 @@
       }
     ],
     "popularidad": 34.8105,
-    "puntuación": 7.19,
-    "votos": 603,
+    "puntuación": 7.186,
+    "votos": 607,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2299,7 +2299,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:46"
+    "última_actualización": "2025-10-18 22:02:52"
   },
   {
     "id": 926606,
@@ -2367,8 +2367,8 @@
       }
     ],
     "popularidad": 10.7752,
-    "puntuación": 6.419,
-    "votos": 93,
+    "puntuación": 6.421,
+    "votos": 95,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2468,7 +2468,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:47"
+    "última_actualización": "2025-10-18 22:02:53"
   },
   {
     "id": 1218032,
@@ -2600,7 +2600,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-18 10:02:47"
+    "última_actualización": "2025-10-18 22:02:54"
   },
   {
     "id": 1214130,
@@ -2753,7 +2753,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:47"
+    "última_actualización": "2025-10-18 22:02:55"
   },
   {
     "id": 1242015,
@@ -2888,7 +2888,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:47"
+    "última_actualización": "2025-10-18 22:02:55"
   },
   {
     "id": 1464374,
@@ -2982,7 +2982,107 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:48"
+    "última_actualización": "2025-10-18 22:02:56"
+  },
+  {
+    "id": 1190449,
+    "tmdb_id": 1190449,
+    "título": "بچه زرنگ",
+    "título_original": "بچه زرنگ",
+    "sinopsis": "",
+    "poster_path": "/w5s6t6ZiaTv0A4s0iQ9SdF9gDpa.jpg",
+    "poster_local": "imagenes_estrenos/_________w5s6t6ZiaTv0A4s0iQ9SdF9gDpa.jpg",
+    "backdrop_path": "/7rzaqSDUfNirHqLkDalH4VBFzaX.jpg",
+    "backdrop_local": "imagenes_estrenos/_________backdrop_7rzaqSDUfNirHqLkDalH4VBFzaX.jpg",
+    "fecha_estreno": "2025-10-31T00:00:00.000Z",
+    "duración": "82 min",
+    "director": "Hadi Mohammadian",
+    "directores": [
+      {
+        "name": "Hadi Mohammadian",
+        "id": 1589747
+      }
+    ],
+    "actores": [
+      {
+        "name": "هومن حاجی‌عبداللهی",
+        "id": 2334917,
+        "character": "",
+        "profile_path": "/e98KWKr7LQ62hXoB1dMp5bwLCUa.jpg"
+      },
+      {
+        "name": "javad pezeshkian",
+        "id": 4317954,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Hedayat Hashemi",
+        "id": 932450,
+        "character": "",
+        "profile_path": "/aZeLH2x5U2zOpEakiDBa031HoDh.jpg"
+      },
+      {
+        "name": "میر طاهر مظلومی",
+        "id": 1693042,
+        "character": "",
+        "profile_path": "/yi97eN98T1opE1dWSipafghpzzC.jpg"
+      },
+      {
+        "name": "Tooraj Nasr",
+        "id": 2406095,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "popularidad": 0.6661,
+    "puntuación": 7.5,
+    "votos": 2,
+    "adulto": false,
+    "video": false,
+    "año": "2023",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7rzaqSDUfNirHqLkDalH4VBFzaX.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/94oa2KbIYSBPXYn5XPTeZG5AFFQ.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oLUNuMorCHFKSfUy7Cn0270fX9h.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-10-18 22:02:58"
   },
   {
     "id": 1465563,
@@ -3137,107 +3237,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:49"
-  },
-  {
-    "id": 1190449,
-    "tmdb_id": 1190449,
-    "título": "بچه زرنگ",
-    "título_original": "بچه زرنگ",
-    "sinopsis": "",
-    "poster_path": "/w5s6t6ZiaTv0A4s0iQ9SdF9gDpa.jpg",
-    "poster_local": "imagenes_estrenos/_________w5s6t6ZiaTv0A4s0iQ9SdF9gDpa.jpg",
-    "backdrop_path": "/7rzaqSDUfNirHqLkDalH4VBFzaX.jpg",
-    "backdrop_local": "imagenes_estrenos/_________backdrop_7rzaqSDUfNirHqLkDalH4VBFzaX.jpg",
-    "fecha_estreno": "2025-10-31T00:00:00.000Z",
-    "duración": "82 min",
-    "director": "Hadi Mohammadian",
-    "directores": [
-      {
-        "name": "Hadi Mohammadian",
-        "id": 1589747
-      }
-    ],
-    "actores": [
-      {
-        "name": "هومن حاجی‌عبداللهی",
-        "id": 2334917,
-        "character": "",
-        "profile_path": "/e98KWKr7LQ62hXoB1dMp5bwLCUa.jpg"
-      },
-      {
-        "name": "javad pezeshkian",
-        "id": 4317954,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Hedayat Hashemi",
-        "id": 932450,
-        "character": "",
-        "profile_path": "/aZeLH2x5U2zOpEakiDBa031HoDh.jpg"
-      },
-      {
-        "name": "میر طاهر مظلومی",
-        "id": 1693042,
-        "character": "",
-        "profile_path": "/yi97eN98T1opE1dWSipafghpzzC.jpg"
-      },
-      {
-        "name": "Tooraj Nasr",
-        "id": 2406095,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      }
-    ],
-    "popularidad": 0.6661,
-    "puntuación": 7.5,
-    "votos": 2,
-    "adulto": false,
-    "video": false,
-    "año": "2023",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/7rzaqSDUfNirHqLkDalH4VBFzaX.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/94oa2KbIYSBPXYn5XPTeZG5AFFQ.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/oLUNuMorCHFKSfUy7Cn0270fX9h.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-10-18 10:02:49"
+    "última_actualización": "2025-10-18 22:02:59"
   },
   {
     "id": 1460448,
@@ -3321,7 +3321,75 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:49"
+    "última_actualización": "2025-10-18 22:02:59"
+  },
+  {
+    "id": 1564714,
+    "tmdb_id": 1564714,
+    "título": "Flotar",
+    "título_original": "Flotar",
+    "sinopsis": "",
+    "poster_path": "/v7vzcsedVw62sWMLq6HZ1HiTVSx.jpg",
+    "poster_local": "imagenes_estrenos/Flotar_v7vzcsedVw62sWMLq6HZ1HiTVSx.jpg",
+    "backdrop_path": "/bJ1HbbJalvNsAwbYw7m1ANctlXL.jpg",
+    "backdrop_local": "imagenes_estrenos/Flotar_backdrop_bJ1HbbJalvNsAwbYw7m1ANctlXL.jpg",
+    "fecha_estreno": "2025-11-01",
+    "duración": "12 min",
+    "director": "Alexia Corrales",
+    "directores": [
+      {
+        "name": "Alexia Corrales",
+        "id": 4241134
+      }
+    ],
+    "actores": [
+      {
+        "name": "Silvia Collado Baeza",
+        "id": 5756693,
+        "character": "Alba",
+        "profile_path": null
+      },
+      {
+        "name": "Iván Vigara",
+        "id": 3764472,
+        "character": "Sergio",
+        "profile_path": null
+      }
+    ],
+    "géneros": [],
+    "popularidad": 0.0,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.776,
+          "height": 816,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/bJ1HbbJalvNsAwbYw7m1ANctlXL.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1449
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.666,
+          "height": 1600,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/v7vzcsedVw62sWMLq6HZ1HiTVSx.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1066
+        }
+      ]
+    },
+    "última_actualización": "2025-10-18 22:03:02"
   },
   {
     "id": 1242898,
@@ -3484,7 +3552,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:46"
+    "última_actualización": "2025-10-18 22:02:53"
   },
   {
     "id": 701387,
@@ -3643,7 +3711,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:47"
+    "última_actualización": "2025-10-18 22:02:54"
   },
   {
     "id": 1134680,
@@ -3786,7 +3854,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:47"
+    "última_actualización": "2025-10-18 22:02:54"
   },
   {
     "id": 1551194,
@@ -3859,7 +3927,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-10-18 10:02:47"
+    "última_actualización": "2025-10-18 22:02:55"
   },
   {
     "id": 1320917,
@@ -3943,7 +4011,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:48"
+    "última_actualización": "2025-10-18 22:02:56"
   },
   {
     "id": 1329189,
@@ -4027,7 +4095,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-18 10:02:48"
+    "última_actualización": "2025-10-18 22:02:56"
   },
   {
     "id": 1526519,
@@ -4121,7 +4189,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:48"
+    "última_actualización": "2025-10-18 22:02:57"
   },
   {
     "id": 1371912,
@@ -4200,7 +4268,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-18 10:02:50"
+    "última_actualización": "2025-10-18 22:03:00"
   },
   {
     "id": 1556927,
@@ -4268,7 +4336,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-18 10:02:49"
+    "última_actualización": "2025-10-18 22:02:59"
   },
   {
     "id": 1025388,
