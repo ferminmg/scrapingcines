@@ -1,0 +1,56 @@
+2025-10-20 16:06:49,479 - INFO - Iniciando proceso de scraping
+2025-10-20 16:06:49,481 - INFO - Posts existentes encontrados: 2455
+2025-10-20 16:06:49,481 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-10-20 16:06:50,945 - INFO - Se encontraron 10 posts
+2025-10-20 16:06:50,946 - INFO - Comenzando extracción de información del post
+2025-10-20 16:06:50,946 - INFO - Título del post: BALA PERDIDA de Darren Aronofsky
+2025-10-20 16:06:50,946 - INFO - Fecha del post: 2025-10-20T16:39:42+02:00
+2025-10-20 16:06:50,946 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/10/critica-de-bala-perdida-de-darren-aronofsky.html
+2025-10-20 16:06:52,271 - WARNING - No se encontró 'Título Original' en el contenido
+2025-10-20 16:06:52,271 - INFO - Usando contenido completo como respaldo
+2025-10-20 16:06:52,272 - INFO - Guardando post en: posts/BALA_PERDIDA_2025-10-20.json
+2025-10-20 16:06:52,272 - INFO - Post guardado exitosamente
+2025-10-20 16:06:52,272 - INFO - Actualizando índice de películas
+2025-10-20 16:06:52,272 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-10-20 16:06:52,276 - INFO - Índice existente cargado con 2556 películas
+2025-10-20 16:06:52,288 - INFO - Película agregada al índice: BALA PERDIDA
+2025-10-20 16:06:52,288 - INFO - Nuevo post guardado: BALA PERDIDA de Darren Aronofsky
+2025-10-20 16:06:52,288 - INFO - Comenzando extracción de información del post
+2025-10-20 16:06:52,288 - INFO - Título del post: KARMELE de Asier Altuna
+2025-10-20 16:06:52,288 - INFO - Fecha del post: 2025-10-20T16:28:41+02:00
+2025-10-20 16:06:52,288 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/10/critica-de-karmele-de-asier-altuna.html
+2025-10-20 16:06:53,691 - INFO - Contenido extraído y estructurado (2719 caracteres)
+2025-10-20 16:06:53,693 - INFO - Guardando post en: posts/KARMELE_2025-10-20.json
+2025-10-20 16:06:53,693 - INFO - Post guardado exitosamente
+2025-10-20 16:06:53,693 - INFO - Actualizando índice de películas
+2025-10-20 16:06:53,693 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-10-20 16:06:53,697 - INFO - Índice existente cargado con 2557 películas
+2025-10-20 16:06:53,709 - INFO - Película agregada al índice: KARMELE
+2025-10-20 16:06:53,709 - INFO - Nuevo post guardado: KARMELE de Asier Altuna
+2025-10-20 16:06:53,709 - INFO - Comenzando extracción de información del post
+2025-10-20 16:06:53,709 - INFO - Título del post: JUGAR CON FUEGO de Delphine y Muriel Coulin
+2025-10-20 16:06:53,709 - INFO - Fecha del post: 2025-10-20T16:21:04+02:00
+2025-10-20 16:06:53,710 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/10/critica-de-jugar-con-fuego-de-delphine-y-muriel-coulin.html
+2025-10-20 16:06:55,227 - INFO - Contenido extraído y estructurado (2668 caracteres)
+2025-10-20 16:06:55,228 - INFO - Guardando post en: posts/JUGAR_CON_FUEGO_2025-10-20.json
+2025-10-20 16:06:55,228 - INFO - Post guardado exitosamente
+2025-10-20 16:06:55,228 - INFO - Actualizando índice de películas
+2025-10-20 16:06:55,228 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-10-20 16:06:55,232 - INFO - Índice existente cargado con 2558 películas
+2025-10-20 16:06:55,244 - INFO - Película agregada al índice: JUGAR CON FUEGO
+2025-10-20 16:06:55,244 - INFO - Nuevo post guardado: JUGAR CON FUEGO de Delphine y Muriel Coulin
+2025-10-20 16:06:55,244 - INFO - Comenzando extracción de información del post
+2025-10-20 16:06:55,244 - INFO - Post ya existente, saltando: LA SOSPECHA DE SOFÍA de Imanol Uribe
+2025-10-20 16:06:55,244 - INFO - Comenzando extracción de información del post
+2025-10-20 16:06:55,244 - INFO - Post ya existente, saltando: EXTRAÑO RÍO de Jaume Claret Muxart
+2025-10-20 16:06:55,244 - INFO - Comenzando extracción de información del post
+2025-10-20 16:06:55,245 - INFO - Post ya existente, saltando: ADORABLE de Lilja Ingolfsdottir
+2025-10-20 16:06:55,245 - INFO - Comenzando extracción de información del post
+2025-10-20 16:06:55,245 - INFO - Post ya existente, saltando: UNA BATALLA TRAS OTRA de Paul Thomas Anderson
+2025-10-20 16:06:55,245 - INFO - Comenzando extracción de información del post
+2025-10-20 16:06:55,245 - INFO - Post ya existente, saltando: MÜNTER Y EL AMOR DE KANDINSKY de Marcus O. Rosenmüller
+2025-10-20 16:06:55,245 - INFO - Comenzando extracción de información del post
+2025-10-20 16:06:55,245 - INFO - Post ya existente, saltando: LOS LAZOS QUE NOS UNEN de Carine Tardieu
+2025-10-20 16:06:55,245 - INFO - Comenzando extracción de información del post
+2025-10-20 16:06:55,245 - INFO - Post ya existente, saltando: MASPALOMAS de Aitor Arregi y José Mari Goenaga (Los Moriarti)
+2025-10-20 16:06:55,246 - INFO - Proceso completado. Posts nuevos guardados: 3
