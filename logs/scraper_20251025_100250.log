@@ -1,0 +1,56 @@
+2025-10-25 10:02:50,317 - INFO - Iniciando proceso de scraping
+2025-10-25 10:02:50,319 - INFO - Posts existentes encontrados: 2458
+2025-10-25 10:02:50,319 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-10-25 10:02:51,592 - INFO - Se encontraron 10 posts
+2025-10-25 10:02:51,593 - INFO - Comenzando extracción de información del post
+2025-10-25 10:02:51,593 - INFO - Título del post: LOS DOMINGOS de Alauda Ruiz de Azúa
+2025-10-25 10:02:51,593 - INFO - Fecha del post: 2025-10-25T10:43:56+02:00
+2025-10-25 10:02:51,593 - WARNING - No se pudo extraer director del título: LOS DOMINGOS de Alauda Ruiz de Azúa
+2025-10-25 10:02:51,593 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/10/critica-de-los-domingos-de-alauda-ruiz-de-azua.html
+2025-10-25 10:02:53,025 - INFO - Contenido extraído y estructurado (4656 caracteres)
+2025-10-25 10:02:53,026 - INFO - Guardando post en: posts/LOS_DOMINGOS_de_Alauda_Ruiz_de_Azúa_2025-10-25.json
+2025-10-25 10:02:53,027 - INFO - Post guardado exitosamente
+2025-10-25 10:02:53,027 - INFO - Actualizando índice de películas
+2025-10-25 10:02:53,027 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-10-25 10:02:53,031 - INFO - Índice existente cargado con 2559 películas
+2025-10-25 10:02:53,042 - INFO - Película agregada al índice: LOS DOMINGOS de Alauda Ruiz de Azúa
+2025-10-25 10:02:53,043 - INFO - Nuevo post guardado: LOS DOMINGOS de Alauda Ruiz de Azúa
+2025-10-25 10:02:53,043 - INFO - Comenzando extracción de información del post
+2025-10-25 10:02:53,043 - INFO - Título del post: UN SIMPLE ACCIDENTE de Jafar Panahi
+2025-10-25 10:02:53,043 - INFO - Fecha del post: 2025-10-25T10:36:16+02:00
+2025-10-25 10:02:53,043 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/10/critica-de-un-simple-accidente-de-jafar-panahi.html
+2025-10-25 10:02:54,260 - INFO - Contenido extraído y estructurado (2681 caracteres)
+2025-10-25 10:02:54,261 - INFO - Guardando post en: posts/UN_SIMPLE_ACCIDENTE_2025-10-25.json
+2025-10-25 10:02:54,261 - INFO - Post guardado exitosamente
+2025-10-25 10:02:54,261 - INFO - Actualizando índice de películas
+2025-10-25 10:02:54,261 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-10-25 10:02:54,264 - INFO - Índice existente cargado con 2560 películas
+2025-10-25 10:02:54,276 - INFO - Película agregada al índice: UN SIMPLE ACCIDENTE
+2025-10-25 10:02:54,276 - INFO - Nuevo post guardado: UN SIMPLE ACCIDENTE de Jafar Panahi
+2025-10-25 10:02:54,276 - INFO - Comenzando extracción de información del post
+2025-10-25 10:02:54,277 - INFO - Título del post: CAZA DE BRUJAS de Luca Guadagnino
+2025-10-25 10:02:54,277 - INFO - Fecha del post: 2025-10-25T10:29:11+02:00
+2025-10-25 10:02:54,277 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/10/critica-de-caza-de-brujas-de-luca-guadagnino.html
+2025-10-25 10:02:55,627 - INFO - Contenido extraído y estructurado (2760 caracteres)
+2025-10-25 10:02:55,629 - INFO - Guardando post en: posts/CAZA_DE_BRUJAS_2025-10-25.json
+2025-10-25 10:02:55,629 - INFO - Post guardado exitosamente
+2025-10-25 10:02:55,629 - INFO - Actualizando índice de películas
+2025-10-25 10:02:55,629 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-10-25 10:02:55,633 - INFO - Índice existente cargado con 2561 películas
+2025-10-25 10:02:55,644 - INFO - Película agregada al índice: CAZA DE BRUJAS
+2025-10-25 10:02:55,644 - INFO - Nuevo post guardado: CAZA DE BRUJAS de Luca Guadagnino
+2025-10-25 10:02:55,644 - INFO - Comenzando extracción de información del post
+2025-10-25 10:02:55,645 - INFO - Post ya existente, saltando: BALA PERDIDA de Darren Aronofsky
+2025-10-25 10:02:55,645 - INFO - Comenzando extracción de información del post
+2025-10-25 10:02:55,645 - INFO - Post ya existente, saltando: KARMELE de Asier Altuna
+2025-10-25 10:02:55,645 - INFO - Comenzando extracción de información del post
+2025-10-25 10:02:55,645 - INFO - Post ya existente, saltando: JUGAR CON FUEGO de Delphine y Muriel Coulin
+2025-10-25 10:02:55,645 - INFO - Comenzando extracción de información del post
+2025-10-25 10:02:55,645 - INFO - Post ya existente, saltando: LA SOSPECHA DE SOFÍA de Imanol Uribe
+2025-10-25 10:02:55,645 - INFO - Comenzando extracción de información del post
+2025-10-25 10:02:55,645 - INFO - Post ya existente, saltando: EXTRAÑO RÍO de Jaume Claret Muxart
+2025-10-25 10:02:55,646 - INFO - Comenzando extracción de información del post
+2025-10-25 10:02:55,646 - INFO - Post ya existente, saltando: ADORABLE de Lilja Ingolfsdottir
+2025-10-25 10:02:55,646 - INFO - Comenzando extracción de información del post
+2025-10-25 10:02:55,646 - INFO - Post ya existente, saltando: UNA BATALLA TRAS OTRA de Paul Thomas Anderson
+2025-10-25 10:02:55,646 - INFO - Proceso completado. Posts nuevos guardados: 3
