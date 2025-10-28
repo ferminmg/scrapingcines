@@ -92,7 +92,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:34"
+    "última_actualización": "2025-10-28 22:02:48"
   },
   {
     "id": 1218925,
@@ -161,14 +161,10 @@
       {
         "id": 14,
         "name": "Fantasía"
-      },
-      {
-        "id": 27,
-        "name": "Terror"
       }
     ],
     "popularidad": 148.1042,
-    "puntuación": 8.073,
+    "puntuación": 8.1,
     "votos": 82,
     "adulto": false,
     "video": false,
@@ -180,7 +176,27 @@
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
+          "file_path": "/r3d74bF46TkiNX8kyOk1AeD9k0n.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 3840
@@ -204,26 +220,6 @@
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 1427
-        },
-        {
-          "aspect_ratio": 1.78,
-          "height": 800,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/aWgwWKI27zlVHh7QcFkzJHsuo43.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1424
-        },
-        {
-          "aspect_ratio": 1.78,
-          "height": 797,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/pkqxyVCR5et4gnUtw1EOqPtRHGK.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1419
         }
       ],
       "posters": [
@@ -279,7 +275,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:28"
+    "última_actualización": "2025-10-28 22:02:37"
   },
   {
     "id": 1314398,
@@ -450,7 +446,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:30"
+    "última_actualización": "2025-10-28 22:02:40"
   },
   {
     "id": 1562987,
@@ -533,7 +529,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-28 10:02:33"
+    "última_actualización": "2025-10-28 22:02:47"
   },
   {
     "id": 1242011,
@@ -597,8 +593,8 @@
       }
     ],
     "popularidad": 27.4548,
-    "puntuación": 7.162,
-    "votos": 645,
+    "puntuación": 7.163,
+    "votos": 646,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -708,7 +704,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:29"
+    "última_actualización": "2025-10-28 22:02:38"
   },
   {
     "id": 926606,
@@ -776,8 +772,8 @@
       }
     ],
     "popularidad": 13.5382,
-    "puntuación": 6.423,
-    "votos": 97,
+    "puntuación": 6.394,
+    "votos": 99,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -877,7 +873,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:29"
+    "última_actualización": "2025-10-28 22:02:39"
   },
   {
     "id": 1214130,
@@ -1030,7 +1026,152 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:30"
+    "última_actualización": "2025-10-28 22:02:40"
+  },
+  {
+    "id": 1242015,
+    "tmdb_id": 1242015,
+    "título": "Recién nacidas",
+    "título_original": "Jeunes mères",
+    "sinopsis": "",
+    "poster_path": "/5hTmWHaChqncsCzzDIdgH21Pc7q.jpg",
+    "poster_local": "imagenes_estrenos/Reci_n_nacidas_6rrn8cQrPDWBKdqjOi2lB27AWuq.jpg",
+    "backdrop_path": "/7UsW6pKkCdCmceBmdQ0MvV6zKhL.jpg",
+    "backdrop_local": "imagenes_estrenos/Reci_n_nacidas_backdrop_7UsW6pKkCdCmceBmdQ0MvV6zKhL.jpg",
+    "fecha_estreno": "2025-10-31T00:00:00.000Z",
+    "duración": "106 min",
+    "director": "Luc Dardenne, Jean-Pierre Dardenne",
+    "directores": [
+      {
+        "name": "Luc Dardenne",
+        "id": 45138
+      },
+      {
+        "name": "Jean-Pierre Dardenne",
+        "id": 56209
+      }
+    ],
+    "actores": [
+      {
+        "name": "Lucie Laruelle",
+        "id": 5362387,
+        "character": "Perla",
+        "profile_path": null
+      },
+      {
+        "name": "Babette Verbeek",
+        "id": 3873043,
+        "character": "Jessica",
+        "profile_path": "/nsSshYlSO2HwQeEubWjwtqhHGg6.jpg"
+      },
+      {
+        "name": "Elsa Houben",
+        "id": 1633277,
+        "character": "Julia",
+        "profile_path": "/sBaQ1w7fE7qffrh4JsW1G3Zbf0C.jpg"
+      },
+      {
+        "name": "Janaïna Halloy Fokan",
+        "id": 3677620,
+        "character": "Ariane",
+        "profile_path": "/7QRZSdaWLyY4YjLtZpJwRFgOckP.jpg"
+      },
+      {
+        "name": "Samia Hilmi",
+        "id": 5362382,
+        "character": "Naïma",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 3.0416,
+    "puntuación": 6.8,
+    "votos": 18,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7UsW6pKkCdCmceBmdQ0MvV6zKhL.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/lkaDi4yVKncVlKHXRLkssZ2vCcc.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/2LbCeTNBS8zftUeoT144SSscz54.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/pXtdugOFJPwSeigkHrHJpyI7abM.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/i5Dg18NBkto1ivzMpB6o0DGtoWZ.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.681,
+          "height": 1252,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/yLnrQiAByYDRZYMMwVHnq6Mql8b.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 853
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 2835,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/5hTmWHaChqncsCzzDIdgH21Pc7q.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1890
+        }
+      ]
+    },
+    "última_actualización": "2025-10-28 22:02:42"
   },
   {
     "id": 1464374,
@@ -1134,152 +1275,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:31"
-  },
-  {
-    "id": 1242015,
-    "tmdb_id": 1242015,
-    "título": "Recién nacidas",
-    "título_original": "Jeunes mères",
-    "sinopsis": "",
-    "poster_path": "/5hTmWHaChqncsCzzDIdgH21Pc7q.jpg",
-    "poster_local": "imagenes_estrenos/Reci_n_nacidas_6rrn8cQrPDWBKdqjOi2lB27AWuq.jpg",
-    "backdrop_path": "/7UsW6pKkCdCmceBmdQ0MvV6zKhL.jpg",
-    "backdrop_local": "imagenes_estrenos/Reci_n_nacidas_backdrop_7UsW6pKkCdCmceBmdQ0MvV6zKhL.jpg",
-    "fecha_estreno": "2025-10-31T00:00:00.000Z",
-    "duración": "106 min",
-    "director": "Luc Dardenne, Jean-Pierre Dardenne",
-    "directores": [
-      {
-        "name": "Luc Dardenne",
-        "id": 45138
-      },
-      {
-        "name": "Jean-Pierre Dardenne",
-        "id": 56209
-      }
-    ],
-    "actores": [
-      {
-        "name": "Lucie Laruelle",
-        "id": 5362387,
-        "character": "Perla",
-        "profile_path": null
-      },
-      {
-        "name": "Babette Verbeek",
-        "id": 3873043,
-        "character": "Jessica",
-        "profile_path": "/nsSshYlSO2HwQeEubWjwtqhHGg6.jpg"
-      },
-      {
-        "name": "Elsa Houben",
-        "id": 1633277,
-        "character": "Julia",
-        "profile_path": "/sBaQ1w7fE7qffrh4JsW1G3Zbf0C.jpg"
-      },
-      {
-        "name": "Janaïna Halloy Fokan",
-        "id": 3677620,
-        "character": "Ariane",
-        "profile_path": "/7QRZSdaWLyY4YjLtZpJwRFgOckP.jpg"
-      },
-      {
-        "name": "Samia Hilmi",
-        "id": 5362382,
-        "character": "Naïma",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 3.0416,
-    "puntuación": 6.676,
-    "votos": 18,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/7UsW6pKkCdCmceBmdQ0MvV6zKhL.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/lkaDi4yVKncVlKHXRLkssZ2vCcc.jpg",
-          "vote_average": 1.222,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/2LbCeTNBS8zftUeoT144SSscz54.jpg",
-          "vote_average": 1.222,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/pXtdugOFJPwSeigkHrHJpyI7abM.jpg",
-          "vote_average": 1.222,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/i5Dg18NBkto1ivzMpB6o0DGtoWZ.jpg",
-          "vote_average": 1.222,
-          "vote_count": 3,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.681,
-          "height": 1252,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/yLnrQiAByYDRZYMMwVHnq6Mql8b.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 853
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 2835,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/5hTmWHaChqncsCzzDIdgH21Pc7q.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1890
-        }
-      ]
-    },
-    "última_actualización": "2025-10-28 10:02:31"
+    "última_actualización": "2025-10-28 22:02:42"
   },
   {
     "id": 1460448,
@@ -1373,150 +1369,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:31"
-  },
-  {
-    "id": 1218032,
-    "tmdb_id": 1218032,
-    "título": "Super Charlie",
-    "título_original": "Super Charlie",
-    "sinopsis": "",
-    "poster_path": "/5Q9HC4MGRdDprlO8yMPQVKbwAwg.jpg",
-    "poster_local": "imagenes_estrenos/Super_Charlie_pf8lHZusuQoTr3dCD5EwM2nw9Gi.jpg",
-    "backdrop_path": "/o1j7fmpHPV38u0rkFOfPyRZjToZ.jpg",
-    "backdrop_local": "imagenes_estrenos/Super_Charlie_backdrop_o1j7fmpHPV38u0rkFOfPyRZjToZ.jpg",
-    "fecha_estreno": "2025-10-31T00:00:00.000Z",
-    "duración": "78 min",
-    "director": "Jon Holmberg",
-    "directores": [
-      {
-        "name": "Jon Holmberg",
-        "id": 2172186
-      }
-    ],
-    "actores": [
-      {
-        "name": "Orlando Wahlsteen",
-        "id": 5114244,
-        "character": "Wille (voice)",
-        "profile_path": "/woZccb0tX26bn51ntPvMW1hB13t.jpg"
-      },
-      {
-        "name": "Silas Strand",
-        "id": 3810200,
-        "character": "Charlie (voice)",
-        "profile_path": "/65pKsIBhrnxIp4d6YRF0zrfGByb.jpg"
-      },
-      {
-        "name": "Tuva Novotny",
-        "id": 67737,
-        "character": "Mom (voice)",
-        "profile_path": "/2rnxPAJ4q66sECbmQR2V15NwXOL.jpg"
-      },
-      {
-        "name": "Sven Björklund",
-        "id": 1417349,
-        "character": "Anton (voice)",
-        "profile_path": "/k2Fskh3hLvld6pjh0FgPonkK7S8.jpg"
-      },
-      {
-        "name": "Joakim Jennefors",
-        "id": 2474193,
-        "character": "Inferio (voice)",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      },
-      {
-        "id": 28,
-        "name": "Acción"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 1.4517,
-    "puntuación": 6.2,
-    "votos": 9,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.78,
-          "height": 1200,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/o1j7fmpHPV38u0rkFOfPyRZjToZ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2136
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/fcZmSCx4eceuOYD6li7KGq0gMk5.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/eQo72Lv7X0FsGcnzcerYOGkMKn5.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.78,
-          "height": 1200,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6VFgxutJ0o8ELRbt6NE3gIl1s3V.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2136
-        },
-        {
-          "aspect_ratio": 1.78,
-          "height": 1200,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/gwofonhNJQgI1VGVNxIywGhBSo1.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2136
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/5Q9HC4MGRdDprlO8yMPQVKbwAwg.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-10-28 10:02:32"
+    "última_actualización": "2025-10-28 22:02:43"
   },
   {
     "id": 1465563,
@@ -1671,7 +1524,150 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:32"
+    "última_actualización": "2025-10-28 22:02:44"
+  },
+  {
+    "id": 1218032,
+    "tmdb_id": 1218032,
+    "título": "Super Charlie",
+    "título_original": "Super Charlie",
+    "sinopsis": "",
+    "poster_path": "/5Q9HC4MGRdDprlO8yMPQVKbwAwg.jpg",
+    "poster_local": "imagenes_estrenos/Super_Charlie_pf8lHZusuQoTr3dCD5EwM2nw9Gi.jpg",
+    "backdrop_path": "/o1j7fmpHPV38u0rkFOfPyRZjToZ.jpg",
+    "backdrop_local": "imagenes_estrenos/Super_Charlie_backdrop_o1j7fmpHPV38u0rkFOfPyRZjToZ.jpg",
+    "fecha_estreno": "2025-10-31T00:00:00.000Z",
+    "duración": "78 min",
+    "director": "Jon Holmberg",
+    "directores": [
+      {
+        "name": "Jon Holmberg",
+        "id": 2172186
+      }
+    ],
+    "actores": [
+      {
+        "name": "Orlando Wahlsteen",
+        "id": 5114244,
+        "character": "Wille (voice)",
+        "profile_path": "/woZccb0tX26bn51ntPvMW1hB13t.jpg"
+      },
+      {
+        "name": "Silas Strand",
+        "id": 3810200,
+        "character": "Charlie (voice)",
+        "profile_path": "/65pKsIBhrnxIp4d6YRF0zrfGByb.jpg"
+      },
+      {
+        "name": "Tuva Novotny",
+        "id": 67737,
+        "character": "Mom (voice)",
+        "profile_path": "/2rnxPAJ4q66sECbmQR2V15NwXOL.jpg"
+      },
+      {
+        "name": "Sven Björklund",
+        "id": 1417349,
+        "character": "Anton (voice)",
+        "profile_path": "/k2Fskh3hLvld6pjh0FgPonkK7S8.jpg"
+      },
+      {
+        "name": "Joakim Jennefors",
+        "id": 2474193,
+        "character": "Inferio (voice)",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 1.4517,
+    "puntuación": 6.2,
+    "votos": 9,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.78,
+          "height": 1200,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/o1j7fmpHPV38u0rkFOfPyRZjToZ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2136
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/fcZmSCx4eceuOYD6li7KGq0gMk5.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/eQo72Lv7X0FsGcnzcerYOGkMKn5.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.78,
+          "height": 1200,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6VFgxutJ0o8ELRbt6NE3gIl1s3V.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2136
+        },
+        {
+          "aspect_ratio": 1.78,
+          "height": 1200,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/gwofonhNJQgI1VGVNxIywGhBSo1.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2136
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/5Q9HC4MGRdDprlO8yMPQVKbwAwg.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-10-28 22:02:44"
   },
   {
     "id": 1190449,
@@ -1771,7 +1767,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-28 10:02:33"
+    "última_actualización": "2025-10-28 22:02:45"
   },
   {
     "id": 1564714,
@@ -1839,7 +1835,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:34"
+    "última_actualización": "2025-10-28 22:02:48"
   },
   {
     "id": 1436779,
@@ -1922,7 +1918,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:33"
+    "última_actualización": "2025-10-28 22:02:47"
   },
   {
     "id": 701387,
@@ -1932,7 +1928,7 @@
     "sinopsis": "Un joven captura e interroga a un hombre de negocios que cree que es un invasor alienígena. El captor, su novia, el empresario y un detective privado se enzarzan en una tensa batalla psicológica. Remake del film coreano \"Save the Green Planet\".",
     "poster_path": "/2C5Vf9VcoXB7SFFcG8vppW5bmtX.jpg",
     "poster_local": "imagenes_estrenos/Bugonia_2C5Vf9VcoXB7SFFcG8vppW5bmtX.jpg",
-    "backdrop_path": "/jihTSrMksmU5ujqRZnc6SBFSyfq.jpg",
+    "backdrop_path": "/cj2fug7Ayk0eaYOpW0npBaHXMCc.jpg",
     "backdrop_local": "imagenes_estrenos/Bugonia_backdrop_kZVSqHp5Pq7o8IgfZdVBtIwDAz9.jpg",
     "fecha_estreno": "2025-11-07T00:00:00.000Z",
     "duración": "118 min",
@@ -1990,8 +1986,8 @@
       }
     ],
     "popularidad": 33.8318,
-    "puntuación": 7.8,
-    "votos": 73,
+    "puntuación": 7.863,
+    "votos": 80,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2091,7 +2087,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:29"
+    "última_actualización": "2025-10-28 22:02:38"
   },
   {
     "id": 1242898,
@@ -2254,7 +2250,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:29"
+    "última_actualización": "2025-10-28 22:02:38"
   },
   {
     "id": 1134680,
@@ -2397,7 +2393,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:30"
+    "última_actualización": "2025-10-28 22:02:41"
   },
   {
     "id": 1329189,
@@ -2481,7 +2477,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-28 10:02:31"
+    "última_actualización": "2025-10-28 22:02:42"
   },
   {
     "id": 1526519,
@@ -2575,7 +2571,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:31"
+    "última_actualización": "2025-10-28 22:02:43"
   },
   {
     "id": 1551194,
@@ -2659,7 +2655,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:32"
+    "última_actualización": "2025-10-28 22:02:44"
   },
   {
     "id": 1320917,
@@ -2667,12 +2663,12 @@
     "título": "Subsuelo",
     "título_original": "Subsuelo",
     "sinopsis": "Eva y Fabián son dos hermanos mellizos a punto de cumplir la mayoría de edad. Una noche de verano se verán involucrados en un trágico accidente. Las circunstancias concretas son, sin embargo, opacas y tan sólo parecen conocerlas ambos hermanos y Mabel, su madre.",
-    "poster_path": "/uysuePYYNv3m11pX5ghjaY57CKo.jpg",
+    "poster_path": "/ctW0xFUhjNJfKypBwXKczENr84h.jpg",
     "poster_local": "imagenes_estrenos/Subsuelo_uysuePYYNv3m11pX5ghjaY57CKo.jpg",
     "backdrop_path": null,
     "backdrop_local": "",
     "fecha_estreno": "2025-11-07T00:00:00.000Z",
-    "duración": "0 min",
+    "duración": "115 min",
     "director": "Fernando Franco",
     "directores": [
       {
@@ -2732,13 +2728,33 @@
       "backdrops": [],
       "posters": [
         {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/ctW0xFUhjNJfKypBwXKczENr84h.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/ekhzhIDydHbkDXQErOWxWo40DRU.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
           "aspect_ratio": 0.675,
           "height": 1200,
           "iso_3166_1": "ES",
           "iso_639_1": "es",
           "file_path": "/uysuePYYNv3m11pX5ghjaY57CKo.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
+          "vote_average": 0.166,
+          "vote_count": 1,
           "width": 810
         },
         {
@@ -2747,13 +2763,13 @@
           "iso_3166_1": "ES",
           "iso_639_1": "es",
           "file_path": "/eBGgFopgBYCmP8Ei75ToEv49h7X.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
+          "vote_average": 0.166,
+          "vote_count": 1,
           "width": 900
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:32"
+    "última_actualización": "2025-10-28 22:02:45"
   },
   {
     "id": 1371912,
@@ -2832,7 +2848,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-28 10:02:33"
+    "última_actualización": "2025-10-28 22:02:47"
   },
   {
     "id": 1556927,
@@ -2900,7 +2916,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:33"
+    "última_actualización": "2025-10-28 22:02:46"
   },
   {
     "id": 1567077,
@@ -2984,7 +3000,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:33"
+    "última_actualización": "2025-10-28 22:02:46"
   },
   {
     "id": 986097,
@@ -3048,8 +3064,8 @@
       }
     ],
     "popularidad": 32.1161,
-    "puntuación": 5.881,
-    "votos": 168,
+    "puntuación": 5.87,
+    "votos": 169,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3159,7 +3175,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:29"
+    "última_actualización": "2025-10-28 22:02:38"
   },
   {
     "id": 1242419,
@@ -3227,8 +3243,8 @@
       }
     ],
     "popularidad": 13.7377,
-    "puntuación": 7.2,
-    "votos": 46,
+    "puntuación": 7.191,
+    "votos": 47,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3308,7 +3324,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:29"
+    "última_actualización": "2025-10-28 22:02:39"
   },
   {
     "id": 1033148,
@@ -3436,7 +3452,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-28 10:02:29"
+    "última_actualización": "2025-10-28 22:02:39"
   },
   {
     "id": 1539104,
@@ -3520,7 +3536,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-28 10:02:30"
+    "última_actualización": "2025-10-28 22:02:40"
   },
   {
     "id": 1356670,
@@ -3651,7 +3667,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:30"
+    "última_actualización": "2025-10-28 22:02:40"
   },
   {
     "id": 1284460,
@@ -3810,7 +3826,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:30"
+    "última_actualización": "2025-10-28 22:02:41"
   },
   {
     "id": 1283320,
@@ -3941,7 +3957,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:30"
+    "última_actualización": "2025-10-28 22:02:41"
   },
   {
     "id": 1309272,
@@ -4046,7 +4062,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:31"
+    "última_actualización": "2025-10-28 22:02:42"
   },
   {
     "id": 1310830,
@@ -4170,7 +4186,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-28 10:02:32"
+    "última_actualización": "2025-10-28 22:02:44"
   },
   {
     "id": 1367125,
@@ -4319,7 +4335,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:32"
+    "última_actualización": "2025-10-28 22:02:45"
   },
   {
     "id": 1475637,
@@ -4327,7 +4343,7 @@
     "título": "Te protegerán mis alas",
     "título_original": "Te protegerán mis alas",
     "sinopsis": "Wentinam, un niño huérfano que sobrevive en las calles de Kara, encuentra una nueva oportunidad en la “Ciudad de los Muchachos” gracias al apoyo de un misionero español.",
-    "poster_path": "/m7TTh5goDMN5AUeaqVIBrMdfUZZ.jpg",
+    "poster_path": "/4JgCz8ZUUsmsfAGhaMvDE2PUvIP.jpg",
     "poster_local": "imagenes_estrenos/Te_proteger_n_mis_alas_m7TTh5goDMN5AUeaqVIBrMdfUZZ.jpg",
     "backdrop_path": "/keSSTiy7lKWL5sW2ta47fAlKPpe.jpg",
     "backdrop_local": "imagenes_estrenos/Te_proteger_n_mis_alas_backdrop_keSSTiy7lKWL5sW2ta47fAlKPpe.jpg",
@@ -4420,7 +4436,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-28 10:02:32"
+    "última_actualización": "2025-10-28 22:02:46"
   },
   {
     "id": 999257,
@@ -4469,7 +4485,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-28 10:02:33"
+    "última_actualización": "2025-10-28 22:02:46"
   },
   {
     "id": 1025388,
