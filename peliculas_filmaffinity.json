@@ -4,11 +4,6 @@
         "cartel": "imagenes_filmaffinity/tmdb_chainsaw-man-la-pelicula-el-arco-de-reze.jpg",
         "horarios": [
             {
-                "fecha": "2025-10-28",
-                "hora": "22:25",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22463"
-            },
-            {
                 "fecha": "2025-10-29",
                 "hora": "18:05",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22458"
@@ -47,6 +42,26 @@
                 "fecha": "2025-11-02",
                 "hora": "17:15",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22611"
+            },
+            {
+                "fecha": "2025-11-03",
+                "hora": "17:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22675"
+            },
+            {
+                "fecha": "2025-11-04",
+                "hora": "17:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22704"
+            },
+            {
+                "fecha": "2025-11-05",
+                "hora": "17:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22732"
+            },
+            {
+                "fecha": "2025-11-06",
+                "hora": "17:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22760"
             }
         ],
         "cine": "Yelmo Itaroa",
@@ -101,6 +116,74 @@
         "año": null
     },
     {
+        "título": "Together",
+        "cartel": "imagenes_filmaffinity/tmdb_together.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-11-04",
+                "hora": "20:30",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22713"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Michael Shanks",
+        "duración": "101 min",
+        "actores": "Dave Franco, Alison Brie, Damon Herriman, Mia Morrissey, Karl Richmond",
+        "sinopsis": "Una pareja con problemas en su relación se muda al campo, donde descubren una cueva con una fuerza sobrenatural. Al beber agua de la cueva, comienzan a experimentar transformaciones físicas y emocionales que reflejan su codependencia.",
+        "año": "2025"
+    },
+    {
+        "título": "A pesar de ti",
+        "cartel": "imagenes_filmaffinity/tmdb_a-pesar-de-ti.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-11-04",
+                "hora": "19:30",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22716"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Josh Boone",
+        "duración": "116 min",
+        "actores": "Mckenna Grace, Allison Williams, Dave Franco, Mason Thames, Willa Fitzgerald",
+        "sinopsis": "Morgan es una madre joven que intenta evitar que su hija Clara, de 16 años, cometa los mismos errores que ella, que se quedó embarazada y se casó demasiado joven, teniendo que aparcar sus propios sueños. La única persona que trae paz a la tensa relación madre-hija es Chris, su marido y padre de Clara. Pero esa paz se rompe cuando un trágico y extraño accidente trae desgarradoras consecuencias para ellas. Mientras lucha por reconstruir sus vidas, Morgan encuentra consuelo en la última persona que esperaba, mientras Clara se vuelve hacia el único chico que le han prohibido ver.",
+        "año": "2025"
+    },
+    {
+        "título": "Springsteen: Deliver Me From Nowhere",
+        "cartel": "imagenes_filmaffinity/tmdb_springsteen-deliver-me-from-nowhere.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-11-04",
+                "hora": "17:30",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22699"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Scott Cooper",
+        "duración": "120 min",
+        "actores": "Jeremy Allen White, Jeremy Strong, Paul Walter Hauser, Stephen Graham, Odessa Young",
+        "sinopsis": "Sigue a Springsteen cuando era un joven músico en los albores de la fama mundial, tratando de reconciliar las presiones del éxito con los fantasmas de su pasado. Grabado en un viejo casete de cuatro pistas en su habitación en Nueva Jersey, Nebraska refleja un periodo trascendental de su vida y está lleno de personajes perdidos en busca de una razón para creer.",
+        "año": "2025"
+    },
+    {
+        "título": "Black Phone 2",
+        "cartel": "imagenes_filmaffinity/tmdb_black-phone-2.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-11-04",
+                "hora": "20:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22693"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Scott Derrickson",
+        "duración": "114 min",
+        "actores": "Ethan Hawke, Mason Thames, Madeleine McGraw, Demián Bichir, Miguel Mora",
+        "sinopsis": "La película Black Phone 2 (2025) es una secuela ambientada en 1982, cuatro años después de que Finney Blake lograra matar al secuestrador y asesino en serie conocido como \"The Grabber\". Finney, ahora marcado por el trauma, junto a su hermana menor Gwen, que tiene habilidades psíquicas, comienzan a tener visiones relacionadas con asesinatos ocurridos en un campamento cristiano en las Montañas Rocosas. Decididos a descubrir la verdad, viajan junto con Ernesto, un amigo, al campamento donde trabajó su madre, que también tenía dones psíquicos y fue víctima del asesino.",
+        "año": "2025"
+    },
+    {
         "título": "Predator: Badlands",
         "cartel": "imagenes_filmaffinity/tmdb_predator-badlands.jpg",
         "horarios": [
@@ -113,7 +196,7 @@
         "cine": "Yelmo Itaroa",
         "director": "Dan Trachtenberg",
         "duración": "106 min",
-        "actores": "Elle Fanning, Dimitrius Schuster-Koloamatangi, Michael Homick",
+        "actores": "Elle Fanning, Dimitrius Schuster-Koloamatangi, Rohinal Nayaran, Michael Homick, Stefan Grube",
         "sinopsis": "En un planeta hostil conocido como Kalisk, un joven Yautja llamado Dek es expulsado de su clan tras fallar en su rito de iniciación. Solo y marcado como presa, su destino cambia al encontrar a Thia, una sintética dañada de Weyland-Yutani que ha desarrollado conciencia propia. A pesar de sus orígenes opuestos, forman una alianza inquebrantable para sobrevivir en un entorno donde bandas humanas, criaturas mutantes y otros depredadores los acechan. A medida que Dek busca redimirse y escalar en la cadena alimenticia, descubre que su verdadero desafío no es solo cazar, sino enfrentar a una bestia colosal y casi invencible, un kaiju ancestral que representa el ápice del poder en este mundo destruido. La película explora temas de honor, redención y conexión entre seres marginados, ofreciendo una perspectiva inédita desde el punto de vista del Predator.",
         "año": "2025"
     },
