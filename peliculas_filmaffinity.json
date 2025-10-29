@@ -1,13 +1,25 @@
 [
     {
+        "título": "Depeche Mode: M",
+        "cartel": "imagenes_filmaffinity/tmdb_depeche-mode-m.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-10-30",
+                "hora": "20:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=21413"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Luis Fernando Frías de la Parra",
+        "duración": "95 min",
+        "actores": "Dave Gahan, Martin Gore",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
         "título": "Chainsaw Man - La película: El arco de Reze",
         "cartel": "imagenes_filmaffinity/tmdb_chainsaw-man-la-pelicula-el-arco-de-reze.jpg",
         "horarios": [
-            {
-                "fecha": "2025-10-29",
-                "hora": "20:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=21859"
-            },
             {
                 "fecha": "2025-10-30",
                 "hora": "18:05",
@@ -64,23 +76,6 @@
         "duración": "100 min",
         "actores": "Kikunosuke Toya, Reina Ueda, Shiori Izawa, Tomori Kusunoki, Shogo Sakata",
         "sinopsis": "Denji trabajaba como cazador de demonios para la yakuza, tratando de saldar la deuda que había heredado de sus padres, pero la yakuza lo traicionó y lo mató. Antes de perder el conocimiento, Pochita, el perro-demonio motosierra de Denji, hizo un trato con él y le salvó la vida. Así se fusionaron, creando al imparable Chainsaw Man. Ahora, en medio de una brutal guerra entre demonios, cazadores y enemigos secretos, una misteriosa chica llamada Reze irrumpe en su mundo y Denji se enfrenta a su batalla más mortífera, impulsado por el amor, en un mundo donde la supervivencia no conoce reglas.",
-        "año": "2025"
-    },
-    {
-        "título": "Depeche Mode: M",
-        "cartel": "imagenes_filmaffinity/tmdb_depeche-mode-m.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-10-30",
-                "hora": "20:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=21413"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Luis Fernando Frías de la Parra",
-        "duración": "95 min",
-        "actores": "Dave Gahan, Martin Gore",
-        "sinopsis": "",
         "año": "2025"
     },
     {
