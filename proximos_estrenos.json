@@ -1530,11 +1530,19 @@
       {
         "id": 878,
         "name": "Ciencia ficción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
       }
     ],
     "popularidad": 46.6844,
-    "puntuación": 8.0,
-    "votos": 2,
+    "puntuación": 8.7,
+    "votos": 3,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1644,7 +1652,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:08"
+    "última_actualización": "2025-10-31 22:03:07"
   },
   {
     "id": 701387,
@@ -1705,11 +1713,15 @@
       {
         "id": 53,
         "name": "Suspense"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
       }
     ],
     "popularidad": 44.9757,
-    "puntuación": 7.818,
-    "votos": 121,
+    "puntuación": 7.8,
+    "votos": 124,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1809,7 +1821,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:08"
+    "última_actualización": "2025-10-31 22:03:07"
   },
   {
     "id": 1134680,
@@ -1952,7 +1964,91 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:09"
+    "última_actualización": "2025-10-31 22:03:09"
+  },
+  {
+    "id": 1329189,
+    "tmdb_id": 1329189,
+    "título": "Leo & Lou",
+    "título_original": "Leo & Lou",
+    "sinopsis": "Leo, una niña muda huérfana que no consigue encajar, se escapa del centro de acogida donde vive para poder ir a una competición de pesca que le recuerda a sus padres. Por el camino, Lou, un inconformista sin oficio ni beneficio, la encontrará haciendo autostop y, sin conocer el objetivo real de Leo, accede a llevarla en su coche pensando que la está devolviendo a casa. Juntos emprenderán una aventura en la que, a pesar de los obstáculos que encuentran por el camino, se volverán inseparables y descubrirán el extraordinario significado de la palabra familia.",
+    "poster_path": "/pSrSWNL6CfJpoXxboCwACZl4lLl.jpg",
+    "poster_local": "imagenes_estrenos/Leo___Lou_pSrSWNL6CfJpoXxboCwACZl4lLl.jpg",
+    "backdrop_path": "/66Pg2wfKvnKYR9akKoA5RlOKHyf.jpg",
+    "backdrop_local": "imagenes_estrenos/Leo___Lou_backdrop_66Pg2wfKvnKYR9akKoA5RlOKHyf.jpg",
+    "fecha_estreno": "2025-11-07T00:00:00.000Z",
+    "duración": "100 min",
+    "director": "Carlos Solano",
+    "directores": [
+      {
+        "name": "Carlos Solano",
+        "id": 1618032
+      }
+    ],
+    "actores": [
+      {
+        "name": "Julia Sulleiro",
+        "id": 4882896,
+        "character": "Leo",
+        "profile_path": null
+      },
+      {
+        "name": "Isak Férriz",
+        "id": 589477,
+        "character": "Lou",
+        "profile_path": "/rFkVuTNGu8H8kRVjFB5pIu3gkrp.jpg"
+      },
+      {
+        "name": "Manuel Manquiña",
+        "id": 264955,
+        "character": "",
+        "profile_path": "/6NCbwPD4u3KJbSDxF3h1z1vzvBH.jpg"
+      },
+      {
+        "name": "Marta Larralde",
+        "id": 932628,
+        "character": "",
+        "profile_path": "/mmaekjqGCUspRfpzW56Q1gz8cZ6.jpg"
+      },
+      {
+        "name": "María Pujalte",
+        "id": 132996,
+        "character": "",
+        "profile_path": "/pgVtz88o0O3ik0Ov2dQnSbwSNYD.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 2.814,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/66Pg2wfKvnKYR9akKoA5RlOKHyf.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-10-31 22:03:10"
   },
   {
     "id": 1551194,
@@ -2046,91 +2142,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:10"
-  },
-  {
-    "id": 1329189,
-    "tmdb_id": 1329189,
-    "título": "Leo & Lou",
-    "título_original": "Leo & Lou",
-    "sinopsis": "Leo, una niña muda huérfana que no consigue encajar, se escapa del centro de acogida donde vive para poder ir a una competición de pesca que le recuerda a sus padres. Por el camino, Lou, un inconformista sin oficio ni beneficio, la encontrará haciendo autostop y, sin conocer el objetivo real de Leo, accede a llevarla en su coche pensando que la está devolviendo a casa. Juntos emprenderán una aventura en la que, a pesar de los obstáculos que encuentran por el camino, se volverán inseparables y descubrirán el extraordinario significado de la palabra familia.",
-    "poster_path": "/pSrSWNL6CfJpoXxboCwACZl4lLl.jpg",
-    "poster_local": "imagenes_estrenos/Leo___Lou_pSrSWNL6CfJpoXxboCwACZl4lLl.jpg",
-    "backdrop_path": "/66Pg2wfKvnKYR9akKoA5RlOKHyf.jpg",
-    "backdrop_local": "imagenes_estrenos/Leo___Lou_backdrop_66Pg2wfKvnKYR9akKoA5RlOKHyf.jpg",
-    "fecha_estreno": "2025-11-07T00:00:00.000Z",
-    "duración": "100 min",
-    "director": "Carlos Solano",
-    "directores": [
-      {
-        "name": "Carlos Solano",
-        "id": 1618032
-      }
-    ],
-    "actores": [
-      {
-        "name": "Julia Sulleiro",
-        "id": 4882896,
-        "character": "Leo",
-        "profile_path": null
-      },
-      {
-        "name": "Isak Férriz",
-        "id": 589477,
-        "character": "Lou",
-        "profile_path": "/rFkVuTNGu8H8kRVjFB5pIu3gkrp.jpg"
-      },
-      {
-        "name": "Manuel Manquiña",
-        "id": 264955,
-        "character": "",
-        "profile_path": "/6NCbwPD4u3KJbSDxF3h1z1vzvBH.jpg"
-      },
-      {
-        "name": "Marta Larralde",
-        "id": 932628,
-        "character": "",
-        "profile_path": "/mmaekjqGCUspRfpzW56Q1gz8cZ6.jpg"
-      },
-      {
-        "name": "María Pujalte",
-        "id": 132996,
-        "character": "",
-        "profile_path": "/pgVtz88o0O3ik0Ov2dQnSbwSNYD.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 2.814,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/66Pg2wfKvnKYR9akKoA5RlOKHyf.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-10-31 10:03:10"
+    "última_actualización": "2025-10-31 22:03:10"
   },
   {
     "id": 1526519,
@@ -2224,7 +2236,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:11"
+    "última_actualización": "2025-10-31 22:03:10"
   },
   {
     "id": 1320917,
@@ -2338,7 +2350,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:11"
+    "última_actualización": "2025-10-31 22:03:11"
   },
   {
     "id": 1371912,
@@ -2417,7 +2429,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-31 10:03:13"
+    "última_actualización": "2025-10-31 22:03:12"
   },
   {
     "id": 1556927,
@@ -2485,7 +2497,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:12"
+    "última_actualización": "2025-10-31 22:03:12"
   },
   {
     "id": 1567077,
@@ -2569,7 +2581,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:12"
+    "última_actualización": "2025-10-31 22:03:11"
   },
   {
     "id": 986097,
@@ -2744,7 +2756,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:08"
+    "última_actualización": "2025-10-31 22:03:08"
   },
   {
     "id": 1242419,
@@ -2893,7 +2905,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:09"
+    "última_actualización": "2025-10-31 22:03:08"
   },
   {
     "id": 1539104,
@@ -2988,7 +3000,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:09"
+    "última_actualización": "2025-10-31 22:03:08"
   },
   {
     "id": 1033148,
@@ -3116,7 +3128,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-31 10:03:09"
+    "última_actualización": "2025-10-31 22:03:08"
   },
   {
     "id": 1356670,
@@ -3247,7 +3259,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:09"
+    "última_actualización": "2025-10-31 22:03:08"
   },
   {
     "id": 1284460,
@@ -3406,7 +3418,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:09"
+    "última_actualización": "2025-10-31 22:03:09"
   },
   {
     "id": 1283320,
@@ -3537,236 +3549,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:10"
-  },
-  {
-    "id": 1309272,
-    "tmdb_id": 1309272,
-    "título": "Todos los lados de la cama",
-    "título_original": "Todos los lados de la cama",
-    "sinopsis": "Tras décadas sin verse, Javier (Ernesto Alterio) y Carlota (Pilar Castro) montan en cólera cuando descubren que sus hijos Óscar (Jan Buxaderas) y Julia (Lucía Caraballo) planean casarse. Ni Paula (Natalia Verbeke), madre de Óscar; ni Rafa (Alberto San Juan), convertido en gurú contra las relaciones tóxicas; ni Pilar (María Esteve), wedding planner; ni su amigo Carlos (Secun de la Rosa), sirven de mucha ayuda a Javier y Carlota en su firme propósito de impedir la boda. Y aunque Julia y Óscar pertenecen a una generación en la que el amor, el sexo y las relaciones son más libres y respetuosas que las de sus padres, las tretas ruines de Javier y Carlota ponen todo patas arriba a medida que la fecha de la boda se acerca.",
-    "poster_path": "/pd9eDBjYfNP7pjXMyrtUoCmnE0l.jpg",
-    "poster_local": "imagenes_estrenos/Todos_los_lados_de_la_cama_5vAUtf64Fgv4h1Kpxrv6J4b8Dxw.jpg",
-    "backdrop_path": "/wsScQtRBNWQNuldi3NSH0ayhsQr.jpg",
-    "backdrop_local": "imagenes_estrenos/Todos_los_lados_de_la_cama_backdrop_wsScQtRBNWQNuldi3NSH0ayhsQr.jpg",
-    "fecha_estreno": "2025-11-14T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Samantha López Speranza",
-    "directores": [
-      {
-        "name": "Samantha López Speranza",
-        "id": 3104885
-      }
-    ],
-    "actores": [
-      {
-        "name": "Ernesto Alterio",
-        "id": 27459,
-        "character": "Javier",
-        "profile_path": "/ymU9jrQKt0oiMP13aRWE1xnDQs2.jpg"
-      },
-      {
-        "name": "Pilar Castro",
-        "id": 138701,
-        "character": "Carlota",
-        "profile_path": "/4IK4i5pRkuTDVnmB9A7kMS7dbz7.jpg"
-      },
-      {
-        "name": "Jan Buxaderas",
-        "id": 4472703,
-        "character": "Óscar",
-        "profile_path": "/a5B8dLSg2cIMsz5ryhGsXW394I1.jpg"
-      },
-      {
-        "name": "Lucía Caraballo",
-        "id": 1298407,
-        "character": "Julia",
-        "profile_path": "/hhQ2eeMqIYK267V4QeAe0wlAybu.jpg"
-      },
-      {
-        "name": "Natalia Verbeke",
-        "id": 27461,
-        "character": "Paula",
-        "profile_path": "/szL5HDE6s1mmGyuLBxcvTiMYZnA.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 10402,
-        "name": "Música"
-      }
-    ],
-    "popularidad": 2.0102,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wsScQtRBNWQNuldi3NSH0ayhsQr.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.699,
-          "height": 1200,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/5vAUtf64Fgv4h1Kpxrv6J4b8Dxw.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 839
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/pd9eDBjYfNP7pjXMyrtUoCmnE0l.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-10-31 10:03:11"
-  },
-  {
-    "id": 1310830,
-    "tmdb_id": 1310830,
-    "título": "Fuori",
-    "título_original": "Fuori",
-    "sinopsis": "",
-    "poster_path": "/zFo7tZqQes1JASl1eDefZoG1AHV.jpg",
-    "poster_local": "imagenes_estrenos/Fuori_zFo7tZqQes1JASl1eDefZoG1AHV.jpg",
-    "backdrop_path": "/k9Oe0KXL1qYnEddxr1WR4VkB8eW.jpg",
-    "backdrop_local": "imagenes_estrenos/Fuori_backdrop_k9Oe0KXL1qYnEddxr1WR4VkB8eW.jpg",
-    "fecha_estreno": "2025-11-14T00:00:00.000Z",
-    "duración": "117 min",
-    "director": "Mario Martone",
-    "directores": [
-      {
-        "name": "Mario Martone",
-        "id": 225109
-      }
-    ],
-    "actores": [
-      {
-        "name": "Valeria Golino",
-        "id": 3124,
-        "character": "Goliarda Sapienza",
-        "profile_path": "/bLw0lNPEhICtbTLtnTswamefN7C.jpg"
-      },
-      {
-        "name": "Matilda De Angelis",
-        "id": 1589101,
-        "character": "Roberta",
-        "profile_path": "/xL6Ky35uDDz9L4qWkMF2cTjGkbn.jpg"
-      },
-      {
-        "name": "Elodie",
-        "id": 3129814,
-        "character": "Barbara",
-        "profile_path": "/h9ftijOaV5Ah8YJwefxkNjQW8PI.jpg"
-      },
-      {
-        "name": "Corrado Fortuna",
-        "id": 136288,
-        "character": "Angelo",
-        "profile_path": "/Ap0FrVoBHuYBIeENawqlS0V55uK.jpg"
-      },
-      {
-        "name": "Francesco Gheghi",
-        "id": 2024496,
-        "character": "Cameriere bar della stazione",
-        "profile_path": "/dyQUBwhLWGbf1Rdb2Uy9PnL0XSV.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 36,
-        "name": "Historia"
-      }
-    ],
-    "popularidad": 2.1347,
-    "puntuación": 6.6,
-    "votos": 52,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/k9Oe0KXL1qYnEddxr1WR4VkB8eW.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/obSpkIizGdHXIEeEcDZsAlZ9q1x.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/3tMl4ldTTrixrilAoQ2c8EmNnSr.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/q0KUi8RA2qzn3rdXPTCsOkojmO1.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1688,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/q15DSTgCIyYtruFn8RchpDyNFih.jpg",
-          "vote_average": 1.222,
-          "vote_count": 3,
-          "width": 3000
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2025-10-31 10:03:11"
+    "última_actualización": "2025-10-31 22:03:09"
   },
   {
     "id": 1367125,
@@ -3915,7 +3698,236 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:11"
+    "última_actualización": "2025-10-31 22:03:10"
+  },
+  {
+    "id": 1310830,
+    "tmdb_id": 1310830,
+    "título": "Fuori",
+    "título_original": "Fuori",
+    "sinopsis": "",
+    "poster_path": "/zFo7tZqQes1JASl1eDefZoG1AHV.jpg",
+    "poster_local": "imagenes_estrenos/Fuori_zFo7tZqQes1JASl1eDefZoG1AHV.jpg",
+    "backdrop_path": "/k9Oe0KXL1qYnEddxr1WR4VkB8eW.jpg",
+    "backdrop_local": "imagenes_estrenos/Fuori_backdrop_k9Oe0KXL1qYnEddxr1WR4VkB8eW.jpg",
+    "fecha_estreno": "2025-11-14T00:00:00.000Z",
+    "duración": "117 min",
+    "director": "Mario Martone",
+    "directores": [
+      {
+        "name": "Mario Martone",
+        "id": 225109
+      }
+    ],
+    "actores": [
+      {
+        "name": "Valeria Golino",
+        "id": 3124,
+        "character": "Goliarda Sapienza",
+        "profile_path": "/bLw0lNPEhICtbTLtnTswamefN7C.jpg"
+      },
+      {
+        "name": "Matilda De Angelis",
+        "id": 1589101,
+        "character": "Roberta",
+        "profile_path": "/xL6Ky35uDDz9L4qWkMF2cTjGkbn.jpg"
+      },
+      {
+        "name": "Elodie",
+        "id": 3129814,
+        "character": "Barbara",
+        "profile_path": "/h9ftijOaV5Ah8YJwefxkNjQW8PI.jpg"
+      },
+      {
+        "name": "Corrado Fortuna",
+        "id": 136288,
+        "character": "Angelo",
+        "profile_path": "/Ap0FrVoBHuYBIeENawqlS0V55uK.jpg"
+      },
+      {
+        "name": "Francesco Gheghi",
+        "id": 2024496,
+        "character": "Cameriere bar della stazione",
+        "profile_path": "/dyQUBwhLWGbf1Rdb2Uy9PnL0XSV.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "popularidad": 2.1347,
+    "puntuación": 6.6,
+    "votos": 52,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/k9Oe0KXL1qYnEddxr1WR4VkB8eW.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/obSpkIizGdHXIEeEcDZsAlZ9q1x.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3tMl4ldTTrixrilAoQ2c8EmNnSr.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/q0KUi8RA2qzn3rdXPTCsOkojmO1.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1688,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/q15DSTgCIyYtruFn8RchpDyNFih.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 3000
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-10-31 22:03:10"
+  },
+  {
+    "id": 1309272,
+    "tmdb_id": 1309272,
+    "título": "Todos los lados de la cama",
+    "título_original": "Todos los lados de la cama",
+    "sinopsis": "Tras décadas sin verse, Javier (Ernesto Alterio) y Carlota (Pilar Castro) montan en cólera cuando descubren que sus hijos Óscar (Jan Buxaderas) y Julia (Lucía Caraballo) planean casarse. Ni Paula (Natalia Verbeke), madre de Óscar; ni Rafa (Alberto San Juan), convertido en gurú contra las relaciones tóxicas; ni Pilar (María Esteve), wedding planner; ni su amigo Carlos (Secun de la Rosa), sirven de mucha ayuda a Javier y Carlota en su firme propósito de impedir la boda. Y aunque Julia y Óscar pertenecen a una generación en la que el amor, el sexo y las relaciones son más libres y respetuosas que las de sus padres, las tretas ruines de Javier y Carlota ponen todo patas arriba a medida que la fecha de la boda se acerca.",
+    "poster_path": "/pd9eDBjYfNP7pjXMyrtUoCmnE0l.jpg",
+    "poster_local": "imagenes_estrenos/Todos_los_lados_de_la_cama_5vAUtf64Fgv4h1Kpxrv6J4b8Dxw.jpg",
+    "backdrop_path": "/wsScQtRBNWQNuldi3NSH0ayhsQr.jpg",
+    "backdrop_local": "imagenes_estrenos/Todos_los_lados_de_la_cama_backdrop_wsScQtRBNWQNuldi3NSH0ayhsQr.jpg",
+    "fecha_estreno": "2025-11-14T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Samantha López Speranza",
+    "directores": [
+      {
+        "name": "Samantha López Speranza",
+        "id": 3104885
+      }
+    ],
+    "actores": [
+      {
+        "name": "Ernesto Alterio",
+        "id": 27459,
+        "character": "Javier",
+        "profile_path": "/ymU9jrQKt0oiMP13aRWE1xnDQs2.jpg"
+      },
+      {
+        "name": "Pilar Castro",
+        "id": 138701,
+        "character": "Carlota",
+        "profile_path": "/4IK4i5pRkuTDVnmB9A7kMS7dbz7.jpg"
+      },
+      {
+        "name": "Jan Buxaderas",
+        "id": 4472703,
+        "character": "Óscar",
+        "profile_path": "/a5B8dLSg2cIMsz5ryhGsXW394I1.jpg"
+      },
+      {
+        "name": "Lucía Caraballo",
+        "id": 1298407,
+        "character": "Julia",
+        "profile_path": "/hhQ2eeMqIYK267V4QeAe0wlAybu.jpg"
+      },
+      {
+        "name": "Natalia Verbeke",
+        "id": 27461,
+        "character": "Paula",
+        "profile_path": "/szL5HDE6s1mmGyuLBxcvTiMYZnA.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "popularidad": 2.0102,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wsScQtRBNWQNuldi3NSH0ayhsQr.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.699,
+          "height": 1200,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5vAUtf64Fgv4h1Kpxrv6J4b8Dxw.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 839
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/pd9eDBjYfNP7pjXMyrtUoCmnE0l.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-10-31 22:03:10"
   },
   {
     "id": 1475637,
@@ -4016,7 +4028,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:12"
+    "última_actualización": "2025-10-31 22:03:11"
   },
   {
     "id": 999257,
@@ -4065,7 +4077,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-31 10:03:12"
+    "última_actualización": "2025-10-31 22:03:11"
   },
   {
     "id": 604079,
@@ -4133,8 +4145,8 @@
       }
     ],
     "popularidad": 164.1827,
-    "puntuación": 6.908,
-    "votos": 550,
+    "puntuación": 6.913,
+    "votos": 559,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -4244,7 +4256,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:08"
+    "última_actualización": "2025-10-31 22:03:07"
   },
   {
     "id": 1246049,
@@ -4273,28 +4285,28 @@
         "profile_path": "/8M5lPHrERwAIfWK56RkH30FOjhV.jpg"
       },
       {
-        "name": "Christoph Waltz",
-        "id": 27319,
-        "character": "Priest",
-        "profile_path": "/jMvLGCVXLaBqjRLf5olyvEucZob.jpg"
-      },
-      {
         "name": "Zoë Bleu Sidel",
         "id": 2491204,
         "character": "Elisabeta / Mina",
         "profile_path": "/n1IKYQWhxQFpHOa8mwbyk2cUb3I.jpg"
       },
       {
-        "name": "Guillaume de Tonquédec",
-        "id": 17896,
-        "character": "Dumont",
-        "profile_path": "/mDPeqkKJgFMiH60gH32VTwgOHSp.jpg"
+        "name": "Christoph Waltz",
+        "id": 27319,
+        "character": "Priest",
+        "profile_path": "/jMvLGCVXLaBqjRLf5olyvEucZob.jpg"
       },
       {
         "name": "Matilda De Angelis",
         "id": 1589101,
         "character": "Maria",
         "profile_path": "/xL6Ky35uDDz9L4qWkMF2cTjGkbn.jpg"
+      },
+      {
+        "name": "Ewens Abid",
+        "id": 2802762,
+        "character": "Jonathan Harker",
+        "profile_path": "/5zGcQkoSsg1AdkcvYuqnLuslMuv.jpg"
       }
     ],
     "géneros": [
@@ -4312,8 +4324,8 @@
       }
     ],
     "popularidad": 35.4435,
-    "puntuación": 7.139,
-    "votos": 234,
+    "puntuación": 7.138,
+    "votos": 236,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -4423,7 +4435,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:08"
+    "última_actualización": "2025-10-31 22:03:07"
   },
   {
     "id": 967941,
@@ -4602,7 +4614,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:08"
+    "última_actualización": "2025-10-31 22:03:07"
   },
   {
     "id": 798645,
@@ -4771,7 +4783,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:08"
+    "última_actualización": "2025-10-31 22:03:08"
   },
   {
     "id": 1223601,
@@ -4835,7 +4847,7 @@
       }
     ],
     "popularidad": 10.3444,
-    "puntuación": 0.0,
+    "puntuación": 6.0,
     "votos": 1,
     "adulto": false,
     "video": false,
@@ -4916,7 +4928,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:09"
+    "última_actualización": "2025-10-31 22:03:08"
   },
   {
     "id": 1186830,
@@ -5071,7 +5083,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:10"
+    "última_actualización": "2025-10-31 22:03:09"
   },
   {
     "id": 524635,
@@ -5195,138 +5207,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-10-31 10:03:10"
-  },
-  {
-    "id": 1228682,
-    "tmdb_id": 1228682,
-    "título": "Dreams",
-    "título_original": "Drømmer",
-    "sinopsis": "",
-    "poster_path": "/jB077kwValRa5rjsKVBITZ0tGmP.jpg",
-    "poster_local": "imagenes_estrenos/Dreams_jB077kwValRa5rjsKVBITZ0tGmP.jpg",
-    "backdrop_path": "/iinGiHxTC4pxz7aYdRvjh3w4m4s.jpg",
-    "backdrop_local": "imagenes_estrenos/Dreams_backdrop_iinGiHxTC4pxz7aYdRvjh3w4m4s.jpg",
-    "fecha_estreno": "2025-11-21T00:00:00.000Z",
-    "duración": "111 min",
-    "director": "Dag Johan Haugerud",
-    "directores": [
-      {
-        "name": "Dag Johan Haugerud",
-        "id": 1097147
-      }
-    ],
-    "actores": [
-      {
-        "name": "Ella Øverbye",
-        "id": 2221380,
-        "character": "Johanne",
-        "profile_path": "/jF1DNxdfcMaH36ijRiGs5kqSmgX.jpg"
-      },
-      {
-        "name": "Selome Emnetu",
-        "id": 1569491,
-        "character": "Johanna",
-        "profile_path": "/hJCGUhdSgrKxGA8giKAXQGTX2Wu.jpg"
-      },
-      {
-        "name": "Anne Marit Jacobsen",
-        "id": 220116,
-        "character": "Karin",
-        "profile_path": "/ohpyjnAIL6EPHhOskZGFjrbkFkF.jpg"
-      },
-      {
-        "name": "Ane Dahl Torp",
-        "id": 63769,
-        "character": "Kristin",
-        "profile_path": "/t3hvq05o8oz9qJSI3KelxSkGXXO.jpg"
-      },
-      {
-        "name": "Andrine Sæther",
-        "id": 63763,
-        "character": "Anne",
-        "profile_path": "/qocGeqp8iaDsrdfyXOrBmkJnmUV.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 2.8173,
-    "puntuación": 6.9,
-    "votos": 37,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/iinGiHxTC4pxz7aYdRvjh3w4m4s.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/tbgDwVN66LPxQcqOR6Yko9dmzPe.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/sIKZptqmuTjrEMe5JgjA05YBlt6.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/o6n8OGeiPAhbyC4sJzvo4EntgZ2.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/lp3mbQ7yuyP7vq67YK6hauWbOhv.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.666,
-          "height": 1097,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/90WZKmIwj7yOAQMLjWlGsI6pkil.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 731
-        }
-      ]
-    },
-    "última_actualización": "2025-10-31 10:03:10"
+    "última_actualización": "2025-10-31 22:03:09"
   },
   {
     "id": 1207183,
@@ -5406,7 +5287,138 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:10"
+    "última_actualización": "2025-10-31 22:03:09"
+  },
+  {
+    "id": 1228682,
+    "tmdb_id": 1228682,
+    "título": "Dreams",
+    "título_original": "Drømmer",
+    "sinopsis": "",
+    "poster_path": "/jB077kwValRa5rjsKVBITZ0tGmP.jpg",
+    "poster_local": "imagenes_estrenos/Dreams_jB077kwValRa5rjsKVBITZ0tGmP.jpg",
+    "backdrop_path": "/iinGiHxTC4pxz7aYdRvjh3w4m4s.jpg",
+    "backdrop_local": "imagenes_estrenos/Dreams_backdrop_iinGiHxTC4pxz7aYdRvjh3w4m4s.jpg",
+    "fecha_estreno": "2025-11-21T00:00:00.000Z",
+    "duración": "111 min",
+    "director": "Dag Johan Haugerud",
+    "directores": [
+      {
+        "name": "Dag Johan Haugerud",
+        "id": 1097147
+      }
+    ],
+    "actores": [
+      {
+        "name": "Ella Øverbye",
+        "id": 2221380,
+        "character": "Johanne",
+        "profile_path": "/jF1DNxdfcMaH36ijRiGs5kqSmgX.jpg"
+      },
+      {
+        "name": "Selome Emnetu",
+        "id": 1569491,
+        "character": "Johanna",
+        "profile_path": "/hJCGUhdSgrKxGA8giKAXQGTX2Wu.jpg"
+      },
+      {
+        "name": "Anne Marit Jacobsen",
+        "id": 220116,
+        "character": "Karin",
+        "profile_path": "/ohpyjnAIL6EPHhOskZGFjrbkFkF.jpg"
+      },
+      {
+        "name": "Ane Dahl Torp",
+        "id": 63769,
+        "character": "Kristin",
+        "profile_path": "/t3hvq05o8oz9qJSI3KelxSkGXXO.jpg"
+      },
+      {
+        "name": "Andrine Sæther",
+        "id": 63763,
+        "character": "Anne",
+        "profile_path": "/qocGeqp8iaDsrdfyXOrBmkJnmUV.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 2.8173,
+    "puntuación": 6.865,
+    "votos": 38,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/iinGiHxTC4pxz7aYdRvjh3w4m4s.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tbgDwVN66LPxQcqOR6Yko9dmzPe.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/sIKZptqmuTjrEMe5JgjA05YBlt6.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/o6n8OGeiPAhbyC4sJzvo4EntgZ2.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/lp3mbQ7yuyP7vq67YK6hauWbOhv.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.666,
+          "height": 1097,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/90WZKmIwj7yOAQMLjWlGsI6pkil.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 731
+        }
+      ]
+    },
+    "última_actualización": "2025-10-31 22:03:09"
   },
   {
     "id": 1359388,
@@ -5475,7 +5487,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-10-31 10:03:11"
+    "última_actualización": "2025-10-31 22:03:10"
   },
   {
     "id": 1313032,
@@ -5606,7 +5618,89 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:11"
+    "última_actualización": "2025-10-31 22:03:11"
+  },
+  {
+    "id": 676679,
+    "tmdb_id": 676679,
+    "título": "Olivia y el terremoto invisible",
+    "título_original": "L’Olívia i el terratrèmol invisible",
+    "sinopsis": "Olivia, su hermano pequeño Tim y su madre Ingrid son expulsados de casa y tienen que empezar de cero en otro barrio. Mientras Ingrid hace malabares para resolver la situación, Olivia se inventa una fantasía protectora para su hermano y para ella: todo lo que viven no es real, están rodando una película. Pero esta invención tendrá consecuencias inesperadas. Afortunadamente, a su alrededor se formará una nueva y pintoresca familia con la que vivirán rocambolescas aventuras. Entre risas, llantos, magia y amistad, descubrirán que son los increíbles héroes cotidianos de sus propias vidas.",
+    "poster_path": "/utZCyMf49NsGbAElOiO18pHbGA2.jpg",
+    "poster_local": "imagenes_estrenos/Olivia_y_el_terremoto_invisible_utZCyMf49NsGbAElOiO18pHbGA2.jpg",
+    "backdrop_path": "/c5gVFylacuoDuOpC7j6d6p0NRcd.jpg",
+    "backdrop_local": "imagenes_estrenos/Olivia_y_el_terremoto_invisible_backdrop_c5gVFylacuoDuOpC7j6d6p0NRcd.jpg",
+    "fecha_estreno": "2025-11-21T00:00:00.000Z",
+    "duración": "70 min",
+    "director": "Irene Iborra Rizo",
+    "directores": [
+      {
+        "name": "Irene Iborra Rizo",
+        "id": 2549328
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 1.5371,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/c5gVFylacuoDuOpC7j6d6p0NRcd.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/m2RjACgRKLbm2FGK3Qt4S7K0BPS.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wDHh2CKhNtILtBoed8WBfBv57Tp.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2025-10-31 22:03:11"
   },
   {
     "id": 1082900,
@@ -5761,89 +5855,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:12"
-  },
-  {
-    "id": 676679,
-    "tmdb_id": 676679,
-    "título": "Olivia y el terremoto invisible",
-    "título_original": "L’Olívia i el terratrèmol invisible",
-    "sinopsis": "Olivia, su hermano pequeño Tim y su madre Ingrid son expulsados de casa y tienen que empezar de cero en otro barrio. Mientras Ingrid hace malabares para resolver la situación, Olivia se inventa una fantasía protectora para su hermano y para ella: todo lo que viven no es real, están rodando una película. Pero esta invención tendrá consecuencias inesperadas. Afortunadamente, a su alrededor se formará una nueva y pintoresca familia con la que vivirán rocambolescas aventuras. Entre risas, llantos, magia y amistad, descubrirán que son los increíbles héroes cotidianos de sus propias vidas.",
-    "poster_path": "/utZCyMf49NsGbAElOiO18pHbGA2.jpg",
-    "poster_local": "imagenes_estrenos/Olivia_y_el_terremoto_invisible_utZCyMf49NsGbAElOiO18pHbGA2.jpg",
-    "backdrop_path": "/c5gVFylacuoDuOpC7j6d6p0NRcd.jpg",
-    "backdrop_local": "imagenes_estrenos/Olivia_y_el_terremoto_invisible_backdrop_c5gVFylacuoDuOpC7j6d6p0NRcd.jpg",
-    "fecha_estreno": "2025-11-21T00:00:00.000Z",
-    "duración": "70 min",
-    "director": "Irene Iborra Rizo",
-    "directores": [
-      {
-        "name": "Irene Iborra Rizo",
-        "id": 2549328
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 1.5371,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/c5gVFylacuoDuOpC7j6d6p0NRcd.jpg",
-          "vote_average": 0.0,
-          "vote_count": 1,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/m2RjACgRKLbm2FGK3Qt4S7K0BPS.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wDHh2CKhNtILtBoed8WBfBv57Tp.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2025-10-31 10:03:12"
+    "última_actualización": "2025-10-31 22:03:11"
   },
   {
     "id": 1570929,
@@ -5934,7 +5946,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:13"
+    "última_actualización": "2025-10-31 22:03:12"
   },
   {
     "id": 1463525,
@@ -6014,7 +6026,7 @@
         }
       ]
     },
-    "última_actualización": "2025-10-31 10:03:12"
+    "última_actualización": "2025-10-31 22:03:11"
   },
   {
     "id": 1025388,
