@@ -1,0 +1,55 @@
+2025-11-02 20:05:50,604 - INFO - Iniciando proceso de scraping
+2025-11-02 20:05:50,606 - INFO - Posts existentes encontrados: 2461
+2025-11-02 20:05:50,606 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-11-02 20:05:51,777 - INFO - Se encontraron 10 posts
+2025-11-02 20:05:51,778 - INFO - Comenzando extracción de información del post
+2025-11-02 20:05:51,779 - INFO - Título del post: FRANKENSTEIN de Guillermo del Toro
+2025-11-02 20:05:51,779 - INFO - Fecha del post: 2025-11-02T21:01:10+01:00
+2025-11-02 20:05:51,779 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/11/critica-de-frankenstein-de-guillermo-del-toro.html
+2025-11-02 20:05:53,134 - INFO - Contenido extraído y estructurado (4630 caracteres)
+2025-11-02 20:05:53,136 - INFO - Guardando post en: posts/FRANKENSTEIN_2025-11-02.json
+2025-11-02 20:05:53,136 - INFO - Post guardado exitosamente
+2025-11-02 20:05:53,136 - INFO - Actualizando índice de películas
+2025-11-02 20:05:53,136 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-11-02 20:05:53,140 - INFO - Índice existente cargado con 2562 películas
+2025-11-02 20:05:53,154 - INFO - Película agregada al índice: FRANKENSTEIN
+2025-11-02 20:05:53,155 - INFO - Nuevo post guardado: FRANKENSTEIN de Guillermo del Toro
+2025-11-02 20:05:53,155 - INFO - Comenzando extracción de información del post
+2025-11-02 20:05:53,155 - INFO - Título del post: ESA COSA CON ALAS de Dylan Southern
+2025-11-02 20:05:53,155 - INFO - Fecha del post: 2025-11-02T17:47:59+01:00
+2025-11-02 20:05:53,155 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/11/critica-de-esa-cosa-con-alas-de-dylan-southern.html
+2025-11-02 20:05:54,425 - INFO - Contenido extraído y estructurado (2715 caracteres)
+2025-11-02 20:05:54,426 - INFO - Guardando post en: posts/ESA_COSA_CON_ALAS_2025-11-02.json
+2025-11-02 20:05:54,426 - INFO - Post guardado exitosamente
+2025-11-02 20:05:54,426 - INFO - Actualizando índice de películas
+2025-11-02 20:05:54,426 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-11-02 20:05:54,430 - INFO - Índice existente cargado con 2563 películas
+2025-11-02 20:05:54,442 - INFO - Película agregada al índice: ESA COSA CON ALAS
+2025-11-02 20:05:54,442 - INFO - Nuevo post guardado: ESA COSA CON ALAS de Dylan Southern
+2025-11-02 20:05:54,442 - INFO - Comenzando extracción de información del post
+2025-11-02 20:05:54,443 - INFO - Título del post: LA CENA de Manuel Gómez Pereira
+2025-11-02 20:05:54,443 - INFO - Fecha del post: 2025-11-02T17:28:36+01:00
+2025-11-02 20:05:54,443 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/11/critica-de-la-cena-de-manuel-gomez-pereira.html
+2025-11-02 20:05:55,776 - INFO - Contenido extraído y estructurado (2784 caracteres)
+2025-11-02 20:05:55,777 - INFO - Guardando post en: posts/LA_CENA_2025-11-02.json
+2025-11-02 20:05:55,777 - INFO - Post guardado exitosamente
+2025-11-02 20:05:55,778 - INFO - Actualizando índice de películas
+2025-11-02 20:05:55,778 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-11-02 20:05:55,781 - INFO - Índice existente cargado con 2564 películas
+2025-11-02 20:05:55,792 - INFO - Película agregada al índice: LA CENA
+2025-11-02 20:05:55,793 - INFO - Nuevo post guardado: LA CENA de Manuel Gómez Pereira
+2025-11-02 20:05:55,793 - INFO - Comenzando extracción de información del post
+2025-11-02 20:05:55,793 - INFO - Post ya existente, saltando: LOS DOMINGOS de Alauda Ruiz de Azúa
+2025-11-02 20:05:55,793 - INFO - Comenzando extracción de información del post
+2025-11-02 20:05:55,793 - INFO - Post ya existente, saltando: UN SIMPLE ACCIDENTE de Jafar Panahi
+2025-11-02 20:05:55,793 - INFO - Comenzando extracción de información del post
+2025-11-02 20:05:55,793 - INFO - Post ya existente, saltando: CAZA DE BRUJAS de Luca Guadagnino
+2025-11-02 20:05:55,793 - INFO - Comenzando extracción de información del post
+2025-11-02 20:05:55,794 - INFO - Post ya existente, saltando: BALA PERDIDA de Darren Aronofsky
+2025-11-02 20:05:55,794 - INFO - Comenzando extracción de información del post
+2025-11-02 20:05:55,794 - INFO - Post ya existente, saltando: KARMELE de Asier Altuna
+2025-11-02 20:05:55,794 - INFO - Comenzando extracción de información del post
+2025-11-02 20:05:55,794 - INFO - Post ya existente, saltando: JUGAR CON FUEGO de Delphine y Muriel Coulin
+2025-11-02 20:05:55,794 - INFO - Comenzando extracción de información del post
+2025-11-02 20:05:55,794 - INFO - Post ya existente, saltando: LA SOSPECHA DE SOFÍA de Imanol Uribe
+2025-11-02 20:05:55,794 - INFO - Proceso completado. Posts nuevos guardados: 3
