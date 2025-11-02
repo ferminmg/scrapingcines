@@ -1,73 +1,5 @@
 [
   {
-    "id": 1564714,
-    "tmdb_id": 1564714,
-    "título": "Flotar",
-    "título_original": "Flotar",
-    "sinopsis": "",
-    "poster_path": "/v7vzcsedVw62sWMLq6HZ1HiTVSx.jpg",
-    "poster_local": "imagenes_estrenos/Flotar_v7vzcsedVw62sWMLq6HZ1HiTVSx.jpg",
-    "backdrop_path": "/bJ1HbbJalvNsAwbYw7m1ANctlXL.jpg",
-    "backdrop_local": "imagenes_estrenos/Flotar_backdrop_bJ1HbbJalvNsAwbYw7m1ANctlXL.jpg",
-    "fecha_estreno": "2025-11-01",
-    "duración": "12 min",
-    "director": "Alexia Corrales",
-    "directores": [
-      {
-        "name": "Alexia Corrales",
-        "id": 4241134
-      }
-    ],
-    "actores": [
-      {
-        "name": "Silvia Collado Baeza",
-        "id": 5756693,
-        "character": "Alba",
-        "profile_path": null
-      },
-      {
-        "name": "Iván Vigara",
-        "id": 3764472,
-        "character": "Sergio",
-        "profile_path": null
-      }
-    ],
-    "géneros": [],
-    "popularidad": 0.0214,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.776,
-          "height": 816,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/bJ1HbbJalvNsAwbYw7m1ANctlXL.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1449
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.666,
-          "height": 1600,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/v7vzcsedVw62sWMLq6HZ1HiTVSx.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1066
-        }
-      ]
-    },
-    "última_actualización": "2025-10-28 22:02:48"
-  },
-  {
     "id": 1436779,
     "tmdb_id": 1436779,
     "título": "Sursum Corda, amore",
@@ -151,6 +83,223 @@
     "última_actualización": "2025-10-28 22:02:47"
   },
   {
+    "id": 1570950,
+    "tmdb_id": 1570950,
+    "título": "Heridos",
+    "título_original": "Heridos",
+    "sinopsis": "Todos llevamos algún dolor que el tiempo no borra.  Heridos recoge el testimonio de cuatro personas que, tras años de silencio, se atrevieron a mirar de frente una herida profunda: la que deja el aborto.  Cada uno recorrió un camino distinto, pero todos descubrieron la misma verdad: sanar es posible. Este documental no habla solo del dolor, sino también del perdón, la misericordia y la esperanza.",
+    "poster_path": "/d8XjqyxSwW3QkWU8LWv7eAzZDGh.jpg",
+    "poster_local": "imagenes_estrenos/Heridos_d8XjqyxSwW3QkWU8LWv7eAzZDGh.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-11-07",
+    "duración": "77 min",
+    "director": "Borja Martínez-Echeverría",
+    "directores": [
+      {
+        "name": "Borja Martínez-Echeverría",
+        "id": 3255168
+      }
+    ],
+    "actores": [],
+    "géneros": [],
+    "popularidad": 0.0766,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/d8XjqyxSwW3QkWU8LWv7eAzZDGh.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-11-02 10:03:13"
+  },
+  {
+    "id": 701387,
+    "tmdb_id": 701387,
+    "título": "Bugonia",
+    "título_original": "Bugonia",
+    "sinopsis": "Un joven captura e interroga a un hombre de negocios que cree que es un invasor alienígena. El captor, su novia, el empresario y un detective privado se enzarzan en una tensa batalla psicológica. Remake del film coreano \"Save the Green Planet\".",
+    "poster_path": "/2C5Vf9VcoXB7SFFcG8vppW5bmtX.jpg",
+    "poster_local": "imagenes_estrenos/Bugonia_2C5Vf9VcoXB7SFFcG8vppW5bmtX.jpg",
+    "backdrop_path": "/jihTSrMksmU5ujqRZnc6SBFSyfq.jpg",
+    "backdrop_local": "imagenes_estrenos/Bugonia_backdrop_kZVSqHp5Pq7o8IgfZdVBtIwDAz9.jpg",
+    "fecha_estreno": "2025-11-07T00:00:00.000Z",
+    "duración": "118 min",
+    "director": "Giórgos Lánthimos",
+    "directores": [
+      {
+        "name": "Giórgos Lánthimos",
+        "id": 122423
+      }
+    ],
+    "actores": [
+      {
+        "name": "Emma Stone",
+        "id": 54693,
+        "character": "Michelle",
+        "profile_path": "/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+      },
+      {
+        "name": "Jesse Plemons",
+        "id": 88124,
+        "character": "Teddy",
+        "profile_path": "/og4I51GsuwohdPgoELOHVMMqMre.jpg"
+      },
+      {
+        "name": "Aidan Delbis",
+        "id": 5212114,
+        "character": "Don",
+        "profile_path": "/cM1I9bAUlkxSxAvtjnSOu3cICt6.jpg"
+      },
+      {
+        "name": "Stavros Halkias",
+        "id": 1400595,
+        "character": "Casey",
+        "profile_path": "/9QB7YGMk6O7hRgGWvK0OimTVzl7.jpg"
+      },
+      {
+        "name": "Alicia Silverstone",
+        "id": 5588,
+        "character": "Sandy",
+        "profile_path": "/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "popularidad": 53.0813,
+    "puntuación": 7.818,
+    "votos": 151,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jihTSrMksmU5ujqRZnc6SBFSyfq.jpg",
+          "vote_average": 7.19,
+          "vote_count": 7,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/cj2fug7Ayk0eaYOpW0npBaHXMCc.jpg",
+          "vote_average": 5.786,
+          "vote_count": 7,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3JFsKuQkTh7ZtmPWKGDq2BoLtTI.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/kZVSqHp5Pq7o8IgfZdVBtIwDAz9.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oa4eT8d6d5ox09NDDGOnoTvZNDh.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jSCuXZbwxbUHCvebMzxjY2ccSWy.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.75,
+          "height": 1350,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/2C5Vf9VcoXB7SFFcG8vppW5bmtX.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1013
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ooibhtGcAYyugAURMFt6h2A49aY.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/gaplD9IEUxez3GeX16SkgLXQJEb.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-11-02 10:03:07"
+  },
+  {
     "id": 1242898,
     "tmdb_id": 1242898,
     "título": "Predator: Badlands",
@@ -219,9 +368,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 50.1285,
-    "puntuación": 9.2,
-    "votos": 5,
+    "popularidad": 56.6104,
+    "puntuación": 9.333,
+    "votos": 6,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -331,180 +480,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:02:58"
-  },
-  {
-    "id": 701387,
-    "tmdb_id": 701387,
-    "título": "Bugonia",
-    "título_original": "Bugonia",
-    "sinopsis": "Un joven captura e interroga a un hombre de negocios que cree que es un invasor alienígena. El captor, su novia, el empresario y un detective privado se enzarzan en una tensa batalla psicológica. Remake del film coreano \"Save the Green Planet\".",
-    "poster_path": "/2C5Vf9VcoXB7SFFcG8vppW5bmtX.jpg",
-    "poster_local": "imagenes_estrenos/Bugonia_2C5Vf9VcoXB7SFFcG8vppW5bmtX.jpg",
-    "backdrop_path": "/jihTSrMksmU5ujqRZnc6SBFSyfq.jpg",
-    "backdrop_local": "imagenes_estrenos/Bugonia_backdrop_kZVSqHp5Pq7o8IgfZdVBtIwDAz9.jpg",
-    "fecha_estreno": "2025-11-07T00:00:00.000Z",
-    "duración": "118 min",
-    "director": "Giórgos Lánthimos",
-    "directores": [
-      {
-        "name": "Giórgos Lánthimos",
-        "id": 122423
-      }
-    ],
-    "actores": [
-      {
-        "name": "Emma Stone",
-        "id": 54693,
-        "character": "Michelle",
-        "profile_path": "/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
-      },
-      {
-        "name": "Jesse Plemons",
-        "id": 88124,
-        "character": "Teddy",
-        "profile_path": "/og4I51GsuwohdPgoELOHVMMqMre.jpg"
-      },
-      {
-        "name": "Aidan Delbis",
-        "id": 5212114,
-        "character": "Don",
-        "profile_path": "/cM1I9bAUlkxSxAvtjnSOu3cICt6.jpg"
-      },
-      {
-        "name": "Stavros Halkias",
-        "id": 1400595,
-        "character": "Casey",
-        "profile_path": "/9QB7YGMk6O7hRgGWvK0OimTVzl7.jpg"
-      },
-      {
-        "name": "Alicia Silverstone",
-        "id": 5588,
-        "character": "Sandy",
-        "profile_path": "/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 878,
-        "name": "Ciencia ficción"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 9648,
-        "name": "Misterio"
-      }
-    ],
-    "popularidad": 49.7183,
-    "puntuación": 7.788,
-    "votos": 144,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/jihTSrMksmU5ujqRZnc6SBFSyfq.jpg",
-          "vote_average": 7.19,
-          "vote_count": 7,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/cj2fug7Ayk0eaYOpW0npBaHXMCc.jpg",
-          "vote_average": 5.786,
-          "vote_count": 7,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/3JFsKuQkTh7ZtmPWKGDq2BoLtTI.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/kZVSqHp5Pq7o8IgfZdVBtIwDAz9.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/oa4eT8d6d5ox09NDDGOnoTvZNDh.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/jSCuXZbwxbUHCvebMzxjY2ccSWy.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.75,
-          "height": 1350,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/2C5Vf9VcoXB7SFFcG8vppW5bmtX.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1013
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ooibhtGcAYyugAURMFt6h2A49aY.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/gaplD9IEUxez3GeX16SkgLXQJEb.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-11-01 22:02:58"
+    "última_actualización": "2025-11-02 10:03:08"
   },
   {
     "id": 1134680,
@@ -575,7 +551,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 4.5165,
+    "popularidad": 4.179,
     "puntuación": 6.6,
     "votos": 5,
     "adulto": false,
@@ -647,7 +623,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:03:00"
+    "última_actualización": "2025-11-02 10:03:09"
   },
   {
     "id": 1551194,
@@ -710,7 +686,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 3.414,
+    "popularidad": 3.24,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -741,7 +717,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:03:00"
+    "última_actualización": "2025-11-02 10:03:09"
   },
   {
     "id": 1329189,
@@ -804,7 +780,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 2.7386,
+    "popularidad": 2.5883,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -825,7 +801,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-11-01 22:03:00"
+    "última_actualización": "2025-11-02 10:03:10"
   },
   {
     "id": 1320917,
@@ -835,8 +811,8 @@
     "sinopsis": "Eva y Fabián son dos hermanos mellizos a punto de cumplir la mayoría de edad. Una noche de verano se verán involucrados en un trágico accidente. Las circunstancias concretas son, sin embargo, opacas y tan sólo parecen conocerlas ambos hermanos y Mabel, su madre.",
     "poster_path": "/ctW0xFUhjNJfKypBwXKczENr84h.jpg",
     "poster_local": "imagenes_estrenos/Subsuelo_uysuePYYNv3m11pX5ghjaY57CKo.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
+    "backdrop_path": "/bmfmhhmPUMCJjVttB7dsSlRgcYg.jpg",
+    "backdrop_local": "imagenes_estrenos/Subsuelo_backdrop_bmfmhhmPUMCJjVttB7dsSlRgcYg.jpg",
     "fecha_estreno": "2025-11-07T00:00:00.000Z",
     "duración": "115 min",
     "director": "Fernando Franco",
@@ -888,7 +864,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.3184,
+    "popularidad": 2.1982,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -970,7 +946,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:03:01"
+    "última_actualización": "2025-11-02 10:03:11"
   },
   {
     "id": 1526519,
@@ -1033,7 +1009,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 2.0417,
+    "popularidad": 1.7504,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1064,7 +1040,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:03:01"
+    "última_actualización": "2025-11-02 10:03:11"
   },
   {
     "id": 1371912,
@@ -1143,7 +1119,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-11-01 22:03:02"
+    "última_actualización": "2025-11-02 10:03:12"
   },
   {
     "id": 1556927,
@@ -1190,7 +1166,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 0.1859,
+    "popularidad": 0.1564,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1211,7 +1187,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:03:02"
+    "última_actualización": "2025-11-02 10:03:12"
   },
   {
     "id": 1567077,
@@ -1274,7 +1250,7 @@
         "name": "Western"
       }
     ],
-    "popularidad": 0.3907,
+    "popularidad": 0.4166,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1295,7 +1271,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:03:02"
+    "última_actualización": "2025-11-02 10:03:12"
   },
   {
     "id": 986097,
@@ -1358,9 +1334,9 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 24.5426,
-    "puntuación": 5.891,
-    "votos": 179,
+    "popularidad": 23.5725,
+    "puntuación": 5.887,
+    "votos": 182,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1470,7 +1446,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:02:59"
+    "última_actualización": "2025-11-02 10:03:08"
   },
   {
     "id": 1539104,
@@ -1533,7 +1509,7 @@
         "name": "Acción"
       }
     ],
-    "popularidad": 11.3915,
+    "popularidad": 10.3992,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1565,7 +1541,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:02:59"
+    "última_actualización": "2025-11-02 10:03:08"
   },
   {
     "id": 1242419,
@@ -1632,8 +1608,8 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 11.062,
-    "puntuación": 7.276,
+    "popularidad": 11.3457,
+    "puntuación": 7.3,
     "votos": 58,
     "adulto": false,
     "video": false,
@@ -1714,7 +1690,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:02:59"
+    "última_actualización": "2025-11-02 10:03:08"
   },
   {
     "id": 1033148,
@@ -1781,7 +1757,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 8.281,
+    "popularidad": 8.2614,
     "puntuación": 6.3,
     "votos": 3,
     "adulto": false,
@@ -1842,7 +1818,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-11-01 22:02:59"
+    "última_actualización": "2025-11-02 10:03:09"
   },
   {
     "id": 1356670,
@@ -1901,7 +1877,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 5.6059,
+    "popularidad": 5.27,
     "puntuación": 8.0,
     "votos": 116,
     "adulto": false,
@@ -1973,7 +1949,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:02:59"
+    "última_actualización": "2025-11-02 10:03:09"
   },
   {
     "id": 1284460,
@@ -2040,7 +2016,7 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 4.2832,
+    "popularidad": 3.6789,
     "puntuación": 6.7,
     "votos": 43,
     "adulto": false,
@@ -2132,7 +2108,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:03:00"
+    "última_actualización": "2025-11-02 10:03:09"
   },
   {
     "id": 1283320,
@@ -2191,7 +2167,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 3.6553,
+    "popularidad": 3.1995,
     "puntuación": 7.0,
     "votos": 10,
     "adulto": false,
@@ -2263,7 +2239,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:03:00"
+    "última_actualización": "2025-11-02 10:03:09"
   },
   {
     "id": 1367125,
@@ -2330,7 +2306,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 2.4838,
+    "popularidad": 2.566,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2412,7 +2388,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:03:01"
+    "última_actualización": "2025-11-02 10:03:10"
   },
   {
     "id": 1310830,
@@ -2475,7 +2451,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 2.1881,
+    "popularidad": 1.9094,
     "puntuación": 6.6,
     "votos": 52,
     "adulto": false,
@@ -2536,7 +2512,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-11-01 22:03:01"
+    "última_actualización": "2025-11-02 10:03:11"
   },
   {
     "id": 1309272,
@@ -2599,7 +2575,7 @@
         "name": "Música"
       }
     ],
-    "popularidad": 2.0988,
+    "popularidad": 1.8696,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2641,7 +2617,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:03:01"
+    "última_actualización": "2025-11-02 10:03:11"
   },
   {
     "id": 1475637,
@@ -2700,7 +2676,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.5925,
+    "popularidad": 0.6742,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2742,7 +2718,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:03:02"
+    "última_actualización": "2025-11-02 10:03:12"
   },
   {
     "id": 999257,
@@ -2770,7 +2746,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.3035,
+    "popularidad": 0.2127,
     "puntuación": 7.2,
     "votos": 4,
     "adulto": false,
@@ -2791,7 +2767,87 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-11-01 22:03:02"
+    "última_actualización": "2025-11-02 10:03:12"
+  },
+  {
+    "id": 1572958,
+    "tmdb_id": 1572958,
+    "título": "No estás loca",
+    "título_original": "No estás loca",
+    "sinopsis": "Un recorrido íntimo y colectivo por las historias de mujeres que han sufrido violencia vicaria en España. La pieza reúne más de cuarenta testimonios de mujeres, adolescentes y profesionales —jueces, psicólogos, periodistas, pediatras— que revelan cómo un sistema judicial falla de manera sistemática a la infancia. A través de sus testimonios, se desgrana un sistema judicial y social que no siempre acompaña ni protege, mostrando las fisuras que permiten que la violencia se perpetúe. La película es, al mismo tiempo, un grito de ayuda y un canto a la esperanza, un recordatorio de que aún queda mucho por hacer, pero también de que la fuerza y la unión de las víctimas y de quienes las acompañan puede impulsar un cambio necesario.",
+    "poster_path": "/kKPfRBk2IUZULvv5WbDBXOYMgiR.jpg",
+    "poster_local": "imagenes_estrenos/No_est_s_loca_kKPfRBk2IUZULvv5WbDBXOYMgiR.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-11-14T00:00:00.000Z",
+    "duración": "85 min",
+    "director": "María Bestar",
+    "directores": [
+      {
+        "name": "María Bestar",
+        "id": 4590397
+      }
+    ],
+    "actores": [
+      {
+        "name": "Luis Tosar",
+        "id": 16867,
+        "character": "Voice",
+        "profile_path": "/7ZTdhzUCpG9jhsKJeTJbGn36v5F.jpg"
+      },
+      {
+        "name": "Hovik Keuchkerian",
+        "id": 1131415,
+        "character": "Voice",
+        "profile_path": "/o5cGKWHlZl4RFROYlT2hD95j0lN.jpg"
+      },
+      {
+        "name": "Maxi Iglesias",
+        "id": 1248277,
+        "character": "Voice",
+        "profile_path": "/sX0fOdN7Urawav29j24nVAjNgaC.jpg"
+      },
+      {
+        "name": "Jordi Planas",
+        "id": 1146028,
+        "character": "Voice",
+        "profile_path": "/snBms4JLE3m6NqAN6TRYQozzorG.jpg"
+      },
+      {
+        "name": "Eduard Fernández",
+        "id": 87015,
+        "character": "Voice",
+        "profile_path": "/1oBOegVHnzjNAU3PFsulfYApEb8.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0071,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 1200,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/kKPfRBk2IUZULvv5WbDBXOYMgiR.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 840
+        }
+      ]
+    },
+    "última_actualización": "2025-11-02 10:03:13"
   },
   {
     "id": 604079,
@@ -2801,7 +2857,7 @@
     "sinopsis": "En un futuro distópico, cien adolescentes participan en una brutal competición conocida como \"La larga marcha\", donde deben caminar sin descanso: si se detienen o reducen la velocidad de la marcha, mueren. Solo uno sobrevivirá. Adaptación cinematográfica de la novela de Stephen King.",
     "poster_path": "/izA5U09supDy8J2Z4339Po6PIHU.jpg",
     "poster_local": "imagenes_estrenos/La_larga_marcha_izA5U09supDy8J2Z4339Po6PIHU.jpg",
-    "backdrop_path": "/pcJft6lFWsJxutwpLHVYfmZRPQp.jpg",
+    "backdrop_path": "/zf7BQY4k5RNFI1sD4n9EVLnEG8m.jpg",
     "backdrop_local": "imagenes_estrenos/La_larga_marcha_backdrop_pcJft6lFWsJxutwpLHVYfmZRPQp.jpg",
     "fecha_estreno": "2025-11-21T00:00:00.000Z",
     "duración": "108 min",
@@ -2829,7 +2885,7 @@
         "name": "Garrett Wareing",
         "id": 1446466,
         "character": "Stebbins #38",
-        "profile_path": "/w39fthudAvASjlWCdWrWtrNkX04.jpg"
+        "profile_path": "/ghJmP5QlDsVSQEF8XlDSciZ4q6x.jpg"
       },
       {
         "name": "Tut Nyuot",
@@ -2858,22 +2914,32 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 146.5688,
-    "puntuación": 6.945,
-    "votos": 585,
+    "popularidad": 140.4097,
+    "puntuación": 6.951,
+    "votos": 601,
     "adulto": false,
     "video": false,
     "año": "2025",
     "imágenes": {
       "backdrops": [
         {
+          "aspect_ratio": 1.777,
+          "height": 1688,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zf7BQY4k5RNFI1sD4n9EVLnEG8m.jpg",
+          "vote_average": 5.778,
+          "vote_count": 9,
+          "width": 3000
+        },
+        {
           "aspect_ratio": 1.778,
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/pcJft6lFWsJxutwpLHVYfmZRPQp.jpg",
-          "vote_average": 6.312,
-          "vote_count": 8,
+          "vote_average": 5.778,
+          "vote_count": 9,
           "width": 3840
         },
         {
@@ -2891,18 +2957,8 @@
           "height": 1688,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/zf7BQY4k5RNFI1sD4n9EVLnEG8m.jpg",
-          "vote_average": 1.714,
-          "vote_count": 8,
-          "width": 3000
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1688,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/pIVvTbK6wIOXfIfErIymh7inXSV.jpg",
-          "vote_average": 1.444,
+          "file_path": "/jyghveaMeSnTMFKT2ZebfVymhET.jpg",
+          "vote_average": 1.75,
           "vote_count": 6,
           "width": 3000
         },
@@ -2911,9 +2967,9 @@
           "height": 1688,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/jyghveaMeSnTMFKT2ZebfVymhET.jpg",
-          "vote_average": 1.434,
-          "vote_count": 5,
+          "file_path": "/pIVvTbK6wIOXfIfErIymh7inXSV.jpg",
+          "vote_average": 1.714,
+          "vote_count": 7,
           "width": 3000
         }
       ],
@@ -2970,7 +3026,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:02:58"
+    "última_actualización": "2025-11-02 10:03:07"
   },
   {
     "id": 1246049,
@@ -3037,9 +3093,9 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 37.7403,
-    "puntuación": 7.097,
-    "votos": 252,
+    "popularidad": 45.2838,
+    "puntuación": 7.062,
+    "votos": 260,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3149,7 +3205,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:02:58"
+    "última_actualización": "2025-11-02 10:03:08"
   },
   {
     "id": 967941,
@@ -3216,7 +3272,7 @@
         "name": "Aventura"
       }
     ],
-    "popularidad": 28.932,
+    "popularidad": 28.1004,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3328,7 +3384,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:02:58"
+    "última_actualización": "2025-11-02 10:03:08"
   },
   {
     "id": 798645,
@@ -3338,7 +3394,7 @@
     "sinopsis": "La novela futurista de King es un thriller ambientado en una América distópica en el año 2025. La historia se centra en Ben Richards, un hombre desesperado que participa en el violento reality show \"The Running Man\" con el fin de ganar suficiente dinero para revivir a su hija gravemente enferma. La serie sigue a Richards perseguido por numerosos cazadores, enviados para matarle.",
     "poster_path": "/uQBjgtT6SLHy0mdwPmYIpnmmYVS.jpg",
     "poster_local": "imagenes_estrenos/The_Running_Man_uQBjgtT6SLHy0mdwPmYIpnmmYVS.jpg",
-    "backdrop_path": "/ewKj6xpw29HrnLq4j5jN3kOj1pP.jpg",
+    "backdrop_path": "/t0zAGQw52AvLGIR2CyFNlFNyKKA.jpg",
     "backdrop_local": "imagenes_estrenos/The_Running_Man_backdrop_ewKj6xpw29HrnLq4j5jN3kOj1pP.jpg",
     "fecha_estreno": "2025-11-21T00:00:00.000Z",
     "duración": "133 min",
@@ -3395,7 +3451,7 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 14.4024,
+    "popularidad": 13.5851,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3507,7 +3563,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:02:59"
+    "última_actualización": "2025-11-02 10:03:08"
   },
   {
     "id": 1223601,
@@ -3570,7 +3626,7 @@
         "name": "Bélica"
       }
     ],
-    "popularidad": 10.3066,
+    "popularidad": 10.9453,
     "puntuación": 6.0,
     "votos": 1,
     "adulto": false,
@@ -3652,7 +3708,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:02:59"
+    "última_actualización": "2025-11-02 10:03:09"
   },
   {
     "id": 1186830,
@@ -3715,7 +3771,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 4.5799,
+    "popularidad": 4.5162,
     "puntuación": 6.167,
     "votos": 9,
     "adulto": false,
@@ -3807,7 +3863,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:02:59"
+    "última_actualización": "2025-11-02 10:03:09"
   },
   {
     "id": 1228682,
@@ -3866,7 +3922,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 3.2708,
+    "popularidad": 3.3395,
     "puntuación": 6.949,
     "votos": 39,
     "adulto": false,
@@ -3938,7 +3994,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:03:00"
+    "última_actualización": "2025-11-02 10:03:10"
   },
   {
     "id": 524635,
@@ -4001,7 +4057,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 2.9807,
+    "popularidad": 2.6507,
     "puntuación": 6.714,
     "votos": 6,
     "adulto": false,
@@ -4062,7 +4118,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-11-01 22:03:00"
+    "última_actualización": "2025-11-02 10:03:10"
   },
   {
     "id": 1207183,
@@ -4121,7 +4177,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.7283,
+    "popularidad": 2.8706,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4142,7 +4198,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:03:00"
+    "última_actualización": "2025-11-02 10:03:10"
   },
   {
     "id": 1359388,
@@ -4201,7 +4257,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 2.5981,
+    "popularidad": 2.3008,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4211,7 +4267,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-11-01 22:03:01"
+    "última_actualización": "2025-11-02 10:03:10"
   },
   {
     "id": 1313032,
@@ -4270,7 +4326,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.7429,
+    "popularidad": 1.9256,
     "puntuación": 6.5,
     "votos": 4,
     "adulto": false,
@@ -4342,7 +4398,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:03:01"
+    "última_actualización": "2025-11-02 10:03:11"
   },
   {
     "id": 1082900,
@@ -4405,7 +4461,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 1.5149,
+    "popularidad": 1.189,
     "puntuación": 7.2,
     "votos": 37,
     "adulto": false,
@@ -4497,7 +4553,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:03:01"
+    "última_actualización": "2025-11-02 10:03:11"
   },
   {
     "id": 676679,
@@ -4537,7 +4593,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 1.1854,
+    "popularidad": 1.1904,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4579,7 +4635,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:03:02"
+    "última_actualización": "2025-11-02 10:03:12"
   },
   {
     "id": 1570929,
@@ -4670,7 +4726,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:03:02"
+    "última_actualización": "2025-11-02 10:03:13"
   },
   {
     "id": 1463525,
@@ -4718,7 +4774,7 @@
       }
     ],
     "géneros": [],
-    "popularidad": 0.3814,
+    "popularidad": 0.3403,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4750,7 +4806,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-01 22:03:02"
+    "última_actualización": "2025-11-02 10:03:12"
   },
   {
     "id": 1025388,
