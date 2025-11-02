@@ -59,6 +59,11 @@
         "horarios": [
             {
                 "fecha": "2025-11-04",
+                "hora": "15:45",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22927"
+            },
+            {
+                "fecha": "2025-11-04",
                 "hora": "20:30",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22713"
             }
@@ -110,7 +115,7 @@
         "horarios": [
             {
                 "fecha": "2025-11-04",
-                "hora": "20:15",
+                "hora": "20:25",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22693"
             }
         ],
