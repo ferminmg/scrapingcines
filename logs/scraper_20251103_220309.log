@@ -1,0 +1,5 @@
+2025-11-03 22:03:09,658 - INFO - Iniciando proceso de scraping
+2025-11-03 22:03:09,660 - INFO - Posts existentes encontrados: 2464
+2025-11-03 22:03:09,660 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-11-03 22:03:19,677 - ERROR - Error al obtener posts: HTTPSConnectionPool(host='ghostintheblog.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f78ff4779d0>: Failed to resolve 'ghostintheblog.com' ([Errno -3] Temporary failure in name resolution)"))
+2025-11-03 22:03:19,677 - INFO - Proceso completado. Posts nuevos guardados: 0
