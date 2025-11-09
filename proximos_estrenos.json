@@ -1,5 +1,154 @@
 [
   {
+    "id": 8785,
+    "tmdb_id": 8785,
+    "título": "El manuscrito encontrado en Zaragoza",
+    "título_original": "Rękopis znaleziony w Saragossie",
+    "sinopsis": "Durante el asedio a Zaragoza, un general francés descubre un extraño manuscrito que, al ser leído, le transporta a una España surrealista en la que los espíritus de unos bandidos ahorcados, bajo la apariencia de hermosas huríes, se dedican a seducir y atrapar en los laberintos del tiempo a todo viajero extraviado que ose adentrarse en sus dominios.",
+    "poster_path": "/7FbveRzxtdn7zbZyjjZnT0FsxKI.jpg",
+    "poster_local": "imagenes_estrenos/El_manuscrito_encontrado_en_Zaragoza_7FbveRzxtdn7zbZyjjZnT0FsxKI.jpg",
+    "backdrop_path": "/amOWoHk6wwkwphimSqc3WIzIQ3l.jpg",
+    "backdrop_local": "imagenes_estrenos/El_manuscrito_encontrado_en_Zaragoza_backdrop_amOWoHk6wwkwphimSqc3WIzIQ3l.jpg",
+    "fecha_estreno": "1965-06-10T00:00:00.000Z",
+    "duración": "182 min",
+    "director": "Wojciech Jerzy Has",
+    "directores": [
+      {
+        "name": "Wojciech Jerzy Has",
+        "id": 27002
+      }
+    ],
+    "actores": [
+      {
+        "name": "Zbigniew Cybulski",
+        "id": 40914,
+        "character": "Alfonse Van Worden",
+        "profile_path": "/sJYAqyRdSd5C2DIEbu0KudSG1uv.jpg"
+      },
+      {
+        "name": "Iga Cembrzyńska",
+        "id": 55979,
+        "character": "Princess Emina",
+        "profile_path": null
+      },
+      {
+        "name": "Elżbieta Czyżewska",
+        "id": 55980,
+        "character": "Donna Frasquetta Salero",
+        "profile_path": "/z6wvWRhrHmK5Hx5sYZKrs8lKUuy.jpg"
+      },
+      {
+        "name": "Gustaw Holoubek",
+        "id": 55981,
+        "character": "Don Pedro Velasquez",
+        "profile_path": "/sKfHQS9JgwomP9CzSbfceoXyNbC.jpg"
+      },
+      {
+        "name": "Stanisław Igar",
+        "id": 7113,
+        "character": "Don Gaspar Soarez",
+        "profile_path": "/8eCJxRMnmR6hIdd5e8G90rN3pqu.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "popularidad": 2.3082,
+    "puntuación": 7.8,
+    "votos": 143,
+    "adulto": false,
+    "video": false,
+    "año": "1965",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/amOWoHk6wwkwphimSqc3WIzIQ3l.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/gNtmFab8wWIeWsyIMJCP56SN3zW.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ote7JAFaccuKPvg5AVYUqi9UbYI.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/h9exnQ19eg2q7FZI4rUTaRr0Hws.jpg",
+          "vote_average": 0.166,
+          "vote_count": 3,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/qDKeB5lbkKSLie2ZxohH2iUSvbi.jpg",
+          "vote_average": 0.166,
+          "vote_count": 3,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.668,
+          "height": 1500,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/7FbveRzxtdn7zbZyjjZnT0FsxKI.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1002
+        },
+        {
+          "aspect_ratio": 0.71,
+          "height": 1803,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vT9u4afmeTpNH7iOGczrGJrEjll.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ]
+    },
+    "última_actualización": "2025-11-09 22:03:17"
+  },
+  {
     "id": 1567077,
     "tmdb_id": 1567077,
     "título": "La que se avecina: Una ciudad sin ley, un mormón mojón y un saloon a doble altura",
@@ -186,7 +335,186 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:49"
+    "última_actualización": "2025-11-09 22:03:23"
+  },
+  {
+    "id": 425274,
+    "tmdb_id": 425274,
+    "título": "Ahora me ves 3",
+    "título_original": "Now You See Me: Now You Don't",
+    "sinopsis": "Los Cuatro Jinetes regresan junto a una nueva generación de ilusionistas en una extraordinaria aventura que contiene giros asombrosos, sorpresas alucinantes y trucos de magia nunca vistos en la gran pantalla.",
+    "poster_path": "/Aspr0HcItNVbgLC8cV0ZAO0EBcc.jpg",
+    "poster_local": "imagenes_estrenos/Ahora_me_ves_3_Aspr0HcItNVbgLC8cV0ZAO0EBcc.jpg",
+    "backdrop_path": "/9TGMVBLpeXyYw8WymMGpfGpbHi4.jpg",
+    "backdrop_local": "imagenes_estrenos/Ahora_me_ves_3_backdrop_9TGMVBLpeXyYw8WymMGpfGpbHi4.jpg",
+    "fecha_estreno": "2025-11-14T00:00:00.000Z",
+    "duración": "112 min",
+    "director": "Ruben Fleischer",
+    "directores": [
+      {
+        "name": "Ruben Fleischer",
+        "id": 91268
+      }
+    ],
+    "actores": [
+      {
+        "name": "Jesse Eisenberg",
+        "id": 44735,
+        "character": "J. Daniel Atlas",
+        "profile_path": "/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg"
+      },
+      {
+        "name": "Woody Harrelson",
+        "id": 57755,
+        "character": "Merritt McKinney",
+        "profile_path": "/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+      },
+      {
+        "name": "Dave Franco",
+        "id": 54697,
+        "character": "Jack Wilder",
+        "profile_path": "/2diSplvpzCE5CrIKvTaplCKvwPq.jpg"
+      },
+      {
+        "name": "Isla Fisher",
+        "id": 52848,
+        "character": "Henley Reeves",
+        "profile_path": "/zNKTzzuyMYaCGEZKhwhqV1K8ffo.jpg"
+      },
+      {
+        "name": "Justice Smith",
+        "id": 1029934,
+        "character": "Charlie",
+        "profile_path": "/htJrcOzYkLVcnF4ExT4O1bDN5e5.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "popularidad": 28.7085,
+    "puntuación": 6.2,
+    "votos": 2,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/9TGMVBLpeXyYw8WymMGpfGpbHi4.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2025,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/cBrAafbfszAze8S5pw92XlDMfkh.jpg",
+          "vote_average": 1.75,
+          "vote_count": 3,
+          "width": 3600
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1215,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tvDx5r5D4lrNKD2PavLhx2sFnT6.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2160
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/cy8izDkz4r1kAJ1T32xQTJGhmWz.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ek3sdyWMNmwFC4SdylQ6gXXHIzd.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/kD2qaKPWWGKybTvZFlssLuiNWBF.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/gwaSP0m5DiotIMT4IuXTnsuQiXQ.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tsZ1hfh917PMUpY4cmHtOyO1HZc.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-11-09 22:03:11"
   },
   {
     "id": 1033148,
@@ -246,8 +574,8 @@
       }
     ],
     "popularidad": 25.3152,
-    "puntuación": 6.0,
-    "votos": 10,
+    "puntuación": 6.364,
+    "votos": 11,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -347,7 +675,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:45"
+    "última_actualización": "2025-11-09 22:03:11"
   },
   {
     "id": 986097,
@@ -373,7 +701,7 @@
         "name": "Marlon Wayans",
         "id": 9562,
         "character": "Isaiah",
-        "profile_path": "/q1EtfxvhHZsDQmPDEkdWBkC8D1e.jpg"
+        "profile_path": "/7LYnX3vluHFBs1WCRKUjSIEDEkn.jpg"
       },
       {
         "name": "Tyriq Withers",
@@ -411,8 +739,8 @@
       }
     ],
     "popularidad": 16.3222,
-    "puntuación": 5.8,
-    "votos": 193,
+    "puntuación": 5.864,
+    "votos": 198,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -522,7 +850,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:45"
+    "última_actualización": "2025-11-09 22:03:13"
   },
   {
     "id": 1539104,
@@ -617,7 +945,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:46"
+    "última_actualización": "2025-11-09 22:03:13"
   },
   {
     "id": 1242419,
@@ -685,8 +1013,8 @@
       }
     ],
     "popularidad": 10.1992,
-    "puntuación": 7.321,
-    "votos": 70,
+    "puntuación": 7.331,
+    "votos": 71,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -766,7 +1094,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:46"
+    "última_actualización": "2025-11-09 22:03:13"
   },
   {
     "id": 1356670,
@@ -897,138 +1225,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:46"
-  },
-  {
-    "id": 1283320,
-    "tmdb_id": 1283320,
-    "título": "Urchin",
-    "título_original": "Urchin",
-    "sinopsis": "Un joven adicto que vive en las calles de Londres recibe una oportunidad de redención, pero su camino hacia la recuperación pronto se convierte en una extraña odisea de la que tal vez nunca pueda escapar.",
-    "poster_path": "/38Fcb3lgBYITJ3j6hjrFiKoCIqi.jpg",
-    "poster_local": "imagenes_estrenos/Urchin_38Fcb3lgBYITJ3j6hjrFiKoCIqi.jpg",
-    "backdrop_path": "/8eSY7xtqB4lfZNwyiSIFjJESMBj.jpg",
-    "backdrop_local": "imagenes_estrenos/Urchin_backdrop_8eSY7xtqB4lfZNwyiSIFjJESMBj.jpg",
-    "fecha_estreno": "2025-11-14T00:00:00.000Z",
-    "duración": "99 min",
-    "director": "Harris Dickinson",
-    "directores": [
-      {
-        "name": "Harris Dickinson",
-        "id": 1716493
-      }
-    ],
-    "actores": [
-      {
-        "name": "Frank Dillane",
-        "id": 964834,
-        "character": "Mike",
-        "profile_path": "/iiODdRsKkJYRMiBLNfNjcFLTpga.jpg"
-      },
-      {
-        "name": "Megan Northam",
-        "id": 1367720,
-        "character": "Andrea",
-        "profile_path": "/docdyrz3Jph8jYNH1hWY8659UkF.jpg"
-      },
-      {
-        "name": "Карина Химчук",
-        "id": 3703714,
-        "character": "Ramona",
-        "profile_path": "/8cI5IVcJFRDWeXSqxflR1WxsPpG.jpg"
-      },
-      {
-        "name": "Shonagh Marie",
-        "id": 3964802,
-        "character": "Chanelle",
-        "profile_path": "/iLlEw5L8aHygWr9SlQ7rPCuKGAj.jpg"
-      },
-      {
-        "name": "Amr Waked",
-        "id": 2960,
-        "character": "Franco",
-        "profile_path": "/eRcAC2beUP52lQiejmKQA8jiyld.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 2.8262,
-    "puntuación": 7.0,
-    "votos": 10,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 900,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/8eSY7xtqB4lfZNwyiSIFjJESMBj.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1600
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/5VQewPDvdAKoQPRlKe9IB4DjUv8.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xnXLl6mnQf2m5StRapmVDAHKXQN.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/7G7tgg1wLKJ82BjKeBhD1DoYhNh.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1969,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/nc1PuqISV0UIlSNmGubi4zlsMiC.jpg",
-          "vote_average": 0.0,
-          "vote_count": 1,
-          "width": 3500
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/38Fcb3lgBYITJ3j6hjrFiKoCIqi.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-11-09 10:02:46"
+    "última_actualización": "2025-11-09 22:03:14"
   },
   {
     "id": 1284460,
@@ -1187,7 +1384,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:47"
+    "última_actualización": "2025-11-09 22:03:15"
   },
   {
     "id": 1367125,
@@ -1336,7 +1533,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:47"
+    "última_actualización": "2025-11-09 22:03:18"
   },
   {
     "id": 1310830,
@@ -1460,7 +1657,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-11-09 10:02:48"
+    "última_actualización": "2025-11-09 22:03:19"
   },
   {
     "id": 1309272,
@@ -1565,7 +1762,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:48"
+    "última_actualización": "2025-11-09 22:03:20"
   },
   {
     "id": 1475637,
@@ -1666,7 +1863,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:49"
+    "última_actualización": "2025-11-09 22:03:21"
   },
   {
     "id": 999257,
@@ -1715,7 +1912,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-11-09 10:02:49"
+    "última_actualización": "2025-11-09 22:03:22"
   },
   {
     "id": 1572958,
@@ -1795,7 +1992,138 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:50"
+    "última_actualización": "2025-11-09 22:03:23"
+  },
+  {
+    "id": 1283320,
+    "tmdb_id": 1283320,
+    "título": "Urchin",
+    "título_original": "Urchin",
+    "sinopsis": "Un joven adicto que vive en las calles de Londres recibe una oportunidad de redención, pero su camino hacia la recuperación pronto se convierte en una extraña odisea de la que tal vez nunca pueda escapar.",
+    "poster_path": "/38Fcb3lgBYITJ3j6hjrFiKoCIqi.jpg",
+    "poster_local": "imagenes_estrenos/Urchin_38Fcb3lgBYITJ3j6hjrFiKoCIqi.jpg",
+    "backdrop_path": "/8eSY7xtqB4lfZNwyiSIFjJESMBj.jpg",
+    "backdrop_local": "imagenes_estrenos/Urchin_backdrop_8eSY7xtqB4lfZNwyiSIFjJESMBj.jpg",
+    "fecha_estreno": "2025-11-14T00:00:00.000Z",
+    "duración": "99 min",
+    "director": "Harris Dickinson",
+    "directores": [
+      {
+        "name": "Harris Dickinson",
+        "id": 1716493
+      }
+    ],
+    "actores": [
+      {
+        "name": "Frank Dillane",
+        "id": 964834,
+        "character": "Mike",
+        "profile_path": "/iiODdRsKkJYRMiBLNfNjcFLTpga.jpg"
+      },
+      {
+        "name": "Megan Northam",
+        "id": 1367720,
+        "character": "Andrea",
+        "profile_path": "/docdyrz3Jph8jYNH1hWY8659UkF.jpg"
+      },
+      {
+        "name": "Карина Химчук",
+        "id": 3703714,
+        "character": "Ramona",
+        "profile_path": "/8cI5IVcJFRDWeXSqxflR1WxsPpG.jpg"
+      },
+      {
+        "name": "Shonagh Marie",
+        "id": 3964802,
+        "character": "Chanelle",
+        "profile_path": "/iLlEw5L8aHygWr9SlQ7rPCuKGAj.jpg"
+      },
+      {
+        "name": "Amr Waked",
+        "id": 2960,
+        "character": "Franco",
+        "profile_path": "/eRcAC2beUP52lQiejmKQA8jiyld.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 2.8262,
+    "puntuación": 7.0,
+    "votos": 10,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/8eSY7xtqB4lfZNwyiSIFjJESMBj.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1600
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5VQewPDvdAKoQPRlKe9IB4DjUv8.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xnXLl6mnQf2m5StRapmVDAHKXQN.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7G7tgg1wLKJ82BjKeBhD1DoYhNh.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1969,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/nc1PuqISV0UIlSNmGubi4zlsMiC.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 3500
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/38Fcb3lgBYITJ3j6hjrFiKoCIqi.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-11-09 10:02:46"
   },
   {
     "id": 1575763,
@@ -1890,7 +2218,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:50"
+    "última_actualización": "2025-11-09 22:03:24"
   },
   {
     "id": 1377256,
@@ -2015,7 +2343,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:49"
+    "última_actualización": "2025-11-09 22:03:21"
   },
   {
     "id": 1574535,
@@ -2090,7 +2418,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-11-09 10:02:49"
+    "última_actualización": "2025-11-09 22:03:22"
   },
   {
     "id": 604079,
@@ -2158,8 +2486,8 @@
       }
     ],
     "popularidad": 59.7495,
-    "puntuación": 6.93,
-    "votos": 696,
+    "puntuación": 6.937,
+    "votos": 704,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2269,7 +2597,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:44"
+    "última_actualización": "2025-11-09 22:03:10"
   },
   {
     "id": 1246049,
@@ -2307,7 +2635,7 @@
         "name": "Christoph Waltz",
         "id": 27319,
         "character": "Priest",
-        "profile_path": "/jMvLGCVXLaBqjRLf5olyvEucZob.jpg"
+        "profile_path": "/hrSWzM1IGbj9OfohFPTX0HcLecz.jpg"
       },
       {
         "name": "Matilda De Angelis",
@@ -2337,8 +2665,8 @@
       }
     ],
     "popularidad": 42.9857,
-    "puntuación": 7.078,
-    "votos": 335,
+    "puntuación": 7.1,
+    "votos": 343,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2448,7 +2776,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:44"
+    "última_actualización": "2025-11-09 22:03:11"
   },
   {
     "id": 967941,
@@ -2480,7 +2808,7 @@
         "name": "Ariana Grande",
         "id": 226001,
         "character": "Galinda / Glinda",
-        "profile_path": "/iZo9BtLHPDUtELGicghDZN5kqaS.jpg"
+        "profile_path": "/ojr2zF46BmPe7EALds7WQf6Ro4O.jpg"
       },
       {
         "name": "Jonathan Bailey",
@@ -2627,7 +2955,152 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:44"
+    "última_actualización": "2025-11-09 22:03:11"
+  },
+  {
+    "id": 1223601,
+    "tmdb_id": 1223601,
+    "título": "Sisu: Camino a la vengaza",
+    "título_original": "Sisu 2",
+    "sinopsis": "Al regresar a la casa donde su familia fue brutalmente asesinada durante la guerra, «el hombre que se niega a morir» la desmantela, la carga en un camión y se propone reconstruirla en un lugar seguro en honor a ellos. Cuando el comandante del Ejército Rojo que mató a su familia regresa empeñado en terminar el trabajo, se produce una implacable y espectacular persecución a través del país, una lucha a muerte llena de escenas de acción increíbles e ingeniosas.",
+    "poster_path": "/kiVSRymeEmXspPvs1KJM5aeWi81.jpg",
+    "poster_local": "imagenes_estrenos/Sisu__Camino_a_la_vengaza_kiVSRymeEmXspPvs1KJM5aeWi81.jpg",
+    "backdrop_path": "/aYwd43E8aq2fQiak0SU8dbCjyZ5.jpg",
+    "backdrop_local": "imagenes_estrenos/Sisu__Camino_a_la_vengaza_backdrop_aYwd43E8aq2fQiak0SU8dbCjyZ5.jpg",
+    "fecha_estreno": "2025-11-21T00:00:00.000Z",
+    "duración": "89 min",
+    "director": "Jalmari Helander",
+    "directores": [
+      {
+        "name": "Jalmari Helander",
+        "id": 145228
+      }
+    ],
+    "actores": [
+      {
+        "name": "Jorma Tommila",
+        "id": 148012,
+        "character": "Aatami",
+        "profile_path": "/ll9ZZR4kMnHS8FU2yHx76bnm0P.jpg"
+      },
+      {
+        "name": "Richard Brake",
+        "id": 3901,
+        "character": "",
+        "profile_path": "/JwsiErANShzPSdYsNoiNYdrSg1.jpg"
+      },
+      {
+        "name": "Stephen Lang",
+        "id": 32747,
+        "character": "Igor Draganov",
+        "profile_path": "/hdRiM73H2mpJws559TWHCAia7qJ.jpg"
+      },
+      {
+        "name": "Einar Haraldsson",
+        "id": 4730009,
+        "character": "Soldier",
+        "profile_path": "/fj6fMfpn1ROaMNhS2UUuHLuoGSi.jpg"
+      },
+      {
+        "name": "Jaakko Hutchings",
+        "id": 2816235,
+        "character": "Soviet Soldier",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      }
+    ],
+    "popularidad": 23.0035,
+    "puntuación": 8.0,
+    "votos": 3,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1406,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/aYwd43E8aq2fQiak0SU8dbCjyZ5.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2500
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/rfXSWJqGacVRNJN5AE6Z7ZLi4zB.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ib0mat0LxzLiLjwz01IH4Ifkqpi.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/acgm0xPR4zf2BzX8NeZXvq8KDfC.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5M4ZOQQVKalMD9DcBSq0eNEACbL.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/hZYGRmxYKNELAjMznstmMJjnZVM.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wmdwmlXpOG1AmlwYnELC0tLjq0C.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-11-09 22:03:12"
   },
   {
     "id": 798645,
@@ -2806,152 +3279,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:45"
-  },
-  {
-    "id": 1223601,
-    "tmdb_id": 1223601,
-    "título": "Sisu: Camino a la vengaza",
-    "título_original": "Sisu 2",
-    "sinopsis": "Al regresar a la casa donde su familia fue brutalmente asesinada durante la guerra, «el hombre que se niega a morir» la desmantela, la carga en un camión y se propone reconstruirla en un lugar seguro en honor a ellos. Cuando el comandante del Ejército Rojo que mató a su familia regresa empeñado en terminar el trabajo, se produce una implacable y espectacular persecución a través del país, una lucha a muerte llena de escenas de acción increíbles e ingeniosas.",
-    "poster_path": "/kiVSRymeEmXspPvs1KJM5aeWi81.jpg",
-    "poster_local": "imagenes_estrenos/Sisu__Camino_a_la_vengaza_kiVSRymeEmXspPvs1KJM5aeWi81.jpg",
-    "backdrop_path": "/aYwd43E8aq2fQiak0SU8dbCjyZ5.jpg",
-    "backdrop_local": "imagenes_estrenos/Sisu__Camino_a_la_vengaza_backdrop_aYwd43E8aq2fQiak0SU8dbCjyZ5.jpg",
-    "fecha_estreno": "2025-11-21T00:00:00.000Z",
-    "duración": "89 min",
-    "director": "Jalmari Helander",
-    "directores": [
-      {
-        "name": "Jalmari Helander",
-        "id": 145228
-      }
-    ],
-    "actores": [
-      {
-        "name": "Jorma Tommila",
-        "id": 148012,
-        "character": "Aatami",
-        "profile_path": "/ll9ZZR4kMnHS8FU2yHx76bnm0P.jpg"
-      },
-      {
-        "name": "Richard Brake",
-        "id": 3901,
-        "character": "",
-        "profile_path": "/JwsiErANShzPSdYsNoiNYdrSg1.jpg"
-      },
-      {
-        "name": "Stephen Lang",
-        "id": 32747,
-        "character": "Igor Draganov",
-        "profile_path": "/hdRiM73H2mpJws559TWHCAia7qJ.jpg"
-      },
-      {
-        "name": "Einar Haraldsson",
-        "id": 4730009,
-        "character": "Soldier",
-        "profile_path": "/fj6fMfpn1ROaMNhS2UUuHLuoGSi.jpg"
-      },
-      {
-        "name": "Jaakko Hutchings",
-        "id": 2816235,
-        "character": "Soviet Soldier",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 28,
-        "name": "Acción"
-      },
-      {
-        "id": 10752,
-        "name": "Bélica"
-      }
-    ],
-    "popularidad": 23.0035,
-    "puntuación": 8.0,
-    "votos": 3,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1406,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/aYwd43E8aq2fQiak0SU8dbCjyZ5.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2500
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/rfXSWJqGacVRNJN5AE6Z7ZLi4zB.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ib0mat0LxzLiLjwz01IH4Ifkqpi.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/acgm0xPR4zf2BzX8NeZXvq8KDfC.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/5M4ZOQQVKalMD9DcBSq0eNEACbL.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/hZYGRmxYKNELAjMznstmMJjnZVM.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wmdwmlXpOG1AmlwYnELC0tLjq0C.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-11-09 10:02:45"
+    "última_actualización": "2025-11-09 22:03:12"
   },
   {
     "id": 1186830,
@@ -3106,7 +3434,76 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:46"
+    "última_actualización": "2025-11-09 22:03:15"
+  },
+  {
+    "id": 1359388,
+    "tmdb_id": 1359388,
+    "título": "La bala",
+    "título_original": "La bala",
+    "sinopsis": "Julián, sacerdote perteneciente a una familia acomodada de provincias, cumple la promesa que le hizo a su madre: recuperar el cadáver de su tía, enfermera de la División Azul, fallecida en la Unión Soviética durante la Segunda Guerra Mundial. Las averiguaciones sobre la causa de la muerte acaecida hace ochenta años removerán todas sus certezas.",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-11-21T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Carlos Iglesias",
+    "directores": [
+      {
+        "name": "Carlos Iglesias",
+        "id": 112607
+      }
+    ],
+    "actores": [
+      {
+        "name": "Carlos Iglesias",
+        "id": 112607,
+        "character": "",
+        "profile_path": "/gElCYmYDSvlplt2JXHY7EPvGHaE.jpg"
+      },
+      {
+        "name": "Silvia Marsó",
+        "id": 1012193,
+        "character": "",
+        "profile_path": "/zrdJGEiA6DnmssyvYn1FeEtSHvF.jpg"
+      },
+      {
+        "name": "Carlos Hipólito",
+        "id": 585725,
+        "character": "",
+        "profile_path": "/9DgrnvitGxgfVhpBIByxiXBDJ7M.jpg"
+      },
+      {
+        "name": "Eloísa Vargas",
+        "id": 1843458,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Roberto Álvarez",
+        "id": 942471,
+        "character": "",
+        "profile_path": "/kTHaYBO1Dmo0ttDoAgqox6g9SdQ.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 2.9994,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-11-09 22:03:15"
   },
   {
     "id": 1228682,
@@ -3237,7 +3634,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:47"
+    "última_actualización": "2025-11-09 22:03:16"
   },
   {
     "id": 524635,
@@ -3361,7 +3758,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-11-09 10:02:47"
+    "última_actualización": "2025-11-09 22:03:16"
   },
   {
     "id": 1359388,
@@ -3430,7 +3827,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-11-09 10:02:47"
+    "última_actualización": "2025-11-09 22:03:16"
   },
   {
     "id": 1207183,
@@ -3510,7 +3907,230 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:48"
+    "última_actualización": "2025-11-09 22:03:18"
+  },
+  {
+    "id": 676679,
+    "tmdb_id": 676679,
+    "título": "Olivia y el terremoto invisible",
+    "título_original": "L’Olívia i el terratrèmol invisible",
+    "sinopsis": "Olivia, su hermano pequeño Tim y su madre Ingrid son expulsados de casa y tienen que empezar de cero en otro barrio. Mientras Ingrid hace malabares para resolver la situación, Olivia se inventa una fantasía protectora para su hermano y para ella: todo lo que viven no es real, están rodando una película. Pero esta invención tendrá consecuencias inesperadas. Afortunadamente, a su alrededor se formará una nueva y pintoresca familia con la que vivirán rocambolescas aventuras. Entre risas, llantos, magia y amistad, descubrirán que son los increíbles héroes cotidianos de sus propias vidas.",
+    "poster_path": "/utZCyMf49NsGbAElOiO18pHbGA2.jpg",
+    "poster_local": "imagenes_estrenos/Olivia_y_el_terremoto_invisible_utZCyMf49NsGbAElOiO18pHbGA2.jpg",
+    "backdrop_path": "/c5gVFylacuoDuOpC7j6d6p0NRcd.jpg",
+    "backdrop_local": "imagenes_estrenos/Olivia_y_el_terremoto_invisible_backdrop_c5gVFylacuoDuOpC7j6d6p0NRcd.jpg",
+    "fecha_estreno": "2025-11-21T00:00:00.000Z",
+    "duración": "70 min",
+    "director": "Irene Iborra Rizo",
+    "directores": [
+      {
+        "name": "Irene Iborra Rizo",
+        "id": 2549328
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 1.1893,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/c5gVFylacuoDuOpC7j6d6p0NRcd.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/m2RjACgRKLbm2FGK3Qt4S7K0BPS.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wDHh2CKhNtILtBoed8WBfBv57Tp.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2025-11-09 22:03:19"
+  },
+  {
+    "id": 1313032,
+    "tmdb_id": 1313032,
+    "título": "Ciudad sin sueño",
+    "título_original": "Ciudad sin sueño",
+    "sinopsis": "Toni, un chico de 15 años, vive en el asentamiento irregular más grande de Europa, a las afueras de Madrid. Orgulloso de pertenecer a su familia de chatarreros, sigue a su abuelo a todas partes. Pero los derribos se acercan a su parcela y su abuelo se niega a marcharse, sea cual sea el sacrificio. En oscuras noches sin electricidad, mientras las leyendas de su infancia cobran vida, Toni debe elegir: enfrentarse a un futuro incierto o aferrarse a un mundo que se desvanece.",
+    "poster_path": "/l2JNUcLimAYEhbHKLuRQ44LJJO1.jpg",
+    "poster_local": "imagenes_estrenos/Ciudad_sin_sue_o_l2JNUcLimAYEhbHKLuRQ44LJJO1.jpg",
+    "backdrop_path": "/gPc45rItdIFMNM1H2EUALJqFCsX.jpg",
+    "backdrop_local": "imagenes_estrenos/Ciudad_sin_sue_o_backdrop_gPc45rItdIFMNM1H2EUALJqFCsX.jpg",
+    "fecha_estreno": "2025-11-21T00:00:00.000Z",
+    "duración": "97 min",
+    "director": "Guillermo Galoe",
+    "directores": [
+      {
+        "name": "Guillermo Galoe",
+        "id": 5364687
+      }
+    ],
+    "actores": [
+      {
+        "name": "Antonio Ferández Gabarre",
+        "id": 5650175,
+        "character": "Tonino",
+        "profile_path": null
+      },
+      {
+        "name": "Bilal Sedraoui",
+        "id": 5372393,
+        "character": "Bilal",
+        "profile_path": null
+      },
+      {
+        "name": "Jesús Fernández Silva",
+        "id": 5650173,
+        "character": "Chule",
+        "profile_path": null
+      },
+      {
+        "name": "Felisa Romero Molina",
+        "id": 5690471,
+        "character": "Felisa",
+        "profile_path": null
+      },
+      {
+        "name": "Pura Salazar",
+        "id": 5690473,
+        "character": "Pura",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.0338,
+    "puntuación": 6.5,
+    "votos": 4,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/gPc45rItdIFMNM1H2EUALJqFCsX.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/grvXuHHjvVO3C7VciBNjjN9eSsE.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1011,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/32IrooFvh5cL7tAhetR59QrybuH.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1798
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1011,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ytgPOYq6QuI7Zd1nFjTTyzRuNfP.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1798
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/l2JNUcLimAYEhbHKLuRQ44LJJO1.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.675,
+          "height": 1771,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/iG75zRkQwoxk8db6OrF5XX40YoM.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1196
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/2htV575gy8jr7MoHJDWonNAA9im.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-11-09 22:03:20"
   },
   {
     "id": 1082900,
@@ -3665,230 +4285,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:48"
-  },
-  {
-    "id": 676679,
-    "tmdb_id": 676679,
-    "título": "Olivia y el terremoto invisible",
-    "título_original": "L’Olívia i el terratrèmol invisible",
-    "sinopsis": "Olivia, su hermano pequeño Tim y su madre Ingrid son expulsados de casa y tienen que empezar de cero en otro barrio. Mientras Ingrid hace malabares para resolver la situación, Olivia se inventa una fantasía protectora para su hermano y para ella: todo lo que viven no es real, están rodando una película. Pero esta invención tendrá consecuencias inesperadas. Afortunadamente, a su alrededor se formará una nueva y pintoresca familia con la que vivirán rocambolescas aventuras. Entre risas, llantos, magia y amistad, descubrirán que son los increíbles héroes cotidianos de sus propias vidas.",
-    "poster_path": "/utZCyMf49NsGbAElOiO18pHbGA2.jpg",
-    "poster_local": "imagenes_estrenos/Olivia_y_el_terremoto_invisible_utZCyMf49NsGbAElOiO18pHbGA2.jpg",
-    "backdrop_path": "/c5gVFylacuoDuOpC7j6d6p0NRcd.jpg",
-    "backdrop_local": "imagenes_estrenos/Olivia_y_el_terremoto_invisible_backdrop_c5gVFylacuoDuOpC7j6d6p0NRcd.jpg",
-    "fecha_estreno": "2025-11-21T00:00:00.000Z",
-    "duración": "70 min",
-    "director": "Irene Iborra Rizo",
-    "directores": [
-      {
-        "name": "Irene Iborra Rizo",
-        "id": 2549328
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 1.1893,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/c5gVFylacuoDuOpC7j6d6p0NRcd.jpg",
-          "vote_average": 0.0,
-          "vote_count": 1,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/m2RjACgRKLbm2FGK3Qt4S7K0BPS.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wDHh2CKhNtILtBoed8WBfBv57Tp.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2025-11-09 10:02:48"
-  },
-  {
-    "id": 1313032,
-    "tmdb_id": 1313032,
-    "título": "Ciudad sin sueño",
-    "título_original": "Ciudad sin sueño",
-    "sinopsis": "Toni, un chico de 15 años, vive en el asentamiento irregular más grande de Europa, a las afueras de Madrid. Orgulloso de pertenecer a su familia de chatarreros, sigue a su abuelo a todas partes. Pero los derribos se acercan a su parcela y su abuelo se niega a marcharse, sea cual sea el sacrificio. En oscuras noches sin electricidad, mientras las leyendas de su infancia cobran vida, Toni debe elegir: enfrentarse a un futuro incierto o aferrarse a un mundo que se desvanece.",
-    "poster_path": "/l2JNUcLimAYEhbHKLuRQ44LJJO1.jpg",
-    "poster_local": "imagenes_estrenos/Ciudad_sin_sue_o_l2JNUcLimAYEhbHKLuRQ44LJJO1.jpg",
-    "backdrop_path": "/gPc45rItdIFMNM1H2EUALJqFCsX.jpg",
-    "backdrop_local": "imagenes_estrenos/Ciudad_sin_sue_o_backdrop_gPc45rItdIFMNM1H2EUALJqFCsX.jpg",
-    "fecha_estreno": "2025-11-21T00:00:00.000Z",
-    "duración": "97 min",
-    "director": "Guillermo Galoe",
-    "directores": [
-      {
-        "name": "Guillermo Galoe",
-        "id": 5364687
-      }
-    ],
-    "actores": [
-      {
-        "name": "Antonio Ferández Gabarre",
-        "id": 5650175,
-        "character": "Tonino",
-        "profile_path": null
-      },
-      {
-        "name": "Bilal Sedraoui",
-        "id": 5372393,
-        "character": "Bilal",
-        "profile_path": null
-      },
-      {
-        "name": "Jesús Fernández Silva",
-        "id": 5650173,
-        "character": "Chule",
-        "profile_path": null
-      },
-      {
-        "name": "Felisa Romero Molina",
-        "id": 5690471,
-        "character": "Felisa",
-        "profile_path": null
-      },
-      {
-        "name": "Pura Salazar",
-        "id": 5690473,
-        "character": "Pura",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 1.0338,
-    "puntuación": 6.5,
-    "votos": 4,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/gPc45rItdIFMNM1H2EUALJqFCsX.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/grvXuHHjvVO3C7VciBNjjN9eSsE.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1011,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/32IrooFvh5cL7tAhetR59QrybuH.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1798
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1011,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ytgPOYq6QuI7Zd1nFjTTyzRuNfP.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1798
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/l2JNUcLimAYEhbHKLuRQ44LJJO1.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.675,
-          "height": 1771,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/iG75zRkQwoxk8db6OrF5XX40YoM.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1196
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/2htV575gy8jr7MoHJDWonNAA9im.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-11-09 10:02:48"
+    "última_actualización": "2025-11-09 22:03:20"
   },
   {
     "id": 1570929,
@@ -3979,7 +4376,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:50"
+    "última_actualización": "2025-11-09 22:03:23"
   },
   {
     "id": 1463525,
@@ -4059,7 +4456,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:49"
+    "última_actualización": "2025-11-09 22:03:21"
   },
   {
     "id": 1084242,
@@ -4250,270 +4647,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:44"
-  },
-  {
-    "id": 425274,
-    "tmdb_id": 425274,
-    "título": "Ahora me ves 3",
-    "título_original": "Now You See Me: Now You Don't",
-    "sinopsis": "Los Cuatro Jinetes regresan junto a una nueva generación de ilusionistas en una extraordinaria aventura que contiene giros asombrosos, sorpresas alucinantes y trucos de magia nunca vistos en la gran pantalla.",
-    "poster_path": "/Aspr0HcItNVbgLC8cV0ZAO0EBcc.jpg",
-    "poster_local": "imagenes_estrenos/Ahora_me_ves_3_Aspr0HcItNVbgLC8cV0ZAO0EBcc.jpg",
-    "backdrop_path": "/9TGMVBLpeXyYw8WymMGpfGpbHi4.jpg",
-    "backdrop_local": "imagenes_estrenos/Ahora_me_ves_3_backdrop_9TGMVBLpeXyYw8WymMGpfGpbHi4.jpg",
-    "fecha_estreno": "2025-11-28T00:00:00.000Z",
-    "duración": "112 min",
-    "director": "Ruben Fleischer",
-    "directores": [
-      {
-        "name": "Ruben Fleischer",
-        "id": 91268
-      }
-    ],
-    "actores": [
-      {
-        "name": "Jesse Eisenberg",
-        "id": 44735,
-        "character": "J. Daniel Atlas",
-        "profile_path": "/8BMnXLVJDysMO1E8JCAyOFv2QAb.jpg"
-      },
-      {
-        "name": "Woody Harrelson",
-        "id": 57755,
-        "character": "Merritt McKinney",
-        "profile_path": "/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
-      },
-      {
-        "name": "Dave Franco",
-        "id": 54697,
-        "character": "Jack Wilder",
-        "profile_path": "/2diSplvpzCE5CrIKvTaplCKvwPq.jpg"
-      },
-      {
-        "name": "Isla Fisher",
-        "id": 52848,
-        "character": "Henley Reeves",
-        "profile_path": "/zNKTzzuyMYaCGEZKhwhqV1K8ffo.jpg"
-      },
-      {
-        "name": "Justice Smith",
-        "id": 1029934,
-        "character": "Charlie",
-        "profile_path": "/htJrcOzYkLVcnF4ExT4O1bDN5e5.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 53,
-        "name": "Suspense"
-      },
-      {
-        "id": 80,
-        "name": "Crimen"
-      },
-      {
-        "id": 9648,
-        "name": "Misterio"
-      }
-    ],
-    "popularidad": 28.7085,
-    "puntuación": 6.2,
-    "votos": 2,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/9TGMVBLpeXyYw8WymMGpfGpbHi4.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2025,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/cBrAafbfszAze8S5pw92XlDMfkh.jpg",
-          "vote_average": 1.75,
-          "vote_count": 3,
-          "width": 3600
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1215,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/tvDx5r5D4lrNKD2PavLhx2sFnT6.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2160
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/cy8izDkz4r1kAJ1T32xQTJGhmWz.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ek3sdyWMNmwFC4SdylQ6gXXHIzd.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/kD2qaKPWWGKybTvZFlssLuiNWBF.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/gwaSP0m5DiotIMT4IuXTnsuQiXQ.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/tsZ1hfh917PMUpY4cmHtOyO1HZc.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-11-09 10:02:45"
-  },
-  {
-    "id": 1403327,
-    "tmdb_id": 1403327,
-    "título": "Coartadas",
-    "título_original": "Coartadas",
-    "sinopsis": "Miguel tiene una empresa que proporciona coartadas imposibles a aquellos clientes que necesitan engañar a sus parejas, padres o jefes. Cuando se enamora de Blanca, una jueza que odia las mentiras, su mundo se pone patas arriba.",
-    "poster_path": "/nllCLiirEjiF78efF9pk8XSTm2Z.jpg",
-    "poster_local": "imagenes_estrenos/Coartadas_nllCLiirEjiF78efF9pk8XSTm2Z.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-11-28T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Hugo Martín Cuervo",
-    "directores": [
-      {
-        "name": "Hugo Martín Cuervo",
-        "id": 2978732
-      }
-    ],
-    "actores": [
-      {
-        "name": "Jaime Lorente",
-        "id": 1972706,
-        "character": "Miguel",
-        "profile_path": "/nLaxzU92z14FIbe25sE8jDMIThZ.jpg"
-      },
-      {
-        "name": "Adriana Torrebejano",
-        "id": 1446798,
-        "character": "Blanca",
-        "profile_path": "/68ke6bCR7sVz9YpVLdnqQMBhiNC.jpg"
-      },
-      {
-        "name": "Leo Harlem",
-        "id": 1423088,
-        "character": "",
-        "profile_path": "/nVlxRKjijyxLOslF8xCNGt20EBv.jpg"
-      },
-      {
-        "name": "Llum Barrera",
-        "id": 15592,
-        "character": "",
-        "profile_path": "/jE0DJBUSPkmFG5a5sm9ZvsYRpGR.jpg"
-      },
-      {
-        "name": "Antón Lofer",
-        "id": 1538751,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      }
-    ],
-    "popularidad": 10.1423,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.7,
-          "height": 1071,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/nllCLiirEjiF78efF9pk8XSTm2Z.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 750
-        }
-      ]
-    },
-    "última_actualización": "2025-11-09 10:02:45"
+    "última_actualización": "2025-11-09 22:03:10"
   },
   {
     "id": 1214931,
@@ -4521,7 +4655,7 @@
     "título": "Núremberg",
     "título_original": "Nuremberg",
     "sinopsis": "Tras el fin de la II Guerra Mundial, con ocasión de los cruciales juicios de Nuremberg de los Aliados contra el derrotado régimen nazi, el psiquiatra estadounidense Douglas Kelley (Malek), encargado de determinar si los prisioneros oficiales nazis son aptos para ser juzgados por sus crímenes de guerra, se ve inmerso en una compleja batalla de ingenio con Hermann Göring (Crowe), mano derecha de Hitler. Basada en el libro \"El nazi y el psiquiatra\" de Jack El-Hai.",
-    "poster_path": "/gOPHBaJJNpNDEnTHmDixg5JS8yp.jpg",
+    "poster_path": "/7OOQRx9SmkMC3UQfdzj4QsQHtA1.jpg",
     "poster_local": "imagenes_estrenos/N_remberg_gOPHBaJJNpNDEnTHmDixg5JS8yp.jpg",
     "backdrop_path": "/xsO1Qgru8sETLTcVla8MrqxOVr0.jpg",
     "backdrop_local": "imagenes_estrenos/N_remberg_backdrop_ygj87qrAEYpAHftOYs4eS62ZK40.jpg",
@@ -4646,6 +4780,16 @@
       "posters": [
         {
           "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/7OOQRx9SmkMC3UQfdzj4QsQHtA1.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
           "height": 750,
           "iso_3166_1": null,
           "iso_639_1": null,
@@ -4656,7 +4800,91 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:45"
+    "última_actualización": "2025-11-09 22:03:12"
+  },
+  {
+    "id": 1403327,
+    "tmdb_id": 1403327,
+    "título": "Coartadas",
+    "título_original": "Coartadas",
+    "sinopsis": "Miguel tiene una empresa que proporciona coartadas imposibles a aquellos clientes que necesitan engañar a sus parejas, padres o jefes. Cuando se enamora de Blanca, una jueza que odia las mentiras, su mundo se pone patas arriba.",
+    "poster_path": "/nllCLiirEjiF78efF9pk8XSTm2Z.jpg",
+    "poster_local": "imagenes_estrenos/Coartadas_nllCLiirEjiF78efF9pk8XSTm2Z.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-11-28T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Hugo Martín Cuervo",
+    "directores": [
+      {
+        "name": "Hugo Martín Cuervo",
+        "id": 2978732
+      }
+    ],
+    "actores": [
+      {
+        "name": "Jaime Lorente",
+        "id": 1972706,
+        "character": "Miguel",
+        "profile_path": "/nLaxzU92z14FIbe25sE8jDMIThZ.jpg"
+      },
+      {
+        "name": "Adriana Torrebejano",
+        "id": 1446798,
+        "character": "Blanca",
+        "profile_path": "/68ke6bCR7sVz9YpVLdnqQMBhiNC.jpg"
+      },
+      {
+        "name": "Leo Harlem",
+        "id": 1423088,
+        "character": "",
+        "profile_path": "/nVlxRKjijyxLOslF8xCNGt20EBv.jpg"
+      },
+      {
+        "name": "Llum Barrera",
+        "id": 15592,
+        "character": "",
+        "profile_path": "/jE0DJBUSPkmFG5a5sm9ZvsYRpGR.jpg"
+      },
+      {
+        "name": "Antón Lofer",
+        "id": 1538751,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "popularidad": 10.1423,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 1071,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/nllCLiirEjiF78efF9pk8XSTm2Z.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 750
+        }
+      ]
+    },
+    "última_actualización": "2025-11-09 22:03:14"
   },
   {
     "id": 1299655,
@@ -4813,7 +5041,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:46"
+    "última_actualización": "2025-11-09 22:03:14"
   },
   {
     "id": 1410189,
@@ -4948,7 +5176,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:46"
+    "última_actualización": "2025-11-09 22:03:14"
   },
   {
     "id": 1309725,
@@ -5012,8 +5240,8 @@
       }
     ],
     "popularidad": 3.7357,
-    "puntuación": 6.442,
-    "votos": 26,
+    "puntuación": 6.241,
+    "votos": 27,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -5083,7 +5311,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:46"
+    "última_actualización": "2025-11-09 22:03:15"
   },
   {
     "id": 1235304,
@@ -5147,8 +5375,8 @@
       }
     ],
     "popularidad": 2.2455,
-    "puntuación": 7.569,
-    "votos": 144,
+    "puntuación": 7.555,
+    "votos": 145,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -5238,7 +5466,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:47"
+    "última_actualización": "2025-11-09 22:03:18"
   },
   {
     "id": 1025388,
@@ -5311,7 +5539,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-11-09 10:02:48"
+    "última_actualización": "2025-11-09 22:03:19"
   },
   {
     "id": 1279580,
@@ -5344,7 +5572,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-11-09 10:02:48"
+    "última_actualización": "2025-11-09 22:03:21"
   },
   {
     "id": 1357349,
@@ -5443,6 +5671,6 @@
         }
       ]
     },
-    "última_actualización": "2025-11-09 10:02:49"
+    "última_actualización": "2025-11-09 22:03:22"
   }
 ]
