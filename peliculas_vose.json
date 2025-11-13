@@ -6,7 +6,7 @@
             {
                 "fecha": "2025-11-13",
                 "hora": "19:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=96732&eventCode=101647"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -159,7 +159,7 @@
             {
                 "fecha": "2025-11-13",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87816&eventCode=102490"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -532,6 +532,11 @@
         "horarios": [
             {
                 "fecha": "2025-11-14",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=217352&eventCode=103773"
+            },
+            {
+                "fecha": "2025-11-14",
                 "hora": "22:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=217119&eventCode=103773"
             }
@@ -547,6 +552,11 @@
         "título": "Jujutsu Kaisen: Ejecución",
         "cartel": "imagenes_peliculas/tmdb_jujutsu_kaisen_ejecucion.jpg",
         "horarios": [
+            {
+                "fecha": "2025-11-15",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=217353&eventCode=103773"
+            },
             {
                 "fecha": "2025-11-15",
                 "hora": "22:30",
@@ -566,6 +576,11 @@
         "horarios": [
             {
                 "fecha": "2025-11-16",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=217354&eventCode=103773"
+            },
+            {
+                "fecha": "2025-11-16",
                 "hora": "22:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=217191&eventCode=103773"
             }
@@ -581,6 +596,11 @@
         "título": "Jujutsu Kaisen: Ejecución",
         "cartel": "imagenes_peliculas/tmdb_jujutsu_kaisen_ejecucion.jpg",
         "horarios": [
+            {
+                "fecha": "2025-11-17",
+                "hora": "17:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=217355&eventCode=103773"
+            },
             {
                 "fecha": "2025-11-17",
                 "hora": "19:45",
@@ -605,6 +625,11 @@
         "horarios": [
             {
                 "fecha": "2025-11-18",
+                "hora": "17:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=217356&eventCode=103773"
+            },
+            {
+                "fecha": "2025-11-18",
                 "hora": "19:45",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=217265&eventCode=103773"
             },
@@ -627,6 +652,11 @@
         "horarios": [
             {
                 "fecha": "2025-11-19",
+                "hora": "17:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=217357&eventCode=103773"
+            },
+            {
+                "fecha": "2025-11-19",
                 "hora": "19:45",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=217298&eventCode=103773"
             },
@@ -647,6 +677,11 @@
         "título": "Jujutsu Kaisen: Ejecución",
         "cartel": "imagenes_peliculas/tmdb_jujutsu_kaisen_ejecucion.jpg",
         "horarios": [
+            {
+                "fecha": "2025-11-20",
+                "hora": "17:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=217358&eventCode=103773"
+            },
             {
                 "fecha": "2025-11-20",
                 "hora": "19:45",
