@@ -284,5 +284,35 @@
             }
         ],
         "cine": "Filmoteca de Navarra"
+    },
+    {
+        "título": "VIENA. El tercer hombre. (The Third Man, Reino Unido, 1949)",
+        "tmdb_id": 1092,
+        "cartel": "imagenes_filmoteca/tmdb_VIENA__El_tercer_hombre___The_Third_Man__Reino_Unido__1949_.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-11-12",
+                "hora": "19:00",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Filmoteca de Navarra",
+        "director": "Carol Reed",
+        "duración": "104 min",
+        "actores": "Joseph Cotten, Alida Valli, Trevor Howard, Orson Welles, Paul Hörbiger",
+        "sinopsis": "Orson Welles es Harry Lime y Joseph Cotten actúa como su amigo de la infancia, Holly Martins, en este clásico thriller de Graham Greene, dirigido por Carol Reed. Martins busca a Lime en la caótica postguerra de Viena, y se encuentra así mismo metido en un entorno de amores, decepción y asesinatos.",
+        "año": "1949"
+    },
+    {
+        "título": "VIENA. El tercer hombre. (The Third Man, Reino Unido, 1949)",
+        "cartel": "imagenes_filmoteca/VIENA__El_tercer_hombre___The_Third_Man__Reino_Unido__1949_.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-11-12",
+                "hora": "19:00",
+                "enlace_entradas": ""
+            }
+        ],
+        "cine": "Filmoteca de Navarra"
     }
 ]
