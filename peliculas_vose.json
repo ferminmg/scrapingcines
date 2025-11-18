@@ -57,7 +57,7 @@
             {
                 "fecha": "2025-11-18",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87910&eventCode=103825"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -187,18 +187,137 @@
         "año": "2025"
     },
     {
+        "título": "Alpha",
+        "cartel": "imagenes_peliculas/tmdb_alpha.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-11-21",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87979&eventCode=103422"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Shiv Rawail",
+        "duración": "0 min",
+        "actores": "Alia Bhatt, Sharvari Wagh, Hrithik Roshan, Anil Kapoor, Bobby Deol",
+        "sinopsis": "",
+        "año": "2026"
+    },
+    {
+        "título": "Urchin",
+        "cartel": "imagenes_peliculas/tmdb_urchin.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-11-21",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87969&eventCode=103825"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Harris Dickinson",
+        "duración": "99 min",
+        "actores": "Frank Dillane, Megan Northam, Карина Химчук, Shonagh Marie, Amr Waked",
+        "sinopsis": "Un joven adicto que vive en las calles de Londres recibe una oportunidad de redención, pero su camino hacia la recuperación pronto se convierte en una extraña odisea de la que tal vez nunca pueda escapar.",
+        "año": "2025"
+    },
+    {
+        "título": "Alpha",
+        "cartel": "imagenes_peliculas/tmdb_alpha.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-11-22",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87994&eventCode=103422"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Shiv Rawail",
+        "duración": "0 min",
+        "actores": "Alia Bhatt, Sharvari Wagh, Hrithik Roshan, Anil Kapoor, Bobby Deol",
+        "sinopsis": "",
+        "año": "2026"
+    },
+    {
+        "título": "Urchin",
+        "cartel": "imagenes_peliculas/tmdb_urchin.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-11-22",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=87984&eventCode=103825"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Harris Dickinson",
+        "duración": "99 min",
+        "actores": "Frank Dillane, Megan Northam, Карина Химчук, Shonagh Marie, Amr Waked",
+        "sinopsis": "Un joven adicto que vive en las calles de Londres recibe una oportunidad de redención, pero su camino hacia la recuperación pronto se convierte en una extraña odisea de la que tal vez nunca pueda escapar.",
+        "año": "2025"
+    },
+    {
+        "título": "Alpha",
+        "cartel": "imagenes_peliculas/tmdb_alpha.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-11-24",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88044&eventCode=103422"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Shiv Rawail",
+        "duración": "0 min",
+        "actores": "Alia Bhatt, Sharvari Wagh, Hrithik Roshan, Anil Kapoor, Bobby Deol",
+        "sinopsis": "",
+        "año": "2026"
+    },
+    {
+        "título": "Urchin",
+        "cartel": "imagenes_peliculas/tmdb_urchin.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-11-24",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88045&eventCode=103825"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Harris Dickinson",
+        "duración": "99 min",
+        "actores": "Frank Dillane, Megan Northam, Карина Химчук, Shonagh Marie, Amr Waked",
+        "sinopsis": "Un joven adicto que vive en las calles de Londres recibe una oportunidad de redención, pero su camino hacia la recuperación pronto se convierte en una extraña odisea de la que tal vez nunca pueda escapar.",
+        "año": "2025"
+    },
+    {
+        "título": "Alpha",
+        "cartel": "imagenes_peliculas/tmdb_alpha.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-11-27",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88067&eventCode=103422"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Shiv Rawail",
+        "duración": "0 min",
+        "actores": "Alia Bhatt, Sharvari Wagh, Hrithik Roshan, Anil Kapoor, Bobby Deol",
+        "sinopsis": "",
+        "año": "2026"
+    },
+    {
         "título": "Jujutsu Kaisen: Ejecución",
         "cartel": "imagenes_peliculas/tmdb_jujutsu_kaisen_ejecucion.jpg",
         "horarios": [
             {
                 "fecha": "2025-11-18",
                 "hora": "17:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=217356&eventCode=103773"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2025-11-18",
                 "hora": "19:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=217265&eventCode=103773"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2025-11-18",
