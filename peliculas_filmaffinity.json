@@ -4,11 +4,6 @@
         "cartel": "imagenes_filmaffinity/tmdb_jujutsu-kaisen-ejecucion.jpg",
         "horarios": [
             {
-                "fecha": "2025-11-18",
-                "hora": "22:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22811"
-            },
-            {
                 "fecha": "2025-11-19",
                 "hora": "18:00",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22803"
@@ -37,6 +32,41 @@
                 "fecha": "2025-11-20",
                 "hora": "22:00",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22806"
+            },
+            {
+                "fecha": "2025-11-21",
+                "hora": "17:10",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23493"
+            },
+            {
+                "fecha": "2025-11-22",
+                "hora": "17:10",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23466"
+            },
+            {
+                "fecha": "2025-11-23",
+                "hora": "17:10",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23490"
+            },
+            {
+                "fecha": "2025-11-24",
+                "hora": "17:10",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23516"
+            },
+            {
+                "fecha": "2025-11-25",
+                "hora": "17:10",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23549"
+            },
+            {
+                "fecha": "2025-11-26",
+                "hora": "17:10",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23531"
+            },
+            {
+                "fecha": "2025-11-27",
+                "hora": "17:10",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23571"
             }
         ],
         "cine": "Yelmo Itaroa",
@@ -50,11 +80,6 @@
         "título": "Chainsaw Man - La película: El arco de Reze",
         "cartel": "imagenes_filmaffinity/tmdb_chainsaw-man-la-pelicula-el-arco-de-reze.jpg",
         "horarios": [
-            {
-                "fecha": "2025-11-18",
-                "hora": "22:45",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23310"
-            },
             {
                 "fecha": "2025-11-19",
                 "hora": "22:45",
@@ -170,6 +195,62 @@
         "duración": "137 min",
         "actores": "Cynthia Erivo, Ariana Grande, Jeff Goldblum, Michelle Yeoh, Jonathan Bailey",
         "sinopsis": "Mientras la multitud alza su clamor contra la Bruja Malvada, Glinda y Elphaba deberán unirse una vez más. Con su singular amistad convertida en el punto de inflexión de su futuro, tendrán que mirarse a los ojos con honestidad y compasión para afrontar su transformación personal y cambiar el destino de todo Oz.",
+        "año": "2025"
+    },
+    {
+        "título": "Drácula",
+        "cartel": "imagenes_filmaffinity/tmdb_dracula.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-11-25",
+                "hora": "22:25",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23556"
+            },
+            {
+                "fecha": "2025-11-27",
+                "hora": "22:25",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23567"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Radu Jude",
+        "duración": "170 min",
+        "actores": "Adonis Tanța, Gabriel Spahiu, Oana Maria Zaharia, Alexandru Dabija, Lukas Miko",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "The Running Man",
+        "cartel": "imagenes_filmaffinity/tmdb_the-running-man.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-11-25",
+                "hora": "19:45",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23560"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Edgar Wright",
+        "duración": "133 min",
+        "actores": "Glen Powell, Josh Brolin, Michael Cera, Colman Domingo, Lee Pace",
+        "sinopsis": "La novela futurista de King es un thriller ambientado en una América distópica en el año 2025. La historia se centra en Ben Richards, un hombre desesperado que participa en el violento reality show \"The Running Man\" con el fin de ganar suficiente dinero para revivir a su hija gravemente enferma. La serie sigue a Richards perseguido por numerosos cazadores, enviados para matarle.",
+        "año": "2025"
+    },
+    {
+        "título": "Ahora me ves 3",
+        "cartel": "imagenes_filmaffinity/tmdb_ahora-me-ves-3.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-11-25",
+                "hora": "20:30",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23555"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Ruben Fleischer",
+        "duración": "112 min",
+        "actores": "Jesse Eisenberg, Isla Fisher, Woody Harrelson, Dave Franco, Rosamund Pike",
+        "sinopsis": "Los Cuatro Jinetes regresan junto a una nueva generación de ilusionistas en una extraordinaria aventura que contiene giros asombrosos, sorpresas alucinantes y trucos de magia nunca vistos en la gran pantalla.",
         "año": "2025"
     },
     {
