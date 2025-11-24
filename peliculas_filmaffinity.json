@@ -5,11 +5,6 @@
         "horarios": [
             {
                 "fecha": "2025-11-24",
-                "hora": "17:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22881"
-            },
-            {
-                "fecha": "2025-11-24",
                 "hora": "20:20",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22880"
             },
@@ -52,38 +47,6 @@
         "año": "2025"
     },
     {
-        "título": "Jujutsu Kaisen: Ejecución",
-        "cartel": "imagenes_filmaffinity/tmdb_jujutsu-kaisen-ejecucion.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-11-24",
-                "hora": "17:10",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23516"
-            },
-            {
-                "fecha": "2025-11-25",
-                "hora": "17:10",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23549"
-            },
-            {
-                "fecha": "2025-11-26",
-                "hora": "17:10",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23531"
-            },
-            {
-                "fecha": "2025-11-27",
-                "hora": "17:10",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23571"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "御所園翔太",
-        "duración": "88 min",
-        "actores": "Junya Enoki, Yuma Uchida, Asami Seto, Kenjiro Tsuda, Subaru Kimura",
-        "sinopsis": "",
-        "año": "2025"
-    },
-    {
         "título": "Drácula",
         "cartel": "imagenes_filmaffinity/tmdb_dracula.jpg",
         "horarios": [
@@ -115,6 +78,33 @@
         "duración": "133 min",
         "actores": "Glen Powell, Josh Brolin, Michael Cera, Colman Domingo, Lee Pace",
         "sinopsis": "En una América distópica en el año 2025, Ben Richards participa en el violento reality show \"The Running Man\" con el fin de ganar suficiente dinero para revivir a su hija gravemente enferma.",
+        "año": "2025"
+    },
+    {
+        "título": "Jujutsu Kaisen: Ejecución",
+        "cartel": "imagenes_filmaffinity/tmdb_jujutsu-kaisen-ejecucion.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-11-25",
+                "hora": "17:10",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23549"
+            },
+            {
+                "fecha": "2025-11-26",
+                "hora": "17:10",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23531"
+            },
+            {
+                "fecha": "2025-11-27",
+                "hora": "17:10",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23571"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "御所園翔太",
+        "duración": "88 min",
+        "actores": "Junya Enoki, Yuma Uchida, Asami Seto, Kenjiro Tsuda, Subaru Kimura",
+        "sinopsis": "",
         "año": "2025"
     },
     {
