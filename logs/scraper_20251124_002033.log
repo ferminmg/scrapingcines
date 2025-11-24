@@ -1,0 +1,36 @@
+2025-11-24 00:20:33,739 - INFO - Iniciando proceso de scraping
+2025-11-24 00:20:33,741 - INFO - Posts existentes encontrados: 2472
+2025-11-24 00:20:33,741 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-11-24 00:20:35,006 - INFO - Se encontraron 10 posts
+2025-11-24 00:20:35,007 - INFO - Comenzando extracción de información del post
+2025-11-24 00:20:35,008 - INFO - Título del post: GAUA de Paul Urkijo
+2025-11-24 00:20:35,008 - INFO - Fecha del post: 2025-11-23T23:10:17+01:00
+2025-11-24 00:20:35,008 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/11/critica-de-gaua-de-paul-urkijo.html
+2025-11-24 00:20:36,472 - WARNING - No se encontró 'Título Original' en el contenido
+2025-11-24 00:20:36,473 - INFO - Usando contenido completo como respaldo
+2025-11-24 00:20:36,474 - INFO - Guardando post en: posts/GAUA_2025-11-23.json
+2025-11-24 00:20:36,474 - INFO - Post guardado exitosamente
+2025-11-24 00:20:36,474 - INFO - Actualizando índice de películas
+2025-11-24 00:20:36,474 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-11-24 00:20:36,478 - INFO - Índice existente cargado con 2573 películas
+2025-11-24 00:20:36,489 - INFO - Película agregada al índice: GAUA
+2025-11-24 00:20:36,490 - INFO - Nuevo post guardado: GAUA de Paul Urkijo
+2025-11-24 00:20:36,490 - INFO - Comenzando extracción de información del post
+2025-11-24 00:20:36,490 - INFO - Post ya existente, saltando: URCHIN de Harris Dickinson
+2025-11-24 00:20:36,490 - INFO - Comenzando extracción de información del post
+2025-11-24 00:20:36,490 - INFO - Post ya existente, saltando: CIUDAD SIN SUEÑO de Guillermo Galoe
+2025-11-24 00:20:36,490 - INFO - Comenzando extracción de información del post
+2025-11-24 00:20:36,490 - INFO - Post ya existente, saltando: BUGONIA de Yorgos Lanthimos
+2025-11-24 00:20:36,490 - INFO - Comenzando extracción de información del post
+2025-11-24 00:20:36,491 - INFO - Post ya existente, saltando: SUBSUELO de Fernando Franco
+2025-11-24 00:20:36,491 - INFO - Comenzando extracción de información del post
+2025-11-24 00:20:36,491 - INFO - Post ya existente, saltando: SIEMPRE ES INVIERNO de David Trueba
+2025-11-24 00:20:36,491 - INFO - Comenzando extracción de información del post
+2025-11-24 00:20:36,491 - INFO - Post ya existente, saltando: THE MASTERMIND de Kelly Reichardt
+2025-11-24 00:20:36,491 - INFO - Comenzando extracción de información del post
+2025-11-24 00:20:36,491 - INFO - Post ya existente, saltando: RECIÉN NACIDAS de Jean-Pierre  y Luc Dardenne
+2025-11-24 00:20:36,491 - INFO - Comenzando extracción de información del post
+2025-11-24 00:20:36,492 - INFO - Post ya existente, saltando: LOS TIGRES de Alberto Rodríguez
+2025-11-24 00:20:36,492 - INFO - Comenzando extracción de información del post
+2025-11-24 00:20:36,492 - INFO - Post ya existente, saltando: FRANKENSTEIN de Guillermo del Toro
+2025-11-24 00:20:36,492 - INFO - Proceso completado. Posts nuevos guardados: 1
