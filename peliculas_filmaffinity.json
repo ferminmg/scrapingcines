@@ -1,13 +1,42 @@
 [
     {
+        "título": "Drácula",
+        "cartel": "imagenes_filmaffinity/tmdb_dracula.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-11-25",
+                "hora": "22:25",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23556"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Radu Jude",
+        "duración": "170 min",
+        "actores": "Adonis Tanța, Gabriel Spahiu, Oana Maria Zaharia, Alexandru Dabija, Lukas Miko",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "The Running Man",
+        "cartel": "imagenes_filmaffinity/tmdb_the-running-man.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-11-25",
+                "hora": "19:45",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23560"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Edgar Wright",
+        "duración": "133 min",
+        "actores": "Glen Powell, Josh Brolin, Michael Cera, Colman Domingo, Lee Pace",
+        "sinopsis": "En una América distópica en el año 2025, Ben Richards participa en el violento reality show \"The Running Man\" con el fin de ganar suficiente dinero para revivir a su hija gravemente enferma.",
+        "año": "2025"
+    },
+    {
         "título": "Wicked: Parte II",
         "cartel": "imagenes_filmaffinity/tmdb_wicked-parte-ii.jpg",
         "horarios": [
-            {
-                "fecha": "2025-11-24",
-                "hora": "20:20",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22880"
-            },
             {
                 "fecha": "2025-11-25",
                 "hora": "17:30",
@@ -44,40 +73,6 @@
         "duración": "137 min",
         "actores": "Ariana Grande, Cynthia Erivo, Jonathan Bailey, Jeff Goldblum, Michelle Yeoh",
         "sinopsis": "Mientras la multitud alza su clamor contra la Bruja Malvada, Glinda y Elphaba deberán unirse una vez más. Con su singular amistad convertida en el punto de inflexión de su futuro, tendrán que mirarse a los ojos con honestidad y compasión para afrontar su transformación personal y cambiar el destino de todo Oz.",
-        "año": "2025"
-    },
-    {
-        "título": "Drácula",
-        "cartel": "imagenes_filmaffinity/tmdb_dracula.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-11-25",
-                "hora": "22:25",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23556"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Radu Jude",
-        "duración": "170 min",
-        "actores": "Adonis Tanța, Gabriel Spahiu, Oana Maria Zaharia, Alexandru Dabija, Lukas Miko",
-        "sinopsis": "",
-        "año": "2025"
-    },
-    {
-        "título": "The Running Man",
-        "cartel": "imagenes_filmaffinity/tmdb_the-running-man.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-11-25",
-                "hora": "19:45",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23560"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Edgar Wright",
-        "duración": "133 min",
-        "actores": "Glen Powell, Josh Brolin, Michael Cera, Colman Domingo, Lee Pace",
-        "sinopsis": "En una América distópica en el año 2025, Ben Richards participa en el violento reality show \"The Running Man\" con el fin de ganar suficiente dinero para revivir a su hija gravemente enferma.",
         "año": "2025"
     },
     {
