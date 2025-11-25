@@ -29,6 +29,24 @@
         "cine": "Filmoteca de Navarra"
     },
     {
+        "título": "Les Invisibles",
+        "tmdb_id": 126331,
+        "director": "Sébastien Lifshitz",
+        "duración": "115 min",
+        "actores": "Thérèse Clerc, Bernard Romieu, Christian de Leusse, Monique Isselé",
+        "sinopsis": "Hombres y mujeres homosexuales de avanzada edad hablan sobre sus vidas y cómo han lidiado con su sexualidad en una Francia que en su momento les rechazó.",
+        "año": "2012",
+        "cartel": "imagenes_filmoteca\\tmdb_Les_Invisibles.jpg",
+        "cine": "Civivox Iturrama",
+        "horarios": [
+            {
+                "fecha": "2025-11-24",
+                "hora": "19:00",
+                "enlace_entradas": ""
+            }
+        ]
+    },
+    {
         "título": "SAN FRANCISCO. Vértigo. (Vertigo, EEUU, 1958)",
         "tmdb_id": 426,
         "cartel": "imagenes_filmoteca/tmdb_SAN_FRANCISCO__V_rtigo___Vertigo__EEUU__1958_.jpg",
