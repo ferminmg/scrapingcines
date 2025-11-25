@@ -64,7 +64,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 1.2098,
+    "popularidad": 1.2998,
     "puntuación": 7.8,
     "votos": 144,
     "adulto": false,
@@ -146,7 +146,1148 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:55"
+    "última_actualización": "2025-11-25 10:02:41"
+  },
+  {
+    "id": 85,
+    "tmdb_id": 85,
+    "título": "En busca del arca perdida",
+    "título_original": "Raiders of the Lost Ark",
+    "sinopsis": "Año 1936, Indiana Jones es un profesor de arqueología, dispuesto a correr peligrosas aventuras con tal de conseguir valiosas reliquias históricas. Después de una infructuosa misión en Sudamérica, el gobierno estadounidense le encarga la búsqueda del Arca de la Alianza, donde se conservan las Tablas de la Ley que Dios entregó a Moisés. Según la leyenda, quien las posea tendrá un poder absoluto, razón por la cual también la buscan los nazis.",
+    "poster_path": "/tECLVwLCMexSkls33RTCwedRZ6d.jpg",
+    "poster_local": "imagenes_estrenos/En_busca_del_arca_perdida_tECLVwLCMexSkls33RTCwedRZ6d.jpg",
+    "backdrop_path": "/ueDw7djPgKPZfph0vC43aD2EMyF.jpg",
+    "backdrop_local": "imagenes_estrenos/En_busca_del_arca_perdida_backdrop_ueDw7djPgKPZfph0vC43aD2EMyF.jpg",
+    "fecha_estreno": "1981-10-04T00:00:00.000Z",
+    "duración": "115 min",
+    "director": "Steven Spielberg",
+    "directores": [
+      {
+        "name": "Steven Spielberg",
+        "id": 488
+      }
+    ],
+    "actores": [
+      {
+        "name": "Harrison Ford",
+        "id": 3,
+        "character": "Indiana Jones",
+        "profile_path": "/5M7oN3sznp99hWYQ9sX0xheswWX.jpg"
+      },
+      {
+        "name": "Karen Allen",
+        "id": 650,
+        "character": "Marion Ravenwood",
+        "profile_path": "/eJszpndpRzrXbSlz7RUlApoTykn.jpg"
+      },
+      {
+        "name": "Paul Freeman",
+        "id": 652,
+        "character": "Dr. René Belloq",
+        "profile_path": "/mLDHLughdhSe6AqsklX0Zhjk9Rx.jpg"
+      },
+      {
+        "name": "John Rhys-Davies",
+        "id": 655,
+        "character": "Sallah",
+        "profile_path": "/z3ZeDyPmBsvtN131vtHk2IrzPsS.jpg"
+      },
+      {
+        "name": "Ronald Lacey",
+        "id": 653,
+        "character": "Major Arnold Toht",
+        "profile_path": "/wrFU5EkxKIq0TpEBuKXzcRAld73.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "popularidad": 13.5597,
+    "puntuación": 7.9,
+    "votos": 13193,
+    "adulto": false,
+    "video": false,
+    "año": "1981",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ueDw7djPgKPZfph0vC43aD2EMyF.jpg",
+          "vote_average": 6.346,
+          "vote_count": 13,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1350,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zPACwR32amTNvzId9qyapCWXYDJ.jpg",
+          "vote_average": 6.312,
+          "vote_count": 8,
+          "width": 2400
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oxK0OlJ5brTZMLQu5AD1oLDgwt3.jpg",
+          "vote_average": 6.042,
+          "vote_count": 13,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/c7Mjuip0jfHLY7x8ZSEriRj45cu.jpg",
+          "vote_average": 5.25,
+          "vote_count": 22,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/f3XrGXd34Ru7o39LUwWvk5igEV7.jpg",
+          "vote_average": 5.25,
+          "vote_count": 16,
+          "width": 1600
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 2400,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/sJSFUqKtzblapEVuGXTVJXSBTd7.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1600
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/tECLVwLCMexSkls33RTCwedRZ6d.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 2100,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/9QvmNoet3sZhuR225rDjTh1Hhb4.jpg",
+          "vote_average": 1.75,
+          "vote_count": 6,
+          "width": 1400
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/d6Vl3Zp3J14BnCl1JdBl7Qvnh5S.jpg",
+          "vote_average": 1.75,
+          "vote_count": 4,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/9lM5FPzliBlXg37aDFT0gSG7gCs.jpg",
+          "vote_average": 1.75,
+          "vote_count": 6,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-11-25 10:02:34"
+  },
+  {
+    "id": 87,
+    "tmdb_id": 87,
+    "título": "Indiana Jones y el templo maldito",
+    "título_original": "Indiana Jones and the Temple of Doom",
+    "sinopsis": "1935. Shanghai. El intrépido arqueólogo Indiana Jones, tras meterse en jaleos en un local nocturno, consigue escapar junto a una bella cantante y su joven acompañante. Tras un accidentado vuelo, los tres acaban en la India, donde intentarán ayudar a los habitantes de un pequeño poblado, cuyos niños han sido raptados.",
+    "poster_path": "/tLEaz41vKyKY7AgCTGgijLGWzbk.jpg",
+    "poster_local": "imagenes_estrenos/Indiana_Jones_y_el_templo_maldito_tLEaz41vKyKY7AgCTGgijLGWzbk.jpg",
+    "backdrop_path": "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+    "backdrop_local": "imagenes_estrenos/Indiana_Jones_y_el_templo_maldito_backdrop_f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+    "fecha_estreno": "1984-10-04T00:00:00.000Z",
+    "duración": "118 min",
+    "director": "Steven Spielberg",
+    "directores": [
+      {
+        "name": "Steven Spielberg",
+        "id": 488
+      }
+    ],
+    "actores": [
+      {
+        "name": "Harrison Ford",
+        "id": 3,
+        "character": "Indiana Jones",
+        "profile_path": "/5M7oN3sznp99hWYQ9sX0xheswWX.jpg"
+      },
+      {
+        "name": "Kate Capshaw",
+        "id": 689,
+        "character": "Willie Scott",
+        "profile_path": "/nx3JwH8kwG5RXD3uSBUdNVcejki.jpg"
+      },
+      {
+        "name": "Ke Huy Quan",
+        "id": 690,
+        "character": "Short Round",
+        "profile_path": "/iestHyn7PLuVowj5Jaa1SGPboQ4.jpg"
+      },
+      {
+        "name": "Amrish Puri",
+        "id": 691,
+        "character": "Mola Ram",
+        "profile_path": "/uhMGFS7tuG71LDv2wk9LfZZ4EG6.jpg"
+      },
+      {
+        "name": "Roshan Seth",
+        "id": 693,
+        "character": "Chattar Lal",
+        "profile_path": "/4TbHkaZxPegaTns250cVXr8F91F.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "popularidad": 7.2231,
+    "puntuación": 7.3,
+    "votos": 9787,
+    "adulto": false,
+    "video": false,
+    "año": "1984",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+          "vote_average": 10.0,
+          "vote_count": 4,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/2hMt6zKQsvYvH3ZRe8T6RzAD2XB.jpg",
+          "vote_average": 6.346,
+          "vote_count": 13,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xDGFzUU0eJLDwgb5hjkYK3f0Uv9.jpg",
+          "vote_average": 5.786,
+          "vote_count": 7,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/a4cX1maHQn5JFQMfYGR72cK8bfH.jpg",
+          "vote_average": 5.778,
+          "vote_count": 9,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/iO73omOyLwUPW22EpaZkJNC72ec.jpg",
+          "vote_average": 4.458,
+          "vote_count": 12,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/tLEaz41vKyKY7AgCTGgijLGWzbk.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xq81v7umW1UJccMrHsW67PzuZYA.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1731,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/nqyFMJRTanjcDkiMbnFDbzfUJIn.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1154
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 2100,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/6UrznkPL4Y2f66zkoFAiSwfAYtE.jpg",
+          "vote_average": 1.75,
+          "vote_count": 4,
+          "width": 1400
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/tREM97xMnd60MHBy1u1D7vTrVW1.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-11-25 10:02:36"
+  },
+  {
+    "id": 6978,
+    "tmdb_id": 6978,
+    "título": "Golpe en la pequeña China",
+    "título_original": "Big Trouble in Little China",
+    "sinopsis": "Jack Burton es un camionero que, en una de sus paradas en el barrio de Chinatown, en San Francisco, le gana una gran cantidad de dinero a Wang Chi. Este le convence para que le lleve al aeropuerto a recoger a su prometida Miao Yin, tras lo cual le entregará el dinero que le debe. Cuando Miao Yin es secuestrada por unos gángsters chinos, Jack se verá envuelto en una gran aventura para rescatarla, entrando en un tenebroso mundo gobernado por Lo Pan, un mago de 2.000 años que gobierna sin piedad el mundo de los espíritus. Esquivando demonios y haciendo frente a temores incomprensibles, Jack lucha a su manera en los oscuros dominios de Lo Pan en una loca carrera para salvar a la chica.",
+    "poster_path": "/5uriF7cQQzfcgwWblJD80tIE7gu.jpg",
+    "poster_local": "imagenes_estrenos/Golpe_en_la_peque_a_China_5uriF7cQQzfcgwWblJD80tIE7gu.jpg",
+    "backdrop_path": "/ehHskGgDUchxGyG33vUQZWNng43.jpg",
+    "backdrop_local": "imagenes_estrenos/Golpe_en_la_peque_a_China_backdrop_ehHskGgDUchxGyG33vUQZWNng43.jpg",
+    "fecha_estreno": "1986-11-17T00:00:00.000Z",
+    "duración": "99 min",
+    "director": "John Carpenter",
+    "directores": [
+      {
+        "name": "John Carpenter",
+        "id": 11770
+      }
+    ],
+    "actores": [
+      {
+        "name": "Kurt Russell",
+        "id": 6856,
+        "character": "Jack Burton",
+        "profile_path": "/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg"
+      },
+      {
+        "name": "Kim Cattrall",
+        "id": 2109,
+        "character": "Gracie Law",
+        "profile_path": "/jDqSho6MUPdlaBfS56FVNSbPyIS.jpg"
+      },
+      {
+        "name": "Dennis Dun",
+        "id": 11392,
+        "character": "Wang Chi",
+        "profile_path": "/kVem07C5bxKI4g88RkWUDsQ9BRO.jpg"
+      },
+      {
+        "name": "James Hong",
+        "id": 20904,
+        "character": "David Lo Pan",
+        "profile_path": "/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+      },
+      {
+        "name": "Victor Wong Chi-Keung",
+        "id": 11395,
+        "character": "Egg Shen",
+        "profile_path": "/3XvU2mK3i5V8Un7HyZn5pVnp4qw.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "popularidad": 5.8803,
+    "puntuación": 7.2,
+    "votos": 3199,
+    "adulto": false,
+    "video": false,
+    "año": "1986",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ehHskGgDUchxGyG33vUQZWNng43.jpg",
+          "vote_average": 8.362,
+          "vote_count": 6,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mAxA5ltgqNXLXlm7PO5XrWSo9U1.jpg",
+          "vote_average": 4.818,
+          "vote_count": 11,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.779,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7LK2053iOtiat3MeWM3S4MZ2mXK.jpg",
+          "vote_average": 4.458,
+          "vote_count": 12,
+          "width": 1921
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/cTZ45PUZeuyToutVtkXIyQaDU6D.jpg",
+          "vote_average": 3.954,
+          "vote_count": 11,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1220,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wb9HmFqa7TOWmvIRzJstdkjzOkG.jpg",
+          "vote_average": 3.666,
+          "vote_count": 12,
+          "width": 2168
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 2400,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/AqRxhK5pd8EWqyYD9BSq2ZIcDK.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1600
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/w4kx2rph5DrHlg7He18tTrGGRIL.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/5uriF7cQQzfcgwWblJD80tIE7gu.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/qojlIpiyd0cCaO7EtldzwRaCtgU.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.701,
+          "height": 1426,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/a8KmcdN2YRG9Nh7Q186MhiSqpxy.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        }
+      ]
+    },
+    "última_actualización": "2025-11-25 10:02:37"
+  },
+  {
+    "id": 89,
+    "tmdb_id": 89,
+    "título": "Indiana Jones y la última cruzada",
+    "título_original": "Indiana Jones and the Last Crusade",
+    "sinopsis": "En 1938, dos años después de encontrar el Arca de la Alianza, Indiana Jones es convencido por un millonario para que lo ayude a encontrar el Santo Grial antes de que caiga en manos del ejército nazi. Sin embargo, el verdadero motivo para involucrarse es encontrar a su padre, el doctor Henry Jones, con quien ha mantenido una fría relación desde su juventud y que ha desaparecido mientras seguía la pista del tesoro bíblico.",
+    "poster_path": "/5h45gK147AAJpLLC7Cicr597urz.jpg",
+    "poster_local": "imagenes_estrenos/Indiana_Jones_y_la__ltima_cruzada_5h45gK147AAJpLLC7Cicr597urz.jpg",
+    "backdrop_path": "/12fvZHskx57kQfNEUXJ3v0flWYQ.jpg",
+    "backdrop_local": "imagenes_estrenos/Indiana_Jones_y_la__ltima_cruzada_backdrop_12fvZHskx57kQfNEUXJ3v0flWYQ.jpg",
+    "fecha_estreno": "1989-09-01T00:00:00.000Z",
+    "duración": "127 min",
+    "director": "Steven Spielberg",
+    "directores": [
+      {
+        "name": "Steven Spielberg",
+        "id": 488
+      }
+    ],
+    "actores": [
+      {
+        "name": "Harrison Ford",
+        "id": 3,
+        "character": "Indiana Jones",
+        "profile_path": "/5M7oN3sznp99hWYQ9sX0xheswWX.jpg"
+      },
+      {
+        "name": "Sean Connery",
+        "id": 738,
+        "character": "Professor Henry Jones",
+        "profile_path": "/iVr9HDPGIOhfUNO7LKt9g0MSHRP.jpg"
+      },
+      {
+        "name": "Denholm Elliott",
+        "id": 656,
+        "character": "Marcus Brody",
+        "profile_path": "/fnxExUCAU6HVTMk4cTNJkkl2hpq.jpg"
+      },
+      {
+        "name": "Alison Doody",
+        "id": 739,
+        "character": "Elsa",
+        "profile_path": "/m6LFIXUtjnyV2HTeITWLvNePkVX.jpg"
+      },
+      {
+        "name": "John Rhys-Davies",
+        "id": 655,
+        "character": "Sallah",
+        "profile_path": "/z3ZeDyPmBsvtN131vtHk2IrzPsS.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "popularidad": 7.6357,
+    "puntuación": 7.8,
+    "votos": 10705,
+    "adulto": false,
+    "video": false,
+    "año": "1989",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/12fvZHskx57kQfNEUXJ3v0flWYQ.jpg",
+          "vote_average": 6.722,
+          "vote_count": 7,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/2Y7nbXrDtHwAfcTX7KBN0z40OAy.jpg",
+          "vote_average": 6.722,
+          "vote_count": 6,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7KGdTzKux4fp5sW7hUM33NWqBU1.jpg",
+          "vote_average": 5.786,
+          "vote_count": 7,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/267Mdb5i1AXuVN64DhVEOUPmM25.jpg",
+          "vote_average": 5.616,
+          "vote_count": 13,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1125,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/S6lLHuyh86V6SDRkSBsbuVTE6n.jpg",
+          "vote_average": 4.818,
+          "vote_count": 11,
+          "width": 2000
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/81rluEm8Ewk17GYF6nH6sZVuZo4.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/1AIeZywX6hjayxFRnIY1WYSIXkA.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/5h45gK147AAJpLLC7Cicr597urz.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.679,
+          "height": 2500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/25gruVe29Vm9pk9sMMiESjJqGcm.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1697
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mpD9SypJoSozdWrPMMRAH2lm8AD.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-11-25 10:02:35"
+  },
+  {
+    "id": 1573,
+    "tmdb_id": 1573,
+    "título": "La jungla 2: Alerta roja",
+    "título_original": "Die Hard 2",
+    "sinopsis": "Es Navidad. El policía del departamento de Los Angeles, teniente John McLane, espera en el aeropuerto de Dulles de Washington a que aterrice el avión en el que viaja su esposa. Mientras tanto, el coronel del ejército Stuart, un militar bien entrando, expulsado del congreso, junto con otros mercenarios profesionales, montan una base de operaciones cerca de dicho aeropuerto, con el objetivo de liberar a un dictador sudamericano derrocado, considerado el mayor traficante del mundo, y que dentro de 58 minutos aterrizará en Dulles en calidad de prisionero político. Stuart anula todos los sistemas que permiten aterrizar a los demás aviones, condenados a permanecer en el aire con el riesgo de agotárseles el combustible. Exige, además, que un Boeing 747 esté a su disposición para huir con el dictador una vez liberado, pero McClane intentará que no prospere...",
+    "poster_path": "/19PBdteqhLAgN6rZUDIU0Ka6qLH.jpg",
+    "poster_local": "imagenes_estrenos/La_jungla_2__Alerta_roja_19PBdteqhLAgN6rZUDIU0Ka6qLH.jpg",
+    "backdrop_path": "/cDtefl7KGnKrDziEUXetMnztvqr.jpg",
+    "backdrop_local": "imagenes_estrenos/La_jungla_2__Alerta_roja_backdrop_cDtefl7KGnKrDziEUXetMnztvqr.jpg",
+    "fecha_estreno": "1990-09-14T00:00:00.000Z",
+    "duración": "124 min",
+    "director": "Renny Harlin",
+    "directores": [
+      {
+        "name": "Renny Harlin",
+        "id": 16938
+      }
+    ],
+    "actores": [
+      {
+        "name": "Bruce Willis",
+        "id": 62,
+        "character": "John McClane",
+        "profile_path": "/2jbMZCksnFlEdCZhEvh6GmU4GQl.jpg"
+      },
+      {
+        "name": "Bonnie Bedelia",
+        "id": 7673,
+        "character": "Holly McClane",
+        "profile_path": "/2dCd7HGOfmn4x7v97EcNIwy12io.jpg"
+      },
+      {
+        "name": "William Sadler",
+        "id": 6573,
+        "character": "Stuart",
+        "profile_path": "/xC9sijoDnjS3oDZ5eszcGKHKAOp.jpg"
+      },
+      {
+        "name": "John Amos",
+        "id": 22384,
+        "character": "Major Grant",
+        "profile_path": "/b2zYGkMG28wYDHC9CunfYAeoeMQ.jpg"
+      },
+      {
+        "name": "Franco Nero",
+        "id": 22383,
+        "character": "General Ramon Esperanza",
+        "profile_path": "/uiCrTolkOqpZYVxveMZeBx7sjZO.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 7.4402,
+    "puntuación": 7.0,
+    "votos": 6146,
+    "adulto": false,
+    "video": false,
+    "año": "1990",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/cDtefl7KGnKrDziEUXetMnztvqr.jpg",
+          "vote_average": 6.722,
+          "vote_count": 9,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/fgkgab4Rel0nOI3B3scHeNB4Mn6.jpg",
+          "vote_average": 5.25,
+          "vote_count": 10,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ok5fcDwhkCKEKJtPwQt1zlmPFhk.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1600
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/d5cqEx87XRQhwKcjrmMVZ22tx5J.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/c9MQjaP2P69CFIZRuNClP3laQoM.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/19PBdteqhLAgN6rZUDIU0Ka6qLH.jpg",
+          "vote_average": 3.334,
+          "vote_count": 3,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/bscwhutJ8ScTXhDuZlnSMhl2bpb.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/5TCN4UFTAcOAzXCprHH6vioMBM7.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jTRL05Dqo9U8eGmSFf8EhUXx9gN.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/pXUZ7wow8FTDwxWHSZqZoTnOvVf.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-11-25 10:02:36"
+  },
+  {
+    "id": 11782,
+    "tmdb_id": 11782,
+    "título": "Hard Boiled: Hervidero",
+    "título_original": "辣手神探",
+    "sinopsis": "Yun-Fat es un duro policía encargado de detener una operación de contrabando de armas y de encontrar al asesino de su compañero. John Woo continúa con su personal estilo de violencia casi poética y tiroteos con ritmo en un thriller que cuenta con numerosos seguidores, toda una cinta de culto dentro del cine de acción. En España se estrenó en el año 1995, resultando un fracaso en taquilla.",
+    "poster_path": "/thnIEwqbvBClQteznk99AilJgWG.jpg",
+    "poster_local": "imagenes_estrenos/Hard_Boiled__Hervidero_thnIEwqbvBClQteznk99AilJgWG.jpg",
+    "backdrop_path": "/bL3rgYFs0NTAoLBMpCBIJ7aX6hp.jpg",
+    "backdrop_local": "imagenes_estrenos/Hard_Boiled__Hervidero_backdrop_bL3rgYFs0NTAoLBMpCBIJ7aX6hp.jpg",
+    "fecha_estreno": "1995-06-09T00:00:00.000Z",
+    "duración": "126 min",
+    "director": "吴宇森",
+    "directores": [
+      {
+        "name": "吴宇森",
+        "id": 11401
+      }
+    ],
+    "actores": [
+      {
+        "name": "Chow Yun-fat",
+        "id": 1619,
+        "character": "Insp. 'Tequila' Yuen",
+        "profile_path": "/ulog0Jfgd2T84UHxgxoh6KBdEp9.jpg"
+      },
+      {
+        "name": "Tony Leung Chiu-Wai",
+        "id": 1337,
+        "character": "Alan",
+        "profile_path": "/nQbSQAws5BdakPEB5MtiqWVeaMV.jpg"
+      },
+      {
+        "name": "毛舜筠",
+        "id": 70590,
+        "character": "Teresa Chang",
+        "profile_path": "/45ObLyR2q0T4kZqJT9HBrfKjSX9.jpg"
+      },
+      {
+        "name": "陳欣健",
+        "id": 70591,
+        "character": "Supt. Pang",
+        "profile_path": "/2eEbrWbpdm8EHvhQsjmpIu3wjlt.jpg"
+      },
+      {
+        "name": "郭追",
+        "id": 229303,
+        "character": "Mad Dog",
+        "profile_path": "/l9yEDDylyfFrSotUoobysptdpct.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "popularidad": 3.7578,
+    "puntuación": 7.5,
+    "votos": 877,
+    "adulto": false,
+    "video": false,
+    "año": "1992",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/bL3rgYFs0NTAoLBMpCBIJ7aX6hp.jpg",
+          "vote_average": 6.722,
+          "vote_count": 6,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/cN5vfBHJYxEqbrtuWXPJ0hyGDI2.jpg",
+          "vote_average": 5.25,
+          "vote_count": 8,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.779,
+          "height": 1530,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/kxTWssqcwsHqH6Sj2ivu0FHP5QK.jpg",
+          "vote_average": 3.424,
+          "vote_count": 13,
+          "width": 2722
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wICODxlPEoRVb7o57esaTKQe6IE.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2048
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6Uh9NJjcZPESoFgloSi15KswyjG.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 1600
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1800,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/thnIEwqbvBClQteznk99AilJgWG.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1200
+        }
+      ]
+    },
+    "última_actualización": "2025-11-25 10:02:37"
+  },
+  {
+    "id": 1095805,
+    "tmdb_id": 1095805,
+    "título": "武替道",
+    "título_original": "武替道",
+    "sinopsis": "Un coreógrafo de acción fracasado, que lucha por encontrar su camino en una industria cambiante, arriesga todo para lograr un regreso épico e intenta reparar la relación con su hija distanciada antes de que sea demasiado tarde.",
+    "poster_path": "/wuOlEY4hpCg3FgLKDdpbdDqrF7b.jpg",
+    "poster_local": "imagenes_estrenos/____wuOlEY4hpCg3FgLKDdpbdDqrF7b.jpg",
+    "backdrop_path": "/DlXdNS5JmM5WPSk5H64ritDy5.jpg",
+    "backdrop_local": "imagenes_estrenos/____backdrop_DlXdNS5JmM5WPSk5H64ritDy5.jpg",
+    "fecha_estreno": "2024-09-14",
+    "duración": "114 min",
+    "director": "梁冠堯, 梁冠舜",
+    "directores": [
+      {
+        "name": "梁冠堯",
+        "id": 2774515
+      },
+      {
+        "name": "梁冠舜",
+        "id": 2774516
+      }
+    ],
+    "actores": [
+      {
+        "name": "劉俊謙",
+        "id": 2217481,
+        "character": "Lee Sai Long",
+        "profile_path": "/12UjFLBUTopW0O9UB9f2TK18dSl.jpg"
+      },
+      {
+        "name": "董瑋",
+        "id": 65931,
+        "character": "Lee Sam",
+        "profile_path": "/qXcaPPa4or5bVTR299IZ7anp3m4.jpg"
+      },
+      {
+        "name": "Cecilia Choi",
+        "id": 1529401,
+        "character": "Cherry Lee",
+        "profile_path": "/ra9AbWmkItJMATFP2tcVByTz3Gw.jpg"
+      },
+      {
+        "name": "伍允龍",
+        "id": 100585,
+        "character": "Leung Chi Wai",
+        "profile_path": "/dUvw7dvUyfAiXhyzGWNV0Gd5ycN.jpg"
+      },
+      {
+        "name": "張達倫",
+        "id": 2064580,
+        "character": "Lee Sai Kit",
+        "profile_path": "/1ZSkCer0mTgl37IRlbqi0euypIU.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "popularidad": 1.5551,
+    "puntuación": 7.6,
+    "votos": 5,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.775,
+          "height": 721,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/DlXdNS5JmM5WPSk5H64ritDy5.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1594,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mJg3Z7pYWARpQfvo9UNtzzk602z.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2833
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1594,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vngurbJNkg2tyoZrGbN4PgWFZMt.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2833
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.711,
+          "height": 2048,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/sWPWemAoe3z4tdLlIKZlrT5xFV.jpg",
+          "vote_average": 0.166,
+          "vote_count": 0,
+          "width": 1456
+        }
+      ]
+    },
+    "última_actualización": "2025-11-25 10:02:40"
   },
   {
     "id": 1581034,
@@ -176,7 +1317,7 @@
       }
     ],
     "géneros": [],
-    "popularidad": 0.0071,
+    "popularidad": 0.0,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -197,7 +1338,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:58"
+    "última_actualización": "2025-11-25 10:02:42"
   },
   {
     "id": 1358748,
@@ -268,7 +1409,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 3.4305,
+    "popularidad": 3.011,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -320,98 +1461,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:52"
-  },
-  {
-    "id": 1570929,
-    "tmdb_id": 1570929,
-    "título": "Yo, albañil",
-    "título_original": "Yo, albañil",
-    "sinopsis": "A través del relato de la cotidianeidad de siete jóvenes albañiles conocemos su peculiar y dura realidad, donde la emancipación profesional aparece como una oportunidad de transformación y catarsis vital.",
-    "poster_path": "/rvngouEMw1s0vKcTShxfiCFw14k.jpg",
-    "poster_local": "imagenes_estrenos/Yo__alba_il_rvngouEMw1s0vKcTShxfiCFw14k.jpg",
-    "backdrop_path": "/offPlgCPiEZ8r738uD9QsUVvjKY.jpg",
-    "backdrop_local": "imagenes_estrenos/Yo__alba_il_backdrop_offPlgCPiEZ8r738uD9QsUVvjKY.jpg",
-    "fecha_estreno": "2025-11-24T00:00:00.000Z",
-    "duración": "21 min",
-    "director": "J. Alberto Andrés Lacasta",
-    "directores": [
-      {
-        "name": "J. Alberto Andrés Lacasta",
-        "id": 4160275
-      }
-    ],
-    "actores": [
-      {
-        "name": "Manuel Sabater Mayor",
-        "id": 5781570,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Julien Zanre",
-        "id": 5781572,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Daniel Gabarre Hernandez",
-        "id": 5781574,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Daniel Serrano Callejero",
-        "id": 5781575,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Leticia Lacarte Broto",
-        "id": 5781576,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.1261,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/offPlgCPiEZ8r738uD9QsUVvjKY.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/rvngouEMw1s0vKcTShxfiCFw14k.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-11-18 22:03:09"
+    "última_actualización": "2025-11-25 10:02:38"
   },
   {
     "id": 1463525,
@@ -570,7 +1620,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 134.436,
+    "popularidad": 151.0356,
     "puntuación": 7.3,
     "votos": 13,
     "adulto": false,
@@ -593,9 +1643,9 @@
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
-          "vote_average": 4.934,
-          "vote_count": 16,
+          "file_path": "/zdva2LmrzZ0OdTI27ayzKPw0wkF.jpg",
+          "vote_average": 4.818,
+          "vote_count": 11,
           "width": 3840
         },
         {
@@ -603,9 +1653,9 @@
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/zdva2LmrzZ0OdTI27ayzKPw0wkF.jpg",
-          "vote_average": 4.818,
-          "vote_count": 11,
+          "file_path": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
+          "vote_average": 4.656,
+          "vote_count": 16,
           "width": 3840
         },
         {
@@ -682,7 +1732,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:49"
+    "última_actualización": "2025-11-25 10:02:33"
   },
   {
     "id": 1214931,
@@ -753,7 +1803,7 @@
         "name": "Bélica"
       }
     ],
-    "popularidad": 19.3836,
+    "popularidad": 20.5553,
     "puntuación": 7.405,
     "votos": 21,
     "adulto": false,
@@ -835,7 +1885,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:50"
+    "última_actualización": "2025-11-25 10:02:34"
   },
   {
     "id": 1299655,
@@ -910,7 +1960,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 5.0999,
+    "popularidad": 6.1834,
     "puntuación": 7.2,
     "votos": 14,
     "adulto": false,
@@ -983,16 +2033,6 @@
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/nB6SWnQqSJJfitxgG11HgtPoBQB.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
           "iso_3166_1": "ES",
           "iso_639_1": "es",
           "file_path": "/p7pfJYxB1dpfAWkKSrnFjRhTmIG.jpg",
@@ -1002,7 +2042,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:51"
+    "última_actualización": "2025-11-25 10:02:37"
   },
   {
     "id": 1410189,
@@ -1065,7 +2105,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 3.3176,
+    "popularidad": 3.2768,
     "puntuación": 6.7,
     "votos": 10,
     "adulto": false,
@@ -1137,7 +2177,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:52"
+    "última_actualización": "2025-11-25 10:02:38"
   },
   {
     "id": 1294457,
@@ -1188,7 +2228,7 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 2.9644,
+    "popularidad": 2.899,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1209,7 +2249,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:53"
+    "última_actualización": "2025-11-25 10:02:38"
   },
   {
     "id": 1235304,
@@ -1272,7 +2312,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 2.8616,
+    "popularidad": 3.1952,
     "puntuación": 7.5,
     "votos": 148,
     "adulto": false,
@@ -1374,7 +2414,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:53"
+    "última_actualización": "2025-11-25 10:02:39"
   },
   {
     "id": 1309725,
@@ -1437,7 +2477,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 2.1533,
+    "popularidad": 1.7082,
     "puntuación": 5.627,
     "votos": 59,
     "adulto": false,
@@ -1509,7 +2549,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:54"
+    "última_actualización": "2025-11-25 10:02:39"
   },
   {
     "id": 1357349,
@@ -1566,7 +2606,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.8367,
+    "popularidad": 0.9612,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1628,7 +2668,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:55"
+    "última_actualización": "2025-11-25 10:02:41"
   },
   {
     "id": 1403327,
@@ -1691,7 +2731,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 0.615,
+    "popularidad": 0.6033,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1722,7 +2762,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:56"
+    "última_actualización": "2025-11-25 10:02:41"
   },
   {
     "id": 1025388,
@@ -1785,7 +2825,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.4622,
+    "popularidad": 0.7327,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1806,7 +2846,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:56"
+    "última_actualización": "2025-11-25 10:02:41"
   },
   {
     "id": 1279580,
@@ -1829,7 +2869,7 @@
     ],
     "actores": [],
     "géneros": [],
-    "popularidad": 0.2219,
+    "popularidad": 0.196,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1839,7 +2879,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-11-24 22:02:57"
+    "última_actualización": "2025-11-25 10:02:41"
   },
   {
     "id": 1525696,
@@ -1880,7 +2920,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.1041,
+    "popularidad": 0.0882,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1972,7 +3012,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:57"
+    "última_actualización": "2025-11-25 10:02:42"
   },
   {
     "id": 1584294,
@@ -2102,10 +3142,20 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 1000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/4O3m7LjdLPteD4VGWevA1BJGi4c.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:57"
+    "última_actualización": "2025-11-25 10:02:42"
   },
   {
     "id": 1585046,
@@ -2178,7 +3228,340 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:57"
+    "última_actualización": "2025-11-25 10:02:42"
+  },
+  {
+    "id": 1586855,
+    "tmdb_id": 1586855,
+    "título": "Minerva y las Ánimas",
+    "título_original": "Minerva y las Ánimas",
+    "sinopsis": "Lucía, una joven actriz de uno de los teatros más importantes del país, cuyo propósito es el de lograr conseguir el papel protagonista de la nueva obra de teatro de la temporada \"Minerva y las Ánimas\". Un camino lleno de miedo, frustración y alucinaciones que la llevará a no poder discernir entre lo real y lo ficticio. Su camino para lograr el papel protagonista y el reconocimiento que se merece estará marcado por una decisión que cambiará el resto de su vida.",
+    "poster_path": "/aSS5fh2pMX7XBbGjoa4my32CWZr.jpg",
+    "poster_local": "imagenes_estrenos/Minerva_y_las__nimas_aSS5fh2pMX7XBbGjoa4my32CWZr.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-11-29",
+    "duración": "17 min",
+    "director": "Javier Coronado San Millán",
+    "directores": [
+      {
+        "name": "Javier Coronado San Millán",
+        "id": 5836943
+      }
+    ],
+    "actores": [
+      {
+        "name": "Lucía García Paredes",
+        "id": 5836957,
+        "character": "Lucía",
+        "profile_path": null
+      },
+      {
+        "name": "Joseba Alzueta",
+        "id": 5836959,
+        "character": "Miguel",
+        "profile_path": null
+      },
+      {
+        "name": "Paula Balsera Anguita",
+        "id": 5836965,
+        "character": "Paula",
+        "profile_path": null
+      },
+      {
+        "name": "Paula Ríos",
+        "id": 5077689,
+        "character": "Irene",
+        "profile_path": "/9jxhRT0QDqNZWB3vXbwOt2yCbfL.jpg"
+      },
+      {
+        "name": "Silvia de las Heras",
+        "id": 5617440,
+        "character": "Mía",
+        "profile_path": null
+      }
+    ],
+    "géneros": [],
+    "popularidad": 0.0071,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/aSS5fh2pMX7XBbGjoa4my32CWZr.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-11-25 10:02:42"
+  },
+  {
+    "id": 1481603,
+    "tmdb_id": 1481603,
+    "título": "Hold the Fort",
+    "título_original": "Hold the Fort",
+    "sinopsis": "La película sigue a Lucas y Jenny, quienes creen que su vida finalmente está tomando forma cuando la pareja se convierte en propietaria de una vivienda. Sin embargo, no saben que su nueva casa trae consigo una gran desventaja. Lucas y Jenny pronto se ven envueltos en una lucha por sus vidas al verse atrapados en una batalla entre la Asociación de Propietarios y una avalancha de monstruos infernales. Esta comedia de terror aborda la actual preocupación de ser propietario de una vivienda y la convierte en una emocionante aventura llena de acción.",
+    "poster_path": "/gaVpU1Q8oK2wDhWlVdL1aGwXa1F.jpg",
+    "poster_local": "imagenes_estrenos/Hold_the_Fort_gaVpU1Q8oK2wDhWlVdL1aGwXa1F.jpg",
+    "backdrop_path": "/cvDsP3x6FWvEsHctyvxMmdmJJhR.jpg",
+    "backdrop_local": "imagenes_estrenos/Hold_the_Fort_backdrop_cvDsP3x6FWvEsHctyvxMmdmJJhR.jpg",
+    "fecha_estreno": "2025-11-29T00:00:00.000Z",
+    "duración": "84 min",
+    "director": "William Bagley",
+    "directores": [
+      {
+        "name": "William Bagley",
+        "id": 3221404
+      }
+    ],
+    "actores": [
+      {
+        "name": "Chris Mayers",
+        "id": 2010250,
+        "character": "",
+        "profile_path": "/efgM2mQHNQPdKmqYKBYc4VBNSCA.jpg"
+      },
+      {
+        "name": "Haley Leary",
+        "id": 1982801,
+        "character": "",
+        "profile_path": "/xN5WCnr7xlhCEXxcQiDTvh9RGWQ.jpg"
+      },
+      {
+        "name": "Julian Smith",
+        "id": 3455369,
+        "character": "",
+        "profile_path": "/xH6UdGZmBKhSfqQcreyWlYJ4vyx.jpg"
+      },
+      {
+        "name": "Tordy Clark",
+        "id": 3237965,
+        "character": "",
+        "profile_path": "/7kddLvM0NrqjtjbelSEKz4f8Loc.jpg"
+      },
+      {
+        "name": "Hamid-Reza Benjamin Thompson",
+        "id": 1637322,
+        "character": "",
+        "profile_path": "/rOBcfuKyRp2mA6cAAOvxz8rfLIi.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 2.5714,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/cvDsP3x6FWvEsHctyvxMmdmJJhR.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/nyG7se39VzF3dGpyrc19ymsKCUF.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/yN6OABzJRDE9NsL5MocCJuDw1Oi.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tkaEbT1WecfNj7KqO8gCvDr34ag.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-11-25 10:02:39"
+  },
+  {
+    "id": 793058,
+    "tmdb_id": 793058,
+    "título": "Hi-Five",
+    "título_original": "하이파이브",
+    "sinopsis": "En plena noche, un cadáver donado para un trasplante de órganos se desintegra misteriosamente en cenizas. Poco después, cinco receptores empiezan a desarrollar poderes sobrenaturales. Una adolescente adquiere una fuerza inmensa, un hipster manipula ondas electromagnéticas, un novelista invoca poderosas ráfagas, el director de una fábrica puede curar a los demás y una mujer descubre una extraña habilidad aún no identificada. Juntos, forman un equipo reticente pero heroico conocido como \"HI-FIVE\". Pero no son los únicos transformados. El líder de una secta que recibió el páncreas del donante adquiere el aterrador poder de drenar la energía vital y se propone robar las habilidades de Hi-Five para lograr una dominación divina.",
+    "poster_path": "/xpqa2ShXecFxMUGKv82Zx56ZoUD.jpg",
+    "poster_local": "imagenes_estrenos/Hi_Five_xpqa2ShXecFxMUGKv82Zx56ZoUD.jpg",
+    "backdrop_path": "/oBV1aajDou6hvPD55vQHrBSlDgb.jpg",
+    "backdrop_local": "imagenes_estrenos/Hi_Five_backdrop_oBV1aajDou6hvPD55vQHrBSlDgb.jpg",
+    "fecha_estreno": "2025-11-30T00:00:00.000Z",
+    "duración": "120 min",
+    "director": "강형철",
+    "directores": [
+      {
+        "name": "강형철",
+        "id": 84976
+      }
+    ],
+    "actores": [
+      {
+        "name": "이재인",
+        "id": 2078000,
+        "character": "Park Wanseo",
+        "profile_path": "/5gdJ9n6rJZZyGGaMw3Hcr52zQMU.jpg"
+      },
+      {
+        "name": "안재홍",
+        "id": 1164507,
+        "character": "Park Jisung",
+        "profile_path": "/pypB7S7Wpja3mgfT2iAEKcR7uXp.jpg"
+      },
+      {
+        "name": "유아인",
+        "id": 572225,
+        "character": "Hwang Gidong",
+        "profile_path": "/a1OhZlBbONBLJ6RhJRK9geS5TU2.jpg"
+      },
+      {
+        "name": "라미란",
+        "id": 980225,
+        "character": "Kim Seonnyeo",
+        "profile_path": "/45jkWK6vQpQo32FsbGMSDrZig62.jpg"
+      },
+      {
+        "name": "김희원",
+        "id": 550683,
+        "character": "Huh Yakseon",
+        "profile_path": "/sDCxskfmmNidOjV2LwsWh9dAVbN.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "popularidad": 3.2476,
+    "puntuación": 6.9,
+    "votos": 27,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oBV1aajDou6hvPD55vQHrBSlDgb.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2048
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3LIrDBvnYsh5Z4JzIBIdjWn3VhR.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2048
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ZHi0yf4SIDmeVSx7KdMrcSbVdZ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2048
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7yC4eSwMaTUX3ZLdW9IRMc3aUlB.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2048
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/2pPYGILJMtS5uXTjVRpAWf9pjYl.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2048
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.698,
+          "height": 2865,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/9CJRbkL7hos93gg0iR3XVRzg0KJ.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-11-25 10:02:38"
   },
   {
     "id": 1378022,
@@ -2245,7 +3628,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 1.3211,
+    "popularidad": 1.236,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2317,7 +3700,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:55"
+    "última_actualización": "2025-11-25 10:02:40"
   },
   {
     "id": 1228246,
@@ -2384,7 +3767,7 @@
         "name": "Acción"
       }
     ],
-    "popularidad": 21.8156,
+    "popularidad": 22.5735,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2496,7 +3879,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:49"
+    "última_actualización": "2025-11-25 10:02:34"
   },
   {
     "id": 1259102,
@@ -2563,9 +3946,9 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 9.1426,
-    "puntuación": 7.0,
-    "votos": 3,
+    "popularidad": 11.0435,
+    "puntuación": 7.125,
+    "votos": 4,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2625,7 +4008,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:50"
+    "última_actualización": "2025-11-25 10:02:35"
   },
   {
     "id": 1124566,
@@ -2684,7 +4067,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 8.9658,
+    "popularidad": 10.0036,
     "puntuación": 7.6,
     "votos": 89,
     "adulto": false,
@@ -2786,7 +4169,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:51"
+    "última_actualización": "2025-11-25 10:02:35"
   },
   {
     "id": 974663,
@@ -2865,7 +4248,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 6.112,
+    "popularidad": 4.914,
     "puntuación": 5.7,
     "votos": 27,
     "adulto": false,
@@ -2947,14 +4330,14 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:51"
+    "última_actualización": "2025-11-25 10:02:36"
   },
   {
     "id": 1266798,
     "tmdb_id": 1266798,
     "título": "Chien 51",
     "título_original": "Chien 51",
-    "sinopsis": "",
+    "sinopsis": "En un París futuro dividido por clases, una IA llamada Alma supervisa la sociedad. Cuando el creador de Alma muere, la policía Salia se une a Zem para desentrañar un misterio que cuestiona su mundo segregado.",
     "poster_path": "/6bDBDdccpppErPv72A1a53ClB7F.jpg",
     "poster_local": "imagenes_estrenos/Chien_51_6bDBDdccpppErPv72A1a53ClB7F.jpg",
     "backdrop_path": "/nHKOcY1VrVLA4bIt8phzTx28bt0.jpg",
@@ -3018,9 +4401,9 @@
         "name": "Acción"
       }
     ],
-    "popularidad": 4.0108,
-    "puntuación": 6.531,
-    "votos": 127,
+    "popularidad": 4.9614,
+    "puntuación": 6.5,
+    "votos": 128,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3100,7 +4483,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:52"
+    "última_actualización": "2025-11-25 10:02:37"
   },
   {
     "id": 1365683,
@@ -3167,7 +4550,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 2.2878,
+    "popularidad": 2.2158,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3209,7 +4592,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:53"
+    "última_actualización": "2025-11-25 10:02:39"
   },
   {
     "id": 1544991,
@@ -3276,7 +4659,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 1.2919,
+    "popularidad": 1.4106,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3318,7 +4701,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:55"
+    "última_actualización": "2025-11-25 10:02:41"
   },
   {
     "id": 1530349,
@@ -3371,7 +4754,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.4883,
+    "popularidad": 0.2955,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3392,7 +4775,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:56"
+    "última_actualización": "2025-11-25 10:02:41"
   },
   {
     "id": 739291,
@@ -3451,7 +4834,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 2.2465,
+    "popularidad": 2.5082,
     "puntuación": 6.118,
     "votos": 106,
     "adulto": false,
@@ -3563,7 +4946,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:54"
+    "última_actualización": "2025-11-25 10:02:39"
   },
   {
     "id": 1181107,
@@ -3638,7 +5021,7 @@
         "name": "Aventura"
       }
     ],
-    "popularidad": 6.9979,
+    "popularidad": 6.9052,
     "puntuación": 8.5,
     "votos": 112,
     "adulto": false,
@@ -3750,7 +5133,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:51"
+    "última_actualización": "2025-11-25 10:02:36"
   },
   {
     "id": 801937,
@@ -3813,7 +5196,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 4.4991,
+    "popularidad": 5.0341,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3885,7 +5268,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-24 22:02:52"
+    "última_actualización": "2025-11-25 10:02:37"
   },
   {
     "id": 1257406,
@@ -3948,7 +5331,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 2.9289,
+    "popularidad": 2.2448,
     "puntuación": 5.2,
     "votos": 5,
     "adulto": false,
@@ -4009,7 +5392,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-11-24 22:02:53"
+    "última_actualización": "2025-11-25 10:02:39"
   },
   {
     "id": 1381155,
@@ -4068,7 +5451,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 1.3793,
+    "popularidad": 1.4531,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4089,7 +5472,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-11-24 22:02:54"
+    "última_actualización": "2025-11-25 10:02:40"
   },
   {
     "id": 1002158,
@@ -4152,7 +5535,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 15.1953,
+    "popularidad": 11.6723,
     "puntuación": 6.529,
     "votos": 51,
     "adulto": false,
@@ -4183,6 +5566,6 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-11-24 22:02:50"
+    "última_actualización": "2025-11-25 10:02:34"
   }
 ]
