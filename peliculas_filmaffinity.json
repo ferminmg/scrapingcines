@@ -5,11 +5,6 @@
         "horarios": [
             {
                 "fecha": "2025-11-27",
-                "hora": "17:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22895"
-            },
-            {
-                "fecha": "2025-11-27",
                 "hora": "20:20",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=22894"
             },
@@ -57,23 +52,6 @@
         "año": "2025"
     },
     {
-        "título": "Jujutsu Kaisen: Ejecución",
-        "cartel": "imagenes_filmaffinity/tmdb_jujutsu-kaisen-ejecucion.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-11-27",
-                "hora": "17:10",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23571"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "御所園翔太",
-        "duración": "88 min",
-        "actores": "Junya Enoki, Yuma Uchida, Asami Seto, Kenjiro Tsuda, Subaru Kimura",
-        "sinopsis": "",
-        "año": "2025"
-    },
-    {
         "título": "Zootrópolis 2",
         "cartel": "imagenes_filmaffinity/tmdb_zootropolis-2.jpg",
         "horarios": [
@@ -81,6 +59,36 @@
                 "fecha": "2025-12-02",
                 "hora": "20:15",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23146"
+            },
+            {
+                "fecha": "2025-12-05",
+                "hora": "20:35",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23839"
+            },
+            {
+                "fecha": "2025-12-06",
+                "hora": "20:35",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23840"
+            },
+            {
+                "fecha": "2025-12-07",
+                "hora": "20:35",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23843"
+            },
+            {
+                "fecha": "2025-12-08",
+                "hora": "20:35",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23862"
+            },
+            {
+                "fecha": "2025-12-09",
+                "hora": "20:35",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23846"
+            },
+            {
+                "fecha": "2025-12-10",
+                "hora": "20:35",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23850"
             }
         ],
         "cine": "Yelmo Itaroa",
@@ -172,6 +180,23 @@
         "actores": "Josh Hutcherson, Elizabeth Lail, Piper Rubio, Matthew Lillard, Theodus Crane",
         "sinopsis": "",
         "año": "2025"
+    },
+    {
+        "título": "Los Goonies (Reestreno 40 Aniversario)",
+        "cartel": "imagenes_filmaffinity/los-goonies-reestreno-40-aniversario.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-16",
+                "hora": "19:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23869"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
     },
     {
         "título": "Avatar: Fuego y ceniza",
