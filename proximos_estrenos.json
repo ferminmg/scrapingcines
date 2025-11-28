@@ -146,7 +146,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-28 10:03:08"
+    "última_actualización": "2025-11-28 22:03:18"
   },
   {
     "id": 1358748,
@@ -269,7 +269,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-28 10:03:07"
+    "última_actualización": "2025-11-28 22:03:17"
   },
   {
     "id": 1084242,
@@ -2476,7 +2476,7 @@
       {
         "name": "Piper Rubio",
         "id": 2283930,
-        "character": "Abby",
+        "character": "Abby Schmidt",
         "profile_path": "/5Bt8p5uRlfLjOn64k1gTiSjmL8q.jpg"
       },
       {
@@ -2614,7 +2614,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-28 10:03:06"
+    "última_actualización": "2025-11-28 22:03:14"
   },
   {
     "id": 1259102,
@@ -2763,7 +2763,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-28 10:03:06"
+    "última_actualización": "2025-11-28 22:03:14"
   },
   {
     "id": 1124566,
@@ -2823,8 +2823,8 @@
       }
     ],
     "popularidad": 11.6976,
-    "puntuación": 7.6,
-    "votos": 91,
+    "puntuación": 7.61,
+    "votos": 92,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2934,7 +2934,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-28 10:03:06"
+    "última_actualización": "2025-11-28 22:03:14"
   },
   {
     "id": 1266798,
@@ -3087,7 +3087,116 @@
         }
       ]
     },
-    "última_actualización": "2025-11-28 10:03:07"
+    "última_actualización": "2025-11-28 22:03:16"
+  },
+  {
+    "id": 1365683,
+    "tmdb_id": 1365683,
+    "título": "Primavera",
+    "título_original": "Primavera",
+    "sinopsis": "",
+    "poster_path": "/6Giqb3a9ITCKhlkNeWtfzGWOxU0.jpg",
+    "poster_local": "imagenes_estrenos/Primavera_6Giqb3a9ITCKhlkNeWtfzGWOxU0.jpg",
+    "backdrop_path": "/tjRhxRyaF7LgGnNP2lrAIo3cQSb.jpg",
+    "backdrop_local": "imagenes_estrenos/Primavera_backdrop_tjRhxRyaF7LgGnNP2lrAIo3cQSb.jpg",
+    "fecha_estreno": "2025-12-05T00:00:00.000Z",
+    "duración": "110 min",
+    "director": "Damiano Michieletto",
+    "directores": [
+      {
+        "name": "Damiano Michieletto",
+        "id": 1572397
+      }
+    ],
+    "actores": [
+      {
+        "name": "Tecla Insolia",
+        "id": 2865221,
+        "character": "Cecilia",
+        "profile_path": "/jKZBvFvHjcR7ljdnSlkNJKKTRh5.jpg"
+      },
+      {
+        "name": "Michele Riondino",
+        "id": 124754,
+        "character": "Antonio Vivaldi",
+        "profile_path": "/OZjGp2fNHWYkIVS2kaojMaKeKU.jpg"
+      },
+      {
+        "name": "Fabrizia Sacchi",
+        "id": 67174,
+        "character": "",
+        "profile_path": "/z0lEGHkIo5cmUyatrq7C4lCjk2z.jpg"
+      },
+      {
+        "name": "Andrea Pennacchi",
+        "id": 1878444,
+        "character": "",
+        "profile_path": "/6JohIFiOoa6oFwgH1PaS9G153NU.jpg"
+      },
+      {
+        "name": "Valentina Bellè",
+        "id": 1435167,
+        "character": "",
+        "profile_path": "/pVkJQ7oBSvoS6a3JdB5WV3F52du.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 10402,
+        "name": "Música"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "popularidad": 2.5824,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1125,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tjRhxRyaF7LgGnNP2lrAIo3cQSb.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/uZP0ErB7k0ifzFuDYy41iYFhHkz.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 630
+        },
+        {
+          "aspect_ratio": 0.669,
+          "height": 2988,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xBaTwNPIJcHafmx0IgHlWPsYIlt.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-11-28 22:03:17"
   },
   {
     "id": 974663,
@@ -3258,116 +3367,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-28 10:03:08"
-  },
-  {
-    "id": 1365683,
-    "tmdb_id": 1365683,
-    "título": "Primavera",
-    "título_original": "Primavera",
-    "sinopsis": "",
-    "poster_path": "/6Giqb3a9ITCKhlkNeWtfzGWOxU0.jpg",
-    "poster_local": "imagenes_estrenos/Primavera_6Giqb3a9ITCKhlkNeWtfzGWOxU0.jpg",
-    "backdrop_path": "/tjRhxRyaF7LgGnNP2lrAIo3cQSb.jpg",
-    "backdrop_local": "imagenes_estrenos/Primavera_backdrop_tjRhxRyaF7LgGnNP2lrAIo3cQSb.jpg",
-    "fecha_estreno": "2025-12-05T00:00:00.000Z",
-    "duración": "110 min",
-    "director": "Damiano Michieletto",
-    "directores": [
-      {
-        "name": "Damiano Michieletto",
-        "id": 1572397
-      }
-    ],
-    "actores": [
-      {
-        "name": "Tecla Insolia",
-        "id": 2865221,
-        "character": "Cecilia",
-        "profile_path": "/jKZBvFvHjcR7ljdnSlkNJKKTRh5.jpg"
-      },
-      {
-        "name": "Michele Riondino",
-        "id": 124754,
-        "character": "Antonio Vivaldi",
-        "profile_path": "/OZjGp2fNHWYkIVS2kaojMaKeKU.jpg"
-      },
-      {
-        "name": "Fabrizia Sacchi",
-        "id": 67174,
-        "character": "",
-        "profile_path": "/z0lEGHkIo5cmUyatrq7C4lCjk2z.jpg"
-      },
-      {
-        "name": "Andrea Pennacchi",
-        "id": 1878444,
-        "character": "",
-        "profile_path": "/6JohIFiOoa6oFwgH1PaS9G153NU.jpg"
-      },
-      {
-        "name": "Valentina Bellè",
-        "id": 1435167,
-        "character": "",
-        "profile_path": "/pVkJQ7oBSvoS6a3JdB5WV3F52du.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 10402,
-        "name": "Música"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 36,
-        "name": "Historia"
-      }
-    ],
-    "popularidad": 2.5824,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1125,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/tjRhxRyaF7LgGnNP2lrAIo3cQSb.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.7,
-          "height": 900,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/uZP0ErB7k0ifzFuDYy41iYFhHkz.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 630
-        },
-        {
-          "aspect_ratio": 0.669,
-          "height": 2988,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xBaTwNPIJcHafmx0IgHlWPsYIlt.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-11-28 10:03:08"
+    "última_actualización": "2025-11-28 22:03:17"
   },
   {
     "id": 1544991,
@@ -3476,7 +3476,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-28 10:03:08"
+    "última_actualización": "2025-11-28 22:03:18"
   },
   {
     "id": 1530349,
@@ -3550,7 +3550,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-28 10:03:08"
+    "última_actualización": "2025-11-28 22:03:18"
   },
   {
     "id": 739291,
@@ -3721,7 +3721,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-28 10:03:07"
+    "última_actualización": "2025-11-28 22:03:16"
   },
   {
     "id": 1181107,
@@ -3908,7 +3908,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-28 10:03:06"
+    "última_actualización": "2025-11-28 22:03:15"
   },
   {
     "id": 801937,
@@ -4043,7 +4043,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-28 10:03:07"
+    "última_actualización": "2025-11-28 22:03:16"
   },
   {
     "id": 1257406,
@@ -4167,7 +4167,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-11-28 10:03:07"
+    "última_actualización": "2025-11-28 22:03:16"
   },
   {
     "id": 1381155,
@@ -4247,7 +4247,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-11-28 10:03:08"
+    "última_actualización": "2025-11-28 22:03:17"
   },
   {
     "id": 1565758,
@@ -4348,7 +4348,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-28 10:03:08"
+    "última_actualización": "2025-11-28 22:03:18"
   },
   {
     "id": 83533,
@@ -4439,8 +4439,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/pN3eaCl3sqwrerU8UNdp40F2mK0.jpg",
-          "vote_average": 3.954,
-          "vote_count": 11,
+          "vote_average": 4.458,
+          "vote_count": 12,
           "width": 3840
         },
         {
@@ -4527,7 +4527,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-28 10:03:05"
+    "última_actualización": "2025-11-28 22:03:13"
   },
   {
     "id": 1288072,
@@ -4672,7 +4672,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-28 10:03:06"
+    "última_actualización": "2025-11-28 22:03:14"
   },
   {
     "id": 1429348,
@@ -4737,7 +4737,7 @@
     ],
     "popularidad": 7.2159,
     "puntuación": 7.0,
-    "votos": 63,
+    "votos": 65,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -4807,7 +4807,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-28 10:03:06"
+    "última_actualización": "2025-11-28 22:03:15"
   },
   {
     "id": 1290432,
@@ -4966,7 +4966,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-28 10:03:07"
+    "última_actualización": "2025-11-28 22:03:15"
   },
   {
     "id": 1159206,
@@ -5080,7 +5080,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-11-28 10:03:07"
+    "última_actualización": "2025-11-28 22:03:16"
   },
   {
     "id": 1002158,
@@ -5174,6 +5174,6 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-11-28 10:03:06"
+    "última_actualización": "2025-11-28 22:03:15"
   }
 ]
