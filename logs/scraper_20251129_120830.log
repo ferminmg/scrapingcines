@@ -1,0 +1,45 @@
+2025-11-29 12:08:30,577 - INFO - Iniciando proceso de scraping
+2025-11-29 12:08:30,579 - INFO - Posts existentes encontrados: 2474
+2025-11-29 12:08:30,579 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-11-29 12:08:33,352 - INFO - Se encontraron 10 posts
+2025-11-29 12:08:33,353 - INFO - Comenzando extracción de información del post
+2025-11-29 12:08:33,354 - INFO - Título del post: DRÁCULA de Luc Besson
+2025-11-29 12:08:33,354 - INFO - Fecha del post: 2025-11-29T11:23:09+01:00
+2025-11-29 12:08:33,354 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/11/critica-de-dracula-de-luc-besson.html
+2025-11-29 12:08:35,155 - INFO - Contenido extraído y estructurado (4547 caracteres)
+2025-11-29 12:08:35,156 - INFO - Guardando post en: posts/DRÁCULA_2025-11-29.json
+2025-11-29 12:08:35,157 - INFO - Post guardado exitosamente
+2025-11-29 12:08:35,157 - INFO - Actualizando índice de películas
+2025-11-29 12:08:35,157 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-11-29 12:08:35,161 - INFO - Índice existente cargado con 2575 películas
+2025-11-29 12:08:35,172 - INFO - Película agregada al índice: DRÁCULA
+2025-11-29 12:08:35,172 - INFO - Nuevo post guardado: DRÁCULA de Luc Besson
+2025-11-29 12:08:35,172 - INFO - Comenzando extracción de información del post
+2025-11-29 12:08:35,172 - INFO - Título del post: ALPHA de Julia  Ducournau
+2025-11-29 12:08:35,172 - INFO - Fecha del post: 2025-11-29T11:12:18+01:00
+2025-11-29 12:08:35,173 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/11/critica-de-alpha-de-julia-ducournau.html
+2025-11-29 12:08:37,107 - INFO - Contenido extraído y estructurado (2636 caracteres)
+2025-11-29 12:08:37,109 - INFO - Guardando post en: posts/ALPHA_2025-11-29.json
+2025-11-29 12:08:37,109 - INFO - Post guardado exitosamente
+2025-11-29 12:08:37,109 - INFO - Actualizando índice de películas
+2025-11-29 12:08:37,109 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-11-29 12:08:37,112 - INFO - Índice existente cargado con 2576 películas
+2025-11-29 12:08:37,113 - INFO - La película ya existe en el índice: ALPHA
+2025-11-29 12:08:37,113 - INFO - Nuevo post guardado: ALPHA de Julia  Ducournau
+2025-11-29 12:08:37,113 - INFO - Comenzando extracción de información del post
+2025-11-29 12:08:37,113 - INFO - Post ya existente, saltando: CRIMSON GOLD de Jafar Panahi
+2025-11-29 12:08:37,113 - INFO - Comenzando extracción de información del post
+2025-11-29 12:08:37,113 - INFO - Post ya existente, saltando: GAUA de Paul Urkijo
+2025-11-29 12:08:37,113 - INFO - Comenzando extracción de información del post
+2025-11-29 12:08:37,114 - INFO - Post ya existente, saltando: URCHIN de Harris Dickinson
+2025-11-29 12:08:37,114 - INFO - Comenzando extracción de información del post
+2025-11-29 12:08:37,114 - INFO - Post ya existente, saltando: CIUDAD SIN SUEÑO de Guillermo Galoe
+2025-11-29 12:08:37,114 - INFO - Comenzando extracción de información del post
+2025-11-29 12:08:37,114 - INFO - Post ya existente, saltando: BUGONIA de Yorgos Lanthimos
+2025-11-29 12:08:37,114 - INFO - Comenzando extracción de información del post
+2025-11-29 12:08:37,114 - INFO - Post ya existente, saltando: SUBSUELO de Fernando Franco
+2025-11-29 12:08:37,114 - INFO - Comenzando extracción de información del post
+2025-11-29 12:08:37,114 - INFO - Post ya existente, saltando: SIEMPRE ES INVIERNO de David Trueba
+2025-11-29 12:08:37,114 - INFO - Comenzando extracción de información del post
+2025-11-29 12:08:37,115 - INFO - Post ya existente, saltando: THE MASTERMIND de Kelly Reichardt
+2025-11-29 12:08:37,115 - INFO - Proceso completado. Posts nuevos guardados: 2
