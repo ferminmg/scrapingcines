@@ -64,7 +64,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 2.0694,
+    "popularidad": 2.2373,
     "puntuación": 7.8,
     "votos": 144,
     "adulto": false,
@@ -146,7 +146,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-29 22:03:16"
+    "última_actualización": "2025-11-30 10:03:08"
   },
   {
     "id": 1358748,
@@ -217,7 +217,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 2.1998,
+    "popularidad": 1.9576,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -269,208 +269,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-29 22:03:16"
-  },
-  {
-    "id": 1586855,
-    "tmdb_id": 1586855,
-    "título": "Minerva y las Ánimas",
-    "título_original": "Minerva y las Ánimas",
-    "sinopsis": "Lucía, una joven actriz de uno de los teatros más importantes del país, cuyo propósito es el de lograr conseguir el papel protagonista de la nueva obra de teatro de la temporada \"Minerva y las Ánimas\". Un camino lleno de miedo, frustración y alucinaciones que la llevará a no poder discernir entre lo real y lo ficticio. Su camino para lograr el papel protagonista y el reconocimiento que se merece estará marcado por una decisión que cambiará el resto de su vida.",
-    "poster_path": "/aSS5fh2pMX7XBbGjoa4my32CWZr.jpg",
-    "poster_local": "imagenes_estrenos/Minerva_y_las__nimas_aSS5fh2pMX7XBbGjoa4my32CWZr.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-11-29",
-    "duración": "17 min",
-    "director": "Javier Coronado San Millán",
-    "directores": [
-      {
-        "name": "Javier Coronado San Millán",
-        "id": 5836943
-      }
-    ],
-    "actores": [
-      {
-        "name": "Lucía García Paredes",
-        "id": 5836957,
-        "character": "Lucía",
-        "profile_path": null
-      },
-      {
-        "name": "Joseba Alzueta",
-        "id": 5836959,
-        "character": "Miguel",
-        "profile_path": null
-      },
-      {
-        "name": "Paula Balsera Anguita",
-        "id": 5836965,
-        "character": "Paula",
-        "profile_path": null
-      },
-      {
-        "name": "Paula Ríos",
-        "id": 5077689,
-        "character": "Irene",
-        "profile_path": "/9jxhRT0QDqNZWB3vXbwOt2yCbfL.jpg"
-      },
-      {
-        "name": "Silvia de las Heras",
-        "id": 5617440,
-        "character": "Mía",
-        "profile_path": null
-      }
-    ],
-    "géneros": [],
-    "popularidad": 0.0071,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.78,
-          "height": 1000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/8Yqn4JHaU51gb2i3c7rvHWGjYMi.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1780
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/aSS5fh2pMX7XBbGjoa4my32CWZr.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-11-25 22:02:35"
-  },
-  {
-    "id": 1481603,
-    "tmdb_id": 1481603,
-    "título": "Hold the Fort",
-    "título_original": "Hold the Fort",
-    "sinopsis": "La película sigue a Lucas y Jenny, quienes creen que su vida finalmente está tomando forma cuando la pareja se convierte en propietaria de una vivienda. Sin embargo, no saben que su nueva casa trae consigo una gran desventaja. Lucas y Jenny pronto se ven envueltos en una lucha por sus vidas al verse atrapados en una batalla entre la Asociación de Propietarios y una avalancha de monstruos infernales. Esta comedia de terror aborda la actual preocupación de ser propietario de una vivienda y la convierte en una emocionante aventura llena de acción.",
-    "poster_path": "/gaVpU1Q8oK2wDhWlVdL1aGwXa1F.jpg",
-    "poster_local": "imagenes_estrenos/Hold_the_Fort_gaVpU1Q8oK2wDhWlVdL1aGwXa1F.jpg",
-    "backdrop_path": "/cvDsP3x6FWvEsHctyvxMmdmJJhR.jpg",
-    "backdrop_local": "imagenes_estrenos/Hold_the_Fort_backdrop_cvDsP3x6FWvEsHctyvxMmdmJJhR.jpg",
-    "fecha_estreno": "2025-11-29T00:00:00.000Z",
-    "duración": "84 min",
-    "director": "William Bagley",
-    "directores": [
-      {
-        "name": "William Bagley",
-        "id": 3221404
-      }
-    ],
-    "actores": [
-      {
-        "name": "Chris Mayers",
-        "id": 2010250,
-        "character": "",
-        "profile_path": "/efgM2mQHNQPdKmqYKBYc4VBNSCA.jpg"
-      },
-      {
-        "name": "Haley Leary",
-        "id": 1982801,
-        "character": "",
-        "profile_path": "/xN5WCnr7xlhCEXxcQiDTvh9RGWQ.jpg"
-      },
-      {
-        "name": "Julian Smith",
-        "id": 3455369,
-        "character": "",
-        "profile_path": "/xH6UdGZmBKhSfqQcreyWlYJ4vyx.jpg"
-      },
-      {
-        "name": "Tordy Clark",
-        "id": 3237965,
-        "character": "",
-        "profile_path": "/7kddLvM0NrqjtjbelSEKz4f8Loc.jpg"
-      },
-      {
-        "name": "Hamid-Reza Benjamin Thompson",
-        "id": 1637322,
-        "character": "",
-        "profile_path": "/rOBcfuKyRp2mA6cAAOvxz8rfLIi.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 2.5714,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/cvDsP3x6FWvEsHctyvxMmdmJJhR.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/nyG7se39VzF3dGpyrc19ymsKCUF.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/yN6OABzJRDE9NsL5MocCJuDw1Oi.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/tkaEbT1WecfNj7KqO8gCvDr34ag.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-11-25 22:02:32"
+    "última_actualización": "2025-11-30 10:03:08"
   },
   {
     "id": 793058,
@@ -823,9 +622,9 @@
         "name": "Crimen"
       }
     ],
-    "popularidad": 29.3218,
+    "popularidad": 25.8341,
     "puntuación": 10.0,
-    "votos": 1,
+    "votos": 2,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -935,7 +734,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-29 22:03:11"
+    "última_actualización": "2025-11-30 10:03:04"
   },
   {
     "id": 1259102,
@@ -1002,7 +801,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 13.4578,
+    "popularidad": 13.83,
     "puntuación": 6.5,
     "votos": 10,
     "adulto": false,
@@ -1084,7 +883,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-29 22:03:12"
+    "última_actualización": "2025-11-30 10:03:04"
   },
   {
     "id": 1124566,
@@ -1143,9 +942,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 12.9343,
-    "puntuación": 7.618,
-    "votos": 93,
+    "popularidad": 15.6455,
+    "puntuación": 7.612,
+    "votos": 94,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1255,7 +1054,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-29 22:03:12"
+    "última_actualización": "2025-11-30 10:03:04"
   },
   {
     "id": 1266798,
@@ -1326,7 +1125,7 @@
         "name": "Acción"
       }
     ],
-    "popularidad": 5.2907,
+    "popularidad": 7.9271,
     "puntuación": 6.546,
     "votos": 130,
     "adulto": false,
@@ -1408,7 +1207,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-29 22:03:14"
+    "última_actualización": "2025-11-30 10:03:06"
   },
   {
     "id": 1365683,
@@ -1475,7 +1274,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 2.7467,
+    "popularidad": 2.4163,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1517,7 +1316,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-29 22:03:15"
+    "última_actualización": "2025-11-30 10:03:07"
   },
   {
     "id": 974663,
@@ -1596,7 +1395,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 1.476,
+    "popularidad": 1.5716,
     "puntuación": 5.7,
     "votos": 27,
     "adulto": false,
@@ -1688,7 +1487,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-29 22:03:16"
+    "última_actualización": "2025-11-30 10:03:09"
   },
   {
     "id": 1544991,
@@ -1755,7 +1554,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 1.4528,
+    "popularidad": 1.5595,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1797,7 +1596,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-29 22:03:16"
+    "última_actualización": "2025-11-30 10:03:09"
   },
   {
     "id": 1530349,
@@ -1850,7 +1649,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.3482,
+    "popularidad": 0.2848,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1871,7 +1670,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-29 22:03:17"
+    "última_actualización": "2025-11-30 10:03:09"
   },
   {
     "id": 739291,
@@ -1930,7 +1729,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 3.2237,
+    "popularidad": 3.3291,
     "puntuación": 6.098,
     "votos": 107,
     "adulto": false,
@@ -2042,7 +1841,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-29 22:03:14"
+    "última_actualización": "2025-11-30 10:03:07"
   },
   {
     "id": 1181107,
@@ -2117,7 +1916,7 @@
         "name": "Aventura"
       }
     ],
-    "popularidad": 6.4735,
+    "popularidad": 6.4407,
     "puntuación": 8.5,
     "votos": 113,
     "adulto": false,
@@ -2229,7 +2028,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-29 22:03:13"
+    "última_actualización": "2025-11-30 10:03:05"
   },
   {
     "id": 801937,
@@ -2292,7 +2091,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 5.8327,
+    "popularidad": 5.5458,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2364,7 +2163,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-29 22:03:14"
+    "última_actualización": "2025-11-30 10:03:06"
   },
   {
     "id": 1257406,
@@ -2427,7 +2226,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 2.9432,
+    "popularidad": 3.0016,
     "puntuación": 5.2,
     "votos": 5,
     "adulto": false,
@@ -2488,7 +2287,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-11-29 22:03:15"
+    "última_actualización": "2025-11-30 10:03:07"
   },
   {
     "id": 1381155,
@@ -2547,7 +2346,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 2.4433,
+    "popularidad": 2.3293,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2568,7 +2367,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-11-29 22:03:15"
+    "última_actualización": "2025-11-30 10:03:08"
   },
   {
     "id": 1565758,
@@ -2627,7 +2426,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.0829,
+    "popularidad": 0.0557,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2669,7 +2468,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-29 22:03:17"
+    "última_actualización": "2025-11-30 10:03:09"
   },
   {
     "id": 83533,
@@ -2736,7 +2535,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 39.6527,
+    "popularidad": 40.5457,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2848,7 +2647,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-29 22:03:11"
+    "última_actualización": "2025-11-30 10:03:03"
   },
   {
     "id": 1288072,
@@ -2911,9 +2710,9 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 10.8333,
-    "puntuación": 4.9,
-    "votos": 17,
+    "popularidad": 10.6252,
+    "puntuación": 4.694,
+    "votos": 18,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2993,7 +2792,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-29 22:03:12"
+    "última_actualización": "2025-11-30 10:03:05"
   },
   {
     "id": 1429348,
@@ -3056,7 +2855,7 @@
         "name": "Crimen"
       }
     ],
-    "popularidad": 8.5877,
+    "popularidad": 9.1417,
     "puntuación": 7.015,
     "votos": 66,
     "adulto": false,
@@ -3128,7 +2927,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-29 22:03:12"
+    "última_actualización": "2025-11-30 10:03:05"
   },
   {
     "id": 1290432,
@@ -3195,8 +2994,8 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 6.0028,
-    "puntuación": 6.115,
+    "popularidad": 6.3678,
+    "puntuación": 6.1,
     "votos": 13,
     "adulto": false,
     "video": false,
@@ -3297,7 +3096,7 @@
         }
       ]
     },
-    "última_actualización": "2025-11-29 22:03:13"
+    "última_actualización": "2025-11-30 10:03:06"
   },
   {
     "id": 1159206,
@@ -3360,7 +3159,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 4.2545,
+    "popularidad": 4.4553,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3411,7 +3210,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-11-29 22:03:14"
+    "última_actualización": "2025-11-30 10:03:07"
   },
   {
     "id": 1002158,
@@ -3474,8 +3273,8 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 8.1618,
-    "puntuación": 6.5,
+    "popularidad": 8.3833,
+    "puntuación": 6.529,
     "votos": 51,
     "adulto": false,
     "video": false,
@@ -3516,6 +3315,6 @@
         }
       ]
     },
-    "última_actualización": "2025-11-29 22:03:13"
+    "última_actualización": "2025-11-30 10:03:05"
   }
 ]
