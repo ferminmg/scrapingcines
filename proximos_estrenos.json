@@ -64,7 +64,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 2.1789,
+    "popularidad": 2.3961,
     "puntuación": 7.8,
     "votos": 144,
     "adulto": false,
@@ -146,7 +146,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-01 22:02:54"
+    "última_actualización": "2025-12-02 10:03:07"
   },
   {
     "id": 1358748,
@@ -217,7 +217,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 1.4321,
+    "popularidad": 1.2113,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -269,7 +269,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-01 22:02:54"
+    "última_actualización": "2025-12-02 10:03:08"
   },
   {
     "id": 1378022,
@@ -471,9 +471,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 34.2982,
-    "puntuación": 0.0,
-    "votos": 0,
+    "popularidad": 41.2916,
+    "puntuación": 8.75,
+    "votos": 4,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -583,7 +583,156 @@
         }
       ]
     },
-    "última_actualización": "2025-12-01 22:02:51"
+    "última_actualización": "2025-12-02 10:03:05"
+  },
+  {
+    "id": 1259102,
+    "tmdb_id": 1259102,
+    "título": "Eternity",
+    "título_original": "Eternity",
+    "sinopsis": "",
+    "poster_path": "/q38znScH1sLl2sRtGqqEN2cywk8.jpg",
+    "poster_local": "imagenes_estrenos/Eternity_iKaM4OfSf5ABkFZCo4vU4Dth7ZU.jpg",
+    "backdrop_path": "/oN9YR2ND8UPmP1y4nN5StJOD1RG.jpg",
+    "backdrop_local": "imagenes_estrenos/Eternity_backdrop_tQscGgR0PKIteMoMMwL8ISfRUCH.jpg",
+    "fecha_estreno": "2025-12-05T00:00:00.000Z",
+    "duración": "114 min",
+    "director": "David Freyne",
+    "directores": [
+      {
+        "name": "David Freyne",
+        "id": 1864582
+      }
+    ],
+    "actores": [
+      {
+        "name": "Elizabeth Olsen",
+        "id": 550843,
+        "character": "Joan",
+        "profile_path": "/wIU675y4dofIDVuhaNWPizJNtep.jpg"
+      },
+      {
+        "name": "Miles Teller",
+        "id": 996701,
+        "character": "Larry",
+        "profile_path": "/aciu7YM8fD0BzrrA6cJ5wDKZIA6.jpg"
+      },
+      {
+        "name": "Callum Turner",
+        "id": 1371041,
+        "character": "Luke",
+        "profile_path": "/vkZ35K9ge6rWNrGyRdRtS4ONITv.jpg"
+      },
+      {
+        "name": "Da'Vine Joy Randolph",
+        "id": 1180099,
+        "character": "Anna",
+        "profile_path": "/7RuYeGxTwFRt2q8fkT8nuEz1nIC.jpg"
+      },
+      {
+        "name": "John Early",
+        "id": 1542758,
+        "character": "Ryan",
+        "profile_path": "/byDLwLfv267cqrhIMlGrQffcSn4.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "popularidad": 19.9361,
+    "puntuación": 6.5,
+    "votos": 11,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oN9YR2ND8UPmP1y4nN5StJOD1RG.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tQscGgR0PKIteMoMMwL8ISfRUCH.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/68tsbzXeF96AjwGtrq48hn00rK4.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/k9S63rP4rta9vjtT1mP8iImIXyT.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ckUgGRi1L1Ce7T3ZaXyxbOqSY2M.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6ItU2D0Lmn9ucIPiMZLgvHrSOxk.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 2884,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/q38znScH1sLl2sRtGqqEN2cywk8.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1923
+        }
+      ]
+    },
+    "última_actualización": "2025-12-02 10:03:05"
   },
   {
     "id": 1124566,
@@ -642,7 +791,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 16.9208,
+    "popularidad": 15.905,
     "puntuación": 7.6,
     "votos": 94,
     "adulto": false,
@@ -754,156 +903,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-01 22:02:52"
-  },
-  {
-    "id": 1259102,
-    "tmdb_id": 1259102,
-    "título": "Eternity",
-    "título_original": "Eternity",
-    "sinopsis": "",
-    "poster_path": "/q38znScH1sLl2sRtGqqEN2cywk8.jpg",
-    "poster_local": "imagenes_estrenos/Eternity_iKaM4OfSf5ABkFZCo4vU4Dth7ZU.jpg",
-    "backdrop_path": "/oN9YR2ND8UPmP1y4nN5StJOD1RG.jpg",
-    "backdrop_local": "imagenes_estrenos/Eternity_backdrop_tQscGgR0PKIteMoMMwL8ISfRUCH.jpg",
-    "fecha_estreno": "2025-12-05T00:00:00.000Z",
-    "duración": "114 min",
-    "director": "David Freyne",
-    "directores": [
-      {
-        "name": "David Freyne",
-        "id": 1864582
-      }
-    ],
-    "actores": [
-      {
-        "name": "Elizabeth Olsen",
-        "id": 550843,
-        "character": "Joan",
-        "profile_path": "/wIU675y4dofIDVuhaNWPizJNtep.jpg"
-      },
-      {
-        "name": "Miles Teller",
-        "id": 996701,
-        "character": "Larry",
-        "profile_path": "/aciu7YM8fD0BzrrA6cJ5wDKZIA6.jpg"
-      },
-      {
-        "name": "Callum Turner",
-        "id": 1371041,
-        "character": "Luke",
-        "profile_path": "/vkZ35K9ge6rWNrGyRdRtS4ONITv.jpg"
-      },
-      {
-        "name": "Da'Vine Joy Randolph",
-        "id": 1180099,
-        "character": "Anna",
-        "profile_path": "/7RuYeGxTwFRt2q8fkT8nuEz1nIC.jpg"
-      },
-      {
-        "name": "John Early",
-        "id": 1542758,
-        "character": "Ryan",
-        "profile_path": "/byDLwLfv267cqrhIMlGrQffcSn4.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 10749,
-        "name": "Romance"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 14,
-        "name": "Fantasía"
-      }
-    ],
-    "popularidad": 15.8859,
-    "puntuación": 6.55,
-    "votos": 10,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/oN9YR2ND8UPmP1y4nN5StJOD1RG.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/tQscGgR0PKIteMoMMwL8ISfRUCH.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/68tsbzXeF96AjwGtrq48hn00rK4.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/k9S63rP4rta9vjtT1mP8iImIXyT.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ckUgGRi1L1Ce7T3ZaXyxbOqSY2M.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6ItU2D0Lmn9ucIPiMZLgvHrSOxk.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 2884,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/q38znScH1sLl2sRtGqqEN2cywk8.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1923
-        }
-      ]
-    },
-    "última_actualización": "2025-12-01 22:02:52"
+    "última_actualización": "2025-12-02 10:03:06"
   },
   {
     "id": 1266798,
@@ -974,9 +974,9 @@
         "name": "Acción"
       }
     ],
-    "popularidad": 7.7474,
-    "puntuación": 6.53,
-    "votos": 132,
+    "popularidad": 7.8975,
+    "puntuación": 6.526,
+    "votos": 133,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1056,7 +1056,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-01 22:02:52"
+    "última_actualización": "2025-12-02 10:03:06"
   },
   {
     "id": 1365683,
@@ -1123,7 +1123,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 3.6316,
+    "popularidad": 3.3635,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1165,7 +1165,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-01 22:02:53"
+    "última_actualización": "2025-12-02 10:03:07"
   },
   {
     "id": 1544991,
@@ -1232,7 +1232,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 1.4367,
+    "popularidad": 1.589,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1274,7 +1274,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-01 22:02:54"
+    "última_actualización": "2025-12-02 10:03:08"
   },
   {
     "id": 974663,
@@ -1353,7 +1353,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 1.2881,
+    "popularidad": 1.5113,
     "puntuación": 5.7,
     "votos": 27,
     "adulto": false,
@@ -1445,7 +1445,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-01 22:02:54"
+    "última_actualización": "2025-12-02 10:03:08"
   },
   {
     "id": 1530349,
@@ -1498,7 +1498,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.2379,
+    "popularidad": 0.1808,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1519,7 +1519,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-01 22:02:54"
+    "última_actualización": "2025-12-02 10:03:08"
   },
   {
     "id": 739291,
@@ -1578,7 +1578,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 3.488,
+    "popularidad": 2.7202,
     "puntuación": 6.098,
     "votos": 107,
     "adulto": false,
@@ -1690,7 +1690,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-01 22:02:53"
+    "última_actualización": "2025-12-02 10:03:07"
   },
   {
     "id": 1181107,
@@ -1765,7 +1765,7 @@
         "name": "Aventura"
       }
     ],
-    "popularidad": 6.6226,
+    "popularidad": 6.7196,
     "puntuación": 8.5,
     "votos": 113,
     "adulto": false,
@@ -1877,7 +1877,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-01 22:02:52"
+    "última_actualización": "2025-12-02 10:03:06"
   },
   {
     "id": 801937,
@@ -1940,7 +1940,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 5.6948,
+    "popularidad": 6.4916,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2009,20 +2009,10 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 1139
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 2048,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/moOhvbShZXgwRdMY9WMYUscdXDl.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1365
         }
       ]
     },
-    "última_actualización": "2025-12-01 22:02:53"
+    "última_actualización": "2025-12-02 10:03:06"
   },
   {
     "id": 1381155,
@@ -2081,7 +2071,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 3.0317,
+    "popularidad": 3.6715,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2102,7 +2092,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-12-01 22:02:53"
+    "última_actualización": "2025-12-02 10:03:07"
   },
   {
     "id": 1257406,
@@ -2165,7 +2155,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 3.0182,
+    "popularidad": 2.8726,
     "puntuación": 5.2,
     "votos": 5,
     "adulto": false,
@@ -2226,7 +2216,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-12-01 22:02:53"
+    "última_actualización": "2025-12-02 10:03:07"
   },
   {
     "id": 1565758,
@@ -2285,7 +2275,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.0614,
+    "popularidad": 0.0998,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2327,7 +2317,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-01 22:02:54"
+    "última_actualización": "2025-12-02 10:03:08"
   },
   {
     "id": 83533,
@@ -2394,7 +2384,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 46.2218,
+    "popularidad": 50.5412,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2506,7 +2496,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-01 22:02:51"
+    "última_actualización": "2025-12-02 10:03:05"
   },
   {
     "id": 1288072,
@@ -2569,7 +2559,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 9.7257,
+    "popularidad": 9.0871,
     "puntuación": 4.7,
     "votos": 18,
     "adulto": false,
@@ -2651,7 +2641,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-01 22:02:52"
+    "última_actualización": "2025-12-02 10:03:06"
   },
   {
     "id": 1429348,
@@ -2714,7 +2704,7 @@
         "name": "Crimen"
       }
     ],
-    "popularidad": 9.1862,
+    "popularidad": 8.8772,
     "puntuación": 7.015,
     "votos": 66,
     "adulto": false,
@@ -2786,7 +2776,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-01 22:02:52"
+    "última_actualización": "2025-12-02 10:03:06"
   },
   {
     "id": 1290432,
@@ -2794,7 +2784,7 @@
     "título": "Vida privada",
     "título_original": "Vie privée",
     "sinopsis": "La reputada psiquiatra Lilian Steiner emprende una investigación privada sobre la muerte de uno de sus pacientes, del que está convencida que ha sido asesinado.",
-    "poster_path": "/o2lw92Xw33oOEVQFq8sRnGmB5DL.jpg",
+    "poster_path": "/7FGnuUdNLcdYtDjg3XP69ejXEhq.jpg",
     "poster_local": "imagenes_estrenos/Vida_privada_o2lw92Xw33oOEVQFq8sRnGmB5DL.jpg",
     "backdrop_path": "/uApLc1aWuzPW6g0J6jWdmHyewHM.jpg",
     "backdrop_local": "imagenes_estrenos/Vida_privada_backdrop_uApLc1aWuzPW6g0J6jWdmHyewHM.jpg",
@@ -2853,8 +2843,8 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 5.9957,
-    "puntuación": 6.263,
+    "popularidad": 6.1562,
+    "puntuación": 6.3,
     "votos": 19,
     "adulto": false,
     "video": false,
@@ -2952,10 +2942,20 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 1997
+        },
+        {
+          "aspect_ratio": 0.666,
+          "height": 1754,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/7FGnuUdNLcdYtDjg3XP69ejXEhq.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1169
         }
       ]
     },
-    "última_actualización": "2025-12-01 22:02:53"
+    "última_actualización": "2025-12-02 10:03:07"
   },
   {
     "id": 1159206,
@@ -3018,7 +3018,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 4.9336,
+    "popularidad": 4.6819,
     "puntuación": 10.0,
     "votos": 1,
     "adulto": false,
@@ -3069,7 +3069,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-12-01 22:02:53"
+    "última_actualización": "2025-12-02 10:03:07"
   },
   {
     "id": 1002158,
@@ -3132,7 +3132,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 11.7893,
+    "popularidad": 11.6616,
     "puntuación": 6.529,
     "votos": 51,
     "adulto": false,
@@ -3174,6 +3174,6 @@
         }
       ]
     },
-    "última_actualización": "2025-12-01 22:02:52"
+    "última_actualización": "2025-12-02 10:03:06"
   }
 ]
