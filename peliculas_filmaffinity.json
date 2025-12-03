@@ -34,6 +34,11 @@
                 "fecha": "2025-12-04",
                 "hora": "20:30",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23789"
+            },
+            {
+                "fecha": "2025-12-09",
+                "hora": "19:55",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23989"
             }
         ],
         "cine": "Yelmo Itaroa",
@@ -120,5 +125,27 @@
         "actores": "Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang, Oona Chaplin",
         "sinopsis": "Jake Sully y Neytiri enfrentan una nueva amenaza en Pandora: los Ash People, una tribu Na'vi violenta y sedienta de poder, liderada por la implacable Varang. Tras la devastadora guerra contra la RDA y la pérdida de su hijo mayor, la familia de Jake deberá luchar por su supervivencia y el futuro de Pandora en un conflicto que llevará a los personajes a sus límites emocionales y físicos. Con nuevos y antiguos aliados, esta épica visual y emocional redefine el destino de un mundo al borde del abismo.",
         "año": "2025"
+    },
+    {
+        "título": "RUNSEOKJIN_EP.TOUR THE MOVIE",
+        "cartel": "imagenes_filmaffinity/runseokjineptour-the-movie.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-27",
+                "hora": "18:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=24036"
+            },
+            {
+                "fecha": "2025-12-28",
+                "hora": "18:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=24037"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
     }
 ]
