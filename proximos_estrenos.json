@@ -1,154 +1,5 @@
 [
   {
-    "id": 8785,
-    "tmdb_id": 8785,
-    "título": "El manuscrito encontrado en Zaragoza",
-    "título_original": "Rękopis znaleziony w Saragossie",
-    "sinopsis": "Durante el asedio a Zaragoza, un general francés descubre un extraño manuscrito que, al ser leído, le transporta a una España surrealista en la que los espíritus de unos bandidos ahorcados, bajo la apariencia de hermosas huríes, se dedican a seducir y atrapar en los laberintos del tiempo a todo viajero extraviado que ose adentrarse en sus dominios.",
-    "poster_path": "/7FbveRzxtdn7zbZyjjZnT0FsxKI.jpg",
-    "poster_local": "imagenes_estrenos/El_manuscrito_encontrado_en_Zaragoza_7FbveRzxtdn7zbZyjjZnT0FsxKI.jpg",
-    "backdrop_path": "/amOWoHk6wwkwphimSqc3WIzIQ3l.jpg",
-    "backdrop_local": "imagenes_estrenos/El_manuscrito_encontrado_en_Zaragoza_backdrop_amOWoHk6wwkwphimSqc3WIzIQ3l.jpg",
-    "fecha_estreno": "1966-02-27",
-    "duración": "182 min",
-    "director": "Wojciech Jerzy Has",
-    "directores": [
-      {
-        "name": "Wojciech Jerzy Has",
-        "id": 27002
-      }
-    ],
-    "actores": [
-      {
-        "name": "Zbigniew Cybulski",
-        "id": 40914,
-        "character": "Alfonse Van Worden",
-        "profile_path": "/sJYAqyRdSd5C2DIEbu0KudSG1uv.jpg"
-      },
-      {
-        "name": "Iga Cembrzyńska",
-        "id": 55979,
-        "character": "Princess Emina",
-        "profile_path": null
-      },
-      {
-        "name": "Elżbieta Czyżewska",
-        "id": 55980,
-        "character": "Donna Frasquetta Salero",
-        "profile_path": "/z6wvWRhrHmK5Hx5sYZKrs8lKUuy.jpg"
-      },
-      {
-        "name": "Gustaw Holoubek",
-        "id": 55981,
-        "character": "Don Pedro Velasquez",
-        "profile_path": "/sKfHQS9JgwomP9CzSbfceoXyNbC.jpg"
-      },
-      {
-        "name": "Stanisław Igar",
-        "id": 7113,
-        "character": "Don Gaspar Soarez",
-        "profile_path": "/8eCJxRMnmR6hIdd5e8G90rN3pqu.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 14,
-        "name": "Fantasía"
-      },
-      {
-        "id": 9648,
-        "name": "Misterio"
-      },
-      {
-        "id": 36,
-        "name": "Historia"
-      }
-    ],
-    "popularidad": 2.3961,
-    "puntuación": 7.8,
-    "votos": 144,
-    "adulto": false,
-    "video": false,
-    "año": "1966",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/amOWoHk6wwkwphimSqc3WIzIQ3l.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/gNtmFab8wWIeWsyIMJCP56SN3zW.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ote7JAFaccuKPvg5AVYUqi9UbYI.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/h9exnQ19eg2q7FZI4rUTaRr0Hws.jpg",
-          "vote_average": 0.166,
-          "vote_count": 3,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/qDKeB5lbkKSLie2ZxohH2iUSvbi.jpg",
-          "vote_average": 0.166,
-          "vote_count": 3,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.668,
-          "height": 1500,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/7FbveRzxtdn7zbZyjjZnT0FsxKI.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1002
-        },
-        {
-          "aspect_ratio": 0.71,
-          "height": 1803,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/vT9u4afmeTpNH7iOGczrGJrEjll.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ]
-    },
-    "última_actualización": "2025-12-02 22:03:00"
-  },
-  {
     "id": 1358748,
     "tmdb_id": 1358748,
     "título": "Ministerio de Asuntos Oníricos",
@@ -217,7 +68,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 1.2113,
+    "popularidad": 0.9712,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -269,146 +120,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-02 22:03:01"
-  },
-  {
-    "id": 1378022,
-    "tmdb_id": 1378022,
-    "título": "Violetas",
-    "título_original": "Violetas",
-    "sinopsis": "En 1945 bajo la dictadura franquista, Juan conoce a Manuel tras un encuentro en el Parque del Retiro. A pesar de la desconfianza inicial nace entre ambos un amor complicado marcado por la situación política y la incomprensión de su entorno.",
-    "poster_path": "/ekbZsUlkyXtvigKfyhyzcIqQdm9.jpg",
-    "poster_local": "imagenes_estrenos/Violetas_ekbZsUlkyXtvigKfyhyzcIqQdm9.jpg",
-    "backdrop_path": "/6UtTKVAipXJ1wcXNEO1N5gkm8LY.jpg",
-    "backdrop_local": "imagenes_estrenos/Violetas_backdrop_6UtTKVAipXJ1wcXNEO1N5gkm8LY.jpg",
-    "fecha_estreno": "2025-12-02T00:00:00.000Z",
-    "duración": "17 min",
-    "director": "Borja Escribano",
-    "directores": [
-      {
-        "name": "Borja Escribano",
-        "id": 5025422
-      }
-    ],
-    "actores": [
-      {
-        "name": "Javier Pereira",
-        "id": 79289,
-        "character": "Juan",
-        "profile_path": "/edGc0hGWGc11sFOxROosilqyoVp.jpg"
-      },
-      {
-        "name": "Alfonso Bassave",
-        "id": 224515,
-        "character": "Manuel",
-        "profile_path": "/aLlBeE3TZuYn8ABAp2oRN3n4ggy.jpg"
-      },
-      {
-        "name": "María Cantuel",
-        "id": 1261472,
-        "character": "Ana",
-        "profile_path": "/f3V1GnB2eAToBKMA4ZECg89Qmsh.jpg"
-      },
-      {
-        "name": "Christian Sampedro",
-        "id": 94212,
-        "character": "Toni",
-        "profile_path": null
-      },
-      {
-        "name": "Pablo Viña",
-        "id": 1317781,
-        "character": "Curro",
-        "profile_path": "/iv3Rmg6fdNEm8TBCkB2v3REMV7m.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      },
-      {
-        "id": 36,
-        "name": "Historia"
-      }
-    ],
-    "popularidad": 1.236,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6UtTKVAipXJ1wcXNEO1N5gkm8LY.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/jw6MnT0kbLxDPRtqKV4ZuI7A5uj.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/kxU21MCrumpXJ7dh3VGFZOgBXSc.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/uXI66PTtzlS9Tr6iOQ6bCzdozNE.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/A5AHSE30QwzVI78G7t27GIa1x9N.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/ekbZsUlkyXtvigKfyhyzcIqQdm9.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-11-25 22:02:33"
+    "última_actualización": "2025-12-03 10:02:57"
   },
   {
     "id": 1228246,
@@ -1578,7 +1290,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 2.7202,
+    "popularidad": 2.6366,
     "puntuación": 6.098,
     "votos": 107,
     "adulto": false,
@@ -1690,7 +1402,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-02 22:03:00"
+    "última_actualización": "2025-12-03 10:02:56"
   },
   {
     "id": 1181107,
@@ -1765,7 +1477,7 @@
         "name": "Aventura"
       }
     ],
-    "popularidad": 6.7196,
+    "popularidad": 6.3411,
     "puntuación": 8.5,
     "votos": 113,
     "adulto": false,
@@ -1877,7 +1589,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-02 22:02:59"
+    "última_actualización": "2025-12-03 10:02:55"
   },
   {
     "id": 801937,
@@ -1940,7 +1652,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 6.4916,
+    "popularidad": 6.1118,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1979,6 +1691,16 @@
           "width": 1500
         },
         {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/90BOthlybLMxCqA9xlh7mcARSgZ.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
           "aspect_ratio": 1.777,
           "height": 1151,
           "iso_3166_1": null,
@@ -1987,16 +1709,6 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 2045
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 960,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/eFT6qRpqj8dzJISHh5vCoXuOiZc.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1707
         }
       ],
       "posters": [
@@ -2012,7 +1724,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-02 22:02:59"
+    "última_actualización": "2025-12-03 10:02:55"
   },
   {
     "id": 1381155,
@@ -2071,7 +1783,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 3.6715,
+    "popularidad": 3.3113,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2092,7 +1804,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-12-02 22:02:59"
+    "última_actualización": "2025-12-03 10:02:56"
   },
   {
     "id": 1257406,
@@ -2155,7 +1867,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 2.8726,
+    "popularidad": 3.282,
     "puntuación": 5.2,
     "votos": 5,
     "adulto": false,
@@ -2216,7 +1928,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-12-02 22:03:00"
+    "última_actualización": "2025-12-03 10:02:56"
   },
   {
     "id": 1565758,
@@ -2317,7 +2029,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-02 22:03:01"
+    "última_actualización": "2025-12-03 10:02:58"
   },
   {
     "id": 83533,
@@ -2384,7 +2096,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 50.5412,
+    "popularidad": 59.2704,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2398,8 +2110,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
-          "vote_average": 10.0,
-          "vote_count": 5,
+          "vote_average": 8.362,
+          "vote_count": 6,
           "width": 3840
         },
         {
@@ -2408,8 +2120,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/pN3eaCl3sqwrerU8UNdp40F2mK0.jpg",
-          "vote_average": 4.154,
-          "vote_count": 13,
+          "vote_average": 4.572,
+          "vote_count": 14,
           "width": 3840
         },
         {
@@ -2496,7 +2208,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-02 22:02:58"
+    "última_actualización": "2025-12-03 10:02:53"
   },
   {
     "id": 1288072,
@@ -2559,7 +2271,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 9.0871,
+    "popularidad": 8.8733,
     "puntuación": 4.7,
     "votos": 18,
     "adulto": false,
@@ -2641,7 +2353,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-02 22:02:58"
+    "última_actualización": "2025-12-03 10:02:55"
   },
   {
     "id": 1429348,
@@ -2704,7 +2416,7 @@
         "name": "Crimen"
       }
     ],
-    "popularidad": 8.8772,
+    "popularidad": 8.5582,
     "puntuación": 7.0,
     "votos": 66,
     "adulto": false,
@@ -2776,7 +2488,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-02 22:02:59"
+    "última_actualización": "2025-12-03 10:02:55"
   },
   {
     "id": 1290432,
@@ -2843,7 +2555,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 6.1562,
+    "popularidad": 6.2063,
     "puntuación": 6.3,
     "votos": 19,
     "adulto": false,
@@ -2955,7 +2667,167 @@
         }
       ]
     },
-    "última_actualización": "2025-12-02 22:02:59"
+    "última_actualización": "2025-12-03 10:02:55"
+  },
+  {
+    "id": 1591867,
+    "tmdb_id": 1591867,
+    "título": "EL SOPORISTA",
+    "título_original": "EL SOPORISTA",
+    "sinopsis": "Una fábula urbana sobre la confianza, la rutina y el poder hipnótico del desencanto.",
+    "poster_path": "/8aGtpVYAnSO39e0Lx5xGII64GAH.jpg",
+    "poster_local": "imagenes_estrenos/EL_SOPORISTA_8aGtpVYAnSO39e0Lx5xGII64GAH.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-12-20",
+    "duración": "0 min",
+    "director": "Hugo Romero",
+    "directores": [
+      {
+        "name": "Hugo Romero",
+        "id": 5163112
+      }
+    ],
+    "actores": [],
+    "géneros": [],
+    "popularidad": 0.0071,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/8aGtpVYAnSO39e0Lx5xGII64GAH.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-12-03 10:02:58"
+  },
+  {
+    "id": 1591863,
+    "tmdb_id": 1591863,
+    "título": "Making Of \"EL SOPORISTA\"",
+    "título_original": "Making Of \"EL SOPORISTA\"",
+    "sinopsis": "En este Making Of abrimos las puertas al proceso creativo detrás de nuestro último cortometraje.",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-12-20",
+    "duración": "14 min",
+    "director": "",
+    "directores": [],
+    "actores": [
+      {
+        "name": "Hugo Romero",
+        "id": 5163112,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Paula Toribio",
+        "id": 5163129,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Carla Cuevas",
+        "id": 5852926,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Raquel Fernández",
+        "id": 5852928,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Adolfo Gómez Carbonell",
+        "id": 3824208,
+        "character": "Self",
+        "profile_path": "/o8nmKib7iKqz3fCSaHniOa1eUxo.jpg"
+      }
+    ],
+    "géneros": [],
+    "popularidad": 0.0071,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2025-12-03 10:02:58"
+  },
+  {
+    "id": 1591856,
+    "tmdb_id": 1591856,
+    "título": "TAZA ROTA",
+    "título_original": "TAZA ROTA",
+    "sinopsis": "Aunque unas los pedazos rotos de la taza si te fijas bien siempre estarán las grietas.",
+    "poster_path": "/fl83sRJtdvvbl3N2mVhXzPZhGPw.jpg",
+    "poster_local": "imagenes_estrenos/TAZA_ROTA_fl83sRJtdvvbl3N2mVhXzPZhGPw.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-12-20",
+    "duración": "0 min",
+    "director": "Hugo Romero",
+    "directores": [
+      {
+        "name": "Hugo Romero",
+        "id": 5163112
+      }
+    ],
+    "actores": [
+      {
+        "name": "Alba Benito",
+        "id": 5852897,
+        "character": "Ella",
+        "profile_path": null
+      },
+      {
+        "name": "Sergio Romero",
+        "id": 5852898,
+        "character": "Él",
+        "profile_path": null
+      }
+    ],
+    "géneros": [],
+    "popularidad": 0.0071,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/fl83sRJtdvvbl3N2mVhXzPZhGPw.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-12-03 10:02:59"
   },
   {
     "id": 1159206,
@@ -3018,7 +2890,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 4.6819,
+    "popularidad": 4.7731,
     "puntuación": 10.0,
     "votos": 1,
     "adulto": false,
@@ -3069,7 +2941,752 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-12-02 22:02:59"
+    "última_actualización": "2025-12-03 10:02:56"
+  },
+  {
+    "id": 1234731,
+    "tmdb_id": 1234731,
+    "título": "Anaconda",
+    "título_original": "Anaconda",
+    "sinopsis": "Doug y Griff son muy buenos amigos desde que eran niños y siempre han soñado con hacer un remake de su película favorita de todos los tiempos: el «clásico cinematográfico» Anaconda. Cuando una crisis de mediana edad les anima a lanzarse por fin a la aventura, se adentran en la selva amazónica para empezar a rodar. Pero las cosas se ponen serias cuando aparece una anaconda gigante de verdad, convirtiendo su caótico y cómico plató de rodaje en una situación mortal.",
+    "poster_path": "/hENLu86h3zljg0x8bdy8cOUxZF5.jpg",
+    "poster_local": "imagenes_estrenos/Anaconda_hENLu86h3zljg0x8bdy8cOUxZF5.jpg",
+    "backdrop_path": "/p9jcRxJ6eG61UcGwPWcVkj8zryi.jpg",
+    "backdrop_local": "imagenes_estrenos/Anaconda_backdrop_p9jcRxJ6eG61UcGwPWcVkj8zryi.jpg",
+    "fecha_estreno": "2025-12-25T00:00:00.000Z",
+    "duración": "99 min",
+    "director": "Tom Gormican",
+    "directores": [
+      {
+        "name": "Tom Gormican",
+        "id": 1211000
+      }
+    ],
+    "actores": [
+      {
+        "name": "Paul Rudd",
+        "id": 22226,
+        "character": "Ronald Griffen 'Griff' Jr.",
+        "profile_path": "/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+      },
+      {
+        "name": "Jack Black",
+        "id": 70851,
+        "character": "Doug McCallister",
+        "profile_path": "/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+      },
+      {
+        "name": "Daniela Melchior",
+        "id": 1784612,
+        "character": "Ana Almeida",
+        "profile_path": "/zLqPkfenHtuHSrXmEVmQ8Piqjdp.jpg"
+      },
+      {
+        "name": "Thandiwe Newton",
+        "id": 9030,
+        "character": "Claire Simons",
+        "profile_path": "/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg"
+      },
+      {
+        "name": "Steve Zahn",
+        "id": 18324,
+        "character": "Kenny Trent",
+        "profile_path": "/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 10.8204,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/p9jcRxJ6eG61UcGwPWcVkj8zryi.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/93yXJVBBC04mhgv5FlZRT8Zyofp.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 864,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wz1cfniblYgCpekIOape1ikbmEj.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1536
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1728,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/iNfnJgwhrotf6j1LpaXcSiSlNGm.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3072
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1125,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/9KWkXMUnR1kNgBwnwpqUtnsWUgw.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ihFST6JhPKgnpJJozemH8Bvxi2M.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/pyB8lk6eBWp02Ts05NK1LoktN4b.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-12-03 10:02:54"
+  },
+  {
+    "id": 991494,
+    "tmdb_id": 991494,
+    "título": "Bob Esponja: Una aventura pirata",
+    "título_original": "The SpongeBob Movie: Search for SquarePants",
+    "sinopsis": "",
+    "poster_path": "/cuXscQfRr1KLknkqNVObkAA7HyE.jpg",
+    "poster_local": "imagenes_estrenos/Bob_Esponja__Una_aventura_pirata_cuXscQfRr1KLknkqNVObkAA7HyE.jpg",
+    "backdrop_path": "/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
+    "backdrop_local": "imagenes_estrenos/Bob_Esponja__Una_aventura_pirata_backdrop_kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
+    "fecha_estreno": "2025-12-25T00:00:00.000Z",
+    "duración": "88 min",
+    "director": "Derek Drymon",
+    "directores": [
+      {
+        "name": "Derek Drymon",
+        "id": 70652
+      }
+    ],
+    "actores": [
+      {
+        "name": "Tom Kenny",
+        "id": 78798,
+        "character": "SpongeBob Squarepants (voice)",
+        "profile_path": "/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg"
+      },
+      {
+        "name": "Clancy Brown",
+        "id": 6574,
+        "character": "Mr. Krabs (voice)",
+        "profile_path": "/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+      },
+      {
+        "name": "Rodger Bumpass",
+        "id": 70615,
+        "character": "Squidward (voice)",
+        "profile_path": "/lGQkw6adxqB6Hcm7VK8nVHbKupe.jpg"
+      },
+      {
+        "name": "Bill Fagerbakke",
+        "id": 34398,
+        "character": "Patrick Star (voice)",
+        "profile_path": "/zntKKc1uT53BnIihmzbq601eWKZ.jpg"
+      },
+      {
+        "name": "Carolyn Lawrence",
+        "id": 78799,
+        "character": "Sandy Cheeks (voice)",
+        "profile_path": "/vHycxQTs8EuyFdFJNww15xXB5lT.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "popularidad": 11.6469,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1135,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
+          "vote_average": 2.542,
+          "vote_count": 4,
+          "width": 2018
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jzMhC6NB4KHqfSAgbW2BFslLuSh.jpg",
+          "vote_average": 2.066,
+          "vote_count": 5,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zOFaPrU8iuVvmsTXjGfXkeitVAM.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1035,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/56hKUF0F4DmCcN9kRGmq7F3lw01.jpg",
+          "vote_average": 1.75,
+          "vote_count": 4,
+          "width": 1839
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xFwsArspdwZcns7dTa0ys4ZLOtd.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/lBEMke3FEBkmYjKoTwULGJTUqG5.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/qEneRUl8aMvHncpCCPbHsZczdjp.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/hE80Xo39QoBEYu7xJg05gSUaMXB.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/nlCu7l6R36k19w2HgwFyXEciO2B.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ddNIdbAuCIInY7asMF6Yjfhf9RR.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-12-03 10:02:55"
+  },
+  {
+    "id": 1219548,
+    "tmdb_id": 1219548,
+    "título": "El médico 2",
+    "título_original": "Der Medicus II",
+    "sinopsis": "",
+    "poster_path": "/2QUEFxTno1ztSOHyKJDfGuG5Rsl.jpg",
+    "poster_local": "imagenes_estrenos/El_m_dico_2_2QUEFxTno1ztSOHyKJDfGuG5Rsl.jpg",
+    "backdrop_path": "/pMBNGBR3ztRhDqRuzBJXkJM62p.jpg",
+    "backdrop_local": "imagenes_estrenos/El_m_dico_2_backdrop_pMBNGBR3ztRhDqRuzBJXkJM62p.jpg",
+    "fecha_estreno": "2025-12-25T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Philipp Stölzl",
+    "directores": [
+      {
+        "name": "Philipp Stölzl",
+        "id": 113500
+      }
+    ],
+    "actores": [
+      {
+        "name": "Tom Payne",
+        "id": 30319,
+        "character": "Rob Cole",
+        "profile_path": "/dvQk9ewR7EuUEVuYANg3AmYsGo2.jpg"
+      },
+      {
+        "name": "Emily Cox",
+        "id": 144344,
+        "character": "Mercia",
+        "profile_path": "/vuCvqZKsfoAJSBwThbfGGbPROgv.jpg"
+      },
+      {
+        "name": "Aidan Gillen",
+        "id": 49735,
+        "character": "Hunne",
+        "profile_path": "/fWWRgyJEGjOPcx43CaFiUCWMBLo.jpg"
+      },
+      {
+        "name": "Áine Rose Daly",
+        "id": 2478742,
+        "character": "Ilene",
+        "profile_path": "/6tQwHbPWFsF0EdefBCKjbMxdXaa.jpg"
+      },
+      {
+        "name": "Owen Teale",
+        "id": 58654,
+        "character": "Godwin",
+        "profile_path": "/fEr21q41i2e92wqKdoxeFdbDZva.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 2.8322,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.779,
+          "height": 1686,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/pMBNGBR3ztRhDqRuzBJXkJM62p.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3000
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2025-12-03 10:02:56"
+  },
+  {
+    "id": 1265936,
+    "tmdb_id": 1265936,
+    "título": "Ariel",
+    "título_original": "Ariel",
+    "sinopsis": "Una actriz viaja a las Azores para participar en la gira teatral de La Tempestad y, a su llegada, no encuentra a nadie de la compañía; ni siquiera hay teatro. Tras conocer a Ariel, la actriz descubre que la obra ya ha comenzado, que toda la isla es un teatro y que sus habitantes son personajes.",
+    "poster_path": "/b8hDMFypKi9GyCSDQw7ZuCsOLP9.jpg",
+    "poster_local": "imagenes_estrenos/Ariel_b8hDMFypKi9GyCSDQw7ZuCsOLP9.jpg",
+    "backdrop_path": "/9aQZ54mOXKE9Q1Ofpr3UQmQN1Os.jpg",
+    "backdrop_local": "imagenes_estrenos/Ariel_backdrop_9aQZ54mOXKE9Q1Ofpr3UQmQN1Os.jpg",
+    "fecha_estreno": "2025-12-25T00:00:00.000Z",
+    "duración": "108 min",
+    "director": "Lois Patiño",
+    "directores": [
+      {
+        "name": "Lois Patiño",
+        "id": 1221292
+      }
+    ],
+    "actores": [
+      {
+        "name": "Agustina Muñoz",
+        "id": 1107941,
+        "character": "Agus",
+        "profile_path": "/hFQm8n0DOKwvzxdqivUrvfoj8oq.jpg"
+      },
+      {
+        "name": "Irene Escolar",
+        "id": 962249,
+        "character": "Ariel",
+        "profile_path": "/3u8ggZpKSQyIs56TAJoh3sSpkwU.jpg"
+      },
+      {
+        "name": "José Díaz",
+        "id": 5439184,
+        "character": "Trinculo",
+        "profile_path": null
+      },
+      {
+        "name": "Hugo Torres",
+        "id": 5439197,
+        "character": "Stephano",
+        "profile_path": null
+      },
+      {
+        "name": "Marta Pazos",
+        "id": 4369336,
+        "character": "Voadora",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "popularidad": 1.4249,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/9aQZ54mOXKE9Q1Ofpr3UQmQN1Os.jpg",
+          "vote_average": 10.0,
+          "vote_count": 4,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xYs0dSrI9mnPprNsYlCsfLOALSR.jpg",
+          "vote_average": 3.334,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 729,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mXgu2KRy7zjobabojs34d2RJLqd.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 1296
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 729,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/nTnqOxcX1SDVo6ujNMJh08wO5Ag.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 1296
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 729,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/sXpZWgja29bhAO7rVL5X6RQKgfe.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 1296
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1062,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zxOrZ43j6eiGtAz1PeuS3ziHSnv.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 708
+        }
+      ]
+    },
+    "última_actualización": "2025-12-03 10:02:57"
+  },
+  {
+    "id": 1588839,
+    "tmdb_id": 1588839,
+    "título": "Vuelve corazón franjiverde",
+    "título_original": "Vuelve corazón franjiverde",
+    "sinopsis": "",
+    "poster_path": "/A5afj8YYHoCkUlN41PCiHBufyUT.jpg",
+    "poster_local": "imagenes_estrenos/Vuelve_coraz_n_franjiverde_A5afj8YYHoCkUlN41PCiHBufyUT.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2025-12-25T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Toni Bestard",
+    "directores": [
+      {
+        "name": "Toni Bestard",
+        "id": 936999
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0869,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.666,
+          "height": 800,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/A5afj8YYHoCkUlN41PCiHBufyUT.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 533
+        }
+      ]
+    },
+    "última_actualización": "2025-12-03 10:02:58"
+  },
+  {
+    "id": 1134463,
+    "tmdb_id": 1134463,
+    "título": "Dreams",
+    "título_original": "Dreams",
+    "sinopsis": "",
+    "poster_path": "/7u9MKsi7p7PPhb2IlhPMpIvop41.jpg",
+    "poster_local": "imagenes_estrenos/Dreams_7u9MKsi7p7PPhb2IlhPMpIvop41.jpg",
+    "backdrop_path": "/7DpleF0PRfVLEm23AWkpanwpYnO.jpg",
+    "backdrop_local": "imagenes_estrenos/Dreams_backdrop_7DpleF0PRfVLEm23AWkpanwpYnO.jpg",
+    "fecha_estreno": "2025-12-26T00:00:00.000Z",
+    "duración": "95 min",
+    "director": "Michel Franco",
+    "directores": [
+      {
+        "name": "Michel Franco",
+        "id": 1082434
+      }
+    ],
+    "actores": [
+      {
+        "name": "Jessica Chastain",
+        "id": 83002,
+        "character": "Jennifer McCarthy",
+        "profile_path": "/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg"
+      },
+      {
+        "name": "Isaac Hernández",
+        "id": 2630093,
+        "character": "Fernando",
+        "profile_path": "/aJX3oGAmCNCXfgmXcs734H3GloJ.jpg"
+      },
+      {
+        "name": "Rupert Friend",
+        "id": 36669,
+        "character": "Jake McCarthy",
+        "profile_path": "/a3HeMHmlXnoRlHLX9h31ZdZgCXM.jpg"
+      },
+      {
+        "name": "Marshall Bell",
+        "id": 3041,
+        "character": "Michael McCarthy",
+        "profile_path": "/3AdZRUFlmV9KvArzqSVEVZVl0Sa.jpg"
+      },
+      {
+        "name": "Eligio Meléndez",
+        "id": 985456,
+        "character": "Fernando's Father",
+        "profile_path": "/9fxr0eAMl2DXVv8as4juIGXkD08.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "popularidad": 6.6196,
+    "puntuación": 5.2,
+    "votos": 6,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1470,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7DpleF0PRfVLEm23AWkpanwpYnO.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2613
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1073,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wgfPqhU17LKderGvlxgwgluEANq.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1908
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1073,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/l3AVrqufRtm5aonH3GyOU8j2pIi.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1908
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1073,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7uxEovxxn7w0peJt2oR64ZecNQf.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1908
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1073,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/t2orm8W7lrerxJQduzKy1pNffgu.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1908
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/npO1ULL0E7yAll5pizvlGsrsxbA.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.7,
+          "height": 1714,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tmjdtT21LzQBRXcszHOQPkEbG1n.jpg",
+          "vote_average": 0.166,
+          "vote_count": 2,
+          "width": 1200
+        }
+      ]
+    },
+    "última_actualización": "2025-12-03 10:02:56"
   },
   {
     "id": 1002158,
@@ -3132,7 +3749,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 11.6616,
+    "popularidad": 11.1708,
     "puntuación": 6.529,
     "votos": 51,
     "adulto": false,
@@ -3174,6 +3791,6 @@
         }
       ]
     },
-    "última_actualización": "2025-12-02 22:02:58"
+    "última_actualización": "2025-12-03 10:02:53"
   }
 ]
