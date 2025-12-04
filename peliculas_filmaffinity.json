@@ -1,27 +1,5 @@
 [
     {
-        "título": "Wicked: Parte II",
-        "cartel": "imagenes_filmaffinity/tmdb_wicked-parte-ii.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-12-04",
-                "hora": "20:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23789"
-            },
-            {
-                "fecha": "2025-12-09",
-                "hora": "19:55",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23989"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Jon M. Chu",
-        "duración": "137 min",
-        "actores": "Ariana Grande, Cynthia Erivo, Jonathan Bailey, Jeff Goldblum, Michelle Yeoh",
-        "sinopsis": "Mientras la multitud alza su clamor contra la Bruja Malvada, Glinda y Elphaba deberán unirse una vez más. Con su singular amistad convertida en el punto de inflexión de su futuro, tendrán que mirarse a los ojos con honestidad y compasión para afrontar su transformación personal y cambiar el destino de todo Oz.",
-        "año": "2025"
-    },
-    {
         "título": "André Rieu's 2025 Christmas Concert",
         "cartel": "imagenes_filmaffinity/tmdb_andre-rieus-2025-christmas-concert.jpg",
         "horarios": [
@@ -75,6 +53,23 @@
         "duración": "104 min",
         "actores": "Josh Hutcherson, Elizabeth Lail, Piper Rubio, Matthew Lillard, Theodus Crane",
         "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Wicked: Parte II",
+        "cartel": "imagenes_filmaffinity/tmdb_wicked-parte-ii.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-09",
+                "hora": "19:55",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23989"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Jon M. Chu",
+        "duración": "137 min",
+        "actores": "Ariana Grande, Cynthia Erivo, Jonathan Bailey, Jeff Goldblum, Michelle Yeoh",
+        "sinopsis": "Mientras la multitud alza su clamor contra la Bruja Malvada, Glinda y Elphaba deberán unirse una vez más. Con su singular amistad convertida en el punto de inflexión de su futuro, tendrán que mirarse a los ojos con honestidad y compasión para afrontar su transformación personal y cambiar el destino de todo Oz.",
         "año": "2025"
     },
     {
