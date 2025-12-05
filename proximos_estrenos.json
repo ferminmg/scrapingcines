@@ -68,7 +68,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 0.658,
+    "popularidad": 0.5862,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -120,7 +120,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-04 22:03:09"
+    "última_actualización": "2025-12-05 10:03:19"
   },
   {
     "id": 1228246,
@@ -1290,7 +1290,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 2.3328,
+    "popularidad": 2.2131,
     "puntuación": 6.098,
     "votos": 107,
     "adulto": false,
@@ -1402,7 +1402,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-04 22:03:08"
+    "última_actualización": "2025-12-05 10:03:18"
   },
   {
     "id": 1181107,
@@ -1477,7 +1477,7 @@
         "name": "Aventura"
       }
     ],
-    "popularidad": 6.3447,
+    "popularidad": 6.2797,
     "puntuación": 8.5,
     "votos": 114,
     "adulto": false,
@@ -1589,7 +1589,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-04 22:03:07"
+    "última_actualización": "2025-12-05 10:03:17"
   },
   {
     "id": 801937,
@@ -1652,7 +1652,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 6.0795,
+    "popularidad": 6.2428,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1724,7 +1724,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-04 22:03:07"
+    "última_actualización": "2025-12-05 10:03:17"
   },
   {
     "id": 1381155,
@@ -1783,7 +1783,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 3.6391,
+    "popularidad": 3.2398,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1804,7 +1804,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-12-04 22:03:08"
+    "última_actualización": "2025-12-05 10:03:18"
   },
   {
     "id": 1257406,
@@ -1867,7 +1867,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 2.7546,
+    "popularidad": 2.7578,
     "puntuación": 5.2,
     "votos": 5,
     "adulto": false,
@@ -1928,7 +1928,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-12-04 22:03:08"
+    "última_actualización": "2025-12-05 10:03:18"
   },
   {
     "id": 1565758,
@@ -2029,7 +2029,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-04 22:03:09"
+    "última_actualización": "2025-12-05 10:03:19"
   },
   {
     "id": 83533,
@@ -2096,7 +2096,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 61.7769,
+    "popularidad": 64.4738,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2208,7 +2208,142 @@
         }
       ]
     },
-    "última_actualización": "2025-12-04 22:03:06"
+    "última_actualización": "2025-12-05 10:03:15"
+  },
+  {
+    "id": 1429348,
+    "tmdb_id": 1429348,
+    "título": "L'Étranger",
+    "título_original": "L'Étranger",
+    "sinopsis": "",
+    "poster_path": "/1O6jXFzPO3LBThgmrJDqoUZ61Ik.jpg",
+    "poster_local": "imagenes_estrenos/L__tranger_1O6jXFzPO3LBThgmrJDqoUZ61Ik.jpg",
+    "backdrop_path": "/sGBTulujyLiPSfzTovHnNxJkubp.jpg",
+    "backdrop_local": "imagenes_estrenos/L__tranger_backdrop_sGBTulujyLiPSfzTovHnNxJkubp.jpg",
+    "fecha_estreno": "2025-12-19T00:00:00.000Z",
+    "duración": "120 min",
+    "director": "François Ozon",
+    "directores": [
+      {
+        "name": "François Ozon",
+        "id": 4387
+      }
+    ],
+    "actores": [
+      {
+        "name": "Benjamin Voisin",
+        "id": 1871464,
+        "character": "Meursault",
+        "profile_path": "/gn7NsqkZ3kAZxDnE18ZMjJzTCIQ.jpg"
+      },
+      {
+        "name": "Rebecca Marder",
+        "id": 131607,
+        "character": "Marie Cardona",
+        "profile_path": "/nVjmGILgh0CLMMmMaphCOnTZ34X.jpg"
+      },
+      {
+        "name": "Pierre Lottin",
+        "id": 544685,
+        "character": "Raymond Sintès",
+        "profile_path": "/1d0CBRIjScO7AUkQAqPcaRuC9Mg.jpg"
+      },
+      {
+        "name": "Denis Lavant",
+        "id": 27978,
+        "character": "Salamano",
+        "profile_path": "/WgGsHm3IC6ocjmjslREvKKNnX3.jpg"
+      },
+      {
+        "name": "Swann Arlaud",
+        "id": 145120,
+        "character": "Aumônnier prison",
+        "profile_path": "/4f0uzg6eIekIhCuihvqYeVlxf6B.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "popularidad": 8.3485,
+    "puntuación": 7.074,
+    "votos": 68,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/sGBTulujyLiPSfzTovHnNxJkubp.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/fwgmYSex0dMkmDr79LXHTEKus0.jpg",
+          "vote_average": 1.75,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3mykUaardjQ2jlH5NZaZ4zR54EI.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 2048
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/b1oJ5K2cVXMCC7p33YdhDYhhU0F.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/i7Ne6Jon0BWYFmViw3SM0RxL56l.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.753,
+          "height": 1713,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3JGD6vs2JkBR1DIFmYuCpGhNGXL.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1290
+        }
+      ]
+    },
+    "última_actualización": "2025-12-05 10:03:16"
   },
   {
     "id": 1288072,
@@ -2271,7 +2406,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 9.4309,
+    "popularidad": 8.6114,
     "puntuación": 4.7,
     "votos": 18,
     "adulto": false,
@@ -2353,142 +2488,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-04 22:03:06"
-  },
-  {
-    "id": 1429348,
-    "tmdb_id": 1429348,
-    "título": "L'Étranger",
-    "título_original": "L'Étranger",
-    "sinopsis": "",
-    "poster_path": "/1O6jXFzPO3LBThgmrJDqoUZ61Ik.jpg",
-    "poster_local": "imagenes_estrenos/L__tranger_1O6jXFzPO3LBThgmrJDqoUZ61Ik.jpg",
-    "backdrop_path": "/sGBTulujyLiPSfzTovHnNxJkubp.jpg",
-    "backdrop_local": "imagenes_estrenos/L__tranger_backdrop_sGBTulujyLiPSfzTovHnNxJkubp.jpg",
-    "fecha_estreno": "2025-12-19T00:00:00.000Z",
-    "duración": "120 min",
-    "director": "François Ozon",
-    "directores": [
-      {
-        "name": "François Ozon",
-        "id": 4387
-      }
-    ],
-    "actores": [
-      {
-        "name": "Benjamin Voisin",
-        "id": 1871464,
-        "character": "Meursault",
-        "profile_path": "/gn7NsqkZ3kAZxDnE18ZMjJzTCIQ.jpg"
-      },
-      {
-        "name": "Rebecca Marder",
-        "id": 131607,
-        "character": "Marie Cardona",
-        "profile_path": "/nVjmGILgh0CLMMmMaphCOnTZ34X.jpg"
-      },
-      {
-        "name": "Pierre Lottin",
-        "id": 544685,
-        "character": "Raymond Sintès",
-        "profile_path": "/1d0CBRIjScO7AUkQAqPcaRuC9Mg.jpg"
-      },
-      {
-        "name": "Denis Lavant",
-        "id": 27978,
-        "character": "Salamano",
-        "profile_path": "/WgGsHm3IC6ocjmjslREvKKNnX3.jpg"
-      },
-      {
-        "name": "Swann Arlaud",
-        "id": 145120,
-        "character": "Aumônnier prison",
-        "profile_path": "/4f0uzg6eIekIhCuihvqYeVlxf6B.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 80,
-        "name": "Crimen"
-      }
-    ],
-    "popularidad": 8.6698,
-    "puntuación": 7.074,
-    "votos": 68,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/sGBTulujyLiPSfzTovHnNxJkubp.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/fwgmYSex0dMkmDr79LXHTEKus0.jpg",
-          "vote_average": 1.75,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1152,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/3mykUaardjQ2jlH5NZaZ4zR54EI.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 2048
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/b1oJ5K2cVXMCC7p33YdhDYhhU0F.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/i7Ne6Jon0BWYFmViw3SM0RxL56l.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.753,
-          "height": 1713,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/3JGD6vs2JkBR1DIFmYuCpGhNGXL.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1290
-        }
-      ]
-    },
-    "última_actualización": "2025-12-04 22:03:07"
+    "última_actualización": "2025-12-05 10:03:16"
   },
   {
     "id": 1290432,
@@ -2555,9 +2555,9 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 6.6873,
-    "puntuación": 6.25,
-    "votos": 22,
+    "popularidad": 7.1055,
+    "puntuación": 6.38,
+    "votos": 25,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2667,7 +2667,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-04 22:03:07"
+    "última_actualización": "2025-12-05 10:03:17"
   },
   {
     "id": 1591867,
@@ -2711,7 +2711,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-04 22:03:09"
+    "última_actualización": "2025-12-05 10:03:20"
   },
   {
     "id": 1591863,
@@ -2760,7 +2760,7 @@
       }
     ],
     "géneros": [],
-    "popularidad": 0.0071,
+    "popularidad": 0.0143,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2770,7 +2770,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2025-12-04 22:03:10"
+    "última_actualización": "2025-12-05 10:03:20"
   },
   {
     "id": 1591856,
@@ -2806,7 +2806,7 @@
       }
     ],
     "géneros": [],
-    "popularidad": 0.0071,
+    "popularidad": 0.0143,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2827,7 +2827,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-04 22:03:10"
+    "última_actualización": "2025-12-05 10:03:20"
   },
   {
     "id": 1159206,
@@ -2890,7 +2890,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 4.8323,
+    "popularidad": 4.3683,
     "puntuación": 10.0,
     "votos": 1,
     "adulto": false,
@@ -2941,7 +2941,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-12-04 22:03:08"
+    "última_actualización": "2025-12-05 10:03:17"
   },
   {
     "id": 991494,
@@ -3012,7 +3012,7 @@
         "name": "Animación"
       }
     ],
-    "popularidad": 12.9029,
+    "popularidad": 12.887,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3124,7 +3124,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-04 22:03:06"
+    "última_actualización": "2025-12-05 10:03:15"
   },
   {
     "id": 1234731,
@@ -3191,7 +3191,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 11.6575,
+    "popularidad": 11.1776,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3215,8 +3215,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/93yXJVBBC04mhgv5FlZRT8Zyofp.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
+          "vote_average": 2.542,
+          "vote_count": 4,
           "width": 3840
         },
         {
@@ -3273,7 +3273,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-04 22:03:06"
+    "última_actualización": "2025-12-05 10:03:15"
   },
   {
     "id": 1219548,
@@ -3336,7 +3336,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.8533,
+    "popularidad": 3.1655,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3357,7 +3357,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-12-04 22:03:08"
+    "última_actualización": "2025-12-05 10:03:18"
   },
   {
     "id": 1265936,
@@ -3420,7 +3420,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 0.9717,
+    "popularidad": 0.8849,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3492,7 +3492,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-04 22:03:09"
+    "última_actualización": "2025-12-05 10:03:19"
   },
   {
     "id": 1588839,
@@ -3520,7 +3520,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.0869,
+    "popularidad": 0.1056,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3541,7 +3541,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-04 22:03:09"
+    "última_actualización": "2025-12-05 10:03:19"
   },
   {
     "id": 1134463,
@@ -3604,7 +3604,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 7.0455,
+    "popularidad": 7.2104,
     "puntuación": 5.2,
     "votos": 6,
     "adulto": false,
@@ -3686,7 +3686,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-04 22:03:07"
+    "última_actualización": "2025-12-05 10:03:16"
   },
   {
     "id": 1002158,
@@ -3749,7 +3749,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 11.114,
+    "popularidad": 11.0862,
     "puntuación": 6.529,
     "votos": 51,
     "adulto": false,
@@ -3791,6 +3791,6 @@
         }
       ]
     },
-    "última_actualización": "2025-12-04 22:03:06"
+    "última_actualización": "2025-12-05 10:03:16"
   }
 ]
