@@ -459,6 +459,23 @@
         "año": null
     },
     {
+        "título": "Blue Moon",
+        "cartel": "imagenes_peliculas/tmdb_blue_moon.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-15",
+                "hora": "18:20",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88300&eventCode=103905 "
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Richard Linklater",
+        "duración": "111 min",
+        "actores": "Ethan Hawke, Margaret Qualley, Bobby Cannavale, Andrew Scott, Jonah Lees",
+        "sinopsis": "Drama biográfico que sigue a Lorenz Hart, aclamado letrista y mitad del famoso dúo de compositores Rodgers & Hart, durante la noche de estreno de \"Oklahoma!\" el 31 de marzo de 1943. En medio del éxito del nuevo musical escrito sin su colaboración, Hart lucha contra el alcoholismo, la depresión y la pérdida de su asociación creativa con Richard Rodgers. La película transcurre principalmente en el bar del restaurante Sardi's en Nueva York, donde Hart, interpretado magistralmente por Ethan Hawke, conversa con un barman y otros personajes mientras revela sus inseguridades, amores no correspondidos y reflexiones sobre su legado musical. La película ofrece un retrato íntimo y melancólico de un talento brillante en declive que enfrentó sus demonios personales con humor y desesperación, culminando en una exploración de la compleja relación artística y emocional entre Hart y Rodgers. Dirigida por Richard Linklater, es un homenaje emotivo a un genio olvidado del Great American Songbook.",
+        "año": "2025"
+    },
+    {
         "título": "Wicked: Parte II (Canciones en V.O.S.E.)",
         "cartel": "imagenes_peliculas/176302409812547.jpg",
         "horarios": [
@@ -470,7 +487,7 @@
             {
                 "fecha": "2025-12-06",
                 "hora": "16:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=217913&eventCode=100478"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2025-12-06",
