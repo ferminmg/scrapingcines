@@ -40,7 +40,7 @@
             {
                 "fecha": "2025-12-08",
                 "hora": "18:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97202&eventCode=100478"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -153,13 +153,64 @@
         "año": null
     },
     {
+        "título": "Valor sentimental",
+        "cartel": "imagenes_peliculas/tmdb_valor_sentimental.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-11",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97259&eventCode=102499"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Joachim Trier",
+        "duración": "135 min",
+        "actores": "Renate Reinsve, Stellan Skarsgård, Inga Ibsdotter Lilleaas, Elle Fanning, Andreas Stoltenberg Granerud",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Núremberg",
+        "cartel": "imagenes_peliculas/tmdb_nuremberg.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-11",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97257&eventCode=103303"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "James Vanderbilt",
+        "duración": "150 min",
+        "actores": "Russell Crowe, Rami Malek, Michael Shannon, Leo Woodall, John Slattery",
+        "sinopsis": "Tras el fin de la II Guerra Mundial, con ocasión de los cruciales juicios de Nuremberg de los Aliados contra el derrotado régimen nazi, el psiquiatra estadounidense Douglas Kelley (Malek), encargado de determinar si los prisioneros oficiales nazis son aptos para ser juzgados por sus crímenes de guerra, se ve inmerso en una compleja batalla de ingenio con Hermann Göring (Crowe), mano derecha de Hitler. Basada en el libro \"El nazi y el psiquiatra\" de Jack El-Hai.",
+        "año": "2025"
+    },
+    {
+        "título": "Wicked: Parte II (Canciones en V.O.S.E.)",
+        "cartel": "imagenes_peliculas/176302409812547.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-11",
+                "hora": "17:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97253&eventCode=100478"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
         "título": "Blue Moon",
         "cartel": "imagenes_peliculas/tmdb_blue_moon.jpg",
         "horarios": [
             {
                 "fecha": "2025-12-08",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88206&eventCode=103905 "
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -176,7 +227,7 @@
             {
                 "fecha": "2025-12-08",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88199&eventCode=104349"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -305,7 +356,7 @@
             {
                 "fecha": "2025-12-08",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=217996&eventCode=100478"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2025-12-08",
