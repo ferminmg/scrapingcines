@@ -40,7 +40,7 @@
             {
                 "fecha": "2025-12-09",
                 "hora": "17:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97215&eventCode=100478"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -159,7 +159,7 @@
             {
                 "fecha": "2025-12-09",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88264&eventCode=103905 "
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -176,7 +176,7 @@
             {
                 "fecha": "2025-12-09",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88213&eventCode=104349"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -255,6 +255,118 @@
         "año": null
     },
     {
+        "título": "El sendero azul",
+        "cartel": "imagenes_peliculas/176493523812752.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-12",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88301&eventCode=104274"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Kontinental ’25",
+        "cartel": "imagenes_peliculas/tmdb_kontinental_25.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-12",
+                "hora": "18:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88306&eventCode=104545"
+            },
+            {
+                "fecha": "2025-12-12",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88317&eventCode=104545"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Radu Jude",
+        "duración": "109 min",
+        "actores": "Eszter Tompa, Gabriel Spahiu, Adonis Tanța, Oana Mardare, Șerban Pavlu",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La voz de Hind",
+        "cartel": "imagenes_peliculas/1761566192.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-12",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88304&eventCode=104349"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "El sendero azul",
+        "cartel": "imagenes_peliculas/176493523812752.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-13",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88321&eventCode=104274"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Kontinental ’25",
+        "cartel": "imagenes_peliculas/tmdb_kontinental_25.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-13",
+                "hora": "18:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88332&eventCode=104545"
+            },
+            {
+                "fecha": "2025-12-13",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88334&eventCode=104545"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Radu Jude",
+        "duración": "109 min",
+        "actores": "Eszter Tompa, Gabriel Spahiu, Adonis Tanța, Oana Mardare, Șerban Pavlu",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La voz de Hind",
+        "cartel": "imagenes_peliculas/1761566192.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-13",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88328&eventCode=104349"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
         "título": "Wicked: Parte II (Canciones en V.O.S.E.)",
         "cartel": "imagenes_peliculas/176302409812547.jpg",
         "horarios": [
@@ -266,7 +378,7 @@
             {
                 "fecha": "2025-12-09",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218046&eventCode=100478"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2025-12-09",
@@ -326,6 +438,231 @@
                 "fecha": "2025-12-11",
                 "hora": "22:00",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218134&eventCode=100478"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Los Goonies (40 Aniversario)",
+        "cartel": "imagenes_peliculas/1765299099.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-12",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218183&eventCode=105968"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Wicked: Parte II (Canciones en V.O.S.E.)",
+        "cartel": "imagenes_peliculas/176302409812547.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-12",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218152&eventCode=100478"
+            },
+            {
+                "fecha": "2025-12-12",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218153&eventCode=100478"
+            },
+            {
+                "fecha": "2025-12-12",
+                "hora": "22:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218154&eventCode=100478"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Los Goonies (40 Aniversario)",
+        "cartel": "imagenes_peliculas/1765299099.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-13",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218219&eventCode=105968"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Wicked: Parte II (Canciones en V.O.S.E.)",
+        "cartel": "imagenes_peliculas/176302409812547.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-13",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218185&eventCode=100478"
+            },
+            {
+                "fecha": "2025-12-13",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218186&eventCode=100478"
+            },
+            {
+                "fecha": "2025-12-13",
+                "hora": "22:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218188&eventCode=100478"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Los Goonies (40 Aniversario)",
+        "cartel": "imagenes_peliculas/1765299099.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-14",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218255&eventCode=105968"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Wicked: Parte II (Canciones en V.O.S.E.)",
+        "cartel": "imagenes_peliculas/176302409812547.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-14",
+                "hora": "11:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218257&eventCode=100478"
+            },
+            {
+                "fecha": "2025-12-14",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218221&eventCode=100478"
+            },
+            {
+                "fecha": "2025-12-14",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218222&eventCode=100478"
+            },
+            {
+                "fecha": "2025-12-14",
+                "hora": "22:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218224&eventCode=100478"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Wicked: Parte II (Canciones en V.O.S.E.)",
+        "cartel": "imagenes_peliculas/176302409812547.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-15",
+                "hora": "17:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218268&eventCode=100478"
+            },
+            {
+                "fecha": "2025-12-15",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218269&eventCode=100478"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Wicked: Parte II (Canciones en V.O.S.E.)",
+        "cartel": "imagenes_peliculas/176302409812547.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-16",
+                "hora": "17:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218300&eventCode=100478"
+            },
+            {
+                "fecha": "2025-12-16",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218301&eventCode=100478"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Wicked: Parte II (Canciones en V.O.S.E.)",
+        "cartel": "imagenes_peliculas/176302409812547.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-17",
+                "hora": "17:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218331&eventCode=100478"
+            },
+            {
+                "fecha": "2025-12-17",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218332&eventCode=100478"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Wicked: Parte II (Canciones en V.O.S.E.)",
+        "cartel": "imagenes_peliculas/176302409812547.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-18",
+                "hora": "17:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218362&eventCode=100478"
+            },
+            {
+                "fecha": "2025-12-18",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218363&eventCode=100478"
             }
         ],
         "cine": "Golem La Morea",
