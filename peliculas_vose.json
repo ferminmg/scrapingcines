@@ -40,7 +40,7 @@
             {
                 "fecha": "2025-12-10",
                 "hora": "17:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97238&eventCode=100478"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -143,6 +143,57 @@
                 "fecha": "2025-12-12",
                 "hora": "18:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97369&eventCode=100478"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Valor sentimental",
+        "cartel": "imagenes_peliculas/tmdb_valor_sentimental.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-13",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97387&eventCode=102499"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Joachim Trier",
+        "duración": "135 min",
+        "actores": "Renate Reinsve, Stellan Skarsgård, Inga Ibsdotter Lilleaas, Elle Fanning, Andreas Stoltenberg Granerud",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Núremberg",
+        "cartel": "imagenes_peliculas/tmdb_nuremberg.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-13",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97380&eventCode=103303"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "James Vanderbilt",
+        "duración": "150 min",
+        "actores": "Russell Crowe, Rami Malek, Michael Shannon, Leo Woodall, John Slattery",
+        "sinopsis": "Tras el fin de la II Guerra Mundial, con ocasión de los cruciales juicios de Nuremberg de los Aliados contra el derrotado régimen nazi, el psiquiatra estadounidense Douglas Kelley (Malek), encargado de determinar si los prisioneros oficiales nazis son aptos para ser juzgados por sus crímenes de guerra, se ve inmerso en una compleja batalla de ingenio con Hermann Göring (Crowe), mano derecha de Hitler. Basada en el libro \"El nazi y el psiquiatra\" de Jack El-Hai.",
+        "año": "2025"
+    },
+    {
+        "título": "Wicked: Parte II (Canciones en V.O.S.E.)",
+        "cartel": "imagenes_peliculas/176302409812547.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-13",
+                "hora": "17:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97395&eventCode=100478"
             }
         ],
         "cine": "Golem Baiona",
@@ -414,7 +465,7 @@
             {
                 "fecha": "2025-12-10",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88274&eventCode=103905 "
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -431,7 +482,7 @@
             {
                 "fecha": "2025-12-10",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88282&eventCode=104349"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -566,6 +617,23 @@
         "año": null
     },
     {
+        "título": "F.A.N. 2025: Porco Rosso",
+        "cartel": "imagenes_peliculas/1752573098.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-13",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88342&eventCode=100153"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
         "título": "El sendero azul",
         "cartel": "imagenes_peliculas/176493523812752.jpg",
         "horarios": [
@@ -639,6 +707,361 @@
         "año": null
     },
     {
+        "título": "F.A.N.2025: Hiroshima",
+        "cartel": "imagenes_peliculas/1765362428.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-14",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88416&eventCode=105985"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "F.A.N.2025: Mi Vecino Totoro",
+        "cartel": "imagenes_peliculas/1765298047.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-14",
+                "hora": "17:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88351&eventCode=45677"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Kontinental ’25",
+        "cartel": "imagenes_peliculas/tmdb_kontinental_25.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-14",
+                "hora": "16:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88355&eventCode=104545"
+            },
+            {
+                "fecha": "2025-12-14",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88353&eventCode=104545"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Radu Jude",
+        "duración": "109 min",
+        "actores": "Eszter Tompa, Gabriel Spahiu, Adonis Tanța, Oana Mardare, Șerban Pavlu",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La vida fuera",
+        "cartel": "imagenes_peliculas/tmdb_la_vida_fuera.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-14",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88352&eventCode=104266"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Mike Flanagan",
+        "duración": "110 min",
+        "actores": "Tom Hiddleston, Benjamin Pajak, Nick Offerman, Chiwetel Ejiofor, Karen Gillan",
+        "sinopsis": "Inspirado en un relato de Stephen King, narra tres episodios vinculados al personaje Charles Krantz, siguiendo un orden inverso: desde su fallecimiento a los 39 años debido a un tumor cerebral, hasta su niñez en una casa que se creía embrujada.",
+        "año": "2025"
+    },
+    {
+        "título": "La voz de Hind",
+        "cartel": "imagenes_peliculas/1761566192.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-14",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88354&eventCode=104349"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Mi Vecino Totoro",
+        "cartel": "imagenes_peliculas/tmdb_mi_vecino_totoro.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-14",
+                "hora": "17:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88351&eventCode=45677"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Hayao Miyazaki",
+        "duración": "86 min",
+        "actores": "Noriko Hidaka, 坂本千夏, 高木均, 糸井重里, Sumi Shimamoto",
+        "sinopsis": "Dos chicas jóvenes, Mei y Satsuki, se mudan a una nueva casa cerca del hospital en el que se encuentra su madre. En el patio junto a la casa, existe un gran árbol que es el hogar de tres Totoros, dioses de la selva. Poco después, reciben noticias desde el hospital de que su madre no puede venir a casa como había prometido, por lo que Mei (la más joven) se escapa para ir a visitarla. Satsuki tiene que recurrir a un Totoro para ayudar a encontrarla.",
+        "año": "1988"
+    },
+    {
+        "título": "F.A.N. 2025: El viaje de Chihiro",
+        "cartel": "imagenes_peliculas/1765298497.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-15",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88358&eventCode=60184"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Kontinental ’25",
+        "cartel": "imagenes_peliculas/tmdb_kontinental_25.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-15",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88370&eventCode=104545"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Radu Jude",
+        "duración": "109 min",
+        "actores": "Eszter Tompa, Gabriel Spahiu, Adonis Tanța, Oana Mardare, Șerban Pavlu",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La vida fuera",
+        "cartel": "imagenes_peliculas/tmdb_la_vida_fuera.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-15",
+                "hora": "21:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88367&eventCode=104266"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Mike Flanagan",
+        "duración": "110 min",
+        "actores": "Tom Hiddleston, Benjamin Pajak, Nick Offerman, Chiwetel Ejiofor, Karen Gillan",
+        "sinopsis": "Inspirado en un relato de Stephen King, narra tres episodios vinculados al personaje Charles Krantz, siguiendo un orden inverso: desde su fallecimiento a los 39 años debido a un tumor cerebral, hasta su niñez en una casa que se creía embrujada.",
+        "año": "2025"
+    },
+    {
+        "título": "El viaje de Chihiro",
+        "cartel": "imagenes_peliculas/tmdb_el_viaje_de_chihiro.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-15",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88358&eventCode=60184"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Hayao Miyazaki",
+        "duración": "122 min",
+        "actores": "Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naito, Yasuko Sawaguchi",
+        "sinopsis": "Durante el traslado de su familia a los suburbios, una niña de 10 años de edad deambula por un mundo gobernado por dioses, brujas y espíritus, y donde los humanos se convierten en bestias.",
+        "año": "2001"
+    },
+    {
+        "título": "F.A.N. 2025: La llama de la esperanza",
+        "cartel": "imagenes_peliculas/1765363000.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-16",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88414&eventCode=105986"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Kontinental ’25",
+        "cartel": "imagenes_peliculas/tmdb_kontinental_25.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-16",
+                "hora": "18:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88377&eventCode=104545"
+            },
+            {
+                "fecha": "2025-12-16",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88378&eventCode=104545"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Radu Jude",
+        "duración": "109 min",
+        "actores": "Eszter Tompa, Gabriel Spahiu, Adonis Tanța, Oana Mardare, Șerban Pavlu",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La vida fuera",
+        "cartel": "imagenes_peliculas/tmdb_la_vida_fuera.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-16",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88376&eventCode=104266"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Mike Flanagan",
+        "duración": "110 min",
+        "actores": "Tom Hiddleston, Benjamin Pajak, Nick Offerman, Chiwetel Ejiofor, Karen Gillan",
+        "sinopsis": "Inspirado en un relato de Stephen King, narra tres episodios vinculados al personaje Charles Krantz, siguiendo un orden inverso: desde su fallecimiento a los 39 años debido a un tumor cerebral, hasta su niñez en una casa que se creía embrujada.",
+        "año": "2025"
+    },
+    {
+        "título": "F.A.N. 2025: El Cuento de la Princesa Kaguya",
+        "cartel": "imagenes_peliculas/1765298738.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-17",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88406&eventCode=24026"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Kontinental ’25",
+        "cartel": "imagenes_peliculas/tmdb_kontinental_25.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-17",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88408&eventCode=104545"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Radu Jude",
+        "duración": "109 min",
+        "actores": "Eszter Tompa, Gabriel Spahiu, Adonis Tanța, Oana Mardare, Șerban Pavlu",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La vida fuera",
+        "cartel": "imagenes_peliculas/tmdb_la_vida_fuera.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-17",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88407&eventCode=104266"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Mike Flanagan",
+        "duración": "110 min",
+        "actores": "Tom Hiddleston, Benjamin Pajak, Nick Offerman, Chiwetel Ejiofor, Karen Gillan",
+        "sinopsis": "Inspirado en un relato de Stephen King, narra tres episodios vinculados al personaje Charles Krantz, siguiendo un orden inverso: desde su fallecimiento a los 39 años debido a un tumor cerebral, hasta su niñez en una casa que se creía embrujada.",
+        "año": "2025"
+    },
+    {
+        "título": "El Cuento de la Princesa Kaguya",
+        "cartel": "imagenes_peliculas/tmdb_el_cuento_de_la_princesa_kaguya.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-17",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88406&eventCode=24026"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "高畑勲",
+        "duración": "137 min",
+        "actores": "朝倉あき, 地井武男, 宮本信子, 高良健吾, 高畑淳子",
+        "sinopsis": "Basada en un cuento popular japonés anónimo del siglo IX, 'El cortador de bambú', la historia comienza cuando una pareja de ancianos campesinos encuentran a una niña diminuta dentro de una planta de bambú y deciden adoptarla como si fuera su hija. Convertida rápidamente en una hermosa mujer, es pretendida por muchos hombres, incluido el emperador, pero ella los rechaza a todos porque asegura venir de la Luna y debe volver allí...",
+        "año": "2013"
+    },
+    {
+        "título": "F.A.N.2025: Totto-chan, aventuras desde la ventana",
+        "cartel": "imagenes_peliculas/1765363354.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-18",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88415&eventCode=105987"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Kontinental ’25",
+        "cartel": "imagenes_peliculas/tmdb_kontinental_25.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-18",
+                "hora": "18:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88391&eventCode=104545"
+            },
+            {
+                "fecha": "2025-12-18",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88392&eventCode=104545"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Radu Jude",
+        "duración": "109 min",
+        "actores": "Eszter Tompa, Gabriel Spahiu, Adonis Tanța, Oana Mardare, Șerban Pavlu",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La vida fuera",
+        "cartel": "imagenes_peliculas/tmdb_la_vida_fuera.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-18",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88390&eventCode=104266"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Mike Flanagan",
+        "duración": "110 min",
+        "actores": "Tom Hiddleston, Benjamin Pajak, Nick Offerman, Chiwetel Ejiofor, Karen Gillan",
+        "sinopsis": "Inspirado en un relato de Stephen King, narra tres episodios vinculados al personaje Charles Krantz, siguiendo un orden inverso: desde su fallecimiento a los 39 años debido a un tumor cerebral, hasta su niñez en una casa que se creía embrujada.",
+        "año": "2025"
+    },
+    {
         "título": "Wicked: Parte II (Canciones en V.O.S.E.)",
         "cartel": "imagenes_peliculas/176302409812547.jpg",
         "horarios": [
@@ -650,7 +1073,7 @@
             {
                 "fecha": "2025-12-10",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218081&eventCode=100478"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2025-12-10",
