@@ -1,22 +1,5 @@
 [
     {
-        "título": "Vida privada",
-        "cartel": "imagenes_peliculas/tmdb_vida_privada.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-12-21",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97444&eventCode=105501"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "Rebecca Zlotowski",
-        "duración": "105 min",
-        "actores": "Jodie Foster, Daniel Auteuil, Virginie Efira, Mathieu Amalric, Vincent Lacoste",
-        "sinopsis": "La reputada psiquiatra Lilian Steiner emprende una investigación privada sobre la muerte de uno de sus pacientes, del que está convencida que ha sido asesinado.",
-        "año": "2025"
-    },
-    {
         "título": "Núremberg",
         "cartel": "imagenes_peliculas/tmdb_nuremberg.jpg",
         "horarios": [
@@ -24,74 +7,6 @@
                 "fecha": "2025-12-21",
                 "hora": "21:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97437&eventCode=103303"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "James Vanderbilt",
-        "duración": "150 min",
-        "actores": "Russell Crowe, Rami Malek, Michael Shannon, Leo Woodall, John Slattery",
-        "sinopsis": "Tras el fin de la II Guerra Mundial, con ocasión de los cruciales juicios de Nuremberg de los Aliados contra el derrotado régimen nazi, el psiquiatra estadounidense Douglas Kelley (Malek), encargado de determinar si los prisioneros oficiales nazis son aptos para ser juzgados por sus crímenes de guerra, se ve inmerso en una compleja batalla de ingenio con Hermann Göring (Crowe), mano derecha de Hitler. Basada en el libro \"El nazi y el psiquiatra\" de Jack El-Hai.",
-        "año": "2025"
-    },
-    {
-        "título": "Vida privada",
-        "cartel": "imagenes_peliculas/tmdb_vida_privada.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-12-22",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97459&eventCode=105501"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "Rebecca Zlotowski",
-        "duración": "105 min",
-        "actores": "Jodie Foster, Daniel Auteuil, Virginie Efira, Mathieu Amalric, Vincent Lacoste",
-        "sinopsis": "La reputada psiquiatra Lilian Steiner emprende una investigación privada sobre la muerte de uno de sus pacientes, del que está convencida que ha sido asesinado.",
-        "año": "2025"
-    },
-    {
-        "título": "Núremberg",
-        "cartel": "imagenes_peliculas/tmdb_nuremberg.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-12-22",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97452&eventCode=103303"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "James Vanderbilt",
-        "duración": "150 min",
-        "actores": "Russell Crowe, Rami Malek, Michael Shannon, Leo Woodall, John Slattery",
-        "sinopsis": "Tras el fin de la II Guerra Mundial, con ocasión de los cruciales juicios de Nuremberg de los Aliados contra el derrotado régimen nazi, el psiquiatra estadounidense Douglas Kelley (Malek), encargado de determinar si los prisioneros oficiales nazis son aptos para ser juzgados por sus crímenes de guerra, se ve inmerso en una compleja batalla de ingenio con Hermann Göring (Crowe), mano derecha de Hitler. Basada en el libro \"El nazi y el psiquiatra\" de Jack El-Hai.",
-        "año": "2025"
-    },
-    {
-        "título": "Vida privada",
-        "cartel": "imagenes_peliculas/tmdb_vida_privada.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-12-23",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97474&eventCode=105501"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "Rebecca Zlotowski",
-        "duración": "105 min",
-        "actores": "Jodie Foster, Daniel Auteuil, Virginie Efira, Mathieu Amalric, Vincent Lacoste",
-        "sinopsis": "La reputada psiquiatra Lilian Steiner emprende una investigación privada sobre la muerte de uno de sus pacientes, del que está convencida que ha sido asesinado.",
-        "año": "2025"
-    },
-    {
-        "título": "Núremberg",
-        "cartel": "imagenes_peliculas/tmdb_nuremberg.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-12-23",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97467&eventCode=103303"
             }
         ],
         "cine": "Golem Baiona",
@@ -159,7 +74,7 @@
             {
                 "fecha": "2025-12-21",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88524&eventCode=102499"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -300,7 +215,7 @@
             {
                 "fecha": "2025-12-21",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=218498&eventCode=100478"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem La Morea",
