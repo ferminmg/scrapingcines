@@ -5,18 +5,23 @@
         "horarios": [
             {
                 "fecha": "2025-12-23",
-                "hora": "17:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=23443"
-            },
-            {
-                "fecha": "2025-12-23",
                 "hora": "21:00",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=24466"
             },
             {
-                "fecha": "2025-12-27",
-                "hora": "17:45",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=24301"
+                "fecha": "2025-12-28",
+                "hora": "18:25",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=24303"
+            },
+            {
+                "fecha": "2025-12-30",
+                "hora": "20:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=24639"
+            },
+            {
+                "fecha": "2025-12-30",
+                "hora": "21:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=24663"
             }
         ],
         "cine": "Yelmo Itaroa",
@@ -24,6 +29,28 @@
         "duración": "198 min",
         "actores": "Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang, Oona Chaplin",
         "sinopsis": "Jake Sully y Neytiri enfrentan una nueva amenaza en Pandora: los Ash People, una tribu Na'vi violenta y sedienta de poder, liderada por la implacable Varang. Tras la devastadora guerra contra la RDA y la pérdida de su hijo mayor, la familia de Jake deberá luchar por su supervivencia y el futuro de Pandora en un conflicto que llevará a los personajes a sus límites emocionales y físicos. Con nuevos y antiguos aliados, esta épica visual y emocional redefine el destino de un mundo al borde del abismo.",
+        "año": "2025"
+    },
+    {
+        "título": "Bob Esponja: Una aventura pirata",
+        "cartel": "imagenes_filmaffinity/tmdb_bob-esponja-una-aventura-pirata.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-25",
+                "hora": "17:35",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=24500"
+            },
+            {
+                "fecha": "2025-12-30",
+                "hora": "20:05",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=24657"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Derek Drymon",
+        "duración": "96 min",
+        "actores": "Tom Kenny, Clancy Brown, Rodger Bumpass, Bill Fagerbakke, Carolyn Lawrence",
+        "sinopsis": "",
         "año": "2025"
     },
     {
