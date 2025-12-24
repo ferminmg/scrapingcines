@@ -894,7 +894,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-24 10:02:42"
+    "última_actualización": "2025-12-24 22:02:40"
   },
   {
     "id": 1368166,
@@ -958,8 +958,8 @@
       }
     ],
     "popularidad": 80.5845,
-    "puntuación": 8.176,
-    "votos": 34,
+    "puntuación": 8.083,
+    "votos": 36,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1069,7 +1069,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-24 10:02:37"
+    "última_actualización": "2025-12-24 22:02:36"
   },
   {
     "id": 1371185,
@@ -1137,8 +1137,8 @@
       }
     ],
     "popularidad": 13.8286,
-    "puntuación": 5.5,
-    "votos": 2,
+    "puntuación": 6.0,
+    "votos": 3,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1207,6 +1207,26 @@
           "width": 2000
         },
         {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/j9dmce30UHzqrFsZWm6VDkONLMw.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/54SVzfqLC4FxzftdxrcxOUsRORu.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
           "aspect_ratio": 0.666,
           "height": 1366,
           "iso_3166_1": null,
@@ -1228,7 +1248,102 @@
         }
       ]
     },
-    "última_actualización": "2025-12-24 10:02:39"
+    "última_actualización": "2025-12-24 22:02:37"
+  },
+  {
+    "id": 1219548,
+    "tmdb_id": 1219548,
+    "título": "El médico 2",
+    "título_original": "Der Medicus II",
+    "sinopsis": "",
+    "poster_path": "/eil0VrgWNePPnPcT6TUMDyWTF5D.jpg",
+    "poster_local": "imagenes_estrenos/El_m_dico_2_2QUEFxTno1ztSOHyKJDfGuG5Rsl.jpg",
+    "backdrop_path": "/pMBNGBR3ztRhDqRuzBJXkJM62p.jpg",
+    "backdrop_local": "imagenes_estrenos/El_m_dico_2_backdrop_pMBNGBR3ztRhDqRuzBJXkJM62p.jpg",
+    "fecha_estreno": "2026-01-01T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Philipp Stölzl",
+    "directores": [
+      {
+        "name": "Philipp Stölzl",
+        "id": 113500
+      }
+    ],
+    "actores": [
+      {
+        "name": "Tom Payne",
+        "id": 30319,
+        "character": "Rob Cole",
+        "profile_path": "/dvQk9ewR7EuUEVuYANg3AmYsGo2.jpg"
+      },
+      {
+        "name": "Emily Cox",
+        "id": 144344,
+        "character": "Mercia",
+        "profile_path": "/vuCvqZKsfoAJSBwThbfGGbPROgv.jpg"
+      },
+      {
+        "name": "Aidan Gillen",
+        "id": 49735,
+        "character": "Hunne",
+        "profile_path": "/fWWRgyJEGjOPcx43CaFiUCWMBLo.jpg"
+      },
+      {
+        "name": "Áine Rose Daly",
+        "id": 2478742,
+        "character": "Ilene",
+        "profile_path": "/6tQwHbPWFsF0EdefBCKjbMxdXaa.jpg"
+      },
+      {
+        "name": "Owen Teale",
+        "id": 58654,
+        "character": "Godwin",
+        "profile_path": "/fEr21q41i2e92wqKdoxeFdbDZva.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 3.8268,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.779,
+          "height": 1686,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/pMBNGBR3ztRhDqRuzBJXkJM62p.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3000
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1819,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/eil0VrgWNePPnPcT6TUMDyWTF5D.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1213
+        }
+      ]
+    },
+    "última_actualización": "2025-12-24 22:02:38"
   },
   {
     "id": 682012,
@@ -1241,7 +1356,7 @@
     "backdrop_path": "/pEo5N7h6TGYC1fyddFoCzXbV2Xx.jpg",
     "backdrop_local": "imagenes_estrenos/Little_Amelie_backdrop_pEo5N7h6TGYC1fyddFoCzXbV2Xx.jpg",
     "fecha_estreno": "2026-01-01T00:00:00.000Z",
-    "duración": "75 min",
+    "duración": "78 min",
     "director": "Maïlys Vallade, Liane-Cho Han",
     "directores": [
       {
@@ -1300,7 +1415,7 @@
       }
     ],
     "popularidad": 3.7411,
-    "puntuación": 7.934,
+    "puntuación": 7.9,
     "votos": 53,
     "adulto": false,
     "video": false,
@@ -1381,7 +1496,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-24 10:02:40"
+    "última_actualización": "2025-12-24 22:02:38"
   },
   {
     "id": 1358305,
@@ -1530,102 +1645,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-24 10:02:40"
-  },
-  {
-    "id": 1219548,
-    "tmdb_id": 1219548,
-    "título": "El médico 2",
-    "título_original": "Der Medicus II",
-    "sinopsis": "",
-    "poster_path": "/eil0VrgWNePPnPcT6TUMDyWTF5D.jpg",
-    "poster_local": "imagenes_estrenos/El_m_dico_2_2QUEFxTno1ztSOHyKJDfGuG5Rsl.jpg",
-    "backdrop_path": "/pMBNGBR3ztRhDqRuzBJXkJM62p.jpg",
-    "backdrop_local": "imagenes_estrenos/El_m_dico_2_backdrop_pMBNGBR3ztRhDqRuzBJXkJM62p.jpg",
-    "fecha_estreno": "2026-01-01T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Philipp Stölzl",
-    "directores": [
-      {
-        "name": "Philipp Stölzl",
-        "id": 113500
-      }
-    ],
-    "actores": [
-      {
-        "name": "Tom Payne",
-        "id": 30319,
-        "character": "Rob Cole",
-        "profile_path": "/dvQk9ewR7EuUEVuYANg3AmYsGo2.jpg"
-      },
-      {
-        "name": "Emily Cox",
-        "id": 144344,
-        "character": "Mercia",
-        "profile_path": "/vuCvqZKsfoAJSBwThbfGGbPROgv.jpg"
-      },
-      {
-        "name": "Aidan Gillen",
-        "id": 49735,
-        "character": "Hunne",
-        "profile_path": "/fWWRgyJEGjOPcx43CaFiUCWMBLo.jpg"
-      },
-      {
-        "name": "Áine Rose Daly",
-        "id": 2478742,
-        "character": "Ilene",
-        "profile_path": "/6tQwHbPWFsF0EdefBCKjbMxdXaa.jpg"
-      },
-      {
-        "name": "Owen Teale",
-        "id": 58654,
-        "character": "Godwin",
-        "profile_path": "/fEr21q41i2e92wqKdoxeFdbDZva.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 9648,
-        "name": "Misterio"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 3.8268,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.779,
-          "height": 1686,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/pMBNGBR3ztRhDqRuzBJXkJM62p.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3000
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1819,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/eil0VrgWNePPnPcT6TUMDyWTF5D.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1213
-        }
-      ]
-    },
-    "última_actualización": "2025-12-24 10:02:40"
+    "última_actualización": "2025-12-24 22:02:39"
   },
   {
     "id": 1498047,
@@ -1709,7 +1729,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-24 10:02:41"
+    "última_actualización": "2025-12-24 22:02:39"
   },
   {
     "id": 1437873,
@@ -1814,7 +1834,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-24 10:02:42"
+    "última_actualización": "2025-12-24 22:02:40"
   },
   {
     "id": 1470586,
@@ -1863,7 +1883,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-24 10:02:43"
+    "última_actualización": "2025-12-24 22:02:41"
   },
   {
     "id": 1254808,
@@ -2012,7 +2032,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-24 10:02:39"
+    "última_actualización": "2025-12-24 22:02:38"
   },
   {
     "id": 1421148,
@@ -2113,7 +2133,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-24 10:02:40"
+    "última_actualización": "2025-12-24 22:02:39"
   },
   {
     "id": 1078581,
@@ -2121,7 +2141,7 @@
     "título": "Giant",
     "título_original": "Giant",
     "sinopsis": "",
-    "poster_path": "/1KKmUdFulYDVSV31nQt9LVm3Oue.jpg",
+    "poster_path": "/jInqH9ry89ZCSFjykXvW0fQWe6m.jpg",
     "poster_local": "imagenes_estrenos/Giant_jInqH9ry89ZCSFjykXvW0fQWe6m.jpg",
     "backdrop_path": "/pWGggSMdp5Nbgq8PQrxkpdn6pNS.jpg",
     "backdrop_local": "imagenes_estrenos/Giant_backdrop_pWGggSMdp5Nbgq8PQrxkpdn6pNS.jpg",
@@ -2170,6 +2190,10 @@
       {
         "id": 18,
         "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
       }
     ],
     "popularidad": 1.6045,
@@ -2193,16 +2217,6 @@
       ],
       "posters": [
         {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/jInqH9ry89ZCSFjykXvW0fQWe6m.jpg",
-          "vote_average": 3.334,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
           "aspect_ratio": 0.666,
           "height": 923,
           "iso_3166_1": null,
@@ -2214,7 +2228,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-24 10:02:41"
+    "última_actualización": "2025-12-24 22:02:40"
   },
   {
     "id": 1456349,
@@ -2282,7 +2296,7 @@
       }
     ],
     "popularidad": 32.3791,
-    "puntuación": 7.19,
+    "puntuación": 7.198,
     "votos": 210,
     "adulto": false,
     "video": false,
@@ -2393,7 +2407,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-24 10:02:38"
+    "última_actualización": "2025-12-24 22:02:37"
   },
   {
     "id": 1206008,
@@ -2568,7 +2582,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-24 10:02:38"
+    "última_actualización": "2025-12-24 22:02:37"
   },
   {
     "id": 1272837,
@@ -2727,7 +2741,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-24 10:02:39"
+    "última_actualización": "2025-12-24 22:02:38"
   },
   {
     "id": 896096,
@@ -2898,7 +2912,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-24 10:02:41"
+    "última_actualización": "2025-12-24 22:02:39"
   },
   {
     "id": 1215532,
@@ -3024,7 +3038,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-12-24 10:02:42"
+    "última_actualización": "2025-12-24 22:02:40"
   },
   {
     "id": 1002158,
