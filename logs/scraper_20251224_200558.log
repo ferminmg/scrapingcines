@@ -1,0 +1,115 @@
+2025-12-24 20:05:58,535 - INFO - Iniciando proceso de scraping
+2025-12-24 20:05:58,538 - INFO - Posts existentes encontrados: 2476
+2025-12-24 20:05:58,538 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-12-24 20:05:59,797 - INFO - Se encontraron 10 posts
+2025-12-24 20:05:59,798 - INFO - Comenzando extracción de información del post
+2025-12-24 20:05:59,798 - INFO - Título del post: EL EXTRANJERO de François Ozon
+2025-12-24 20:05:59,798 - INFO - Fecha del post: 2025-12-24T20:58:48+01:00
+2025-12-24 20:05:59,798 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/12/critica-de-el-extranjero-de-francois-ozon.html
+2025-12-24 20:06:01,101 - INFO - Contenido extraído y estructurado (4480 caracteres)
+2025-12-24 20:06:01,102 - INFO - Guardando post en: posts/EL_EXTRANJERO_2025-12-24.json
+2025-12-24 20:06:01,103 - INFO - Post guardado exitosamente
+2025-12-24 20:06:01,103 - INFO - Actualizando índice de películas
+2025-12-24 20:06:01,103 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-12-24 20:06:01,107 - INFO - Índice existente cargado con 2576 películas
+2025-12-24 20:06:01,118 - INFO - Película agregada al índice: EL EXTRANJERO
+2025-12-24 20:06:01,119 - INFO - Nuevo post guardado: EL EXTRANJERO de François Ozon
+2025-12-24 20:06:01,119 - INFO - Comenzando extracción de información del post
+2025-12-24 20:06:01,119 - INFO - Título del post: LA VIDA FUERA de Mario Martone
+2025-12-24 20:06:01,119 - INFO - Fecha del post: 2025-12-24T20:48:00+01:00
+2025-12-24 20:06:01,119 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/12/critica-de-la-vida-fuera-de-mario-martone.html
+2025-12-24 20:06:02,371 - INFO - Contenido extraído y estructurado (2641 caracteres)
+2025-12-24 20:06:02,372 - INFO - Guardando post en: posts/LA_VIDA_FUERA_2025-12-24.json
+2025-12-24 20:06:02,372 - INFO - Post guardado exitosamente
+2025-12-24 20:06:02,372 - INFO - Actualizando índice de películas
+2025-12-24 20:06:02,372 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-12-24 20:06:02,376 - INFO - Índice existente cargado con 2577 películas
+2025-12-24 20:06:02,387 - INFO - Película agregada al índice: LA VIDA FUERA
+2025-12-24 20:06:02,387 - INFO - Nuevo post guardado: LA VIDA FUERA de Mario Martone
+2025-12-24 20:06:02,387 - INFO - Comenzando extracción de información del post
+2025-12-24 20:06:02,388 - INFO - Título del post: FRONTERA de Judith Colell
+2025-12-24 20:06:02,388 - INFO - Fecha del post: 2025-12-24T20:31:09+01:00
+2025-12-24 20:06:02,388 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/12/critica-de-frontera-de-judith-colell.html
+2025-12-24 20:06:03,678 - INFO - Contenido extraído y estructurado (2785 caracteres)
+2025-12-24 20:06:03,679 - INFO - Guardando post en: posts/FRONTERA_2025-12-24.json
+2025-12-24 20:06:03,679 - INFO - Post guardado exitosamente
+2025-12-24 20:06:03,679 - INFO - Actualizando índice de películas
+2025-12-24 20:06:03,679 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-12-24 20:06:03,683 - INFO - Índice existente cargado con 2578 películas
+2025-12-24 20:06:03,695 - INFO - Película agregada al índice: FRONTERA
+2025-12-24 20:06:03,695 - INFO - Nuevo post guardado: FRONTERA de Judith Colell
+2025-12-24 20:06:03,695 - INFO - Comenzando extracción de información del post
+2025-12-24 20:06:03,695 - INFO - Título del post: ARO BERRIA de Irati Gorostidi Agirretxe
+2025-12-24 20:06:03,695 - INFO - Fecha del post: 2025-12-24T20:25:03+01:00
+2025-12-24 20:06:03,695 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/12/critica-de-aro-berria-de-irati-gorostidi-agirretxe.html
+2025-12-24 20:06:05,017 - INFO - Contenido extraído y estructurado (4506 caracteres)
+2025-12-24 20:06:05,018 - INFO - Guardando post en: posts/ARO_BERRIA_2025-12-24.json
+2025-12-24 20:06:05,019 - INFO - Post guardado exitosamente
+2025-12-24 20:06:05,019 - INFO - Actualizando índice de películas
+2025-12-24 20:06:05,019 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-12-24 20:06:05,022 - INFO - Índice existente cargado con 2579 películas
+2025-12-24 20:06:05,033 - INFO - Película agregada al índice: ARO BERRIA
+2025-12-24 20:06:05,034 - INFO - Nuevo post guardado: ARO BERRIA de Irati Gorostidi Agirretxe
+2025-12-24 20:06:05,034 - INFO - Comenzando extracción de información del post
+2025-12-24 20:06:05,034 - INFO - Título del post: GOLPES de Rafael Cobos
+2025-12-24 20:06:05,034 - INFO - Fecha del post: 2025-12-24T20:18:05+01:00
+2025-12-24 20:06:05,034 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/12/critica-de-golpes-de-rafael-cobos.html
+2025-12-24 20:06:06,262 - INFO - Contenido extraído y estructurado (2785 caracteres)
+2025-12-24 20:06:06,263 - INFO - Guardando post en: posts/GOLPES_2025-12-24.json
+2025-12-24 20:06:06,263 - INFO - Post guardado exitosamente
+2025-12-24 20:06:06,263 - INFO - Actualizando índice de películas
+2025-12-24 20:06:06,263 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-12-24 20:06:06,266 - INFO - Índice existente cargado con 2580 películas
+2025-12-24 20:06:06,278 - INFO - Película agregada al índice: GOLPES
+2025-12-24 20:06:06,278 - INFO - Nuevo post guardado: GOLPES de Rafael Cobos
+2025-12-24 20:06:06,278 - INFO - Comenzando extracción de información del post
+2025-12-24 20:06:06,279 - INFO - Título del post: SINGULAR de Alberto Gastesi
+2025-12-24 20:06:06,279 - INFO - Fecha del post: 2025-12-24T18:46:38+01:00
+2025-12-24 20:06:06,279 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/12/critica-de-singular-de-alberto-gastesi.html
+2025-12-24 20:06:07,581 - INFO - Contenido extraído y estructurado (2723 caracteres)
+2025-12-24 20:06:07,582 - INFO - Guardando post en: posts/SINGULAR_2025-12-24.json
+2025-12-24 20:06:07,582 - INFO - Post guardado exitosamente
+2025-12-24 20:06:07,582 - INFO - Actualizando índice de películas
+2025-12-24 20:06:07,582 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-12-24 20:06:07,585 - INFO - Índice existente cargado con 2581 películas
+2025-12-24 20:06:07,597 - INFO - Película agregada al índice: SINGULAR
+2025-12-24 20:06:07,597 - INFO - Nuevo post guardado: SINGULAR de Alberto Gastesi
+2025-12-24 20:06:07,597 - INFO - Comenzando extracción de información del post
+2025-12-24 20:06:07,598 - INFO - Título del post: VALOR SENTIMENTAL de Joachim Trier
+2025-12-24 20:06:07,598 - INFO - Fecha del post: 2025-12-24T18:40:00+01:00
+2025-12-24 20:06:07,598 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/12/critica-de-valor-sentimental-de-joachim-trier.html
+2025-12-24 20:06:08,857 - INFO - Contenido extraído y estructurado (4555 caracteres)
+2025-12-24 20:06:08,858 - INFO - Guardando post en: posts/VALOR_SENTIMENTAL_2025-12-24.json
+2025-12-24 20:06:08,859 - INFO - Post guardado exitosamente
+2025-12-24 20:06:08,859 - INFO - Actualizando índice de películas
+2025-12-24 20:06:08,859 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-12-24 20:06:08,862 - INFO - Índice existente cargado con 2582 películas
+2025-12-24 20:06:08,874 - INFO - Película agregada al índice: VALOR SENTIMENTAL
+2025-12-24 20:06:08,874 - INFO - Nuevo post guardado: VALOR SENTIMENTAL de Joachim Trier
+2025-12-24 20:06:08,874 - INFO - Comenzando extracción de información del post
+2025-12-24 20:06:08,874 - INFO - Título del post: LA VOZ DE HIND de Kaouther Ben Hania
+2025-12-24 20:06:08,875 - INFO - Fecha del post: 2025-12-24T18:29:49+01:00
+2025-12-24 20:06:08,875 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/12/la-voz-de-hind-de-kaouther-ben-hania.html
+2025-12-24 20:06:10,250 - INFO - Contenido extraído y estructurado (2818 caracteres)
+2025-12-24 20:06:10,251 - INFO - Guardando post en: posts/LA_VOZ_DE_HIND_2025-12-24.json
+2025-12-24 20:06:10,252 - INFO - Post guardado exitosamente
+2025-12-24 20:06:10,252 - INFO - Actualizando índice de películas
+2025-12-24 20:06:10,252 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-12-24 20:06:10,256 - INFO - Índice existente cargado con 2583 películas
+2025-12-24 20:06:10,267 - INFO - Película agregada al índice: LA VOZ DE HIND
+2025-12-24 20:06:10,267 - INFO - Nuevo post guardado: LA VOZ DE HIND de Kaouther Ben Hania
+2025-12-24 20:06:10,267 - INFO - Comenzando extracción de información del post
+2025-12-24 20:06:10,268 - INFO - Título del post: BLUE MOON de Richard Linklater
+2025-12-24 20:06:10,268 - INFO - Fecha del post: 2025-12-24T18:16:38+01:00
+2025-12-24 20:06:10,268 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/12/critica-de-blue-moon-de-richard-linklater.html
+2025-12-24 20:06:12,652 - INFO - Contenido extraído y estructurado (2494 caracteres)
+2025-12-24 20:06:12,653 - INFO - Guardando post en: posts/BLUE_MOON_2025-12-24.json
+2025-12-24 20:06:12,653 - INFO - Post guardado exitosamente
+2025-12-24 20:06:12,653 - INFO - Actualizando índice de películas
+2025-12-24 20:06:12,653 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-12-24 20:06:12,657 - INFO - Índice existente cargado con 2584 películas
+2025-12-24 20:06:12,669 - INFO - Película agregada al índice: BLUE MOON
+2025-12-24 20:06:12,669 - INFO - Nuevo post guardado: BLUE MOON de Richard Linklater
+2025-12-24 20:06:12,669 - INFO - Comenzando extracción de información del post
+2025-12-24 20:06:12,669 - INFO - Post ya existente, saltando: DRÁCULA de Luc Besson
+2025-12-24 20:06:12,669 - INFO - Proceso completado. Posts nuevos guardados: 9
