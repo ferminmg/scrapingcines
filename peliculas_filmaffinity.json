@@ -1,27 +1,5 @@
 [
     {
-        "título": "Bob Esponja: Una aventura pirata",
-        "cartel": "imagenes_filmaffinity/tmdb_bob-esponja-una-aventura-pirata.jpg",
-        "horarios": [
-            {
-                "fecha": "2025-12-25",
-                "hora": "17:35",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=24500"
-            },
-            {
-                "fecha": "2025-12-30",
-                "hora": "20:05",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=24657"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Derek Drymon",
-        "duración": "96 min",
-        "actores": "Tom Kenny, Clancy Brown, Rodger Bumpass, Bill Fagerbakke, Carolyn Lawrence",
-        "sinopsis": "",
-        "año": "2025"
-    },
-    {
         "título": "RUNSEOKJIN_EP.TOUR THE MOVIE",
         "cartel": "imagenes_filmaffinity/runseokjineptour-the-movie.jpg",
         "horarios": [
@@ -85,6 +63,23 @@
         "duración": "100 min",
         "actores": "Paul Rudd, Jack Black, Daniela Melchior, Thandiwe Newton, Steve Zahn",
         "sinopsis": "Doug y Griff son muy buenos amigos desde que eran niños y siempre han soñado con hacer un remake de su película favorita de todos los tiempos: el «clásico cinematográfico» Anaconda. Cuando una crisis de mediana edad les anima a lanzarse por fin a la aventura, se adentran en la selva amazónica para empezar a rodar. Pero las cosas se ponen serias cuando aparece una anaconda gigante de verdad, convirtiendo su caótico y cómico plató de rodaje en una situación mortal.",
+        "año": "2025"
+    },
+    {
+        "título": "Bob Esponja: Una aventura pirata",
+        "cartel": "imagenes_filmaffinity/tmdb_bob-esponja-una-aventura-pirata.jpg",
+        "horarios": [
+            {
+                "fecha": "2025-12-30",
+                "hora": "20:05",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=24657"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Derek Drymon",
+        "duración": "96 min",
+        "actores": "Tom Kenny, Clancy Brown, Rodger Bumpass, Bill Fagerbakke, Carolyn Lawrence",
+        "sinopsis": "",
         "año": "2025"
     },
     {
