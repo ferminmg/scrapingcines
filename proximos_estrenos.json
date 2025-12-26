@@ -1,531 +1,5 @@
 [
   {
-    "id": 991494,
-    "tmdb_id": 991494,
-    "título": "Bob Esponja: Una aventura pirata",
-    "título_original": "The SpongeBob Movie: Search for SquarePants",
-    "sinopsis": "",
-    "poster_path": "/t9656f2KVPWbv6cUCW15Jni2YlK.jpg",
-    "poster_local": "imagenes_estrenos/Bob_Esponja__Una_aventura_pirata_cuXscQfRr1KLknkqNVObkAA7HyE.jpg",
-    "backdrop_path": "/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
-    "backdrop_local": "imagenes_estrenos/Bob_Esponja__Una_aventura_pirata_backdrop_kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
-    "fecha_estreno": "2025-12-25T00:00:00.000Z",
-    "duración": "96 min",
-    "director": "Derek Drymon",
-    "directores": [
-      {
-        "name": "Derek Drymon",
-        "id": 70652
-      }
-    ],
-    "actores": [
-      {
-        "name": "Tom Kenny",
-        "id": 78798,
-        "character": "SpongeBob SquarePants / Gary / Morning DJ (voice)",
-        "profile_path": "/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg"
-      },
-      {
-        "name": "Clancy Brown",
-        "id": 6574,
-        "character": "Mr. Krabs / Pirate / Narrator (voice)",
-        "profile_path": "/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
-      },
-      {
-        "name": "Rodger Bumpass",
-        "id": 70615,
-        "character": "Squidward (voice)",
-        "profile_path": "/lGQkw6adxqB6Hcm7VK8nVHbKupe.jpg"
-      },
-      {
-        "name": "Bill Fagerbakke",
-        "id": 34398,
-        "character": "Patrick Star (voice)",
-        "profile_path": "/zntKKc1uT53BnIihmzbq601eWKZ.jpg"
-      },
-      {
-        "name": "Carolyn Lawrence",
-        "id": 78799,
-        "character": "Sandy (voice)",
-        "profile_path": "/vHycxQTs8EuyFdFJNww15xXB5lT.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 10751,
-        "name": "Familia"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 12,
-        "name": "Aventura"
-      },
-      {
-        "id": 16,
-        "name": "Animación"
-      }
-    ],
-    "popularidad": 52.346,
-    "puntuación": 7.2,
-    "votos": 13,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1135,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
-          "vote_average": 8.362,
-          "vote_count": 6,
-          "width": 2018
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/gbjK8p5S1aLXWCwOoXqr9aWZvqG.jpg",
-          "vote_average": 8.034,
-          "vote_count": 5,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/jzMhC6NB4KHqfSAgbW2BFslLuSh.jpg",
-          "vote_average": 5.25,
-          "vote_count": 8,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/dBndtFHMqEuSjeRSmhyofmY8lbw.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1035,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/56hKUF0F4DmCcN9kRGmq7F3lw01.jpg",
-          "vote_average": 1.75,
-          "vote_count": 4,
-          "width": 1839
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/v95hpkfgPVbtvpYP6dagG49tT2l.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/oke1yDH0ZvBCIH5KymD3XeDx6Q.jpg",
-          "vote_average": 1.75,
-          "vote_count": 4,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/oW7q9iHpqsymKvylcgcKR4vqUOl.jpg",
-          "vote_average": 1.75,
-          "vote_count": 4,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/qEneRUl8aMvHncpCCPbHsZczdjp.jpg",
-          "vote_average": 1.75,
-          "vote_count": 4,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/hE80Xo39QoBEYu7xJg05gSUaMXB.jpg",
-          "vote_average": 1.75,
-          "vote_count": 4,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-12-23 22:02:41"
-  },
-  {
-    "id": 1234731,
-    "tmdb_id": 1234731,
-    "título": "Anaconda",
-    "título_original": "Anaconda",
-    "sinopsis": "Doug y Griff son muy buenos amigos desde que eran niños y siempre han soñado con hacer un remake de su película favorita de todos los tiempos: el «clásico cinematográfico» Anaconda. Cuando una crisis de mediana edad les anima a lanzarse por fin a la aventura, se adentran en la selva amazónica para empezar a rodar. Pero las cosas se ponen serias cuando aparece una anaconda gigante de verdad, convirtiendo su caótico y cómico plató de rodaje en una situación mortal.",
-    "poster_path": "/zX1KJPiGTrzpFcjfOWlmqdRgpQd.jpg",
-    "poster_local": "imagenes_estrenos/Anaconda_hENLu86h3zljg0x8bdy8cOUxZF5.jpg",
-    "backdrop_path": "/93yXJVBBC04mhgv5FlZRT8Zyofp.jpg",
-    "backdrop_local": "imagenes_estrenos/Anaconda_backdrop_p9jcRxJ6eG61UcGwPWcVkj8zryi.jpg",
-    "fecha_estreno": "2025-12-25T00:00:00.000Z",
-    "duración": "99 min",
-    "director": "Tom Gormican",
-    "directores": [
-      {
-        "name": "Tom Gormican",
-        "id": 1211000
-      }
-    ],
-    "actores": [
-      {
-        "name": "Paul Rudd",
-        "id": 22226,
-        "character": "Ronald Griffen 'Griff' Jr.",
-        "profile_path": "/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
-      },
-      {
-        "name": "Jack Black",
-        "id": 70851,
-        "character": "Doug McCallister",
-        "profile_path": "/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
-      },
-      {
-        "name": "Daniela Melchior",
-        "id": 1784612,
-        "character": "Ana Almeida",
-        "profile_path": "/zLqPkfenHtuHSrXmEVmQ8Piqjdp.jpg"
-      },
-      {
-        "name": "Thandiwe Newton",
-        "id": 9030,
-        "character": "Claire Simons",
-        "profile_path": "/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg"
-      },
-      {
-        "name": "Steve Zahn",
-        "id": 18324,
-        "character": "Kenny Trent",
-        "profile_path": "/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 12,
-        "name": "Aventura"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 27,
-        "name": "Terror"
-      }
-    ],
-    "popularidad": 26.9751,
-    "puntuación": 7.8,
-    "votos": 5,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/93yXJVBBC04mhgv5FlZRT8Zyofp.jpg",
-          "vote_average": 8.034,
-          "vote_count": 5,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/p9jcRxJ6eG61UcGwPWcVkj8zryi.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1125,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/9KWkXMUnR1kNgBwnwpqUtnsWUgw.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1125,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/3ZUQ5aqzfnA5qwRK35jx1ia59qY.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/joUb1ie6aYvBvYZ212bRHrEdJxa.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ihFST6JhPKgnpJJozemH8Bvxi2M.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/pyB8lk6eBWp02Ts05NK1LoktN4b.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/zX1KJPiGTrzpFcjfOWlmqdRgpQd.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-12-23 22:02:41"
-  },
-  {
-    "id": 1265936,
-    "tmdb_id": 1265936,
-    "título": "Ariel",
-    "título_original": "Ariel",
-    "sinopsis": "Una actriz viaja a las Azores para participar en la gira teatral de La Tempestad y, a su llegada, no encuentra a nadie de la compañía; ni siquiera hay teatro. Tras conocer a Ariel, la actriz descubre que la obra ya ha comenzado, que toda la isla es un teatro y que sus habitantes son personajes.",
-    "poster_path": "/b8hDMFypKi9GyCSDQw7ZuCsOLP9.jpg",
-    "poster_local": "imagenes_estrenos/Ariel_b8hDMFypKi9GyCSDQw7ZuCsOLP9.jpg",
-    "backdrop_path": "/9aQZ54mOXKE9Q1Ofpr3UQmQN1Os.jpg",
-    "backdrop_local": "imagenes_estrenos/Ariel_backdrop_9aQZ54mOXKE9Q1Ofpr3UQmQN1Os.jpg",
-    "fecha_estreno": "2025-12-25T00:00:00.000Z",
-    "duración": "108 min",
-    "director": "Lois Patiño",
-    "directores": [
-      {
-        "name": "Lois Patiño",
-        "id": 1221292
-      }
-    ],
-    "actores": [
-      {
-        "name": "Agustina Muñoz",
-        "id": 1107941,
-        "character": "Agus",
-        "profile_path": "/hFQm8n0DOKwvzxdqivUrvfoj8oq.jpg"
-      },
-      {
-        "name": "Irene Escolar",
-        "id": 962249,
-        "character": "Ariel",
-        "profile_path": "/3u8ggZpKSQyIs56TAJoh3sSpkwU.jpg"
-      },
-      {
-        "name": "José Díaz",
-        "id": 5439184,
-        "character": "Trinculo",
-        "profile_path": null
-      },
-      {
-        "name": "Hugo Torres",
-        "id": 5439197,
-        "character": "Stephano",
-        "profile_path": null
-      },
-      {
-        "name": "Marta Pazos",
-        "id": 4369336,
-        "character": "Voadora",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 14,
-        "name": "Fantasía"
-      }
-    ],
-    "popularidad": 0.769,
-    "puntuación": 0.0,
-    "votos": 1,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/9aQZ54mOXKE9Q1Ofpr3UQmQN1Os.jpg",
-          "vote_average": 10.0,
-          "vote_count": 5,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xYs0dSrI9mnPprNsYlCsfLOALSR.jpg",
-          "vote_average": 3.334,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 729,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/mXgu2KRy7zjobabojs34d2RJLqd.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 1296
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 729,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/nTnqOxcX1SDVo6ujNMJh08wO5Ag.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 1296
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 729,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/sXpZWgja29bhAO7rVL5X6RQKgfe.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 1296
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1062,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/zxOrZ43j6eiGtAz1PeuS3ziHSnv.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 708
-        }
-      ]
-    },
-    "última_actualización": "2025-12-23 22:02:44"
-  },
-  {
-    "id": 1588839,
-    "tmdb_id": 1588839,
-    "título": "Vuelve corazón franjiverde",
-    "título_original": "Vuelve corazón franjiverde",
-    "sinopsis": "",
-    "poster_path": "/A5afj8YYHoCkUlN41PCiHBufyUT.jpg",
-    "poster_local": "imagenes_estrenos/Vuelve_coraz_n_franjiverde_A5afj8YYHoCkUlN41PCiHBufyUT.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2025-12-25T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Toni Bestard",
-    "directores": [
-      {
-        "name": "Toni Bestard",
-        "id": 936999
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.1496,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.666,
-          "height": 800,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/A5afj8YYHoCkUlN41PCiHBufyUT.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 533
-        }
-      ]
-    },
-    "última_actualización": "2025-12-23 22:02:44"
-  },
-  {
     "id": 1134463,
     "tmdb_id": 1134463,
     "título": "Dreams",
@@ -727,7 +201,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.1462,
+    "popularidad": 0.103,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -759,7 +233,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-25 22:02:16"
+    "última_actualización": "2025-12-26 10:02:38"
   },
   {
     "id": 1368166,
@@ -822,9 +296,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 80.6805,
-    "puntuación": 8.0,
-    "votos": 41,
+    "popularidad": 78.7968,
+    "puntuación": 7.787,
+    "votos": 47,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -934,7 +408,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-25 22:02:14"
+    "última_actualización": "2025-12-26 10:02:36"
   },
   {
     "id": 1371185,
@@ -944,7 +418,7 @@
     "sinopsis": "La historia de dos músicos de poca fortuna que se lanzan con ilusión a formar una banda tributo a Neil Diamond, demostrando que nunca es demasiado tarde para encontrar el amor y cumplir tus sueños.",
     "poster_path": "/iACF4iWIDxMQnEB48DMtbgE9jnQ.jpg",
     "poster_local": "imagenes_estrenos/Song_Sung_Blue___Canci_n_para_dos_3HsIAbHWbFDUbY2jfj4wqEjGC3b.jpg",
-    "backdrop_path": "/7fGKwwzLIdlWgYLyneImfyKdglV.jpg",
+    "backdrop_path": "/a6QAauAiQd1ddFi4MzlbEv3Cha9.jpg",
     "backdrop_local": "imagenes_estrenos/Song_Sung_Blue___Canci_n_para_dos_backdrop_7PDe2oJu8BHsu9hJ02FjOXT20a1.jpg",
     "fecha_estreno": "2026-01-01T00:00:00.000Z",
     "duración": "133 min",
@@ -1001,7 +475,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 16.6465,
+    "popularidad": 22.4758,
     "puntuación": 6.0,
     "votos": 3,
     "adulto": false,
@@ -1113,7 +587,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-25 22:02:15"
+    "última_actualización": "2025-12-26 10:02:37"
   },
   {
     "id": 1219548,
@@ -1176,7 +650,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 3.3187,
+    "popularidad": 3.3769,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1208,7 +682,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-25 22:02:15"
+    "última_actualización": "2025-12-26 10:02:37"
   },
   {
     "id": 682012,
@@ -1279,7 +753,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 3.1506,
+    "popularidad": 2.6397,
     "puntuación": 7.9,
     "votos": 53,
     "adulto": false,
@@ -1361,7 +835,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-25 22:02:15"
+    "última_actualización": "2025-12-26 10:02:37"
   },
   {
     "id": 1498047,
@@ -1424,7 +898,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 2.8579,
+    "popularidad": 2.7557,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1445,7 +919,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-25 22:02:15"
+    "última_actualización": "2025-12-26 10:02:37"
   },
   {
     "id": 1358305,
@@ -1512,7 +986,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 2.2691,
+    "popularidad": 1.6052,
     "puntuación": 5.3,
     "votos": 3,
     "adulto": false,
@@ -1594,7 +1068,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-25 22:02:16"
+    "última_actualización": "2025-12-26 10:02:38"
   },
   {
     "id": 1437873,
@@ -1657,7 +1131,7 @@
         "name": "Música"
       }
     ],
-    "popularidad": 1.0799,
+    "popularidad": 0.8196,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1699,7 +1173,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-25 22:02:16"
+    "última_actualización": "2025-12-26 10:02:38"
   },
   {
     "id": 1470586,
@@ -1727,7 +1201,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.0823,
+    "popularidad": 0.0657,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1748,7 +1222,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-25 22:02:16"
+    "última_actualización": "2025-12-26 10:02:39"
   },
   {
     "id": 1254808,
@@ -1815,7 +1289,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 8.4385,
+    "popularidad": 8.7104,
     "puntuación": 7.425,
     "votos": 67,
     "adulto": false,
@@ -1897,7 +1371,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-25 22:02:15"
+    "última_actualización": "2025-12-26 10:02:37"
   },
   {
     "id": 1421148,
@@ -1956,7 +1430,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 2.3644,
+    "popularidad": 1.7667,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1998,7 +1472,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-25 22:02:15"
+    "última_actualización": "2025-12-26 10:02:38"
   },
   {
     "id": 1078581,
@@ -2061,7 +1535,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 2.0527,
+    "popularidad": 2.1146,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2093,7 +1567,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-25 22:02:16"
+    "última_actualización": "2025-12-26 10:02:38"
   },
   {
     "id": 1456349,
@@ -2160,7 +1634,7 @@
         "name": "Crimen"
       }
     ],
-    "popularidad": 27.987,
+    "popularidad": 25.661,
     "puntuación": 7.2,
     "votos": 211,
     "adulto": false,
@@ -2272,7 +1746,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-25 22:02:14"
+    "última_actualización": "2025-12-26 10:02:36"
   },
   {
     "id": 1206008,
@@ -2335,7 +1809,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 11.2812,
+    "popularidad": 10.636,
     "puntuación": 5.1,
     "votos": 20,
     "adulto": false,
@@ -2447,7 +1921,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-25 22:02:15"
+    "última_actualización": "2025-12-26 10:02:37"
   },
   {
     "id": 1272837,
@@ -2514,7 +1988,7 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 8.7834,
+    "popularidad": 8.4851,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2606,7 +2080,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-25 22:02:15"
+    "última_actualización": "2025-12-26 10:02:37"
   },
   {
     "id": 896096,
@@ -2665,7 +2139,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.2036,
+    "popularidad": 0.9893,
     "puntuación": 7.3,
     "votos": 7,
     "adulto": false,
@@ -2777,7 +2251,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-25 22:02:16"
+    "última_actualización": "2025-12-26 10:02:38"
   },
   {
     "id": 1215532,
@@ -2842,7 +2316,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 0.9019,
+    "popularidad": 0.7786,
     "puntuación": 7.5,
     "votos": 3,
     "adulto": false,
@@ -2903,7 +2377,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-12-25 22:02:16"
+    "última_actualización": "2025-12-26 10:02:38"
   },
   {
     "id": 1002158,
