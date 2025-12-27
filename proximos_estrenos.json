@@ -88,7 +88,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-27 10:02:38"
+    "última_actualización": "2025-12-27 22:02:23"
   },
   {
     "id": 1368166,
@@ -152,8 +152,8 @@
       }
     ],
     "popularidad": 88.146,
-    "puntuación": 7.8,
-    "votos": 58,
+    "puntuación": 7.669,
+    "votos": 65,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -263,7 +263,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-27 10:02:34"
+    "última_actualización": "2025-12-27 22:02:20"
   },
   {
     "id": 1371185,
@@ -442,7 +442,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-27 10:02:34"
+    "última_actualización": "2025-12-27 22:02:20"
   },
   {
     "id": 1219548,
@@ -537,7 +537,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-27 10:02:36"
+    "última_actualización": "2025-12-27 22:02:21"
   },
   {
     "id": 1498047,
@@ -621,7 +621,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-27 10:02:36"
+    "última_actualización": "2025-12-27 22:02:21"
   },
   {
     "id": 682012,
@@ -693,8 +693,8 @@
       }
     ],
     "popularidad": 2.6442,
-    "puntuación": 7.935,
-    "votos": 54,
+    "puntuación": 7.918,
+    "votos": 55,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -774,7 +774,112 @@
         }
       ]
     },
-    "última_actualización": "2025-12-27 10:02:36"
+    "última_actualización": "2025-12-27 22:02:21"
+  },
+  {
+    "id": 1437873,
+    "tmdb_id": 1437873,
+    "título": "Rondallas",
+    "título_original": "Rondallas",
+    "sinopsis": "Un pequeño pueblo marinero se une para recuperar su rondalla, tras dos años de luto por el trágico naufragio de uno de sus pesqueros.",
+    "poster_path": "/i4Z3ojH41siwAJR3dsD8XH7Tbb2.jpg",
+    "poster_local": "imagenes_estrenos/Rondallas_i4Z3ojH41siwAJR3dsD8XH7Tbb2.jpg",
+    "backdrop_path": "/uGnlhs7kcSBInWuTfIezpkzYEQ9.jpg",
+    "backdrop_local": "imagenes_estrenos/Rondallas_backdrop_uGnlhs7kcSBInWuTfIezpkzYEQ9.jpg",
+    "fecha_estreno": "2026-01-01T00:00:00.000Z",
+    "duración": "112 min",
+    "director": "Daniel Sánchez Arévalo",
+    "directores": [
+      {
+        "name": "Daniel Sánchez Arévalo",
+        "id": 34017
+      }
+    ],
+    "actores": [
+      {
+        "name": "Javier Gutiérrez",
+        "id": 19024,
+        "character": "",
+        "profile_path": "/18iTctoABaPVUzS6fDKR4E8PPg5.jpg"
+      },
+      {
+        "name": "María Vázquez",
+        "id": 592475,
+        "character": "",
+        "profile_path": "/k0HXxRMWpKyxFUfjgNmo3NfujX4.jpg"
+      },
+      {
+        "name": "Tamar Novas",
+        "id": 33411,
+        "character": "",
+        "profile_path": "/3MpjB6lxeTUA9EunaV4kAyvOvIG.jpg"
+      },
+      {
+        "name": "Carlos Blanco",
+        "id": 4363,
+        "character": "",
+        "profile_path": "/go6rTvleDcznRkgOjEICdJ9rO0v.jpg"
+      },
+      {
+        "name": "Xosé A. Touriñán",
+        "id": 1786838,
+        "character": "",
+        "profile_path": "/c07uNFuiQb7MsYMjgJLWHn3qv6Z.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "popularidad": 1.0401,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1440,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/uGnlhs7kcSBInWuTfIezpkzYEQ9.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2560
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 2857,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/i4Z3ojH41siwAJR3dsD8XH7Tbb2.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/pABZLufr72QTO08UFaGcSE40xy2.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2025-12-27 22:02:22"
   },
   {
     "id": 1358305,
@@ -923,112 +1028,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-27 10:02:37"
-  },
-  {
-    "id": 1437873,
-    "tmdb_id": 1437873,
-    "título": "Rondallas",
-    "título_original": "Rondallas",
-    "sinopsis": "Un pequeño pueblo marinero se une para recuperar su rondalla, tras dos años de luto por el trágico naufragio de uno de sus pesqueros.",
-    "poster_path": "/i4Z3ojH41siwAJR3dsD8XH7Tbb2.jpg",
-    "poster_local": "imagenes_estrenos/Rondallas_i4Z3ojH41siwAJR3dsD8XH7Tbb2.jpg",
-    "backdrop_path": "/uGnlhs7kcSBInWuTfIezpkzYEQ9.jpg",
-    "backdrop_local": "imagenes_estrenos/Rondallas_backdrop_uGnlhs7kcSBInWuTfIezpkzYEQ9.jpg",
-    "fecha_estreno": "2026-01-01T00:00:00.000Z",
-    "duración": "112 min",
-    "director": "Daniel Sánchez Arévalo",
-    "directores": [
-      {
-        "name": "Daniel Sánchez Arévalo",
-        "id": 34017
-      }
-    ],
-    "actores": [
-      {
-        "name": "Javier Gutiérrez",
-        "id": 19024,
-        "character": "",
-        "profile_path": "/18iTctoABaPVUzS6fDKR4E8PPg5.jpg"
-      },
-      {
-        "name": "María Vázquez",
-        "id": 592475,
-        "character": "",
-        "profile_path": "/k0HXxRMWpKyxFUfjgNmo3NfujX4.jpg"
-      },
-      {
-        "name": "Tamar Novas",
-        "id": 33411,
-        "character": "",
-        "profile_path": "/3MpjB6lxeTUA9EunaV4kAyvOvIG.jpg"
-      },
-      {
-        "name": "Carlos Blanco",
-        "id": 4363,
-        "character": "",
-        "profile_path": "/go6rTvleDcznRkgOjEICdJ9rO0v.jpg"
-      },
-      {
-        "name": "Xosé A. Touriñán",
-        "id": 1786838,
-        "character": "",
-        "profile_path": "/c07uNFuiQb7MsYMjgJLWHn3qv6Z.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10402,
-        "name": "Música"
-      }
-    ],
-    "popularidad": 1.0401,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1440,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/uGnlhs7kcSBInWuTfIezpkzYEQ9.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2560
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.7,
-          "height": 2857,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/i4Z3ojH41siwAJR3dsD8XH7Tbb2.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/pABZLufr72QTO08UFaGcSE40xy2.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2025-12-27 10:02:37"
+    "última_actualización": "2025-12-27 22:02:22"
   },
   {
     "id": 1470586,
@@ -1077,7 +1077,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-27 10:02:38"
+    "última_actualización": "2025-12-27 22:02:23"
   },
   {
     "id": 1254808,
@@ -1145,8 +1145,8 @@
       }
     ],
     "popularidad": 8.4321,
-    "puntuación": 7.4,
-    "votos": 67,
+    "puntuación": 7.413,
+    "votos": 69,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1226,7 +1226,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-27 10:02:35"
+    "última_actualización": "2025-12-27 22:02:21"
   },
   {
     "id": 1078581,
@@ -1321,7 +1321,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-27 10:02:36"
+    "última_actualización": "2025-12-27 22:02:22"
   },
   {
     "id": 1421148,
@@ -1422,7 +1422,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-27 10:02:37"
+    "última_actualización": "2025-12-27 22:02:22"
   },
   {
     "id": 1456349,
@@ -1490,8 +1490,8 @@
       }
     ],
     "popularidad": 20.8802,
-    "puntuación": 7.196,
-    "votos": 214,
+    "puntuación": 7.191,
+    "votos": 215,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1601,7 +1601,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-27 10:02:34"
+    "última_actualización": "2025-12-27 22:02:20"
   },
   {
     "id": 1206008,
@@ -1776,7 +1776,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-27 10:02:35"
+    "última_actualización": "2025-12-27 22:02:20"
   },
   {
     "id": 1272837,
@@ -1935,7 +1935,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-27 10:02:35"
+    "última_actualización": "2025-12-27 22:02:21"
   },
   {
     "id": 896096,
@@ -2106,7 +2106,7 @@
         }
       ]
     },
-    "última_actualización": "2025-12-27 10:02:37"
+    "última_actualización": "2025-12-27 22:02:23"
   },
   {
     "id": 1215532,
@@ -2232,7 +2232,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2025-12-27 10:02:38"
+    "última_actualización": "2025-12-27 22:02:23"
   },
   {
     "id": 1002158,
