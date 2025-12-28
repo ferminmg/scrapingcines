@@ -1,0 +1,55 @@
+2025-12-28 00:22:35,432 - INFO - Iniciando proceso de scraping
+2025-12-28 00:22:35,434 - INFO - Posts existentes encontrados: 2485
+2025-12-28 00:22:35,434 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2025-12-28 00:22:36,736 - INFO - Se encontraron 10 posts
+2025-12-28 00:22:36,737 - INFO - Comenzando extracción de información del post
+2025-12-28 00:22:36,738 - INFO - Título del post: FATHER MOTHER SISTER BROTHER de Jim Jarmusch
+2025-12-28 00:22:36,738 - INFO - Fecha del post: 2025-12-28T00:52:25+01:00
+2025-12-28 00:22:36,738 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/12/father-mother-sister-brother-de-jim-jarmusch.html
+2025-12-28 00:22:38,239 - INFO - Contenido extraído y estructurado (4598 caracteres)
+2025-12-28 00:22:38,240 - INFO - Guardando post en: posts/FATHER_MOTHER_SISTER_BROTHER_2025-12-28.json
+2025-12-28 00:22:38,240 - INFO - Post guardado exitosamente
+2025-12-28 00:22:38,240 - INFO - Actualizando índice de películas
+2025-12-28 00:22:38,240 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-12-28 00:22:38,244 - INFO - Índice existente cargado con 2585 películas
+2025-12-28 00:22:38,256 - INFO - Película agregada al índice: FATHER MOTHER SISTER BROTHER
+2025-12-28 00:22:38,256 - INFO - Nuevo post guardado: FATHER MOTHER SISTER BROTHER de Jim Jarmusch
+2025-12-28 00:22:38,256 - INFO - Comenzando extracción de información del post
+2025-12-28 00:22:38,256 - INFO - Título del post: VIDA PRIVADA de Rebecca Zlotowski
+2025-12-28 00:22:38,256 - INFO - Fecha del post: 2025-12-28T00:39:17+01:00
+2025-12-28 00:22:38,256 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/12/critica-de-vida-privada-de-rebecca-zlotowski.html
+2025-12-28 00:22:39,508 - INFO - Contenido extraído y estructurado (2557 caracteres)
+2025-12-28 00:22:39,509 - INFO - Guardando post en: posts/VIDA_PRIVADA_2025-12-28.json
+2025-12-28 00:22:39,510 - INFO - Post guardado exitosamente
+2025-12-28 00:22:39,510 - INFO - Actualizando índice de películas
+2025-12-28 00:22:39,510 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-12-28 00:22:39,513 - INFO - Índice existente cargado con 2586 películas
+2025-12-28 00:22:39,524 - INFO - Película agregada al índice: VIDA PRIVADA
+2025-12-28 00:22:39,525 - INFO - Nuevo post guardado: VIDA PRIVADA de Rebecca Zlotowski
+2025-12-28 00:22:39,525 - INFO - Comenzando extracción de información del post
+2025-12-28 00:22:39,525 - INFO - Título del post: ART SPIEGELMAN: EL DESASTRE ES MI MUSA de Molly Bernstein y Philip Dolin
+2025-12-28 00:22:39,525 - INFO - Fecha del post: 2025-12-28T00:23:54+01:00
+2025-12-28 00:22:39,525 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2025/12/critica-de-art-spiegelman-el-desastre-es-mi-musa-de-molly-bernstein-y-philip-dolin.html
+2025-12-28 00:22:40,878 - INFO - Contenido extraído y estructurado (2750 caracteres)
+2025-12-28 00:22:40,879 - INFO - Guardando post en: posts/ART_SPIEGELMAN:_EL_DESASTRE_ES_MI_MUSA_2025-12-28.json
+2025-12-28 00:22:40,879 - INFO - Post guardado exitosamente
+2025-12-28 00:22:40,879 - INFO - Actualizando índice de películas
+2025-12-28 00:22:40,879 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2025-12-28 00:22:40,883 - INFO - Índice existente cargado con 2587 películas
+2025-12-28 00:22:40,895 - INFO - Película agregada al índice: ART SPIEGELMAN: EL DESASTRE ES MI MUSA
+2025-12-28 00:22:40,895 - INFO - Nuevo post guardado: ART SPIEGELMAN: EL DESASTRE ES MI MUSA de Molly Bernstein y Philip Dolin
+2025-12-28 00:22:40,895 - INFO - Comenzando extracción de información del post
+2025-12-28 00:22:40,895 - INFO - Post ya existente, saltando: EL EXTRANJERO de François Ozon
+2025-12-28 00:22:40,895 - INFO - Comenzando extracción de información del post
+2025-12-28 00:22:40,895 - INFO - Post ya existente, saltando: LA VIDA FUERA de Mario Martone
+2025-12-28 00:22:40,895 - INFO - Comenzando extracción de información del post
+2025-12-28 00:22:40,895 - INFO - Post ya existente, saltando: FRONTERA de Judith Colell
+2025-12-28 00:22:40,896 - INFO - Comenzando extracción de información del post
+2025-12-28 00:22:40,896 - INFO - Post ya existente, saltando: ARO BERRIA de Irati Gorostidi Agirretxe
+2025-12-28 00:22:40,896 - INFO - Comenzando extracción de información del post
+2025-12-28 00:22:40,896 - INFO - Post ya existente, saltando: GOLPES de Rafael Cobos
+2025-12-28 00:22:40,896 - INFO - Comenzando extracción de información del post
+2025-12-28 00:22:40,896 - INFO - Post ya existente, saltando: SINGULAR de Alberto Gastesi
+2025-12-28 00:22:40,896 - INFO - Comenzando extracción de información del post
+2025-12-28 00:22:40,896 - INFO - Post ya existente, saltando: VALOR SENTIMENTAL de Joachim Trier
+2025-12-28 00:22:40,896 - INFO - Proceso completado. Posts nuevos guardados: 3
