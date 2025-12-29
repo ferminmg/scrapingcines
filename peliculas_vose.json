@@ -6,7 +6,7 @@
             {
                 "fecha": "2025-12-29",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97564&eventCode=105501"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -23,7 +23,7 @@
             {
                 "fecha": "2025-12-29",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97560&eventCode=103303"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -65,6 +65,74 @@
         "duración": "150 min",
         "actores": "Russell Crowe, Rami Malek, Michael Shannon, Leo Woodall, John Slattery",
         "sinopsis": "Tras el fin de la II Guerra Mundial, con ocasión de los cruciales juicios de Nuremberg de los Aliados contra el derrotado régimen nazi, el psiquiatra estadounidense Douglas Kelley (Malek), encargado de determinar si los prisioneros oficiales nazis son aptos para ser juzgados por sus crímenes de guerra, se ve inmerso en una compleja batalla de ingenio con Hermann Göring (Crowe), mano derecha de Hitler. Basada en el libro \"El nazi y el psiquiatra\" de Jack El-Hai.",
+        "año": "2025"
+    },
+    {
+        "título": "La Asistenta",
+        "cartel": "imagenes_peliculas/tmdb_la_asistenta.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-01-01",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97635&eventCode=104109"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Paul Feig",
+        "duración": "131 min",
+        "actores": "Sydney Sweeney, Amanda Seyfried, Brandon Sklenar, Elizabeth Perkins, Michele Morrone",
+        "sinopsis": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática.",
+        "año": "2025"
+    },
+    {
+        "título": "Vida privada",
+        "cartel": "imagenes_peliculas/tmdb_vida_privada.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-01-01",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97629&eventCode=105501"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Rebecca Zlotowski",
+        "duración": "105 min",
+        "actores": "Jodie Foster, Daniel Auteuil, Virginie Efira, Mathieu Amalric, Vincent Lacoste",
+        "sinopsis": "La reputada psiquiatra Lilian Steiner emprende una investigación privada sobre la muerte de uno de sus pacientes, del que está convencida que ha sido asesinado.",
+        "año": "2025"
+    },
+    {
+        "título": "La Asistenta",
+        "cartel": "imagenes_peliculas/tmdb_la_asistenta.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-01-02",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97614&eventCode=104109"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Paul Feig",
+        "duración": "131 min",
+        "actores": "Sydney Sweeney, Amanda Seyfried, Brandon Sklenar, Elizabeth Perkins, Michele Morrone",
+        "sinopsis": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática.",
+        "año": "2025"
+    },
+    {
+        "título": "Vida privada",
+        "cartel": "imagenes_peliculas/tmdb_vida_privada.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-01-02",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97611&eventCode=105501"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Rebecca Zlotowski",
+        "duración": "105 min",
+        "actores": "Jodie Foster, Daniel Auteuil, Virginie Efira, Mathieu Amalric, Vincent Lacoste",
+        "sinopsis": "La reputada psiquiatra Lilian Steiner emprende una investigación privada sobre la muerte de uno de sus pacientes, del que está convencida que ha sido asesinado.",
         "año": "2025"
     },
     {
