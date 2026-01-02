@@ -150,7 +150,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-02 10:03:17"
+    "última_actualización": "2026-01-02 22:02:58"
   },
   {
     "id": 1254808,
@@ -299,7 +299,182 @@
         }
       ]
     },
-    "última_actualización": "2026-01-02 10:03:16"
+    "última_actualización": "2026-01-02 22:02:58"
+  },
+  {
+    "id": 1208348,
+    "tmdb_id": 1208348,
+    "título": "Rental Family",
+    "título_original": "Rental Family",
+    "sinopsis": "",
+    "poster_path": "/9z5dHWiX8EjZBRhJ2OzmYZGW7jS.jpg",
+    "poster_local": "imagenes_estrenos/Rental_Family_9z5dHWiX8EjZBRhJ2OzmYZGW7jS.jpg",
+    "backdrop_path": "/5zMuq6n6L8u9Ks29JAurPICXKqu.jpg",
+    "backdrop_local": "imagenes_estrenos/Rental_Family_backdrop_5zMuq6n6L8u9Ks29JAurPICXKqu.jpg",
+    "fecha_estreno": "2026-01-09T00:00:00.000Z",
+    "duración": "110 min",
+    "director": "HIKARI",
+    "directores": [
+      {
+        "name": "HIKARI",
+        "id": 1264682
+      }
+    ],
+    "actores": [
+      {
+        "name": "Brendan Fraser",
+        "id": 18269,
+        "character": "Phillip Vanderploeg",
+        "profile_path": "/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+      },
+      {
+        "name": "Takehiro Hira",
+        "id": 1082509,
+        "character": "Shinji",
+        "profile_path": "/2N1viBfPY4cRlz6W6YfM2F6UbSH.jpg"
+      },
+      {
+        "name": "Mari Yamamoto",
+        "id": 2210389,
+        "character": "Aiko",
+        "profile_path": "/chy8WQgbSfIxp4B1lHzHFFVzsEv.jpg"
+      },
+      {
+        "name": "Shannon Mahina Gorman",
+        "id": 5615231,
+        "character": "Mia Kawasaki",
+        "profile_path": null
+      },
+      {
+        "name": "柄本明",
+        "id": 13283,
+        "character": "Kikuo Hasegawa",
+        "profile_path": "/qQHdGgAL7idxy79oWHjYON6bYQm.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 12.1869,
+    "puntuación": 7.5,
+    "votos": 27,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1125,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5zMuq6n6L8u9Ks29JAurPICXKqu.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1728,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xX590eJh8V2BVzrpqxmyS1u4gIp.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3072
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/k12wgE0OYWNczqogEHS5CAY9X7d.jpg",
+          "vote_average": 2.542,
+          "vote_count": 4,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/a6ylseSBJDFNLiG1lAvX0NmN0sd.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2048
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/gFl2G8beHDD5jjKmEFwmzygrUFS.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jkhjziHQ9cCRnjusXu5MSF4pBEZ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/XQ3RzZOkeq6JsLrSvFeYEP91qS.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/9z5dHWiX8EjZBRhJ2OzmYZGW7jS.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/w9GzbovJOFjbu31Kd4aM9mwJhxS.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/dEScXkVwfQDSkd15O9IS5A3zwfd.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-01-02 22:02:58"
   },
   {
     "id": 1078581,
@@ -394,7 +569,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-02 10:03:18"
+    "última_actualización": "2026-01-02 22:02:59"
   },
   {
     "id": 1421148,
@@ -495,7 +670,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-02 10:03:19"
+    "última_actualización": "2026-01-02 22:02:59"
   },
   {
     "id": 1456349,
@@ -563,8 +738,8 @@
       }
     ],
     "popularidad": 24.7317,
-    "puntuación": 7.167,
-    "votos": 233,
+    "puntuación": 7.175,
+    "votos": 234,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -674,7 +849,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-02 10:03:16"
+    "última_actualización": "2026-01-02 22:02:57"
   },
   {
     "id": 896096,
@@ -845,7 +1020,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-02 10:03:16"
+    "última_actualización": "2026-01-02 22:02:57"
   },
   {
     "id": 1272837,
@@ -1004,7 +1179,133 @@
         }
       ]
     },
-    "última_actualización": "2026-01-02 10:03:17"
+    "última_actualización": "2026-01-02 22:02:57"
+  },
+  {
+    "id": 1215532,
+    "tmdb_id": 1215532,
+    "título": "Polloliebre y el secreto de la marmota",
+    "título_original": "Chickenhare and the Secret of the Groundhog",
+    "sinopsis": "",
+    "poster_path": "/cUCwWxHF1bRfqeY7beZfsvT7WBR.jpg",
+    "poster_local": "imagenes_estrenos/Polloliebre_y_el_secreto_de_la_marmota_cUCwWxHF1bRfqeY7beZfsvT7WBR.jpg",
+    "backdrop_path": "/8E5UnnGpiYgOQUhCaHkP5FUOHwK.jpg",
+    "backdrop_local": "imagenes_estrenos/Polloliebre_y_el_secreto_de_la_marmota_backdrop_8E5UnnGpiYgOQUhCaHkP5FUOHwK.jpg",
+    "fecha_estreno": "2026-01-16T00:00:00.000Z",
+    "duración": "88 min",
+    "director": "Benjamin Mousquet",
+    "directores": [
+      {
+        "name": "Benjamin Mousquet",
+        "id": 2905749
+      }
+    ],
+    "actores": [
+      {
+        "name": "Jordan Tartakow",
+        "id": 2452432,
+        "character": "Chickenhare (voice)",
+        "profile_path": "/ocv0tLJM8hXu7alqkfE4faIZICX.jpg"
+      },
+      {
+        "name": "Laila Berzins",
+        "id": 2204537,
+        "character": "Meg (voice)",
+        "profile_path": "/6FIOa6WKq8zEVQW3v6Y7lZiMTOE.jpg"
+      },
+      {
+        "name": "Joe Ochman",
+        "id": 149684,
+        "character": "Abe (voice)",
+        "profile_path": "/yCKPrJxK7KsJ3yLbnTXzV4n4wp6.jpg"
+      },
+      {
+        "name": "Christopher Bass",
+        "id": 4127345,
+        "character": "Groundhog (voice)",
+        "profile_path": "/AtZ0cQFdzgXXwIc9U2ZfLLJxxoS.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 0.9957,
+    "puntuación": 7.5,
+    "votos": 3,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/8E5UnnGpiYgOQUhCaHkP5FUOHwK.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/fyhUpZZmSymQwWO8Ht0dV0z6Sqw.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ceqbmvAKRmVq3CCjeTLUU7IBZl9.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zKEIlRCi8XBcRoth4OC7N8BI3FP.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/8yOTqF7AwAP9DGRVjOZk7CaRfEG.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-01-02 22:02:59"
   },
   {
     "id": 1206008,
@@ -1182,132 +1483,6 @@
     "última_actualización": "2026-01-02 10:03:17"
   },
   {
-    "id": 1215532,
-    "tmdb_id": 1215532,
-    "título": "Polloliebre y el secreto de la marmota",
-    "título_original": "Chickenhare and the Secret of the Groundhog",
-    "sinopsis": "",
-    "poster_path": "/cUCwWxHF1bRfqeY7beZfsvT7WBR.jpg",
-    "poster_local": "imagenes_estrenos/Polloliebre_y_el_secreto_de_la_marmota_cUCwWxHF1bRfqeY7beZfsvT7WBR.jpg",
-    "backdrop_path": "/8E5UnnGpiYgOQUhCaHkP5FUOHwK.jpg",
-    "backdrop_local": "imagenes_estrenos/Polloliebre_y_el_secreto_de_la_marmota_backdrop_8E5UnnGpiYgOQUhCaHkP5FUOHwK.jpg",
-    "fecha_estreno": "2026-01-16T00:00:00.000Z",
-    "duración": "88 min",
-    "director": "Benjamin Mousquet",
-    "directores": [
-      {
-        "name": "Benjamin Mousquet",
-        "id": 2905749
-      }
-    ],
-    "actores": [
-      {
-        "name": "Jordan Tartakow",
-        "id": 2452432,
-        "character": "Chickenhare (voice)",
-        "profile_path": "/ocv0tLJM8hXu7alqkfE4faIZICX.jpg"
-      },
-      {
-        "name": "Laila Berzins",
-        "id": 2204537,
-        "character": "Meg (voice)",
-        "profile_path": "/6FIOa6WKq8zEVQW3v6Y7lZiMTOE.jpg"
-      },
-      {
-        "name": "Joe Ochman",
-        "id": 149684,
-        "character": "Abe (voice)",
-        "profile_path": "/yCKPrJxK7KsJ3yLbnTXzV4n4wp6.jpg"
-      },
-      {
-        "name": "Christopher Bass",
-        "id": 4127345,
-        "character": "Groundhog (voice)",
-        "profile_path": "/AtZ0cQFdzgXXwIc9U2ZfLLJxxoS.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 12,
-        "name": "Aventura"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 0.9957,
-    "puntuación": 7.5,
-    "votos": 3,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/8E5UnnGpiYgOQUhCaHkP5FUOHwK.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/fyhUpZZmSymQwWO8Ht0dV0z6Sqw.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ceqbmvAKRmVq3CCjeTLUU7IBZl9.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/zKEIlRCi8XBcRoth4OC7N8BI3FP.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/8yOTqF7AwAP9DGRVjOZk7CaRfEG.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2026-01-02 10:03:18"
-  },
-  {
     "id": 1605263,
     "tmdb_id": 1605263,
     "título": "AETERNUM",
@@ -1393,7 +1568,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-02 10:03:19"
+    "última_actualización": "2026-01-02 22:03:00"
   },
   {
     "id": 858024,
@@ -1457,7 +1632,7 @@
       }
     ],
     "popularidad": 12.9889,
-    "puntuación": 7.714,
+    "puntuación": 7.7,
     "votos": 21,
     "adulto": false,
     "video": false,
@@ -1528,7 +1703,112 @@
         }
       ]
     },
-    "última_actualización": "2026-01-02 10:03:16"
+    "última_actualización": "2026-01-02 22:02:57"
+  },
+  {
+    "id": 1002158,
+    "tmdb_id": 1002158,
+    "título": "Rapaces",
+    "título_original": "Rapaces",
+    "sinopsis": "Samuel, un periodista, y Ava, su becaria e hija, cubren el asesinato de una joven para su revista. A través de su investigación, descubren inquietantes similitudes con el asesinato de otra mujer.",
+    "poster_path": "/apvuSq8TX1yf5sVLRrVC7Zdh7ty.jpg",
+    "poster_local": "imagenes_estrenos/Rapaces_kEEnA9csdlMOIVeKttV24u639Qg.jpg",
+    "backdrop_path": "/fuXmjoFicUudkABRQu5b2vQPQSt.jpg",
+    "backdrop_local": "imagenes_estrenos/Rapaces_backdrop_fuXmjoFicUudkABRQu5b2vQPQSt.jpg",
+    "fecha_estreno": "2026-01-23T00:00:00.000Z",
+    "duración": "104 min",
+    "director": "Peter Dourountzis",
+    "directores": [
+      {
+        "name": "Peter Dourountzis",
+        "id": 1545190
+      }
+    ],
+    "actores": [
+      {
+        "name": "Sami Bouajila",
+        "id": 20667,
+        "character": "Samuel",
+        "profile_path": "/xq8TMMCA4RI2omGxbPtLVsBMWX8.jpg"
+      },
+      {
+        "name": "Mallory Wanecque",
+        "id": 3508929,
+        "character": "Ava",
+        "profile_path": "/mBgZ6YElr912iCMXs7w5UDR5m90.jpg"
+      },
+      {
+        "name": "Jean-Pierre Darroussin",
+        "id": 28463,
+        "character": "Christian",
+        "profile_path": "/bFIJ3bdn5bjx3r5Tm4VPjlaxwfr.jpg"
+      },
+      {
+        "name": "Valérie Donzelli",
+        "id": 19937,
+        "character": "Solveig Rocher",
+        "profile_path": "/avBnRouRIl6ynhyDU5EXNa9k4iR.jpg"
+      },
+      {
+        "name": "Stefan Crepon",
+        "id": 2601088,
+        "character": "Aubin",
+        "profile_path": "/pEhRxeFhLR1iVyYBMkHijkLZ3xN.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "popularidad": 8.6283,
+    "puntuación": 6.463,
+    "votos": 54,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/fuXmjoFicUudkABRQu5b2vQPQSt.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/idwqbLi9vwP7JjRIWQnREoZy4tf.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1536,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/apvuSq8TX1yf5sVLRrVC7Zdh7ty.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1024
+        }
+      ]
+    },
+    "última_actualización": "2026-01-02 22:02:58"
   },
   {
     "id": 1236153,
@@ -1677,112 +1957,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-02 10:03:17"
-  },
-  {
-    "id": 1002158,
-    "tmdb_id": 1002158,
-    "título": "Rapaces",
-    "título_original": "Rapaces",
-    "sinopsis": "Samuel, un periodista, y Ava, su becaria e hija, cubren el asesinato de una joven para su revista. A través de su investigación, descubren inquietantes similitudes con el asesinato de otra mujer.",
-    "poster_path": "/apvuSq8TX1yf5sVLRrVC7Zdh7ty.jpg",
-    "poster_local": "imagenes_estrenos/Rapaces_kEEnA9csdlMOIVeKttV24u639Qg.jpg",
-    "backdrop_path": "/fuXmjoFicUudkABRQu5b2vQPQSt.jpg",
-    "backdrop_local": "imagenes_estrenos/Rapaces_backdrop_fuXmjoFicUudkABRQu5b2vQPQSt.jpg",
-    "fecha_estreno": "2026-01-23T00:00:00.000Z",
-    "duración": "104 min",
-    "director": "Peter Dourountzis",
-    "directores": [
-      {
-        "name": "Peter Dourountzis",
-        "id": 1545190
-      }
-    ],
-    "actores": [
-      {
-        "name": "Sami Bouajila",
-        "id": 20667,
-        "character": "Samuel",
-        "profile_path": "/xq8TMMCA4RI2omGxbPtLVsBMWX8.jpg"
-      },
-      {
-        "name": "Mallory Wanecque",
-        "id": 3508929,
-        "character": "Ava",
-        "profile_path": "/mBgZ6YElr912iCMXs7w5UDR5m90.jpg"
-      },
-      {
-        "name": "Jean-Pierre Darroussin",
-        "id": 28463,
-        "character": "Christian",
-        "profile_path": "/bFIJ3bdn5bjx3r5Tm4VPjlaxwfr.jpg"
-      },
-      {
-        "name": "Valérie Donzelli",
-        "id": 19937,
-        "character": "Solveig Rocher",
-        "profile_path": "/avBnRouRIl6ynhyDU5EXNa9k4iR.jpg"
-      },
-      {
-        "name": "Stefan Crepon",
-        "id": 2601088,
-        "character": "Aubin",
-        "profile_path": "/pEhRxeFhLR1iVyYBMkHijkLZ3xN.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 53,
-        "name": "Suspense"
-      },
-      {
-        "id": 9648,
-        "name": "Misterio"
-      }
-    ],
-    "popularidad": 8.6283,
-    "puntuación": 6.463,
-    "votos": 54,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/fuXmjoFicUudkABRQu5b2vQPQSt.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/idwqbLi9vwP7JjRIWQnREoZy4tf.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1536,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/apvuSq8TX1yf5sVLRrVC7Zdh7ty.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1024
-        }
-      ]
-    },
-    "última_actualización": "2026-01-02 10:03:17"
+    "última_actualización": "2026-01-02 22:02:59"
   },
   {
     "id": 680493,
@@ -1931,7 +2106,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-02 10:03:18"
+    "última_actualización": "2026-01-02 22:02:59"
   },
   {
     "id": 1357449,
@@ -2015,7 +2190,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-02 10:03:18"
+    "última_actualización": "2026-01-02 22:02:59"
   },
   {
     "id": 1274837,
@@ -2135,6 +2310,6 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-01-02 10:03:18"
+    "última_actualización": "2026-01-02 22:02:59"
   }
 ]
