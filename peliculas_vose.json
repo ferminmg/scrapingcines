@@ -72,6 +72,40 @@
         "cartel": "imagenes_peliculas/tmdb_la_asistenta.jpg",
         "horarios": [
             {
+                "fecha": "2026-01-06",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97681&eventCode=104109"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Paul Feig",
+        "duración": "131 min",
+        "actores": "Sydney Sweeney, Amanda Seyfried, Brandon Sklenar, Elizabeth Perkins, Michele Morrone",
+        "sinopsis": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática.",
+        "año": "2025"
+    },
+    {
+        "título": "Vida privada",
+        "cartel": "imagenes_peliculas/tmdb_vida_privada.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-01-06",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97678&eventCode=105501"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Rebecca Zlotowski",
+        "duración": "105 min",
+        "actores": "Jodie Foster, Daniel Auteuil, Virginie Efira, Mathieu Amalric, Vincent Lacoste",
+        "sinopsis": "La reputada psiquiatra Lilian Steiner emprende una investigación privada sobre la muerte de uno de sus pacientes, del que está convencida que ha sido asesinado.",
+        "año": "2025"
+    },
+    {
+        "título": "La Asistenta",
+        "cartel": "imagenes_peliculas/tmdb_la_asistenta.jpg",
+        "horarios": [
+            {
                 "fecha": "2026-01-07",
                 "hora": "22:15",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97698&eventCode=104109"
@@ -142,7 +176,7 @@
             {
                 "fecha": "2026-01-04",
                 "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88759&eventCode=104525"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2026-01-04",
