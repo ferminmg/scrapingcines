@@ -150,7 +150,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 10:03:13"
+    "última_actualización": "2026-01-08 22:03:06"
   },
   {
     "id": 1208348,
@@ -748,8 +748,8 @@
       }
     ],
     "popularidad": 19.6934,
-    "puntuación": 7.188,
-    "votos": 255,
+    "puntuación": 7.176,
+    "votos": 256,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -849,7 +849,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 10:03:12"
+    "última_actualización": "2026-01-08 22:03:03"
   },
   {
     "id": 1272837,
@@ -1018,7 +1018,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 10:03:12"
+    "última_actualización": "2026-01-08 22:03:04"
   },
   {
     "id": 896096,
@@ -1078,7 +1078,7 @@
       }
     ],
     "popularidad": 11.9393,
-    "puntuación": 6.889,
+    "puntuación": 6.9,
     "votos": 9,
     "adulto": false,
     "video": false,
@@ -1189,7 +1189,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 10:03:13"
+    "última_actualización": "2026-01-08 22:03:05"
   },
   {
     "id": 1215532,
@@ -1315,7 +1315,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-01-08 10:03:14"
+    "última_actualización": "2026-01-08 22:03:07"
   },
   {
     "id": 1206008,
@@ -1578,7 +1578,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 10:03:14"
+    "última_actualización": "2026-01-08 22:03:08"
   },
   {
     "id": 858024,
@@ -1723,7 +1723,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 10:03:13"
+    "última_actualización": "2026-01-08 22:03:04"
   },
   {
     "id": 1236153,
@@ -1892,7 +1892,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 10:03:13"
+    "última_actualización": "2026-01-08 22:03:05"
   },
   {
     "id": 680493,
@@ -1923,7 +1923,7 @@
       {
         "name": "Hannah Emily Anderson",
         "id": 1685904,
-        "character": "Mary Crane",
+        "character": "Mary Crane/Angela/Maria/Moth Mary",
         "profile_path": "/fSyNGF4pZQj9Ne9IKv9kfimECzk.jpg"
       },
       {
@@ -2079,7 +2079,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 10:03:13"
+    "última_actualización": "2026-01-08 22:03:05"
   },
   {
     "id": 1002158,
@@ -2143,8 +2143,8 @@
       }
     ],
     "popularidad": 7.4503,
-    "puntuación": 6.473,
-    "votos": 55,
+    "puntuación": 6.464,
+    "votos": 56,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2184,7 +2184,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 10:03:13"
+    "última_actualización": "2026-01-08 22:03:06"
   },
   {
     "id": 1357449,
@@ -2279,7 +2279,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 10:03:14"
+    "última_actualización": "2026-01-08 22:03:06"
   },
   {
     "id": 1274837,
@@ -2399,7 +2399,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-01-08 10:03:14"
+    "última_actualización": "2026-01-08 22:03:08"
   },
   {
     "id": 1431314,
@@ -2525,14 +2525,6 @@
       {
         "id": 18,
         "name": "Drama"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 80,
-        "name": "Crimen"
       }
     ],
     "popularidad": 58.3812,
@@ -2610,26 +2602,6 @@
           "height": 3000,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/X0axlC4uDS5mCCYS6mLlb5HksP.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/fuL2vIbOWKTRqOtACq1HqyVo40N.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
           "file_path": "/lv0V3uCvFbI0XjtaRzQjdcFmaDf.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -2637,17 +2609,37 @@
         },
         {
           "aspect_ratio": 0.667,
-          "height": 3000,
+          "height": 1200,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/myz1Z9wkhkSL92BzvoRWQoeUUjO.jpg",
+          "file_path": "/c8gjCLlfqUV1KaUH8NGpe5qWFz9.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
-          "width": 2000
+          "width": 800
+        },
+        {
+          "aspect_ratio": 0.75,
+          "height": 2560,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/r0zvaPyRT0j9sDUQLpVeL4cQPDW.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/b6ae1sqOtuRC7An1nmBJc2sECPK.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
         }
       ]
     },
-    "última_actualización": "2026-01-08 10:03:12"
+    "última_actualización": "2026-01-08 22:03:03"
   },
   {
     "id": 1220564,
@@ -2816,7 +2808,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 10:03:13"
+    "última_actualización": "2026-01-08 22:03:04"
   },
   {
     "id": 1198994,
@@ -2965,7 +2957,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 10:03:13"
+    "última_actualización": "2026-01-08 22:03:05"
   },
   {
     "id": 804370,
@@ -3108,7 +3100,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 10:03:14"
+    "última_actualización": "2026-01-08 22:03:06"
   },
   {
     "id": 1276521,
@@ -3241,7 +3233,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 10:03:14"
+    "última_actualización": "2026-01-08 22:03:07"
   },
   {
     "id": 1513010,
@@ -3331,7 +3323,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 10:03:14"
+    "última_actualización": "2026-01-08 22:03:07"
   },
   {
     "id": 1370123,
@@ -3411,6 +3403,6 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 10:03:14"
+    "última_actualización": "2026-01-08 22:03:07"
   }
 ]
