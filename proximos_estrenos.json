@@ -68,8 +68,8 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 7.0545,
-    "puntuación": 6.957,
+    "popularidad": 6.606,
+    "puntuación": 7.0,
     "votos": 23,
     "adulto": false,
     "video": false,
@@ -150,7 +150,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 22:03:06"
+    "última_actualización": "2026-01-09 10:02:58"
   },
   {
     "id": 1208348,
@@ -683,6 +683,185 @@
     "última_actualización": "2026-01-06 22:03:29"
   },
   {
+    "id": 1272837,
+    "tmdb_id": 1272837,
+    "título": "28 años después: El templo de los huesos",
+    "título_original": "28 Years Later: The Bone Temple",
+    "sinopsis": "Segunda entrega de la trilogía de secuelas de 28 días después. Premisa por determinar.",
+    "poster_path": "/9qlqDX3lo7CiFCDZV1Qwopwm5rz.jpg",
+    "poster_local": "imagenes_estrenos/28_a_os_despu_s__El_templo_de_los_huesos_j44XuLdsoSnlSuMgdKmcju4vM95.jpg",
+    "backdrop_path": "/dT1p0K1szMAUBuE2bibouDQdNb8.jpg",
+    "backdrop_local": "imagenes_estrenos/28_a_os_despu_s__El_templo_de_los_huesos_backdrop_dT1p0K1szMAUBuE2bibouDQdNb8.jpg",
+    "fecha_estreno": "2026-01-16T00:00:00.000Z",
+    "duración": "109 min",
+    "director": "Nia DaCosta",
+    "directores": [
+      {
+        "name": "Nia DaCosta",
+        "id": 1795072
+      }
+    ],
+    "actores": [
+      {
+        "name": "Ralph Fiennes",
+        "id": 5469,
+        "character": "Dr. Ian Kelson",
+        "profile_path": "/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg"
+      },
+      {
+        "name": "Alfie Williams",
+        "id": 5107934,
+        "character": "Spike",
+        "profile_path": "/wqfyAhZH6uCu5J4THsz2gJxsizB.jpg"
+      },
+      {
+        "name": "Jack O'Connell",
+        "id": 85065,
+        "character": "Sir Lord Jimmy Crystal",
+        "profile_path": "/9RrqnB1BRaWWHEjlWVVAna0sdBB.jpg"
+      },
+      {
+        "name": "Chi Lewis-Parry",
+        "id": 1344320,
+        "character": "Samson",
+        "profile_path": "/yFE1xHcKn9Gww9DCUYQmBlZ3HVx.jpg"
+      },
+      {
+        "name": "Erin Kellyman",
+        "id": 1672504,
+        "character": "Jimmy Ink",
+        "profile_path": "/f7XXomAaSRxE3h5NT0sAlcQTjPL.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "popularidad": 21.1061,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/dT1p0K1szMAUBuE2bibouDQdNb8.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/1hlFngMc0f843NZg7f8pGQb7D6f.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/cwX1koqx0UsN0naDGxKFMs3raUZ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/pYSSPVVXE2Yfm6eNRApd7p6aNB8.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1701,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/e7ttxhrGnqb1tKGJnbolh1tBRB9.jpg",
+          "vote_average": 1.75,
+          "vote_count": 3,
+          "width": 3024
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tEqbXPFNPeOOrwXuoNK9HzBDmH2.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/dGi8xHfRS9Pr7vaihL3OOla9VQ2.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.675,
+          "height": 2048,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jIZVtlgWhtu7Y0M9oHeLRySHB3g.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1383
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1920,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/9qlqDX3lo7CiFCDZV1Qwopwm5rz.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 0.675,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/n6znIuDwF7KnHNNpWG2OCjFOPVv.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1012
+        }
+      ]
+    },
+    "última_actualización": "2026-01-09 10:02:57"
+  },
+  {
     "id": 1456349,
     "tmdb_id": 1456349,
     "título": "Un simple accidente",
@@ -747,9 +926,9 @@
         "name": "Crimen"
       }
     ],
-    "popularidad": 19.6934,
-    "puntuación": 7.176,
-    "votos": 256,
+    "popularidad": 18.0398,
+    "puntuación": 7.171,
+    "votos": 257,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -849,176 +1028,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 22:03:03"
-  },
-  {
-    "id": 1272837,
-    "tmdb_id": 1272837,
-    "título": "28 años después: El templo de los huesos",
-    "título_original": "28 Years Later: The Bone Temple",
-    "sinopsis": "Segunda entrega de la trilogía de secuelas de 28 días después. Premisa por determinar.",
-    "poster_path": "/9qlqDX3lo7CiFCDZV1Qwopwm5rz.jpg",
-    "poster_local": "imagenes_estrenos/28_a_os_despu_s__El_templo_de_los_huesos_j44XuLdsoSnlSuMgdKmcju4vM95.jpg",
-    "backdrop_path": "/dT1p0K1szMAUBuE2bibouDQdNb8.jpg",
-    "backdrop_local": "imagenes_estrenos/28_a_os_despu_s__El_templo_de_los_huesos_backdrop_dT1p0K1szMAUBuE2bibouDQdNb8.jpg",
-    "fecha_estreno": "2026-01-16T00:00:00.000Z",
-    "duración": "109 min",
-    "director": "Nia DaCosta",
-    "directores": [
-      {
-        "name": "Nia DaCosta",
-        "id": 1795072
-      }
-    ],
-    "actores": [
-      {
-        "name": "Ralph Fiennes",
-        "id": 5469,
-        "character": "Dr. Ian Kelson",
-        "profile_path": "/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg"
-      },
-      {
-        "name": "Alfie Williams",
-        "id": 5107934,
-        "character": "Spike",
-        "profile_path": "/wqfyAhZH6uCu5J4THsz2gJxsizB.jpg"
-      },
-      {
-        "name": "Jack O'Connell",
-        "id": 85065,
-        "character": "Sir Lord Jimmy Crystal",
-        "profile_path": "/9RrqnB1BRaWWHEjlWVVAna0sdBB.jpg"
-      },
-      {
-        "name": "Chi Lewis-Parry",
-        "id": 1344320,
-        "character": "Samson",
-        "profile_path": "/yFE1xHcKn9Gww9DCUYQmBlZ3HVx.jpg"
-      },
-      {
-        "name": "Erin Kellyman",
-        "id": 1672504,
-        "character": "Jimmy Ink",
-        "profile_path": "/f7XXomAaSRxE3h5NT0sAlcQTjPL.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      },
-      {
-        "id": 878,
-        "name": "Ciencia ficción"
-      }
-    ],
-    "popularidad": 17.1387,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/dT1p0K1szMAUBuE2bibouDQdNb8.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/1hlFngMc0f843NZg7f8pGQb7D6f.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/cwX1koqx0UsN0naDGxKFMs3raUZ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/pYSSPVVXE2Yfm6eNRApd7p6aNB8.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1701,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/e7ttxhrGnqb1tKGJnbolh1tBRB9.jpg",
-          "vote_average": 1.75,
-          "vote_count": 3,
-          "width": 3024
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/tEqbXPFNPeOOrwXuoNK9HzBDmH2.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/dGi8xHfRS9Pr7vaihL3OOla9VQ2.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.675,
-          "height": 2048,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/jIZVtlgWhtu7Y0M9oHeLRySHB3g.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1383
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1920,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/9qlqDX3lo7CiFCDZV1Qwopwm5rz.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ]
-    },
-    "última_actualización": "2026-01-08 22:03:04"
+    "última_actualización": "2026-01-09 10:02:57"
   },
   {
     "id": 896096,
@@ -1077,7 +1087,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 11.9393,
+    "popularidad": 9.9534,
     "puntuación": 6.9,
     "votos": 9,
     "adulto": false,
@@ -1189,7 +1199,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 22:03:05"
+    "última_actualización": "2026-01-09 10:02:58"
   },
   {
     "id": 1215532,
@@ -1254,7 +1264,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 0.9725,
+    "popularidad": 0.9225,
     "puntuación": 7.5,
     "votos": 3,
     "adulto": false,
@@ -1315,7 +1325,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-01-08 22:03:07"
+    "última_actualización": "2026-01-09 10:02:59"
   },
   {
     "id": 1206008,
@@ -1557,7 +1567,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 0.0704,
+    "popularidad": 0.0622,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1578,7 +1588,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 22:03:08"
+    "última_actualización": "2026-01-09 10:02:59"
   },
   {
     "id": 858024,
@@ -1641,9 +1651,9 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 16.9738,
-    "puntuación": 7.63,
-    "votos": 23,
+    "popularidad": 18.0825,
+    "puntuación": 7.6,
+    "votos": 24,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1723,7 +1733,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 22:03:04"
+    "última_actualización": "2026-01-09 10:02:57"
   },
   {
     "id": 1236153,
@@ -1790,7 +1800,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 10.8585,
+    "popularidad": 13.8243,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1892,7 +1902,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 22:03:05"
+    "última_actualización": "2026-01-09 10:02:58"
   },
   {
     "id": 680493,
@@ -1902,7 +1912,7 @@
     "sinopsis": "",
     "poster_path": "/fGSmcSIZGam07ihABhVtaQAzOyd.jpg",
     "poster_local": "imagenes_estrenos/Return_to_Silent_Hill_afTkeXGBGhp3jekam0vG1dQihOr.jpg",
-    "backdrop_path": "/zWe8ynGlGH3KP896jHCemxnOvCo.jpg",
+    "backdrop_path": "/wjzIJWoXu6BJSAzcii3a1BmAjbK.jpg",
     "backdrop_local": "imagenes_estrenos/Return_to_Silent_Hill_backdrop_vc0NSkkdZmFtf3VTYfkEt9jTrRV.jpg",
     "fecha_estreno": "2026-01-23T00:00:00.000Z",
     "duración": "106 min",
@@ -1923,14 +1933,8 @@
       {
         "name": "Hannah Emily Anderson",
         "id": 1685904,
-        "character": "Mary Crane/Angela/Maria/Moth Mary",
+        "character": "Mary Crane / Angela / Maria / Moth Mary",
         "profile_path": "/fSyNGF4pZQj9Ne9IKv9kfimECzk.jpg"
-      },
-      {
-        "name": "Robert Strange",
-        "id": 1675328,
-        "character": "Red Pyramid",
-        "profile_path": "/4GBjA1itRhsKaPaOrVE1YN9qOqc.jpg"
       },
       {
         "name": "Evie Templeton",
@@ -1943,6 +1947,12 @@
         "id": 2438347,
         "character": "Eddie Dombrowski",
         "profile_path": "/bzHkytLIEk4T4arzd7h5BRLufov.jpg"
+      },
+      {
+        "name": "Eve Macklin",
+        "id": 1092908,
+        "character": "Kaitlyn",
+        "profile_path": "/7e1bpd3iTst0PvCk4A7LVfUgNut.jpg"
       }
     ],
     "géneros": [
@@ -1967,7 +1977,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 10.0427,
+    "popularidad": 11.5721,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1977,43 +1987,13 @@
       "backdrops": [
         {
           "aspect_ratio": 1.778,
-          "height": 1390,
+          "height": 731,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/zWe8ynGlGH3KP896jHCemxnOvCo.jpg",
+          "file_path": "/wjzIJWoXu6BJSAzcii3a1BmAjbK.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
-          "width": 2472
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 783,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/5KqDxdmo0qtn1j60nGQ2ZmPE4eU.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1392
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 774,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6tWJ8syHT507yipY9nHhiAZqmxl.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1376
-        },
-        {
-          "aspect_ratio": 1.776,
-          "height": 765,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/m8RVdL4I1kgXaFOpIcCeKMcsGCg.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1359
+          "width": 1300
         },
         {
           "aspect_ratio": 1.776,
@@ -2021,9 +2001,39 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/jojajuFqS2UsS59aFjDa8bo3lxH.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
+          "vote_average": 2.278,
+          "vote_count": 3,
           "width": 1380
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xFJrDkjVnLcOfJZzY3eTrRqLv30.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7doN545ldFBXVyawdeGg8ai2wvT.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/x0vzLScZeVufUK09X9YuGXoO3T.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
         }
       ],
       "posters": [
@@ -2079,7 +2089,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 22:03:05"
+    "última_actualización": "2026-01-09 10:02:58"
   },
   {
     "id": 1002158,
@@ -2142,7 +2152,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 7.4503,
+    "popularidad": 6.8963,
     "puntuación": 6.464,
     "votos": 56,
     "adulto": false,
@@ -2184,7 +2194,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 22:03:06"
+    "última_actualización": "2026-01-09 10:02:58"
   },
   {
     "id": 1357449,
@@ -2247,7 +2257,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 2.4293,
+    "popularidad": 2.5313,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2279,7 +2289,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 22:03:06"
+    "última_actualización": "2026-01-09 10:02:58"
   },
   {
     "id": 1274837,
@@ -2338,7 +2348,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.6122,
+    "popularidad": 0.451,
     "puntuación": 4.5,
     "votos": 6,
     "adulto": false,
@@ -2399,7 +2409,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-01-08 22:03:08"
+    "última_actualización": "2026-01-09 10:02:59"
   },
   {
     "id": 1431314,
@@ -2527,9 +2537,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 58.3812,
+    "popularidad": 53.5809,
     "puntuación": 8.0,
-    "votos": 85,
+    "votos": 87,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2639,7 +2649,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 22:03:03"
+    "última_actualización": "2026-01-09 10:02:57"
   },
   {
     "id": 1220564,
@@ -2706,9 +2716,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 15.7875,
-    "puntuación": 7.9,
-    "votos": 129,
+    "popularidad": 15.4572,
+    "puntuación": 7.912,
+    "votos": 130,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2808,7 +2818,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 22:03:04"
+    "última_actualización": "2026-01-09 10:02:58"
   },
   {
     "id": 1198994,
@@ -2875,7 +2885,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 8.3134,
+    "popularidad": 10.7174,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2957,7 +2967,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 22:03:05"
+    "última_actualización": "2026-01-09 10:02:58"
   },
   {
     "id": 804370,
@@ -3028,7 +3038,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 2.3541,
+    "popularidad": 4.0108,
     "puntuación": 8.0,
     "votos": 55,
     "adulto": false,
@@ -3100,7 +3110,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 22:03:06"
+    "última_actualización": "2026-01-09 10:02:58"
   },
   {
     "id": 1276521,
@@ -3171,7 +3181,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 1.9579,
+    "popularidad": 1.7243,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3233,7 +3243,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 22:03:07"
+    "última_actualización": "2026-01-09 10:02:59"
   },
   {
     "id": 1513010,
@@ -3292,7 +3302,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.0344,
+    "popularidad": 1.0801,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3323,7 +3333,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 22:03:07"
+    "última_actualización": "2026-01-09 10:02:59"
   },
   {
     "id": 1370123,
@@ -3382,7 +3392,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.7302,
+    "popularidad": 0.7548,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3403,6 +3413,6 @@
         }
       ]
     },
-    "última_actualización": "2026-01-08 22:03:07"
+    "última_actualización": "2026-01-09 10:02:59"
   }
 ]
