@@ -1,27 +1,5 @@
 [
     {
-        "título": "El chico y la garza (Reestreno)",
-        "cartel": "imagenes_filmaffinity/el-chico-y-la-garza-reestreno.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-01-11",
-                "hora": "19:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25038"
-            },
-            {
-                "fecha": "2026-01-15",
-                "hora": "19:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25039"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
-    },
-    {
         "título": "Rental Family (Familia de alquiler)",
         "cartel": "imagenes_filmaffinity/rental-family-familia-de-alquiler.jpg",
         "horarios": [
@@ -71,6 +49,23 @@
         "actores": "Sydney Sweeney, Amanda Seyfried, Brandon Sklenar, Elizabeth Perkins, Michele Morrone",
         "sinopsis": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática.",
         "año": "2025"
+    },
+    {
+        "título": "El chico y la garza (Reestreno)",
+        "cartel": "imagenes_filmaffinity/el-chico-y-la-garza-reestreno.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-01-15",
+                "hora": "19:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25039"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
     },
     {
         "título": "El Castillo Ambulante (Reestreno)",
