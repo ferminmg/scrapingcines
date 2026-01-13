@@ -1,0 +1,56 @@
+2026-01-13 20:06:46,057 - INFO - Iniciando proceso de scraping
+2026-01-13 20:06:46,059 - INFO - Posts existentes encontrados: 2491
+2026-01-13 20:06:46,060 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-01-13 20:06:47,293 - INFO - Se encontraron 10 posts
+2026-01-13 20:06:47,293 - INFO - Comenzando extracción de información del post
+2026-01-13 20:06:47,294 - INFO - Título del post: LA ASISTENTA de Rebecca Sonnenshine
+2026-01-13 20:06:47,294 - INFO - Fecha del post: 2026-01-13T18:50:37+01:00
+2026-01-13 20:06:47,294 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/01/la-asistenta-de-rebecca-sonnenshine.html
+2026-01-13 20:06:48,626 - INFO - Contenido extraído y estructurado (4061 caracteres)
+2026-01-13 20:06:48,627 - INFO - Guardando post en: posts/LA_ASISTENTA_2026-01-13.json
+2026-01-13 20:06:48,628 - INFO - Post guardado exitosamente
+2026-01-13 20:06:48,628 - INFO - Actualizando índice de películas
+2026-01-13 20:06:48,628 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-01-13 20:06:48,632 - INFO - Índice existente cargado con 2591 películas
+2026-01-13 20:06:48,643 - INFO - Película agregada al índice: LA ASISTENTA
+2026-01-13 20:06:48,644 - INFO - Nuevo post guardado: LA ASISTENTA de Rebecca Sonnenshine
+2026-01-13 20:06:48,644 - INFO - Comenzando extracción de información del post
+2026-01-13 20:06:48,644 - INFO - Título del post: RONDALLAS de Daniel Sánchez Arévalo
+2026-01-13 20:06:48,644 - INFO - Fecha del post: 2026-01-13T18:43:38+01:00
+2026-01-13 20:06:48,644 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/01/rondallas-de-daniel-sanchez-arevalo.html
+2026-01-13 20:06:50,032 - WARNING - No se encontró 'Título Original' en el contenido
+2026-01-13 20:06:50,032 - INFO - Usando contenido completo como respaldo
+2026-01-13 20:06:50,033 - INFO - Guardando post en: posts/RONDALLAS_2026-01-13.json
+2026-01-13 20:06:50,033 - INFO - Post guardado exitosamente
+2026-01-13 20:06:50,033 - INFO - Actualizando índice de películas
+2026-01-13 20:06:50,033 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-01-13 20:06:50,037 - INFO - Índice existente cargado con 2592 películas
+2026-01-13 20:06:50,048 - INFO - Película agregada al índice: RONDALLAS
+2026-01-13 20:06:50,049 - INFO - Nuevo post guardado: RONDALLAS de Daniel Sánchez Arévalo
+2026-01-13 20:06:50,049 - INFO - Comenzando extracción de información del post
+2026-01-13 20:06:50,049 - INFO - Título del post: EL MÉDICO 2 de Philipp Stölzl
+2026-01-13 20:06:50,049 - INFO - Fecha del post: 2026-01-13T18:36:41+01:00
+2026-01-13 20:06:50,049 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/01/critica-de-el-medico-2-de-philipp-stolzl.html
+2026-01-13 20:06:51,210 - INFO - Contenido extraído y estructurado (2715 caracteres)
+2026-01-13 20:06:51,211 - INFO - Guardando post en: posts/EL_MÉDICO_2_2026-01-13.json
+2026-01-13 20:06:51,211 - INFO - Post guardado exitosamente
+2026-01-13 20:06:51,211 - INFO - Actualizando índice de películas
+2026-01-13 20:06:51,211 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-01-13 20:06:51,215 - INFO - Índice existente cargado con 2593 películas
+2026-01-13 20:06:51,227 - INFO - Película agregada al índice: EL MÉDICO 2
+2026-01-13 20:06:51,227 - INFO - Nuevo post guardado: EL MÉDICO 2 de Philipp Stölzl
+2026-01-13 20:06:51,227 - INFO - Comenzando extracción de información del post
+2026-01-13 20:06:51,227 - INFO - Post ya existente, saltando: AVATAR: FUEGO Y CENIZAS de James Cameron
+2026-01-13 20:06:51,227 - INFO - Comenzando extracción de información del post
+2026-01-13 20:06:51,227 - INFO - Post ya existente, saltando: HOMO ARGENTUM de Mariano Cohn y Gastón Duprat
+2026-01-13 20:06:51,228 - INFO - Comenzando extracción de información del post
+2026-01-13 20:06:51,228 - INFO - Post ya existente, saltando: ZODIAC KILLER PROJECT de Charlie Shackleton
+2026-01-13 20:06:51,228 - INFO - Comenzando extracción de información del post
+2026-01-13 20:06:51,228 - INFO - Post ya existente, saltando: FATHER MOTHER SISTER BROTHER de Jim Jarmusch
+2026-01-13 20:06:51,228 - INFO - Comenzando extracción de información del post
+2026-01-13 20:06:51,228 - INFO - Post ya existente, saltando: VIDA PRIVADA de Rebecca Zlotowski
+2026-01-13 20:06:51,228 - INFO - Comenzando extracción de información del post
+2026-01-13 20:06:51,228 - INFO - Post ya existente, saltando: ART SPIEGELMAN: EL DESASTRE ES MI MUSA de Molly Bernstein y Philip Dolin
+2026-01-13 20:06:51,228 - INFO - Comenzando extracción de información del post
+2026-01-13 20:06:51,229 - INFO - Post ya existente, saltando: EL EXTRANJERO de François Ozon
+2026-01-13 20:06:51,229 - INFO - Proceso completado. Posts nuevos guardados: 3
