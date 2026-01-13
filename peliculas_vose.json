@@ -6,7 +6,7 @@
             {
                 "fecha": "2026-01-13",
                 "hora": "22:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97860&eventCode=103901"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -23,7 +23,7 @@
             {
                 "fecha": "2026-01-13",
                 "hora": "22:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97853&eventCode=103875"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -40,7 +40,7 @@
             {
                 "fecha": "2026-01-13",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97856&eventCode=104109"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -153,6 +153,40 @@
         "año": "2025"
     },
     {
+        "título": "Rental Family (Familia de alquiler)",
+        "cartel": "imagenes_peliculas/1765977366.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-01-16",
+                "hora": "22:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97901&eventCode=103901"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "La Asistenta",
+        "cartel": "imagenes_peliculas/tmdb_la_asistenta.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-01-16",
+                "hora": "22:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97884&eventCode=104109"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Paul Feig",
+        "duración": "131 min",
+        "actores": "Sydney Sweeney, Amanda Seyfried, Brandon Sklenar, Elizabeth Perkins, Michele Morrone",
+        "sinopsis": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática.",
+        "año": "2025"
+    },
+    {
         "título": "La cronología del agua",
         "cartel": "imagenes_peliculas/tmdb_la_cronologia_del_agua.jpg",
         "horarios": [
@@ -164,7 +198,7 @@
             {
                 "fecha": "2026-01-13",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88844&eventCode=104520"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -203,7 +237,7 @@
             {
                 "fecha": "2026-01-13",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88855&eventCode=104525"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
