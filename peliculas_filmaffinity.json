@@ -4,11 +4,6 @@
         "cartel": "imagenes_filmaffinity/el-castillo-ambulante-reestreno.jpg",
         "horarios": [
             {
-                "fecha": "2026-01-16",
-                "hora": "19:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25040"
-            },
-            {
                 "fecha": "2026-01-17",
                 "hora": "19:00",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25041"
@@ -260,5 +255,22 @@
         "actores": null,
         "sinopsis": null,
         "año": null
+    },
+    {
+        "título": "Cumbres borrascosas",
+        "cartel": "imagenes_filmaffinity/tmdb_cumbres-borrascosas.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-17",
+                "hora": "19:35",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25545"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Emerald Fennell",
+        "duración": "136 min",
+        "actores": "Margot Robbie, Jacob Elordi, Hong Chau, Alison Oliver, Shazad Latif",
+        "sinopsis": "",
+        "año": "2026"
     }
 ]
