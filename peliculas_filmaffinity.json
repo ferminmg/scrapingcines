@@ -1,27 +1,5 @@
 [
     {
-        "título": "El Castillo Ambulante (Reestreno)",
-        "cartel": "imagenes_filmaffinity/el-castillo-ambulante-reestreno.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-01-18",
-                "hora": "19:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25042"
-            },
-            {
-                "fecha": "2026-01-22",
-                "hora": "19:05",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25043"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
-    },
-    {
         "título": "28 años después: El templo de los huesos",
         "cartel": "imagenes_filmaffinity/tmdb_28-anos-despues-el-templo-de-los-huesos.jpg",
         "horarios": [
@@ -34,7 +12,7 @@
         "cine": "Yelmo Itaroa",
         "director": "Nia DaCosta",
         "duración": "109 min",
-        "actores": "Jack O'Connell, Alfie Williams, Connor Newall, Erin Kellyman, Maura Bird",
+        "actores": "Ralph Fiennes, Jack O'Connell, Alfie Williams, Connor Newall, Erin Kellyman",
         "sinopsis": "Segunda entrega de la trilogía de secuelas de 28 días después. Premisa por determinar.",
         "año": "2026"
     },
@@ -110,6 +88,23 @@
         "actores": "Dave Mustaine",
         "sinopsis": "Dave Mustaine repasa los 40 años de historia de Megadeth, revela anécdotas inéditas, nos habla de la chispa creativa que sigue alimentando a la banda, y estrena su nuevo álbum en un evento especial acompañado de un documental que recorre las cuatro décadas de la banda y las valoraciones de Mustaine tema por tema. Una envolvente celebración de una de las bandas más influyentes del metal, que recoge su legado y marca el inicio de un nuevo y poderoso capítulo.",
         "año": "2026"
+    },
+    {
+        "título": "El Castillo Ambulante (Reestreno)",
+        "cartel": "imagenes_filmaffinity/el-castillo-ambulante-reestreno.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-01-22",
+                "hora": "19:05",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25043"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
     },
     {
         "título": "El Viaje de Chihiro - Reestreno",
