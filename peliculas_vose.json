@@ -38,6 +38,40 @@
         "cartel": "imagenes_peliculas/1765977366.jpg",
         "horarios": [
             {
+                "fecha": "2026-01-20",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98018&eventCode=103901"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "La Asistenta",
+        "cartel": "imagenes_peliculas/tmdb_la_asistenta.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-01-20",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98017&eventCode=104109"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Paul Feig",
+        "duración": "131 min",
+        "actores": "Sydney Sweeney, Amanda Seyfried, Brandon Sklenar, Michele Morrone, Indiana Elle",
+        "sinopsis": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática.",
+        "año": "2025"
+    },
+    {
+        "título": "Rental Family (Familia de alquiler)",
+        "cartel": "imagenes_peliculas/1765977366.jpg",
+        "horarios": [
+            {
                 "fecha": "2026-01-21",
                 "hora": "20:00",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=97970&eventCode=103901"
@@ -125,7 +159,7 @@
             {
                 "fecha": "2026-01-19",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=88987&eventCode=103871"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
