@@ -68,7 +68,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 5.733,
+    "popularidad": 5.2058,
     "puntuación": 7.0,
     "votos": 25,
     "adulto": false,
@@ -150,7 +150,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-19 22:02:29"
+    "última_actualización": "2026-01-20 10:04:34"
   },
   {
     "id": 1542685,
@@ -213,7 +213,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.1196,
+    "popularidad": 0.1176,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -234,7 +234,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-01-19 22:02:31"
+    "última_actualización": "2026-01-20 10:04:37"
   },
   {
     "id": 858024,
@@ -297,9 +297,9 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 30.8093,
-    "puntuación": 7.508,
-    "votos": 61,
+    "popularidad": 27.2102,
+    "puntuación": 7.492,
+    "votos": 63,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -379,7 +379,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-19 22:02:29"
+    "última_actualización": "2026-01-20 10:04:33"
   },
   {
     "id": 1236153,
@@ -389,7 +389,7 @@
     "sinopsis": "Tras ser acusado de un crimen, un detective deberá demostrar su inocencia.",
     "poster_path": "/9zBNg8koM3fjUTPT7QeJHuGG2r9.jpg",
     "poster_local": "imagenes_estrenos/Sin_piedad_1LzdlxK9ctsnx7nXoGF1ImHKddl.jpg",
-    "backdrop_path": "/vbI706C9s6QBgmJ9QQ0nA70Wi9W.jpg",
+    "backdrop_path": "/l0rY0RH64CXne5vW2Y3yHZpjmDy.jpg",
     "backdrop_local": "imagenes_estrenos/Sin_piedad_backdrop_ArM4HK4N2lUcRzDRdIRcY6gHZNn.jpg",
     "fecha_estreno": "2026-01-23T00:00:00.000Z",
     "duración": "100 min",
@@ -446,9 +446,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 14.3738,
-    "puntuación": 0.0,
-    "votos": 0,
+    "popularidad": 19.0896,
+    "puntuación": 6.0,
+    "votos": 2,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -456,12 +456,22 @@
       "backdrops": [
         {
           "aspect_ratio": 1.778,
+          "height": 1957,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/l0rY0RH64CXne5vW2Y3yHZpjmDy.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 3480
+        },
+        {
+          "aspect_ratio": 1.778,
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/vbI706C9s6QBgmJ9QQ0nA70Wi9W.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
+          "vote_average": 1.75,
+          "vote_count": 4,
           "width": 3840
         },
         {
@@ -470,29 +480,9 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/vmjQ0cC5jcXHRBTd90lWTyuePjN.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1957,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/l0rY0RH64CXne5vW2Y3yHZpjmDy.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3480
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 984,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ArM4HK4N2lUcRzDRdIRcY6gHZNn.jpg",
           "vote_average": 1.222,
           "vote_count": 3,
-          "width": 1750
+          "width": 3840
         },
         {
           "aspect_ratio": 1.778,
@@ -503,6 +493,16 @@
           "vote_average": 0.166,
           "vote_count": 2,
           "width": 1280
+        },
+        {
+          "aspect_ratio": 1.78,
+          "height": 871,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/fqogmVPifzGIXd9HxVGDonn4ZvO.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1550
         }
       ],
       "posters": [
@@ -558,7 +558,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-19 22:02:29"
+    "última_actualización": "2026-01-20 10:04:33"
   },
   {
     "id": 1002158,
@@ -621,7 +621,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 3.5054,
+    "popularidad": 3.4972,
     "puntuación": 6.482,
     "votos": 57,
     "adulto": false,
@@ -663,7 +663,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-19 22:02:30"
+    "última_actualización": "2026-01-20 10:04:34"
   },
   {
     "id": 1274837,
@@ -722,7 +722,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 2.916,
+    "popularidad": 3.307,
     "puntuación": 5.1,
     "votos": 13,
     "adulto": false,
@@ -783,7 +783,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-01-19 22:02:30"
+    "última_actualización": "2026-01-20 10:04:34"
   },
   {
     "id": 1357449,
@@ -846,7 +846,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 1.8383,
+    "popularidad": 1.9938,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -878,7 +878,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-19 22:02:30"
+    "última_actualización": "2026-01-20 10:04:35"
   },
   {
     "id": 680493,
@@ -1114,7 +1114,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 0.7291,
+    "popularidad": 0.6514,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1135,7 +1135,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-19 22:02:30"
+    "última_actualización": "2026-01-20 10:04:36"
   },
   {
     "id": 1431314,
@@ -1263,9 +1263,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 60.1046,
+    "popularidad": 57.4959,
     "puntuación": 8.1,
-    "votos": 140,
+    "votos": 142,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1375,7 +1375,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-19 22:02:29"
+    "última_actualización": "2026-01-20 10:04:32"
   },
   {
     "id": 1220564,
@@ -1442,9 +1442,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 23.3863,
-    "puntuación": 7.9,
-    "votos": 157,
+    "popularidad": 37.0089,
+    "puntuación": 7.8,
+    "votos": 169,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1554,7 +1554,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-19 22:02:29"
+    "última_actualización": "2026-01-20 10:04:32"
   },
   {
     "id": 1198994,
@@ -1621,9 +1621,9 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 12.38,
-    "puntuación": 0.0,
-    "votos": 0,
+    "popularidad": 14.1496,
+    "puntuación": 6.0,
+    "votos": 1,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1720,10 +1720,20 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 1696
+        },
+        {
+          "aspect_ratio": 0.666,
+          "height": 1100,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/m6cubm61t8UfL4KhkP4DJVrWjhj.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 733
         }
       ]
     },
-    "última_actualización": "2026-01-19 22:02:29"
+    "última_actualización": "2026-01-20 10:04:33"
   },
   {
     "id": 1276521,
@@ -1794,7 +1804,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 6.9465,
+    "popularidad": 7.8294,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1856,7 +1866,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-19 22:02:29"
+    "última_actualización": "2026-01-20 10:04:33"
   },
   {
     "id": 804370,
@@ -1927,7 +1937,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 2.5309,
+    "popularidad": 2.2693,
     "puntuación": 7.9,
     "votos": 63,
     "adulto": false,
@@ -1999,7 +2009,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-19 22:02:30"
+    "última_actualización": "2026-01-20 10:04:35"
   },
   {
     "id": 1370123,
@@ -2058,7 +2068,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 1.7268,
+    "popularidad": 1.969,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2089,7 +2099,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-19 22:02:30"
+    "última_actualización": "2026-01-20 10:04:35"
   },
   {
     "id": 1513010,
@@ -2148,7 +2158,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.2363,
+    "popularidad": 1.5084,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2176,10 +2186,20 @@
           "vote_average": 0.0,
           "vote_count": 1,
           "width": 639
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1920,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/dYjDSBXQCprt7yM9H6SotSasqjf.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
         }
       ]
     },
-    "última_actualización": "2026-01-19 22:02:30"
+    "última_actualización": "2026-01-20 10:04:35"
   },
   {
     "id": 1315303,
@@ -2242,7 +2262,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 42.6473,
+    "popularidad": 42.7975,
     "puntuación": 6.6,
     "votos": 37,
     "adulto": false,
@@ -2344,7 +2364,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-19 22:02:29"
+    "última_actualización": "2026-01-20 10:04:32"
   },
   {
     "id": 1087822,
@@ -2411,7 +2431,7 @@
         "name": "Acción"
       }
     ],
-    "popularidad": 6.0743,
+    "popularidad": 4.6235,
     "puntuación": 5.183,
     "votos": 503,
     "adulto": false,
@@ -2523,7 +2543,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-19 22:02:29"
+    "última_actualización": "2026-01-20 10:04:34"
   },
   {
     "id": 1364608,
@@ -2582,7 +2602,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 5.7258,
+    "popularidad": 5.8042,
     "puntuación": 6.1,
     "votos": 85,
     "adulto": false,
@@ -2674,7 +2694,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-19 22:02:30"
+    "última_actualización": "2026-01-20 10:04:34"
   },
   {
     "id": 1571101,
@@ -2710,7 +2730,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 0.1889,
+    "popularidad": 0.2297,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2731,7 +2751,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-19 22:02:31"
+    "última_actualización": "2026-01-20 10:04:36"
   },
   {
     "id": 1588838,
@@ -2790,7 +2810,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.1325,
+    "popularidad": 0.1682,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2811,7 +2831,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-19 22:02:31"
+    "última_actualización": "2026-01-20 10:04:36"
   },
   {
     "id": 1606362,
@@ -2949,7 +2969,7 @@
       }
     ],
     "géneros": [],
-    "popularidad": 0.3193,
+    "popularidad": 0.2796,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2970,6 +2990,6 @@
         }
       ]
     },
-    "última_actualización": "2026-01-19 22:02:31"
+    "última_actualización": "2026-01-20 10:04:36"
   }
 ]
