@@ -1,27 +1,5 @@
 [
     {
-        "título": "El Viaje de Chihiro - Reestreno",
-        "cartel": "imagenes_filmaffinity/el-viaje-de-chihiro-reestreno.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-01-25",
-                "hora": "19:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25046"
-            },
-            {
-                "fecha": "2026-01-29",
-                "hora": "19:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25047"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
-    },
-    {
         "título": "Hamnet",
         "cartel": "imagenes_filmaffinity/tmdb_hamnet.jpg",
         "horarios": [
@@ -88,6 +66,23 @@
         "actores": "Sydney Sweeney, Amanda Seyfried, Brandon Sklenar, Michele Morrone, Indiana Elle",
         "sinopsis": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática.",
         "año": "2025"
+    },
+    {
+        "título": "El Viaje de Chihiro - Reestreno",
+        "cartel": "imagenes_filmaffinity/el-viaje-de-chihiro-reestreno.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-01-29",
+                "hora": "19:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25047"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
     },
     {
         "título": "La princesa Mononoke (Reestreno)",
