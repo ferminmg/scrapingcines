@@ -23,7 +23,7 @@
             {
                 "fecha": "2026-01-27",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98115&eventCode=103901"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -40,7 +40,7 @@
             {
                 "fecha": "2026-01-27",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98118&eventCode=104109"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -153,6 +153,108 @@
         "año": "2025"
     },
     {
+        "título": "Marty Supreme",
+        "cartel": "imagenes_peliculas/tmdb_marty_supreme.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-01-30",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98181&eventCode=103333"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Josh Safdie",
+        "duración": "150 min",
+        "actores": "Timothée Chalamet, Gwyneth Paltrow, Odessa A'zion, Kevin O'Leary, Tyler, The Creator",
+        "sinopsis": "Biopic de Marty Reisman, un buscavidas convertido en campeón de ping pong, desde que empezó a jugar por apuestas en Manhattan hasta ganar 22 títulos importantes y convertirse en el más veterano en ganar una competición nacional de deportes de raqueta, con 67 años.",
+        "año": "2025"
+    },
+    {
+        "título": "Hamnet",
+        "cartel": "imagenes_peliculas/tmdb_hamnet.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-01-30",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98183&eventCode=103859"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Chloé Zhao",
+        "duración": "126 min",
+        "actores": "Jessie Buckley, Paul Mescal, Emily Watson, Joe Alwyn, Jacobi Jupe",
+        "sinopsis": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.",
+        "año": "2025"
+    },
+    {
+        "título": "Marty Supreme",
+        "cartel": "imagenes_peliculas/tmdb_marty_supreme.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-01-31",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98201&eventCode=103333"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Josh Safdie",
+        "duración": "150 min",
+        "actores": "Timothée Chalamet, Gwyneth Paltrow, Odessa A'zion, Kevin O'Leary, Tyler, The Creator",
+        "sinopsis": "Biopic de Marty Reisman, un buscavidas convertido en campeón de ping pong, desde que empezó a jugar por apuestas en Manhattan hasta ganar 22 títulos importantes y convertirse en el más veterano en ganar una competición nacional de deportes de raqueta, con 67 años.",
+        "año": "2025"
+    },
+    {
+        "título": "Hamnet",
+        "cartel": "imagenes_peliculas/tmdb_hamnet.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-01-31",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98198&eventCode=103859"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Chloé Zhao",
+        "duración": "126 min",
+        "actores": "Jessie Buckley, Paul Mescal, Emily Watson, Joe Alwyn, Jacobi Jupe",
+        "sinopsis": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.",
+        "año": "2025"
+    },
+    {
+        "título": "Marty Supreme",
+        "cartel": "imagenes_peliculas/tmdb_marty_supreme.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-01",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98219&eventCode=103333"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Josh Safdie",
+        "duración": "150 min",
+        "actores": "Timothée Chalamet, Gwyneth Paltrow, Odessa A'zion, Kevin O'Leary, Tyler, The Creator",
+        "sinopsis": "Biopic de Marty Reisman, un buscavidas convertido en campeón de ping pong, desde que empezó a jugar por apuestas en Manhattan hasta ganar 22 títulos importantes y convertirse en el más veterano en ganar una competición nacional de deportes de raqueta, con 67 años.",
+        "año": "2025"
+    },
+    {
+        "título": "Hamnet",
+        "cartel": "imagenes_peliculas/tmdb_hamnet.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-01",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98216&eventCode=103859"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Chloé Zhao",
+        "duración": "126 min",
+        "actores": "Jessie Buckley, Paul Mescal, Emily Watson, Joe Alwyn, Jacobi Jupe",
+        "sinopsis": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.",
+        "año": "2025"
+    },
+    {
         "título": "Una batalla tras otra",
         "cartel": "imagenes_peliculas/tmdb_una_batalla_tras_otra.jpg",
         "horarios": [
@@ -176,7 +278,7 @@
             {
                 "fecha": "2026-01-27",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89064&eventCode=104499"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -193,7 +295,7 @@
             {
                 "fecha": "2026-01-27",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89069&eventCode=104525"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",

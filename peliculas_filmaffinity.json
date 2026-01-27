@@ -1,83 +1,5 @@
 [
     {
-        "título": "Hamnet",
-        "cartel": "imagenes_filmaffinity/tmdb_hamnet.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-01-27",
-                "hora": "19:50",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25728"
-            },
-            {
-                "fecha": "2026-02-03",
-                "hora": "19:45",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25909"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Chloé Zhao",
-        "duración": "126 min",
-        "actores": "Jessie Buckley, Paul Mescal, Emily Watson, Joe Alwyn, Jacobi Jupe",
-        "sinopsis": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.",
-        "año": "2025"
-    },
-    {
-        "título": "Sin piedad",
-        "cartel": "imagenes_filmaffinity/tmdb_sin-piedad.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-01-27",
-                "hora": "20:35",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25723"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Timur Bekmambetov",
-        "duración": "100 min",
-        "actores": "Chris Pratt, Rebecca Ferguson, Kali Reis, Annabelle Wallis, Chris Sullivan",
-        "sinopsis": "Tras ser acusado de un crimen, un detective deberá demostrar su inocencia.",
-        "año": "2026"
-    },
-    {
-        "título": "Return to Silent Hill",
-        "cartel": "imagenes_filmaffinity/tmdb_return-to-silent-hill.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-01-27",
-                "hora": "20:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25727"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Christophe Gans",
-        "duración": "106 min",
-        "actores": "Jeremy Irvine, Hannah Emily Anderson, Evie Templeton, Robert Strange, Pearse Egan",
-        "sinopsis": "Impulsado por las sombras de su pasado, James Sunderland regresa a Silent Hill para encontrar a su amor perdido, Mary Crane. Pero el pequeño pueblo oscuro y deprimente ya no es el lugar de sus recuerdos. James se encuentra con personajes que le parecen demasiado familiares y que intentan distraerlo de su búsqueda de Mary. Cuanto más busca a Mary, más comienza a preguntarse si esto sigue siendo la realidad, o si ha caído en el oscuro inframundo de Jacob Crane.",
-        "año": "2026"
-    },
-    {
-        "título": "La asistenta",
-        "cartel": "imagenes_filmaffinity/tmdb_la-asistenta.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-01-27",
-                "hora": "19:40",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25725"
-            },
-            {
-                "fecha": "2026-02-03",
-                "hora": "19:40",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25908"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Paul Feig",
-        "duración": "131 min",
-        "actores": "Sydney Sweeney, Hadi Ali, Amanda Seyfried, Brandon Sklenar, Michele Morrone",
-        "sinopsis": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática.",
-        "año": "2025"
-    },
-    {
         "título": "El Viaje de Chihiro - Reestreno",
         "cartel": "imagenes_filmaffinity/el-viaje-de-chihiro-reestreno.jpg",
         "horarios": [
@@ -158,6 +80,40 @@
         "duración": "150 min",
         "actores": "Timothée Chalamet, Gwyneth Paltrow, Odessa A'zion, Kevin O'Leary, Tyler, The Creator",
         "sinopsis": "Biopic de Marty Reisman, un buscavidas convertido en campeón de ping pong, desde que empezó a jugar por apuestas en Manhattan hasta ganar 22 títulos importantes y convertirse en el más veterano en ganar una competición nacional de deportes de raqueta, con 67 años.",
+        "año": "2025"
+    },
+    {
+        "título": "Hamnet",
+        "cartel": "imagenes_filmaffinity/tmdb_hamnet.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-03",
+                "hora": "19:45",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25909"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Chloé Zhao",
+        "duración": "126 min",
+        "actores": "Jessie Buckley, Paul Mescal, Emily Watson, Joe Alwyn, Jacobi Jupe",
+        "sinopsis": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.",
+        "año": "2025"
+    },
+    {
+        "título": "La asistenta",
+        "cartel": "imagenes_filmaffinity/tmdb_la-asistenta.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-03",
+                "hora": "19:40",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25908"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Paul Feig",
+        "duración": "131 min",
+        "actores": "Sydney Sweeney, Hadi Ali, Amanda Seyfried, Brandon Sklenar, Michele Morrone",
+        "sinopsis": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática.",
         "año": "2025"
     },
     {
