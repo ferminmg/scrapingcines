@@ -7,6 +7,11 @@
                 "fecha": "2026-01-27",
                 "hora": "19:50",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25728"
+            },
+            {
+                "fecha": "2026-02-03",
+                "hora": "19:45",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25909"
             }
         ],
         "cine": "Yelmo Itaroa",
@@ -58,6 +63,11 @@
                 "fecha": "2026-01-27",
                 "hora": "19:40",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25725"
+            },
+            {
+                "fecha": "2026-02-03",
+                "hora": "19:40",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25908"
             }
         ],
         "cine": "Yelmo Itaroa",
@@ -115,6 +125,23 @@
         "actores": null,
         "sinopsis": null,
         "año": null
+    },
+    {
+        "título": "Send Help (Enviad ayuda)",
+        "cartel": "imagenes_filmaffinity/tmdb_send-help-enviad-ayuda.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-03",
+                "hora": "20:25",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25919"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Sam Raimi",
+        "duración": "113 min",
+        "actores": "Rachel McAdams, Dylan O'Brien, Edyll Ismail, Dennis Haysbert, Xavier Samuel",
+        "sinopsis": "",
+        "año": "2026"
     },
     {
         "título": "Marty Supreme",
