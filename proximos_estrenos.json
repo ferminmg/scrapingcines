@@ -1,5 +1,1142 @@
 [
   {
+    "id": 28319,
+    "tmdb_id": 28319,
+    "título": "La invasión de los zombies atómicos",
+    "título_original": "Incubo sulla città contaminata",
+    "sinopsis": "Los pasajeros de un avión que acompañan en el vuelo a un científico nuclear son sometidos a una radiación que les convertirá en los más sanguinarios zombies. El problema para la humanidad vendrá cuando aterrizen y siembren el caos.",
+    "poster_path": "/s1FCNlJcqRhiVO9HZgNP3hyseI5.jpg",
+    "poster_local": "imagenes_estrenos/La_invasi_n_de_los_zombies_at_micos_s1FCNlJcqRhiVO9HZgNP3hyseI5.jpg",
+    "backdrop_path": "/zo3crcyMrDvOfehezcJcwfBRE7U.jpg",
+    "backdrop_local": "imagenes_estrenos/La_invasi_n_de_los_zombies_at_micos_backdrop_zo3crcyMrDvOfehezcJcwfBRE7U.jpg",
+    "fecha_estreno": "1980-12-11",
+    "duración": "95 min",
+    "director": "Umberto Lenzi",
+    "directores": [
+      {
+        "name": "Umberto Lenzi",
+        "id": 22467
+      }
+    ],
+    "actores": [
+      {
+        "name": "Hugo Stiglitz",
+        "id": 38764,
+        "character": "Dean Miller",
+        "profile_path": "/5ey2VfxAUWSSXloSR4Y1fFPkNPQ.jpg"
+      },
+      {
+        "name": "Laura Trotter",
+        "id": 32828,
+        "character": "Dr. Anna Miller",
+        "profile_path": "/lPO7RoWiyRDsxBsyPi845tPoSKw.jpg"
+      },
+      {
+        "name": "Maria Rosaria Omaggio",
+        "id": 100408,
+        "character": "Sheila Holmes",
+        "profile_path": "/kTGgDMYfckrzdLUtqp1iRnhspQr.jpg"
+      },
+      {
+        "name": "Francisco Rabal",
+        "id": 9768,
+        "character": "Major Warren Holmes",
+        "profile_path": "/4SXneju54P5QjrF7ZmAlU09HHxX.jpg"
+      },
+      {
+        "name": "Sonia Viviani",
+        "id": 100410,
+        "character": "Cindy",
+        "profile_path": "/4GzQl5cfoHZj7hC9WS6bukbVb1K.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "popularidad": 0.8675,
+    "puntuación": 5.65,
+    "votos": 177,
+    "adulto": false,
+    "video": false,
+    "año": "1980",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zo3crcyMrDvOfehezcJcwfBRE7U.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/gBq9B17n023WhHZLxYGQXCwwMs1.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oMCYRKaRAq90NeoWoUlibV5koPN.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 818,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/z5sQSCLZo1mPbJmSjsSisYCJ6Yl.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1454
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3Lw0CULz1WSV0qtUQ8uysiyyW0e.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/s1FCNlJcqRhiVO9HZgNP3hyseI5.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1650,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/fTw3OJJoYN4CRJfP1Z6C5NExP95.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1100
+        }
+      ]
+    },
+    "última_actualización": "2026-01-30 10:07:48"
+  },
+  {
+    "id": 27380,
+    "tmdb_id": 27380,
+    "título": "Megaforce",
+    "título_original": "MegaForce",
+    "sinopsis": "Una fuerza futurista compuesta por expertos militares, es asignada para cumplir una peligrosa misión: salvar a la nación democrática de un intento mercenario de tomar el poder.",
+    "poster_path": "/d5Nufg1aVVBhXfFwe8tpSQheVbn.jpg",
+    "poster_local": "imagenes_estrenos/Megaforce_d5Nufg1aVVBhXfFwe8tpSQheVbn.jpg",
+    "backdrop_path": "/b3Yne4Ir8WSx4yQUgs2WU6NZ8j9.jpg",
+    "backdrop_local": "imagenes_estrenos/Megaforce_backdrop_b3Yne4Ir8WSx4yQUgs2WU6NZ8j9.jpg",
+    "fecha_estreno": "1982-06-25",
+    "duración": "99 min",
+    "director": "Hal Needham",
+    "directores": [
+      {
+        "name": "Hal Needham",
+        "id": 67767
+      }
+    ],
+    "actores": [
+      {
+        "name": "Barry Bostwick",
+        "id": 13473,
+        "character": "Ace Hunter",
+        "profile_path": "/z2jlL5g5PMxelSHMXFF03fTSsLl.jpg"
+      },
+      {
+        "name": "Michael Beck",
+        "id": 36409,
+        "character": "Dallas",
+        "profile_path": "/xWZtbKcLcerfXdprxnA67WluqBz.jpg"
+      },
+      {
+        "name": "Persis Khambatta",
+        "id": 1757,
+        "character": "Zara",
+        "profile_path": "/swZL7NlIJJuXdQrlL8nraQFOqfE.jpg"
+      },
+      {
+        "name": "Edward Mulhare",
+        "id": 30125,
+        "character": "Byrne-White",
+        "profile_path": "/eu18hWkcfG0R2Hkhqu9cQ89MmNg.jpg"
+      },
+      {
+        "name": "Henry Silva",
+        "id": 14731,
+        "character": "Guerera",
+        "profile_path": "/dzDNnjYWHlI1LXLLpKpOiH3lBMo.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "popularidad": 1.9714,
+    "puntuación": 3.982,
+    "votos": 83,
+    "adulto": false,
+    "video": false,
+    "año": "1982",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/b3Yne4Ir8WSx4yQUgs2WU6NZ8j9.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/z9Pg1T9TeCfECjYJpwjYzEgzNkS.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 2400,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/d5Nufg1aVVBhXfFwe8tpSQheVbn.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1600
+        },
+        {
+          "aspect_ratio": 0.685,
+          "height": 2169,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/d0mMX65xmXBF08sgrz3TjmHLsi6.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1485
+        },
+        {
+          "aspect_ratio": 0.682,
+          "height": 2167,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/kgIZYMnxeRlUxrJpAAVOXVW5XYQ.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1477
+        }
+      ]
+    },
+    "última_actualización": "2026-01-30 10:07:48"
+  },
+  {
+    "id": 47827,
+    "tmdb_id": 47827,
+    "título": "Una noche para descuartizar",
+    "título_original": "A Night to Dismember",
+    "sinopsis": "Una mujer se libera de un manicomio; pronto comienza a desmembrar todos los cuerpos que va encontrando. Fue rodada en 1979 aunque estrenada en 1983.",
+    "poster_path": "/7kZM0G11jpNuvVKP45e7uKVy4Dr.jpg",
+    "poster_local": "imagenes_estrenos/Una_noche_para_descuartizar_7kZM0G11jpNuvVKP45e7uKVy4Dr.jpg",
+    "backdrop_path": "/tvi40oOB9P9tBLXuxn2nbU2v933.jpg",
+    "backdrop_local": "imagenes_estrenos/Una_noche_para_descuartizar_backdrop_tvi40oOB9P9tBLXuxn2nbU2v933.jpg",
+    "fecha_estreno": "1983-01-01",
+    "duración": "69 min",
+    "director": "Doris Wishman",
+    "directores": [
+      {
+        "name": "Doris Wishman",
+        "id": 116656
+      }
+    ],
+    "actores": [
+      {
+        "name": "Samantha Fox",
+        "id": 44941,
+        "character": "Vicki Kent",
+        "profile_path": "/u9XzOUHcrFYM3ayORpMtUjRr4NY.jpg"
+      },
+      {
+        "name": "Diane Cummins",
+        "id": 1571741,
+        "character": "Mary Kent",
+        "profile_path": null
+      },
+      {
+        "name": "Saul Meth",
+        "id": 116659,
+        "character": "Adam Kent",
+        "profile_path": "/8m4GiJqrPgRzyKJ2mwKLWAjIbmP.jpg"
+      },
+      {
+        "name": "Miriam Meth",
+        "id": 1571742,
+        "character": "Blanche Kent",
+        "profile_path": null
+      },
+      {
+        "name": "William Szarka",
+        "id": 1083352,
+        "character": "Billy Kent",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 0.1324,
+    "puntuación": 4.7,
+    "votos": 26,
+    "adulto": false,
+    "video": false,
+    "año": "1983",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tvi40oOB9P9tBLXuxn2nbU2v933.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-01-30 10:07:50"
+  },
+  {
+    "id": 40027,
+    "tmdb_id": 40027,
+    "título": "Ninja terminator",
+    "título_original": "Ninja Terminator",
+    "sinopsis": "El líder Master Ninja enseña a su pequeño grupo de ninjas elitistas los poderes del Golden Ninja Warrior, una estatuilla compuesta por tres piezas doradas que unidas entre sí ofrecen un poder absoluto a quien las fusiona, pero rápidamente es robada por los Red Ninjas, un grupo malvado que quiere dominar oriente a cualquier precio.",
+    "poster_path": "/5YkYpKxTQVq4gna3qTztwwwo8YF.jpg",
+    "poster_local": "imagenes_estrenos/Ninja_terminator_5YkYpKxTQVq4gna3qTztwwwo8YF.jpg",
+    "backdrop_path": "/2cGJyY6RpEDbSiyn4jrCFWqghyf.jpg",
+    "backdrop_local": "imagenes_estrenos/Ninja_terminator_backdrop_2cGJyY6RpEDbSiyn4jrCFWqghyf.jpg",
+    "fecha_estreno": "1986-01-01",
+    "duración": "88 min",
+    "director": "何志强",
+    "directores": [
+      {
+        "name": "何志强",
+        "id": 147793
+      }
+    ],
+    "actores": [
+      {
+        "name": "Richard Harrison",
+        "id": 32673,
+        "character": "Harry MacQueen",
+        "profile_path": "/oDCb0w2qkWV75tkYD15QZXpy7dl.jpg"
+      },
+      {
+        "name": "Jack Lam",
+        "id": 147935,
+        "character": "Jaguar Wong",
+        "profile_path": null
+      },
+      {
+        "name": "황정리",
+        "id": 68677,
+        "character": "Tiger Chen",
+        "profile_path": "/wlLkdDWBj7KeAVzc7byDAqOR9ok.jpg"
+      },
+      {
+        "name": "高飛",
+        "id": 147941,
+        "character": "Yamato",
+        "profile_path": "/iFLyXbaiFHSerJyizQa2ZwMPMQ8.jpg"
+      },
+      {
+        "name": "Jonathan Wattis",
+        "id": 147939,
+        "character": "Baron",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "popularidad": 3.5663,
+    "puntuación": 6.0,
+    "votos": 66,
+    "adulto": false,
+    "video": false,
+    "año": "1986",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-01-30 10:07:46"
+  },
+  {
+    "id": 12721,
+    "tmdb_id": 12721,
+    "título": "Retroceder nunca, rendirse jamás",
+    "título_original": "No Retreat, No Surrender",
+    "sinopsis": "Jason Slillwell es un apasionado admirador de Bruce Lee, cuyo padre, instructor de karate, resulta herido y humillado por el crimen organizado de la Costa Este. Jason decide practicar el karate esperando la hora de la venganza. Su amigo R.J. le sugiere introducirse en un determinado gimnasio, regentado por el campeón nacional de full-contact, que es precisamente hermano de su ex novia, Nelly; pero el hermano de Nelly y sus amigos le propinan una paliza de muerte.",
+    "poster_path": "/sMSPeec7sDXl0JBvCtJtVThbIP.jpg",
+    "poster_local": "imagenes_estrenos/Retroceder_nunca__rendirse_jam_s_sMSPeec7sDXl0JBvCtJtVThbIP.jpg",
+    "backdrop_path": "/hcmzlQHqeTglKTgo0do9Qxr72NN.jpg",
+    "backdrop_local": "imagenes_estrenos/Retroceder_nunca__rendirse_jam_s_backdrop_hcmzlQHqeTglKTgo0do9Qxr72NN.jpg",
+    "fecha_estreno": "1986-05-02",
+    "duración": "90 min",
+    "director": "元奎",
+    "directores": [
+      {
+        "name": "元奎",
+        "id": 35452
+      }
+    ],
+    "actores": [
+      {
+        "name": "Kurt McKinney",
+        "id": 73659,
+        "character": "Jason Stillwell",
+        "profile_path": "/setj0mgP81HdUdBiXF4SU5Gs1Dx.jpg"
+      },
+      {
+        "name": "Jean-Claude Van Damme",
+        "id": 15111,
+        "character": "Ivan Kraschinsky \"The Russian\"",
+        "profile_path": "/ljo6ukqTlFi9VCnOtsR5AEXGJQt.jpg"
+      },
+      {
+        "name": "J.W. Fails",
+        "id": 73660,
+        "character": "R.J. Madison",
+        "profile_path": "/3zUfGoQKityKwkUKRrgddAl6cdH.jpg"
+      },
+      {
+        "name": "Kathie Sileno",
+        "id": 73661,
+        "character": "Kelly Reilly",
+        "profile_path": "/7bgAhWomNfPjipRBRs2vkaXlDqq.jpg"
+      },
+      {
+        "name": "김태정",
+        "id": 73662,
+        "character": "Sensei Lee",
+        "profile_path": "/dpt2ZOI3yiT1CibiQVwNhQQdEcW.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 2.2214,
+    "puntuación": 6.3,
+    "votos": 608,
+    "adulto": false,
+    "video": false,
+    "año": "1986",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/hcmzlQHqeTglKTgo0do9Qxr72NN.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/eiugp0QlwCYHCnx07GEgRm6MjIN.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/bADxGKI71buKkCH8PC7iwzq2cgZ.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ggdZizdcLBJW6jHE9Qxlxdk36uQ.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/iQ7893fGqhsh7bThnQjKhlZozF2.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.666,
+          "height": 2000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/sMSPeec7sDXl0JBvCtJtVThbIP.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1333
+        },
+        {
+          "aspect_ratio": 0.666,
+          "height": 2000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/9g3l1Omg2efUOfm2oALNmODiZDf.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1333
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/hWerpyGSXfMpu1dPqg4rA0q7bWi.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/1ZFWXnsJGbaL4nnh6g9SYjVj2vY.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ukqF5HMBBrzYbmWnh9hZYeQlJ55.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        }
+      ]
+    },
+    "última_actualización": "2026-01-30 10:07:47"
+  },
+  {
+    "id": 11059,
+    "tmdb_id": 11059,
+    "título": "House of the Dead",
+    "título_original": "House of the Dead",
+    "sinopsis": "Durante las vacaciones de primavera -Spring Break- un grupo de jóvenes viaja a una isla donde asisten a una fiesta rave. La misteriosa isla es llamada \"de la muerte\" y siglos atrás, cuenta la leyenda, un brujo experimentó con un elixir para burlar a la muerte. Los jóvenes, una vez en la isla, descubren que el brujo sigue vivo, y que se alimenta de los humanos que caen en sus manos. Ahora, atrapados en la isla, tendrán que usar cualquier arma disponible para luchar contra las hordas de zombies asesinos que están bajo el influjo del malvado hechicero.",
+    "poster_path": "/diBiHcy9xZ6gIWt3AVtIjTYCukq.jpg",
+    "poster_local": "imagenes_estrenos/House_of_the_Dead_diBiHcy9xZ6gIWt3AVtIjTYCukq.jpg",
+    "backdrop_path": "/aNUEHLNsNMprLZt6fjf5nqDq6er.jpg",
+    "backdrop_local": "imagenes_estrenos/House_of_the_Dead_backdrop_aNUEHLNsNMprLZt6fjf5nqDq6er.jpg",
+    "fecha_estreno": "2004-05-07T00:00:00.000Z",
+    "duración": "90 min",
+    "director": "Uwe Boll",
+    "directores": [
+      {
+        "name": "Uwe Boll",
+        "id": 23799
+      }
+    ],
+    "actores": [
+      {
+        "name": "Jonathan Cherry",
+        "id": 51937,
+        "character": "Rudy",
+        "profile_path": "/t6aBn5Dmu64XHxA6mdL5bwJ8Qx0.jpg"
+      },
+      {
+        "name": "Tyron Leitso",
+        "id": 67977,
+        "character": "Simon",
+        "profile_path": "/97MInhXaUcN2uYnvcvjrzIKSJug.jpg"
+      },
+      {
+        "name": "Clint Howard",
+        "id": 15661,
+        "character": "Salish",
+        "profile_path": "/qC7AgKmcBFk76ojTYELeirw1viQ.jpg"
+      },
+      {
+        "name": "Ona Grauer",
+        "id": 67978,
+        "character": "Alicia",
+        "profile_path": "/vfcupzwyzs1CNrjuG0wW4B3eQcD.jpg"
+      },
+      {
+        "name": "Sonya Salomaa",
+        "id": 103286,
+        "character": "Cynthia",
+        "profile_path": "/n4uHzbje6wD2Jd6j1YCCimyuAKB.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 4.6082,
+    "puntuación": 3.129,
+    "votos": 415,
+    "adulto": false,
+    "video": false,
+    "año": "2003",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/aNUEHLNsNMprLZt6fjf5nqDq6er.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/dazUfgE3PtOR0jbQbrExZYJGJhW.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.78,
+          "height": 1621,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5eWwOIDOhEbVq6hRmFqVmbz87ia.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2886
+        },
+        {
+          "aspect_ratio": 1.779,
+          "height": 1623,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tPgx5RAX2zGApUs5HYmi59fNZ3D.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2888
+        },
+        {
+          "aspect_ratio": 1.78,
+          "height": 1656,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/68Fb1TbRSU2kJKofrk8suBAe1Z2.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2948
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/diBiHcy9xZ6gIWt3AVtIjTYCukq.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1468,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/eQtYCCXR0zDX8TsRqlyJjZWlv0u.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 979
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/HfBQwTL0AHqogLlvHSH5Ss7ALR.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        }
+      ]
+    },
+    "última_actualización": "2026-01-30 10:07:45"
+  },
+  {
+    "id": 1306845,
+    "tmdb_id": 1306845,
+    "título": "जाट",
+    "título_original": "जाट",
+    "sinopsis": "Un misterioso extraño viaja a un pueblo remoto controlado por un cruel señor del crimen, con una violenta misión: restaurar la justicia para su gente.",
+    "poster_path": "/guTflsCTgLNqTbpHTi9gJANk1Rf.jpg",
+    "poster_local": "imagenes_estrenos/____guTflsCTgLNqTbpHTi9gJANk1Rf.jpg",
+    "backdrop_path": "/A5ajQPdmA4P87vTpOXmFetA14fx.jpg",
+    "backdrop_local": "imagenes_estrenos/____backdrop_A5ajQPdmA4P87vTpOXmFetA14fx.jpg",
+    "fecha_estreno": "2025-04-10",
+    "duración": "153 min",
+    "director": "Gopichand Malineni",
+    "directores": [
+      {
+        "name": "Gopichand Malineni",
+        "id": 146938
+      }
+    ],
+    "actores": [
+      {
+        "name": "Sunny Deol",
+        "id": 86302,
+        "character": "Jaat",
+        "profile_path": "/w9RenJriQVys2k5fa9ojkXpYMwO.jpg"
+      },
+      {
+        "name": "Randeep Hooda",
+        "id": 6519,
+        "character": "Ranatunga",
+        "profile_path": "/6Raio06bsLalCe4XDsknXxfDamV.jpg"
+      },
+      {
+        "name": "Saiyami Kher",
+        "id": 1641086,
+        "character": "SI Vijaya Lakshmi",
+        "profile_path": "/vdnJuFv8WUgBvaLBb6dDXlDkEma.jpg"
+      },
+      {
+        "name": "Regina Cassandra",
+        "id": 1166967,
+        "character": "Bharathi",
+        "profile_path": "/aWFogAoGomUDAXMD8kp7dlZJrlA.jpg"
+      },
+      {
+        "name": "Vineet Kumar Singh",
+        "id": 1427894,
+        "character": "Somulu",
+        "profile_path": "/8mDoHcQQ82f7FYK8B22VK9DLkLA.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 1.7181,
+    "puntuación": 6.2,
+    "votos": 30,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.779,
+          "height": 1595,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/A5ajQPdmA4P87vTpOXmFetA14fx.jpg",
+          "vote_average": 1.75,
+          "vote_count": 3,
+          "width": 2838
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1224,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5TgcvkGksGjNM9u7e8exJTcyg8A.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 2176
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1223,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/nzlO8Z6JH4JUmZ4XuwoFe52xgN1.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 2175
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 810,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/sNMxI7VCh9XO66yzNtHDnu66sU9.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1440
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ycsJzANa9keIXv2qG6Z0NWOIbbX.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1425,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ckLSrdeg5c1lGaa1W5ZK4FrFohR.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 950
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/34cbjeVtNr3nPQ6rxiMXKpWQVV1.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1365
+        }
+      ]
+    },
+    "última_actualización": "2026-01-30 10:07:48"
+  },
+  {
+    "id": 1255364,
+    "tmdb_id": 1255364,
+    "título": "AJ Goes to the Dog Park",
+    "título_original": "AJ Goes to the Dog Park",
+    "sinopsis": "Cuando AJ pierde su parque para perros favorito, debe luchar, pescar, raspar, raspar y extraer savia para recuperarlo.",
+    "poster_path": "/hNAnafBRP2TQWLUn3rMLxnCdnV1.jpg",
+    "poster_local": "imagenes_estrenos/AJ_Goes_to_the_Dog_Park_hNAnafBRP2TQWLUn3rMLxnCdnV1.jpg",
+    "backdrop_path": "/aYVer2h7NNpoFpd5JtsusnyQU1H.jpg",
+    "backdrop_local": "imagenes_estrenos/AJ_Goes_to_the_Dog_Park_backdrop_aYVer2h7NNpoFpd5JtsusnyQU1H.jpg",
+    "fecha_estreno": "2025-07-25",
+    "duración": "79 min",
+    "director": "Toby Jones",
+    "directores": [
+      {
+        "name": "Toby Jones",
+        "id": 1251098
+      }
+    ],
+    "actores": [
+      {
+        "name": "AJ Thompson",
+        "id": 4978097,
+        "character": "AJ",
+        "profile_path": null
+      },
+      {
+        "name": "Diddy",
+        "id": 5919884,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Biff",
+        "id": 5919885,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Crystal Cossette Knight",
+        "id": 4978105,
+        "character": "Mayor/Air",
+        "profile_path": null
+      },
+      {
+        "name": "Greg Carlson",
+        "id": 4978098,
+        "character": "Dad",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 0.0917,
+    "puntuación": 9.0,
+    "votos": 1,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/aYVer2h7NNpoFpd5JtsusnyQU1H.jpg",
+          "vote_average": 3.334,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.78,
+          "height": 892,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oUDV9mrHNZjKafgAGBLkYr5MumP.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 1588
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tGT5cAN5DcUT0BEUiN5CPxWteyo.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-01-30 10:07:51"
+  },
+  {
+    "id": 1253000,
+    "tmdb_id": 1253000,
+    "título": "Deathstalker",
+    "título_original": "Deathstalker",
+    "sinopsis": "El reino de Abraxeon está siendo asediado por los Dreadites, heraldos del hechicero Nekromemnon, muerto hace mucho tiempo. Cuando Deathstalker recupera un amuleto maldito de un campo de batalla sembrado de cadáveres, queda marcado por la magia negra y es perseguido por monstruosos asesinos de todo tipo. Para sobrevivir, debe romper la maldición y enfrentarse al mal naciente.",
+    "poster_path": "/nEI3DnzQC1afAjJOAizx6UX27pL.jpg",
+    "poster_local": "imagenes_estrenos/Deathstalker_nEI3DnzQC1afAjJOAizx6UX27pL.jpg",
+    "backdrop_path": "/cugd16e3WbCG3Zogb8N7lwUnVXH.jpg",
+    "backdrop_local": "imagenes_estrenos/Deathstalker_backdrop_cugd16e3WbCG3Zogb8N7lwUnVXH.jpg",
+    "fecha_estreno": "2025-10-10",
+    "duración": "102 min",
+    "director": "Steven Kostanski",
+    "directores": [
+      {
+        "name": "Steven Kostanski",
+        "id": 1038001
+      }
+    ],
+    "actores": [
+      {
+        "name": "Daniel Bernhardt",
+        "id": 9452,
+        "character": "Deathstalker",
+        "profile_path": "/3BLz32inDr1jznU6pKQmh20zfhK.jpg"
+      },
+      {
+        "name": "Christina Orjalo",
+        "id": 2439869,
+        "character": "Brisbayne",
+        "profile_path": "/1EP0YEhxNDb2SvEcHm07BWZDIvj.jpg"
+      },
+      {
+        "name": "Paul Lazenby",
+        "id": 106951,
+        "character": "Jotak",
+        "profile_path": "/nLql838eW98JYcNyZ8FlBHACxGo.jpg"
+      },
+      {
+        "name": "Nicholas Rice",
+        "id": 1331999,
+        "character": "Nekromemnon",
+        "profile_path": "/dGUbzewwZ7R0tJlAoUW3YwRRIlZ.jpg"
+      },
+      {
+        "name": "Patton Oswalt",
+        "id": 10872,
+        "character": "Doodad (voice)",
+        "profile_path": "/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "popularidad": 4.2178,
+    "puntuación": 6.118,
+    "votos": 34,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/cugd16e3WbCG3Zogb8N7lwUnVXH.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vtqKDMdRySkV4GSM5F6AKyZO8aJ.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/weTuMRnkegYiLkWWrEuLs0qOFvg.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7jVD6JONmYFpgprlNf2TjTEe3D7.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-01-30 10:07:46"
+  },
+  {
     "id": 1453554,
     "tmdb_id": 1453554,
     "título": "Valencia - Capítulo III: Sabadell",
@@ -46,7 +1183,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 0.284,
+    "popularidad": 0.2563,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -67,7 +1204,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:05:02"
+    "última_actualización": "2026-01-30 10:07:49"
   },
   {
     "id": 1431314,
@@ -1144,6 +2281,152 @@
     "última_actualización": "2026-01-22 22:02:50"
   },
   {
+    "id": 1625489,
+    "tmdb_id": 1625489,
+    "título": "Soy Inmortal",
+    "título_original": "Soy Inmortal",
+    "sinopsis": "La nueva película de ciencia ficción de Juan Carlos Gallardo.",
+    "poster_path": "/u2FrvAd2crOyUSJ0tVnYPk3cp8e.jpg",
+    "poster_local": "imagenes_estrenos/Soy_Inmortal_u2FrvAd2crOyUSJ0tVnYPk3cp8e.jpg",
+    "backdrop_path": "/xt5j59UXXaBOPtDKE01HcZ4ul6I.jpg",
+    "backdrop_local": "imagenes_estrenos/Soy_Inmortal_backdrop_xt5j59UXXaBOPtDKE01HcZ4ul6I.jpg",
+    "fecha_estreno": "2026-02-05",
+    "duración": "95 min",
+    "director": "Juan Carlos Gallardo",
+    "directores": [
+      {
+        "name": "Juan Carlos Gallardo",
+        "id": 3571861
+      }
+    ],
+    "actores": [
+      {
+        "name": "Marina Avila Victoria",
+        "id": 2412562,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "popularidad": 0.0,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xt5j59UXXaBOPtDKE01HcZ4ul6I.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.668,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/u2FrvAd2crOyUSJ0tVnYPk3cp8e.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 501
+        }
+      ]
+    },
+    "última_actualización": "2026-01-30 10:07:59"
+  },
+  {
+    "id": 1625499,
+    "tmdb_id": 1625499,
+    "título": "El Afilador",
+    "título_original": "El Afilador",
+    "sinopsis": "Un afilador de la España rural de los años 30 es maldecido por una bruja y, décadas después, resucita para vengarse.",
+    "poster_path": "/x768jI8uejZgRaSch6MSEouu5p.jpg",
+    "poster_local": "imagenes_estrenos/El_Afilador_x768jI8uejZgRaSch6MSEouu5p.jpg",
+    "backdrop_path": "/pQHg5U6UcCr2iGYYvsXe1p1vhOJ.jpg",
+    "backdrop_local": "imagenes_estrenos/El_Afilador_backdrop_pQHg5U6UcCr2iGYYvsXe1p1vhOJ.jpg",
+    "fecha_estreno": "2026-02-06",
+    "duración": "80 min",
+    "director": "José Vicente García",
+    "directores": [
+      {
+        "name": "José Vicente García",
+        "id": 5972777
+      }
+    ],
+    "actores": [
+      {
+        "name": "Esther Almarcha",
+        "id": 5972774,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Vicente García",
+        "id": 4285527,
+        "character": "El Afilador",
+        "profile_path": null
+      },
+      {
+        "name": "Elizabeth Gonzáles",
+        "id": 5972775,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 0.0,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/pQHg5U6UcCr2iGYYvsXe1p1vhOJ.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.668,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/x768jI8uejZgRaSch6MSEouu5p.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 501
+        }
+      ]
+    },
+    "última_actualización": "2026-01-30 10:07:59"
+  },
+  {
     "id": 1315303,
     "tmdb_id": 1315303,
     "título": "Primate",
@@ -1204,9 +2487,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 45.4786,
-    "puntuación": 6.646,
-    "votos": 65,
+    "popularidad": 45.754,
+    "puntuación": 6.642,
+    "votos": 67,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1296,7 +2579,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:04:58"
+    "última_actualización": "2026-01-30 10:07:44"
   },
   {
     "id": 1364608,
@@ -1355,8 +2638,8 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 6.8268,
-    "puntuación": 6.159,
+    "popularidad": 7.4785,
+    "puntuación": 6.2,
     "votos": 88,
     "adulto": false,
     "video": false,
@@ -1447,7 +2730,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:05:00"
+    "última_actualización": "2026-01-30 10:07:45"
   },
   {
     "id": 1087822,
@@ -1514,7 +2797,7 @@
         "name": "Acción"
       }
     ],
-    "popularidad": 3.8533,
+    "popularidad": 3.9295,
     "puntuación": 5.182,
     "votos": 506,
     "adulto": false,
@@ -1626,7 +2909,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:05:01"
+    "última_actualización": "2026-01-30 10:07:46"
   },
   {
     "id": 1588838,
@@ -1685,7 +2968,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.4088,
+    "popularidad": 0.3473,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1716,7 +2999,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:05:02"
+    "última_actualización": "2026-01-30 10:07:49"
   },
   {
     "id": 1623210,
@@ -1783,7 +3066,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 0.1482,
+    "popularidad": 0.088,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1793,7 +3076,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-01-29 22:05:03"
+    "última_actualización": "2026-01-30 10:07:49"
   },
   {
     "id": 1571101,
@@ -1829,7 +3112,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 0.1347,
+    "popularidad": 0.2196,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1860,7 +3143,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:05:03"
+    "última_actualización": "2026-01-30 10:07:49"
   },
   {
     "id": 1547543,
@@ -1914,7 +3197,7 @@
       }
     ],
     "géneros": [],
-    "popularidad": 0.0671,
+    "popularidad": 0.061,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1935,7 +3218,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:05:04"
+    "última_actualización": "2026-01-30 10:07:51"
   },
   {
     "id": 840464,
@@ -2002,9 +3285,9 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 305.9816,
-    "puntuación": 6.597,
-    "votos": 149,
+    "popularidad": 506.1661,
+    "puntuación": 6.6,
+    "votos": 170,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2094,7 +3377,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:04:57"
+    "última_actualización": "2026-01-30 10:07:44"
   },
   {
     "id": 639988,
@@ -2161,7 +3444,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 38.9698,
+    "popularidad": 38.1371,
     "puntuación": 7.7,
     "votos": 544,
     "adulto": false,
@@ -2243,7 +3526,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:04:58"
+    "última_actualización": "2026-01-30 10:07:44"
   },
   {
     "id": 1316092,
@@ -2253,7 +3536,7 @@
     "sinopsis": "",
     "poster_path": "/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
     "poster_local": "imagenes_estrenos/Cumbres_Borrascosas_afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
-    "backdrop_path": "/oGAYQOhfuXMh9Cpp4LNfzI5uDS3.jpg",
+    "backdrop_path": "/sYM02XfZhqvlixmRkDcseQ6Xllk.jpg",
     "backdrop_local": "imagenes_estrenos/Cumbres_Borrascosas_backdrop_ds9WgvEDs0VitU2BHUnlEzhRyCs.jpg",
     "fecha_estreno": "2026-02-13T00:00:00.000Z",
     "duración": "136 min",
@@ -2306,7 +3589,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 16.6778,
+    "popularidad": 16.9989,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2319,9 +3602,9 @@
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/oGAYQOhfuXMh9Cpp4LNfzI5uDS3.jpg",
-          "vote_average": 2.066,
-          "vote_count": 5,
+          "file_path": "/sYM02XfZhqvlixmRkDcseQ6Xllk.jpg",
+          "vote_average": 2.542,
+          "vote_count": 4,
           "width": 3840
         },
         {
@@ -2329,9 +3612,9 @@
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/sYM02XfZhqvlixmRkDcseQ6Xllk.jpg",
-          "vote_average": 1.75,
-          "vote_count": 4,
+          "file_path": "/oGAYQOhfuXMh9Cpp4LNfzI5uDS3.jpg",
+          "vote_average": 2.066,
+          "vote_count": 5,
           "width": 3840
         },
         {
@@ -2408,7 +3691,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:04:58"
+    "última_actualización": "2026-01-30 10:07:44"
   },
   {
     "id": 1297842,
@@ -2479,7 +3762,7 @@
         "name": "Acción"
       }
     ],
-    "popularidad": 16.2714,
+    "popularidad": 17.7662,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2591,7 +3874,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:04:59"
+    "última_actualización": "2026-01-30 10:07:44"
   },
   {
     "id": 1107216,
@@ -2605,15 +3888,15 @@
     "backdrop_local": "imagenes_estrenos/Pets_on_a_Train_backdrop_3Gjo73aMqNWxNdBa7PeEj7AXJ3E.jpg",
     "fecha_estreno": "2026-02-13T00:00:00.000Z",
     "duración": "87 min",
-    "director": "Jean-Christian Tassy, Benoît Daffis",
+    "director": "Benoît Daffis, Jean-Christian Tassy",
     "directores": [
-      {
-        "name": "Jean-Christian Tassy",
-        "id": 930739
-      },
       {
         "name": "Benoît Daffis",
         "id": 3988259
+      },
+      {
+        "name": "Jean-Christian Tassy",
+        "id": 930739
       }
     ],
     "actores": [
@@ -2666,7 +3949,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 9.4476,
+    "popularidad": 9.6004,
     "puntuación": 6.9,
     "votos": 34,
     "adulto": false,
@@ -2748,7 +4031,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:04:59"
+    "última_actualización": "2026-01-30 10:07:44"
   },
   {
     "id": 1171145,
@@ -2811,7 +4094,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 9.1612,
+    "popularidad": 9.6153,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2903,7 +4186,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:04:59"
+    "última_actualización": "2026-01-30 10:07:44"
   },
   {
     "id": 1119449,
@@ -2974,7 +4257,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 5.476,
+    "popularidad": 5.3158,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3046,7 +4329,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:05:00"
+    "última_actualización": "2026-01-30 10:07:45"
   },
   {
     "id": 1474226,
@@ -3105,7 +4388,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 2.6117,
+    "popularidad": 2.7307,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3137,7 +4420,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:05:01"
+    "última_actualización": "2026-01-30 10:07:47"
   },
   {
     "id": 1606362,
@@ -3200,7 +4483,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 0.2831,
+    "popularidad": 0.3275,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3221,7 +4504,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:05:02"
+    "última_actualización": "2026-01-30 10:07:49"
   },
   {
     "id": 1613650,
@@ -3280,7 +4563,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.0991,
+    "popularidad": 0.0913,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3301,7 +4584,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:05:04"
+    "última_actualización": "2026-01-30 10:07:50"
   },
   {
     "id": 1245815,
@@ -3329,7 +4612,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.0404,
+    "popularidad": 0.0379,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3350,7 +4633,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:05:04"
+    "última_actualización": "2026-01-30 10:07:51"
   },
   {
     "id": 1114967,
@@ -3413,9 +4696,9 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 13.4753,
-    "puntuación": 7.027,
-    "votos": 424,
+    "popularidad": 13.2901,
+    "puntuación": 7.034,
+    "votos": 426,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3525,7 +4808,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:04:59"
+    "última_actualización": "2026-01-30 10:07:44"
   },
   {
     "id": 891584,
@@ -3592,7 +4875,7 @@
         "name": "Música"
       }
     ],
-    "popularidad": 5.6961,
+    "popularidad": 5.2795,
     "puntuación": 6.3,
     "votos": 40,
     "adulto": false,
@@ -3684,7 +4967,7 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:05:00"
+    "última_actualización": "2026-01-30 10:07:45"
   },
   {
     "id": 1291659,
@@ -3743,9 +5026,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 4.5799,
-    "puntuación": 6.9,
-    "votos": 31,
+    "popularidad": 4.4307,
+    "puntuación": 6.903,
+    "votos": 32,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3804,7 +5087,125 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-01-29 22:05:00"
+    "última_actualización": "2026-01-30 10:07:45"
+  },
+  {
+    "id": 1442211,
+    "tmdb_id": 1442211,
+    "título": "Balandrau, viento salvaje",
+    "título_original": "Balandrau, vent salvatge",
+    "sinopsis": "El 30 de diciembre del 2000, un grupo de amigos se disponen a ascender el Balandrau. El sol acompaña a los montañeros hasta que, en cuestión de minutos, todo cambia. Una ventisca imprevisible desencadena la peor de las tormentas de la historia de los Pirineos.",
+    "poster_path": "/cYk5U642sUMudAe9ARTg6HnDHcy.jpg",
+    "poster_local": "imagenes_estrenos/Balandrau__viento_salvaje_cYk5U642sUMudAe9ARTg6HnDHcy.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-02-20T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Fernando Trullols",
+    "directores": [
+      {
+        "name": "Fernando Trullols",
+        "id": 2357663
+      }
+    ],
+    "actores": [
+      {
+        "name": "Álvaro Cervantes",
+        "id": 224874,
+        "character": "",
+        "profile_path": "/3YF7YYvvzGTTCrorulDqD5PoHHw.jpg"
+      },
+      {
+        "name": "Bruna Cusí",
+        "id": 1743949,
+        "character": "",
+        "profile_path": "/3yv66ERiyxWwFiFyfKt5BaPbFxZ.jpg"
+      },
+      {
+        "name": "Marc Martínez",
+        "id": 1061976,
+        "character": "",
+        "profile_path": "/4Q7NOR7sTXWq24rCW5nilqQ20NS.jpg"
+      },
+      {
+        "name": "Pep Ambròs",
+        "id": 1592955,
+        "character": "",
+        "profile_path": "/2aed6AndZLhkCtvx4uZs8T7M6rL.jpg"
+      },
+      {
+        "name": "Francesc Garrido",
+        "id": 1033064,
+        "character": "",
+        "profile_path": "/npt3TYgw3Suvucq3o0n5Tdt59C.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.9691,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-01-30 10:07:49"
+  },
+  {
+    "id": 1457842,
+    "tmdb_id": 1457842,
+    "título": "Historias del buen valle",
+    "título_original": "Historias del buen valle",
+    "sinopsis": "",
+    "poster_path": "/vB8WLfHFsKBoQsoEZKHNqZVIqcx.jpg",
+    "poster_local": "imagenes_estrenos/Historias_del_buen_valle_vB8WLfHFsKBoQsoEZKHNqZVIqcx.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-02-20T00:00:00.000Z",
+    "duración": "122 min",
+    "director": "José Luis Guerín",
+    "directores": [
+      {
+        "name": "José Luis Guerín",
+        "id": 133090
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.1705,
+    "puntuación": 6.0,
+    "votos": 1,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1772,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/vB8WLfHFsKBoQsoEZKHNqZVIqcx.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 1182
+        }
+      ]
+    },
+    "última_actualización": "2026-01-30 10:07:49"
   },
   {
     "id": 961077,
@@ -3952,124 +5353,6 @@
     "última_actualización": "2026-01-29 22:05:01"
   },
   {
-    "id": 1442211,
-    "tmdb_id": 1442211,
-    "título": "Balandrau, viento salvaje",
-    "título_original": "Balandrau, vent salvatge",
-    "sinopsis": "El 30 de diciembre del 2000, un grupo de amigos se disponen a ascender el Balandrau. El sol acompaña a los montañeros hasta que, en cuestión de minutos, todo cambia. Una ventisca imprevisible desencadena la peor de las tormentas de la historia de los Pirineos.",
-    "poster_path": "/cYk5U642sUMudAe9ARTg6HnDHcy.jpg",
-    "poster_local": "imagenes_estrenos/Balandrau__viento_salvaje_cYk5U642sUMudAe9ARTg6HnDHcy.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-02-20T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Fernando Trullols",
-    "directores": [
-      {
-        "name": "Fernando Trullols",
-        "id": 2357663
-      }
-    ],
-    "actores": [
-      {
-        "name": "Álvaro Cervantes",
-        "id": 224874,
-        "character": "",
-        "profile_path": "/3YF7YYvvzGTTCrorulDqD5PoHHw.jpg"
-      },
-      {
-        "name": "Bruna Cusí",
-        "id": 1743949,
-        "character": "",
-        "profile_path": "/3yv66ERiyxWwFiFyfKt5BaPbFxZ.jpg"
-      },
-      {
-        "name": "Marc Martínez",
-        "id": 1061976,
-        "character": "",
-        "profile_path": "/4Q7NOR7sTXWq24rCW5nilqQ20NS.jpg"
-      },
-      {
-        "name": "Pep Ambròs",
-        "id": 1592955,
-        "character": "",
-        "profile_path": "/2aed6AndZLhkCtvx4uZs8T7M6rL.jpg"
-      },
-      {
-        "name": "Francesc Garrido",
-        "id": 1033064,
-        "character": "",
-        "profile_path": "/npt3TYgw3Suvucq3o0n5Tdt59C.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.865,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2026-01-29 22:05:01"
-  },
-  {
-    "id": 1457842,
-    "tmdb_id": 1457842,
-    "título": "Historias del buen valle",
-    "título_original": "Historias del buen valle",
-    "sinopsis": "",
-    "poster_path": "/vB8WLfHFsKBoQsoEZKHNqZVIqcx.jpg",
-    "poster_local": "imagenes_estrenos/Historias_del_buen_valle_vB8WLfHFsKBoQsoEZKHNqZVIqcx.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-02-20T00:00:00.000Z",
-    "duración": "122 min",
-    "director": "José Luis Guerín",
-    "directores": [
-      {
-        "name": "José Luis Guerín",
-        "id": 133090
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.2061,
-    "puntuación": 6.0,
-    "votos": 1,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1772,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/vB8WLfHFsKBoQsoEZKHNqZVIqcx.jpg",
-          "vote_average": 0.0,
-          "vote_count": 1,
-          "width": 1182
-        }
-      ]
-    },
-    "última_actualización": "2026-01-29 22:05:03"
-  },
-  {
     "id": 1612063,
     "tmdb_id": 1612063,
     "título": "Twenty One Pilots: More Than We Ever Imagined",
@@ -4118,7 +5401,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.6408,
+    "popularidad": 0.9537,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4200,6 +5483,6 @@
         }
       ]
     },
-    "última_actualización": "2026-01-29 22:05:02"
+    "última_actualización": "2026-01-30 10:07:49"
   }
 ]
