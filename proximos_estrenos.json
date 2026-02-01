@@ -11,15 +11,15 @@
     "backdrop_local": "imagenes_estrenos/Die_Brut_des_B_sen_backdrop_wdU4D4eWwnm3inZRDGZeiEQolgy.jpg",
     "fecha_estreno": "1979-08-15",
     "duración": "85 min",
-    "director": "Christian Anders, Antonio Tarruella",
+    "director": "Antonio Tarruella, Christian Anders",
     "directores": [
-      {
-        "name": "Christian Anders",
-        "id": 49342
-      },
       {
         "name": "Antonio Tarruella",
         "id": 1074609
+      },
+      {
+        "name": "Christian Anders",
+        "id": 49342
       }
     ],
     "actores": [
@@ -95,7 +95,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-02-01 10:03:57"
+    "última_actualización": "2026-02-01 22:03:00"
   },
   {
     "id": 28319,
@@ -244,7 +244,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:55"
+    "última_actualización": "2026-02-01 22:02:58"
   },
   {
     "id": 27380,
@@ -294,7 +294,7 @@
         "name": "Henry Silva",
         "id": 14731,
         "character": "Guerera",
-        "profile_path": "/dzDNnjYWHlI1LXLLpKpOiH3lBMo.jpg"
+        "profile_path": "/lPXDv2K8tkFMnEQsDGmeIMSPxiq.jpg"
       }
     ],
     "géneros": [
@@ -373,87 +373,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:54"
-  },
-  {
-    "id": 47827,
-    "tmdb_id": 47827,
-    "título": "Una noche para descuartizar",
-    "título_original": "A Night to Dismember",
-    "sinopsis": "Una mujer se libera de un manicomio; pronto comienza a desmembrar todos los cuerpos que va encontrando. Fue rodada en 1979 aunque estrenada en 1983.",
-    "poster_path": "/7kZM0G11jpNuvVKP45e7uKVy4Dr.jpg",
-    "poster_local": "imagenes_estrenos/Una_noche_para_descuartizar_7kZM0G11jpNuvVKP45e7uKVy4Dr.jpg",
-    "backdrop_path": "/tvi40oOB9P9tBLXuxn2nbU2v933.jpg",
-    "backdrop_local": "imagenes_estrenos/Una_noche_para_descuartizar_backdrop_tvi40oOB9P9tBLXuxn2nbU2v933.jpg",
-    "fecha_estreno": "1983-01-01",
-    "duración": "70 min",
-    "director": "Doris Wishman",
-    "directores": [
-      {
-        "name": "Doris Wishman",
-        "id": 116656
-      }
-    ],
-    "actores": [
-      {
-        "name": "Samantha Fox",
-        "id": 44941,
-        "character": "Vicki Kent",
-        "profile_path": "/u9XzOUHcrFYM3ayORpMtUjRr4NY.jpg"
-      },
-      {
-        "name": "Diane Cummins",
-        "id": 1571741,
-        "character": "Mary Kent",
-        "profile_path": null
-      },
-      {
-        "name": "Saul Meth",
-        "id": 116659,
-        "character": "Adam Kent",
-        "profile_path": "/8m4GiJqrPgRzyKJ2mwKLWAjIbmP.jpg"
-      },
-      {
-        "name": "Miriam Meth",
-        "id": 1571742,
-        "character": "Blanche Kent",
-        "profile_path": null
-      },
-      {
-        "name": "William Szarka",
-        "id": 1083352,
-        "character": "Billy Kent",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      }
-    ],
-    "popularidad": 0.0806,
-    "puntuación": 4.7,
-    "votos": 26,
-    "adulto": false,
-    "video": false,
-    "año": "1983",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/tvi40oOB9P9tBLXuxn2nbU2v933.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2026-02-01 10:03:57"
+    "última_actualización": "2026-02-01 22:02:57"
   },
   {
     "id": 257658,
@@ -537,7 +457,87 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-02-01 10:03:57"
+    "última_actualización": "2026-02-01 22:03:01"
+  },
+  {
+    "id": 47827,
+    "tmdb_id": 47827,
+    "título": "Una noche para descuartizar",
+    "título_original": "A Night to Dismember",
+    "sinopsis": "Una mujer se libera de un manicomio; pronto comienza a desmembrar todos los cuerpos que va encontrando. Fue rodada en 1979 aunque estrenada en 1983.",
+    "poster_path": "/7kZM0G11jpNuvVKP45e7uKVy4Dr.jpg",
+    "poster_local": "imagenes_estrenos/Una_noche_para_descuartizar_7kZM0G11jpNuvVKP45e7uKVy4Dr.jpg",
+    "backdrop_path": "/tvi40oOB9P9tBLXuxn2nbU2v933.jpg",
+    "backdrop_local": "imagenes_estrenos/Una_noche_para_descuartizar_backdrop_tvi40oOB9P9tBLXuxn2nbU2v933.jpg",
+    "fecha_estreno": "1983-01-01",
+    "duración": "70 min",
+    "director": "Doris Wishman",
+    "directores": [
+      {
+        "name": "Doris Wishman",
+        "id": 116656
+      }
+    ],
+    "actores": [
+      {
+        "name": "Samantha Fox",
+        "id": 44941,
+        "character": "Vicki Kent",
+        "profile_path": "/u9XzOUHcrFYM3ayORpMtUjRr4NY.jpg"
+      },
+      {
+        "name": "Diane Cummins",
+        "id": 1571741,
+        "character": "Mary Kent",
+        "profile_path": null
+      },
+      {
+        "name": "Saul Meth",
+        "id": 116659,
+        "character": "Adam Kent",
+        "profile_path": "/8m4GiJqrPgRzyKJ2mwKLWAjIbmP.jpg"
+      },
+      {
+        "name": "Miriam Meth",
+        "id": 1571742,
+        "character": "Blanche Kent",
+        "profile_path": null
+      },
+      {
+        "name": "William Szarka",
+        "id": 1083352,
+        "character": "Billy Kent",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 0.0806,
+    "puntuación": 4.7,
+    "votos": 26,
+    "adulto": false,
+    "video": false,
+    "año": "1983",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tvi40oOB9P9tBLXuxn2nbU2v933.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-02-01 22:03:01"
   },
   {
     "id": 62518,
@@ -621,7 +621,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-02-01 10:03:56"
+    "última_actualización": "2026-02-01 22:03:00"
   },
   {
     "id": 89921,
@@ -749,7 +749,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-02-01 10:03:55"
+    "última_actualización": "2026-02-01 22:02:59"
   },
   {
     "id": 40027,
@@ -818,7 +818,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-02-01 10:03:54"
+    "última_actualización": "2026-02-01 22:02:58"
   },
   {
     "id": 12721,
@@ -890,8 +890,8 @@
       }
     ],
     "popularidad": 2.0753,
-    "puntuación": 6.3,
-    "votos": 608,
+    "puntuación": 6.296,
+    "votos": 609,
     "adulto": false,
     "video": false,
     "año": "1986",
@@ -1001,7 +1001,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:54"
+    "última_actualización": "2026-02-01 22:02:57"
   },
   {
     "id": 17288,
@@ -1085,7 +1085,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-02-01 10:03:53"
+    "última_actualización": "2026-02-01 22:02:56"
   },
   {
     "id": 59558,
@@ -1099,15 +1099,15 @@
     "backdrop_local": "imagenes_estrenos/Miami_Connection_backdrop_h5xS2MIXoG7qIrDp84YgDl3DEvh.jpg",
     "fecha_estreno": "1989-05-09T00:00:00.000Z",
     "duración": "83 min",
-    "director": "Y.K. Kim, Richard Park Wu-sang",
+    "director": "Richard Park Wu-sang, Y.K. Kim",
     "directores": [
-      {
-        "name": "Y.K. Kim",
-        "id": 937109
-      },
       {
         "name": "Richard Park Wu-sang",
         "id": 937110
+      },
+      {
+        "name": "Y.K. Kim",
+        "id": 937109
       }
     ],
     "actores": [
@@ -1217,7 +1217,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-02-01 10:03:56"
+    "última_actualización": "2026-02-01 22:02:59"
   },
   {
     "id": 30419,
@@ -1319,7 +1319,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-02-01 10:03:56"
+    "última_actualización": "2026-02-01 22:02:59"
   },
   {
     "id": 11059,
@@ -1478,7 +1478,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:53"
+    "última_actualización": "2026-02-01 22:02:56"
   },
   {
     "id": 12142,
@@ -1647,7 +1647,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:54"
+    "última_actualización": "2026-02-01 22:02:58"
   },
   {
     "id": 2728,
@@ -1794,7 +1794,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:54"
+    "última_actualización": "2026-02-01 22:02:57"
   },
   {
     "id": 38780,
@@ -1943,7 +1943,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:55"
+    "última_actualización": "2026-02-01 22:02:58"
   },
   {
     "id": 1306845,
@@ -2092,7 +2092,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:54"
+    "última_actualización": "2026-02-01 22:02:58"
   },
   {
     "id": 1255364,
@@ -2192,7 +2192,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-02-01 10:03:57"
+    "última_actualización": "2026-02-01 22:03:00"
   },
   {
     "id": 1253000,
@@ -2260,8 +2260,8 @@
       }
     ],
     "popularidad": 6.0148,
-    "puntuación": 6.1,
-    "votos": 34,
+    "puntuación": 6.086,
+    "votos": 35,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2311,7 +2311,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:53"
+    "última_actualización": "2026-02-01 22:02:56"
   },
   {
     "id": 1453554,
@@ -2381,7 +2381,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:56"
+    "última_actualización": "2026-02-01 22:03:00"
   },
   {
     "id": 1458882,
@@ -2472,7 +2472,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:55"
+    "última_actualización": "2026-02-01 22:02:58"
   },
   {
     "id": 1625489,
@@ -2539,7 +2539,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:58"
+    "última_actualización": "2026-02-01 22:03:01"
   },
   {
     "id": 1625513,
@@ -2630,7 +2630,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:58"
+    "última_actualización": "2026-02-01 22:03:01"
   },
   {
     "id": 1625499,
@@ -2709,7 +2709,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:58"
+    "última_actualización": "2026-02-01 22:03:01"
   },
   {
     "id": 1315303,
@@ -2773,8 +2773,8 @@
       }
     ],
     "popularidad": 41.4789,
-    "puntuación": 6.52,
-    "votos": 75,
+    "puntuación": 6.468,
+    "votos": 77,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2864,7 +2864,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:52"
+    "última_actualización": "2026-02-01 22:02:55"
   },
   {
     "id": 1364608,
@@ -3015,7 +3015,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:53"
+    "última_actualización": "2026-02-01 22:02:56"
   },
   {
     "id": 1087822,
@@ -3194,7 +3194,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:53"
+    "última_actualización": "2026-02-01 22:02:57"
   },
   {
     "id": 1588838,
@@ -3238,7 +3238,7 @@
         "name": "Stéphanie Magnin",
         "id": 2443862,
         "character": "",
-        "profile_path": "/e3aGkokW0JkyzpU71VZEoxm0Kv5.jpg"
+        "profile_path": "/fPDyHTbQMS2hn6LVBNIZjeemCOc.jpg"
       },
       {
         "name": "José Manuel Poga",
@@ -3284,7 +3284,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:56"
+    "última_actualización": "2026-02-01 22:02:59"
   },
   {
     "id": 1571101,
@@ -3351,7 +3351,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:56"
+    "última_actualización": "2026-02-01 22:02:59"
   },
   {
     "id": 1623210,
@@ -3428,7 +3428,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-02-01 10:03:57"
+    "última_actualización": "2026-02-01 22:03:00"
   },
   {
     "id": 1547543,
@@ -3503,7 +3503,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:57"
+    "última_actualización": "2026-02-01 22:03:01"
   },
   {
     "id": 840464,
@@ -3571,8 +3571,8 @@
       }
     ],
     "popularidad": 610.5376,
-    "puntuación": 6.537,
-    "votos": 219,
+    "puntuación": 6.502,
+    "votos": 232,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3682,7 +3682,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:51"
+    "última_actualización": "2026-02-01 22:02:55"
   },
   {
     "id": 639988,
@@ -3692,7 +3692,7 @@
     "sinopsis": "La historia sigue a un hombre de mediana edad llamado Man-su que se embarca decidido en una búsqueda de trabajo tras ser despedido inesperadamente de la compañía de papel en la que trabajó durante 25 años. \"Si no hay una vacante para mí, tendré que crear una para que me contraten. No hay otra opción\". Adaptación de la novela \"The Ax\" de Donald E. Westlake, que ya fue llevada al cine en la película \"Arcadia\", dirigida por Costa-Gavras en 2005.",
     "poster_path": "/wqQPjI8RpXL9q9INsGr0UbQhkzA.jpg",
     "poster_local": "imagenes_estrenos/No_hay_otra_opci_n_wqQPjI8RpXL9q9INsGr0UbQhkzA.jpg",
-    "backdrop_path": "/4g4bFrZayZoEMH4vr2fNF8ObPzU.jpg",
+    "backdrop_path": "/1ktHy4yBupG3JzYoFsQ8DFoqZh4.jpg",
     "backdrop_local": "imagenes_estrenos/No_hay_otra_opci_n_backdrop_wPkU44Zirk9RizHGyK54vpd13MT.jpg",
     "fecha_estreno": "2026-02-13T00:00:00.000Z",
     "duración": "139 min",
@@ -3750,33 +3750,13 @@
       }
     ],
     "popularidad": 38.6222,
-    "puntuación": 7.688,
-    "votos": 555,
+    "puntuación": 7.689,
+    "votos": 558,
     "adulto": false,
     "video": false,
     "año": "2025",
     "imágenes": {
       "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/4g4bFrZayZoEMH4vr2fNF8ObPzU.jpg",
-          "vote_average": 6.312,
-          "vote_count": 8,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1800,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/s6aB9kjxNg0mu2361IkCUSpyHJV.jpg",
-          "vote_average": 5.97,
-          "vote_count": 33,
-          "width": 3200
-        },
         {
           "aspect_ratio": 1.778,
           "height": 1800,
@@ -3786,6 +3766,26 @@
           "vote_average": 5.928,
           "vote_count": 21,
           "width": 3200
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1800,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/s6aB9kjxNg0mu2361IkCUSpyHJV.jpg",
+          "vote_average": 5.808,
+          "vote_count": 34,
+          "width": 3200
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/4g4bFrZayZoEMH4vr2fNF8ObPzU.jpg",
+          "vote_average": 5.778,
+          "vote_count": 9,
+          "width": 3840
         },
         {
           "aspect_ratio": 1.778,
@@ -3831,7 +3831,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:52"
+    "última_actualización": "2026-02-01 22:02:55"
   },
   {
     "id": 1297842,
@@ -4014,13 +4014,13 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:52"
+    "última_actualización": "2026-02-01 22:02:55"
   },
   {
     "id": 1316092,
     "tmdb_id": 1316092,
     "título": "Cumbres Borrascosas",
-    "título_original": "\"Wuthering Heights\"",
+    "título_original": "“Wuthering Heights”",
     "sinopsis": "",
     "poster_path": "/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
     "poster_local": "imagenes_estrenos/Cumbres_Borrascosas_afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
@@ -4179,7 +4179,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:52"
+    "última_actualización": "2026-02-01 22:02:55"
   },
   {
     "id": 1107216,
@@ -4193,15 +4193,15 @@
     "backdrop_local": "imagenes_estrenos/Pets_on_a_Train_backdrop_3Gjo73aMqNWxNdBa7PeEj7AXJ3E.jpg",
     "fecha_estreno": "2026-02-13T00:00:00.000Z",
     "duración": "87 min",
-    "director": "Jean-Christian Tassy, Benoît Daffis",
+    "director": "Benoît Daffis, Jean-Christian Tassy",
     "directores": [
-      {
-        "name": "Jean-Christian Tassy",
-        "id": 930739
-      },
       {
         "name": "Benoît Daffis",
         "id": 3988259
+      },
+      {
+        "name": "Jean-Christian Tassy",
+        "id": 930739
       }
     ],
     "actores": [
@@ -4336,7 +4336,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:52"
+    "última_actualización": "2026-02-01 22:02:56"
   },
   {
     "id": 1171145,
@@ -4491,7 +4491,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:52"
+    "última_actualización": "2026-02-01 22:02:56"
   },
   {
     "id": 1119449,
@@ -4634,7 +4634,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:53"
+    "última_actualización": "2026-02-01 22:02:56"
   },
   {
     "id": 1474226,
@@ -4725,7 +4725,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:54"
+    "última_actualización": "2026-02-01 22:02:57"
   },
   {
     "id": 1606362,
@@ -4757,7 +4757,7 @@
         "name": "Lolita Flores",
         "id": 1054270,
         "character": "Gael",
-        "profile_path": "/gMoVE9poJ1vWe3xYrQPRHZkHFva.jpg"
+        "profile_path": "/jkB4zldx5BliK6TrWdx8V0yrJBS.jpg"
       },
       {
         "name": "Natalia Rodríguez",
@@ -4809,7 +4809,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:56"
+    "última_actualización": "2026-02-01 22:02:59"
   },
   {
     "id": 1613650,
@@ -4889,7 +4889,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:57"
+    "última_actualización": "2026-02-01 22:03:00"
   },
   {
     "id": 1245815,
@@ -4938,7 +4938,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:58"
+    "última_actualización": "2026-02-01 22:03:01"
   },
   {
     "id": 1114967,
@@ -4964,7 +4964,7 @@
         "name": "Keanu Reeves",
         "id": 6384,
         "character": "Gabriel",
-        "profile_path": "/kEoUZKEG7dzbCESDjd0CKAN1r0n.jpg"
+        "profile_path": "/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
       },
       {
         "name": "Aziz Ansari",
@@ -5002,7 +5002,7 @@
       }
     ],
     "popularidad": 12.5652,
-    "puntuación": 7.036,
+    "puntuación": 7.0,
     "votos": 432,
     "adulto": false,
     "video": false,
@@ -5113,7 +5113,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:52"
+    "última_actualización": "2026-02-01 22:02:55"
   },
   {
     "id": 891584,
@@ -5272,7 +5272,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:53"
+    "última_actualización": "2026-02-01 22:02:56"
   },
   {
     "id": 1291659,
@@ -5332,8 +5332,8 @@
       }
     ],
     "popularidad": 4.0181,
-    "puntuación": 6.971,
-    "votos": 34,
+    "puntuación": 6.914,
+    "votos": 35,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -5392,7 +5392,76 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-02-01 10:03:53"
+    "última_actualización": "2026-02-01 22:02:57"
+  },
+  {
+    "id": 1442211,
+    "tmdb_id": 1442211,
+    "título": "Balandrau, viento salvaje",
+    "título_original": "Balandrau, vent salvatge",
+    "sinopsis": "El 30 de diciembre del 2000, un grupo de amigos se disponen a ascender el Balandrau. El sol acompaña a los montañeros hasta que, en cuestión de minutos, todo cambia. Una ventisca imprevisible desencadena la peor de las tormentas de la historia de los Pirineos.",
+    "poster_path": "/cYk5U642sUMudAe9ARTg6HnDHcy.jpg",
+    "poster_local": "imagenes_estrenos/Balandrau__viento_salvaje_cYk5U642sUMudAe9ARTg6HnDHcy.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-02-20T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Fernando Trullols",
+    "directores": [
+      {
+        "name": "Fernando Trullols",
+        "id": 2357663
+      }
+    ],
+    "actores": [
+      {
+        "name": "Álvaro Cervantes",
+        "id": 224874,
+        "character": "",
+        "profile_path": "/3YF7YYvvzGTTCrorulDqD5PoHHw.jpg"
+      },
+      {
+        "name": "Bruna Cusí",
+        "id": 1743949,
+        "character": "",
+        "profile_path": "/3yv66ERiyxWwFiFyfKt5BaPbFxZ.jpg"
+      },
+      {
+        "name": "Marc Martínez",
+        "id": 1061976,
+        "character": "",
+        "profile_path": "/4Q7NOR7sTXWq24rCW5nilqQ20NS.jpg"
+      },
+      {
+        "name": "Pep Ambròs",
+        "id": 1592955,
+        "character": "",
+        "profile_path": "/2aed6AndZLhkCtvx4uZs8T7M6rL.jpg"
+      },
+      {
+        "name": "Francesc Garrido",
+        "id": 1033064,
+        "character": "",
+        "profile_path": "/npt3TYgw3Suvucq3o0n5Tdt59C.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.3521,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-02-01 22:02:58"
   },
   {
     "id": 961077,
@@ -5537,76 +5606,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:55"
-  },
-  {
-    "id": 1442211,
-    "tmdb_id": 1442211,
-    "título": "Balandrau, viento salvaje",
-    "título_original": "Balandrau, vent salvatge",
-    "sinopsis": "El 30 de diciembre del 2000, un grupo de amigos se disponen a ascender el Balandrau. El sol acompaña a los montañeros hasta que, en cuestión de minutos, todo cambia. Una ventisca imprevisible desencadena la peor de las tormentas de la historia de los Pirineos.",
-    "poster_path": "/cYk5U642sUMudAe9ARTg6HnDHcy.jpg",
-    "poster_local": "imagenes_estrenos/Balandrau__viento_salvaje_cYk5U642sUMudAe9ARTg6HnDHcy.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-02-20T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Fernando Trullols",
-    "directores": [
-      {
-        "name": "Fernando Trullols",
-        "id": 2357663
-      }
-    ],
-    "actores": [
-      {
-        "name": "Álvaro Cervantes",
-        "id": 224874,
-        "character": "",
-        "profile_path": "/3YF7YYvvzGTTCrorulDqD5PoHHw.jpg"
-      },
-      {
-        "name": "Bruna Cusí",
-        "id": 1743949,
-        "character": "",
-        "profile_path": "/3yv66ERiyxWwFiFyfKt5BaPbFxZ.jpg"
-      },
-      {
-        "name": "Marc Martínez",
-        "id": 1061976,
-        "character": "",
-        "profile_path": "/4Q7NOR7sTXWq24rCW5nilqQ20NS.jpg"
-      },
-      {
-        "name": "Pep Ambròs",
-        "id": 1592955,
-        "character": "",
-        "profile_path": "/2aed6AndZLhkCtvx4uZs8T7M6rL.jpg"
-      },
-      {
-        "name": "Francesc Garrido",
-        "id": 1033064,
-        "character": "",
-        "profile_path": "/npt3TYgw3Suvucq3o0n5Tdt59C.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 1.3521,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2026-02-01 10:03:55"
+    "última_actualización": "2026-02-01 22:02:59"
   },
   {
     "id": 1457842,
@@ -5655,7 +5655,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:56"
+    "última_actualización": "2026-02-01 22:03:00"
   },
   {
     "id": 1612063,
@@ -5778,6 +5778,6 @@
         }
       ]
     },
-    "última_actualización": "2026-02-01 10:03:55"
+    "última_actualización": "2026-02-01 22:02:58"
   }
 ]
