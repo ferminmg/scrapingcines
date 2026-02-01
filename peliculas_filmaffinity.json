@@ -1,27 +1,5 @@
 [
     {
-        "título": "La princesa Mononoke (Reestreno)",
-        "cartel": "imagenes_filmaffinity/la-princesa-mononoke-reestreno.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-02-01",
-                "hora": "19:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25050"
-            },
-            {
-                "fecha": "2026-02-05",
-                "hora": "19:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25051"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
-    },
-    {
         "título": "Send Help (Enviad ayuda)",
         "cartel": "imagenes_filmaffinity/tmdb_send-help-enviad-ayuda.jpg",
         "horarios": [
@@ -88,6 +66,23 @@
         "actores": "Sydney Sweeney, Amanda Seyfried, Brandon Sklenar, Michele Morrone, Indiana Elle",
         "sinopsis": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática.",
         "año": "2025"
+    },
+    {
+        "título": "La princesa Mononoke (Reestreno)",
+        "cartel": "imagenes_filmaffinity/la-princesa-mononoke-reestreno.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-05",
+                "hora": "19:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25051"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
     },
     {
         "título": "Stray Kids: The dominATE Experience",
