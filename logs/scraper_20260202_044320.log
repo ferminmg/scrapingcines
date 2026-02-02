@@ -1,0 +1,5 @@
+2026-02-02 04:43:20,029 - INFO - Iniciando proceso de scraping
+2026-02-02 04:43:20,031 - INFO - Posts existentes encontrados: 2500
+2026-02-02 04:43:20,031 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-02-02 04:43:20,524 - ERROR - Error al obtener posts: 503 Server Error: Service Temporarily Unavailable for url: https://ghostintheblog.com/
+2026-02-02 04:43:20,525 - INFO - Proceso completado. Posts nuevos guardados: 0
