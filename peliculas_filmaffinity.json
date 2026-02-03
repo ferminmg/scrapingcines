@@ -17,72 +17,6 @@
         "año": "2026"
     },
     {
-        "título": "Marty Supreme",
-        "cartel": "imagenes_filmaffinity/tmdb_marty-supreme.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-02-03",
-                "hora": "19:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25525"
-            },
-            {
-                "fecha": "2026-02-10",
-                "hora": "19:05",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26143"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Josh Safdie",
-        "duración": "150 min",
-        "actores": "Timothée Chalamet, Gwyneth Paltrow, Odessa A'zion, Kevin O'Leary, Tyler, The Creator",
-        "sinopsis": "Biopic de Marty Reisman, un buscavidas convertido en campeón de ping pong, desde que empezó a jugar por apuestas en Manhattan hasta ganar 22 títulos importantes y convertirse en el más veterano en ganar una competición nacional de deportes de raqueta, con 67 años.",
-        "año": "2025"
-    },
-    {
-        "título": "Hamnet",
-        "cartel": "imagenes_filmaffinity/tmdb_hamnet.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-02-03",
-                "hora": "19:45",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25909"
-            },
-            {
-                "fecha": "2026-02-10",
-                "hora": "19:45",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26150"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Chloé Zhao",
-        "duración": "126 min",
-        "actores": "Jessie Buckley, Paul Mescal, Emily Watson, Joe Alwyn, Jacobi Jupe",
-        "sinopsis": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.",
-        "año": "2025"
-    },
-    {
-        "título": "La asistenta",
-        "cartel": "imagenes_filmaffinity/tmdb_la-asistenta.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-02-03",
-                "hora": "19:40",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25908"
-            },
-            {
-                "fecha": "2026-02-10",
-                "hora": "19:40",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26128"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Paul Feig",
-        "duración": "131 min",
-        "actores": "Sydney Sweeney, Amanda Seyfried, Brandon Sklenar, Michele Morrone, Indiana Elle",
-        "sinopsis": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática.",
-        "año": "2025"
-    },
-    {
         "título": "La princesa Mononoke (Reestreno)",
         "cartel": "imagenes_filmaffinity/la-princesa-mononoke-reestreno.jpg",
         "horarios": [
@@ -191,6 +125,57 @@
         "actores": "Johnny Sequoyah, Jessica Alexander, Troy Kotsur, Victoria Wyant, Gia Hunter",
         "sinopsis": "",
         "año": "2026"
+    },
+    {
+        "título": "Marty Supreme",
+        "cartel": "imagenes_filmaffinity/tmdb_marty-supreme.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-10",
+                "hora": "19:05",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26143"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Josh Safdie",
+        "duración": "150 min",
+        "actores": "Timothée Chalamet, Gwyneth Paltrow, Odessa A'zion, Kevin O'Leary, Tyler, The Creator",
+        "sinopsis": "Biopic de Marty Reisman, un buscavidas convertido en campeón de ping pong, desde que empezó a jugar por apuestas en Manhattan hasta ganar 22 títulos importantes y convertirse en el más veterano en ganar una competición nacional de deportes de raqueta, con 67 años.",
+        "año": "2025"
+    },
+    {
+        "título": "Hamnet",
+        "cartel": "imagenes_filmaffinity/tmdb_hamnet.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-10",
+                "hora": "19:45",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26150"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Chloé Zhao",
+        "duración": "126 min",
+        "actores": "Jessie Buckley, Paul Mescal, Emily Watson, Joe Alwyn, Jacobi Jupe",
+        "sinopsis": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.",
+        "año": "2025"
+    },
+    {
+        "título": "La asistenta",
+        "cartel": "imagenes_filmaffinity/tmdb_la-asistenta.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-10",
+                "hora": "19:40",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26128"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Paul Feig",
+        "duración": "131 min",
+        "actores": "Sydney Sweeney, Amanda Seyfried, Brandon Sklenar, Michele Morrone, Indiana Elle",
+        "sinopsis": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática.",
+        "año": "2025"
     },
     {
         "título": "The Rose: Come Back to Me",

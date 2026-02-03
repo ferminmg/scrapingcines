@@ -40,7 +40,7 @@
             {
                 "fecha": "2026-02-03",
                 "hora": "19:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98251&eventCode=103859"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -153,30 +153,13 @@
         "año": "2025"
     },
     {
-        "título": "La chica zurda",
-        "cartel": "imagenes_peliculas/tmdb_la_chica_zurda.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-02-03",
-                "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89188&eventCode=105175"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Shih-Ching Tsou",
-        "duración": "109 min",
-        "actores": "馬士媛, Janel Tsai, 葉子綺, 黃鐙輝, 陳慕義",
-        "sinopsis": "",
-        "año": "2025"
-    },
-    {
         "título": "Turno de guardia",
         "cartel": "imagenes_peliculas/tmdb_turno_de_guardia.jpg",
         "horarios": [
             {
                 "fecha": "2026-02-03",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89192&eventCode=104499"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
