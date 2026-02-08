@@ -1,44 +1,5 @@
 [
     {
-        "título": "Stray Kids: The dominATE Experience",
-        "cartel": "imagenes_filmaffinity/tmdb_stray-kids-the-dominate-experience.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-02-08",
-                "hora": "18:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25299"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Paul Dugdale, Farah Khalid",
-        "duración": "146 min",
-        "actores": "방찬, 리노, 창빈, 현진, 한",
-        "sinopsis": "Captura las actuaciones del grupo de K-pop en el SoFi Stadium de Los Ángeles, con todas las entradas agotadas, combinando imágenes de la gira mundial dominATE de Stray Kids con material entre bastidores.",
-        "año": "2026"
-    },
-    {
-        "título": "Porco Rosso (Reestreno)",
-        "cartel": "imagenes_filmaffinity/porco-rosso-reestreno.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-02-08",
-                "hora": "19:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25054"
-            },
-            {
-                "fecha": "2026-02-12",
-                "hora": "19:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25055"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
-    },
-    {
         "título": "Hellboy: El hombre retorcido",
         "cartel": "imagenes_filmaffinity/tmdb_hellboy-el-hombre-retorcido.jpg",
         "horarios": [
@@ -120,8 +81,25 @@
         "director": "Paul Feig",
         "duración": "131 min",
         "actores": "Sydney Sweeney, Amanda Seyfried, Brandon Sklenar, Michele Morrone, Indiana Elle",
-        "sinopsis": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática.",
+        "sinopsis": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
         "año": "2025"
+    },
+    {
+        "título": "Porco Rosso (Reestreno)",
+        "cartel": "imagenes_filmaffinity/porco-rosso-reestreno.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-12",
+                "hora": "19:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=25055"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
     },
     {
         "título": "The Rose: Come Back to Me",
