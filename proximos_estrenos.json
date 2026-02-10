@@ -64,9 +64,9 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 499.8774,
-    "puntuación": 6.559,
-    "votos": 363,
+    "popularidad": 451.199,
+    "puntuación": 6.6,
+    "votos": 370,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -176,7 +176,182 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:45"
+    "última_actualización": "2026-02-10 10:17:32"
+  },
+  {
+    "id": 1316092,
+    "tmdb_id": 1316092,
+    "título": "“Cumbres Borrascosas”",
+    "título_original": "“Wuthering Heights”",
+    "sinopsis": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
+    "poster_path": "/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
+    "poster_local": "imagenes_estrenos/Cumbres_Borrascosas_afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
+    "backdrop_path": "/oGAYQOhfuXMh9Cpp4LNfzI5uDS3.jpg",
+    "backdrop_local": "imagenes_estrenos/Cumbres_Borrascosas_backdrop_ds9WgvEDs0VitU2BHUnlEzhRyCs.jpg",
+    "fecha_estreno": "2026-02-13T00:00:00.000Z",
+    "duración": "136 min",
+    "director": "Emerald Fennell",
+    "directores": [
+      {
+        "name": "Emerald Fennell",
+        "id": 1252934
+      }
+    ],
+    "actores": [
+      {
+        "name": "Margot Robbie",
+        "id": 234352,
+        "character": "Catherine Earnshaw",
+        "profile_path": "/jWzN6U6gHkOSkuXfzS3P8dteJDo.jpg"
+      },
+      {
+        "name": "Jacob Elordi",
+        "id": 2034418,
+        "character": "Heathcliff",
+        "profile_path": "/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg"
+      },
+      {
+        "name": "Hong Chau",
+        "id": 1360317,
+        "character": "Nelly Dean",
+        "profile_path": "/yGEw6uiSUBo838HkiCARs4BR40y.jpg"
+      },
+      {
+        "name": "Alison Oliver",
+        "id": 2981449,
+        "character": "Isabella Linton",
+        "profile_path": "/ouHdcq6Tgedx4UnJuT3liROzomq.jpg"
+      },
+      {
+        "name": "Shazad Latif",
+        "id": 1370832,
+        "character": "Edgar Linton",
+        "profile_path": "/n8vJ1AHhv294hGqZxhjM95OvpxT.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "popularidad": 37.3447,
+    "puntuación": 6.833,
+    "votos": 6,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oGAYQOhfuXMh9Cpp4LNfzI5uDS3.jpg",
+          "vote_average": 6.312,
+          "vote_count": 8,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/sYM02XfZhqvlixmRkDcseQ6Xllk.jpg",
+          "vote_average": 5.786,
+          "vote_count": 7,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1024,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/gaVelHWENu4QnQL9LDuBo9WtlNp.jpg",
+          "vote_average": 1.75,
+          "vote_count": 4,
+          "width": 1820
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/dA4z4ZjBJnihDbjO29VBYxsKnLI.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/uaEWy9VaeWe8A4rpSNK2LLYA8Zi.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ov0Wqu2I8EzaV1zuoaTnAnHVejY.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/rP0R3rDcxsoyLGoqiJTPdjMPKSw.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/qPEfv3jEJf3TGLyswpdFNQ4UNnc.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/9L32JUjsDW9AHWYMJEAErPkcVdL.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-02-10 10:17:33"
   },
   {
     "id": 639988,
@@ -243,9 +418,9 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 30.9553,
-    "puntuación": 7.6,
-    "votos": 603,
+    "popularidad": 26.9991,
+    "puntuación": 7.614,
+    "votos": 609,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -345,7 +520,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:46"
+    "última_actualización": "2026-02-10 10:17:33"
   },
   {
     "id": 1297842,
@@ -416,9 +591,9 @@
         "name": "Acción"
       }
     ],
-    "popularidad": 29.8074,
-    "puntuación": 6.6,
-    "votos": 5,
+    "popularidad": 32.6555,
+    "puntuación": 7.0,
+    "votos": 6,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -528,182 +703,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:46"
-  },
-  {
-    "id": 1316092,
-    "tmdb_id": 1316092,
-    "título": "“Cumbres Borrascosas”",
-    "título_original": "“Wuthering Heights”",
-    "sinopsis": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
-    "poster_path": "/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
-    "poster_local": "imagenes_estrenos/Cumbres_Borrascosas_afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
-    "backdrop_path": "/oGAYQOhfuXMh9Cpp4LNfzI5uDS3.jpg",
-    "backdrop_local": "imagenes_estrenos/Cumbres_Borrascosas_backdrop_ds9WgvEDs0VitU2BHUnlEzhRyCs.jpg",
-    "fecha_estreno": "2026-02-13T00:00:00.000Z",
-    "duración": "136 min",
-    "director": "Emerald Fennell",
-    "directores": [
-      {
-        "name": "Emerald Fennell",
-        "id": 1252934
-      }
-    ],
-    "actores": [
-      {
-        "name": "Margot Robbie",
-        "id": 234352,
-        "character": "Catherine Earnshaw",
-        "profile_path": "/jWzN6U6gHkOSkuXfzS3P8dteJDo.jpg"
-      },
-      {
-        "name": "Jacob Elordi",
-        "id": 2034418,
-        "character": "Heathcliff",
-        "profile_path": "/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg"
-      },
-      {
-        "name": "Hong Chau",
-        "id": 1360317,
-        "character": "Nelly Dean",
-        "profile_path": "/yGEw6uiSUBo838HkiCARs4BR40y.jpg"
-      },
-      {
-        "name": "Alison Oliver",
-        "id": 2981449,
-        "character": "Isabella Linton",
-        "profile_path": "/ouHdcq6Tgedx4UnJuT3liROzomq.jpg"
-      },
-      {
-        "name": "Shazad Latif",
-        "id": 1370832,
-        "character": "Edgar Linton",
-        "profile_path": "/n8vJ1AHhv294hGqZxhjM95OvpxT.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      }
-    ],
-    "popularidad": 28.3778,
-    "puntuación": 6.0,
-    "votos": 4,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/oGAYQOhfuXMh9Cpp4LNfzI5uDS3.jpg",
-          "vote_average": 6.312,
-          "vote_count": 8,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/sYM02XfZhqvlixmRkDcseQ6Xllk.jpg",
-          "vote_average": 5.786,
-          "vote_count": 7,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1542,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/fIBtlFOodItS39EggIC49OfwQgK.jpg",
-          "vote_average": 5.25,
-          "vote_count": 8,
-          "width": 2742
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1024,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/gaVelHWENu4QnQL9LDuBo9WtlNp.jpg",
-          "vote_average": 1.75,
-          "vote_count": 4,
-          "width": 1820
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/dA4z4ZjBJnihDbjO29VBYxsKnLI.jpg",
-          "vote_average": 1.222,
-          "vote_count": 3,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ov0Wqu2I8EzaV1zuoaTnAnHVejY.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/rP0R3rDcxsoyLGoqiJTPdjMPKSw.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/qPEfv3jEJf3TGLyswpdFNQ4UNnc.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/9L32JUjsDW9AHWYMJEAErPkcVdL.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-02-09 22:09:46"
+    "última_actualización": "2026-02-10 10:17:33"
   },
   {
     "id": 1171145,
@@ -716,7 +716,7 @@
     "backdrop_path": "/2t25zHKX3PAUZWppuLD36JGdgCA.jpg",
     "backdrop_local": "imagenes_estrenos/Ruta_de_escape_backdrop_2t25zHKX3PAUZWppuLD36JGdgCA.jpg",
     "fecha_estreno": "2026-02-13T00:00:00.000Z",
-    "duración": "141 min",
+    "duración": "140 min",
     "director": "Bart Layton",
     "directores": [
       {
@@ -766,9 +766,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 18.961,
-    "puntuación": 0.0,
-    "votos": 0,
+    "popularidad": 19.7088,
+    "puntuación": 8.0,
+    "votos": 1,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -858,7 +858,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:47"
+    "última_actualización": "2026-02-10 10:17:33"
   },
   {
     "id": 1107216,
@@ -933,7 +933,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 9.7082,
+    "popularidad": 8.2742,
     "puntuación": 6.9,
     "votos": 34,
     "adulto": false,
@@ -1015,7 +1015,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:47"
+    "última_actualización": "2026-02-10 10:17:34"
   },
   {
     "id": 1119449,
@@ -1086,9 +1086,9 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 7.4531,
-    "puntuación": 0.0,
-    "votos": 0,
+    "popularidad": 8.691,
+    "puntuación": 8.0,
+    "votos": 1,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1168,7 +1168,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:48"
+    "última_actualización": "2026-02-10 10:17:34"
   },
   {
     "id": 1474226,
@@ -1227,7 +1227,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 2.0962,
+    "popularidad": 2.0793,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1259,7 +1259,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:49"
+    "última_actualización": "2026-02-10 10:17:36"
   },
   {
     "id": 1606362,
@@ -1322,7 +1322,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 0.6316,
+    "popularidad": 0.6325,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1343,7 +1343,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:50"
+    "última_actualización": "2026-02-10 10:17:37"
   },
   {
     "id": 1613650,
@@ -1402,7 +1402,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.2826,
+    "popularidad": 0.3933,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1433,7 +1433,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:51"
+    "última_actualización": "2026-02-10 10:17:37"
   },
   {
     "id": 1245815,
@@ -1461,7 +1461,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.0338,
+    "popularidad": 0.0662,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1482,7 +1482,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:52"
+    "última_actualización": "2026-02-10 10:17:39"
   },
   {
     "id": 1630472,
@@ -1507,7 +1507,20 @@
         "id": 5991012
       }
     ],
-    "actores": [],
+    "actores": [
+      {
+        "name": "David Godfrey",
+        "id": 5991012,
+        "character": "El escultor",
+        "profile_path": null
+      },
+      {
+        "name": "Raúl García",
+        "id": 5997578,
+        "character": "El material",
+        "profile_path": null
+      }
+    ],
     "géneros": [
       {
         "id": 53,
@@ -1522,9 +1535,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.0,
-    "puntuación": 0.0,
-    "votos": 0,
+    "popularidad": 0.0286,
+    "puntuación": 8.0,
+    "votos": 1,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1543,7 +1556,197 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:52"
+    "última_actualización": "2026-02-10 10:17:40"
+  },
+  {
+    "id": 1386777,
+    "tmdb_id": 1386777,
+    "título": "Ángulo muerto",
+    "título_original": "Ángulo muerto",
+    "sinopsis": "Estela y Ramón han atravesado una separación y el suicidio de Hugo, su único hijo, de tan solo 13 años, después de sufrir acoso escolar. Cuando Estela consigue un vídeo grabado por los agresores de su hijo, cree que ha llegado el momento de tener una conversación con Ramón. Mientras descubren la realidad de lo ocurrido con Hugo, tratarán de esclarecer si podrían haberlo evitado y si estuvieron a la altura como padres.",
+    "poster_path": "/8Z9uQM2twRn8zcZRgFph2yEoF2I.jpg",
+    "poster_local": "imagenes_estrenos/_ngulo_muerto_8Z9uQM2twRn8zcZRgFph2yEoF2I.jpg",
+    "backdrop_path": "/ukoMtyATjdBCVPdZdzpw4THuEWI.jpg",
+    "backdrop_local": "imagenes_estrenos/_ngulo_muerto_backdrop_ukoMtyATjdBCVPdZdzpw4THuEWI.jpg",
+    "fecha_estreno": "2026-02-19",
+    "duración": "15 min",
+    "director": "Cristian Beteta",
+    "directores": [
+      {
+        "name": "Cristian Beteta",
+        "id": 3255910
+      }
+    ],
+    "actores": [
+      {
+        "name": "Carlos Santos",
+        "id": 1050908,
+        "character": "Ramón",
+        "profile_path": "/3PHpSzUFRgbIxfzttPsDANMZIHt.jpg"
+      },
+      {
+        "name": "Eva Llorach",
+        "id": 1102408,
+        "character": "Estela",
+        "profile_path": "/8w4O95cpFXkOc9D5Jq0aDrmIUKu.jpg"
+      },
+      {
+        "name": "Yoel Guillén Gancedo",
+        "id": 3728834,
+        "character": "Hugo",
+        "profile_path": null
+      },
+      {
+        "name": "Álex Romero",
+        "id": 5851437,
+        "character": "Amigo",
+        "profile_path": null
+      },
+      {
+        "name": "Julián López",
+        "id": 5851438,
+        "character": "Abusón 1",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 0.1727,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.779,
+          "height": 1068,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ukoMtyATjdBCVPdZdzpw4THuEWI.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1900
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/8Z9uQM2twRn8zcZRgFph2yEoF2I.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.703,
+          "height": 2560,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/bGFnWTS5Z83mZc4n2sQeHidgzk6.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1799
+        }
+      ]
+    },
+    "última_actualización": "2026-02-10 10:17:38"
+  },
+  {
+    "id": 1588266,
+    "tmdb_id": 1588266,
+    "título": "El Primer Día",
+    "título_original": "El Primer Día",
+    "sinopsis": "\"El Primer Día\" es una reflexión sobre la soledad y a la vez sobre el acompañamiento significativo en momentos de transición vital.",
+    "poster_path": "/o4KdXzYcvciGxLdnZ68xuJnNmkL.jpg",
+    "poster_local": "imagenes_estrenos/El_Primer_D_a_o4KdXzYcvciGxLdnZ68xuJnNmkL.jpg",
+    "backdrop_path": "/6VzRTBPKffbgUUokeZ5F7CeJyVx.jpg",
+    "backdrop_local": "imagenes_estrenos/El_Primer_D_a_backdrop_6VzRTBPKffbgUUokeZ5F7CeJyVx.jpg",
+    "fecha_estreno": "2026-02-19",
+    "duración": "9 min",
+    "director": "César Ríos Aguilar",
+    "directores": [
+      {
+        "name": "César Ríos Aguilar",
+        "id": 5145525
+      }
+    ],
+    "actores": [
+      {
+        "name": "Elisabet Gelabert",
+        "id": 16976,
+        "character": "",
+        "profile_path": "/3mK2F3fFzXVVBIhGQqRDp0FCUnl.jpg"
+      },
+      {
+        "name": "Vicente Vergara",
+        "id": 2264687,
+        "character": "",
+        "profile_path": "/sexFRRIeaUo883zLsxVLcgei3cw.jpg"
+      },
+      {
+        "name": "Tusti de las Heras",
+        "id": 1197201,
+        "character": "",
+        "profile_path": "/rEozqzO5jMViDMII5L7uTr8E1Za.jpg"
+      },
+      {
+        "name": "Pepe Blanes",
+        "id": 4368122,
+        "character": "",
+        "profile_path": "/mTnlUoW32p6EaoaNc0dbX2AuiOj.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.044,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6VzRTBPKffbgUUokeZ5F7CeJyVx.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.707,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/o4KdXzYcvciGxLdnZ68xuJnNmkL.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 530
+        }
+      ]
+    },
+    "última_actualización": "2026-02-10 10:17:39"
   },
   {
     "id": 1114967,
@@ -1606,7 +1809,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 11.5469,
+    "popularidad": 10.5365,
     "puntuación": 7.015,
     "votos": 443,
     "adulto": false,
@@ -1718,7 +1921,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:47"
+    "última_actualización": "2026-02-10 10:17:34"
   },
   {
     "id": 891584,
@@ -1785,7 +1988,7 @@
         "name": "Música"
       }
     ],
-    "popularidad": 5.1276,
+    "popularidad": 4.6905,
     "puntuación": 6.354,
     "votos": 48,
     "adulto": false,
@@ -1877,7 +2080,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:48"
+    "última_actualización": "2026-02-10 10:17:35"
   },
   {
     "id": 1291659,
@@ -1936,7 +2139,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 3.1565,
+    "popularidad": 3.2721,
     "puntuación": 6.7,
     "votos": 45,
     "adulto": false,
@@ -1997,7 +2200,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-02-09 22:09:49"
+    "última_actualización": "2026-02-10 10:17:35"
   },
   {
     "id": 1442211,
@@ -2056,7 +2259,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.8697,
+    "popularidad": 2.6825,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2077,7 +2280,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:49"
+    "última_actualización": "2026-02-10 10:17:35"
   },
   {
     "id": 961077,
@@ -2140,7 +2343,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 1.2619,
+    "popularidad": 1.1204,
     "puntuación": 6.938,
     "votos": 65,
     "adulto": false,
@@ -2222,7 +2425,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:50"
+    "última_actualización": "2026-02-10 10:17:36"
   },
   {
     "id": 1457842,
@@ -2250,7 +2453,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.1604,
+    "popularidad": 0.0983,
     "puntuación": 6.0,
     "votos": 1,
     "adulto": false,
@@ -2271,7 +2474,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:51"
+    "última_actualización": "2026-02-10 10:17:38"
   },
   {
     "id": 1612063,
@@ -2322,7 +2525,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 1.3059,
+    "popularidad": 1.2118,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2394,7 +2597,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:49"
+    "última_actualización": "2026-02-10 10:17:36"
   },
   {
     "id": 1206008,
@@ -2457,9 +2660,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 38.8623,
-    "puntuación": 5.8,
-    "votos": 55,
+    "popularidad": 33.2061,
+    "puntuación": 5.733,
+    "votos": 58,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2569,7 +2772,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:46"
+    "última_actualización": "2026-02-10 10:17:32"
   },
   {
     "id": 1159559,
@@ -2636,7 +2839,7 @@
         "name": "Crimen"
       }
     ],
-    "popularidad": 27.0503,
+    "popularidad": 31.7671,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2748,7 +2951,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:47"
+    "última_actualización": "2026-02-10 10:17:33"
   },
   {
     "id": 1406657,
@@ -2819,7 +3022,7 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 7.7318,
+    "popularidad": 7.0746,
     "puntuación": 7.7,
     "votos": 3,
     "adulto": false,
@@ -2931,7 +3134,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:48"
+    "última_actualización": "2026-02-10 10:17:34"
   },
   {
     "id": 1445363,
@@ -2970,7 +3173,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 3.403,
+    "popularidad": 5.5301,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3022,7 +3225,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:48"
+    "última_actualización": "2026-02-10 10:17:35"
   },
   {
     "id": 1376439,
@@ -3085,7 +3288,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 0.5888,
+    "popularidad": 0.4618,
     "puntuación": 6.0,
     "votos": 11,
     "adulto": false,
@@ -3116,7 +3319,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-02-09 22:09:50"
+    "última_actualización": "2026-02-10 10:17:37"
   },
   {
     "id": 1400272,
@@ -3161,7 +3364,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 0.1023,
+    "popularidad": 0.1073,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3243,7 +3446,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:51"
+    "última_actualización": "2026-02-10 10:17:38"
   },
   {
     "id": 1630235,
@@ -3310,7 +3513,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 0.0857,
+    "popularidad": 0.0464,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3362,7 +3565,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:51"
+    "última_actualización": "2026-02-10 10:17:39"
   },
   {
     "id": 1624329,
@@ -3457,7 +3660,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:52"
+    "última_actualización": "2026-02-10 10:17:40"
   },
   {
     "id": 1555620,
@@ -3520,7 +3723,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.6396,
+    "popularidad": 0.568,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3582,6 +3785,6 @@
         }
       ]
     },
-    "última_actualización": "2026-02-09 22:09:50"
+    "última_actualización": "2026-02-10 10:17:36"
   }
 ]
