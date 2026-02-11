@@ -1,0 +1,55 @@
+2026-02-11 04:46:39,966 - INFO - Iniciando proceso de scraping
+2026-02-11 04:46:39,968 - INFO - Posts existentes encontrados: 2503
+2026-02-11 04:46:39,968 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-02-11 04:46:41,395 - INFO - Se encontraron 10 posts
+2026-02-11 04:46:41,396 - INFO - Comenzando extracción de información del post
+2026-02-11 04:46:41,396 - INFO - Título del post: LA TARTA DEL PRESIDENTE de Hasan Hadi
+2026-02-11 04:46:41,396 - INFO - Fecha del post: 2026-02-11T01:36:38+01:00
+2026-02-11 04:46:41,396 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/02/critica-de-la-tarta-del-presidente-de-hasan-hadi.html
+2026-02-11 04:46:42,693 - INFO - Contenido extraído y estructurado (2726 caracteres)
+2026-02-11 04:46:42,693 - INFO - Guardando post en: posts/LA_TARTA_DEL_PRESIDENTE_2026-02-11.json
+2026-02-11 04:46:42,694 - INFO - Post guardado exitosamente
+2026-02-11 04:46:42,694 - INFO - Actualizando índice de películas
+2026-02-11 04:46:42,694 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-02-11 04:46:42,698 - INFO - Índice existente cargado con 2603 películas
+2026-02-11 04:46:42,723 - INFO - Película agregada al índice: LA TARTA DEL PRESIDENTE
+2026-02-11 04:46:42,723 - INFO - Nuevo post guardado: LA TARTA DEL PRESIDENTE de Hasan Hadi
+2026-02-11 04:46:42,723 - INFO - Comenzando extracción de información del post
+2026-02-11 04:46:42,724 - INFO - Título del post: MARTY SUPREME de Joshua Safdie
+2026-02-11 04:46:42,724 - INFO - Fecha del post: 2026-02-11T01:35:53+01:00
+2026-02-11 04:46:42,724 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/02/critica-de-marty-supreme-de-joshua-safdie.html
+2026-02-11 04:46:43,880 - INFO - Contenido extraído y estructurado (1814 caracteres)
+2026-02-11 04:46:43,881 - INFO - Guardando post en: posts/MARTY_SUPREME_2026-02-11.json
+2026-02-11 04:46:43,881 - INFO - Post guardado exitosamente
+2026-02-11 04:46:43,881 - INFO - Actualizando índice de películas
+2026-02-11 04:46:43,882 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-02-11 04:46:43,885 - INFO - Índice existente cargado con 2604 películas
+2026-02-11 04:46:43,896 - INFO - Película agregada al índice: MARTY SUPREME
+2026-02-11 04:46:43,897 - INFO - Nuevo post guardado: MARTY SUPREME de Joshua Safdie
+2026-02-11 04:46:43,897 - INFO - Comenzando extracción de información del post
+2026-02-11 04:46:43,897 - INFO - Título del post: LA CHICA ZURDA de Shih-Ching Tsou
+2026-02-11 04:46:43,897 - INFO - Fecha del post: 2026-02-11T01:31:06+01:00
+2026-02-11 04:46:43,897 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/02/critica-de-la-chica-zurda-de-shih-ching-tsou.html
+2026-02-11 04:46:45,283 - INFO - Contenido extraído y estructurado (2588 caracteres)
+2026-02-11 04:46:45,284 - INFO - Guardando post en: posts/LA_CHICA_ZURDA_2026-02-11.json
+2026-02-11 04:46:45,284 - INFO - Post guardado exitosamente
+2026-02-11 04:46:45,284 - INFO - Actualizando índice de películas
+2026-02-11 04:46:45,284 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-02-11 04:46:45,288 - INFO - Índice existente cargado con 2605 películas
+2026-02-11 04:46:45,300 - INFO - Película agregada al índice: LA CHICA ZURDA
+2026-02-11 04:46:45,300 - INFO - Nuevo post guardado: LA CHICA ZURDA de Shih-Ching Tsou
+2026-02-11 04:46:45,300 - INFO - Comenzando extracción de información del post
+2026-02-11 04:46:45,300 - INFO - Post ya existente, saltando: HAMNET de Chloé Zhao
+2026-02-11 04:46:45,300 - INFO - Comenzando extracción de información del post
+2026-02-11 04:46:45,300 - INFO - Post ya existente, saltando: YUNAN de Ameer Fakher Eldin
+2026-02-11 04:46:45,300 - INFO - Comenzando extracción de información del post
+2026-02-11 04:46:45,300 - INFO - Post ya existente, saltando: LA LEYENDA DE OCHI de Isaiah Saxon
+2026-02-11 04:46:45,301 - INFO - Comenzando extracción de información del post
+2026-02-11 04:46:45,301 - INFO - Post ya existente, saltando: ARCO de Ugo Bienvenu
+2026-02-11 04:46:45,301 - INFO - Comenzando extracción de información del post
+2026-02-11 04:46:45,301 - INFO - Post ya existente, saltando: SI PUDIERA TE DARÍA UNA PATADA de Mary Bronstein
+2026-02-11 04:46:45,301 - INFO - Comenzando extracción de información del post
+2026-02-11 04:46:45,301 - INFO - Post ya existente, saltando: LA MISTERIOSA MIRADA DE FLAMENCO de Diego Céspedes
+2026-02-11 04:46:45,301 - INFO - Comenzando extracción de información del post
+2026-02-11 04:46:45,301 - INFO - Post ya existente, saltando: NOUVELLE VAGUE de Richard Linklater
+2026-02-11 04:46:45,301 - INFO - Proceso completado. Posts nuevos guardados: 3
