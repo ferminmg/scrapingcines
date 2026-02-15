@@ -98,7 +98,186 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:18"
+    "última_actualización": "2026-02-15 22:03:09"
+  },
+  {
+    "id": 840464,
+    "tmdb_id": 840464,
+    "título": "Greenland 2",
+    "título_original": "Greenland 2: Migration",
+    "sinopsis": "La familia Garrity superviviente debe abandonar la seguridad del búnker de Groenlandia y embarcarse en un peligroso viaje a través del diezmado páramo helado de Europa para encontrar un nuevo hogar.",
+    "poster_path": "/3yrX2kZ1zXZ1JJeexMobX77VVim.jpg",
+    "poster_local": "imagenes_estrenos/Greenland_2_3yrX2kZ1zXZ1JJeexMobX77VVim.jpg",
+    "backdrop_path": "/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
+    "backdrop_local": "imagenes_estrenos/Greenland_2_backdrop_tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
+    "fecha_estreno": "2026-02-13T00:00:00.000Z",
+    "duración": "98 min",
+    "director": "Ric Roman Waugh",
+    "directores": [
+      {
+        "name": "Ric Roman Waugh",
+        "id": 76422
+      }
+    ],
+    "actores": [
+      {
+        "name": "Gerard Butler",
+        "id": 17276,
+        "character": "John Garrity",
+        "profile_path": "/rTO5opVC3Gs6hPYAxWSP9eEjogi.jpg"
+      },
+      {
+        "name": "Morena Baccarin",
+        "id": 54882,
+        "character": "Allison Garrity",
+        "profile_path": "/kBSKKaOtsqIzZPhtEeHfCBmhWl9.jpg"
+      },
+      {
+        "name": "Roman Griffin Davis",
+        "id": 2054851,
+        "character": "Nathan Garrity",
+        "profile_path": "/jEox6Bq4TlINrnp5EUjqSlDK3eP.jpg"
+      },
+      {
+        "name": "Tommie Earl Jenkins",
+        "id": 1754784,
+        "character": "General Sharpe",
+        "profile_path": "/kl2dzZU3p6pOjuKBi52wOnEGvEp.jpg"
+      },
+      {
+        "name": "Trond Fausa Aurvåg",
+        "id": 85151,
+        "character": "Adam Shaw",
+        "profile_path": "/rFWC22ZScaQwA85NBo7l1j9XQdo.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "popularidad": 340.8381,
+    "puntuación": 6.546,
+    "votos": 427,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/u9jE0R1nvkmdWu3bt7Op8joPywa.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jJPmd0DYg6KsgtmHP1FJ6iTLP51.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1139,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/gtKWn9l32PolrFwCuZQsujEAEoc.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 2025
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/rcV1iPztXSbHYLid4PQYrigYl7B.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oEGnHmRkpNfUsxnh0gOKuTqNeQk.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/o01vb8k00emauEnhmIs7qcnkuPQ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wLi73AslQbV5diDDLLIrIe1viPN.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6MZBOY0hL98edTMAjpfws8gJI7W.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ydHEzqiPYa4lxoyaf8cfomd4rDO.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1000
+        }
+      ]
+    },
+    "última_actualización": "2026-02-15 22:03:06"
   },
   {
     "id": 1610536,
@@ -176,7 +355,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-02-15 10:04:18"
+    "última_actualización": "2026-02-15 22:03:09"
   },
   {
     "id": 1386777,
@@ -281,7 +460,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:19"
+    "última_actualización": "2026-02-15 22:03:09"
   },
   {
     "id": 1588266,
@@ -366,7 +545,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:19"
+    "última_actualización": "2026-02-15 22:03:11"
   },
   {
     "id": 1520006,
@@ -465,7 +644,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:18"
+    "última_actualización": "2026-02-15 22:03:09"
   },
   {
     "id": 1140498,
@@ -620,7 +799,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:16"
+    "última_actualización": "2026-02-15 22:03:07"
   },
   {
     "id": 1114967,
@@ -795,7 +974,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:17"
+    "última_actualización": "2026-02-15 22:03:07"
   },
   {
     "id": 1291659,
@@ -915,7 +1094,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-02-15 10:04:17"
+    "última_actualización": "2026-02-15 22:03:08"
   },
   {
     "id": 891584,
@@ -1074,7 +1253,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:17"
+    "última_actualización": "2026-02-15 22:03:08"
   },
   {
     "id": 1442211,
@@ -1154,7 +1333,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:17"
+    "última_actualización": "2026-02-15 22:03:08"
   },
   {
     "id": 961077,
@@ -1299,7 +1478,97 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:17"
+    "última_actualización": "2026-02-15 22:03:08"
+  },
+  {
+    "id": 1613650,
+    "tmdb_id": 1613650,
+    "título": "El fantasma de mi mujer",
+    "título_original": "El fantasma de mi mujer",
+    "sinopsis": "Fernando vive un matrimonio tranquilo con María mientras tiene un lío con Julia. Una noche recibe la llamada de su amante diciéndole que acaba de atropellar a María. Un accidente, vamos, que no quería matarla, pero que necesita ayuda para deshacerse del cadáver. Desbordado por los acontecimientos, Fernando finge ante la policía que su mujer le ha abandonado, hasta que le entra una llamada de... ¿María? Desde ese momento, Fernando cree escuchar e incluso ver a su mujer a todas horas y en todas partes. ¿Es el infierno de la culpa... o existe otra explicación?",
+    "poster_path": "/c2eVAJ8wMtk8bRGiEAPQH3id8nq.jpg",
+    "poster_local": "imagenes_estrenos/El_fantasma_de_mi_mujer_c2eVAJ8wMtk8bRGiEAPQH3id8nq.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-02-20T00:00:00.000Z",
+    "duración": "90 min",
+    "director": "Maria Ripoll",
+    "directores": [
+      {
+        "name": "Maria Ripoll",
+        "id": 102329
+      }
+    ],
+    "actores": [
+      {
+        "name": "Marco Cáceres",
+        "id": 2560386,
+        "character": "Lorenzo",
+        "profile_path": "/5J8Cc6135T2s9rtH1BZDogkYeU.jpg"
+      },
+      {
+        "name": "Cindy Claes",
+        "id": 5544066,
+        "character": "Anne",
+        "profile_path": null
+      },
+      {
+        "name": "Macarena Gómez",
+        "id": 67052,
+        "character": "Teresa",
+        "profile_path": "/bv47XMjZUhptKGFKIEoVA8pVsMT.jpg"
+      },
+      {
+        "name": "María Hervás",
+        "id": 1334527,
+        "character": "Julia",
+        "profile_path": "/lFiZ63KEVvdHBj3P2KOJ1xF44ed.jpg"
+      },
+      {
+        "name": "Javier Rey",
+        "id": 96688,
+        "character": "Fernando",
+        "profile_path": "/bZCKrxOpNfXQ4vHAf1RcHwwUQQ3.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 0.9129,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 1429,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/c2eVAJ8wMtk8bRGiEAPQH3id8nq.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/vwr05S58psrBd1UqZm79XpkboSr.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-02-15 22:03:08"
   },
   {
     "id": 1457842,
@@ -1348,7 +1617,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:18"
+    "última_actualización": "2026-02-15 22:03:09"
   },
   {
     "id": 1446932,
@@ -1439,7 +1708,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:19"
+    "última_actualización": "2026-02-15 22:03:10"
   },
   {
     "id": 1633944,
@@ -1531,7 +1800,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:20"
+    "última_actualización": "2026-02-15 22:03:10"
   },
   {
     "id": 1612063,
@@ -1654,7 +1923,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:17"
+    "última_actualización": "2026-02-15 22:03:08"
   },
   {
     "id": 1159559,
@@ -1735,8 +2004,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/yWCZc2TcsCYbMMjvUIsczmQi2TX.jpg",
-          "vote_average": 6.722,
-          "vote_count": 6,
+          "vote_average": 5.786,
+          "vote_count": 7,
           "width": 1920
         },
         {
@@ -1746,7 +2015,7 @@
           "iso_639_1": null,
           "file_path": "/nrNw1YMnKakUxzp8vjHnPmahoic.jpg",
           "vote_average": 2.066,
-          "vote_count": 5,
+          "vote_count": 6,
           "width": 1280
         },
         {
@@ -1833,7 +2102,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:16"
+    "última_actualización": "2026-02-15 22:03:06"
   },
   {
     "id": 1206008,
@@ -1897,8 +2166,8 @@
       }
     ],
     "popularidad": 22.5537,
-    "puntuación": 5.848,
-    "votos": 66,
+    "puntuación": 5.732,
+    "votos": 69,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2008,7 +2277,108 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:16"
+    "última_actualización": "2026-02-15 22:03:06"
+  },
+  {
+    "id": 1445363,
+    "tmdb_id": 1445363,
+    "título": "EPiC: Elvis Presley in Concert",
+    "título_original": "EPiC: Elvis Presley in Concert",
+    "sinopsis": "Rescata la figura del gran Elvis Presley, con imágenes de archivo y grabaciones nunca vistas del Rey del rock.",
+    "poster_path": "/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
+    "poster_local": "imagenes_estrenos/EPiC__Elvis_Presley_in_Concert_433YxgwVpX8sUPbqzjTAQjLkPX0.jpg",
+    "backdrop_path": "/jnCCegcsk4wkmTzbFV746Myloxs.jpg",
+    "backdrop_local": "imagenes_estrenos/EPiC__Elvis_Presley_in_Concert_backdrop_jnCCegcsk4wkmTzbFV746Myloxs.jpg",
+    "fecha_estreno": "2026-02-27T00:00:00.000Z",
+    "duración": "98 min",
+    "director": "Baz Luhrmann",
+    "directores": [
+      {
+        "name": "Baz Luhrmann",
+        "id": 6201
+      }
+    ],
+    "actores": [
+      {
+        "name": "Elvis Presley",
+        "id": 21457,
+        "character": "Self (archive footage)",
+        "profile_path": "/psf1wJUw48ALsfV3tN31FX0mDW5.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 10402,
+        "name": "Música"
+      },
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 8.128,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jnCCegcsk4wkmTzbFV746Myloxs.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1600
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/r2JZSIddGK6pw9iiIkWYjffk4Bv.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/1dj8V6B8ptIHah7YZXHl3PEKO4h.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/233jLORQFTkvnrxkFyAYEXsQAWr.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/9oZd9g9eZCa7VcpaXrZ2v1A3m5e.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-02-15 22:03:07"
   },
   {
     "id": 1406657,
@@ -2191,108 +2561,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:16"
-  },
-  {
-    "id": 1445363,
-    "tmdb_id": 1445363,
-    "título": "EPiC: Elvis Presley in Concert",
-    "título_original": "EPiC: Elvis Presley in Concert",
-    "sinopsis": "Rescata la figura del gran Elvis Presley, con imágenes de archivo y grabaciones nunca vistas del Rey del rock.",
-    "poster_path": "/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
-    "poster_local": "imagenes_estrenos/EPiC__Elvis_Presley_in_Concert_433YxgwVpX8sUPbqzjTAQjLkPX0.jpg",
-    "backdrop_path": "/jnCCegcsk4wkmTzbFV746Myloxs.jpg",
-    "backdrop_local": "imagenes_estrenos/EPiC__Elvis_Presley_in_Concert_backdrop_jnCCegcsk4wkmTzbFV746Myloxs.jpg",
-    "fecha_estreno": "2026-02-27T00:00:00.000Z",
-    "duración": "98 min",
-    "director": "Baz Luhrmann",
-    "directores": [
-      {
-        "name": "Baz Luhrmann",
-        "id": 6201
-      }
-    ],
-    "actores": [
-      {
-        "name": "Elvis Presley",
-        "id": 21457,
-        "character": "Self (archive footage)",
-        "profile_path": "/psf1wJUw48ALsfV3tN31FX0mDW5.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 10402,
-        "name": "Música"
-      },
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 8.128,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 900,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/jnCCegcsk4wkmTzbFV746Myloxs.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1600
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/r2JZSIddGK6pw9iiIkWYjffk4Bv.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/1dj8V6B8ptIHah7YZXHl3PEKO4h.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/233jLORQFTkvnrxkFyAYEXsQAWr.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/9oZd9g9eZCa7VcpaXrZ2v1A3m5e.jpg",
-          "vote_average": 0.0,
-          "vote_count": 1,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-02-15 10:04:17"
+    "última_actualización": "2026-02-15 22:03:07"
   },
   {
     "id": 1376439,
@@ -2386,7 +2655,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-02-15 10:04:18"
+    "última_actualización": "2026-02-15 22:03:09"
   },
   {
     "id": 1400272,
@@ -2513,7 +2782,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:19"
+    "última_actualización": "2026-02-15 22:03:10"
   },
   {
     "id": 1630235,
@@ -2642,7 +2911,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:19"
+    "última_actualización": "2026-02-15 22:03:10"
   },
   {
     "id": 1624329,
@@ -2737,7 +3006,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:19"
+    "última_actualización": "2026-02-15 22:03:10"
   },
   {
     "id": 1555620,
@@ -2862,7 +3131,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:18"
+    "última_actualización": "2026-02-15 22:03:09"
   },
   {
     "id": 1327819,
@@ -3045,7 +3314,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:16"
+    "última_actualización": "2026-02-15 22:03:07"
   },
   {
     "id": 1159831,
@@ -3204,7 +3473,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:16"
+    "última_actualización": "2026-02-15 22:03:07"
   },
   {
     "id": 1287141,
@@ -3272,8 +3541,8 @@
       }
     ],
     "popularidad": 11.3419,
-    "puntuación": 6.037,
-    "votos": 68,
+    "puntuación": 6.035,
+    "votos": 71,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3360,10 +3629,20 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/iNtcHjyjtgFs3ata2zMaIVsBZTl.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:16"
+    "última_actualización": "2026-02-15 22:03:07"
   },
   {
     "id": 1432605,
@@ -3504,7 +3783,184 @@
         }
       ]
     },
-    "última_actualización": "2026-02-15 10:04:17"
+    "última_actualización": "2026-02-15 22:03:08"
+  },
+  {
+    "id": 1275215,
+    "tmdb_id": 1275215,
+    "título": "Aves de Corral",
+    "título_original": "Aves de Corral",
+    "sinopsis": "Aves de corral está protagonizada por Diego Anido, Pedro Casablanc, Olivia Baglivi, Chechu Salgado, Antonio, Durán “Morris”, Jose Luis García-Pérez, Roberto Enríquez, Belén Écija, Daniel Ibáñez, Clara Alvarado, Álvaro Díaz, Ramón Robles, Roberto Hoyo, Roberto García, Lukas Cantó, Helena Kaittani, Lydia Ramírez, Román Rymar, Cristina Brondo, Laura Delgado, Antonio Chamorro. El filme cuenta con la dirección de fotografía de Alberto Pareja.  En la película, una peculiar banda criminal planea asesinar a un dirigente del CNI, pero el plan de fin de semana de una pareja de novios se cruza en su camino.",
+    "poster_path": "/aUD3zcISx2XgrxZsncG0bo3NEdP.jpg",
+    "poster_local": "imagenes_estrenos/Aves_de_Corral_aUD3zcISx2XgrxZsncG0bo3NEdP.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-03-06T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Antonio Vicent",
+    "directores": [
+      {
+        "name": "Antonio Vicent",
+        "id": 4656090
+      }
+    ],
+    "actores": [
+      {
+        "name": "Diego Anido",
+        "id": 2110628,
+        "character": "Santiago",
+        "profile_path": "/a7DVrZFjt8JjdPWfOTT93uRXOg8.jpg"
+      },
+      {
+        "name": "Pedro Casablanc",
+        "id": 227071,
+        "character": "Señor",
+        "profile_path": "/7oXGl8Nr2w7SaES4tbzjw4RYtF0.jpg"
+      },
+      {
+        "name": "Olivia Baglivi",
+        "id": 1507350,
+        "character": "Casilda",
+        "profile_path": "/2VQlSfBPrHiBnDnohcpLUOiIPQg.jpg"
+      },
+      {
+        "name": "José Luis García Pérez",
+        "id": 43323,
+        "character": "Fran",
+        "profile_path": "/pszEIxu2skaRTf45YshJ2PTEuTO.jpg"
+      },
+      {
+        "name": "Antonio 'Morris' Durán",
+        "id": 15599,
+        "character": "Jefe",
+        "profile_path": "/3D3wl7paKTwDqzq1dbvf6Y7MKU.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.1869,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.68,
+          "height": 2941,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/aUD3zcISx2XgrxZsncG0bo3NEdP.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6lgoxIgsjFKdaqQku27CSO28xmB.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.68,
+          "height": 2942,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/tlzK9lRTIoBpIraBBAkAnDncQ1k.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-02-15 22:03:10"
+  },
+  {
+    "id": 1465685,
+    "tmdb_id": 1465685,
+    "título": "Caminando con el diablo",
+    "título_original": "The Devil Within",
+    "sinopsis": "",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-03-06T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Rubén Pérez-Barrena",
+    "directores": [
+      {
+        "name": "Rubén Pérez-Barrena",
+        "id": 2122701
+      }
+    ],
+    "actores": [
+      {
+        "name": "Tamar Novas",
+        "id": 33411,
+        "character": "Miguel",
+        "profile_path": "/3MpjB6lxeTUA9EunaV4kAyvOvIG.jpg"
+      },
+      {
+        "name": "Marina Salas",
+        "id": 234619,
+        "character": "Alicia",
+        "profile_path": "/z8gCkzgavPFd5pW2gsuKvSV5yKk.jpg"
+      },
+      {
+        "name": "Iván Marcos",
+        "id": 1770902,
+        "character": "Tomás",
+        "profile_path": "/6abFmClFTRA3FjkPkFBL4OjxMMq.jpg"
+      },
+      {
+        "name": "Annick Weerts",
+        "id": 1755609,
+        "character": "Marie",
+        "profile_path": "/1ffW1vYA6N2EsW10GCJeR9eACrk.jpg"
+      },
+      {
+        "name": "Alban Petit",
+        "id": 5376967,
+        "character": "Philippe",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 0.1856,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-02-15 22:03:10"
   },
   {
     "id": 840873,
@@ -3644,113 +4100,5 @@
       ]
     },
     "última_actualización": "2026-02-15 10:04:18"
-  },
-  {
-    "id": 1275215,
-    "tmdb_id": 1275215,
-    "título": "Aves de Corral",
-    "título_original": "Aves de Corral",
-    "sinopsis": "Aves de corral está protagonizada por Diego Anido, Pedro Casablanc, Olivia Baglivi, Chechu Salgado, Antonio, Durán “Morris”, Jose Luis García-Pérez, Roberto Enríquez, Belén Écija, Daniel Ibáñez, Clara Alvarado, Álvaro Díaz, Ramón Robles, Roberto Hoyo, Roberto García, Lukas Cantó, Helena Kaittani, Lydia Ramírez, Román Rymar, Cristina Brondo, Laura Delgado, Antonio Chamorro. El filme cuenta con la dirección de fotografía de Alberto Pareja.  En la película, una peculiar banda criminal planea asesinar a un dirigente del CNI, pero el plan de fin de semana de una pareja de novios se cruza en su camino.",
-    "poster_path": "/aUD3zcISx2XgrxZsncG0bo3NEdP.jpg",
-    "poster_local": "imagenes_estrenos/Aves_de_Corral_aUD3zcISx2XgrxZsncG0bo3NEdP.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-03-06T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Antonio Vicent",
-    "directores": [
-      {
-        "name": "Antonio Vicent",
-        "id": 4656090
-      }
-    ],
-    "actores": [
-      {
-        "name": "Diego Anido",
-        "id": 2110628,
-        "character": "Santiago",
-        "profile_path": "/a7DVrZFjt8JjdPWfOTT93uRXOg8.jpg"
-      },
-      {
-        "name": "Pedro Casablanc",
-        "id": 227071,
-        "character": "Señor",
-        "profile_path": "/7oXGl8Nr2w7SaES4tbzjw4RYtF0.jpg"
-      },
-      {
-        "name": "Olivia Baglivi",
-        "id": 1507350,
-        "character": "Casilda",
-        "profile_path": "/2VQlSfBPrHiBnDnohcpLUOiIPQg.jpg"
-      },
-      {
-        "name": "José Luis García Pérez",
-        "id": 43323,
-        "character": "Fran",
-        "profile_path": "/pszEIxu2skaRTf45YshJ2PTEuTO.jpg"
-      },
-      {
-        "name": "Antonio 'Morris' Durán",
-        "id": 15599,
-        "character": "Jefe",
-        "profile_path": "/3D3wl7paKTwDqzq1dbvf6Y7MKU.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 80,
-        "name": "Crimen"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.1869,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.68,
-          "height": 2941,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/aUD3zcISx2XgrxZsncG0bo3NEdP.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6lgoxIgsjFKdaqQku27CSO28xmB.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.68,
-          "height": 2942,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/tlzK9lRTIoBpIraBBAkAnDncQ1k.jpg",
-          "vote_average": 0.0,
-          "vote_count": 1,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-02-15 10:04:19"
   }
 ]
