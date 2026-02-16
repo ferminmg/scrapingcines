@@ -1,0 +1,55 @@
+2026-02-16 00:26:33,175 - INFO - Iniciando proceso de scraping
+2026-02-16 00:26:33,177 - INFO - Posts existentes encontrados: 2506
+2026-02-16 00:26:33,177 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-02-16 00:26:34,636 - INFO - Se encontraron 10 posts
+2026-02-16 00:26:34,637 - INFO - Comenzando extracción de información del post
+2026-02-16 00:26:34,638 - INFO - Título del post: HISTORIAS DEL BUEN VALLE de José Luis Guerín
+2026-02-16 00:26:34,638 - INFO - Fecha del post: 2026-02-16T00:44:08+01:00
+2026-02-16 00:26:34,638 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/02/critica-de-historias-del-buen-valle-de-jose-luis-guerin.html
+2026-02-16 00:26:36,131 - INFO - Contenido extraído y estructurado (2229 caracteres)
+2026-02-16 00:26:36,133 - INFO - Guardando post en: posts/HISTORIAS_DEL_BUEN_VALLE_2026-02-16.json
+2026-02-16 00:26:36,133 - INFO - Post guardado exitosamente
+2026-02-16 00:26:36,133 - INFO - Actualizando índice de películas
+2026-02-16 00:26:36,133 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-02-16 00:26:36,137 - INFO - Índice existente cargado con 2606 películas
+2026-02-16 00:26:36,149 - INFO - Película agregada al índice: HISTORIAS DEL BUEN VALLE
+2026-02-16 00:26:36,149 - INFO - Nuevo post guardado: HISTORIAS DEL BUEN VALLE de José Luis Guerín
+2026-02-16 00:26:36,149 - INFO - Comenzando extracción de información del post
+2026-02-16 00:26:36,149 - INFO - Título del post: LA FIERA de Salvador Calvo
+2026-02-16 00:26:36,149 - INFO - Fecha del post: 2026-02-16T00:34:08+01:00
+2026-02-16 00:26:36,150 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/02/critica-de-la-fiera-de-salvador-calvo.html
+2026-02-16 00:26:37,465 - INFO - Contenido extraído y estructurado (2769 caracteres)
+2026-02-16 00:26:37,466 - INFO - Guardando post en: posts/LA_FIERA_2026-02-16.json
+2026-02-16 00:26:37,466 - INFO - Post guardado exitosamente
+2026-02-16 00:26:37,466 - INFO - Actualizando índice de películas
+2026-02-16 00:26:37,466 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-02-16 00:26:37,470 - INFO - Índice existente cargado con 2607 películas
+2026-02-16 00:26:37,481 - INFO - Película agregada al índice: LA FIERA
+2026-02-16 00:26:37,481 - INFO - Nuevo post guardado: LA FIERA de Salvador Calvo
+2026-02-16 00:26:37,482 - INFO - Comenzando extracción de información del post
+2026-02-16 00:26:37,482 - INFO - Título del post: TRES ADIOSES de Isabel Coixet
+2026-02-16 00:26:37,482 - INFO - Fecha del post: 2026-02-16T00:22:20+01:00
+2026-02-16 00:26:37,482 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/02/critica-de-el-baile-de-los-estorninos-de-isabel-coixet.html
+2026-02-16 00:26:38,960 - INFO - Contenido extraído y estructurado (2734 caracteres)
+2026-02-16 00:26:38,961 - INFO - Guardando post en: posts/TRES_ADIOSES_2026-02-16.json
+2026-02-16 00:26:38,961 - INFO - Post guardado exitosamente
+2026-02-16 00:26:38,962 - INFO - Actualizando índice de películas
+2026-02-16 00:26:38,962 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-02-16 00:26:38,966 - INFO - Índice existente cargado con 2608 películas
+2026-02-16 00:26:38,977 - INFO - Película agregada al índice: TRES ADIOSES
+2026-02-16 00:26:38,978 - INFO - Nuevo post guardado: TRES ADIOSES de Isabel Coixet
+2026-02-16 00:26:38,978 - INFO - Comenzando extracción de información del post
+2026-02-16 00:26:38,978 - INFO - Post ya existente, saltando: LA TARTA DEL PRESIDENTE de Hasan Hadi
+2026-02-16 00:26:38,978 - INFO - Comenzando extracción de información del post
+2026-02-16 00:26:38,978 - INFO - Post ya existente, saltando: MARTY SUPREME de Joshua Safdie
+2026-02-16 00:26:38,978 - INFO - Comenzando extracción de información del post
+2026-02-16 00:26:38,978 - INFO - Post ya existente, saltando: LA CHICA ZURDA de Shih-Ching Tsou
+2026-02-16 00:26:38,978 - INFO - Comenzando extracción de información del post
+2026-02-16 00:26:38,979 - INFO - Post ya existente, saltando: HAMNET de Chloé Zhao
+2026-02-16 00:26:38,979 - INFO - Comenzando extracción de información del post
+2026-02-16 00:26:38,979 - INFO - Post ya existente, saltando: YUNAN de Ameer Fakher Eldin
+2026-02-16 00:26:38,979 - INFO - Comenzando extracción de información del post
+2026-02-16 00:26:38,979 - INFO - Post ya existente, saltando: LA LEYENDA DE OCHI de Isaiah Saxon
+2026-02-16 00:26:38,979 - INFO - Comenzando extracción de información del post
+2026-02-16 00:26:38,979 - INFO - Post ya existente, saltando: ARCO de Ugo Bienvenu
+2026-02-16 00:26:38,979 - INFO - Proceso completado. Posts nuevos guardados: 3
