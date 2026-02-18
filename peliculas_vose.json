@@ -23,7 +23,7 @@
             {
                 "fecha": "2026-02-18",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98520&eventCode=104636"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -40,7 +40,7 @@
             {
                 "fecha": "2026-02-18",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98513&eventCode=103859"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -136,6 +136,57 @@
         "año": null
     },
     {
+        "título": "Sin conexión",
+        "cartel": "imagenes_peliculas/tmdb_sin_conexion.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-20",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98559&eventCode=104593"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Bradley Cooper",
+        "duración": "121 min",
+        "actores": "Will Arnett, Laura Dern, Andra Day, Bradley Cooper, Christine Ebersole",
+        "sinopsis": "Mientras su matrimonio se desmorona silenciosamente, Alex se enfrenta a la mediana edad y a un divorcio inminente, buscando un nuevo propósito en el mundo de la comedia neoyorquina, mientras que Tess se enfrenta a los sacrificios que ha hecho por su familia, lo que les obliga a lidiar con la crianza compartida, la identidad y si el amor puede adoptar una nueva forma.",
+        "año": "2025"
+    },
+    {
+        "título": "Cumbres borrascosas",
+        "cartel": "imagenes_peliculas/tmdb_cumbres_borrascosas.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-20",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98557&eventCode=103328"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Emerald Fennell",
+        "duración": "136 min",
+        "actores": "Margot Robbie, Jacob Elordi, Hong Chau, Alison Oliver, Shazad Latif",
+        "sinopsis": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
+        "año": "2026"
+    },
+    {
+        "título": "Hamnet",
+        "cartel": "imagenes_peliculas/tmdb_hamnet.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-20",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98555&eventCode=103859"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Chloé Zhao",
+        "duración": "126 min",
+        "actores": "Jessie Buckley, Paul Mescal, Emily Watson, Joe Alwyn, Jacobi Jupe",
+        "sinopsis": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.\r La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
+        "año": "2025"
+    },
+    {
         "título": "LabMeCrazy: Spacewoman",
         "cartel": "imagenes_peliculas/1768841058.jpg",
         "horarios": [
@@ -153,6 +204,57 @@
         "año": null
     },
     {
+        "título": "Sin conexión",
+        "cartel": "imagenes_peliculas/tmdb_sin_conexion.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-21",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98565&eventCode=104593"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Bradley Cooper",
+        "duración": "121 min",
+        "actores": "Will Arnett, Laura Dern, Andra Day, Bradley Cooper, Christine Ebersole",
+        "sinopsis": "Mientras su matrimonio se desmorona silenciosamente, Alex se enfrenta a la mediana edad y a un divorcio inminente, buscando un nuevo propósito en el mundo de la comedia neoyorquina, mientras que Tess se enfrenta a los sacrificios que ha hecho por su familia, lo que les obliga a lidiar con la crianza compartida, la identidad y si el amor puede adoptar una nueva forma.",
+        "año": "2025"
+    },
+    {
+        "título": "Cumbres borrascosas",
+        "cartel": "imagenes_peliculas/tmdb_cumbres_borrascosas.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-21",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98562&eventCode=103328"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Emerald Fennell",
+        "duración": "136 min",
+        "actores": "Margot Robbie, Jacob Elordi, Hong Chau, Alison Oliver, Shazad Latif",
+        "sinopsis": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
+        "año": "2026"
+    },
+    {
+        "título": "Hamnet",
+        "cartel": "imagenes_peliculas/tmdb_hamnet.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-21",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98575&eventCode=103859"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Chloé Zhao",
+        "duración": "126 min",
+        "actores": "Jessie Buckley, Paul Mescal, Emily Watson, Joe Alwyn, Jacobi Jupe",
+        "sinopsis": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.\r La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
+        "año": "2025"
+    },
+    {
         "título": "LabMeCrazy: Lions of the Skeleton Coast",
         "cartel": "imagenes_peliculas/1768841233.jpg",
         "horarios": [
@@ -168,6 +270,210 @@
         "actores": null,
         "sinopsis": null,
         "año": null
+    },
+    {
+        "título": "Sin conexión",
+        "cartel": "imagenes_peliculas/tmdb_sin_conexion.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-22",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98582&eventCode=104593"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Bradley Cooper",
+        "duración": "121 min",
+        "actores": "Will Arnett, Laura Dern, Andra Day, Bradley Cooper, Christine Ebersole",
+        "sinopsis": "Mientras su matrimonio se desmorona silenciosamente, Alex se enfrenta a la mediana edad y a un divorcio inminente, buscando un nuevo propósito en el mundo de la comedia neoyorquina, mientras que Tess se enfrenta a los sacrificios que ha hecho por su familia, lo que les obliga a lidiar con la crianza compartida, la identidad y si el amor puede adoptar una nueva forma.",
+        "año": "2025"
+    },
+    {
+        "título": "Cumbres borrascosas",
+        "cartel": "imagenes_peliculas/tmdb_cumbres_borrascosas.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-22",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98579&eventCode=103328"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Emerald Fennell",
+        "duración": "136 min",
+        "actores": "Margot Robbie, Jacob Elordi, Hong Chau, Alison Oliver, Shazad Latif",
+        "sinopsis": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
+        "año": "2026"
+    },
+    {
+        "título": "Hamnet",
+        "cartel": "imagenes_peliculas/tmdb_hamnet.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-22",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98591&eventCode=103859"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Chloé Zhao",
+        "duración": "126 min",
+        "actores": "Jessie Buckley, Paul Mescal, Emily Watson, Joe Alwyn, Jacobi Jupe",
+        "sinopsis": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.\r La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
+        "año": "2025"
+    },
+    {
+        "título": "Sin conexión",
+        "cartel": "imagenes_peliculas/tmdb_sin_conexion.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-23",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98611&eventCode=104593"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Bradley Cooper",
+        "duración": "121 min",
+        "actores": "Will Arnett, Laura Dern, Andra Day, Bradley Cooper, Christine Ebersole",
+        "sinopsis": "Mientras su matrimonio se desmorona silenciosamente, Alex se enfrenta a la mediana edad y a un divorcio inminente, buscando un nuevo propósito en el mundo de la comedia neoyorquina, mientras que Tess se enfrenta a los sacrificios que ha hecho por su familia, lo que les obliga a lidiar con la crianza compartida, la identidad y si el amor puede adoptar una nueva forma.",
+        "año": "2025"
+    },
+    {
+        "título": "Cumbres borrascosas",
+        "cartel": "imagenes_peliculas/tmdb_cumbres_borrascosas.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-23",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98596&eventCode=103328"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Emerald Fennell",
+        "duración": "136 min",
+        "actores": "Margot Robbie, Jacob Elordi, Hong Chau, Alison Oliver, Shazad Latif",
+        "sinopsis": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
+        "año": "2026"
+    },
+    {
+        "título": "Hamnet",
+        "cartel": "imagenes_peliculas/tmdb_hamnet.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-23",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98610&eventCode=103859"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Chloé Zhao",
+        "duración": "126 min",
+        "actores": "Jessie Buckley, Paul Mescal, Emily Watson, Joe Alwyn, Jacobi Jupe",
+        "sinopsis": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.\r La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
+        "año": "2025"
+    },
+    {
+        "título": "Sin conexión",
+        "cartel": "imagenes_peliculas/tmdb_sin_conexion.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-24",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98617&eventCode=104593"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Bradley Cooper",
+        "duración": "121 min",
+        "actores": "Will Arnett, Laura Dern, Andra Day, Bradley Cooper, Christine Ebersole",
+        "sinopsis": "Mientras su matrimonio se desmorona silenciosamente, Alex se enfrenta a la mediana edad y a un divorcio inminente, buscando un nuevo propósito en el mundo de la comedia neoyorquina, mientras que Tess se enfrenta a los sacrificios que ha hecho por su familia, lo que les obliga a lidiar con la crianza compartida, la identidad y si el amor puede adoptar una nueva forma.",
+        "año": "2025"
+    },
+    {
+        "título": "Cumbres borrascosas",
+        "cartel": "imagenes_peliculas/tmdb_cumbres_borrascosas.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-24",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98614&eventCode=103328"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Emerald Fennell",
+        "duración": "136 min",
+        "actores": "Margot Robbie, Jacob Elordi, Hong Chau, Alison Oliver, Shazad Latif",
+        "sinopsis": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
+        "año": "2026"
+    },
+    {
+        "título": "Hamnet",
+        "cartel": "imagenes_peliculas/tmdb_hamnet.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-24",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98629&eventCode=103859"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Chloé Zhao",
+        "duración": "126 min",
+        "actores": "Jessie Buckley, Paul Mescal, Emily Watson, Joe Alwyn, Jacobi Jupe",
+        "sinopsis": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.\r La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
+        "año": "2025"
+    },
+    {
+        "título": "Sin conexión",
+        "cartel": "imagenes_peliculas/tmdb_sin_conexion.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-25",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98635&eventCode=104593"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Bradley Cooper",
+        "duración": "121 min",
+        "actores": "Will Arnett, Laura Dern, Andra Day, Bradley Cooper, Christine Ebersole",
+        "sinopsis": "Mientras su matrimonio se desmorona silenciosamente, Alex se enfrenta a la mediana edad y a un divorcio inminente, buscando un nuevo propósito en el mundo de la comedia neoyorquina, mientras que Tess se enfrenta a los sacrificios que ha hecho por su familia, lo que les obliga a lidiar con la crianza compartida, la identidad y si el amor puede adoptar una nueva forma.",
+        "año": "2025"
+    },
+    {
+        "título": "Cumbres borrascosas",
+        "cartel": "imagenes_peliculas/tmdb_cumbres_borrascosas.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-25",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98632&eventCode=103328"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Emerald Fennell",
+        "duración": "136 min",
+        "actores": "Margot Robbie, Jacob Elordi, Hong Chau, Alison Oliver, Shazad Latif",
+        "sinopsis": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
+        "año": "2026"
+    },
+    {
+        "título": "Hamnet",
+        "cartel": "imagenes_peliculas/tmdb_hamnet.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-25",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98646&eventCode=103859"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Chloé Zhao",
+        "duración": "126 min",
+        "actores": "Jessie Buckley, Paul Mescal, Emily Watson, Joe Alwyn, Jacobi Jupe",
+        "sinopsis": "Descubre la poderosa historia de amor que inspiró la creación de Hamlet, la intemporal obra maestra de Shakespeare.\r La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, 'Hamlet'.",
+        "año": "2025"
     },
     {
         "título": "No hay otra opción",
@@ -193,7 +499,7 @@
             {
                 "fecha": "2026-02-18",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89427&eventCode=105750"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -227,7 +533,7 @@
             {
                 "fecha": "2026-02-18",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89428&eventCode=103901"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -304,5 +610,311 @@
         "actores": null,
         "sinopsis": null,
         "año": null
+    },
+    {
+        "título": "El agente secreto",
+        "cartel": "imagenes_peliculas/tmdb_el_agente_secreto.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-20",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89456&eventCode=105704"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Kleber Mendonça Filho",
+        "duración": "161 min",
+        "actores": "Wagner Moura, Carlos Francisco, Tânia Maria, Robério Diógenes, Roney Villela",
+        "sinopsis": "En Brasil, en 1977, Marcelo, un especialista en tecnología que huye de un pasado misterioso, regresa a Recife en busca de paz, pero se da cuenta de que la ciudad está lejos del refugio que busca.",
+        "año": "2025"
+    },
+    {
+        "título": "Little Amélie",
+        "cartel": "imagenes_peliculas/tmdb_little_amelie.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-20",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89460&eventCode=104549"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Maïlys Vallade, Liane-cho Han",
+        "duración": "78 min",
+        "actores": "Loïse Charpentier, Victoria Grobois, Yumi Fujimori, Cathy Cerda, Marc Arnaud",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "No hay otra opción",
+        "cartel": "imagenes_peliculas/tmdb_no_hay_otra_opcion.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-20",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89458&eventCode=104688"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Park Chan-wook",
+        "duración": "139 min",
+        "actores": "Lee Byung-hun, Son Ye-jin, Park Hee-soon, 이성민, 염혜란",
+        "sinopsis": "La historia sigue a un hombre de mediana edad llamado Man-su que se embarca decidido en una búsqueda de trabajo tras ser despedido inesperadamente de la compañía de papel en la que trabajó durante 25 años. \"Si no hay una vacante para mí, tendré que crear una para que me contraten. No hay otra opción\". Adaptación de la novela \"The Ax\" de Donald E. Westlake, que ya fue llevada al cine en la película \"Arcadia\", dirigida por Costa-Gavras en 2005.",
+        "año": "2025"
+    },
+    {
+        "título": "La chica zurda",
+        "cartel": "imagenes_peliculas/tmdb_la_chica_zurda.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-20",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89461&eventCode=105175"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Shih-Ching Tsou",
+        "duración": "109 min",
+        "actores": "馬士媛, Janel Tsai, 葉子綺, 黃鐙輝, 陳慕義",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "El agente secreto",
+        "cartel": "imagenes_peliculas/tmdb_el_agente_secreto.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-21",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89472&eventCode=105704"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Kleber Mendonça Filho",
+        "duración": "161 min",
+        "actores": "Wagner Moura, Carlos Francisco, Tânia Maria, Robério Diógenes, Roney Villela",
+        "sinopsis": "En Brasil, en 1977, Marcelo, un especialista en tecnología que huye de un pasado misterioso, regresa a Recife en busca de paz, pero se da cuenta de que la ciudad está lejos del refugio que busca.",
+        "año": "2025"
+    },
+    {
+        "título": "Little Amélie",
+        "cartel": "imagenes_peliculas/tmdb_little_amelie.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-21",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89473&eventCode=104549"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Maïlys Vallade, Liane-cho Han",
+        "duración": "78 min",
+        "actores": "Loïse Charpentier, Victoria Grobois, Yumi Fujimori, Cathy Cerda, Marc Arnaud",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "No hay otra opción",
+        "cartel": "imagenes_peliculas/tmdb_no_hay_otra_opcion.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-21",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89470&eventCode=104688"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Park Chan-wook",
+        "duración": "139 min",
+        "actores": "Lee Byung-hun, Son Ye-jin, Park Hee-soon, 이성민, 염혜란",
+        "sinopsis": "La historia sigue a un hombre de mediana edad llamado Man-su que se embarca decidido en una búsqueda de trabajo tras ser despedido inesperadamente de la compañía de papel en la que trabajó durante 25 años. \"Si no hay una vacante para mí, tendré que crear una para que me contraten. No hay otra opción\". Adaptación de la novela \"The Ax\" de Donald E. Westlake, que ya fue llevada al cine en la película \"Arcadia\", dirigida por Costa-Gavras en 2005.",
+        "año": "2025"
+    },
+    {
+        "título": "La chica zurda",
+        "cartel": "imagenes_peliculas/tmdb_la_chica_zurda.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-21",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89477&eventCode=105175"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Shih-Ching Tsou",
+        "duración": "109 min",
+        "actores": "馬士媛, Janel Tsai, 葉子綺, 黃鐙輝, 陳慕義",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "El agente secreto",
+        "cartel": "imagenes_peliculas/tmdb_el_agente_secreto.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-22",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89521&eventCode=105704"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Kleber Mendonça Filho",
+        "duración": "161 min",
+        "actores": "Wagner Moura, Carlos Francisco, Tânia Maria, Robério Diógenes, Roney Villela",
+        "sinopsis": "En Brasil, en 1977, Marcelo, un especialista en tecnología que huye de un pasado misterioso, regresa a Recife en busca de paz, pero se da cuenta de que la ciudad está lejos del refugio que busca.",
+        "año": "2025"
+    },
+    {
+        "título": "No hay otra opción",
+        "cartel": "imagenes_peliculas/tmdb_no_hay_otra_opcion.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-22",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89484&eventCode=104688"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Park Chan-wook",
+        "duración": "139 min",
+        "actores": "Lee Byung-hun, Son Ye-jin, Park Hee-soon, 이성민, 염혜란",
+        "sinopsis": "La historia sigue a un hombre de mediana edad llamado Man-su que se embarca decidido en una búsqueda de trabajo tras ser despedido inesperadamente de la compañía de papel en la que trabajó durante 25 años. \"Si no hay una vacante para mí, tendré que crear una para que me contraten. No hay otra opción\". Adaptación de la novela \"The Ax\" de Donald E. Westlake, que ya fue llevada al cine en la película \"Arcadia\", dirigida por Costa-Gavras en 2005.",
+        "año": "2025"
+    },
+    {
+        "título": "El agente secreto",
+        "cartel": "imagenes_peliculas/tmdb_el_agente_secreto.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-23",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89524&eventCode=105704"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Kleber Mendonça Filho",
+        "duración": "161 min",
+        "actores": "Wagner Moura, Carlos Francisco, Tânia Maria, Robério Diógenes, Roney Villela",
+        "sinopsis": "En Brasil, en 1977, Marcelo, un especialista en tecnología que huye de un pasado misterioso, regresa a Recife en busca de paz, pero se da cuenta de que la ciudad está lejos del refugio que busca.",
+        "año": "2025"
+    },
+    {
+        "título": "No hay otra opción",
+        "cartel": "imagenes_peliculas/tmdb_no_hay_otra_opcion.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-23",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89526&eventCode=104688"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Park Chan-wook",
+        "duración": "139 min",
+        "actores": "Lee Byung-hun, Son Ye-jin, Park Hee-soon, 이성민, 염혜란",
+        "sinopsis": "La historia sigue a un hombre de mediana edad llamado Man-su que se embarca decidido en una búsqueda de trabajo tras ser despedido inesperadamente de la compañía de papel en la que trabajó durante 25 años. \"Si no hay una vacante para mí, tendré que crear una para que me contraten. No hay otra opción\". Adaptación de la novela \"The Ax\" de Donald E. Westlake, que ya fue llevada al cine en la película \"Arcadia\", dirigida por Costa-Gavras en 2005.",
+        "año": "2025"
+    },
+    {
+        "título": "El agente secreto",
+        "cartel": "imagenes_peliculas/tmdb_el_agente_secreto.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-24",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89496&eventCode=105704"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Kleber Mendonça Filho",
+        "duración": "161 min",
+        "actores": "Wagner Moura, Carlos Francisco, Tânia Maria, Robério Diógenes, Roney Villela",
+        "sinopsis": "En Brasil, en 1977, Marcelo, un especialista en tecnología que huye de un pasado misterioso, regresa a Recife en busca de paz, pero se da cuenta de que la ciudad está lejos del refugio que busca.",
+        "año": "2025"
+    },
+    {
+        "título": "No hay otra opción",
+        "cartel": "imagenes_peliculas/tmdb_no_hay_otra_opcion.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-24",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89494&eventCode=104688"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Park Chan-wook",
+        "duración": "139 min",
+        "actores": "Lee Byung-hun, Son Ye-jin, Park Hee-soon, 이성민, 염혜란",
+        "sinopsis": "La historia sigue a un hombre de mediana edad llamado Man-su que se embarca decidido en una búsqueda de trabajo tras ser despedido inesperadamente de la compañía de papel en la que trabajó durante 25 años. \"Si no hay una vacante para mí, tendré que crear una para que me contraten. No hay otra opción\". Adaptación de la novela \"The Ax\" de Donald E. Westlake, que ya fue llevada al cine en la película \"Arcadia\", dirigida por Costa-Gavras en 2005.",
+        "año": "2025"
+    },
+    {
+        "título": "El agente secreto",
+        "cartel": "imagenes_peliculas/tmdb_el_agente_secreto.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-25",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89507&eventCode=105704"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Kleber Mendonça Filho",
+        "duración": "161 min",
+        "actores": "Wagner Moura, Carlos Francisco, Tânia Maria, Robério Diógenes, Roney Villela",
+        "sinopsis": "En Brasil, en 1977, Marcelo, un especialista en tecnología que huye de un pasado misterioso, regresa a Recife en busca de paz, pero se da cuenta de que la ciudad está lejos del refugio que busca.",
+        "año": "2025"
+    },
+    {
+        "título": "No hay otra opción",
+        "cartel": "imagenes_peliculas/tmdb_no_hay_otra_opcion.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-25",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89505&eventCode=104688"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Park Chan-wook",
+        "duración": "139 min",
+        "actores": "Lee Byung-hun, Son Ye-jin, Park Hee-soon, 이성민, 염혜란",
+        "sinopsis": "La historia sigue a un hombre de mediana edad llamado Man-su que se embarca decidido en una búsqueda de trabajo tras ser despedido inesperadamente de la compañía de papel en la que trabajó durante 25 años. \"Si no hay una vacante para mí, tendré que crear una para que me contraten. No hay otra opción\". Adaptación de la novela \"The Ax\" de Donald E. Westlake, que ya fue llevada al cine en la película \"Arcadia\", dirigida por Costa-Gavras en 2005.",
+        "año": "2025"
+    },
+    {
+        "título": "El agente secreto",
+        "cartel": "imagenes_peliculas/tmdb_el_agente_secreto.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-26",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89518&eventCode=105704"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Kleber Mendonça Filho",
+        "duración": "161 min",
+        "actores": "Wagner Moura, Carlos Francisco, Tânia Maria, Robério Diógenes, Roney Villela",
+        "sinopsis": "En Brasil, en 1977, Marcelo, un especialista en tecnología que huye de un pasado misterioso, regresa a Recife en busca de paz, pero se da cuenta de que la ciudad está lejos del refugio que busca.",
+        "año": "2025"
+    },
+    {
+        "título": "No hay otra opción",
+        "cartel": "imagenes_peliculas/tmdb_no_hay_otra_opcion.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-26",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89516&eventCode=104688"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Park Chan-wook",
+        "duración": "139 min",
+        "actores": "Lee Byung-hun, Son Ye-jin, Park Hee-soon, 이성민, 염혜란",
+        "sinopsis": "La historia sigue a un hombre de mediana edad llamado Man-su que se embarca decidido en una búsqueda de trabajo tras ser despedido inesperadamente de la compañía de papel en la que trabajó durante 25 años. \"Si no hay una vacante para mí, tendré que crear una para que me contraten. No hay otra opción\". Adaptación de la novela \"The Ax\" de Donald E. Westlake, que ya fue llevada al cine en la película \"Arcadia\", dirigida por Costa-Gavras en 2005.",
+        "año": "2025"
     }
 ]
