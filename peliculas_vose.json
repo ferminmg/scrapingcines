@@ -40,7 +40,7 @@
             {
                 "fecha": "2026-02-19",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98528&eventCode=104636"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -57,7 +57,7 @@
             {
                 "fecha": "2026-02-19",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=98531&eventCode=103859"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -448,7 +448,7 @@
             {
                 "fecha": "2026-02-19",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89442&eventCode=105750"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -477,20 +477,20 @@
     },
     {
         "título": "Rental Family (Familia de alquiler)",
-        "cartel": "imagenes_peliculas/1765977366.jpg",
+        "cartel": "imagenes_peliculas/tmdb_rental_family_familia_de_alquiler.jpg",
         "horarios": [
             {
                 "fecha": "2026-02-19",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89443&eventCode=103901"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
+        "director": "Hikari",
+        "duración": "110 min",
+        "actores": "Brendan Fraser, Takehiro Hira, Mari Yamamoto, Shannon Mahina Gorman, 柄本明",
+        "sinopsis": "Ambientada en el Tokio actual, sigue a un actor estadounidense que lucha por encontrar un propósito en la vida hasta que consigue un trabajo inusual: trabajar para una agencia japonesa de \"familias de alquiler\", interpretando papeles de suplente para desconocidos. A medida que se sumerge en el mundo de sus clientes, comienza a establecer vínculos genuinos que difuminan las líneas entre la actuación y la realidad. Al enfrentarse a las complejidades morales de su trabajo, redescubre el propósito, la pertenencia y la tranquila belleza de las relaciones humanas.",
+        "año": "2025"
     },
     {
         "título": "El agente secreto",
