@@ -58,7 +58,7 @@
     ],
     "popularidad": 9.4985,
     "puntuación": 7.5,
-    "votos": 276,
+    "votos": 277,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -138,7 +138,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-25 10:16:44"
+    "última_actualización": "2026-02-25 22:06:03"
   },
   {
     "id": 1633944,
@@ -1833,7 +1833,7 @@
       }
     ],
     "popularidad": 38.6487,
-    "puntuación": 6.093,
+    "puntuación": 6.1,
     "votos": 86,
     "adulto": false,
     "video": false,
@@ -1924,7 +1924,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-25 10:16:42"
+    "última_actualización": "2026-02-25 22:06:03"
   },
   {
     "id": 1327819,
@@ -1996,8 +1996,8 @@
       }
     ],
     "popularidad": 27.6243,
-    "puntuación": 0.0,
-    "votos": 0,
+    "puntuación": 4.0,
+    "votos": 1,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2009,9 +2009,19 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
-          "vote_average": 6.722,
+          "vote_average": 5.778,
           "vote_count": 9,
           "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1125,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/j6PQtExzItfzaaLWENyNmZVB7Nd.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
         },
         {
           "aspect_ratio": 1.778,
@@ -2041,16 +2051,6 @@
           "file_path": "/19s4DNIDKbK1zXFxov5J4ECFogl.jpg",
           "vote_average": 1.75,
           "vote_count": 4,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/eHGuxEYWvtTUAaXu4hq6Co6h5GU.jpg",
-          "vote_average": 1.562,
-          "vote_count": 8,
           "width": 3840
         }
       ],
@@ -2107,7 +2107,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-25 10:16:42"
+    "última_actualización": "2026-02-25 22:06:03"
   },
   {
     "id": 1159831,
@@ -2266,146 +2266,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-25 10:16:42"
-  },
-  {
-    "id": 840873,
-    "tmdb_id": 840873,
-    "título": "La extraordinaria vida de Marcel Pagnol",
-    "título_original": "Marcel et monsieur Pagnol",
-    "sinopsis": "",
-    "poster_path": "/jKYHuENFUXYDAkOQOlN7RRzMowO.jpg",
-    "poster_local": "imagenes_estrenos/The_Magnificent_Life_of_Marcel_Pagnol_3kvKO2pcUOKF180ySMx4xmiVH9u.jpg",
-    "backdrop_path": "/xPquMr2qgZcpV31dZl5T2Td1nBN.jpg",
-    "backdrop_local": "imagenes_estrenos/The_Magnificent_Life_of_Marcel_Pagnol_backdrop_xPquMr2qgZcpV31dZl5T2Td1nBN.jpg",
-    "fecha_estreno": "2026-03-06T00:00:00.000Z",
-    "duración": "90 min",
-    "director": "Sylvain Chomet",
-    "directores": [
-      {
-        "name": "Sylvain Chomet",
-        "id": 21768
-      }
-    ],
-    "actores": [
-      {
-        "name": "Laurent Lafitte",
-        "id": 93532,
-        "character": "Marcel Pagnol (Adult) (voice)",
-        "profile_path": "/9mTtfK5F9WMoYqvUvqlugnsX6SS.jpg"
-      },
-      {
-        "name": "Géraldine Pailhas",
-        "id": 19888,
-        "character": "Augustine Pagnol (voice)",
-        "profile_path": "/e1xAdLDPKOO3sfMU2I52vL6pL2I.jpg"
-      },
-      {
-        "name": "Thierry Garcia",
-        "id": 1814783,
-        "character": "Raimu (voice)",
-        "profile_path": "/fmSAqMishfHAsVwyX2F6CdklDUX.jpg"
-      },
-      {
-        "name": "Olivia Gotanègre",
-        "id": 1732197,
-        "character": "Jacqueline Pagnol (voice)",
-        "profile_path": "/6sGKFvanGBFbEb6Cz8jvtzDsAjz.jpg"
-      },
-      {
-        "name": "Sophie Maréchal",
-        "id": 2022358,
-        "character": "Simone Pagnol (voice)",
-        "profile_path": "/9XDUDkEwYQfrFqy7toekdBiT11Q.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 36,
-        "name": "Historia"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 3.4517,
-    "puntuación": 7.167,
-    "votos": 12,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xPquMr2qgZcpV31dZl5T2Td1nBN.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1800,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/9uKBTDxTE06ffjrPRcNgA7Gu5Bd.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3200
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1800,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/9CvDpyS8P8yKKlc9FuAMYeMldZk.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3200
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1800,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/5N5fs1K9tB5ShliN5r3LLpDkQJo.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3200
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1800,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wLZzUXllAJCV59TO2THAeE53QpD.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3200
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1500,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/1zJuWzbh9IHa1DFWhH2WA547t61.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1000
-        }
-      ]
-    },
-    "última_actualización": "2026-02-25 10:16:44"
+    "última_actualización": "2026-02-25 22:06:03"
   },
   {
     "id": 1432605,
@@ -2546,7 +2407,146 @@
         }
       ]
     },
-    "última_actualización": "2026-02-25 10:16:44"
+    "última_actualización": "2026-02-25 22:06:04"
+  },
+  {
+    "id": 840873,
+    "tmdb_id": 840873,
+    "título": "La extraordinaria vida de Marcel Pagnol",
+    "título_original": "Marcel et monsieur Pagnol",
+    "sinopsis": "",
+    "poster_path": "/jKYHuENFUXYDAkOQOlN7RRzMowO.jpg",
+    "poster_local": "imagenes_estrenos/The_Magnificent_Life_of_Marcel_Pagnol_3kvKO2pcUOKF180ySMx4xmiVH9u.jpg",
+    "backdrop_path": "/xPquMr2qgZcpV31dZl5T2Td1nBN.jpg",
+    "backdrop_local": "imagenes_estrenos/The_Magnificent_Life_of_Marcel_Pagnol_backdrop_xPquMr2qgZcpV31dZl5T2Td1nBN.jpg",
+    "fecha_estreno": "2026-03-06T00:00:00.000Z",
+    "duración": "90 min",
+    "director": "Sylvain Chomet",
+    "directores": [
+      {
+        "name": "Sylvain Chomet",
+        "id": 21768
+      }
+    ],
+    "actores": [
+      {
+        "name": "Laurent Lafitte",
+        "id": 93532,
+        "character": "Marcel Pagnol (Adult) (voice)",
+        "profile_path": "/9mTtfK5F9WMoYqvUvqlugnsX6SS.jpg"
+      },
+      {
+        "name": "Géraldine Pailhas",
+        "id": 19888,
+        "character": "Augustine Pagnol (voice)",
+        "profile_path": "/e1xAdLDPKOO3sfMU2I52vL6pL2I.jpg"
+      },
+      {
+        "name": "Thierry Garcia",
+        "id": 1814783,
+        "character": "Raimu (voice)",
+        "profile_path": "/fmSAqMishfHAsVwyX2F6CdklDUX.jpg"
+      },
+      {
+        "name": "Olivia Gotanègre",
+        "id": 1732197,
+        "character": "Jacqueline Pagnol (voice)",
+        "profile_path": "/6sGKFvanGBFbEb6Cz8jvtzDsAjz.jpg"
+      },
+      {
+        "name": "Sophie Maréchal",
+        "id": 2022358,
+        "character": "Simone Pagnol (voice)",
+        "profile_path": "/9XDUDkEwYQfrFqy7toekdBiT11Q.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 3.4517,
+    "puntuación": 7.154,
+    "votos": 13,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xPquMr2qgZcpV31dZl5T2Td1nBN.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1800,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/9uKBTDxTE06ffjrPRcNgA7Gu5Bd.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3200
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1800,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/9CvDpyS8P8yKKlc9FuAMYeMldZk.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3200
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1800,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5N5fs1K9tB5ShliN5r3LLpDkQJo.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3200
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1800,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wLZzUXllAJCV59TO2THAeE53QpD.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3200
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/1zJuWzbh9IHa1DFWhH2WA547t61.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        }
+      ]
+    },
+    "última_actualización": "2026-02-25 22:06:04"
   },
   {
     "id": 1143440,
@@ -2701,7 +2701,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-25 10:16:45"
+    "última_actualización": "2026-02-25 22:06:04"
   },
   {
     "id": 1275215,
@@ -2809,7 +2809,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-25 10:16:47"
+    "última_actualización": "2026-02-25 22:06:05"
   },
   {
     "id": 1465685,
@@ -2878,7 +2878,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-02-25 10:16:49"
+    "última_actualización": "2026-02-25 22:06:05"
   },
   {
     "id": 1641751,
@@ -2962,7 +2962,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-25 10:16:49"
+    "última_actualización": "2026-02-25 22:06:05"
   },
   {
     "id": 1263012,
@@ -3026,8 +3026,8 @@
       }
     ],
     "popularidad": 25.5099,
-    "puntuación": 6.758,
-    "votos": 33,
+    "puntuación": 6.5,
+    "votos": 38,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3107,7 +3107,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-25 10:16:42"
+    "última_actualización": "2026-02-25 22:06:03"
   },
   {
     "id": 1401281,
@@ -3266,7 +3266,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-25 10:16:44"
+    "última_actualización": "2026-02-25 22:06:03"
   },
   {
     "id": 1217584,
@@ -3346,7 +3346,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-25 10:16:45"
+    "última_actualización": "2026-02-25 22:06:04"
   },
   {
     "id": 1290424,
@@ -3501,7 +3501,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-25 10:16:45"
+    "última_actualización": "2026-02-25 22:06:04"
   },
   {
     "id": 1634018,
@@ -3568,7 +3568,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-02-25 10:16:47"
+    "última_actualización": "2026-02-25 22:06:05"
   },
   {
     "id": 1641445,
@@ -3643,7 +3643,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-25 10:16:49"
+    "última_actualización": "2026-02-25 22:06:05"
   },
   {
     "id": 687163,
@@ -3826,7 +3826,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-25 10:16:43"
+    "última_actualización": "2026-02-25 22:06:03"
   },
   {
     "id": 1193501,
@@ -3890,8 +3890,8 @@
       }
     ],
     "popularidad": 9.3978,
-    "puntuación": 6.267,
-    "votos": 30,
+    "puntuación": 6.318,
+    "votos": 33,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -4001,7 +4001,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-25 10:16:43"
+    "última_actualización": "2026-02-25 22:06:03"
   },
   {
     "id": 1088548,
@@ -4111,6 +4111,16 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 2048
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/e9KjhbPqBgMbUD9FGCGnWq8AAKA.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
         }
       ],
       "posters": [
@@ -4146,146 +4156,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-25 10:16:46"
-  },
-  {
-    "id": 1092936,
-    "tmdb_id": 1092936,
-    "título": "La valle dei sorrisi",
-    "título_original": "La valle dei sorrisi",
-    "sinopsis": "",
-    "poster_path": "/wZWBXIsX3QBXf94vzCSUqlZDp57.jpg",
-    "poster_local": "imagenes_estrenos/La_valle_dei_sorrisi_wZWBXIsX3QBXf94vzCSUqlZDp57.jpg",
-    "backdrop_path": "/wgtTXGLL6a4y1gNwgsdQajs6Kqq.jpg",
-    "backdrop_local": "imagenes_estrenos/La_valle_dei_sorrisi_backdrop_wgtTXGLL6a4y1gNwgsdQajs6Kqq.jpg",
-    "fecha_estreno": "2026-03-20T00:00:00.000Z",
-    "duración": "122 min",
-    "director": "Paolo Strippoli",
-    "directores": [
-      {
-        "name": "Paolo Strippoli",
-        "id": 2456774
-      }
-    ],
-    "actores": [
-      {
-        "name": "Michele Riondino",
-        "id": 124754,
-        "character": "Sergio Rossetti",
-        "profile_path": "/OZjGp2fNHWYkIVS2kaojMaKeKU.jpg"
-      },
-      {
-        "name": "Giulio Feltri",
-        "id": 4912829,
-        "character": "Matteo Corbin",
-        "profile_path": null
-      },
-      {
-        "name": "Paolo Pierobon",
-        "id": 482503,
-        "character": "Mauro Corbin",
-        "profile_path": "/uWizDMxorbCn5RoyRepn85Qt5Ll.jpg"
-      },
-      {
-        "name": "Romana Maggiora Vergano",
-        "id": 2635684,
-        "character": "Michela",
-        "profile_path": "/2tT5redcYdVbsgjd4kXXM4NspgU.jpg"
-      },
-      {
-        "name": "Sergio Romano",
-        "id": 1491567,
-        "character": "Pichler",
-        "profile_path": "/blEs4ebKnLEyz5CNGj2veITfNit.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 0.761,
-    "puntuación": 7.244,
-    "votos": 86,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wgtTXGLL6a4y1gNwgsdQajs6Kqq.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xVZwtj9MlQmqElqBO6eXfiiIpko.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/2vhkbZGG6djuNuXrun0d9zQPB9O.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/75GG4WMg3p5xQAv95sCYXn3uLoH.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1440,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/yJOeJH8NcOk73q6bY4hbYlC3ybG.jpg",
-          "vote_average": 0.0,
-          "vote_count": 1,
-          "width": 2560
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xnh8xlv4TQc95jxPeOKtbnMfkSW.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-02-25 10:16:46"
+    "última_actualización": "2026-02-25 22:06:04"
   },
   {
     "id": 1437198,
@@ -4434,7 +4305,146 @@
         }
       ]
     },
-    "última_actualización": "2026-02-25 10:16:47"
+    "última_actualización": "2026-02-25 22:06:04"
+  },
+  {
+    "id": 1092936,
+    "tmdb_id": 1092936,
+    "título": "La valle dei sorrisi",
+    "título_original": "La valle dei sorrisi",
+    "sinopsis": "",
+    "poster_path": "/wZWBXIsX3QBXf94vzCSUqlZDp57.jpg",
+    "poster_local": "imagenes_estrenos/La_valle_dei_sorrisi_wZWBXIsX3QBXf94vzCSUqlZDp57.jpg",
+    "backdrop_path": "/wgtTXGLL6a4y1gNwgsdQajs6Kqq.jpg",
+    "backdrop_local": "imagenes_estrenos/La_valle_dei_sorrisi_backdrop_wgtTXGLL6a4y1gNwgsdQajs6Kqq.jpg",
+    "fecha_estreno": "2026-03-20T00:00:00.000Z",
+    "duración": "122 min",
+    "director": "Paolo Strippoli",
+    "directores": [
+      {
+        "name": "Paolo Strippoli",
+        "id": 2456774
+      }
+    ],
+    "actores": [
+      {
+        "name": "Michele Riondino",
+        "id": 124754,
+        "character": "Sergio Rossetti",
+        "profile_path": "/OZjGp2fNHWYkIVS2kaojMaKeKU.jpg"
+      },
+      {
+        "name": "Giulio Feltri",
+        "id": 4912829,
+        "character": "Matteo Corbin",
+        "profile_path": null
+      },
+      {
+        "name": "Paolo Pierobon",
+        "id": 482503,
+        "character": "Mauro Corbin",
+        "profile_path": "/uWizDMxorbCn5RoyRepn85Qt5Ll.jpg"
+      },
+      {
+        "name": "Romana Maggiora Vergano",
+        "id": 2635684,
+        "character": "Michela",
+        "profile_path": "/2tT5redcYdVbsgjd4kXXM4NspgU.jpg"
+      },
+      {
+        "name": "Sergio Romano",
+        "id": 1491567,
+        "character": "Pichler",
+        "profile_path": "/blEs4ebKnLEyz5CNGj2veITfNit.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 0.761,
+    "puntuación": 7.244,
+    "votos": 86,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wgtTXGLL6a4y1gNwgsdQajs6Kqq.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xVZwtj9MlQmqElqBO6eXfiiIpko.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/2vhkbZGG6djuNuXrun0d9zQPB9O.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/75GG4WMg3p5xQAv95sCYXn3uLoH.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1440,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/yJOeJH8NcOk73q6bY4hbYlC3ybG.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 2560
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xnh8xlv4TQc95jxPeOKtbnMfkSW.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-02-25 22:06:04"
   },
   {
     "id": 1359024,
@@ -4529,7 +4539,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-25 10:16:48"
+    "última_actualización": "2026-02-25 22:06:05"
   },
   {
     "id": 1632334,
@@ -4632,6 +4642,6 @@
         }
       ]
     },
-    "última_actualización": "2026-02-25 10:16:47"
+    "última_actualización": "2026-02-25 22:06:05"
   }
 ]
