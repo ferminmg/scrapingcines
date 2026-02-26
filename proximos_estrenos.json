@@ -138,7 +138,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-26 10:14:58"
+    "última_actualización": "2026-02-26 22:05:58"
   },
   {
     "id": 1633944,
@@ -1833,7 +1833,7 @@
       }
     ],
     "popularidad": 38.7632,
-    "puntuación": 6.103,
+    "puntuación": 6.1,
     "votos": 87,
     "adulto": false,
     "video": false,
@@ -1924,7 +1924,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-26 10:14:57"
+    "última_actualización": "2026-02-26 22:05:58"
   },
   {
     "id": 1327819,
@@ -1996,8 +1996,8 @@
       }
     ],
     "popularidad": 32.2891,
-    "puntuación": 7.0,
-    "votos": 2,
+    "puntuación": 8.0,
+    "votos": 3,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2107,7 +2107,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-26 10:14:57"
+    "última_actualización": "2026-02-26 22:05:58"
   },
   {
     "id": 1159831,
@@ -2266,7 +2266,146 @@
         }
       ]
     },
-    "última_actualización": "2026-02-26 10:14:57"
+    "última_actualización": "2026-02-26 22:05:58"
+  },
+  {
+    "id": 840873,
+    "tmdb_id": 840873,
+    "título": "La extraordinaria vida de Marcel Pagnol",
+    "título_original": "Marcel et monsieur Pagnol",
+    "sinopsis": "",
+    "poster_path": "/jKYHuENFUXYDAkOQOlN7RRzMowO.jpg",
+    "poster_local": "imagenes_estrenos/The_Magnificent_Life_of_Marcel_Pagnol_3kvKO2pcUOKF180ySMx4xmiVH9u.jpg",
+    "backdrop_path": "/xPquMr2qgZcpV31dZl5T2Td1nBN.jpg",
+    "backdrop_local": "imagenes_estrenos/The_Magnificent_Life_of_Marcel_Pagnol_backdrop_xPquMr2qgZcpV31dZl5T2Td1nBN.jpg",
+    "fecha_estreno": "2026-03-06T00:00:00.000Z",
+    "duración": "90 min",
+    "director": "Sylvain Chomet",
+    "directores": [
+      {
+        "name": "Sylvain Chomet",
+        "id": 21768
+      }
+    ],
+    "actores": [
+      {
+        "name": "Laurent Lafitte",
+        "id": 93532,
+        "character": "Marcel Pagnol (Adult) (voice)",
+        "profile_path": "/9mTtfK5F9WMoYqvUvqlugnsX6SS.jpg"
+      },
+      {
+        "name": "Géraldine Pailhas",
+        "id": 19888,
+        "character": "Augustine Pagnol (voice)",
+        "profile_path": "/e1xAdLDPKOO3sfMU2I52vL6pL2I.jpg"
+      },
+      {
+        "name": "Thierry Garcia",
+        "id": 1814783,
+        "character": "Raimu (voice)",
+        "profile_path": "/fmSAqMishfHAsVwyX2F6CdklDUX.jpg"
+      },
+      {
+        "name": "Olivia Gotanègre",
+        "id": 1732197,
+        "character": "Jacqueline Pagnol (voice)",
+        "profile_path": "/6sGKFvanGBFbEb6Cz8jvtzDsAjz.jpg"
+      },
+      {
+        "name": "Sophie Maréchal",
+        "id": 2022358,
+        "character": "Simone Pagnol (voice)",
+        "profile_path": "/9XDUDkEwYQfrFqy7toekdBiT11Q.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 4.0761,
+    "puntuación": 7.154,
+    "votos": 13,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xPquMr2qgZcpV31dZl5T2Td1nBN.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1800,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/9uKBTDxTE06ffjrPRcNgA7Gu5Bd.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3200
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1800,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/9CvDpyS8P8yKKlc9FuAMYeMldZk.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3200
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1800,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5N5fs1K9tB5ShliN5r3LLpDkQJo.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3200
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1800,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wLZzUXllAJCV59TO2THAeE53QpD.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3200
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/1zJuWzbh9IHa1DFWhH2WA547t61.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        }
+      ]
+    },
+    "última_actualización": "2026-02-26 22:05:59"
   },
   {
     "id": 1432605,
@@ -2407,146 +2546,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-26 10:14:58"
-  },
-  {
-    "id": 840873,
-    "tmdb_id": 840873,
-    "título": "La extraordinaria vida de Marcel Pagnol",
-    "título_original": "Marcel et monsieur Pagnol",
-    "sinopsis": "",
-    "poster_path": "/jKYHuENFUXYDAkOQOlN7RRzMowO.jpg",
-    "poster_local": "imagenes_estrenos/The_Magnificent_Life_of_Marcel_Pagnol_3kvKO2pcUOKF180ySMx4xmiVH9u.jpg",
-    "backdrop_path": "/xPquMr2qgZcpV31dZl5T2Td1nBN.jpg",
-    "backdrop_local": "imagenes_estrenos/The_Magnificent_Life_of_Marcel_Pagnol_backdrop_xPquMr2qgZcpV31dZl5T2Td1nBN.jpg",
-    "fecha_estreno": "2026-03-06T00:00:00.000Z",
-    "duración": "90 min",
-    "director": "Sylvain Chomet",
-    "directores": [
-      {
-        "name": "Sylvain Chomet",
-        "id": 21768
-      }
-    ],
-    "actores": [
-      {
-        "name": "Laurent Lafitte",
-        "id": 93532,
-        "character": "Marcel Pagnol (Adult) (voice)",
-        "profile_path": "/9mTtfK5F9WMoYqvUvqlugnsX6SS.jpg"
-      },
-      {
-        "name": "Géraldine Pailhas",
-        "id": 19888,
-        "character": "Augustine Pagnol (voice)",
-        "profile_path": "/e1xAdLDPKOO3sfMU2I52vL6pL2I.jpg"
-      },
-      {
-        "name": "Thierry Garcia",
-        "id": 1814783,
-        "character": "Raimu (voice)",
-        "profile_path": "/fmSAqMishfHAsVwyX2F6CdklDUX.jpg"
-      },
-      {
-        "name": "Olivia Gotanègre",
-        "id": 1732197,
-        "character": "Jacqueline Pagnol (voice)",
-        "profile_path": "/6sGKFvanGBFbEb6Cz8jvtzDsAjz.jpg"
-      },
-      {
-        "name": "Sophie Maréchal",
-        "id": 2022358,
-        "character": "Simone Pagnol (voice)",
-        "profile_path": "/9XDUDkEwYQfrFqy7toekdBiT11Q.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 36,
-        "name": "Historia"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 4.0761,
-    "puntuación": 7.154,
-    "votos": 13,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xPquMr2qgZcpV31dZl5T2Td1nBN.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1800,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/9uKBTDxTE06ffjrPRcNgA7Gu5Bd.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3200
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1800,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/9CvDpyS8P8yKKlc9FuAMYeMldZk.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3200
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1800,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/5N5fs1K9tB5ShliN5r3LLpDkQJo.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3200
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1800,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wLZzUXllAJCV59TO2THAeE53QpD.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3200
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1500,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/1zJuWzbh9IHa1DFWhH2WA547t61.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1000
-        }
-      ]
-    },
-    "última_actualización": "2026-02-26 10:14:58"
+    "última_actualización": "2026-02-26 22:05:59"
   },
   {
     "id": 1143440,
@@ -2701,7 +2701,91 @@
         }
       ]
     },
-    "última_actualización": "2026-02-26 10:14:58"
+    "última_actualización": "2026-02-26 22:05:59"
+  },
+  {
+    "id": 1641751,
+    "tmdb_id": 1641751,
+    "título": "El relevo",
+    "título_original": "El relevo",
+    "sinopsis": "Siendo el único testigo del accidente que deja inconsciente a un joven rider, un chaval, desesperado por encontrar trabajo, decide robar su bici, su mochila y su móvil, y hacerse pasar por él.",
+    "poster_path": "/vVNNeUi2EYtJq4oDjF7WiWhN3A6.jpg",
+    "poster_local": "imagenes_estrenos/El_relevo_vVNNeUi2EYtJq4oDjF7WiWhN3A6.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-03-06T00:00:00.000Z",
+    "duración": "14 min",
+    "director": "Bárbara Fernández, David Mendizábal",
+    "directores": [
+      {
+        "name": "Bárbara Fernández",
+        "id": 2909101
+      },
+      {
+        "name": "David Mendizábal",
+        "id": 4545354
+      }
+    ],
+    "actores": [
+      {
+        "name": "Ninton Sánchez",
+        "id": 2785775,
+        "character": "Rider",
+        "profile_path": "/2hra5kOOw3Q7QwmYoympDIhdtqD.jpg"
+      },
+      {
+        "name": "Nacho Antelo",
+        "id": 6029059,
+        "character": "Motorista",
+        "profile_path": null
+      },
+      {
+        "name": "Sandra Escobar",
+        "id": 6029060,
+        "character": "Rider 1",
+        "profile_path": null
+      },
+      {
+        "name": "Yasmarlin Baez",
+        "id": 6029063,
+        "character": "Rider 2",
+        "profile_path": null
+      },
+      {
+        "name": "Zorak Arruti",
+        "id": 6029065,
+        "character": "Rider 3",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 0.5354,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.707,
+          "height": 1191,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/vVNNeUi2EYtJq4oDjF7WiWhN3A6.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 842
+        }
+      ]
+    },
+    "última_actualización": "2026-02-26 22:06:00"
   },
   {
     "id": 1275215,
@@ -2809,7 +2893,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-26 10:14:59"
+    "última_actualización": "2026-02-26 22:06:00"
   },
   {
     "id": 1465685,
@@ -2889,91 +2973,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-26 10:15:00"
-  },
-  {
-    "id": 1641751,
-    "tmdb_id": 1641751,
-    "título": "El relevo",
-    "título_original": "El relevo",
-    "sinopsis": "Siendo el único testigo del accidente que deja inconsciente a un joven rider, un chaval, desesperado por encontrar trabajo, decide robar su bici, su mochila y su móvil, y hacerse pasar por él.",
-    "poster_path": "/vVNNeUi2EYtJq4oDjF7WiWhN3A6.jpg",
-    "poster_local": "imagenes_estrenos/El_relevo_vVNNeUi2EYtJq4oDjF7WiWhN3A6.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-03-06T00:00:00.000Z",
-    "duración": "14 min",
-    "director": "Bárbara Fernández, David Mendizábal",
-    "directores": [
-      {
-        "name": "Bárbara Fernández",
-        "id": 2909101
-      },
-      {
-        "name": "David Mendizábal",
-        "id": 4545354
-      }
-    ],
-    "actores": [
-      {
-        "name": "Ninton Sánchez",
-        "id": 2785775,
-        "character": "Rider",
-        "profile_path": "/2hra5kOOw3Q7QwmYoympDIhdtqD.jpg"
-      },
-      {
-        "name": "Nacho Antelo",
-        "id": 6029059,
-        "character": "Motorista",
-        "profile_path": null
-      },
-      {
-        "name": "Sandra Escobar",
-        "id": 6029060,
-        "character": "Rider 1",
-        "profile_path": null
-      },
-      {
-        "name": "Yasmarlin Baez",
-        "id": 6029063,
-        "character": "Rider 2",
-        "profile_path": null
-      },
-      {
-        "name": "Zorak Arruti",
-        "id": 6029065,
-        "character": "Rider 3",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 0.5354,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.707,
-          "height": 1191,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/vVNNeUi2EYtJq4oDjF7WiWhN3A6.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 842
-        }
-      ]
-    },
-    "última_actualización": "2026-02-26 10:15:00"
+    "última_actualización": "2026-02-26 22:06:00"
   },
   {
     "id": 1263012,
@@ -3037,8 +3037,8 @@
       }
     ],
     "popularidad": 40.8081,
-    "puntuación": 6.5,
-    "votos": 38,
+    "puntuación": 6.625,
+    "votos": 40,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3118,7 +3118,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-26 10:14:57"
+    "última_actualización": "2026-02-26 22:05:58"
   },
   {
     "id": 1401281,
@@ -3277,7 +3277,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-26 10:14:58"
+    "última_actualización": "2026-02-26 22:05:58"
   },
   {
     "id": 1217584,
@@ -3357,7 +3357,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-26 10:14:58"
+    "última_actualización": "2026-02-26 22:05:59"
   },
   {
     "id": 1290424,
@@ -3512,7 +3512,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-26 10:14:58"
+    "última_actualización": "2026-02-26 22:05:59"
   },
   {
     "id": 1634018,
@@ -3579,7 +3579,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-02-26 10:14:59"
+    "última_actualización": "2026-02-26 22:06:00"
   },
   {
     "id": 1641445,
@@ -3654,7 +3654,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-26 10:15:00"
+    "última_actualización": "2026-02-26 22:06:01"
   },
   {
     "id": 687163,
@@ -3667,7 +3667,7 @@
     "backdrop_path": "/o2xLxY1LdwBMsrGD9hjIaOrIQm6.jpg",
     "backdrop_local": "imagenes_estrenos/Proyecto_salvaci_n_backdrop_o2xLxY1LdwBMsrGD9hjIaOrIQm6.jpg",
     "fecha_estreno": "2026-03-20T00:00:00.000Z",
-    "duración": "0 min",
+    "duración": "157 min",
     "director": "Phil Lord, Christopher Miller",
     "directores": [
       {
@@ -3837,7 +3837,146 @@
         }
       ]
     },
-    "última_actualización": "2026-02-26 10:14:57"
+    "última_actualización": "2026-02-26 22:05:58"
+  },
+  {
+    "id": 1092936,
+    "tmdb_id": 1092936,
+    "título": "La valle dei sorrisi",
+    "título_original": "La valle dei sorrisi",
+    "sinopsis": "",
+    "poster_path": "/wZWBXIsX3QBXf94vzCSUqlZDp57.jpg",
+    "poster_local": "imagenes_estrenos/La_valle_dei_sorrisi_wZWBXIsX3QBXf94vzCSUqlZDp57.jpg",
+    "backdrop_path": "/wgtTXGLL6a4y1gNwgsdQajs6Kqq.jpg",
+    "backdrop_local": "imagenes_estrenos/La_valle_dei_sorrisi_backdrop_wgtTXGLL6a4y1gNwgsdQajs6Kqq.jpg",
+    "fecha_estreno": "2026-03-20T00:00:00.000Z",
+    "duración": "122 min",
+    "director": "Paolo Strippoli",
+    "directores": [
+      {
+        "name": "Paolo Strippoli",
+        "id": 2456774
+      }
+    ],
+    "actores": [
+      {
+        "name": "Michele Riondino",
+        "id": 124754,
+        "character": "Sergio Rossetti",
+        "profile_path": "/OZjGp2fNHWYkIVS2kaojMaKeKU.jpg"
+      },
+      {
+        "name": "Giulio Feltri",
+        "id": 4912829,
+        "character": "Matteo Corbin",
+        "profile_path": null
+      },
+      {
+        "name": "Paolo Pierobon",
+        "id": 482503,
+        "character": "Mauro Corbin",
+        "profile_path": "/uWizDMxorbCn5RoyRepn85Qt5Ll.jpg"
+      },
+      {
+        "name": "Romana Maggiora Vergano",
+        "id": 2635684,
+        "character": "Michela",
+        "profile_path": "/2tT5redcYdVbsgjd4kXXM4NspgU.jpg"
+      },
+      {
+        "name": "Sergio Romano",
+        "id": 1491567,
+        "character": "Pichler",
+        "profile_path": "/blEs4ebKnLEyz5CNGj2veITfNit.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 1.0963,
+    "puntuación": 7.244,
+    "votos": 86,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wgtTXGLL6a4y1gNwgsdQajs6Kqq.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xVZwtj9MlQmqElqBO6eXfiiIpko.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/2vhkbZGG6djuNuXrun0d9zQPB9O.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/75GG4WMg3p5xQAv95sCYXn3uLoH.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1440,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/yJOeJH8NcOk73q6bY4hbYlC3ybG.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 2560
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xnh8xlv4TQc95jxPeOKtbnMfkSW.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-02-26 22:05:59"
   },
   {
     "id": 1088548,
@@ -3845,7 +3984,7 @@
     "título": "Amarga Navidad",
     "título_original": "Amarga Navidad",
     "sinopsis": "Tras el fallecimiento de su madre en diciembre, Elsa, directora de publicidad, se sumerge en el trabajo para afrontar la situación. Cuando un ataque de pánico la obliga a tomarse un descanso, decide viajar a Lanzarote con su amiga Patricia mientras su pareja, Bonifacio, se queda en Madrid.",
-    "poster_path": "/8fPvRrl6KBrCLqTWIQ3i1xsk8Dl.jpg",
+    "poster_path": "/ji29dXqoeIsQiVnXAkzI4nzxMjr.jpg",
     "poster_local": "imagenes_estrenos/Amarga_Navidad_8fPvRrl6KBrCLqTWIQ3i1xsk8Dl.jpg",
     "backdrop_path": "/5BEVBLecjLWzZtfA920waEsHF6o.jpg",
     "backdrop_local": "imagenes_estrenos/Amarga_Navidad_backdrop_5BEVBLecjLWzZtfA920waEsHF6o.jpg",
@@ -3965,9 +4104,9 @@
           "height": 3000,
           "iso_3166_1": "ES",
           "iso_639_1": "es",
-          "file_path": "/8fPvRrl6KBrCLqTWIQ3i1xsk8Dl.jpg",
+          "file_path": "/ji29dXqoeIsQiVnXAkzI4nzxMjr.jpg",
           "vote_average": 3.334,
-          "vote_count": 2,
+          "vote_count": 1,
           "width": 2000
         },
         {
@@ -3982,6 +4121,16 @@
         },
         {
           "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/8fPvRrl6KBrCLqTWIQ3i1xsk8Dl.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
           "height": 1800,
           "iso_3166_1": "ES",
           "iso_639_1": "es",
@@ -3992,7 +4141,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-26 10:14:58"
+    "última_actualización": "2026-02-26 22:05:59"
   },
   {
     "id": 1437198,
@@ -4141,146 +4290,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-26 10:14:59"
-  },
-  {
-    "id": 1092936,
-    "tmdb_id": 1092936,
-    "título": "La valle dei sorrisi",
-    "título_original": "La valle dei sorrisi",
-    "sinopsis": "",
-    "poster_path": "/wZWBXIsX3QBXf94vzCSUqlZDp57.jpg",
-    "poster_local": "imagenes_estrenos/La_valle_dei_sorrisi_wZWBXIsX3QBXf94vzCSUqlZDp57.jpg",
-    "backdrop_path": "/wgtTXGLL6a4y1gNwgsdQajs6Kqq.jpg",
-    "backdrop_local": "imagenes_estrenos/La_valle_dei_sorrisi_backdrop_wgtTXGLL6a4y1gNwgsdQajs6Kqq.jpg",
-    "fecha_estreno": "2026-03-20T00:00:00.000Z",
-    "duración": "122 min",
-    "director": "Paolo Strippoli",
-    "directores": [
-      {
-        "name": "Paolo Strippoli",
-        "id": 2456774
-      }
-    ],
-    "actores": [
-      {
-        "name": "Michele Riondino",
-        "id": 124754,
-        "character": "Sergio Rossetti",
-        "profile_path": "/OZjGp2fNHWYkIVS2kaojMaKeKU.jpg"
-      },
-      {
-        "name": "Giulio Feltri",
-        "id": 4912829,
-        "character": "Matteo Corbin",
-        "profile_path": null
-      },
-      {
-        "name": "Paolo Pierobon",
-        "id": 482503,
-        "character": "Mauro Corbin",
-        "profile_path": "/uWizDMxorbCn5RoyRepn85Qt5Ll.jpg"
-      },
-      {
-        "name": "Romana Maggiora Vergano",
-        "id": 2635684,
-        "character": "Michela",
-        "profile_path": "/2tT5redcYdVbsgjd4kXXM4NspgU.jpg"
-      },
-      {
-        "name": "Sergio Romano",
-        "id": 1491567,
-        "character": "Pichler",
-        "profile_path": "/blEs4ebKnLEyz5CNGj2veITfNit.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 1.0963,
-    "puntuación": 7.244,
-    "votos": 86,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wgtTXGLL6a4y1gNwgsdQajs6Kqq.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xVZwtj9MlQmqElqBO6eXfiiIpko.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/2vhkbZGG6djuNuXrun0d9zQPB9O.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/75GG4WMg3p5xQAv95sCYXn3uLoH.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1440,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/yJOeJH8NcOk73q6bY4hbYlC3ybG.jpg",
-          "vote_average": 0.0,
-          "vote_count": 1,
-          "width": 2560
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xnh8xlv4TQc95jxPeOKtbnMfkSW.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-02-26 10:14:59"
+    "última_actualización": "2026-02-26 22:05:59"
   },
   {
     "id": 1359024,
@@ -4375,7 +4385,7 @@
         }
       ]
     },
-    "última_actualización": "2026-02-26 10:14:59"
+    "última_actualización": "2026-02-26 22:06:00"
   },
   {
     "id": 1193501,
@@ -4653,6 +4663,6 @@
         }
       ]
     },
-    "última_actualización": "2026-02-26 10:14:59"
+    "última_actualización": "2026-02-26 22:06:00"
   }
 ]
