@@ -1,52 +1,5 @@
 [
     {
-        "título": "Scarlet",
-        "cartel": "imagenes_filmaffinity/tmdb_scarlet.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-02-27",
-                "hora": "18:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26860"
-            },
-            {
-                "fecha": "2026-02-28",
-                "hora": "18:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26762"
-            },
-            {
-                "fecha": "2026-03-01",
-                "hora": "18:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26764"
-            },
-            {
-                "fecha": "2026-03-02",
-                "hora": "18:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26865"
-            },
-            {
-                "fecha": "2026-03-03",
-                "hora": "18:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26901"
-            },
-            {
-                "fecha": "2026-03-04",
-                "hora": "18:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26882"
-            },
-            {
-                "fecha": "2026-03-05",
-                "hora": "18:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26920"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "細田守",
-        "duración": "112 min",
-        "actores": "芦田愛菜, 岡田将生, 松重豊, 吉田鋼太郎, 役所広司",
-        "sinopsis": "",
-        "año": "2025"
-    },
-    {
         "título": "EPiC: Elvis Presley in Concert",
         "cartel": "imagenes_filmaffinity/tmdb_epic-elvis-presley-in-concert.jpg",
         "horarios": [
@@ -92,6 +45,48 @@
         "actores": "Elvis Presley, Sammy Davis Jr., Cary Grant, Tom Parker, Bono",
         "sinopsis": "Rescata la figura del gran Elvis Presley, con imágenes de archivo y grabaciones nunca vistas del Rey del rock.",
         "año": "2026"
+    },
+    {
+        "título": "Scarlet",
+        "cartel": "imagenes_filmaffinity/tmdb_scarlet.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-02-28",
+                "hora": "18:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26762"
+            },
+            {
+                "fecha": "2026-03-01",
+                "hora": "18:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26764"
+            },
+            {
+                "fecha": "2026-03-02",
+                "hora": "18:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26865"
+            },
+            {
+                "fecha": "2026-03-03",
+                "hora": "18:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26901"
+            },
+            {
+                "fecha": "2026-03-04",
+                "hora": "18:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26882"
+            },
+            {
+                "fecha": "2026-03-05",
+                "hora": "18:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26920"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "細田守",
+        "duración": "112 min",
+        "actores": "芦田愛菜, 岡田将生, 松重豊, 吉田鋼太郎, 役所広司",
+        "sinopsis": "",
+        "año": "2025"
     },
     {
         "título": "Scream 7",
