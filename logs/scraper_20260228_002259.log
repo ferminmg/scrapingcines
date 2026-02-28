@@ -1,0 +1,55 @@
+2026-02-28 00:22:59,632 - INFO - Iniciando proceso de scraping
+2026-02-28 00:22:59,634 - INFO - Posts existentes encontrados: 2512
+2026-02-28 00:22:59,634 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-02-28 00:23:00,987 - INFO - Se encontraron 10 posts
+2026-02-28 00:23:00,988 - INFO - Comenzando extracción de información del post
+2026-02-28 00:23:00,988 - INFO - Título del post: LITTLE AMÉLIE de Mailys Vallade y Liane-Cho Han Jin Kuang
+2026-02-28 00:23:00,988 - INFO - Fecha del post: 2026-02-27T23:30:02+01:00
+2026-02-28 00:23:00,988 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/02/critica-de-little-amelie-de-mailys-vallade-y-liane-cho-han-jin-kuang.html
+2026-02-28 00:23:02,426 - INFO - Contenido extraído y estructurado (4674 caracteres)
+2026-02-28 00:23:02,427 - INFO - Guardando post en: posts/LITTLE_AMÉLIE_2026-02-27.json
+2026-02-28 00:23:02,428 - INFO - Post guardado exitosamente
+2026-02-28 00:23:02,428 - INFO - Actualizando índice de películas
+2026-02-28 00:23:02,428 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-02-28 00:23:02,432 - INFO - Índice existente cargado con 2612 películas
+2026-02-28 00:23:02,443 - INFO - Película agregada al índice: LITTLE AMÉLIE
+2026-02-28 00:23:02,443 - INFO - Nuevo post guardado: LITTLE AMÉLIE de Mailys Vallade y Liane-Cho Han Jin Kuang
+2026-02-28 00:23:02,443 - INFO - Comenzando extracción de información del post
+2026-02-28 00:23:02,443 - INFO - Título del post: LA MALDICIÓN DE SHELBY OAKS de Chris Stuckmann
+2026-02-28 00:23:02,443 - INFO - Fecha del post: 2026-02-27T23:29:43+01:00
+2026-02-28 00:23:02,443 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/02/la-maldicion-de-shelby-oaks-de-chris-stuckmann.html
+2026-02-28 00:23:03,778 - INFO - Contenido extraído y estructurado (2720 caracteres)
+2026-02-28 00:23:03,779 - INFO - Guardando post en: posts/LA_MALDICIÓN_DE_SHELBY_OAKS_2026-02-27.json
+2026-02-28 00:23:03,780 - INFO - Post guardado exitosamente
+2026-02-28 00:23:03,780 - INFO - Actualizando índice de películas
+2026-02-28 00:23:03,780 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-02-28 00:23:03,783 - INFO - Índice existente cargado con 2613 películas
+2026-02-28 00:23:03,794 - INFO - Película agregada al índice: LA MALDICIÓN DE SHELBY OAKS
+2026-02-28 00:23:03,794 - INFO - Nuevo post guardado: LA MALDICIÓN DE SHELBY OAKS de Chris Stuckmann
+2026-02-28 00:23:03,795 - INFO - Comenzando extracción de información del post
+2026-02-28 00:23:03,795 - INFO - Título del post: SIN CONEXIÓN de Bradley Cooper
+2026-02-28 00:23:03,795 - INFO - Fecha del post: 2026-02-27T23:07:57+01:00
+2026-02-28 00:23:03,795 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/02/critica-de-sin-conexion-de-bradley-cooper.html
+2026-02-28 00:23:05,197 - INFO - Contenido extraído y estructurado (5208 caracteres)
+2026-02-28 00:23:05,199 - INFO - Guardando post en: posts/SIN_CONEXIÓN_2026-02-27.json
+2026-02-28 00:23:05,199 - INFO - Post guardado exitosamente
+2026-02-28 00:23:05,199 - INFO - Actualizando índice de películas
+2026-02-28 00:23:05,199 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-02-28 00:23:05,203 - INFO - Índice existente cargado con 2614 películas
+2026-02-28 00:23:05,214 - INFO - Película agregada al índice: SIN CONEXIÓN
+2026-02-28 00:23:05,214 - INFO - Nuevo post guardado: SIN CONEXIÓN de Bradley Cooper
+2026-02-28 00:23:05,214 - INFO - Comenzando extracción de información del post
+2026-02-28 00:23:05,214 - INFO - Post ya existente, saltando: EL AGENTE SECRETO de Kleber Mendonça Filho
+2026-02-28 00:23:05,214 - INFO - Comenzando extracción de información del post
+2026-02-28 00:23:05,215 - INFO - Post ya existente, saltando: CUMBRES BORRASCOSAS de Emerald Fennell
+2026-02-28 00:23:05,215 - INFO - Comenzando extracción de información del post
+2026-02-28 00:23:05,215 - INFO - Post ya existente, saltando: NO HAY OTRA OPCIÓN de Park Chan-wook
+2026-02-28 00:23:05,215 - INFO - Comenzando extracción de información del post
+2026-02-28 00:23:05,215 - INFO - Post ya existente, saltando: HISTORIAS DEL BUEN VALLE de José Luis Guerín
+2026-02-28 00:23:05,215 - INFO - Comenzando extracción de información del post
+2026-02-28 00:23:05,215 - INFO - Post ya existente, saltando: LA FIERA de Salvador Calvo
+2026-02-28 00:23:05,215 - INFO - Comenzando extracción de información del post
+2026-02-28 00:23:05,215 - INFO - Post ya existente, saltando: TRES ADIOSES de Isabel Coixet
+2026-02-28 00:23:05,215 - INFO - Comenzando extracción de información del post
+2026-02-28 00:23:05,216 - INFO - Post ya existente, saltando: LA TARTA DEL PRESIDENTE de Hasan Hadi
+2026-02-28 00:23:05,216 - INFO - Proceso completado. Posts nuevos guardados: 3
