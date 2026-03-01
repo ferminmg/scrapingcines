@@ -138,7 +138,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:51"
+    "última_actualización": "2026-03-01 22:02:53"
   },
   {
     "id": 1624329,
@@ -430,7 +430,7 @@
       }
     ],
     "popularidad": 42.8254,
-    "puntuación": 7.1,
+    "puntuación": 7.8,
     "votos": 9,
     "adulto": false,
     "video": false,
@@ -541,7 +541,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:50"
+    "última_actualización": "2026-03-01 22:02:53"
   },
   {
     "id": 1287141,
@@ -609,8 +609,8 @@
       }
     ],
     "popularidad": 26.7113,
-    "puntuación": 6.09,
-    "votos": 89,
+    "puntuación": 6.126,
+    "votos": 91,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -720,7 +720,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:50"
+    "última_actualización": "2026-03-01 22:02:53"
   },
   {
     "id": 1159831,
@@ -879,7 +879,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:50"
+    "última_actualización": "2026-03-01 22:02:53"
   },
   {
     "id": 840873,
@@ -1028,7 +1028,115 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:51"
+    "última_actualización": "2026-03-01 22:02:54"
+  },
+  {
+    "id": 1275215,
+    "tmdb_id": 1275215,
+    "título": "Aves de Corral",
+    "título_original": "Aves de Corral",
+    "sinopsis": "Aves de corral está protagonizada por Diego Anido, Pedro Casablanc, Olivia Baglivi, Chechu Salgado, Antonio, Durán “Morris”, Jose Luis García-Pérez, Roberto Enríquez, Belén Écija, Daniel Ibáñez, Clara Alvarado, Álvaro Díaz, Ramón Robles, Roberto Hoyo, Roberto García, Lukas Cantó, Helena Kaittani, Lydia Ramírez, Román Rymar, Cristina Brondo, Laura Delgado, Antonio Chamorro. El filme cuenta con la dirección de fotografía de Alberto Pareja.  En la película, una peculiar banda criminal planea asesinar a un dirigente del CNI, pero el plan de fin de semana de una pareja de novios se cruza en su camino.",
+    "poster_path": "/aUD3zcISx2XgrxZsncG0bo3NEdP.jpg",
+    "poster_local": "imagenes_estrenos/Aves_de_Corral_aUD3zcISx2XgrxZsncG0bo3NEdP.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-03-06T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Antonio Vicent",
+    "directores": [
+      {
+        "name": "Antonio Vicent",
+        "id": 4656090
+      }
+    ],
+    "actores": [
+      {
+        "name": "Diego Anido",
+        "id": 2110628,
+        "character": "Santiago",
+        "profile_path": "/a7DVrZFjt8JjdPWfOTT93uRXOg8.jpg"
+      },
+      {
+        "name": "Pedro Casablanc",
+        "id": 227071,
+        "character": "Señor",
+        "profile_path": "/7oXGl8Nr2w7SaES4tbzjw4RYtF0.jpg"
+      },
+      {
+        "name": "Olivia Baglivi",
+        "id": 1507350,
+        "character": "Casilda",
+        "profile_path": "/2VQlSfBPrHiBnDnohcpLUOiIPQg.jpg"
+      },
+      {
+        "name": "José Luis García Pérez",
+        "id": 43323,
+        "character": "Fran",
+        "profile_path": "/pszEIxu2skaRTf45YshJ2PTEuTO.jpg"
+      },
+      {
+        "name": "Antonio 'Morris' Durán",
+        "id": 15599,
+        "character": "Jefe",
+        "profile_path": "/3D3wl7paKTwDqzq1dbvf6Y7MKU.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 2.8746,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.68,
+          "height": 2941,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/aUD3zcISx2XgrxZsncG0bo3NEdP.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6lgoxIgsjFKdaqQku27CSO28xmB.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.68,
+          "height": 2942,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/tlzK9lRTIoBpIraBBAkAnDncQ1k.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-03-01 22:02:54"
   },
   {
     "id": 1432605,
@@ -1169,7 +1277,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:51"
+    "última_actualización": "2026-03-01 22:02:54"
   },
   {
     "id": 1143440,
@@ -1324,115 +1432,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:51"
-  },
-  {
-    "id": 1275215,
-    "tmdb_id": 1275215,
-    "título": "Aves de Corral",
-    "título_original": "Aves de Corral",
-    "sinopsis": "Aves de corral está protagonizada por Diego Anido, Pedro Casablanc, Olivia Baglivi, Chechu Salgado, Antonio, Durán “Morris”, Jose Luis García-Pérez, Roberto Enríquez, Belén Écija, Daniel Ibáñez, Clara Alvarado, Álvaro Díaz, Ramón Robles, Roberto Hoyo, Roberto García, Lukas Cantó, Helena Kaittani, Lydia Ramírez, Román Rymar, Cristina Brondo, Laura Delgado, Antonio Chamorro. El filme cuenta con la dirección de fotografía de Alberto Pareja.  En la película, una peculiar banda criminal planea asesinar a un dirigente del CNI, pero el plan de fin de semana de una pareja de novios se cruza en su camino.",
-    "poster_path": "/aUD3zcISx2XgrxZsncG0bo3NEdP.jpg",
-    "poster_local": "imagenes_estrenos/Aves_de_Corral_aUD3zcISx2XgrxZsncG0bo3NEdP.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-03-06T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Antonio Vicent",
-    "directores": [
-      {
-        "name": "Antonio Vicent",
-        "id": 4656090
-      }
-    ],
-    "actores": [
-      {
-        "name": "Diego Anido",
-        "id": 2110628,
-        "character": "Santiago",
-        "profile_path": "/a7DVrZFjt8JjdPWfOTT93uRXOg8.jpg"
-      },
-      {
-        "name": "Pedro Casablanc",
-        "id": 227071,
-        "character": "Señor",
-        "profile_path": "/7oXGl8Nr2w7SaES4tbzjw4RYtF0.jpg"
-      },
-      {
-        "name": "Olivia Baglivi",
-        "id": 1507350,
-        "character": "Casilda",
-        "profile_path": "/2VQlSfBPrHiBnDnohcpLUOiIPQg.jpg"
-      },
-      {
-        "name": "José Luis García Pérez",
-        "id": 43323,
-        "character": "Fran",
-        "profile_path": "/pszEIxu2skaRTf45YshJ2PTEuTO.jpg"
-      },
-      {
-        "name": "Antonio 'Morris' Durán",
-        "id": 15599,
-        "character": "Jefe",
-        "profile_path": "/3D3wl7paKTwDqzq1dbvf6Y7MKU.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 80,
-        "name": "Crimen"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 2.8746,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.68,
-          "height": 2941,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/aUD3zcISx2XgrxZsncG0bo3NEdP.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6lgoxIgsjFKdaqQku27CSO28xmB.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.68,
-          "height": 2942,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/tlzK9lRTIoBpIraBBAkAnDncQ1k.jpg",
-          "vote_average": 0.0,
-          "vote_count": 1,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-03-01 10:03:52"
+    "última_actualización": "2026-03-01 22:02:55"
   },
   {
     "id": 1641751,
@@ -1516,7 +1516,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:52"
+    "última_actualización": "2026-03-01 22:02:55"
   },
   {
     "id": 1465685,
@@ -1606,7 +1606,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:52"
+    "última_actualización": "2026-03-01 22:02:55"
   },
   {
     "id": 1570940,
@@ -1668,7 +1668,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:52"
+    "última_actualización": "2026-03-01 22:02:56"
   },
   {
     "id": 1263012,
@@ -1732,7 +1732,7 @@
       }
     ],
     "popularidad": 33.0084,
-    "puntuación": 6.63,
+    "puntuación": 6.6,
     "votos": 50,
     "adulto": false,
     "video": false,
@@ -1823,7 +1823,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:50"
+    "última_actualización": "2026-03-01 22:02:53"
   },
   {
     "id": 1401281,
@@ -1992,7 +1992,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:50"
+    "última_actualización": "2026-03-01 22:02:53"
   },
   {
     "id": 1217584,
@@ -2072,7 +2072,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:51"
+    "última_actualización": "2026-03-01 22:02:54"
   },
   {
     "id": 1290424,
@@ -2227,7 +2227,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:51"
+    "última_actualización": "2026-03-01 22:02:54"
   },
   {
     "id": 1634018,
@@ -2294,7 +2294,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-03-01 10:03:53"
+    "última_actualización": "2026-03-01 22:02:55"
   },
   {
     "id": 1641445,
@@ -2369,7 +2369,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:53"
+    "última_actualización": "2026-03-01 22:02:56"
   },
   {
     "id": 687163,
@@ -2552,7 +2552,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:50"
+    "última_actualización": "2026-03-01 22:02:53"
   },
   {
     "id": 1092936,
@@ -2691,156 +2691,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:51"
-  },
-  {
-    "id": 1437198,
-    "tmdb_id": 1437198,
-    "título": "Tafiti - Ab durch die Wüste",
-    "título_original": "Tafiti - Ab durch die Wüste",
-    "sinopsis": "",
-    "poster_path": "/lLJgzLhKjUjGVIfY6MTyCJQzD9t.jpg",
-    "poster_local": "imagenes_estrenos/Tafiti___Ab_durch_die_W_ste_lLJgzLhKjUjGVIfY6MTyCJQzD9t.jpg",
-    "backdrop_path": "/lboPYPg7fj4YltvOWmj4sShnweh.jpg",
-    "backdrop_local": "imagenes_estrenos/Tafiti___Ab_durch_die_W_ste_backdrop_lboPYPg7fj4YltvOWmj4sShnweh.jpg",
-    "fecha_estreno": "2026-03-20T00:00:00.000Z",
-    "duración": "82 min",
-    "director": "Nina Wels",
-    "directores": [
-      {
-        "name": "Nina Wels",
-        "id": 1206119
-      }
-    ],
-    "actores": [
-      {
-        "name": "Cosima Henman",
-        "id": 1324043,
-        "character": "Tafiti (voice)",
-        "profile_path": "/3idZ7c2uNN6wiqdA8QuLUq6oK4k.jpg"
-      },
-      {
-        "name": "Steve Hudson",
-        "id": 5885185,
-        "character": "Bristles(voice)",
-        "profile_path": null
-      },
-      {
-        "name": "Bürger Lars Dietrich",
-        "id": 120687,
-        "character": "Pinsel (voice)",
-        "profile_path": "/dK7iAQkWk2MQr1NbWPdCkHFspGg.jpg"
-      },
-      {
-        "name": "Thomas Schmuckert",
-        "id": 1672534,
-        "character": "Opa (voice)",
-        "profile_path": "/gvLiykB3DKWNUDLWlveUIn1hgyC.jpg"
-      },
-      {
-        "name": "Dela Dabulamanzi",
-        "id": 2209501,
-        "character": "Oma (voice)",
-        "profile_path": "/bMft4GCc7wuZy6J541WriyQRhmv.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 12,
-        "name": "Aventura"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 0.909,
-    "puntuación": 7.9,
-    "votos": 4,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/lboPYPg7fj4YltvOWmj4sShnweh.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/uSpnZfWdxfBiIJ3IcwzRrYiRMuP.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/cLRoDn8PfiLqe0ymi7Hj86JNwbE.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/1pkUprVpeMeRNYjnKKj2KNg613r.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/3hBhcB3HJXh7pguWQUFkv27J7ZJ.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.7,
-          "height": 2560,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6me8TtmoYM3kmqv146u39GeESlB.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1792
-        },
-        {
-          "aspect_ratio": 0.701,
-          "height": 1540,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ayHln1wiBTwYKQkI2fefbM3AHJ2.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1080
-        }
-      ]
-    },
-    "última_actualización": "2026-03-01 10:03:51"
+    "última_actualización": "2026-03-01 22:02:54"
   },
   {
     "id": 1088548,
@@ -3005,7 +2856,156 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:52"
+    "última_actualización": "2026-03-01 22:02:54"
+  },
+  {
+    "id": 1437198,
+    "tmdb_id": 1437198,
+    "título": "Tafiti - Ab durch die Wüste",
+    "título_original": "Tafiti - Ab durch die Wüste",
+    "sinopsis": "",
+    "poster_path": "/lLJgzLhKjUjGVIfY6MTyCJQzD9t.jpg",
+    "poster_local": "imagenes_estrenos/Tafiti___Ab_durch_die_W_ste_lLJgzLhKjUjGVIfY6MTyCJQzD9t.jpg",
+    "backdrop_path": "/lboPYPg7fj4YltvOWmj4sShnweh.jpg",
+    "backdrop_local": "imagenes_estrenos/Tafiti___Ab_durch_die_W_ste_backdrop_lboPYPg7fj4YltvOWmj4sShnweh.jpg",
+    "fecha_estreno": "2026-03-20T00:00:00.000Z",
+    "duración": "82 min",
+    "director": "Nina Wels",
+    "directores": [
+      {
+        "name": "Nina Wels",
+        "id": 1206119
+      }
+    ],
+    "actores": [
+      {
+        "name": "Cosima Henman",
+        "id": 1324043,
+        "character": "Tafiti (voice)",
+        "profile_path": "/3idZ7c2uNN6wiqdA8QuLUq6oK4k.jpg"
+      },
+      {
+        "name": "Steve Hudson",
+        "id": 5885185,
+        "character": "Bristles(voice)",
+        "profile_path": null
+      },
+      {
+        "name": "Bürger Lars Dietrich",
+        "id": 120687,
+        "character": "Pinsel (voice)",
+        "profile_path": "/dK7iAQkWk2MQr1NbWPdCkHFspGg.jpg"
+      },
+      {
+        "name": "Thomas Schmuckert",
+        "id": 1672534,
+        "character": "Opa (voice)",
+        "profile_path": "/gvLiykB3DKWNUDLWlveUIn1hgyC.jpg"
+      },
+      {
+        "name": "Dela Dabulamanzi",
+        "id": 2209501,
+        "character": "Oma (voice)",
+        "profile_path": "/bMft4GCc7wuZy6J541WriyQRhmv.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 0.909,
+    "puntuación": 7.9,
+    "votos": 4,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/lboPYPg7fj4YltvOWmj4sShnweh.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/uSpnZfWdxfBiIJ3IcwzRrYiRMuP.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/cLRoDn8PfiLqe0ymi7Hj86JNwbE.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/1pkUprVpeMeRNYjnKKj2KNg613r.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3hBhcB3HJXh7pguWQUFkv27J7ZJ.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 2560,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6me8TtmoYM3kmqv146u39GeESlB.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1792
+        },
+        {
+          "aspect_ratio": 0.701,
+          "height": 1540,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ayHln1wiBTwYKQkI2fefbM3AHJ2.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1080
+        }
+      ]
+    },
+    "última_actualización": "2026-03-01 22:02:55"
   },
   {
     "id": 1359024,
@@ -3100,7 +3100,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:52"
+    "última_actualización": "2026-03-01 22:02:55"
   },
   {
     "id": 1193501,
@@ -3378,6 +3378,6 @@
         }
       ]
     },
-    "última_actualización": "2026-03-01 10:03:52"
+    "última_actualización": "2026-03-01 22:02:55"
   }
 ]
