@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>API de Carteleras de Cine - Navarra</title>
+    <meta charset="utf-8">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        .endpoint { background: #f5f5f5; padding: 10px; margin: 10px 0; border-radius: 5px; }
+        code { background: #e0e0e0; padding: 2px 5px; border-radius: 3px; }
+    </style>
+</head>
+<body>
+    <h1>🎬 API de Carteleras de Cine - Navarra</h1>
+    <p>Datos actualizados automáticamente cada 4 horas</p>
+    
+    <h2>📋 Endpoints disponibles:</h2>
+    
+    <div class="endpoint">
+        <h3>🏛️ Filmoteca de Navarra</h3>
+        <code>GET /peliculas_filmoteca.json</code>
+        <p>Películas de la Filmoteca de Navarra con sesiones VOSE</p>
+    </div>
+    
+    <div class="endpoint">
+        <h3>🎭 Yelmo Cines</h3>
+        <code>GET /peliculas_filmaffinity.json</code>
+        <p>Cartelera de Yelmo Cines en Navarra (solo VOSE)</p>
+    </div>
+    
+    <div class="endpoint">
+        <h3>🏛️ Golem Cines</h3>
+        <code>GET /peliculas_vose.json</code>
+        <p>Cartelera de cines Golem (solo VOSE)</p>
+    </div>
+    
+    <div class="endpoint">
+        <h3>🎬 Próximos Estrenos</h3>
+        <code>GET /proximos_estrenos.json</code>
+        <p>Próximos estrenos en España (actualizado 2 veces al día)</p>
+    </div>
+    
+    <div class="endpoint">
+        <h3>📝 Críticas de Cine</h3>
+        <code>GET /index.json</code>
+        <p>Índice de críticas de películas de Ghost in the Blog</p>
+    </div>
+    
+    <h2>🔧 Uso</h2>
+    <p>Todos los endpoints devuelven datos en formato JSON. Ejemplo:</p>
+    <pre>
+fetch('https://tu-usuario.github.io/tu-repo/peliculas_filmoteca.json')
+  .then(response => response.json())
+  .then(data => console.log(data));
+    </pre>
+    
+    <p><small>Última actualización: Mon Mar  2 00:25:44 UTC 2026</small></p>
+</body>
+</html>
