@@ -1,0 +1,37 @@
+2026-03-02 20:14:58,091 - INFO - Iniciando proceso de scraping
+2026-03-02 20:14:58,093 - INFO - Posts existentes encontrados: 2515
+2026-03-02 20:14:58,093 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-03-02 20:14:59,548 - INFO - Se encontraron 10 posts
+2026-03-02 20:14:59,549 - INFO - Comenzando extracción de información del post
+2026-03-02 20:14:59,550 - INFO - Título del post: LOS GOYA 2026
+2026-03-02 20:14:59,550 - INFO - Fecha del post: 2026-03-02T18:17:03+01:00
+2026-03-02 20:14:59,550 - WARNING - No se pudo extraer director del título: LOS GOYA 2026
+2026-03-02 20:14:59,550 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/03/los-goya-2026.html
+2026-03-02 20:15:01,185 - WARNING - No se encontró 'Título Original' en el contenido
+2026-03-02 20:15:01,185 - INFO - Usando contenido completo como respaldo
+2026-03-02 20:15:01,187 - INFO - Guardando post en: posts/LOS_GOYA_2026_2026-03-02.json
+2026-03-02 20:15:01,187 - INFO - Post guardado exitosamente
+2026-03-02 20:15:01,187 - INFO - Actualizando índice de películas
+2026-03-02 20:15:01,187 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-03-02 20:15:01,192 - INFO - Índice existente cargado con 2615 películas
+2026-03-02 20:15:01,208 - INFO - Película agregada al índice: LOS GOYA 2026
+2026-03-02 20:15:01,209 - INFO - Nuevo post guardado: LOS GOYA 2026
+2026-03-02 20:15:01,209 - INFO - Comenzando extracción de información del post
+2026-03-02 20:15:01,209 - INFO - Post ya existente, saltando: LITTLE AMÉLIE de Mailys Vallade y Liane-Cho Han Jin Kuang
+2026-03-02 20:15:01,209 - INFO - Comenzando extracción de información del post
+2026-03-02 20:15:01,209 - INFO - Post ya existente, saltando: LA MALDICIÓN DE SHELBY OAKS de Chris Stuckmann
+2026-03-02 20:15:01,209 - INFO - Comenzando extracción de información del post
+2026-03-02 20:15:01,209 - INFO - Post ya existente, saltando: SIN CONEXIÓN de Bradley Cooper
+2026-03-02 20:15:01,210 - INFO - Comenzando extracción de información del post
+2026-03-02 20:15:01,210 - INFO - Post ya existente, saltando: EL AGENTE SECRETO de Kleber Mendonça Filho
+2026-03-02 20:15:01,210 - INFO - Comenzando extracción de información del post
+2026-03-02 20:15:01,210 - INFO - Post ya existente, saltando: CUMBRES BORRASCOSAS de Emerald Fennell
+2026-03-02 20:15:01,210 - INFO - Comenzando extracción de información del post
+2026-03-02 20:15:01,210 - INFO - Post ya existente, saltando: NO HAY OTRA OPCIÓN de Park Chan-wook
+2026-03-02 20:15:01,210 - INFO - Comenzando extracción de información del post
+2026-03-02 20:15:01,210 - INFO - Post ya existente, saltando: HISTORIAS DEL BUEN VALLE de José Luis Guerín
+2026-03-02 20:15:01,210 - INFO - Comenzando extracción de información del post
+2026-03-02 20:15:01,210 - INFO - Post ya existente, saltando: LA FIERA de Salvador Calvo
+2026-03-02 20:15:01,210 - INFO - Comenzando extracción de información del post
+2026-03-02 20:15:01,211 - INFO - Post ya existente, saltando: TRES ADIOSES de Isabel Coixet
+2026-03-02 20:15:01,211 - INFO - Proceso completado. Posts nuevos guardados: 1
