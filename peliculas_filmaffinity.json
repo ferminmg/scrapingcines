@@ -1,49 +1,5 @@
 [
     {
-        "título": "Scarlet",
-        "cartel": "imagenes_filmaffinity/tmdb_scarlet.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-03-03",
-                "hora": "18:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26901"
-            },
-            {
-                "fecha": "2026-03-04",
-                "hora": "18:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26882"
-            },
-            {
-                "fecha": "2026-03-05",
-                "hora": "18:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26920"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "細田守",
-        "duración": "112 min",
-        "actores": "芦田愛菜, 岡田将生, 松重豊, 吉田鋼太郎, 役所広司",
-        "sinopsis": "",
-        "año": "2025"
-    },
-    {
-        "título": "Scream 7",
-        "cartel": "imagenes_filmaffinity/tmdb_scream-7.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-03-03",
-                "hora": "19:40",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26279"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Kevin Williamson",
-        "duración": "114 min",
-        "actores": "Neve Campbell, Courteney Cox, Isabel May, Jasmin Savoy Brown, Mason Gooding",
-        "sinopsis": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
-        "año": "2026"
-    },
-    {
         "título": "EPiC: Elvis Presley in Concert",
         "cartel": "imagenes_filmaffinity/tmdb_epic-elvis-presley-in-concert.jpg",
         "horarios": [
@@ -71,21 +27,26 @@
         "año": "2026"
     },
     {
-        "título": "Cumbres borrascosas",
-        "cartel": "imagenes_filmaffinity/tmdb_cumbres-borrascosas.jpg",
+        "título": "Scarlet",
+        "cartel": "imagenes_filmaffinity/tmdb_scarlet.jpg",
         "horarios": [
             {
-                "fecha": "2026-03-03",
-                "hora": "19:45",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26900"
+                "fecha": "2026-03-04",
+                "hora": "18:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26882"
+            },
+            {
+                "fecha": "2026-03-05",
+                "hora": "18:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=26920"
             }
         ],
         "cine": "Yelmo Itaroa",
-        "director": "Emerald Fennell",
-        "duración": "136 min",
-        "actores": "Margot Robbie, Jacob Elordi, Hong Chau, Alison Oliver, Shazad Latif",
-        "sinopsis": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, “CUMBRES BORRASCOSAS” de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
-        "año": "2026"
+        "director": "細田守",
+        "duración": "112 min",
+        "actores": "芦田愛菜, 岡田将生, 松重豊, 吉田鋼太郎, 役所広司",
+        "sinopsis": "",
+        "año": "2025"
     },
     {
         "título": "Hoppers",
