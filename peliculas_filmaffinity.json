@@ -104,6 +104,11 @@
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27130"
             },
             {
+                "fecha": "2026-03-22",
+                "hora": "18:30",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27131"
+            },
+            {
                 "fecha": "2026-03-25",
                 "hora": "18:30",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27132"
@@ -115,5 +120,32 @@
         "actores": null,
         "sinopsis": null,
         "año": null
+    },
+    {
+        "título": "Hannah Montana: La Película",
+        "cartel": "imagenes_filmaffinity/tmdb_hannah-montana-la-pelicula.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-27",
+                "hora": "18:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27177"
+            },
+            {
+                "fecha": "2026-03-28",
+                "hora": "18:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27178"
+            },
+            {
+                "fecha": "2026-03-29",
+                "hora": "18:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27179"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Peter Chelsom",
+        "duración": "102 min",
+        "actores": "Miley Cyrus, Billy Ray Cyrus, Emily Osment, Margo Martindale, Jason Earles",
+        "sinopsis": "Miley Stewart se las arregla como puede para compaginar el colegio, sus amigos y su vida secreta como estrella del pop; pero su enorme popularidad amenaza con invadir toda su vida, y ella parece aceptarlo. Así que cuando la popularidad de Hannah comienza a ser algo parecido a una carga, su padre decide llevarla a Crowley Corners, en Tennessee, para darle una dosis de realidad y reflexionar sobre lo que realmente importa en la vida. Allí comienza una aventura llena de diversión, risas y romance que ni la propia Hannah Montana podría imaginar.",
+        "año": "2009"
     }
 ]
