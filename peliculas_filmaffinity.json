@@ -1,22 +1,5 @@
 [
     {
-        "título": "EPiC: Elvis Presley in Concert",
-        "cartel": "imagenes_filmaffinity/tmdb_epic-elvis-presley-in-concert.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-03-09",
-                "hora": "22:35",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27066"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Baz Luhrmann",
-        "duración": "98 min",
-        "actores": "Elvis Presley, James Burton, John Wilkinson, Charlie Hodge, Jerry Scheff",
-        "sinopsis": "Rescata la figura del gran Elvis Presley, con imágenes de archivo y grabaciones nunca vistas del Rey del rock.",
-        "año": "2026"
-    },
-    {
         "título": "Hoppers",
         "cartel": "imagenes_filmaffinity/tmdb_hoppers.jpg",
         "horarios": [
@@ -147,5 +130,52 @@
         "actores": "Miley Cyrus, Billy Ray Cyrus, Emily Osment, Margo Martindale, Jason Earles",
         "sinopsis": "Miley Stewart se las arregla como puede para compaginar el colegio, sus amigos y su vida secreta como estrella del pop; pero su enorme popularidad amenaza con invadir toda su vida, y ella parece aceptarlo. Así que cuando la popularidad de Hannah comienza a ser algo parecido a una carga, su padre decide llevarla a Crowley Corners, en Tennessee, para darle una dosis de realidad y reflexionar sobre lo que realmente importa en la vida. Allí comienza una aventura llena de diversión, risas y romance que ni la propia Hannah Montana podría imaginar.",
         "año": "2009"
+    },
+    {
+        "título": "Super Mario Galaxy: La película",
+        "cartel": "imagenes_filmaffinity/tmdb_super-mario-galaxy-la-pelicula.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-04-01",
+                "hora": "21:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27252"
+            },
+            {
+                "fecha": "2026-04-02",
+                "hora": "21:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27253"
+            },
+            {
+                "fecha": "2026-04-03",
+                "hora": "21:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27254"
+            },
+            {
+                "fecha": "2026-04-04",
+                "hora": "21:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27255"
+            },
+            {
+                "fecha": "2026-04-05",
+                "hora": "21:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27256"
+            },
+            {
+                "fecha": "2026-04-06",
+                "hora": "21:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27257"
+            },
+            {
+                "fecha": "2026-04-07",
+                "hora": "20:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27208"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Aaron Horvath, Michael Jelenic",
+        "duración": "98 min",
+        "actores": "Chris Pratt, Anya Taylor-Joy, Charlie Day, Jack Black, Benny Safdie",
+        "sinopsis": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
+        "año": "2026"
     }
 ]
