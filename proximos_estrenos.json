@@ -56,7 +56,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 6.5075,
+    "popularidad": 5.6438,
     "puntuación": 7.447,
     "votos": 290,
     "adulto": false,
@@ -138,182 +138,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:22"
-  },
-  {
-    "id": 1624955,
-    "tmdb_id": 1624955,
-    "título": "Cuántica Rave",
-    "título_original": "Cuántica Rave",
-    "sinopsis": "En un universo decadente, los jóvenes buscan escapar mediante psicodélicos sónicos, personajes robóticos o uniéndose a una rave mítica más allá del fondo cósmico de microondas. Luchan por alcanzar esta fiesta que podría redefinir su realidad.",
-    "poster_path": "/wYB94bAzmq0gHsBeEqOQK6CJMbY.jpg",
-    "poster_local": "imagenes_estrenos/Cu_ntica_Rave_wYB94bAzmq0gHsBeEqOQK6CJMbY.jpg",
-    "backdrop_path": "/atb6JINecdY3y34W01ePGHblDzx.jpg",
-    "backdrop_local": "imagenes_estrenos/Cu_ntica_Rave_backdrop_atb6JINecdY3y34W01ePGHblDzx.jpg",
-    "fecha_estreno": "2026-03-12",
-    "duración": "90 min",
-    "director": "Paco Campano",
-    "directores": [
-      {
-        "name": "Paco Campano",
-        "id": 1365747
-      }
-    ],
-    "actores": [
-      {
-        "name": "Javier Botet",
-        "id": 111090,
-        "character": "",
-        "profile_path": "/nuVbt1oreUUPPR0MhKKL7y6i9Dt.jpg"
-      },
-      {
-        "name": "África de la Cruz",
-        "id": 3015019,
-        "character": "",
-        "profile_path": "/zhfa2GNvdqMULH4sVC5M4yH4pPn.jpg"
-      },
-      {
-        "name": "Antonio Dechent",
-        "id": 6535,
-        "character": "",
-        "profile_path": "/3aZ2VQrsGmZl5QKlS5Z4kth5ch8.jpg"
-      },
-      {
-        "name": "Numa Paredes",
-        "id": 3869167,
-        "character": "",
-        "profile_path": "/g9ccZ4j2hEFeand2aW0a2pFGgiz.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 878,
-        "name": "Ciencia ficción"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 27,
-        "name": "Terror"
-      }
-    ],
-    "popularidad": 0.0621,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.782,
-          "height": 864,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/atb6JINecdY3y34W01ePGHblDzx.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
-        },
-        {
-          "aspect_ratio": 1.782,
-          "height": 864,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/vOiIjtyJZlrhnSLqUK7sIrU2YB6.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
-        },
-        {
-          "aspect_ratio": 1.782,
-          "height": 864,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/tGr4zZqZ7VvmOvZG3fQ0swYN2z4.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wYB94bAzmq0gHsBeEqOQK6CJMbY.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-03-10 22:04:00"
-  },
-  {
-    "id": 1570940,
-    "tmdb_id": 1570940,
-    "título": "Correspondencias afásicas",
-    "título_original": "Correspondencias afásicas",
-    "sinopsis": "Un ensayo audiovisual construido a partir de metraje de Super 8 filmado en las pruebas de cámara para el cortometraje ‘La Trampa’. A través de gestos, luz y silencios, reflexiona sobre lo que la imagen revela y lo que deja sin decir.",
-    "poster_path": "/dx6cGnIJGsYdFsbBaStMVuqjbyM.jpg",
-    "poster_local": "imagenes_estrenos/Correspondencias_af_sicas_dx6cGnIJGsYdFsbBaStMVuqjbyM.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-03-12",
-    "duración": "3 min",
-    "director": "Sergi Nicolau",
-    "directores": [
-      {
-        "name": "Sergi Nicolau",
-        "id": 5281246
-      }
-    ],
-    "actores": [
-      {
-        "name": "Sergi Nicolau",
-        "id": 5281246,
-        "character": "Himself",
-        "profile_path": null
-      },
-      {
-        "name": "Juanan Travé",
-        "id": 4617537,
-        "character": "Himself",
-        "profile_path": "/X4X3FTcj31UZu0WZCDkUHvTWqV.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.0071,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.707,
-          "height": 2245,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/dx6cGnIJGsYdFsbBaStMVuqjbyM.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1587
-        }
-      ]
-    },
-    "última_actualización": "2026-03-10 22:04:00"
+    "última_actualización": "2026-03-13 10:08:39"
   },
   {
     "id": 1648532,
@@ -1100,7 +925,7 @@
       }
     ],
     "géneros": [],
-    "popularidad": 0.0327,
+    "popularidad": 0.0478,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1121,7 +946,79 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:25"
+    "última_actualización": "2026-03-13 10:08:41"
+  },
+  {
+    "id": 1436221,
+    "tmdb_id": 1436221,
+    "título": "Les imatges arribaren a temps",
+    "título_original": "Les imatges arribaren a temps",
+    "sinopsis": "Los últimos desastres naturales han tenido un impacto emocional en el cineasta Jaume Carrió, quien reflexiona sobre la pérdida en este ensayo que analiza la forma en que tiene la sociedad de capturar los recuerdos.",
+    "poster_path": "/e2YLevbclxcWGkMjADrCNyawA3a.jpg",
+    "poster_local": "imagenes_estrenos/Les_imatges_arribaren_a_temps_e2YLevbclxcWGkMjADrCNyawA3a.jpg",
+    "backdrop_path": "/xrV9MkUxXDWQ6JMd5wDf7UsxVqA.jpg",
+    "backdrop_local": "imagenes_estrenos/Les_imatges_arribaren_a_temps_backdrop_xrV9MkUxXDWQ6JMd5wDf7UsxVqA.jpg",
+    "fecha_estreno": "2026-03-19T00:00:00.000Z",
+    "duración": "6 min",
+    "director": "Jaume Carrió",
+    "directores": [
+      {
+        "name": "Jaume Carrió",
+        "id": 1918821
+      }
+    ],
+    "actores": [
+      {
+        "name": "Jaume Carrió",
+        "id": 1918821,
+        "character": "Self",
+        "profile_path": "/jAacApb7D8768iPU5UJrb1hmlKe.jpg"
+      },
+      {
+        "name": "Joan Bover",
+        "id": 2025422,
+        "character": "Self",
+        "profile_path": "/t3AN9yeATBIgnkvqrhFW2IS4ZB6.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0264,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xrV9MkUxXDWQ6JMd5wDf7UsxVqA.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/hBKcw7DgPjdh68kopBzYzXMeZSg.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-03-13 10:08:41"
   },
   {
     "id": 687163,
@@ -1131,7 +1028,7 @@
     "sinopsis": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
     "poster_path": "/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
     "poster_local": "imagenes_estrenos/Proyecto_salvaci_n_7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-    "backdrop_path": "/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+    "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
     "backdrop_local": "imagenes_estrenos/Proyecto_salvaci_n_backdrop_o2xLxY1LdwBMsrGD9hjIaOrIQm6.jpg",
     "fecha_estreno": "2026-03-20T00:00:00.000Z",
     "duración": "157 min",
@@ -1192,7 +1089,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 61.9564,
+    "popularidad": 70.7127,
     "puntuación": 9.0,
     "votos": 8,
     "adulto": false,
@@ -1205,9 +1102,9 @@
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-          "vote_average": 10.0,
-          "vote_count": 4,
+          "file_path": "/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+          "vote_average": 7.542,
+          "vote_count": 12,
           "width": 3840
         },
         {
@@ -1215,8 +1112,8 @@
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
-          "vote_average": 6.312,
+          "file_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+          "vote_average": 5.25,
           "vote_count": 8,
           "width": 3840
         },
@@ -1226,8 +1123,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/o2xLxY1LdwBMsrGD9hjIaOrIQm6.jpg",
-          "vote_average": 5.024,
-          "vote_count": 21,
+          "vote_average": 4.458,
+          "vote_count": 24,
           "width": 1920
         },
         {
@@ -1304,7 +1201,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:22"
+    "última_actualización": "2026-03-13 10:08:38"
   },
   {
     "id": 1437198,
@@ -1371,7 +1268,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 3.1013,
+    "popularidad": 2.8113,
     "puntuación": 7.2,
     "votos": 6,
     "adulto": false,
@@ -1463,7 +1360,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:23"
+    "última_actualización": "2026-03-13 10:08:39"
   },
   {
     "id": 1092936,
@@ -1530,7 +1427,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 1.6572,
+    "popularidad": 2.7678,
     "puntuación": 7.2,
     "votos": 88,
     "adulto": false,
@@ -1602,7 +1499,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:23"
+    "última_actualización": "2026-03-13 10:08:39"
   },
   {
     "id": 1088548,
@@ -1665,7 +1562,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 1.3487,
+    "popularidad": 1.209,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1767,7 +1664,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:24"
+    "última_actualización": "2026-03-13 10:08:40"
   },
   {
     "id": 1359024,
@@ -1830,7 +1727,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.0683,
+    "popularidad": 0.1055,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1862,7 +1759,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:25"
+    "última_actualización": "2026-03-13 10:08:40"
   },
   {
     "id": 1650195,
@@ -1921,7 +1818,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.0071,
+    "popularidad": 0.0379,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1963,7 +1860,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:26"
+    "última_actualización": "2026-03-13 10:08:41"
   },
   {
     "id": 1627151,
@@ -2026,7 +1923,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 0.0071,
+    "popularidad": 0.0614,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2058,7 +1955,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:26"
+    "última_actualización": "2026-03-13 10:08:41"
   },
   {
     "id": 1380415,
@@ -2117,7 +2014,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.9711,
+    "popularidad": 2.2771,
     "puntuación": 6.667,
     "votos": 39,
     "adulto": false,
@@ -2219,7 +2116,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:23"
+    "última_actualización": "2026-03-13 10:08:39"
   },
   {
     "id": 1290821,
@@ -2229,7 +2126,7 @@
     "sinopsis": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
     "poster_path": "/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg",
     "poster_local": "imagenes_estrenos/Shelter__El_Protector_j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg",
-    "backdrop_path": "/uCGzI1EtQWXG5yRPB5PSyOdFNcC.jpg",
+    "backdrop_path": "/u6YE4rlEWOiYoqhPJuNvt5GHxgu.jpg",
     "backdrop_local": "imagenes_estrenos/Shelter__El_Protector_backdrop_6YjnTRBz704LF1uJ3ZC4wsS9T8r.jpg",
     "fecha_estreno": "2026-03-27T00:00:00.000Z",
     "duración": "107 min",
@@ -2286,9 +2183,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 309.9837,
-    "puntuación": 6.67,
-    "votos": 274,
+    "popularidad": 298.361,
+    "puntuación": 6.643,
+    "votos": 279,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2296,52 +2193,52 @@
       "backdrops": [
         {
           "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/u6YE4rlEWOiYoqhPJuNvt5GHxgu.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/uCGzI1EtQWXG5yRPB5PSyOdFNcC.jpg",
-          "vote_average": 0.958,
+          "file_path": "/wsQPh8gz0sK3C3mAyaXcPSSOWUZ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6YjnTRBz704LF1uJ3ZC4wsS9T8r.jpg",
+          "vote_average": 2.542,
           "vote_count": 4,
           "width": 3840
         },
         {
           "aspect_ratio": 1.778,
-          "height": 2160,
+          "height": 2081,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/6ciBvzQRZmyvMoD4vowlMOH9Zkg.jpg",
-          "vote_average": 0.166,
+          "file_path": "/ovEC9AOWAxSfm5iBQp7wzeNegAQ.jpg",
+          "vote_average": 1.75,
           "vote_count": 2,
-          "width": 3840
+          "width": 3700
         },
         {
           "aspect_ratio": 1.778,
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/qfCZiuQRsgicqv8aR3gl94FRXYP.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/zthwLGvWq5lfRix3n3K0EvbyGC8.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/9RC1mKL0UAqwjmGb3JjhR8atIcK.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
+          "file_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+          "vote_average": 1.75,
+          "vote_count": 5,
           "width": 3840
         }
       ],
@@ -2378,7 +2275,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:21"
+    "última_actualización": "2026-03-13 10:08:38"
   },
   {
     "id": 1193501,
@@ -2441,9 +2338,9 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 149.9649,
-    "puntuación": 6.125,
-    "votos": 124,
+    "popularidad": 147.7604,
+    "puntuación": 6.128,
+    "votos": 129,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2533,7 +2430,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:21"
+    "última_actualización": "2026-03-13 10:08:38"
   },
   {
     "id": 1292695,
@@ -2600,7 +2497,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 11.075,
+    "popularidad": 11.1839,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2682,7 +2579,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:22"
+    "última_actualización": "2026-03-13 10:08:39"
   },
   {
     "id": 1294698,
@@ -2745,7 +2642,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.7415,
+    "popularidad": 1.9773,
     "puntuación": 7.0,
     "votos": 107,
     "adulto": false,
@@ -2827,7 +2724,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:23"
+    "última_actualización": "2026-03-13 10:08:39"
   },
   {
     "id": 1021643,
@@ -2890,7 +2787,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 1.1485,
+    "popularidad": 1.244,
     "puntuación": 6.5,
     "votos": 77,
     "adulto": false,
@@ -2972,7 +2869,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:24"
+    "última_actualización": "2026-03-13 10:08:40"
   },
   {
     "id": 1376831,
@@ -3035,7 +2932,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.3801,
+    "popularidad": 0.3479,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3107,7 +3004,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:24"
+    "última_actualización": "2026-03-13 10:08:40"
   },
   {
     "id": 1226863,
@@ -3186,7 +3083,7 @@
         "name": "Animación"
       }
     ],
-    "popularidad": 45.7798,
+    "popularidad": 42.9758,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3298,7 +3195,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:22"
+    "última_actualización": "2026-03-13 10:08:38"
   },
   {
     "id": 878608,
@@ -3365,7 +3262,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 15.1427,
+    "popularidad": 13.6478,
     "puntuación": 6.7,
     "votos": 44,
     "adulto": false,
@@ -3457,7 +3354,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:22"
+    "última_actualización": "2026-03-13 10:08:38"
   },
   {
     "id": 1266127,
@@ -3524,7 +3421,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 14.4604,
+    "popularidad": 13.9272,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3616,7 +3513,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:22"
+    "última_actualización": "2026-03-13 10:08:38"
   },
   {
     "id": 13494,
@@ -3683,9 +3580,9 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 12.931,
-    "puntuación": 5.676,
-    "votos": 202,
+    "popularidad": 12.3231,
+    "puntuación": 5.672,
+    "votos": 203,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3775,7 +3672,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:22"
+    "última_actualización": "2026-03-13 10:08:39"
   },
   {
     "id": 1399462,
@@ -3834,9 +3731,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 5.8341,
-    "puntuación": 6.893,
-    "votos": 14,
+    "popularidad": 5.7462,
+    "puntuación": 6.8,
+    "votos": 16,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3906,7 +3803,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:23"
+    "última_actualización": "2026-03-13 10:08:39"
   },
   {
     "id": 1480608,
@@ -3963,7 +3860,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 2.5824,
+    "popularidad": 1.9259,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4015,7 +3912,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:23"
+    "última_actualización": "2026-03-13 10:08:39"
   },
   {
     "id": 1577869,
@@ -4068,7 +3965,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.1035,
+    "popularidad": 0.1465,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4089,7 +3986,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-03-12 22:04:24"
+    "última_actualización": "2026-03-13 10:08:40"
   },
   {
     "id": 1638249,
@@ -4143,7 +4040,7 @@
       }
     ],
     "géneros": [],
-    "popularidad": 0.0214,
+    "popularidad": 0.0143,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4164,7 +4061,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:25"
+    "última_actualización": "2026-03-13 10:08:41"
   },
   {
     "id": 1167307,
@@ -4235,9 +4132,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 61.7284,
-    "puntuación": 8.1,
-    "votos": 101,
+    "popularidad": 59.4311,
+    "puntuación": 8.083,
+    "votos": 102,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -4317,7 +4214,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:22"
+    "última_actualización": "2026-03-13 10:08:38"
   },
   {
     "id": 1356956,
@@ -4374,7 +4271,7 @@
         "name": "Música"
       }
     ],
-    "popularidad": 0.5646,
+    "popularidad": 0.5644,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4384,7 +4281,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-03-12 22:04:24"
+    "última_actualización": "2026-03-13 10:08:40"
   },
   {
     "id": 1119449,
@@ -4451,9 +4348,9 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 83.8503,
-    "puntuación": 7.3,
-    "votos": 77,
+    "popularidad": 86.318,
+    "puntuación": 7.265,
+    "votos": 83,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -4522,16 +4419,6 @@
           "width": 2000
         },
         {
-          "aspect_ratio": 0.666,
-          "height": 1330,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/fNNIIo4xBeZsfgKo411I8Rr74dv.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 886
-        },
-        {
           "aspect_ratio": 0.667,
           "height": 3000,
           "iso_3166_1": null,
@@ -4543,7 +4430,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-12 22:04:21"
+    "última_actualización": "2026-03-13 10:08:38"
   },
   {
     "id": 1640655,
@@ -4618,7 +4505,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.0689,
+    "popularidad": 0.0818,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4628,7 +4515,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-03-12 22:04:24"
+    "última_actualización": "2026-03-13 10:08:40"
   },
   {
     "id": 1632334,
