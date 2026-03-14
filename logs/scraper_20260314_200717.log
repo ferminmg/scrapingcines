@@ -1,0 +1,55 @@
+2026-03-14 20:07:17,783 - INFO - Iniciando proceso de scraping
+2026-03-14 20:07:17,785 - INFO - Posts existentes encontrados: 2519
+2026-03-14 20:07:17,785 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-03-14 20:07:20,284 - INFO - Se encontraron 10 posts
+2026-03-14 20:07:20,285 - INFO - Comenzando extracción de información del post
+2026-03-14 20:07:20,286 - INFO - Título del post: ¡LA NOVIA! de Maggie Gyllenhaal
+2026-03-14 20:07:20,286 - INFO - Fecha del post: 2026-03-14T18:08:07+01:00
+2026-03-14 20:07:20,286 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/03/critica-de-la-novia-de-maggie-gyllenhaal.html
+2026-03-14 20:07:21,525 - INFO - Contenido extraído y estructurado (4384 caracteres)
+2026-03-14 20:07:21,527 - INFO - Guardando post en: posts/¡LA_NOVIA!_2026-03-14.json
+2026-03-14 20:07:21,527 - INFO - Post guardado exitosamente
+2026-03-14 20:07:21,527 - INFO - Actualizando índice de películas
+2026-03-14 20:07:21,527 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-03-14 20:07:21,531 - INFO - Índice existente cargado con 2618 películas
+2026-03-14 20:07:21,543 - INFO - Película agregada al índice: ¡LA NOVIA!
+2026-03-14 20:07:21,544 - INFO - Nuevo post guardado: ¡LA NOVIA! de Maggie Gyllenhaal
+2026-03-14 20:07:21,544 - INFO - Comenzando extracción de información del post
+2026-03-14 20:07:21,544 - INFO - Título del post: PILLION de Harry Lighton
+2026-03-14 20:07:21,544 - INFO - Fecha del post: 2026-03-14T18:07:49+01:00
+2026-03-14 20:07:21,544 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/03/critica-de-pillion-de-harry-lighton.html
+2026-03-14 20:07:22,768 - INFO - Contenido extraído y estructurado (2633 caracteres)
+2026-03-14 20:07:22,770 - INFO - Guardando post en: posts/PILLION_2026-03-14.json
+2026-03-14 20:07:22,770 - INFO - Post guardado exitosamente
+2026-03-14 20:07:22,770 - INFO - Actualizando índice de películas
+2026-03-14 20:07:22,770 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-03-14 20:07:22,774 - INFO - Índice existente cargado con 2619 películas
+2026-03-14 20:07:22,786 - INFO - Película agregada al índice: PILLION
+2026-03-14 20:07:22,787 - INFO - Nuevo post guardado: PILLION de Harry Lighton
+2026-03-14 20:07:22,787 - INFO - Comenzando extracción de información del post
+2026-03-14 20:07:22,787 - INFO - Título del post: EL MAGO DEL KREMLIN de Olivier Assayas
+2026-03-14 20:07:22,787 - INFO - Fecha del post: 2026-03-14T18:07:32+01:00
+2026-03-14 20:07:22,787 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/03/critica-de-el-mago-del-kremlin-de-olivier-assayas.html
+2026-03-14 20:07:24,093 - INFO - Contenido extraído y estructurado (2576 caracteres)
+2026-03-14 20:07:24,094 - INFO - Guardando post en: posts/EL_MAGO_DEL_KREMLIN_2026-03-14.json
+2026-03-14 20:07:24,094 - INFO - Post guardado exitosamente
+2026-03-14 20:07:24,094 - INFO - Actualizando índice de películas
+2026-03-14 20:07:24,094 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-03-14 20:07:24,098 - INFO - Índice existente cargado con 2620 películas
+2026-03-14 20:07:24,110 - INFO - Película agregada al índice: EL MAGO DEL KREMLIN
+2026-03-14 20:07:24,110 - INFO - Nuevo post guardado: EL MAGO DEL KREMLIN de Olivier Assayas
+2026-03-14 20:07:24,110 - INFO - Comenzando extracción de información del post
+2026-03-14 20:07:24,110 - INFO - Post ya existente, saltando: EL ÚLTIMO VIKINGO de Anders Thomas Jensen
+2026-03-14 20:07:24,111 - INFO - Comenzando extracción de información del post
+2026-03-14 20:07:24,111 - INFO - Post ya existente, saltando: SCARLET de Mamoru Hosoda
+2026-03-14 20:07:24,111 - INFO - Comenzando extracción de información del post
+2026-03-14 20:07:24,111 - INFO - Post ya existente, saltando: SORRY BABY de Eva Victor
+2026-03-14 20:07:24,111 - INFO - Comenzando extracción de información del post
+2026-03-14 20:07:24,111 - INFO - Post ya existente, saltando: LOS GOYA 2026
+2026-03-14 20:07:24,111 - INFO - Comenzando extracción de información del post
+2026-03-14 20:07:24,111 - INFO - Post ya existente, saltando: LITTLE AMÉLIE de Mailys Vallade y Liane-Cho Han Jin Kuang
+2026-03-14 20:07:24,111 - INFO - Comenzando extracción de información del post
+2026-03-14 20:07:24,112 - INFO - Post ya existente, saltando: LA MALDICIÓN DE SHELBY OAKS de Chris Stuckmann
+2026-03-14 20:07:24,112 - INFO - Comenzando extracción de información del post
+2026-03-14 20:07:24,112 - INFO - Post ya existente, saltando: SIN CONEXIÓN de Bradley Cooper
+2026-03-14 20:07:24,112 - INFO - Proceso completado. Posts nuevos guardados: 3
