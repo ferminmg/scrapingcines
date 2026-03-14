@@ -57,7 +57,7 @@
       }
     ],
     "popularidad": 5.4071,
-    "puntuación": 7.447,
+    "puntuación": 7.4,
     "votos": 290,
     "adulto": false,
     "video": false,
@@ -70,8 +70,18 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/baIjN7xPyw2In1CuHACTgzcsF20.jpg",
-          "vote_average": 6.722,
-          "vote_count": 6,
+          "vote_average": 5.786,
+          "vote_count": 7,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/uwL3tcowB3YLdoLRBNQxvscUfzm.jpg",
+          "vote_average": 1.714,
+          "vote_count": 7,
           "width": 3840
         },
         {
@@ -82,16 +92,6 @@
           "file_path": "/rSG0XYZYyImip9cl0SybFMBC4Vd.jpg",
           "vote_average": 1.714,
           "vote_count": 7,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/uwL3tcowB3YLdoLRBNQxvscUfzm.jpg",
-          "vote_average": 1.444,
-          "vote_count": 6,
           "width": 3840
         },
         {
@@ -138,7 +138,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:50"
+    "última_actualización": "2026-03-14 22:04:11"
   },
   {
     "id": 1641445,
@@ -213,7 +213,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:52"
+    "última_actualización": "2026-03-14 22:04:15"
   },
   {
     "id": 1436221,
@@ -285,7 +285,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-03-14 10:04:53"
+    "última_actualización": "2026-03-14 22:04:14"
   },
   {
     "id": 687163,
@@ -324,6 +324,12 @@
         "profile_path": "/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
       },
       {
+        "name": "James Ortiz",
+        "id": 2096164,
+        "character": "Rocky (voice)",
+        "profile_path": null
+      },
+      {
         "name": "Lionel Boyce",
         "id": 2320708,
         "character": "Officer Steve Hatch",
@@ -334,12 +340,6 @@
         "id": 2131,
         "character": "Yáo Li-Jie",
         "profile_path": "/hpatUP6u74gkpDRmn9voNY9V43O.jpg"
-      },
-      {
-        "name": "Milana Vayntrub",
-        "id": 1454946,
-        "character": "Olesya Ilyukhina",
-        "profile_path": "/i5Cou9ExwTZvRRtl79V75CsI7oC.jpg"
       }
     ],
     "géneros": [
@@ -357,8 +357,8 @@
       }
     ],
     "popularidad": 71.6089,
-    "puntuación": 9.1,
-    "votos": 9,
+    "puntuación": 9.2,
+    "votos": 10,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -370,8 +370,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-          "vote_average": 6.546,
-          "vote_count": 11,
+          "vote_average": 6.834,
+          "vote_count": 12,
           "width": 3840
         },
         {
@@ -380,8 +380,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
-          "vote_average": 6.438,
-          "vote_count": 16,
+          "vote_average": 6.088,
+          "vote_count": 17,
           "width": 3840
         },
         {
@@ -390,8 +390,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/o2xLxY1LdwBMsrGD9hjIaOrIQm6.jpg",
-          "vote_average": 4.68,
-          "vote_count": 25,
+          "vote_average": 4.884,
+          "vote_count": 26,
           "width": 1920
         },
         {
@@ -468,7 +468,146 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:50"
+    "última_actualización": "2026-03-14 22:04:09"
+  },
+  {
+    "id": 1092936,
+    "tmdb_id": 1092936,
+    "título": "La valle dei sorrisi",
+    "título_original": "La valle dei sorrisi",
+    "sinopsis": "",
+    "poster_path": "/wZWBXIsX3QBXf94vzCSUqlZDp57.jpg",
+    "poster_local": "imagenes_estrenos/La_valle_dei_sorrisi_wZWBXIsX3QBXf94vzCSUqlZDp57.jpg",
+    "backdrop_path": "/wgtTXGLL6a4y1gNwgsdQajs6Kqq.jpg",
+    "backdrop_local": "imagenes_estrenos/La_valle_dei_sorrisi_backdrop_wgtTXGLL6a4y1gNwgsdQajs6Kqq.jpg",
+    "fecha_estreno": "2026-03-20T00:00:00.000Z",
+    "duración": "122 min",
+    "director": "Paolo Strippoli",
+    "directores": [
+      {
+        "name": "Paolo Strippoli",
+        "id": 2456774
+      }
+    ],
+    "actores": [
+      {
+        "name": "Michele Riondino",
+        "id": 124754,
+        "character": "Sergio Rossetti",
+        "profile_path": "/OZjGp2fNHWYkIVS2kaojMaKeKU.jpg"
+      },
+      {
+        "name": "Giulio Feltri",
+        "id": 4912829,
+        "character": "Matteo Corbin",
+        "profile_path": null
+      },
+      {
+        "name": "Paolo Pierobon",
+        "id": 482503,
+        "character": "Mauro Corbin",
+        "profile_path": "/uWizDMxorbCn5RoyRepn85Qt5Ll.jpg"
+      },
+      {
+        "name": "Romana Maggiora Vergano",
+        "id": 2635684,
+        "character": "Michela",
+        "profile_path": "/2tT5redcYdVbsgjd4kXXM4NspgU.jpg"
+      },
+      {
+        "name": "Sergio Romano",
+        "id": 1491567,
+        "character": "Pichler",
+        "profile_path": "/blEs4ebKnLEyz5CNGj2veITfNit.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 2.6425,
+    "puntuación": 7.2,
+    "votos": 88,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wgtTXGLL6a4y1gNwgsdQajs6Kqq.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xVZwtj9MlQmqElqBO6eXfiiIpko.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/2vhkbZGG6djuNuXrun0d9zQPB9O.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/75GG4WMg3p5xQAv95sCYXn3uLoH.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1440,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/yJOeJH8NcOk73q6bY4hbYlC3ybG.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 2560
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xnh8xlv4TQc95jxPeOKtbnMfkSW.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-03-14 22:04:11"
   },
   {
     "id": 1437198,
@@ -627,146 +766,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:51"
-  },
-  {
-    "id": 1092936,
-    "tmdb_id": 1092936,
-    "título": "La valle dei sorrisi",
-    "título_original": "La valle dei sorrisi",
-    "sinopsis": "",
-    "poster_path": "/wZWBXIsX3QBXf94vzCSUqlZDp57.jpg",
-    "poster_local": "imagenes_estrenos/La_valle_dei_sorrisi_wZWBXIsX3QBXf94vzCSUqlZDp57.jpg",
-    "backdrop_path": "/wgtTXGLL6a4y1gNwgsdQajs6Kqq.jpg",
-    "backdrop_local": "imagenes_estrenos/La_valle_dei_sorrisi_backdrop_wgtTXGLL6a4y1gNwgsdQajs6Kqq.jpg",
-    "fecha_estreno": "2026-03-20T00:00:00.000Z",
-    "duración": "122 min",
-    "director": "Paolo Strippoli",
-    "directores": [
-      {
-        "name": "Paolo Strippoli",
-        "id": 2456774
-      }
-    ],
-    "actores": [
-      {
-        "name": "Michele Riondino",
-        "id": 124754,
-        "character": "Sergio Rossetti",
-        "profile_path": "/OZjGp2fNHWYkIVS2kaojMaKeKU.jpg"
-      },
-      {
-        "name": "Giulio Feltri",
-        "id": 4912829,
-        "character": "Matteo Corbin",
-        "profile_path": null
-      },
-      {
-        "name": "Paolo Pierobon",
-        "id": 482503,
-        "character": "Mauro Corbin",
-        "profile_path": "/uWizDMxorbCn5RoyRepn85Qt5Ll.jpg"
-      },
-      {
-        "name": "Romana Maggiora Vergano",
-        "id": 2635684,
-        "character": "Michela",
-        "profile_path": "/2tT5redcYdVbsgjd4kXXM4NspgU.jpg"
-      },
-      {
-        "name": "Sergio Romano",
-        "id": 1491567,
-        "character": "Pichler",
-        "profile_path": "/blEs4ebKnLEyz5CNGj2veITfNit.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 2.6425,
-    "puntuación": 7.2,
-    "votos": 88,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wgtTXGLL6a4y1gNwgsdQajs6Kqq.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xVZwtj9MlQmqElqBO6eXfiiIpko.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/2vhkbZGG6djuNuXrun0d9zQPB9O.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/75GG4WMg3p5xQAv95sCYXn3uLoH.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1440,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/yJOeJH8NcOk73q6bY4hbYlC3ybG.jpg",
-          "vote_average": 0.0,
-          "vote_count": 1,
-          "width": 2560
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xnh8xlv4TQc95jxPeOKtbnMfkSW.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-03-14 10:04:51"
+    "última_actualización": "2026-03-14 22:04:12"
   },
   {
     "id": 1088548,
@@ -931,7 +931,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:51"
+    "última_actualización": "2026-03-14 22:04:13"
   },
   {
     "id": 1359024,
@@ -1026,7 +1026,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:52"
+    "última_actualización": "2026-03-14 22:04:14"
   },
   {
     "id": 1650195,
@@ -1127,7 +1127,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:53"
+    "última_actualización": "2026-03-14 22:04:15"
   },
   {
     "id": 1627151,
@@ -1222,7 +1222,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:52"
+    "última_actualización": "2026-03-14 22:04:15"
   },
   {
     "id": 1380415,
@@ -1383,7 +1383,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:51"
+    "última_actualización": "2026-03-14 22:04:12"
   },
   {
     "id": 1290821,
@@ -1451,8 +1451,8 @@
       }
     ],
     "popularidad": 294.6049,
-    "puntuación": 6.648,
-    "votos": 283,
+    "puntuación": 6.628,
+    "votos": 288,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1542,7 +1542,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:49"
+    "última_actualización": "2026-03-14 22:04:08"
   },
   {
     "id": 1193501,
@@ -1606,8 +1606,8 @@
       }
     ],
     "popularidad": 141.9966,
-    "puntuación": 6.135,
-    "votos": 130,
+    "puntuación": 6.117,
+    "votos": 133,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1697,7 +1697,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:49"
+    "última_actualización": "2026-03-14 22:04:09"
   },
   {
     "id": 1292695,
@@ -1846,7 +1846,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:50"
+    "última_actualización": "2026-03-14 22:04:11"
   },
   {
     "id": 1294698,
@@ -1991,7 +1991,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:51"
+    "última_actualización": "2026-03-14 22:04:12"
   },
   {
     "id": 1021643,
@@ -2136,7 +2136,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:51"
+    "última_actualización": "2026-03-14 22:04:13"
   },
   {
     "id": 1376831,
@@ -2271,7 +2271,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:52"
+    "última_actualización": "2026-03-14 22:04:14"
   },
   {
     "id": 1226863,
@@ -2285,15 +2285,15 @@
     "backdrop_local": "imagenes_estrenos/Super_Mario_Galaxy_la_pel_cula_backdrop_5U0tqruExz7ssDyr5pwiAGFzI8S.jpg",
     "fecha_estreno": "2026-04-01T00:00:00.000Z",
     "duración": "98 min",
-    "director": "Michael Jelenic, Aaron Horvath",
+    "director": "Aaron Horvath, Michael Jelenic",
     "directores": [
-      {
-        "name": "Michael Jelenic",
-        "id": 113901
-      },
       {
         "name": "Aaron Horvath",
         "id": 1719706
+      },
+      {
+        "name": "Michael Jelenic",
+        "id": 113901
       }
     ],
     "actores": [
@@ -2462,166 +2462,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:50"
-  },
-  {
-    "id": 1266127,
-    "tmdb_id": 1266127,
-    "título": "Noche de bodas 2",
-    "título_original": "Ready or Not 2: Here I Come",
-    "sinopsis": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
-    "poster_path": "/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
-    "poster_local": "imagenes_estrenos/Noche_de_bodas_2_13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
-    "backdrop_path": "/fpl1fBFvJkRJIzRePXqTMNlSfBx.jpg",
-    "backdrop_local": "imagenes_estrenos/Noche_de_bodas_2_backdrop_sJAzq4IvgohP9nVzijCH6lovX3e.jpg",
-    "fecha_estreno": "2026-04-01T00:00:00.000Z",
-    "duración": "108 min",
-    "director": "Matt Bettinelli-Olpin, Tyler Gillett",
-    "directores": [
-      {
-        "name": "Matt Bettinelli-Olpin",
-        "id": 66681
-      },
-      {
-        "name": "Tyler Gillett",
-        "id": 1039527
-      }
-    ],
-    "actores": [
-      {
-        "name": "Samara Weaving",
-        "id": 1372369,
-        "character": "Grace MacCaulley",
-        "profile_path": "/7ThO37CpqkBRgrosep0ROVs2q5s.jpg"
-      },
-      {
-        "name": "Kathryn Newton",
-        "id": 221192,
-        "character": "Faith MacCaulley",
-        "profile_path": "/exZuDe36AV1FSfEWxLISHXRPwJy.jpg"
-      },
-      {
-        "name": "Sarah Michelle Gellar",
-        "id": 11863,
-        "character": "Ursula Danforth",
-        "profile_path": "/mr74lbU9MLcYV4aQDsfHp7rnwS4.jpg"
-      },
-      {
-        "name": "Shawn Hatosy",
-        "id": 52647,
-        "character": "Titus Danforth",
-        "profile_path": "/xTwYIiSOvvIUb9YIZcTNp8fdnwp.jpg"
-      },
-      {
-        "name": "David Cronenberg",
-        "id": 224,
-        "character": "Chester Danforth",
-        "profile_path": "/3xh4e2gWHDilMLtucHzDGsmJMuQ.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 53,
-        "name": "Suspense"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 13.4323,
-    "puntuación": 7.0,
-    "votos": 1,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.777,
-          "height": 1688,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/fpl1fBFvJkRJIzRePXqTMNlSfBx.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3000
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1688,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/tdf9PfL8txtzGTmWt6lIXWi8nCm.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3000
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1688,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/4oxvSJn8p0sX9TNKdhCcPeB0mFB.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3000
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1688,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/sJAzq4IvgohP9nVzijCH6lovX3e.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3000
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1701,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/rMNxudsecHCsaA44zCoRnorChYr.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 3024
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/546iJKBTu8ZS3f24b3nKSGtxTmF.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/lcrnvyUhcgU58s22R7EFsBLYe9V.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1500,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/pgc5VvsPH8rYwZkTz03UizA4LGN.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1000
-        }
-      ]
-    },
-    "última_actualización": "2026-03-14 10:04:50"
+    "última_actualización": "2026-03-14 22:04:10"
   },
   {
     "id": 878608,
@@ -2773,10 +2614,179 @@
           "vote_average": 1.75,
           "vote_count": 2,
           "width": 2000
+        },
+        {
+          "aspect_ratio": 0.669,
+          "height": 1435,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/fzXphXdO3P7ztqXDegm6RwLeiiE.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 960
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:50"
+    "última_actualización": "2026-03-14 22:04:10"
+  },
+  {
+    "id": 1266127,
+    "tmdb_id": 1266127,
+    "título": "Noche de bodas 2",
+    "título_original": "Ready or Not 2: Here I Come",
+    "sinopsis": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
+    "poster_path": "/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
+    "poster_local": "imagenes_estrenos/Noche_de_bodas_2_13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
+    "backdrop_path": "/34edT0SIrmUqH59J5OAQqYxp11D.jpg",
+    "backdrop_local": "imagenes_estrenos/Noche_de_bodas_2_backdrop_sJAzq4IvgohP9nVzijCH6lovX3e.jpg",
+    "fecha_estreno": "2026-04-01T00:00:00.000Z",
+    "duración": "108 min",
+    "director": "Matt Bettinelli-Olpin, Tyler Gillett",
+    "directores": [
+      {
+        "name": "Matt Bettinelli-Olpin",
+        "id": 66681
+      },
+      {
+        "name": "Tyler Gillett",
+        "id": 1039527
+      }
+    ],
+    "actores": [
+      {
+        "name": "Samara Weaving",
+        "id": 1372369,
+        "character": "Grace MacCaulley",
+        "profile_path": "/7ThO37CpqkBRgrosep0ROVs2q5s.jpg"
+      },
+      {
+        "name": "Kathryn Newton",
+        "id": 221192,
+        "character": "Faith MacCaulley",
+        "profile_path": "/exZuDe36AV1FSfEWxLISHXRPwJy.jpg"
+      },
+      {
+        "name": "Sarah Michelle Gellar",
+        "id": 11863,
+        "character": "Ursula Danforth",
+        "profile_path": "/mr74lbU9MLcYV4aQDsfHp7rnwS4.jpg"
+      },
+      {
+        "name": "Shawn Hatosy",
+        "id": 52647,
+        "character": "Titus Danforth",
+        "profile_path": "/xTwYIiSOvvIUb9YIZcTNp8fdnwp.jpg"
+      },
+      {
+        "name": "David Cronenberg",
+        "id": 224,
+        "character": "Chester Danforth",
+        "profile_path": "/3xh4e2gWHDilMLtucHzDGsmJMuQ.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 13.4323,
+    "puntuación": 7.0,
+    "votos": 1,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.777,
+          "height": 1688,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/34edT0SIrmUqH59J5OAQqYxp11D.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3000
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1688,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/fpl1fBFvJkRJIzRePXqTMNlSfBx.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 3000
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1688,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/sJAzq4IvgohP9nVzijCH6lovX3e.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3000
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1688,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tdf9PfL8txtzGTmWt6lIXWi8nCm.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3000
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1688,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/4oxvSJn8p0sX9TNKdhCcPeB0mFB.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3000
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/546iJKBTu8ZS3f24b3nKSGtxTmF.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/lcrnvyUhcgU58s22R7EFsBLYe9V.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/pgc5VvsPH8rYwZkTz03UizA4LGN.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        }
+      ]
+    },
+    "última_actualización": "2026-03-14 22:04:10"
   },
   {
     "id": 13494,
@@ -2935,7 +2945,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:50"
+    "última_actualización": "2026-03-14 22:04:10"
   },
   {
     "id": 1399462,
@@ -2995,7 +3005,7 @@
       }
     ],
     "popularidad": 5.1146,
-    "puntuación": 7.029,
+    "puntuación": 7.0,
     "votos": 17,
     "adulto": false,
     "video": false,
@@ -3066,7 +3076,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:51"
+    "última_actualización": "2026-03-14 22:04:11"
   },
   {
     "id": 1480608,
@@ -3175,7 +3185,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:51"
+    "última_actualización": "2026-03-14 22:04:12"
   },
   {
     "id": 1577869,
@@ -3249,7 +3259,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-03-14 10:04:52"
+    "última_actualización": "2026-03-14 22:04:14"
   },
   {
     "id": 1638249,
@@ -3324,7 +3334,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:53"
+    "última_actualización": "2026-03-14 22:04:16"
   },
   {
     "id": 1167307,
@@ -3396,8 +3406,8 @@
       }
     ],
     "popularidad": 61.0596,
-    "puntuación": 8.1,
-    "votos": 102,
+    "puntuación": 8.063,
+    "votos": 103,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3477,7 +3487,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:50"
+    "última_actualización": "2026-03-14 22:04:09"
   },
   {
     "id": 1356956,
@@ -3544,7 +3554,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-03-14 10:04:52"
+    "última_actualización": "2026-03-14 22:04:13"
   },
   {
     "id": 1119449,
@@ -3557,7 +3567,7 @@
     "backdrop_path": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
     "backdrop_local": "imagenes_estrenos/Buena_suerte__p_salo_bien__no_mueras_backdrop_drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
     "fecha_estreno": "2026-04-03T00:00:00.000Z",
-    "duración": "135 min",
+    "duración": "134 min",
     "director": "Gore Verbinski",
     "directores": [
       {
@@ -3612,8 +3622,8 @@
       }
     ],
     "popularidad": 93.9715,
-    "puntuación": 7.05,
-    "votos": 101,
+    "puntuación": 6.897,
+    "votos": 107,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3625,8 +3635,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
-          "vote_average": 8.034,
-          "vote_count": 5,
+          "vote_average": 6.722,
+          "vote_count": 6,
           "width": 3840
         },
         {
@@ -3651,22 +3661,22 @@
         },
         {
           "aspect_ratio": 1.778,
-          "height": 2160,
+          "height": 1613,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/szKykvoCLoNAb8mqBQBoK2TtR0R.jpg",
-          "vote_average": 1.444,
-          "vote_count": 6,
-          "width": 3840
+          "file_path": "/a695PW6RXagKBypQUkmKaWu57GP.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2868
         },
         {
           "aspect_ratio": 1.778,
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/yjOSpDQe8tzr8easpjTFVoQXsOX.jpg",
-          "vote_average": 1.222,
-          "vote_count": 3,
+          "file_path": "/szKykvoCLoNAb8mqBQBoK2TtR0R.jpg",
+          "vote_average": 1.444,
+          "vote_count": 6,
           "width": 3840
         }
       ],
@@ -3693,7 +3703,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-14 10:04:49"
+    "última_actualización": "2026-03-14 22:04:09"
   },
   {
     "id": 1640655,
@@ -3778,7 +3788,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-03-14 10:04:52"
+    "última_actualización": "2026-03-14 22:04:15"
   },
   {
     "id": 1632334,
