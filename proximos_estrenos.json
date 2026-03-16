@@ -138,7 +138,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:26"
+    "última_actualización": "2026-03-16 22:10:22"
   },
   {
     "id": 1641445,
@@ -213,7 +213,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:29"
+    "última_actualización": "2026-03-16 22:10:24"
   },
   {
     "id": 1436221,
@@ -285,7 +285,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-03-16 10:19:28"
+    "última_actualización": "2026-03-16 22:10:24"
   },
   {
     "id": 687163,
@@ -357,8 +357,8 @@
       }
     ],
     "popularidad": 85.3506,
-    "puntuación": 8.7,
-    "votos": 38,
+    "puntuación": 8.6,
+    "votos": 36,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -468,7 +468,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:25"
+    "última_actualización": "2026-03-16 22:10:21"
   },
   {
     "id": 1092936,
@@ -536,8 +536,8 @@
       }
     ],
     "popularidad": 2.6769,
-    "puntuación": 7.236,
-    "votos": 89,
+    "puntuación": 7.233,
+    "votos": 90,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -607,7 +607,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:27"
+    "última_actualización": "2026-03-16 22:10:22"
   },
   {
     "id": 1437198,
@@ -766,7 +766,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:27"
+    "última_actualización": "2026-03-16 22:10:23"
   },
   {
     "id": 1088548,
@@ -931,7 +931,102 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:27"
+    "última_actualización": "2026-03-16 22:10:23"
+  },
+  {
+    "id": 1359024,
+    "tmdb_id": 1359024,
+    "título": "Primavera",
+    "título_original": "Primavera",
+    "sinopsis": "El amor trasciende al tiempo y las personas",
+    "poster_path": "/l8A3GtfRbUYxgaFXnAb6UqtTodZ.jpg",
+    "poster_local": "imagenes_estrenos/Primavera_l8A3GtfRbUYxgaFXnAb6UqtTodZ.jpg",
+    "backdrop_path": "/xaU7pPOyNHtADhhOEYPyNJhauWG.jpg",
+    "backdrop_local": "imagenes_estrenos/Primavera_backdrop_xaU7pPOyNHtADhhOEYPyNJhauWG.jpg",
+    "fecha_estreno": "2026-03-20T00:00:00.000Z",
+    "duración": "9 min",
+    "director": "Bastián Mason",
+    "directores": [
+      {
+        "name": "Bastián Mason",
+        "id": 4926976
+      }
+    ],
+    "actores": [
+      {
+        "name": "Martín Jelves",
+        "id": 4952624,
+        "character": "Matías",
+        "profile_path": null
+      },
+      {
+        "name": "David Diaz Mora",
+        "id": 4334013,
+        "character": "Matías",
+        "profile_path": null
+      },
+      {
+        "name": "Martin Garcia",
+        "id": 1892094,
+        "character": "Matías",
+        "profile_path": null
+      },
+      {
+        "name": "Maximiliano Vera Vidal",
+        "id": 4926969,
+        "character": "Matías",
+        "profile_path": null
+      },
+      {
+        "name": "Josefa Valenzuela",
+        "id": 4926977,
+        "character": "Julieta",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.1342,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xaU7pPOyNHtADhhOEYPyNJhauWG.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.675,
+          "height": 2880,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/l8A3GtfRbUYxgaFXnAb6UqtTodZ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1944
+        }
+      ]
+    },
+    "última_actualización": "2026-03-16 22:10:24"
   },
   {
     "id": 1650195,
@@ -1032,102 +1127,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:28"
-  },
-  {
-    "id": 1359024,
-    "tmdb_id": 1359024,
-    "título": "Primavera",
-    "título_original": "Primavera",
-    "sinopsis": "El amor trasciende al tiempo y las personas",
-    "poster_path": "/l8A3GtfRbUYxgaFXnAb6UqtTodZ.jpg",
-    "poster_local": "imagenes_estrenos/Primavera_l8A3GtfRbUYxgaFXnAb6UqtTodZ.jpg",
-    "backdrop_path": "/xaU7pPOyNHtADhhOEYPyNJhauWG.jpg",
-    "backdrop_local": "imagenes_estrenos/Primavera_backdrop_xaU7pPOyNHtADhhOEYPyNJhauWG.jpg",
-    "fecha_estreno": "2026-03-20T00:00:00.000Z",
-    "duración": "9 min",
-    "director": "Bastián Mason",
-    "directores": [
-      {
-        "name": "Bastián Mason",
-        "id": 4926976
-      }
-    ],
-    "actores": [
-      {
-        "name": "Martín Jelves",
-        "id": 4952624,
-        "character": "Matías",
-        "profile_path": null
-      },
-      {
-        "name": "David Diaz Mora",
-        "id": 4334013,
-        "character": "Matías",
-        "profile_path": null
-      },
-      {
-        "name": "Martin Garcia",
-        "id": 1892094,
-        "character": "Matías",
-        "profile_path": null
-      },
-      {
-        "name": "Maximiliano Vera Vidal",
-        "id": 4926969,
-        "character": "Matías",
-        "profile_path": null
-      },
-      {
-        "name": "Josefa Valenzuela",
-        "id": 4926977,
-        "character": "Julieta",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 10749,
-        "name": "Romance"
-      },
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.1342,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xaU7pPOyNHtADhhOEYPyNJhauWG.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.675,
-          "height": 2880,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/l8A3GtfRbUYxgaFXnAb6UqtTodZ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1944
-        }
-      ]
-    },
-    "última_actualización": "2026-03-16 10:19:28"
+    "última_actualización": "2026-03-16 22:10:24"
   },
   {
     "id": 1627151,
@@ -1222,7 +1222,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:29"
+    "última_actualización": "2026-03-16 22:10:24"
   },
   {
     "id": 1380415,
@@ -1383,7 +1383,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:27"
+    "última_actualización": "2026-03-16 22:10:23"
   },
   {
     "id": 1290821,
@@ -1451,8 +1451,8 @@
       }
     ],
     "popularidad": 315.9799,
-    "puntuación": 6.613,
-    "votos": 300,
+    "puntuación": 6.6,
+    "votos": 302,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1542,7 +1542,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:25"
+    "última_actualización": "2026-03-16 22:10:21"
   },
   {
     "id": 1193501,
@@ -1606,8 +1606,8 @@
       }
     ],
     "popularidad": 127.2407,
-    "puntuación": 6.063,
-    "votos": 144,
+    "puntuación": 6.082,
+    "votos": 146,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1697,7 +1697,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:25"
+    "última_actualización": "2026-03-16 22:10:21"
   },
   {
     "id": 1292695,
@@ -1804,16 +1804,6 @@
         },
         {
           "aspect_ratio": 1.778,
-          "height": 864,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/f17GjAnKZpIOB5L62hh0Ux8bq0t.jpg",
-          "vote_average": 0.958,
-          "vote_count": 4,
-          "width": 1536
-        },
-        {
-          "aspect_ratio": 1.778,
           "height": 866,
           "iso_3166_1": null,
           "iso_639_1": null,
@@ -1821,6 +1811,16 @@
           "vote_average": 0.166,
           "vote_count": 2,
           "width": 1540
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xnb15logFGJRniA7Ud3NILSPPhs.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
         }
       ],
       "posters": [
@@ -1846,7 +1846,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:26"
+    "última_actualización": "2026-03-16 22:10:22"
   },
   {
     "id": 1294698,
@@ -1991,7 +1991,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:27"
+    "última_actualización": "2026-03-16 22:10:23"
   },
   {
     "id": 1021643,
@@ -2136,7 +2136,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:27"
+    "última_actualización": "2026-03-16 22:10:23"
   },
   {
     "id": 1376831,
@@ -2271,7 +2271,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:28"
+    "última_actualización": "2026-03-16 22:10:23"
   },
   {
     "id": 1466429,
@@ -2356,7 +2356,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:28"
+    "última_actualización": "2026-03-16 22:10:24"
   },
   {
     "id": 1226863,
@@ -2547,7 +2547,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:26"
+    "última_actualización": "2026-03-16 22:10:22"
   },
   {
     "id": 1266127,
@@ -2605,6 +2605,10 @@
       }
     ],
     "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
       {
         "id": 53,
         "name": "Suspense"
@@ -2706,7 +2710,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:26"
+    "última_actualización": "2026-03-16 22:10:22"
   },
   {
     "id": 13494,
@@ -2774,7 +2778,7 @@
       }
     ],
     "popularidad": 12.3489,
-    "puntuación": 5.676,
+    "puntuación": 5.7,
     "votos": 202,
     "adulto": false,
     "video": false,
@@ -2865,7 +2869,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:26"
+    "última_actualización": "2026-03-16 22:10:22"
   },
   {
     "id": 878608,
@@ -2875,7 +2879,7 @@
     "sinopsis": "",
     "poster_path": "/76uPr6mqXiEY935oH2IxTCJjLxo.jpg",
     "poster_local": "imagenes_estrenos/_____eEviqb35JWvYSvHTtp31GGFCh7p.jpg",
-    "backdrop_path": "/sbmHT55N2aIwctQEY1pWOwRrxK0.jpg",
+    "backdrop_path": "/2JcKTEP0L6EXk88ITGVGU4uo7hm.jpg",
     "backdrop_local": "imagenes_estrenos/_____backdrop_jt2CY2fZeeGAMnc2iQgutBfudS.jpg",
     "fecha_estreno": "2026-04-01T00:00:00.000Z",
     "duración": "159 min",
@@ -3030,7 +3034,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:26"
+    "última_actualización": "2026-03-16 22:10:22"
   },
   {
     "id": 1399462,
@@ -3161,7 +3165,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:27"
+    "última_actualización": "2026-03-16 22:10:22"
   },
   {
     "id": 1480608,
@@ -3270,7 +3274,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:27"
+    "última_actualización": "2026-03-16 22:10:23"
   },
   {
     "id": 1577869,
@@ -3344,7 +3348,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-03-16 10:19:28"
+    "última_actualización": "2026-03-16 22:10:24"
   },
   {
     "id": 1638249,
@@ -3419,7 +3423,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:29"
+    "última_actualización": "2026-03-16 22:10:25"
   },
   {
     "id": 1167307,
@@ -3491,7 +3495,7 @@
       }
     ],
     "popularidad": 64.3935,
-    "puntuación": 8.051,
+    "puntuación": 8.1,
     "votos": 107,
     "adulto": false,
     "video": false,
@@ -3572,7 +3576,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:26"
+    "última_actualización": "2026-03-16 22:10:22"
   },
   {
     "id": 1356956,
@@ -3639,7 +3643,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-03-16 10:19:28"
+    "última_actualización": "2026-03-16 22:10:23"
   },
   {
     "id": 1119449,
@@ -3665,7 +3669,7 @@
         "name": "Sam Rockwell",
         "id": 6807,
         "character": "The Man From The Future",
-        "profile_path": "/ssbobHJCUGDG0FqNOrCr8abhOhu.jpg"
+        "profile_path": "/afYhNpLwpa65Yy0Q0g00FNFhzx5.jpg"
       },
       {
         "name": "Juno Temple",
@@ -3707,8 +3711,8 @@
       }
     ],
     "popularidad": 111.1717,
-    "puntuación": 6.937,
-    "votos": 143,
+    "puntuación": 6.957,
+    "votos": 150,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3788,7 +3792,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-16 10:19:25"
+    "última_actualización": "2026-03-16 22:10:21"
   },
   {
     "id": 1640655,
@@ -3873,7 +3877,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-03-16 10:19:29"
+    "última_actualización": "2026-03-16 22:10:24"
   },
   {
     "id": 1632334,
