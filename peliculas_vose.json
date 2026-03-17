@@ -6,7 +6,7 @@
             {
                 "fecha": "2026-03-17",
                 "hora": "19:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=99008&eventCode=106727"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -159,7 +159,7 @@
             {
                 "fecha": "2026-03-17",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89840&eventCode=105704"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -701,7 +701,7 @@
             {
                 "fecha": "2026-03-23",
                 "hora": "19:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89926&eventCode=105387"
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89932&eventCode=105387"
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -749,5 +749,292 @@
         "actores": "Harry Melling, Alexander Skarsgård, Lesley Sharp, Douglas Hodge, Jake Shears",
         "sinopsis": "Colin, un hombre introvertido, se queda prendado de Ray, el carismático y atractivo líder de una banda de moteros que le toma como sumiso, dinamitando su rutina y cambiándole la vida.",
         "año": "2025"
+    },
+    {
+        "título": "Una hija en Tokio",
+        "cartel": "imagenes_peliculas/tmdb_una_hija_en_tokio.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-24",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89947&eventCode=108297"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Guillaume Senez",
+        "duración": "98 min",
+        "actores": "Romain Duris, Mei Cirne-Masuki, Judith Chemla, Tsuyu Shimizu, 内田春菊",
+        "sinopsis": "",
+        "año": "2024"
+    },
+    {
+        "título": "Águilas de el Cairo",
+        "cartel": "imagenes_peliculas/177011980912926.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-24",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89943&eventCode=105387"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "La hija pequeña",
+        "cartel": "imagenes_peliculas/tmdb_la_hija_pequena.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-24",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89941&eventCode=108556"
+            },
+            {
+                "fecha": "2026-03-24",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89940&eventCode=108556"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Hafsia Herzi",
+        "duración": "112 min",
+        "actores": "Nadia Melliti, Park Ji-Min, Amina Ben Mohamed, Rita Benmannana, Melissa Guers",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Pillion",
+        "cartel": "imagenes_peliculas/tmdb_pillion.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-24",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89935&eventCode=104676"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Harry Lighton",
+        "duración": "107 min",
+        "actores": "Harry Melling, Alexander Skarsgård, Lesley Sharp, Douglas Hodge, Jake Shears",
+        "sinopsis": "Colin, un hombre introvertido, se queda prendado de Ray, el carismático y atractivo líder de una banda de moteros que le toma como sumiso, dinamitando su rutina y cambiándole la vida.",
+        "año": "2025"
+    },
+    {
+        "título": "Una hija en Tokio",
+        "cartel": "imagenes_peliculas/tmdb_una_hija_en_tokio.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-25",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89978&eventCode=108297"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Guillaume Senez",
+        "duración": "98 min",
+        "actores": "Romain Duris, Mei Cirne-Masuki, Judith Chemla, Tsuyu Shimizu, 内田春菊",
+        "sinopsis": "",
+        "año": "2024"
+    },
+    {
+        "título": "Your name",
+        "cartel": "imagenes_peliculas/tmdb_your_name.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-25",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89964&eventCode=30812"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Luca Guadagnino",
+        "duración": "122 min",
+        "actores": "Armie Hammer, Timothée Chalamet, Michael Stuhlbarg, Amira Casar, Esther Garrel",
+        "sinopsis": "Elio Perlman (Timothée Chalamet), un joven de 17 años, pasa el cálido y soleado verano de 1983 en la casa de campo de sus padres en el norte de Italia. Se pasa el tiempo holgazaneando, escuchando música, leyendo libros y nadando hasta que un día el nuevo ayudante americano de su padre llega a la gran villa. Oliver (Armie Hammer) es encantador y, como Elio, tiene raíces judías; también es joven, seguro de sí mismo y atractivo. Al principio Elio se muestra algo frío y distante hacia el joven, pero pronto ambos empiezan a salir juntos de excursión y, conforme el verano avanza, la atracción mutua de la pareja se hace más intensa.",
+        "año": "2017"
+    },
+    {
+        "título": "Águilas de el Cairo",
+        "cartel": "imagenes_peliculas/177011980912926.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-25",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89974&eventCode=105387"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "La hija pequeña",
+        "cartel": "imagenes_peliculas/tmdb_la_hija_pequena.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-25",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89972&eventCode=108556"
+            },
+            {
+                "fecha": "2026-03-25",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89971&eventCode=108556"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Hafsia Herzi",
+        "duración": "112 min",
+        "actores": "Nadia Melliti, Park Ji-Min, Amina Ben Mohamed, Rita Benmannana, Melissa Guers",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Pillion",
+        "cartel": "imagenes_peliculas/tmdb_pillion.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-25",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89966&eventCode=104676"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Harry Lighton",
+        "duración": "107 min",
+        "actores": "Harry Melling, Alexander Skarsgård, Lesley Sharp, Douglas Hodge, Jake Shears",
+        "sinopsis": "Colin, un hombre introvertido, se queda prendado de Ray, el carismático y atractivo líder de una banda de moteros que le toma como sumiso, dinamitando su rutina y cambiándole la vida.",
+        "año": "2025"
+    },
+    {
+        "título": "YOUR NAME",
+        "cartel": "imagenes_peliculas/tmdb_your_name.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-25",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89964&eventCode=30812"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Luca Guadagnino",
+        "duración": "122 min",
+        "actores": "Armie Hammer, Timothée Chalamet, Michael Stuhlbarg, Amira Casar, Esther Garrel",
+        "sinopsis": "Elio Perlman (Timothée Chalamet), un joven de 17 años, pasa el cálido y soleado verano de 1983 en la casa de campo de sus padres en el norte de Italia. Se pasa el tiempo holgazaneando, escuchando música, leyendo libros y nadando hasta que un día el nuevo ayudante americano de su padre llega a la gran villa. Oliver (Armie Hammer) es encantador y, como Elio, tiene raíces judías; también es joven, seguro de sí mismo y atractivo. Al principio Elio se muestra algo frío y distante hacia el joven, pero pronto ambos empiezan a salir juntos de excursión y, conforme el verano avanza, la atracción mutua de la pareja se hace más intensa.",
+        "año": "2017"
+    },
+    {
+        "título": "Una hija en Tokio",
+        "cartel": "imagenes_peliculas/tmdb_una_hija_en_tokio.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-26",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89962&eventCode=108297"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Guillaume Senez",
+        "duración": "98 min",
+        "actores": "Romain Duris, Mei Cirne-Masuki, Judith Chemla, Tsuyu Shimizu, 内田春菊",
+        "sinopsis": "",
+        "año": "2024"
+    },
+    {
+        "título": "Your name",
+        "cartel": "imagenes_peliculas/tmdb_your_name.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-26",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89948&eventCode=30812"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Luca Guadagnino",
+        "duración": "122 min",
+        "actores": "Armie Hammer, Timothée Chalamet, Michael Stuhlbarg, Amira Casar, Esther Garrel",
+        "sinopsis": "Elio Perlman (Timothée Chalamet), un joven de 17 años, pasa el cálido y soleado verano de 1983 en la casa de campo de sus padres en el norte de Italia. Se pasa el tiempo holgazaneando, escuchando música, leyendo libros y nadando hasta que un día el nuevo ayudante americano de su padre llega a la gran villa. Oliver (Armie Hammer) es encantador y, como Elio, tiene raíces judías; también es joven, seguro de sí mismo y atractivo. Al principio Elio se muestra algo frío y distante hacia el joven, pero pronto ambos empiezan a salir juntos de excursión y, conforme el verano avanza, la atracción mutua de la pareja se hace más intensa.",
+        "año": "2017"
+    },
+    {
+        "título": "Águilas de el Cairo",
+        "cartel": "imagenes_peliculas/177011980912926.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-26",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89958&eventCode=105387"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "La hija pequeña",
+        "cartel": "imagenes_peliculas/tmdb_la_hija_pequena.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-26",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89956&eventCode=108556"
+            },
+            {
+                "fecha": "2026-03-26",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89955&eventCode=108556"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Hafsia Herzi",
+        "duración": "112 min",
+        "actores": "Nadia Melliti, Park Ji-Min, Amina Ben Mohamed, Rita Benmannana, Melissa Guers",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Pillion",
+        "cartel": "imagenes_peliculas/tmdb_pillion.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-26",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89950&eventCode=104676"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Harry Lighton",
+        "duración": "107 min",
+        "actores": "Harry Melling, Alexander Skarsgård, Lesley Sharp, Douglas Hodge, Jake Shears",
+        "sinopsis": "Colin, un hombre introvertido, se queda prendado de Ray, el carismático y atractivo líder de una banda de moteros que le toma como sumiso, dinamitando su rutina y cambiándole la vida.",
+        "año": "2025"
+    },
+    {
+        "título": "YOUR NAME",
+        "cartel": "imagenes_peliculas/tmdb_your_name.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-26",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89948&eventCode=30812"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Luca Guadagnino",
+        "duración": "122 min",
+        "actores": "Armie Hammer, Timothée Chalamet, Michael Stuhlbarg, Amira Casar, Esther Garrel",
+        "sinopsis": "Elio Perlman (Timothée Chalamet), un joven de 17 años, pasa el cálido y soleado verano de 1983 en la casa de campo de sus padres en el norte de Italia. Se pasa el tiempo holgazaneando, escuchando música, leyendo libros y nadando hasta que un día el nuevo ayudante americano de su padre llega a la gran villa. Oliver (Armie Hammer) es encantador y, como Elio, tiene raíces judías; también es joven, seguro de sí mismo y atractivo. Al principio Elio se muestra algo frío y distante hacia el joven, pero pronto ambos empiezan a salir juntos de excursión y, conforme el verano avanza, la atracción mutua de la pareja se hace más intensa.",
+        "año": "2017"
     }
 ]
