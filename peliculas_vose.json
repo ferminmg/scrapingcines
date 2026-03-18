@@ -6,7 +6,7 @@
             {
                 "fecha": "2026-03-18",
                 "hora": "19:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=99027&eventCode=106727"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -23,7 +23,7 @@
             {
                 "fecha": "2026-03-18",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=99032&eventCode=95578"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -91,7 +91,7 @@
             {
                 "fecha": "2026-03-18",
                 "hora": "19:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89806&eventCode=104664"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -781,23 +781,6 @@
         "actores": "Romain Duris, Mei Cirne-Masuki, Judith Chemla, Tsuyu Shimizu, 内田春菊",
         "sinopsis": "",
         "año": "2024"
-    },
-    {
-        "título": "Your name",
-        "cartel": "imagenes_peliculas/tmdb_your_name.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-03-26",
-                "hora": "16:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89948&eventCode=30812"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Luca Guadagnino",
-        "duración": "122 min",
-        "actores": "Armie Hammer, Timothée Chalamet, Michael Stuhlbarg, Amira Casar, Esther Garrel",
-        "sinopsis": "Elio Perlman (Timothée Chalamet), un joven de 17 años, pasa el cálido y soleado verano de 1983 en la casa de campo de sus padres en el norte de Italia. Se pasa el tiempo holgazaneando, escuchando música, leyendo libros y nadando hasta que un día el nuevo ayudante americano de su padre llega a la gran villa. Oliver (Armie Hammer) es encantador y, como Elio, tiene raíces judías; también es joven, seguro de sí mismo y atractivo. Al principio Elio se muestra algo frío y distante hacia el joven, pero pronto ambos empiezan a salir juntos de excursión y, conforme el verano avanza, la atracción mutua de la pareja se hace más intensa.",
-        "año": "2017"
     },
     {
         "título": "Águilas de el Cairo",
