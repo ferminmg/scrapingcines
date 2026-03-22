@@ -1,27 +1,5 @@
 [
     {
-        "título": "Your Name (10º Aniversario)",
-        "cartel": "imagenes_filmaffinity/your-name-10o-aniversario.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-03-22",
-                "hora": "18:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27131"
-            },
-            {
-                "fecha": "2026-03-25",
-                "hora": "18:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27132"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
-    },
-    {
         "título": "Whistle: El silbido del mal",
         "cartel": "imagenes_filmaffinity/tmdb_whistle-el-silbido-del-mal.jpg",
         "horarios": [
@@ -37,6 +15,23 @@
         "actores": "Dafne Keen, Sophie Nélisse, Sky Yang, Jhaleil Swaby, Alissa Skovbye",
         "sinopsis": "Un grupo de estudiantes inadaptados encuentra por accidente un objeto maldito: un antiguo silbato de la muerte azteca. Al soplarlo, descubren que el terrorífico sonido que produce invoca a sus propias muertes futuras para perseguirlos. Mientras las víctimas aumentan, los amigos intentan descubrir el origen del artefacto y detener la terrible cadena de sucesos que han provocado.",
         "año": "2026"
+    },
+    {
+        "título": "Your Name (10º Aniversario)",
+        "cartel": "imagenes_filmaffinity/your-name-10o-aniversario.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-25",
+                "hora": "18:30",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27132"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
     },
     {
         "título": "Hannah Montana: La Película",
