@@ -6,7 +6,7 @@
             {
                 "fecha": "2026-03-24",
                 "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89941&eventCode=108556"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2026-03-24",
@@ -28,7 +28,7 @@
             {
                 "fecha": "2026-03-24",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89947&eventCode=108297"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -45,7 +45,7 @@
             {
                 "fecha": "2026-03-24",
                 "hora": "19:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89943&eventCode=105387"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -242,7 +242,7 @@
             {
                 "fecha": "2026-03-24",
                 "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=221990&eventCode=104616"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2026-03-24",
@@ -317,5 +317,100 @@
         "actores": null,
         "sinopsis": null,
         "año": null
+    },
+    {
+        "título": "Your name",
+        "cartel": "imagenes_peliculas/tmdb_your_name.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-27",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=222066&eventCode=30812"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": "Luca Guadagnino",
+        "duración": "122 min",
+        "actores": "Armie Hammer, Timothée Chalamet, Michael Stuhlbarg, Amira Casar, Esther Garrel",
+        "sinopsis": "Elio Perlman (Timothée Chalamet), un joven de 17 años, pasa el cálido y soleado verano de 1983 en la casa de campo de sus padres en el norte de Italia. Se pasa el tiempo holgazaneando, escuchando música, leyendo libros y nadando hasta que un día el nuevo ayudante americano de su padre llega a la gran villa. Oliver (Armie Hammer) es encantador y, como Elio, tiene raíces judías; también es joven, seguro de sí mismo y atractivo. Al principio Elio se muestra algo frío y distante hacia el joven, pero pronto ambos empiezan a salir juntos de excursión y, conforme el verano avanza, la atracción mutua de la pareja se hace más intensa.",
+        "año": "2017"
+    },
+    {
+        "título": "Your name",
+        "cartel": "imagenes_peliculas/tmdb_your_name.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-28",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=222100&eventCode=30812"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": "Luca Guadagnino",
+        "duración": "122 min",
+        "actores": "Armie Hammer, Timothée Chalamet, Michael Stuhlbarg, Amira Casar, Esther Garrel",
+        "sinopsis": "Elio Perlman (Timothée Chalamet), un joven de 17 años, pasa el cálido y soleado verano de 1983 en la casa de campo de sus padres en el norte de Italia. Se pasa el tiempo holgazaneando, escuchando música, leyendo libros y nadando hasta que un día el nuevo ayudante americano de su padre llega a la gran villa. Oliver (Armie Hammer) es encantador y, como Elio, tiene raíces judías; también es joven, seguro de sí mismo y atractivo. Al principio Elio se muestra algo frío y distante hacia el joven, pero pronto ambos empiezan a salir juntos de excursión y, conforme el verano avanza, la atracción mutua de la pareja se hace más intensa.",
+        "año": "2017"
+    },
+    {
+        "título": "Your name",
+        "cartel": "imagenes_peliculas/tmdb_your_name.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-29",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=222134&eventCode=30812"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": "Luca Guadagnino",
+        "duración": "122 min",
+        "actores": "Armie Hammer, Timothée Chalamet, Michael Stuhlbarg, Amira Casar, Esther Garrel",
+        "sinopsis": "Elio Perlman (Timothée Chalamet), un joven de 17 años, pasa el cálido y soleado verano de 1983 en la casa de campo de sus padres en el norte de Italia. Se pasa el tiempo holgazaneando, escuchando música, leyendo libros y nadando hasta que un día el nuevo ayudante americano de su padre llega a la gran villa. Oliver (Armie Hammer) es encantador y, como Elio, tiene raíces judías; también es joven, seguro de sí mismo y atractivo. Al principio Elio se muestra algo frío y distante hacia el joven, pero pronto ambos empiezan a salir juntos de excursión y, conforme el verano avanza, la atracción mutua de la pareja se hace más intensa.",
+        "año": "2017"
+    },
+    {
+        "título": "Your name",
+        "cartel": "imagenes_peliculas/tmdb_your_name.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-30",
+                "hora": "17:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=222174&eventCode=30812"
+            },
+            {
+                "fecha": "2026-03-30",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=222175&eventCode=30812"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": "Luca Guadagnino",
+        "duración": "122 min",
+        "actores": "Armie Hammer, Timothée Chalamet, Michael Stuhlbarg, Amira Casar, Esther Garrel",
+        "sinopsis": "Elio Perlman (Timothée Chalamet), un joven de 17 años, pasa el cálido y soleado verano de 1983 en la casa de campo de sus padres en el norte de Italia. Se pasa el tiempo holgazaneando, escuchando música, leyendo libros y nadando hasta que un día el nuevo ayudante americano de su padre llega a la gran villa. Oliver (Armie Hammer) es encantador y, como Elio, tiene raíces judías; también es joven, seguro de sí mismo y atractivo. Al principio Elio se muestra algo frío y distante hacia el joven, pero pronto ambos empiezan a salir juntos de excursión y, conforme el verano avanza, la atracción mutua de la pareja se hace más intensa.",
+        "año": "2017"
+    },
+    {
+        "título": "Your name",
+        "cartel": "imagenes_peliculas/tmdb_your_name.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-31",
+                "hora": "17:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=222206&eventCode=30812"
+            },
+            {
+                "fecha": "2026-03-31",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=222207&eventCode=30812"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": "Luca Guadagnino",
+        "duración": "122 min",
+        "actores": "Armie Hammer, Timothée Chalamet, Michael Stuhlbarg, Amira Casar, Esther Garrel",
+        "sinopsis": "Elio Perlman (Timothée Chalamet), un joven de 17 años, pasa el cálido y soleado verano de 1983 en la casa de campo de sus padres en el norte de Italia. Se pasa el tiempo holgazaneando, escuchando música, leyendo libros y nadando hasta que un día el nuevo ayudante americano de su padre llega a la gran villa. Oliver (Armie Hammer) es encantador y, como Elio, tiene raíces judías; también es joven, seguro de sí mismo y atractivo. Al principio Elio se muestra algo frío y distante hacia el joven, pero pronto ambos empiezan a salir juntos de excursión y, conforme el verano avanza, la atracción mutua de la pareja se hace más intensa.",
+        "año": "2017"
     }
 ]
