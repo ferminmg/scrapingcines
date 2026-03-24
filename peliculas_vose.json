@@ -7,11 +7,6 @@
                 "fecha": "2026-03-24",
                 "hora": "19:15",
                 "enlace_entradas": null
-            },
-            {
-                "fecha": "2026-03-24",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89940&eventCode=108556"
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -54,23 +49,6 @@
         "actores": null,
         "sinopsis": null,
         "año": null
-    },
-    {
-        "título": "Pillion",
-        "cartel": "imagenes_peliculas/tmdb_pillion.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-03-24",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=89935&eventCode=104676"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Harry Lighton",
-        "duración": "107 min",
-        "actores": "Harry Melling, Alexander Skarsgård, Lesley Sharp, Douglas Hodge, Jake Shears",
-        "sinopsis": "Colin, un hombre introvertido, se queda prendado de Ray, el carismático y atractivo líder de una banda de moteros que le toma como sumiso, dinamitando su rutina y cambiándole la vida.",
-        "año": "2025"
     },
     {
         "título": "La hija pequeña",
@@ -247,7 +225,7 @@
             {
                 "fecha": "2026-03-24",
                 "hora": "22:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=221991&eventCode=104616"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem La Morea",
