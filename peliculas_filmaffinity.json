@@ -1,13 +1,35 @@
 [
     {
+        "título": "Hannah Montana: La Película",
+        "cartel": "imagenes_filmaffinity/tmdb_hannah-montana-la-pelicula.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-27",
+                "hora": "18:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27177"
+            },
+            {
+                "fecha": "2026-03-28",
+                "hora": "18:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27178"
+            },
+            {
+                "fecha": "2026-03-29",
+                "hora": "18:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27179"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Peter Chelsom",
+        "duración": "102 min",
+        "actores": "Miley Cyrus, Billy Ray Cyrus, Emily Osment, Margo Martindale, Jason Earles",
+        "sinopsis": "Miley Stewart se las arregla como puede para compaginar el colegio, sus amigos y su vida secreta como estrella del pop; pero su enorme popularidad amenaza con invadir toda su vida, y ella parece aceptarlo. Así que cuando la popularidad de Hannah comienza a ser algo parecido a una carga, su padre decide llevarla a Crowley Corners, en Tennessee, para darle una dosis de realidad y reflexionar sobre lo que realmente importa en la vida. Allí comienza una aventura llena de diversión, risas y romance que ni la propia Hannah Montana podría imaginar.",
+        "año": "2009"
+    },
+    {
         "título": "Your Name (10º Aniversario)",
         "cartel": "imagenes_filmaffinity/your-name-10o-aniversario.jpg",
         "horarios": [
-            {
-                "fecha": "2026-03-25",
-                "hora": "18:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27132"
-            },
             {
                 "fecha": "2026-03-27",
                 "hora": "19:50",
@@ -47,33 +69,6 @@
         "año": null
     },
     {
-        "título": "Hannah Montana: La Película",
-        "cartel": "imagenes_filmaffinity/tmdb_hannah-montana-la-pelicula.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-03-27",
-                "hora": "18:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27177"
-            },
-            {
-                "fecha": "2026-03-28",
-                "hora": "18:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27178"
-            },
-            {
-                "fecha": "2026-03-29",
-                "hora": "18:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27179"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Peter Chelsom",
-        "duración": "102 min",
-        "actores": "Miley Cyrus, Billy Ray Cyrus, Emily Osment, Margo Martindale, Jason Earles",
-        "sinopsis": "Miley Stewart se las arregla como puede para compaginar el colegio, sus amigos y su vida secreta como estrella del pop; pero su enorme popularidad amenaza con invadir toda su vida, y ella parece aceptarlo. Así que cuando la popularidad de Hannah comienza a ser algo parecido a una carga, su padre decide llevarla a Crowley Corners, en Tennessee, para darle una dosis de realidad y reflexionar sobre lo que realmente importa en la vida. Allí comienza una aventura llena de diversión, risas y romance que ni la propia Hannah Montana podría imaginar.",
-        "año": "2009"
-    },
-    {
         "título": "Shelter: El protector",
         "cartel": "imagenes_filmaffinity/tmdb_shelter-el-protector.jpg",
         "horarios": [
@@ -88,6 +83,23 @@
         "duración": "108 min",
         "actores": "Jason Statham, Bodhi Rae Breathnach, Michael Shaeffer, Anna Crilly, Bill Nighy",
         "sinopsis": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
+        "año": "2026"
+    },
+    {
+        "título": "Proyecto Salvación",
+        "cartel": "imagenes_filmaffinity/tmdb_proyecto-salvacion.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-31",
+                "hora": "20:45",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27865"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Phil Lord, Christopher Miller",
+        "duración": "157 min",
+        "actores": "Ryan Gosling, James Ortiz, Sandra Hüller, Lionel Boyce, Milana Vayntrub",
+        "sinopsis": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
         "año": "2026"
     },
     {
