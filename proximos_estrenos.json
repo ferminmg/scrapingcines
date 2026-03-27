@@ -1,176 +1,5 @@
 [
   {
-    "id": 1380415,
-    "tmdb_id": 1380415,
-    "título": "La Última Cena",
-    "título_original": "The Last Supper",
-    "sinopsis": "En los días previos a la traición, una reunión de discípulos se desmorona en una red de secretos y motivos ocultos. Mientras la tensión crece latente, la confianza se pone a prueba y la lealtad se cuestiona. La Última Cena se convierte en una noche donde nada es lo que parece y cada mirada esconde una verdad más profunda.",
-    "poster_path": "/oO0Z5VnEtZRL5oDTT2XM9DyyXlH.jpg",
-    "poster_local": "imagenes_estrenos/La__ltima_Cena_oO0Z5VnEtZRL5oDTT2XM9DyyXlH.jpg",
-    "backdrop_path": "/mvPFffXgQzWFG2fZwdBv0i8zf6o.jpg",
-    "backdrop_local": "imagenes_estrenos/La__ltima_Cena_backdrop_mvPFffXgQzWFG2fZwdBv0i8zf6o.jpg",
-    "fecha_estreno": "2026-03-26T00:00:00.000Z",
-    "duración": "114 min",
-    "director": "Mauro Borrelli",
-    "directores": [
-      {
-        "name": "Mauro Borrelli",
-        "id": 21701
-      }
-    ],
-    "actores": [
-      {
-        "name": "Jamie Ward",
-        "id": 1647127,
-        "character": "Jesus Christ",
-        "profile_path": "/5ZBXYAn3ysTYDlS3LMtU5w5PdbG.jpg"
-      },
-      {
-        "name": "James Oliver Wheatley",
-        "id": 1420278,
-        "character": "Peter",
-        "profile_path": "/9h2uhnNzfQZEPKkFR0vDNGZnurU.jpg"
-      },
-      {
-        "name": "Charlie MacGechan",
-        "id": 1805355,
-        "character": "John",
-        "profile_path": "/Aj1xuZ7X1bw33KA1XmZnpvXTDQ2.jpg"
-      },
-      {
-        "name": "Nathalie Rapti Gomez",
-        "id": 592528,
-        "character": "Mary Magdalene",
-        "profile_path": "/3xmsqNOBOs19rfGDviUF3KFMSSJ.jpg"
-      },
-      {
-        "name": "James Faulkner",
-        "id": 9140,
-        "character": "Caiaphas",
-        "profile_path": "/969qmhcUDkb0Ms8sduDXIymsqRe.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 2.0619,
-    "puntuación": 6.7,
-    "votos": 39,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/mvPFffXgQzWFG2fZwdBv0i8zf6o.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/qxXL4PQe7E8TatEYjKv5qgt3ZT6.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/dinCe80P3vaJPieUOAzQKmz7Pvo.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/aFa7ucmI7ZF6aNsVaoLjmfhM1fr.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/eOjqry8tdRsJCRP7JxbMe1iIpcS.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/mLGwYBp2NOWFhkdJsNtajYSZkrb.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 2700,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/oO0Z5VnEtZRL5oDTT2XM9DyyXlH.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1800
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/xgeBveGQB8pqJ0DmZXEr6NhbgvY.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/uJEUFA8VyVVRN6hHrawcecuVGBF.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/ua44f7mAW4f2ueBxIIobscaPUaw.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-03-24 22:07:24"
-  },
-  {
     "id": 687163,
     "tmdb_id": 687163,
     "título": "Proyecto Salvación",
@@ -1447,9 +1276,9 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 58.0805,
-    "puntuación": 7.511,
-    "votos": 45,
+    "popularidad": 60.5939,
+    "puntuación": 7.553,
+    "votos": 47,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1539,7 +1368,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:18"
+    "última_actualización": "2026-03-27 10:14:15"
   },
   {
     "id": 1226863,
@@ -1553,15 +1382,15 @@
     "backdrop_local": "imagenes_estrenos/Super_Mario_Galaxy_la_pel_cula_backdrop_5U0tqruExz7ssDyr5pwiAGFzI8S.jpg",
     "fecha_estreno": "2026-04-01T00:00:00.000Z",
     "duración": "98 min",
-    "director": "Michael Jelenic, Aaron Horvath",
+    "director": "Aaron Horvath, Michael Jelenic",
     "directores": [
-      {
-        "name": "Michael Jelenic",
-        "id": 113901
-      },
       {
         "name": "Aaron Horvath",
         "id": 1719706
+      },
+      {
+        "name": "Michael Jelenic",
+        "id": 113901
       }
     ],
     "actores": [
@@ -1618,7 +1447,7 @@
         "name": "Animación"
       }
     ],
-    "popularidad": 42.597,
+    "popularidad": 49.9851,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1730,7 +1559,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:18"
+    "última_actualización": "2026-03-27 10:14:16"
   },
   {
     "id": 13494,
@@ -1797,7 +1626,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 16.7156,
+    "popularidad": 15.4642,
     "puntuación": 5.7,
     "votos": 206,
     "adulto": false,
@@ -1889,7 +1718,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:18"
+    "última_actualización": "2026-03-27 10:14:16"
   },
   {
     "id": 1399462,
@@ -1948,7 +1777,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.8959,
+    "popularidad": 2.5314,
     "puntuación": 7.0,
     "votos": 24,
     "adulto": false,
@@ -2020,7 +1849,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:19"
+    "última_actualización": "2026-03-27 10:14:17"
   },
   {
     "id": 1480608,
@@ -2077,7 +1906,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 0.3534,
+    "popularidad": 0.402,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2139,7 +1968,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:20"
+    "última_actualización": "2026-03-27 10:14:18"
   },
   {
     "id": 1577869,
@@ -2192,7 +2021,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.2346,
+    "popularidad": 0.2029,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2213,7 +2042,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-03-26 22:04:21"
+    "última_actualización": "2026-03-27 10:14:18"
   },
   {
     "id": 1638249,
@@ -2267,7 +2096,7 @@
       }
     ],
     "géneros": [],
-    "popularidad": 0.0393,
+    "popularidad": 0.0645,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2288,7 +2117,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:22"
+    "última_actualización": "2026-03-27 10:14:19"
   },
   {
     "id": 878608,
@@ -2524,9 +2353,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 57.4995,
-    "puntuación": 8.0,
-    "votos": 110,
+    "popularidad": 55.345,
+    "puntuación": 8.004,
+    "votos": 112,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2606,7 +2435,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:18"
+    "última_actualización": "2026-03-27 10:14:15"
   },
   {
     "id": 1356956,
@@ -2663,7 +2492,7 @@
         "name": "Música"
       }
     ],
-    "popularidad": 1.0273,
+    "popularidad": 1.1773,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2673,7 +2502,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-03-26 22:04:19"
+    "última_actualización": "2026-03-27 10:14:17"
   },
   {
     "id": 1119449,
@@ -2681,7 +2510,7 @@
     "título": "Buena suerte, pásalo bien, no mueras",
     "título_original": "Good Luck, Have Fun, Don't Die",
     "sinopsis": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
-    "poster_path": "/dtEVoZBMuwlgz4mh4PA75eVbBM1.jpg",
+    "poster_path": "/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
     "poster_local": "imagenes_estrenos/Buena_suerte__p_salo_bien__no_mueras_dtEVoZBMuwlgz4mh4PA75eVbBM1.jpg",
     "backdrop_path": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
     "backdrop_local": "imagenes_estrenos/Buena_suerte__p_salo_bien__no_mueras_backdrop_drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
@@ -2740,9 +2569,9 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 36.7467,
-    "puntuación": 6.923,
-    "votos": 248,
+    "popularidad": 33.6285,
+    "puntuación": 6.9,
+    "votos": 250,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2819,10 +2648,20 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:18"
+    "última_actualización": "2026-03-27 10:14:16"
   },
   {
     "id": 1640655,
@@ -2897,7 +2736,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.1268,
+    "popularidad": 0.1374,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2907,7 +2746,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-03-26 22:04:21"
+    "última_actualización": "2026-03-27 10:14:19"
   },
   {
     "id": 1378388,
@@ -2966,7 +2805,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.0311,
+    "popularidad": 0.0453,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2997,7 +2836,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:22"
+    "última_actualización": "2026-03-27 10:14:19"
   },
   {
     "id": 1367642,
@@ -3060,9 +2899,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 30.6905,
-    "puntuación": 7.061,
-    "votos": 66,
+    "popularidad": 29.5195,
+    "puntuación": 7.06,
+    "votos": 67,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3172,7 +3011,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:18"
+    "última_actualización": "2026-03-27 10:14:16"
   },
   {
     "id": 1317149,
@@ -3229,11 +3068,15 @@
       {
         "id": 18,
         "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
       }
     ],
-    "popularidad": 16.5017,
+    "popularidad": 15.5718,
     "puntuación": 8.4,
-    "votos": 131,
+    "votos": 132,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3343,7 +3186,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:19"
+    "última_actualización": "2026-03-27 10:14:16"
   },
   {
     "id": 1043197,
@@ -3410,8 +3253,8 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 11.8765,
-    "puntuación": 6.619,
+    "popularidad": 11.9069,
+    "puntuación": 6.6,
     "votos": 208,
     "adulto": false,
     "video": false,
@@ -3502,7 +3345,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:19"
+    "última_actualización": "2026-03-27 10:14:16"
   },
   {
     "id": 1595852,
@@ -3565,7 +3408,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 0.9118,
+    "popularidad": 1.3811,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3586,7 +3429,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:20"
+    "última_actualización": "2026-03-27 10:14:17"
   },
   {
     "id": 1435734,
@@ -3649,7 +3492,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.777,
+    "popularidad": 1.0475,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3701,7 +3544,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:20"
+    "última_actualización": "2026-03-27 10:14:17"
   },
   {
     "id": 1563543,
@@ -3760,7 +3603,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.1865,
+    "popularidad": 0.1753,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3811,7 +3654,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-03-26 22:04:21"
+    "última_actualización": "2026-03-27 10:14:18"
   },
   {
     "id": 1492328,
@@ -3839,7 +3682,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.0448,
+    "popularidad": 0.0311,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3860,7 +3703,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:22"
+    "última_actualización": "2026-03-27 10:14:19"
   },
   {
     "id": 1304313,
@@ -3923,7 +3766,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 9.0941,
+    "popularidad": 10.2903,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4015,7 +3858,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:19"
+    "última_actualización": "2026-03-27 10:14:16"
   },
   {
     "id": 1000828,
@@ -4078,7 +3921,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 1.401,
+    "popularidad": 1.587,
     "puntuación": 6.9,
     "votos": 33,
     "adulto": false,
@@ -4130,7 +3973,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:19"
+    "última_actualización": "2026-03-27 10:14:17"
   },
   {
     "id": 1239198,
@@ -4193,7 +4036,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 0.6562,
+    "popularidad": 0.7325,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4255,7 +4098,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:20"
+    "última_actualización": "2026-03-27 10:14:17"
   },
   {
     "id": 1651177,
@@ -4318,7 +4161,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.6273,
+    "popularidad": 0.5371,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4328,7 +4171,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-03-26 22:04:20"
+    "última_actualización": "2026-03-27 10:14:17"
   },
   {
     "id": 1306293,
@@ -4391,7 +4234,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 0.5886,
+    "popularidad": 0.7416,
     "puntuación": 5.5,
     "votos": 50,
     "adulto": false,
@@ -4473,7 +4316,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:20"
+    "última_actualización": "2026-03-27 10:14:18"
   },
   {
     "id": 1579471,
@@ -4540,7 +4383,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 0.3355,
+    "popularidad": 0.452,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4572,7 +4415,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:20"
+    "última_actualización": "2026-03-27 10:14:18"
   },
   {
     "id": 1391325,
@@ -4631,7 +4474,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.2626,
+    "popularidad": 0.3704,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4693,7 +4536,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:21"
+    "última_actualización": "2026-03-27 10:14:18"
   },
   {
     "id": 1434589,
@@ -4734,7 +4577,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.0822,
+    "popularidad": 0.0655,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4744,7 +4587,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-03-26 22:04:22"
+    "última_actualización": "2026-03-27 10:14:19"
   },
   {
     "id": 1602856,
@@ -4799,7 +4642,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 0.2754,
+    "popularidad": 0.4214,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4831,7 +4674,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:21"
+    "última_actualización": "2026-03-27 10:14:18"
   },
   {
     "id": 1640271,
@@ -4898,7 +4741,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.0281,
+    "popularidad": 0.0352,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4919,7 +4762,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:22"
+    "última_actualización": "2026-03-27 10:14:19"
   },
   {
     "id": 936075,
@@ -4927,7 +4770,7 @@
     "título": "Michael",
     "título_original": "Michael",
     "sinopsis": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-    "poster_path": "/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg",
+    "poster_path": "/hCtekkEvGUa8AlO9XM2p1HnfYts.jpg",
     "poster_local": "imagenes_estrenos/Michael_mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg",
     "backdrop_path": "/xh3v9v8RRbJgjcubewQ0wBjp8Qv.jpg",
     "backdrop_local": "imagenes_estrenos/Michael_backdrop_xh3v9v8RRbJgjcubewQ0wBjp8Qv.jpg",
@@ -4986,7 +4829,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 12.8207,
+    "popularidad": 13.5597,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -5098,7 +4941,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-26 22:04:19"
+    "última_actualización": "2026-03-27 10:14:16"
   },
   {
     "id": 1653435,
@@ -5155,7 +4998,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.1116,
+    "popularidad": 0.1529,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -5165,7 +5008,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-03-26 22:04:21"
+    "última_actualización": "2026-03-27 10:14:19"
   },
   {
     "id": 1632334,
