@@ -69,8 +69,8 @@
       }
     ],
     "popularidad": 58.637,
-    "puntuación": 7.6,
-    "votos": 51,
+    "puntuación": 7.648,
+    "votos": 54,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -160,7 +160,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:53"
+    "última_actualización": "2026-03-28 22:05:11"
   },
   {
     "id": 1226863,
@@ -240,8 +240,8 @@
       }
     ],
     "popularidad": 54.054,
-    "puntuación": 0.0,
-    "votos": 0,
+    "puntuación": 6.0,
+    "votos": 2,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -310,16 +310,6 @@
           "width": 2000
         },
         {
-          "aspect_ratio": 0.666,
-          "height": 1352,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/9BafQnaU3U0PL7pkDBaTmCA9EHE.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 901
-        },
-        {
           "aspect_ratio": 0.667,
           "height": 3000,
           "iso_3166_1": "ES",
@@ -348,10 +338,20 @@
           "vote_average": 1.75,
           "vote_count": 2,
           "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/y3ULjeN72QIUMuJVbQGpjzjGyd7.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2000
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:53"
+    "última_actualización": "2026-03-28 22:05:12"
   },
   {
     "id": 13494,
@@ -514,7 +514,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:54"
+    "última_actualización": "2026-03-28 22:05:13"
   },
   {
     "id": 1399462,
@@ -645,7 +645,44 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:55"
+    "última_actualización": "2026-03-28 22:05:14"
+  },
+  {
+    "id": 1269595,
+    "tmdb_id": 1269595,
+    "título": "Nuclear War: A Scenario",
+    "título_original": "Nuclear War: A Scenario",
+    "sinopsis": "",
+    "poster_path": "/jegBCkHdm1RFsSFeYq31ebjpVWX.jpg",
+    "poster_local": "imagenes_estrenos/Nuclear_War__A_Scenario_jegBCkHdm1RFsSFeYq31ebjpVWX.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-04-01T00:00:00.000Z",
+    "duración": "142 min",
+    "director": "",
+    "directores": [],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 10752,
+        "name": "Bélica"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 0.6458,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-03-28 22:05:16"
   },
   {
     "id": 1480608,
@@ -764,7 +801,83 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:57"
+    "última_actualización": "2026-03-28 22:05:17"
+  },
+  {
+    "id": 1653459,
+    "tmdb_id": 1653459,
+    "título": "Shabab El Bomb 3",
+    "título_original": "Shabab El Bomb 3",
+    "sinopsis": "",
+    "poster_path": "/vbQ3ikGeeL6A2bVsfbTra1magYI.jpg",
+    "poster_local": "imagenes_estrenos/Shabab_El_Bomb_3_vbQ3ikGeeL6A2bVsfbTra1magYI.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-04-01T00:00:00.000Z",
+    "duración": "253 min",
+    "director": "Jack Black",
+    "directores": [
+      {
+        "name": "Jack Black",
+        "id": 70851
+      }
+    ],
+    "actores": [
+      {
+        "name": "فيصل العيسى",
+        "id": 5210210,
+        "character": "",
+        "profile_path": "/yftUsRy20Xt8Nt2nlyv2I0XEcXI.jpg"
+      },
+      {
+        "name": "محمد الدوسري",
+        "id": 5277171,
+        "character": "",
+        "profile_path": "/t1X4hg4MUro5iCaeyByFAlFxrV0.jpg"
+      },
+      {
+        "name": "عبدالعزيز الفريحي",
+        "id": 4624061,
+        "character": "",
+        "profile_path": "/olL5NBVGuqpFTT5Edw2vZoyH2e8.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 0.3258,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 786,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vbQ3ikGeeL6A2bVsfbTra1magYI.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 550
+        }
+      ]
+    },
+    "última_actualización": "2026-03-28 22:05:18"
   },
   {
     "id": 1577869,
@@ -838,7 +951,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-03-28 10:07:57"
+    "última_actualización": "2026-03-28 22:05:19"
   },
   {
     "id": 1638249,
@@ -913,7 +1026,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:58"
+    "última_actualización": "2026-03-28 22:05:20"
   },
   {
     "id": 878608,
@@ -1235,7 +1348,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:53"
+    "última_actualización": "2026-03-28 22:05:12"
   },
   {
     "id": 1356956,
@@ -1302,7 +1415,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-03-28 10:07:55"
+    "última_actualización": "2026-03-28 22:05:15"
   },
   {
     "id": 1119449,
@@ -1370,8 +1483,8 @@
       }
     ],
     "popularidad": 31.4108,
-    "puntuación": 6.953,
-    "votos": 256,
+    "puntuación": 6.954,
+    "votos": 260,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1461,7 +1574,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:53"
+    "última_actualización": "2026-03-28 22:05:12"
   },
   {
     "id": 1640655,
@@ -1546,7 +1659,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-03-28 10:07:58"
+    "última_actualización": "2026-03-28 22:05:19"
   },
   {
     "id": 1378388,
@@ -1636,7 +1749,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:58"
+    "última_actualización": "2026-03-28 22:05:20"
   },
   {
     "id": 1367642,
@@ -1700,8 +1813,8 @@
       }
     ],
     "popularidad": 28.3342,
-    "puntuación": 7.059,
-    "votos": 68,
+    "puntuación": 7.058,
+    "votos": 69,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1811,7 +1924,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:53"
+    "última_actualización": "2026-03-28 22:05:13"
   },
   {
     "id": 1317149,
@@ -1986,7 +2099,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:54"
+    "última_actualización": "2026-03-28 22:05:13"
   },
   {
     "id": 1043197,
@@ -2054,8 +2167,8 @@
       }
     ],
     "popularidad": 11.6699,
-    "puntuación": 6.6,
-    "votos": 208,
+    "puntuación": 6.627,
+    "votos": 210,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2145,7 +2258,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:54"
+    "última_actualización": "2026-03-28 22:05:14"
   },
   {
     "id": 1595852,
@@ -2229,7 +2342,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:55"
+    "última_actualización": "2026-03-28 22:05:15"
   },
   {
     "id": 1435734,
@@ -2344,7 +2457,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:55"
+    "última_actualización": "2026-03-28 22:05:15"
   },
   {
     "id": 1563543,
@@ -2454,7 +2567,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-03-28 10:07:57"
+    "última_actualización": "2026-03-28 22:05:19"
   },
   {
     "id": 1492328,
@@ -2503,7 +2616,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:59"
+    "última_actualización": "2026-03-28 22:05:21"
   },
   {
     "id": 1304313,
@@ -2665,10 +2778,20 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ixyvPgF2vDKOtqVz4SfZnZzqHqz.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:54"
+    "última_actualización": "2026-03-28 22:05:14"
   },
   {
     "id": 1000828,
@@ -2783,7 +2906,80 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:55"
+    "última_actualización": "2026-03-28 22:05:14"
+  },
+  {
+    "id": 1651177,
+    "tmdb_id": 1651177,
+    "título": "Landa",
+    "título_original": "Landa",
+    "sinopsis": "Retrato, con sus aristas, luces y sombras, del actor más popular de la historia del cine español. No hay ningún caso como el de Alfredo Landa, que aúna en su carrera las elevadas dosis de cariño que recibió del público con las mejores críticas y reconocimientos en prestigiosos premios y por parte de toda la profesión. Desde el “landismo” como género cinematográfico, hasta la época de sus grandes papeles, para culminar con la persona detrás del actor, con material inédito y con los testimonios más cercanos a Alfredo.",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-04-17T00:00:00.000Z",
+    "duración": "70 min",
+    "director": "Gracia Querejeta, Miguel Olid",
+    "directores": [
+      {
+        "name": "Gracia Querejeta",
+        "id": 212674
+      },
+      {
+        "name": "Miguel Olid",
+        "id": 4582221
+      }
+    ],
+    "actores": [
+      {
+        "name": "Alfredo Landa",
+        "id": 230884,
+        "character": "Self (Archive Footage)",
+        "profile_path": "/7HS620PfCoXgRrOTCl9FcXVpztZ.jpg"
+      },
+      {
+        "name": "José Sacristán",
+        "id": 105217,
+        "character": "Self",
+        "profile_path": "/dT1tMNeRiBHVfpgSKY1EoxiioVw.jpg"
+      },
+      {
+        "name": "Luis Alegre",
+        "id": 1074041,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Víctor García León",
+        "id": 1044792,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Miguel Rellán",
+        "id": 81848,
+        "character": "",
+        "profile_path": "/raW50z3LZZXOSXTwOFFUf4U3zet.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.6348,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-03-28 22:05:16"
   },
   {
     "id": 1306293,
@@ -2928,7 +3124,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:56"
+    "última_actualización": "2026-03-28 22:05:17"
   },
   {
     "id": 1239198,
@@ -3053,80 +3249,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:56"
-  },
-  {
-    "id": 1651177,
-    "tmdb_id": 1651177,
-    "título": "Landa",
-    "título_original": "Landa",
-    "sinopsis": "Retrato, con sus aristas, luces y sombras, del actor más popular de la historia del cine español. No hay ningún caso como el de Alfredo Landa, que aúna en su carrera las elevadas dosis de cariño que recibió del público con las mejores críticas y reconocimientos en prestigiosos premios y por parte de toda la profesión. Desde el “landismo” como género cinematográfico, hasta la época de sus grandes papeles, para culminar con la persona detrás del actor, con material inédito y con los testimonios más cercanos a Alfredo.",
-    "poster_path": null,
-    "poster_local": "",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-04-17T00:00:00.000Z",
-    "duración": "70 min",
-    "director": "Gracia Querejeta, Miguel Olid",
-    "directores": [
-      {
-        "name": "Gracia Querejeta",
-        "id": 212674
-      },
-      {
-        "name": "Miguel Olid",
-        "id": 4582221
-      }
-    ],
-    "actores": [
-      {
-        "name": "Alfredo Landa",
-        "id": 230884,
-        "character": "Self (Archive Footage)",
-        "profile_path": "/7HS620PfCoXgRrOTCl9FcXVpztZ.jpg"
-      },
-      {
-        "name": "José Sacristán",
-        "id": 105217,
-        "character": "Self",
-        "profile_path": "/dT1tMNeRiBHVfpgSKY1EoxiioVw.jpg"
-      },
-      {
-        "name": "Luis Alegre",
-        "id": 1074041,
-        "character": "Self",
-        "profile_path": null
-      },
-      {
-        "name": "Víctor García León",
-        "id": 1044792,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Miguel Rellán",
-        "id": 81848,
-        "character": "",
-        "profile_path": "/raW50z3LZZXOSXTwOFFUf4U3zet.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.6348,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2026-03-28 10:07:56"
+    "última_actualización": "2026-03-28 22:05:17"
   },
   {
     "id": 1579471,
@@ -3225,7 +3348,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:56"
+    "última_actualización": "2026-03-28 22:05:17"
   },
   {
     "id": 1391325,
@@ -3346,7 +3469,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:57"
+    "última_actualización": "2026-03-28 22:05:18"
   },
   {
     "id": 1434589,
@@ -3397,7 +3520,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-03-28 10:07:58"
+    "última_actualización": "2026-03-28 22:05:20"
   },
   {
     "id": 1602856,
@@ -3484,7 +3607,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:56"
+    "última_actualización": "2026-03-28 22:05:18"
   },
   {
     "id": 1640271,
@@ -3572,7 +3695,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:58"
+    "última_actualización": "2026-03-28 22:05:20"
   },
   {
     "id": 936075,
@@ -3582,7 +3705,7 @@
     "sinopsis": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
     "poster_path": "/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
     "poster_local": "imagenes_estrenos/Michael_mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg",
-    "backdrop_path": "/xh3v9v8RRbJgjcubewQ0wBjp8Qv.jpg",
+    "backdrop_path": "/jATOTqAd18KEJzlJFWMpdWR49md.jpg",
     "backdrop_local": "imagenes_estrenos/Michael_backdrop_xh3v9v8RRbJgjcubewQ0wBjp8Qv.jpg",
     "fecha_estreno": "2026-04-22T00:00:00.000Z",
     "duración": "127 min",
@@ -3649,16 +3772,6 @@
       "backdrops": [
         {
           "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xh3v9v8RRbJgjcubewQ0wBjp8Qv.jpg",
-          "vote_average": 8.034,
-          "vote_count": 5,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
@@ -3666,6 +3779,16 @@
           "vote_average": 7.19,
           "vote_count": 7,
           "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xh3v9v8RRbJgjcubewQ0wBjp8Qv.jpg",
+          "vote_average": 6.722,
+          "vote_count": 6,
+          "width": 1920
         },
         {
           "aspect_ratio": 1.778,
@@ -3751,7 +3874,7 @@
         }
       ]
     },
-    "última_actualización": "2026-03-28 10:07:54"
+    "última_actualización": "2026-03-28 22:05:13"
   },
   {
     "id": 1653435,
@@ -3818,7 +3941,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-03-28 10:07:57"
+    "última_actualización": "2026-03-28 22:05:19"
   },
   {
     "id": 1632334,
