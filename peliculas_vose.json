@@ -4,23 +4,6 @@
         "cartel": "imagenes_peliculas/tmdb_proyecto_salvacion.jpg",
         "horarios": [
             {
-                "fecha": "2026-03-29",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=99267&eventCode=104073"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "Phil Lord, Christopher Miller",
-        "duración": "157 min",
-        "actores": "Ryan Gosling, James Ortiz, Sandra Hüller, Lionel Boyce, Milana Vayntrub",
-        "sinopsis": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-        "año": "2026"
-    },
-    {
-        "título": "Proyecto Salvación",
-        "cartel": "imagenes_peliculas/tmdb_proyecto_salvacion.jpg",
-        "horarios": [
-            {
                 "fecha": "2026-03-30",
                 "hora": "19:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=99283&eventCode=104073"
@@ -49,74 +32,6 @@
         "actores": "Ryan Gosling, James Ortiz, Sandra Hüller, Lionel Boyce, Milana Vayntrub",
         "sinopsis": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
         "año": "2026"
-    },
-    {
-        "título": "Yo te creo",
-        "cartel": "imagenes_peliculas/tmdb_yo_te_creo.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-03-29",
-                "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90022&eventCode=108293"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Arnaud Dufeys, Charlotte Devillers",
-        "duración": "78 min",
-        "actores": "Myriem Akheddiou, Laurent Capelluto, Natali Broods, Ulysse Goffin, Adèle Pinckaers",
-        "sinopsis": "",
-        "año": "2025"
-    },
-    {
-        "título": "La hija pequeña",
-        "cartel": "imagenes_peliculas/tmdb_la_hija_pequena.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-03-29",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90016&eventCode=108556"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Hafsia Herzi",
-        "duración": "112 min",
-        "actores": "Nadia Melliti, Park Ji-Min, Amina Ben Mohamed, Rita Benmannana, Melissa Guers",
-        "sinopsis": "",
-        "año": "2025"
-    },
-    {
-        "título": "Una hija en Tokio",
-        "cartel": "imagenes_peliculas/tmdb_una_hija_en_tokio.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-03-29",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90017&eventCode=108297"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Guillaume Senez",
-        "duración": "98 min",
-        "actores": "Romain Duris, Mei Cirne-Masuki, Judith Chemla, Tsuyu Shimizu, 内田春菊",
-        "sinopsis": "",
-        "año": "2024"
-    },
-    {
-        "título": "El último vikingo",
-        "cartel": "imagenes_peliculas/tmdb_el_ultimo_vikingo.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-03-29",
-                "hora": "19:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90018&eventCode=104664"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Anders Thomas Jensen",
-        "duración": "116 min",
-        "actores": "Mads Mikkelsen, Nikolaj Lie Kaas, Sofie Gråbøl, Søren Malling, Bodil Jørgensen",
-        "sinopsis": "Anker sale de prisión tras cumplir una condena de quince años por robo. El dinero del atraco fue enterrado por su hermano Manfred. Solo él sabe dónde está. Por desgracia, desde entonces Manfred ha desarrollado un trastorno mental que le ha hecho olvidarlo todo. Juntos, los hermanos emprenden un viaje inesperado para encontrar el dinero y descubrir quiénes son en realidad.",
-        "año": "2025"
     },
     {
         "título": "Yo te creo",
@@ -253,23 +168,6 @@
         "actores": "Mads Mikkelsen, Nikolaj Lie Kaas, Sofie Gråbøl, Søren Malling, Bodil Jørgensen",
         "sinopsis": "Anker sale de prisión tras cumplir una condena de quince años por robo. El dinero del atraco fue enterrado por su hermano Manfred. Solo él sabe dónde está. Por desgracia, desde entonces Manfred ha desarrollado un trastorno mental que le ha hecho olvidarlo todo. Juntos, los hermanos emprenden un viaje inesperado para encontrar el dinero y descubrir quiénes son en realidad.",
         "año": "2025"
-    },
-    {
-        "título": "Your name",
-        "cartel": "imagenes_peliculas/tmdb_your_name.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-03-29",
-                "hora": "19:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=222134&eventCode=30812"
-            }
-        ],
-        "cine": "Golem La Morea",
-        "director": "Luca Guadagnino",
-        "duración": "122 min",
-        "actores": "Armie Hammer, Timothée Chalamet, Michael Stuhlbarg, Amira Casar, Esther Garrel",
-        "sinopsis": "Elio Perlman (Timothée Chalamet), un joven de 17 años, pasa el cálido y soleado verano de 1983 en la casa de campo de sus padres en el norte de Italia. Se pasa el tiempo holgazaneando, escuchando música, leyendo libros y nadando hasta que un día el nuevo ayudante americano de su padre llega a la gran villa. Oliver (Armie Hammer) es encantador y, como Elio, tiene raíces judías; también es joven, seguro de sí mismo y atractivo. Al principio Elio se muestra algo frío y distante hacia el joven, pero pronto ambos empiezan a salir juntos de excursión y, conforme el verano avanza, la atracción mutua de la pareja se hace más intensa.",
-        "año": "2017"
     },
     {
         "título": "Your name",
