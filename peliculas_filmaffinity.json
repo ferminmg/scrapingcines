@@ -1,27 +1,5 @@
 [
     {
-        "título": "Your Name (10º Aniversario)",
-        "cartel": "imagenes_filmaffinity/your-name-10o-aniversario.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-03-30",
-                "hora": "15:55",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27834"
-            },
-            {
-                "fecha": "2026-03-31",
-                "hora": "15:55",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27863"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
-    },
-    {
         "título": "Shelter: El protector",
         "cartel": "imagenes_filmaffinity/tmdb_shelter-el-protector.jpg",
         "horarios": [
@@ -73,6 +51,23 @@
         "año": "2026"
     },
     {
+        "título": "Your Name (10º Aniversario)",
+        "cartel": "imagenes_filmaffinity/your-name-10o-aniversario.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-03-31",
+                "hora": "15:55",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27863"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
         "título": "Super Mario Galaxy: La película",
         "cartel": "imagenes_filmaffinity/tmdb_super-mario-galaxy-la-pelicula.jpg",
         "horarios": [
@@ -114,7 +109,7 @@
         ],
         "cine": "Yelmo Itaroa",
         "director": "Aaron Horvath, Michael Jelenic",
-        "duración": "0 min",
+        "duración": "98 min",
         "actores": "Chris Pratt, Anya Taylor-Joy, Charlie Day, Brie Larson, Keegan-Michael Key",
         "sinopsis": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
         "año": "2026"
