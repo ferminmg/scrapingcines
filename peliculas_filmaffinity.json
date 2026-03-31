@@ -1,71 +1,5 @@
 [
     {
-        "título": "Shelter: El protector",
-        "cartel": "imagenes_filmaffinity/tmdb_shelter-el-protector.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-03-31",
-                "hora": "20:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27888"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Ric Roman Waugh",
-        "duración": "107 min",
-        "actores": "Jason Statham, Bodhi Rae Breathnach, Michael Shaeffer, Anna Crilly, Bill Nighy",
-        "sinopsis": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
-        "año": "2026"
-    },
-    {
-        "título": "Proyecto Salvación",
-        "cartel": "imagenes_filmaffinity/tmdb_proyecto-salvacion.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-03-31",
-                "hora": "20:45",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27865"
-            },
-            {
-                "fecha": "2026-04-07",
-                "hora": "20:20",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=28083"
-            },
-            {
-                "fecha": "2026-04-08",
-                "hora": "20:20",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=28127"
-            },
-            {
-                "fecha": "2026-04-09",
-                "hora": "20:20",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=28098"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Phil Lord, Christopher Miller",
-        "duración": "157 min",
-        "actores": "Ryan Gosling, James Ortiz, Sandra Hüller, Lionel Boyce, Milana Vayntrub",
-        "sinopsis": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-        "año": "2026"
-    },
-    {
-        "título": "Te van a matar",
-        "cartel": "imagenes_filmaffinity/tmdb_te-van-a-matar.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-03-31",
-                "hora": "20:20",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27873"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Kirill Sokolov",
-        "duración": "94 min",
-        "actores": "Zazie Beetz, Patricia Arquette, Myha'la, Paterson Joseph, Tom Felton",
-        "sinopsis": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
-        "año": "2026"
-    },
-    {
         "título": "Super Mario Galaxy: La película",
         "cartel": "imagenes_filmaffinity/tmdb_super-mario-galaxy-la-pelicula.jpg",
         "horarios": [
@@ -110,6 +44,33 @@
         "duración": "98 min",
         "actores": "Chris Pratt, Anya Taylor-Joy, Charlie Day, Brie Larson, Keegan-Michael Key",
         "sinopsis": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
+        "año": "2026"
+    },
+    {
+        "título": "Proyecto Salvación",
+        "cartel": "imagenes_filmaffinity/tmdb_proyecto-salvacion.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-04-07",
+                "hora": "20:20",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=28083"
+            },
+            {
+                "fecha": "2026-04-08",
+                "hora": "20:20",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=28127"
+            },
+            {
+                "fecha": "2026-04-09",
+                "hora": "20:20",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=28098"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Phil Lord, Christopher Miller",
+        "duración": "157 min",
+        "actores": "Ryan Gosling, James Ortiz, Sandra Hüller, Lionel Boyce, Milana Vayntrub",
+        "sinopsis": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
         "año": "2026"
     },
     {
