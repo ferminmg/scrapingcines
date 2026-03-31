@@ -72,6 +72,23 @@
         "cartel": "imagenes_peliculas/tmdb_proyecto_salvacion.jpg",
         "horarios": [
             {
+                "fecha": "2026-04-04",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=99376&eventCode=104073"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Phil Lord, Christopher Miller",
+        "duración": "157 min",
+        "actores": "Ryan Gosling, James Ortiz, Sandra Hüller, Lionel Boyce, Milana Vayntrub",
+        "sinopsis": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+        "año": "2026"
+    },
+    {
+        "título": "Proyecto Salvación",
+        "cartel": "imagenes_peliculas/tmdb_proyecto_salvacion.jpg",
+        "horarios": [
+            {
                 "fecha": "2026-04-05",
                 "hora": "21:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=99396&eventCode=104073"
