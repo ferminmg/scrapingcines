@@ -87,7 +87,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:44"
+    "última_actualización": "2026-04-05 22:06:18"
   },
   {
     "id": 1367642,
@@ -262,7 +262,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:41"
+    "última_actualización": "2026-04-05 22:06:10"
   },
   {
     "id": 1317149,
@@ -326,8 +326,8 @@
       }
     ],
     "popularidad": 16.7552,
-    "puntuación": 8.351,
-    "votos": 148,
+    "puntuación": 8.367,
+    "votos": 150,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -437,7 +437,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:41"
+    "última_actualización": "2026-04-05 22:06:11"
   },
   {
     "id": 1043197,
@@ -505,8 +505,8 @@
       }
     ],
     "popularidad": 15.3602,
-    "puntuación": 6.589,
-    "votos": 215,
+    "puntuación": 6.6,
+    "votos": 217,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -596,7 +596,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:41"
+    "última_actualización": "2026-04-05 22:06:11"
   },
   {
     "id": 414419,
@@ -660,8 +660,8 @@
       }
     ],
     "popularidad": 11.4838,
-    "puntuación": 8.0,
-    "votos": 1193,
+    "puntuación": 8.045,
+    "votos": 1194,
     "adulto": false,
     "video": false,
     "año": "2011",
@@ -771,7 +771,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:41"
+    "última_actualización": "2026-04-05 22:06:12"
   },
   {
     "id": 1595852,
@@ -855,7 +855,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:41"
+    "última_actualización": "2026-04-05 22:06:12"
   },
   {
     "id": 1435734,
@@ -970,7 +970,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:42"
+    "última_actualización": "2026-04-05 22:06:13"
   },
   {
     "id": 1563543,
@@ -1101,7 +1101,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:42"
+    "última_actualización": "2026-04-05 22:06:14"
   },
   {
     "id": 1492328,
@@ -1150,7 +1150,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:43"
+    "última_actualización": "2026-04-05 22:06:17"
   },
   {
     "id": 1640655,
@@ -1267,7 +1267,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:43"
+    "última_actualización": "2026-04-05 22:06:16"
   },
   {
     "id": 1304313,
@@ -1442,7 +1442,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:41"
+    "última_actualización": "2026-04-05 22:06:11"
   },
   {
     "id": 1239198,
@@ -1567,7 +1567,106 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:42"
+    "última_actualización": "2026-04-05 22:06:13"
+  },
+  {
+    "id": 1579471,
+    "tmdb_id": 1579471,
+    "título": "Calcinación",
+    "título_original": "Calcinación",
+    "sinopsis": "",
+    "poster_path": "/xYZHsSPPBZzURHWce6T83vupNb8.jpg",
+    "poster_local": "imagenes_estrenos/Calcinaci_n_xYZHsSPPBZzURHWce6T83vupNb8.jpg",
+    "backdrop_path": "/7eeBN9k5meykV79FnosSvy7th5y.jpg",
+    "backdrop_local": "imagenes_estrenos/Calcinaci_n_backdrop_7eeBN9k5meykV79FnosSvy7th5y.jpg",
+    "fecha_estreno": "2026-04-17T00:00:00.000Z",
+    "duración": "90 min",
+    "director": "Luis Navarrete",
+    "directores": [
+      {
+        "name": "Luis Navarrete",
+        "id": 2753246
+      }
+    ],
+    "actores": [
+      {
+        "name": "Javier Hernández",
+        "id": 1255404,
+        "character": "Javi",
+        "profile_path": "/xaxb3HL6MuOnmmx7RuzfoDAkQfG.jpg"
+      },
+      {
+        "name": "Vanessa Pámpano",
+        "id": 3789225,
+        "character": "Diana",
+        "profile_path": null
+      },
+      {
+        "name": "Pablo Liñares",
+        "id": 3427824,
+        "character": "Compañero",
+        "profile_path": "/oFD68G1D4987KODEvBYJxBFadvZ.jpg"
+      },
+      {
+        "name": "Antonia San Juan",
+        "id": 961,
+        "character": "Alcohólica",
+        "profile_path": "/A4rhAimrDiTfTVsXNqiJ2clVpx4.jpg"
+      },
+      {
+        "name": "Bernabé Fernández",
+        "id": 1114062,
+        "character": "Andrés",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "popularidad": 0.8519,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/7eeBN9k5meykV79FnosSvy7th5y.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 2857,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/xYZHsSPPBZzURHWce6T83vupNb8.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-04-05 22:06:13"
   },
   {
     "id": 1000828,
@@ -1682,106 +1781,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:42"
-  },
-  {
-    "id": 1579471,
-    "tmdb_id": 1579471,
-    "título": "Calcinación",
-    "título_original": "Calcinación",
-    "sinopsis": "",
-    "poster_path": "/xYZHsSPPBZzURHWce6T83vupNb8.jpg",
-    "poster_local": "imagenes_estrenos/Calcinaci_n_xYZHsSPPBZzURHWce6T83vupNb8.jpg",
-    "backdrop_path": "/7eeBN9k5meykV79FnosSvy7th5y.jpg",
-    "backdrop_local": "imagenes_estrenos/Calcinaci_n_backdrop_7eeBN9k5meykV79FnosSvy7th5y.jpg",
-    "fecha_estreno": "2026-04-17T00:00:00.000Z",
-    "duración": "90 min",
-    "director": "Luis Navarrete",
-    "directores": [
-      {
-        "name": "Luis Navarrete",
-        "id": 2753246
-      }
-    ],
-    "actores": [
-      {
-        "name": "Javier Hernández",
-        "id": 1255404,
-        "character": "Javi",
-        "profile_path": "/xaxb3HL6MuOnmmx7RuzfoDAkQfG.jpg"
-      },
-      {
-        "name": "Vanessa Pámpano",
-        "id": 3789225,
-        "character": "Diana",
-        "profile_path": null
-      },
-      {
-        "name": "Pablo Liñares",
-        "id": 3427824,
-        "character": "Compañero",
-        "profile_path": "/oFD68G1D4987KODEvBYJxBFadvZ.jpg"
-      },
-      {
-        "name": "Antonia San Juan",
-        "id": 961,
-        "character": "Alcohólica",
-        "profile_path": "/A4rhAimrDiTfTVsXNqiJ2clVpx4.jpg"
-      },
-      {
-        "name": "Bernabé Fernández",
-        "id": 1114062,
-        "character": "Andrés",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 53,
-        "name": "Suspense"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      }
-    ],
-    "popularidad": 0.8519,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/7eeBN9k5meykV79FnosSvy7th5y.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.7,
-          "height": 2857,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/xYZHsSPPBZzURHWce6T83vupNb8.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-04-05 10:08:42"
+    "última_actualización": "2026-04-05 22:06:13"
   },
   {
     "id": 1306293,
@@ -1926,80 +1926,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:42"
-  },
-  {
-    "id": 1651177,
-    "tmdb_id": 1651177,
-    "título": "Landa",
-    "título_original": "Landa",
-    "sinopsis": "Retrato, con sus aristas, luces y sombras, del actor más popular de la historia del cine español. No hay ningún caso como el de Alfredo Landa, que aúna en su carrera las elevadas dosis de cariño que recibió del público con las mejores críticas y reconocimientos en prestigiosos premios y por parte de toda la profesión. Desde el “landismo” como género cinematográfico, hasta la época de sus grandes papeles, para culminar con la persona detrás del actor, con material inédito y con los testimonios más cercanos a Alfredo.",
-    "poster_path": null,
-    "poster_local": "",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-04-17T00:00:00.000Z",
-    "duración": "70 min",
-    "director": "Gracia Querejeta, Miguel Olid",
-    "directores": [
-      {
-        "name": "Gracia Querejeta",
-        "id": 212674
-      },
-      {
-        "name": "Miguel Olid",
-        "id": 4582221
-      }
-    ],
-    "actores": [
-      {
-        "name": "Alfredo Landa",
-        "id": 230884,
-        "character": "Self (Archive Footage)",
-        "profile_path": "/7HS620PfCoXgRrOTCl9FcXVpztZ.jpg"
-      },
-      {
-        "name": "José Sacristán",
-        "id": 105217,
-        "character": "Self",
-        "profile_path": "/dT1tMNeRiBHVfpgSKY1EoxiioVw.jpg"
-      },
-      {
-        "name": "Luis Alegre",
-        "id": 1074041,
-        "character": "Self",
-        "profile_path": null
-      },
-      {
-        "name": "Víctor García León",
-        "id": 1044792,
-        "character": "",
-        "profile_path": "/1593twXANZGHfmW2ZpGdo8ZKrJe.jpg"
-      },
-      {
-        "name": "Miguel Rellán",
-        "id": 81848,
-        "character": "",
-        "profile_path": "/raW50z3LZZXOSXTwOFFUf4U3zet.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.5256,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2026-04-05 10:08:43"
+    "última_actualización": "2026-04-05 22:06:14"
   },
   {
     "id": 1391325,
@@ -2120,7 +2047,80 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:43"
+    "última_actualización": "2026-04-05 22:06:15"
+  },
+  {
+    "id": 1651177,
+    "tmdb_id": 1651177,
+    "título": "Landa",
+    "título_original": "Landa",
+    "sinopsis": "Retrato, con sus aristas, luces y sombras, del actor más popular de la historia del cine español. No hay ningún caso como el de Alfredo Landa, que aúna en su carrera las elevadas dosis de cariño que recibió del público con las mejores críticas y reconocimientos en prestigiosos premios y por parte de toda la profesión. Desde el “landismo” como género cinematográfico, hasta la época de sus grandes papeles, para culminar con la persona detrás del actor, con material inédito y con los testimonios más cercanos a Alfredo.",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-04-17T00:00:00.000Z",
+    "duración": "70 min",
+    "director": "Gracia Querejeta, Miguel Olid",
+    "directores": [
+      {
+        "name": "Gracia Querejeta",
+        "id": 212674
+      },
+      {
+        "name": "Miguel Olid",
+        "id": 4582221
+      }
+    ],
+    "actores": [
+      {
+        "name": "Alfredo Landa",
+        "id": 230884,
+        "character": "Self (Archive Footage)",
+        "profile_path": "/7HS620PfCoXgRrOTCl9FcXVpztZ.jpg"
+      },
+      {
+        "name": "José Sacristán",
+        "id": 105217,
+        "character": "Self",
+        "profile_path": "/dT1tMNeRiBHVfpgSKY1EoxiioVw.jpg"
+      },
+      {
+        "name": "Luis Alegre",
+        "id": 1074041,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Víctor García León",
+        "id": 1044792,
+        "character": "",
+        "profile_path": "/1593twXANZGHfmW2ZpGdo8ZKrJe.jpg"
+      },
+      {
+        "name": "Miguel Rellán",
+        "id": 81848,
+        "character": "",
+        "profile_path": "/raW50z3LZZXOSXTwOFFUf4U3zet.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.5256,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-04-05 22:06:16"
   },
   {
     "id": 1434589,
@@ -2171,7 +2171,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-04-05 10:08:44"
+    "última_actualización": "2026-04-05 22:06:18"
   },
   {
     "id": 1661224,
@@ -2255,7 +2255,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:44"
+    "última_actualización": "2026-04-05 22:06:17"
   },
   {
     "id": 1602856,
@@ -2342,7 +2342,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:43"
+    "última_actualización": "2026-04-05 22:06:17"
   },
   {
     "id": 1640271,
@@ -2430,7 +2430,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:44"
+    "última_actualización": "2026-04-05 22:06:19"
   },
   {
     "id": 936075,
@@ -2609,7 +2609,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:41"
+    "última_actualización": "2026-04-05 22:06:11"
   },
   {
     "id": 1653435,
@@ -2676,7 +2676,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-04-05 10:08:43"
+    "última_actualización": "2026-04-05 22:06:16"
   },
   {
     "id": 1639356,
@@ -2753,7 +2753,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:43"
+    "última_actualización": "2026-04-05 22:06:15"
   },
   {
     "id": 1640373,
@@ -2811,7 +2811,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-04-05 10:08:43"
+    "última_actualización": "2026-04-05 22:06:16"
   },
   {
     "id": 696393,
@@ -2879,8 +2879,8 @@
       }
     ],
     "popularidad": 26.1312,
-    "puntuación": 6.7,
-    "votos": 290,
+    "puntuación": 6.692,
+    "votos": 291,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2990,7 +2990,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:40"
+    "última_actualización": "2026-04-05 22:06:10"
   },
   {
     "id": 1221061,
@@ -3151,7 +3151,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:41"
+    "última_actualización": "2026-04-05 22:06:12"
   },
   {
     "id": 1202152,
@@ -3223,8 +3223,8 @@
       }
     ],
     "popularidad": 1.5034,
-    "puntuación": 8.4,
-    "votos": 7,
+    "puntuación": 7.875,
+    "votos": 8,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3253,7 +3253,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-04-05 10:08:41"
+    "última_actualización": "2026-04-05 22:06:12"
   },
   {
     "id": 1103551,
@@ -3363,7 +3363,97 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-04-05 10:08:42"
+    "última_actualización": "2026-04-05 22:06:14"
+  },
+  {
+    "id": 1631506,
+    "tmdb_id": 1631506,
+    "título": "La ahorcada",
+    "título_original": "La ahorcada",
+    "sinopsis": "",
+    "poster_path": "/277U1iDp01XMQ6KBkPTMsmaLrBA.jpg",
+    "poster_local": "imagenes_estrenos/La_ahorcada_277U1iDp01XMQ6KBkPTMsmaLrBA.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-04-24T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Miguel Ángel Lamata",
+    "directores": [
+      {
+        "name": "Miguel Ángel Lamata",
+        "id": 144546
+      }
+    ],
+    "actores": [
+      {
+        "name": "Amaia Salamanca",
+        "id": 125854,
+        "character": "",
+        "profile_path": "/c2boE9vHTtD3weXG6iWsLJ5mMjU.jpg"
+      },
+      {
+        "name": "Eduardo Noriega",
+        "id": 17093,
+        "character": "Fran",
+        "profile_path": "/wL2pCdw5lNsDrWRor3rxwLaSTQK.jpg"
+      },
+      {
+        "name": "Cosette Silguero",
+        "id": 3056391,
+        "character": "",
+        "profile_path": "/9PW6oswKGNzHMNsCFZoeQKoLxz2.jpg"
+      },
+      {
+        "name": "Norma Ruiz",
+        "id": 125853,
+        "character": "",
+        "profile_path": "/mvVp4pL3G1Uf0DoWoXfwkVLb7rA.jpg"
+      },
+      {
+        "name": "Anastasia Fauteck",
+        "id": 2670094,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 0.6089,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/277U1iDp01XMQ6KBkPTMsmaLrBA.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/fcxT58xhmJhPCdIcw69727fAqeB.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-04-05 22:06:14"
   },
   {
     "id": 1577498,
@@ -3463,97 +3553,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:42"
-  },
-  {
-    "id": 1631506,
-    "tmdb_id": 1631506,
-    "título": "La ahorcada",
-    "título_original": "La ahorcada",
-    "sinopsis": "",
-    "poster_path": "/277U1iDp01XMQ6KBkPTMsmaLrBA.jpg",
-    "poster_local": "imagenes_estrenos/La_ahorcada_277U1iDp01XMQ6KBkPTMsmaLrBA.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-04-24T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Miguel Ángel Lamata",
-    "directores": [
-      {
-        "name": "Miguel Ángel Lamata",
-        "id": 144546
-      }
-    ],
-    "actores": [
-      {
-        "name": "Amaia Salamanca",
-        "id": 125854,
-        "character": "",
-        "profile_path": "/c2boE9vHTtD3weXG6iWsLJ5mMjU.jpg"
-      },
-      {
-        "name": "Eduardo Noriega",
-        "id": 17093,
-        "character": "Fran",
-        "profile_path": "/wL2pCdw5lNsDrWRor3rxwLaSTQK.jpg"
-      },
-      {
-        "name": "Cosette Silguero",
-        "id": 3056391,
-        "character": "",
-        "profile_path": "/9PW6oswKGNzHMNsCFZoeQKoLxz2.jpg"
-      },
-      {
-        "name": "Norma Ruiz",
-        "id": 125853,
-        "character": "",
-        "profile_path": "/mvVp4pL3G1Uf0DoWoXfwkVLb7rA.jpg"
-      },
-      {
-        "name": "Anastasia Fauteck",
-        "id": 2670094,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      }
-    ],
-    "popularidad": 0.6089,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/277U1iDp01XMQ6KBkPTMsmaLrBA.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/fcxT58xhmJhPCdIcw69727fAqeB.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-04-05 10:08:42"
+    "última_actualización": "2026-04-05 22:06:15"
   },
   {
     "id": 1632334,
@@ -3656,7 +3656,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:44"
+    "última_actualización": "2026-04-05 22:06:17"
   },
   {
     "id": 1624329,
@@ -3763,7 +3763,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:44"
+    "última_actualización": "2026-04-05 22:06:18"
   },
   {
     "id": 1624632,
@@ -3838,6 +3838,6 @@
         }
       ]
     },
-    "última_actualización": "2026-04-05 10:08:44"
+    "última_actualización": "2026-04-05 22:06:18"
   }
 ]
