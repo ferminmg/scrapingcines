@@ -6,7 +6,7 @@
             {
                 "fecha": "2026-04-08",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=99456&eventCode=104073"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -306,13 +306,30 @@
         "año": "2011"
     },
     {
+        "título": "ECOZINE 2026: SHIFTING BASELINES (Referencias variables)",
+        "cartel": "imagenes_peliculas/1773312264.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-04-16",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=99596&eventCode=109171"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
         "título": "La grazia",
         "cartel": "imagenes_peliculas/tmdb_la_grazia.jpg",
         "horarios": [
             {
                 "fecha": "2026-04-08",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90172&eventCode=104493"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -346,7 +363,7 @@
             {
                 "fecha": "2026-04-08",
                 "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90171&eventCode=108297"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
