@@ -1297,7 +1297,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:57"
+    "última_actualización": "2026-04-09 22:12:50"
   },
   {
     "id": 1304313,
@@ -1310,7 +1310,7 @@
     "backdrop_path": "/79KQBeQBR8aGbwhH3JJ3ZWzfPT6.jpg",
     "backdrop_local": "imagenes_estrenos/La_momia_de_Lee_Cronin_backdrop_79KQBeQBR8aGbwhH3JJ3ZWzfPT6.jpg",
     "fecha_estreno": "2026-04-17T00:00:00.000Z",
-    "duración": "136 min",
+    "duración": "134 min",
     "director": "Lee Cronin",
     "directores": [
       {
@@ -1472,7 +1472,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:51"
+    "última_actualización": "2026-04-09 22:12:44"
   },
   {
     "id": 1392527,
@@ -1613,7 +1613,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:53"
+    "última_actualización": "2026-04-09 22:12:46"
   },
   {
     "id": 1239198,
@@ -1748,7 +1748,106 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:53"
+    "última_actualización": "2026-04-09 22:12:46"
+  },
+  {
+    "id": 1579471,
+    "tmdb_id": 1579471,
+    "título": "Calcinación",
+    "título_original": "Calcinación",
+    "sinopsis": "",
+    "poster_path": "/xYZHsSPPBZzURHWce6T83vupNb8.jpg",
+    "poster_local": "imagenes_estrenos/Calcinaci_n_xYZHsSPPBZzURHWce6T83vupNb8.jpg",
+    "backdrop_path": "/7eeBN9k5meykV79FnosSvy7th5y.jpg",
+    "backdrop_local": "imagenes_estrenos/Calcinaci_n_backdrop_7eeBN9k5meykV79FnosSvy7th5y.jpg",
+    "fecha_estreno": "2026-04-17T00:00:00.000Z",
+    "duración": "90 min",
+    "director": "Luis Navarrete",
+    "directores": [
+      {
+        "name": "Luis Navarrete",
+        "id": 2753246
+      }
+    ],
+    "actores": [
+      {
+        "name": "Javier Hernández",
+        "id": 1255404,
+        "character": "Javi",
+        "profile_path": "/xaxb3HL6MuOnmmx7RuzfoDAkQfG.jpg"
+      },
+      {
+        "name": "Vanessa Pámpano",
+        "id": 3789225,
+        "character": "Diana",
+        "profile_path": null
+      },
+      {
+        "name": "Pablo Liñares",
+        "id": 3427824,
+        "character": "Compañero",
+        "profile_path": "/oFD68G1D4987KODEvBYJxBFadvZ.jpg"
+      },
+      {
+        "name": "Antonia San Juan",
+        "id": 961,
+        "character": "Alcohólica",
+        "profile_path": "/A4rhAimrDiTfTVsXNqiJ2clVpx4.jpg"
+      },
+      {
+        "name": "Bernabé Fernández",
+        "id": 1114062,
+        "character": "Andrés",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "popularidad": 0.9414,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/7eeBN9k5meykV79FnosSvy7th5y.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 2857,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/xYZHsSPPBZzURHWce6T83vupNb8.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-04-09 22:12:47"
   },
   {
     "id": 1000828,
@@ -1873,106 +1972,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:54"
-  },
-  {
-    "id": 1579471,
-    "tmdb_id": 1579471,
-    "título": "Calcinación",
-    "título_original": "Calcinación",
-    "sinopsis": "",
-    "poster_path": "/xYZHsSPPBZzURHWce6T83vupNb8.jpg",
-    "poster_local": "imagenes_estrenos/Calcinaci_n_xYZHsSPPBZzURHWce6T83vupNb8.jpg",
-    "backdrop_path": "/7eeBN9k5meykV79FnosSvy7th5y.jpg",
-    "backdrop_local": "imagenes_estrenos/Calcinaci_n_backdrop_7eeBN9k5meykV79FnosSvy7th5y.jpg",
-    "fecha_estreno": "2026-04-17T00:00:00.000Z",
-    "duración": "90 min",
-    "director": "Luis Navarrete",
-    "directores": [
-      {
-        "name": "Luis Navarrete",
-        "id": 2753246
-      }
-    ],
-    "actores": [
-      {
-        "name": "Javier Hernández",
-        "id": 1255404,
-        "character": "Javi",
-        "profile_path": "/xaxb3HL6MuOnmmx7RuzfoDAkQfG.jpg"
-      },
-      {
-        "name": "Vanessa Pámpano",
-        "id": 3789225,
-        "character": "Diana",
-        "profile_path": null
-      },
-      {
-        "name": "Pablo Liñares",
-        "id": 3427824,
-        "character": "Compañero",
-        "profile_path": "/oFD68G1D4987KODEvBYJxBFadvZ.jpg"
-      },
-      {
-        "name": "Antonia San Juan",
-        "id": 961,
-        "character": "Alcohólica",
-        "profile_path": "/A4rhAimrDiTfTVsXNqiJ2clVpx4.jpg"
-      },
-      {
-        "name": "Bernabé Fernández",
-        "id": 1114062,
-        "character": "Andrés",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 53,
-        "name": "Suspense"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      }
-    ],
-    "popularidad": 0.9414,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/7eeBN9k5meykV79FnosSvy7th5y.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.7,
-          "height": 2857,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/xYZHsSPPBZzURHWce6T83vupNb8.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-04-09 10:23:54"
+    "última_actualización": "2026-04-09 22:12:47"
   },
   {
     "id": 1651177,
@@ -2045,7 +2045,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-04-09 10:23:54"
+    "última_actualización": "2026-04-09 22:12:48"
   },
   {
     "id": 1306293,
@@ -2190,7 +2190,58 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:56"
+    "última_actualización": "2026-04-09 22:12:50"
+  },
+  {
+    "id": 1434589,
+    "tmdb_id": 1434589,
+    "título": "Qui som",
+    "título_original": "Qui som",
+    "sinopsis": "",
+    "poster_path": "/5Si3pwQHgBAbwBzM6Li0Hczk1Oq.jpg",
+    "poster_local": "imagenes_estrenos/Qui_som_5Si3pwQHgBAbwBzM6Li0Hczk1Oq.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-04-17T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Salvador Sunyer",
+    "directores": [
+      {
+        "name": "Salvador Sunyer",
+        "id": 1316936
+      }
+    ],
+    "actores": [
+      {
+        "name": "Camille Decourtye",
+        "id": 3588894,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Blaï Mateu Trias",
+        "id": 5248366,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.4106,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-04-09 22:12:50"
   },
   {
     "id": 1391325,
@@ -2311,58 +2362,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:57"
-  },
-  {
-    "id": 1434589,
-    "tmdb_id": 1434589,
-    "título": "Qui som",
-    "título_original": "Qui som",
-    "sinopsis": "",
-    "poster_path": "/5Si3pwQHgBAbwBzM6Li0Hczk1Oq.jpg",
-    "poster_local": "imagenes_estrenos/Qui_som_5Si3pwQHgBAbwBzM6Li0Hczk1Oq.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-04-17T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Salvador Sunyer",
-    "directores": [
-      {
-        "name": "Salvador Sunyer",
-        "id": 1316936
-      }
-    ],
-    "actores": [
-      {
-        "name": "Camille Decourtye",
-        "id": 3588894,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Blaï Mateu Trias",
-        "id": 5248366,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.4106,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2026-04-09 10:23:58"
+    "última_actualización": "2026-04-09 22:12:51"
   },
   {
     "id": 1665275,
@@ -2408,7 +2408,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-04-09 10:24:02"
+    "última_actualización": "2026-04-09 22:12:55"
   },
   {
     "id": 1665260,
@@ -2460,7 +2460,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-04-09 10:24:02"
+    "última_actualización": "2026-04-09 22:12:55"
   },
   {
     "id": 1665288,
@@ -2512,7 +2512,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-04-09 10:24:01"
+    "última_actualización": "2026-04-09 22:12:54"
   },
   {
     "id": 1665286,
@@ -2569,7 +2569,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:24:01"
+    "última_actualización": "2026-04-09 22:12:54"
   },
   {
     "id": 1665282,
@@ -2637,7 +2637,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-04-09 10:24:01"
+    "última_actualización": "2026-04-09 22:12:55"
   },
   {
     "id": 1665278,
@@ -2695,7 +2695,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-04-09 10:24:02"
+    "última_actualización": "2026-04-09 22:12:55"
   },
   {
     "id": 1665301,
@@ -2728,7 +2728,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-04-09 10:24:00"
+    "última_actualización": "2026-04-09 22:12:53"
   },
   {
     "id": 1665300,
@@ -2774,7 +2774,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-04-09 10:24:00"
+    "última_actualización": "2026-04-09 22:12:53"
   },
   {
     "id": 1665298,
@@ -2824,7 +2824,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-04-09 10:24:00"
+    "última_actualización": "2026-04-09 22:12:54"
   },
   {
     "id": 1661224,
@@ -2908,7 +2908,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:58"
+    "última_actualización": "2026-04-09 22:12:52"
   },
   {
     "id": 1602856,
@@ -2995,7 +2995,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:57"
+    "última_actualización": "2026-04-09 22:12:50"
   },
   {
     "id": 1640271,
@@ -3083,7 +3083,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:59"
+    "última_actualización": "2026-04-09 22:12:52"
   },
   {
     "id": 936075,
@@ -3144,6 +3144,10 @@
       {
         "id": 18,
         "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
       }
     ],
     "popularidad": 55.9507,
@@ -3258,7 +3262,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:51"
+    "última_actualización": "2026-04-09 22:12:44"
   },
   {
     "id": 1653435,
@@ -3325,7 +3329,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-04-09 10:23:55"
+    "última_actualización": "2026-04-09 22:12:48"
   },
   {
     "id": 1639356,
@@ -3402,7 +3406,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:54"
+    "última_actualización": "2026-04-09 22:12:47"
   },
   {
     "id": 1640373,
@@ -3460,7 +3464,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-04-09 10:23:56"
+    "última_actualización": "2026-04-09 22:12:49"
   },
   {
     "id": 696393,
@@ -3528,8 +3532,8 @@
       }
     ],
     "popularidad": 21.6277,
-    "puntuación": 6.704,
-    "votos": 302,
+    "puntuación": 6.712,
+    "votos": 304,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3639,7 +3643,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:51"
+    "última_actualización": "2026-04-09 22:12:44"
   },
   {
     "id": 1221061,
@@ -3800,7 +3804,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:52"
+    "última_actualización": "2026-04-09 22:12:45"
   },
   {
     "id": 1202152,
@@ -3902,7 +3906,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-04-09 10:23:53"
+    "última_actualización": "2026-04-09 22:12:46"
   },
   {
     "id": 1631506,
@@ -3992,217 +3996,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:53"
-  },
-  {
-    "id": 1577498,
-    "tmdb_id": 1577498,
-    "título": "Después de Kim",
-    "título_original": "Después de Kim",
-    "sinopsis": "Juan y Gloria, divorciados y distanciados desde hace 20 años, han de viajar desde Buenos Aires a España al recibir la noticia de que Kim, la hija de ambos, con la que hace tiempo perdieron el contacto, ha aparecido muerta. A su llegada descubren que la fallecida ha dejado un nieto que se encuentra en paradero desconocido, un descubrimiento que les hace quedarse en España para encontrarle.",
-    "poster_path": "/p3vtustdUaMUI23rBZ1VYIiWMtE.jpg",
-    "poster_local": "imagenes_estrenos/Despu_s_de_Kim_p3vtustdUaMUI23rBZ1VYIiWMtE.jpg",
-    "backdrop_path": "/r8pitetZPS8nJeEQooPMO8ku3Xi.jpg",
-    "backdrop_local": "imagenes_estrenos/Despu_s_de_Kim_backdrop_r8pitetZPS8nJeEQooPMO8ku3Xi.jpg",
-    "fecha_estreno": "2026-04-24T00:00:00.000Z",
-    "duración": "90 min",
-    "director": "Ángeles González-Sinde",
-    "directores": [
-      {
-        "name": "Ángeles González-Sinde",
-        "id": 230209
-      }
-    ],
-    "actores": [
-      {
-        "name": "Adriana Ozores",
-        "id": 87017,
-        "character": "Gloria",
-        "profile_path": "/6xxv8qvxDLpuaKFMMzXziOldkGK.jpg"
-      },
-      {
-        "name": "Darío Grandinetti",
-        "id": 3618,
-        "character": "Juan",
-        "profile_path": "/l1Gw8OLzw7FehGeQK7pZ5wJOIgF.jpg"
-      },
-      {
-        "name": "Christina Rosenvinge",
-        "id": 1914309,
-        "character": "",
-        "profile_path": "/kEpvZhaeXeM4mKjQOxL98kv3nSa.jpg"
-      },
-      {
-        "name": "Karina Kolokolchykova",
-        "id": 1914003,
-        "character": "",
-        "profile_path": "/l1qPlsCja7RCUPK833MubiRfFLp.jpg"
-      }
-    ],
-    "géneros": [],
-    "popularidad": 0.626,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.782,
-          "height": 864,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/r8pitetZPS8nJeEQooPMO8ku3Xi.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
-        },
-        {
-          "aspect_ratio": 1.782,
-          "height": 864,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/pWohAC4FdT1uGQ8KNUFDoZsAkzt.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
-        },
-        {
-          "aspect_ratio": 1.782,
-          "height": 864,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/1Ca0EXzaOYDcvmL20NkiGwG0GYc.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/p3vtustdUaMUI23rBZ1VYIiWMtE.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-04-09 10:23:55"
-  },
-  {
-    "id": 1103551,
-    "tmdb_id": 1103551,
-    "título": "La risa y la navaja",
-    "título_original": "O Riso e a Faca",
-    "sinopsis": "Sergio viaja a una metrópolis de África Occidental para trabajar en una ONG como ingeniero ambiental en un proyecto vial entre el desierto y la selva. Allí, se enreda en una relación íntima, aunque desequilibrada, con dos habitantes de la ciudad, Diara y Gui. A medida que se desmorona la dinámica neocolonial entre la comunidad expatriada, este frágil vínculo se convierte en su único refugio ante un inminente colapso en la soledad o la barbarie.",
-    "poster_path": "/rF8iK7UsWkV4YoPw9cO1aPb8u73.jpg",
-    "poster_local": "imagenes_estrenos/La_risa_y_la_navaja_rF8iK7UsWkV4YoPw9cO1aPb8u73.jpg",
-    "backdrop_path": "/yZygFyAyqh93oV43Hx3Ozw8YqLd.jpg",
-    "backdrop_local": "imagenes_estrenos/La_risa_y_la_navaja_backdrop_yZygFyAyqh93oV43Hx3Ozw8YqLd.jpg",
-    "fecha_estreno": "2026-04-24T00:00:00.000Z",
-    "duración": "211 min",
-    "director": "Pedro Pinho",
-    "directores": [
-      {
-        "name": "Pedro Pinho",
-        "id": 1153056
-      }
-    ],
-    "actores": [
-      {
-        "name": "Sérgio Coragem",
-        "id": 1872374,
-        "character": "Sérgio",
-        "profile_path": "/n1JCA1YkoiFDGz0iv1tq6BV23Je.jpg"
-      },
-      {
-        "name": "Cleo Diára",
-        "id": 1872185,
-        "character": "Diára",
-        "profile_path": "/jT6eiDn2zu0EJC2fqi7GyvAzKF9.jpg"
-      },
-      {
-        "name": "Jonathan Guilherme",
-        "id": 5380849,
-        "character": "Gui",
-        "profile_path": "/lvB6c9uG1Cj89xm79tbcdnbAx85.jpg"
-      },
-      {
-        "name": "Jorge Quintino Biague",
-        "id": 1202181,
-        "character": "Borjan",
-        "profile_path": null
-      },
-      {
-        "name": "Renato Sztutman",
-        "id": 5380850,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.5085,
-    "puntuación": 6.7,
-    "votos": 9,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/yZygFyAyqh93oV43Hx3Ozw8YqLd.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ivH2wJIAvk8wO4c6OLYhVCVODDQ.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/8FUPbfOBLfNYyHWJJDQt1V2yoaY.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1927,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/jaf1XJmbCBUMN4iUCEX2CFoNqUP.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3426
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2026-04-09 10:23:56"
+    "última_actualización": "2026-04-09 22:12:47"
   },
   {
     "id": 1337148,
@@ -4316,7 +4110,217 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-04-09 10:23:56"
+    "última_actualización": "2026-04-09 22:12:48"
+  },
+  {
+    "id": 1577498,
+    "tmdb_id": 1577498,
+    "título": "Después de Kim",
+    "título_original": "Después de Kim",
+    "sinopsis": "Juan y Gloria, divorciados y distanciados desde hace 20 años, han de viajar desde Buenos Aires a España al recibir la noticia de que Kim, la hija de ambos, con la que hace tiempo perdieron el contacto, ha aparecido muerta. A su llegada descubren que la fallecida ha dejado un nieto que se encuentra en paradero desconocido, un descubrimiento que les hace quedarse en España para encontrarle.",
+    "poster_path": "/p3vtustdUaMUI23rBZ1VYIiWMtE.jpg",
+    "poster_local": "imagenes_estrenos/Despu_s_de_Kim_p3vtustdUaMUI23rBZ1VYIiWMtE.jpg",
+    "backdrop_path": "/r8pitetZPS8nJeEQooPMO8ku3Xi.jpg",
+    "backdrop_local": "imagenes_estrenos/Despu_s_de_Kim_backdrop_r8pitetZPS8nJeEQooPMO8ku3Xi.jpg",
+    "fecha_estreno": "2026-04-24T00:00:00.000Z",
+    "duración": "90 min",
+    "director": "Ángeles González-Sinde",
+    "directores": [
+      {
+        "name": "Ángeles González-Sinde",
+        "id": 230209
+      }
+    ],
+    "actores": [
+      {
+        "name": "Adriana Ozores",
+        "id": 87017,
+        "character": "Gloria",
+        "profile_path": "/6xxv8qvxDLpuaKFMMzXziOldkGK.jpg"
+      },
+      {
+        "name": "Darío Grandinetti",
+        "id": 3618,
+        "character": "Juan",
+        "profile_path": "/l1Gw8OLzw7FehGeQK7pZ5wJOIgF.jpg"
+      },
+      {
+        "name": "Christina Rosenvinge",
+        "id": 1914309,
+        "character": "",
+        "profile_path": "/kEpvZhaeXeM4mKjQOxL98kv3nSa.jpg"
+      },
+      {
+        "name": "Karina Kolokolchykova",
+        "id": 1914003,
+        "character": "",
+        "profile_path": "/l1qPlsCja7RCUPK833MubiRfFLp.jpg"
+      }
+    ],
+    "géneros": [],
+    "popularidad": 0.626,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.782,
+          "height": 864,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/r8pitetZPS8nJeEQooPMO8ku3Xi.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1540
+        },
+        {
+          "aspect_ratio": 1.782,
+          "height": 864,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/pWohAC4FdT1uGQ8KNUFDoZsAkzt.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1540
+        },
+        {
+          "aspect_ratio": 1.782,
+          "height": 864,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/1Ca0EXzaOYDcvmL20NkiGwG0GYc.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1540
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/p3vtustdUaMUI23rBZ1VYIiWMtE.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-04-09 22:12:49"
+  },
+  {
+    "id": 1103551,
+    "tmdb_id": 1103551,
+    "título": "La risa y la navaja",
+    "título_original": "O Riso e a Faca",
+    "sinopsis": "Sergio viaja a una metrópolis de África Occidental para trabajar en una ONG como ingeniero ambiental en un proyecto vial entre el desierto y la selva. Allí, se enreda en una relación íntima, aunque desequilibrada, con dos habitantes de la ciudad, Diara y Gui. A medida que se desmorona la dinámica neocolonial entre la comunidad expatriada, este frágil vínculo se convierte en su único refugio ante un inminente colapso en la soledad o la barbarie.",
+    "poster_path": "/rF8iK7UsWkV4YoPw9cO1aPb8u73.jpg",
+    "poster_local": "imagenes_estrenos/La_risa_y_la_navaja_rF8iK7UsWkV4YoPw9cO1aPb8u73.jpg",
+    "backdrop_path": "/yZygFyAyqh93oV43Hx3Ozw8YqLd.jpg",
+    "backdrop_local": "imagenes_estrenos/La_risa_y_la_navaja_backdrop_yZygFyAyqh93oV43Hx3Ozw8YqLd.jpg",
+    "fecha_estreno": "2026-04-24T00:00:00.000Z",
+    "duración": "211 min",
+    "director": "Pedro Pinho",
+    "directores": [
+      {
+        "name": "Pedro Pinho",
+        "id": 1153056
+      }
+    ],
+    "actores": [
+      {
+        "name": "Sérgio Coragem",
+        "id": 1872374,
+        "character": "Sérgio",
+        "profile_path": "/n1JCA1YkoiFDGz0iv1tq6BV23Je.jpg"
+      },
+      {
+        "name": "Cleo Diára",
+        "id": 1872185,
+        "character": "Diára",
+        "profile_path": "/jT6eiDn2zu0EJC2fqi7GyvAzKF9.jpg"
+      },
+      {
+        "name": "Jonathan Guilherme",
+        "id": 5380849,
+        "character": "Gui",
+        "profile_path": "/lvB6c9uG1Cj89xm79tbcdnbAx85.jpg"
+      },
+      {
+        "name": "Jorge Quintino Biague",
+        "id": 1202181,
+        "character": "Borjan",
+        "profile_path": null
+      },
+      {
+        "name": "Renato Sztutman",
+        "id": 5380850,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.5085,
+    "puntuación": 6.7,
+    "votos": 9,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/yZygFyAyqh93oV43Hx3Ozw8YqLd.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ivH2wJIAvk8wO4c6OLYhVCVODDQ.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/8FUPbfOBLfNYyHWJJDQt1V2yoaY.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1927,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jaf1XJmbCBUMN4iUCEX2CFoNqUP.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3426
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-04-09 22:12:49"
   },
   {
     "id": 1632334,
@@ -4419,7 +4423,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:58"
+    "última_actualización": "2026-04-09 22:12:51"
   },
   {
     "id": 1624329,
@@ -4542,7 +4546,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:59"
+    "última_actualización": "2026-04-09 22:12:52"
   },
   {
     "id": 1624632,
@@ -4617,7 +4621,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:59"
+    "última_actualización": "2026-04-09 22:12:53"
   },
   {
     "id": 1314481,
@@ -4792,7 +4796,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:51"
+    "última_actualización": "2026-04-09 22:12:44"
   },
   {
     "id": 1010755,
@@ -4947,7 +4951,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:52"
+    "última_actualización": "2026-04-09 22:12:45"
   },
   {
     "id": 878608,
@@ -5112,7 +5116,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:52"
+    "última_actualización": "2026-04-09 22:12:45"
   },
   {
     "id": 1370814,
@@ -5263,7 +5267,95 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:52"
+    "última_actualización": "2026-04-09 22:12:45"
+  },
+  {
+    "id": 1583875,
+    "tmdb_id": 1583875,
+    "título": "Los mejores años de nuestra vida",
+    "título_original": "Los mejores años de nuestra vida",
+    "sinopsis": "Un retrato íntimo y emocional del grupo de rock Hombres G, uno de los más míticos de la historia de la música española, por su 40 aniversario.",
+    "poster_path": "/dSyseZXNnObOCSRmC4BQo1w1RMU.jpg",
+    "poster_local": "imagenes_estrenos/Los_mejores_a_os_de_nuestra_vida_dSyseZXNnObOCSRmC4BQo1w1RMU.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-04-30T00:00:00.000Z",
+    "duración": "108 min",
+    "director": "Charlie Arnaiz, Alberto Ortega",
+    "directores": [
+      {
+        "name": "Charlie Arnaiz",
+        "id": 2114770
+      },
+      {
+        "name": "Alberto Ortega",
+        "id": 2407283
+      }
+    ],
+    "actores": [
+      {
+        "name": "David Summers Rodriguez",
+        "id": 195479,
+        "character": "Self",
+        "profile_path": "/vQJMrCdra0XU7wWq6IixSukL7zd.jpg"
+      },
+      {
+        "name": "Rafael Gutiérrez",
+        "id": 1506934,
+        "character": "Self",
+        "profile_path": "/8bYPdl16qNSYWtlPmO4gSuSmpcE.jpg"
+      },
+      {
+        "name": "Daniel Mezquita",
+        "id": 1506933,
+        "character": "Self",
+        "profile_path": "/tnoLDfinz2kmpFskvK7vNY6PyxE.jpg"
+      },
+      {
+        "name": "Javier Molina",
+        "id": 1506935,
+        "character": "Self",
+        "profile_path": "/40cs8RRYgg9z1CcQApsVLKqoPSE.jpg"
+      },
+      {
+        "name": "Alejandro Sanz",
+        "id": 223686,
+        "character": "Self",
+        "profile_path": "/tXCZhcvC5WYOnrpUvRGbjqQBuHI.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "popularidad": 0.1789,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 2857,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/dSyseZXNnObOCSRmC4BQo1w1RMU.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-04-09 22:12:51"
   },
   {
     "id": 855095,
@@ -5382,95 +5474,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:57"
-  },
-  {
-    "id": 1583875,
-    "tmdb_id": 1583875,
-    "título": "Los mejores años de nuestra vida",
-    "título_original": "Los mejores años de nuestra vida",
-    "sinopsis": "Un retrato íntimo y emocional del grupo de rock Hombres G, uno de los más míticos de la historia de la música española, por su 40 aniversario.",
-    "poster_path": "/dSyseZXNnObOCSRmC4BQo1w1RMU.jpg",
-    "poster_local": "imagenes_estrenos/Los_mejores_a_os_de_nuestra_vida_dSyseZXNnObOCSRmC4BQo1w1RMU.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-04-30T00:00:00.000Z",
-    "duración": "108 min",
-    "director": "Charlie Arnaiz, Alberto Ortega",
-    "directores": [
-      {
-        "name": "Charlie Arnaiz",
-        "id": 2114770
-      },
-      {
-        "name": "Alberto Ortega",
-        "id": 2407283
-      }
-    ],
-    "actores": [
-      {
-        "name": "David Summers Rodriguez",
-        "id": 195479,
-        "character": "Self",
-        "profile_path": "/vQJMrCdra0XU7wWq6IixSukL7zd.jpg"
-      },
-      {
-        "name": "Rafael Gutiérrez",
-        "id": 1506934,
-        "character": "Self",
-        "profile_path": "/8bYPdl16qNSYWtlPmO4gSuSmpcE.jpg"
-      },
-      {
-        "name": "Daniel Mezquita",
-        "id": 1506933,
-        "character": "Self",
-        "profile_path": "/tnoLDfinz2kmpFskvK7vNY6PyxE.jpg"
-      },
-      {
-        "name": "Javier Molina",
-        "id": 1506935,
-        "character": "Self",
-        "profile_path": "/40cs8RRYgg9z1CcQApsVLKqoPSE.jpg"
-      },
-      {
-        "name": "Alejandro Sanz",
-        "id": 223686,
-        "character": "Self",
-        "profile_path": "/tXCZhcvC5WYOnrpUvRGbjqQBuHI.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      },
-      {
-        "id": 10402,
-        "name": "Música"
-      }
-    ],
-    "popularidad": 0.1789,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.7,
-          "height": 2857,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/dSyseZXNnObOCSRmC4BQo1w1RMU.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-04-09 10:23:58"
+    "última_actualización": "2026-04-09 22:12:51"
   },
   {
     "id": 1658640,
@@ -5545,7 +5549,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:23:59"
+    "última_actualización": "2026-04-09 22:12:52"
   },
   {
     "id": 1574549,
@@ -5615,7 +5619,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-09 10:24:00"
+    "última_actualización": "2026-04-09 22:12:53"
   },
   {
     "id": 1547764,
@@ -5684,6 +5688,6 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-04-09 10:23:55"
+    "última_actualización": "2026-04-09 22:12:48"
   }
 ]
