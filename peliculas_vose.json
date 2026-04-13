@@ -187,6 +187,40 @@
         "año": null
     },
     {
+        "título": "Atrapando a un Monstruo",
+        "cartel": "imagenes_peliculas/tmdb_atrapando_a_un_monstruo.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-04-16",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=99608&eventCode=106297"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Bryan Fuller",
+        "duración": "106 min",
+        "actores": "Mads Mikkelsen, Sophie Sloan, Sigourney Weaver, David Dastmalchian, Sheila Atim",
+        "sinopsis": "Una niña de ocho años le pide ayuda a su insidiosa vecina en su misión para matar al monstruo que vive debajo de su cama, el cual, según ella, devoró a su familia.",
+        "año": "2025"
+    },
+    {
+        "título": "Incontrolable (I Swear)",
+        "cartel": "imagenes_peliculas/tmdb_incontrolable_i_swear.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-04-16",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=99602&eventCode=104919"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Kirk Jones",
+        "duración": "120 min",
+        "actores": "Robert Aramayo, Maxine Peake, Peter Mullan, Shirley Henderson, Scott Ellis Watson",
+        "sinopsis": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
+        "año": "2025"
+    },
+    {
         "título": "La grazia",
         "cartel": "imagenes_peliculas/tmdb_la_grazia.jpg",
         "horarios": [
