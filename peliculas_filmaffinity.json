@@ -1,13 +1,25 @@
 [
     {
+        "título": "La momia de Lee Cronin",
+        "cartel": "imagenes_filmaffinity/tmdb_la-momia-de-lee-cronin.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-04-21",
+                "hora": "19:40",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=28175"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Lee Cronin",
+        "duración": "134 min",
+        "actores": "Jack Reynor, Laia Costa, May Calamawy, Natalie Grace, Veronica Falcón",
+        "sinopsis": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
+        "año": "2026"
+    },
+    {
         "título": "No te olvidaré",
         "cartel": "imagenes_filmaffinity/tmdb_no-te-olvidare.jpg",
         "horarios": [
-            {
-                "fecha": "2026-04-14",
-                "hora": "20:20",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=28381"
-            },
             {
                 "fecha": "2026-04-21",
                 "hora": "17:35",
@@ -31,11 +43,6 @@
         "cartel": "imagenes_filmaffinity/tmdb_kill-bill-the-whole-bloody-affair.jpg",
         "horarios": [
             {
-                "fecha": "2026-04-14",
-                "hora": "20:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27710"
-            },
-            {
                 "fecha": "2026-04-21",
                 "hora": "19:45",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=28600"
@@ -49,31 +56,9 @@
         "año": "2011"
     },
     {
-        "título": "Super Mario Galaxy: La película",
-        "cartel": "imagenes_filmaffinity/tmdb_super-mario-galaxy-la-pelicula.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-04-14",
-                "hora": "20:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=28246"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Aaron Horvath, Michael Jelenic",
-        "duración": "98 min",
-        "actores": "Chris Pratt, Charlie Day, Anya Taylor-Joy, Jack Black, Keegan-Michael Key",
-        "sinopsis": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
-        "año": "2026"
-    },
-    {
         "título": "Proyecto Salvación",
         "cartel": "imagenes_filmaffinity/tmdb_proyecto-salvacion.jpg",
         "horarios": [
-            {
-                "fecha": "2026-04-14",
-                "hora": "19:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=28378"
-            },
             {
                 "fecha": "2026-04-21",
                 "hora": "18:50",
@@ -85,23 +70,6 @@
         "duración": "157 min",
         "actores": "Ryan Gosling, James Ortiz, Sandra Hüller, Lionel Boyce, Milana Vayntrub",
         "sinopsis": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-        "año": "2026"
-    },
-    {
-        "título": "La momia de Lee Cronin",
-        "cartel": "imagenes_filmaffinity/tmdb_la-momia-de-lee-cronin.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-04-21",
-                "hora": "19:40",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=28175"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Lee Cronin",
-        "duración": "134 min",
-        "actores": "Jack Reynor, Laia Costa, May Calamawy, Natalie Grace, Veronica Falcón",
-        "sinopsis": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
         "año": "2026"
     },
     {
