@@ -1622,6 +1622,93 @@
     "última_actualización": "2026-04-14 22:15:07"
   },
   {
+    "id": 1602856,
+    "tmdb_id": 1602856,
+    "título": "SARCO",
+    "título_original": "SARCO",
+    "sinopsis": "Una pareja de influencers se cuelan en un pantano totalmente cerrado al público para grabar contenido, pero son  acechados por algo que escapa a su conocimiento.",
+    "poster_path": "/cmpieF9RJyR1aOVDhuP23Qzmjod.jpg",
+    "poster_local": "imagenes_estrenos/SARCO_cmpieF9RJyR1aOVDhuP23Qzmjod.jpg",
+    "backdrop_path": "/xUXM3yWeEAz4cheyUP7cpumxOn4.jpg",
+    "backdrop_local": "imagenes_estrenos/SARCO_backdrop_xUXM3yWeEAz4cheyUP7cpumxOn4.jpg",
+    "fecha_estreno": "2026-04-22",
+    "duración": "16 min",
+    "director": "Sameer Teckchandani Ortiz",
+    "directores": [
+      {
+        "name": "Sameer Teckchandani Ortiz",
+        "id": 4179770
+      }
+    ],
+    "actores": [
+      {
+        "name": "Elba Heras",
+        "id": 5893987,
+        "character": "Lourie",
+        "profile_path": null
+      },
+      {
+        "name": "Nacho Moscosio",
+        "id": 5140309,
+        "character": "John",
+        "profile_path": "/zxhDkzUyhqKj4mHD97zkyhiOgGv.jpg"
+      },
+      {
+        "name": "María Prieto",
+        "id": 5893990,
+        "character": "\"La señora\"",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 0.0479,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/xUXM3yWeEAz4cheyUP7cpumxOn4.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/cmpieF9RJyR1aOVDhuP23Qzmjod.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-04-17 22:11:08"
+  },
+  {
     "id": 1640271,
     "tmdb_id": 1640271,
     "título": "Asteria",
@@ -1707,94 +1794,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:38"
-  },
-  {
-    "id": 1602856,
-    "tmdb_id": 1602856,
-    "título": "SARCO",
-    "título_original": "SARCO",
-    "sinopsis": "Una pareja de influencers se cuelan en un pantano totalmente cerrado al público para grabar contenido, pero son  acechados por algo que escapa a su conocimiento.",
-    "poster_path": "/cmpieF9RJyR1aOVDhuP23Qzmjod.jpg",
-    "poster_local": "imagenes_estrenos/SARCO_cmpieF9RJyR1aOVDhuP23Qzmjod.jpg",
-    "backdrop_path": "/xUXM3yWeEAz4cheyUP7cpumxOn4.jpg",
-    "backdrop_local": "imagenes_estrenos/SARCO_backdrop_xUXM3yWeEAz4cheyUP7cpumxOn4.jpg",
-    "fecha_estreno": "2026-04-22",
-    "duración": "16 min",
-    "director": "Sameer Teckchandani Ortiz",
-    "directores": [
-      {
-        "name": "Sameer Teckchandani Ortiz",
-        "id": 4179770
-      }
-    ],
-    "actores": [
-      {
-        "name": "Elba Heras",
-        "id": 5893987,
-        "character": "Lourie",
-        "profile_path": null
-      },
-      {
-        "name": "Nacho Moscosio",
-        "id": 5140309,
-        "character": "John",
-        "profile_path": "/zxhDkzUyhqKj4mHD97zkyhiOgGv.jpg"
-      },
-      {
-        "name": "María Prieto",
-        "id": 5893990,
-        "character": "\"La señora\"",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 53,
-        "name": "Suspense"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 27,
-        "name": "Terror"
-      }
-    ],
-    "popularidad": 0.0479,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/xUXM3yWeEAz4cheyUP7cpumxOn4.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/cmpieF9RJyR1aOVDhuP23Qzmjod.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-04-17 10:24:39"
+    "última_actualización": "2026-04-17 22:11:09"
   },
   {
     "id": 936075,
@@ -1969,7 +1969,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:34"
+    "última_actualización": "2026-04-17 22:11:05"
   },
   {
     "id": 696393,
@@ -2037,8 +2037,8 @@
       }
     ],
     "popularidad": 17.1479,
-    "puntuación": 6.72,
-    "votos": 313,
+    "puntuación": 6.729,
+    "votos": 315,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2148,7 +2148,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:34"
+    "última_actualización": "2026-04-17 22:11:06"
   },
   {
     "id": 1653435,
@@ -2236,7 +2236,97 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-04-17 10:24:35"
+    "última_actualización": "2026-04-17 22:11:07"
+  },
+  {
+    "id": 1631506,
+    "tmdb_id": 1631506,
+    "título": "La ahorcada",
+    "título_original": "La ahorcada",
+    "sinopsis": "",
+    "poster_path": "/277U1iDp01XMQ6KBkPTMsmaLrBA.jpg",
+    "poster_local": "imagenes_estrenos/La_ahorcada_277U1iDp01XMQ6KBkPTMsmaLrBA.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-04-22T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Miguel Ángel Lamata",
+    "directores": [
+      {
+        "name": "Miguel Ángel Lamata",
+        "id": 144546
+      }
+    ],
+    "actores": [
+      {
+        "name": "Amaia Salamanca",
+        "id": 125854,
+        "character": "",
+        "profile_path": "/c2boE9vHTtD3weXG6iWsLJ5mMjU.jpg"
+      },
+      {
+        "name": "Eduardo Noriega",
+        "id": 17093,
+        "character": "Fran",
+        "profile_path": "/wL2pCdw5lNsDrWRor3rxwLaSTQK.jpg"
+      },
+      {
+        "name": "Cosette Silguero",
+        "id": 3056391,
+        "character": "",
+        "profile_path": "/9PW6oswKGNzHMNsCFZoeQKoLxz2.jpg"
+      },
+      {
+        "name": "Norma Ruiz",
+        "id": 125853,
+        "character": "",
+        "profile_path": "/mvVp4pL3G1Uf0DoWoXfwkVLb7rA.jpg"
+      },
+      {
+        "name": "Anastasia Fauteck",
+        "id": 2670094,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 0.5721,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/277U1iDp01XMQ6KBkPTMsmaLrBA.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/fcxT58xhmJhPCdIcw69727fAqeB.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-04-17 22:11:07"
   },
   {
     "id": 1639356,
@@ -2313,7 +2403,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:36"
+    "última_actualización": "2026-04-17 22:11:07"
   },
   {
     "id": 1640373,
@@ -2393,7 +2483,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:37"
+    "última_actualización": "2026-04-17 22:11:08"
   },
   {
     "id": 1221061,
@@ -2554,7 +2644,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:35"
+    "última_actualización": "2026-04-17 22:11:06"
   },
   {
     "id": 1202152,
@@ -2562,7 +2652,7 @@
     "título": "Maracuda",
     "título_original": "Маракуда",
     "sinopsis": "Maracuda, hijo de un respetado líder tribal, lucha por estar a la altura de las expectativas de su padre. Se aventura en un bosque misterioso para probarse a sí mismo y se encuentra con Tink, un pájaro extraterrestre mágico, y juntos se embarcan en increíbles aventuras en el bosque de la Edad de Piedra habitado por ardillas dientes de sable, adorables suricatos e incluso dinosaurios. En medio de sus aventuras, Tink transforma involuntariamente al padre de Maracuda en una pequeña criatura, lo que lleva al niño a enseñarle a Tink cómo controlar sus poderes.",
-    "poster_path": "/qqvUrP9ArXZ43tkgwIdpn07Sneb.jpg",
+    "poster_path": "/921uxRXPTQZHaTCMR2uCOmVdfC2.jpg",
     "poster_local": "imagenes_estrenos/Maracuda_qqvUrP9ArXZ43tkgwIdpn07Sneb.jpg",
     "backdrop_path": "/5s98bd53qqFYZa9ACL4vD48ebsT.jpg",
     "backdrop_local": "imagenes_estrenos/Maracuda_backdrop_5s98bd53qqFYZa9ACL4vD48ebsT.jpg",
@@ -2667,197 +2757,138 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:35"
+    "última_actualización": "2026-04-17 22:11:06"
   },
   {
-    "id": 1577498,
-    "tmdb_id": 1577498,
-    "título": "Después de Kim",
-    "título_original": "Después de Kim",
-    "sinopsis": "Juan y Gloria, divorciados y distanciados desde hace 20 años, han de viajar desde Buenos Aires a España al recibir la noticia de que Kim, la hija de ambos, con la que hace tiempo perdieron el contacto, ha aparecido muerta. A su llegada descubren que la fallecida ha dejado un nieto que se encuentra en paradero desconocido, un descubrimiento que les hace quedarse en España para encontrarle.",
-    "poster_path": "/p3vtustdUaMUI23rBZ1VYIiWMtE.jpg",
-    "poster_local": "imagenes_estrenos/Despu_s_de_Kim_p3vtustdUaMUI23rBZ1VYIiWMtE.jpg",
-    "backdrop_path": "/r8pitetZPS8nJeEQooPMO8ku3Xi.jpg",
-    "backdrop_local": "imagenes_estrenos/Despu_s_de_Kim_backdrop_r8pitetZPS8nJeEQooPMO8ku3Xi.jpg",
+    "id": 1269644,
+    "tmdb_id": 1269644,
+    "título": "La isla de Amrum",
+    "título_original": "Amrum",
+    "sinopsis": "",
+    "poster_path": "/veKogeWV5xVrg41HrLCspiwHNDy.jpg",
+    "poster_local": "imagenes_estrenos/La_isla_de_Amrum_veKogeWV5xVrg41HrLCspiwHNDy.jpg",
+    "backdrop_path": "/agiw674fCB712joCGQFCPzd3nSp.jpg",
+    "backdrop_local": "imagenes_estrenos/La_isla_de_Amrum_backdrop_agiw674fCB712joCGQFCPzd3nSp.jpg",
     "fecha_estreno": "2026-04-24T00:00:00.000Z",
-    "duración": "90 min",
-    "director": "Ángeles González-Sinde",
+    "duración": "93 min",
+    "director": "Fatih Akin",
     "directores": [
       {
-        "name": "Ángeles González-Sinde",
-        "id": 230209
+        "name": "Fatih Akin",
+        "id": 5125
       }
     ],
     "actores": [
       {
-        "name": "Adriana Ozores",
-        "id": 87017,
-        "character": "Gloria",
-        "profile_path": "/6xxv8qvxDLpuaKFMMzXziOldkGK.jpg"
+        "name": "Jasper Billerbeck",
+        "id": 4670403,
+        "character": "Nanning",
+        "profile_path": "/dcEoGeSHchUYtsacaSPuKGFRLJA.jpg"
       },
       {
-        "name": "Darío Grandinetti",
-        "id": 3618,
-        "character": "Juan",
-        "profile_path": "/l1Gw8OLzw7FehGeQK7pZ5wJOIgF.jpg"
+        "name": "Diane Kruger",
+        "id": 9824,
+        "character": "Tessa Bendixen",
+        "profile_path": "/o5gVowcjVw4ThYi0L3883Y4X7kH.jpg"
       },
       {
-        "name": "Christina Rosenvinge",
-        "id": 1914309,
-        "character": "",
-        "profile_path": "/kEpvZhaeXeM4mKjQOxL98kv3nSa.jpg"
+        "name": "Kian Köppke",
+        "id": 4670402,
+        "character": "Hermann",
+        "profile_path": "/yYywVwAdquoEgsdU7vA6JKefYI4.jpg"
       },
       {
-        "name": "Karina Kolokolchykova",
-        "id": 1914003,
-        "character": "",
-        "profile_path": "/l1qPlsCja7RCUPK833MubiRfFLp.jpg"
+        "name": "Laura Tonke",
+        "id": 11611,
+        "character": "Hille Hagener",
+        "profile_path": "/3tunqYBaoMEpeWQUu25qjGgse3v.jpg"
+      },
+      {
+        "name": "Hark Bohm",
+        "id": 1865,
+        "character": "Old Man",
+        "profile_path": "/qbK0MB6h73iuqXJ4e8ttaKdHB1C.jpg"
       }
     ],
-    "géneros": [],
-    "popularidad": 0.4247,
-    "puntuación": 0.0,
-    "votos": 0,
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.5151,
+    "puntuación": 7.0,
+    "votos": 51,
     "adulto": false,
     "video": false,
-    "año": "2026",
+    "año": "2025",
     "imágenes": {
       "backdrops": [
         {
-          "aspect_ratio": 1.782,
-          "height": 864,
+          "aspect_ratio": 1.778,
+          "height": 720,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/r8pitetZPS8nJeEQooPMO8ku3Xi.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
+          "file_path": "/agiw674fCB712joCGQFCPzd3nSp.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1280
         },
         {
-          "aspect_ratio": 1.782,
-          "height": 864,
+          "aspect_ratio": 1.778,
+          "height": 720,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/pWohAC4FdT1uGQ8KNUFDoZsAkzt.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
+          "file_path": "/pIAafA4PAOos43NPeVRfLx2ci18.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1280
         },
         {
-          "aspect_ratio": 1.782,
-          "height": 864,
+          "aspect_ratio": 1.778,
+          "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/1Ca0EXzaOYDcvmL20NkiGwG0GYc.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
+          "file_path": "/oiiQVnnEY4M2pz6iZkq59ls9fP.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/cjcTSr5ZaMHOvTs4caCmhIZxjix.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/1L4Z7IzfuG8oyeWGjVNX7g14RZp.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
         }
       ],
       "posters": [
         {
           "aspect_ratio": 0.667,
           "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/p3vtustdUaMUI23rBZ1VYIiWMtE.jpg",
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/hU4TQpAZmcMRjzvATAbHbIWIe9D.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 2000
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:36"
-  },
-  {
-    "id": 1631506,
-    "tmdb_id": 1631506,
-    "título": "La ahorcada",
-    "título_original": "La ahorcada",
-    "sinopsis": "",
-    "poster_path": "/277U1iDp01XMQ6KBkPTMsmaLrBA.jpg",
-    "poster_local": "imagenes_estrenos/La_ahorcada_277U1iDp01XMQ6KBkPTMsmaLrBA.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-04-24T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Miguel Ángel Lamata",
-    "directores": [
-      {
-        "name": "Miguel Ángel Lamata",
-        "id": 144546
-      }
-    ],
-    "actores": [
-      {
-        "name": "Amaia Salamanca",
-        "id": 125854,
-        "character": "",
-        "profile_path": "/c2boE9vHTtD3weXG6iWsLJ5mMjU.jpg"
-      },
-      {
-        "name": "Eduardo Noriega",
-        "id": 17093,
-        "character": "Fran",
-        "profile_path": "/wL2pCdw5lNsDrWRor3rxwLaSTQK.jpg"
-      },
-      {
-        "name": "Cosette Silguero",
-        "id": 3056391,
-        "character": "",
-        "profile_path": "/9PW6oswKGNzHMNsCFZoeQKoLxz2.jpg"
-      },
-      {
-        "name": "Norma Ruiz",
-        "id": 125853,
-        "character": "",
-        "profile_path": "/mvVp4pL3G1Uf0DoWoXfwkVLb7rA.jpg"
-      },
-      {
-        "name": "Anastasia Fauteck",
-        "id": 2670094,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      }
-    ],
-    "popularidad": 0.5721,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/277U1iDp01XMQ6KBkPTMsmaLrBA.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/fcxT58xhmJhPCdIcw69727fAqeB.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-04-17 10:24:37"
+    "última_actualización": "2026-04-17 22:11:06"
   },
   {
     "id": 1337148,
@@ -2971,7 +3002,107 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-04-17 10:24:37"
+    "última_actualización": "2026-04-17 22:11:07"
+  },
+  {
+    "id": 1577498,
+    "tmdb_id": 1577498,
+    "título": "Después de Kim",
+    "título_original": "Después de Kim",
+    "sinopsis": "Juan y Gloria, divorciados y distanciados desde hace 20 años, han de viajar desde Buenos Aires a España al recibir la noticia de que Kim, la hija de ambos, con la que hace tiempo perdieron el contacto, ha aparecido muerta. A su llegada descubren que la fallecida ha dejado un nieto que se encuentra en paradero desconocido, un descubrimiento que les hace quedarse en España para encontrarle.",
+    "poster_path": "/p3vtustdUaMUI23rBZ1VYIiWMtE.jpg",
+    "poster_local": "imagenes_estrenos/Despu_s_de_Kim_p3vtustdUaMUI23rBZ1VYIiWMtE.jpg",
+    "backdrop_path": "/r8pitetZPS8nJeEQooPMO8ku3Xi.jpg",
+    "backdrop_local": "imagenes_estrenos/Despu_s_de_Kim_backdrop_r8pitetZPS8nJeEQooPMO8ku3Xi.jpg",
+    "fecha_estreno": "2026-04-24T00:00:00.000Z",
+    "duración": "90 min",
+    "director": "Ángeles González-Sinde",
+    "directores": [
+      {
+        "name": "Ángeles González-Sinde",
+        "id": 230209
+      }
+    ],
+    "actores": [
+      {
+        "name": "Adriana Ozores",
+        "id": 87017,
+        "character": "Gloria",
+        "profile_path": "/6xxv8qvxDLpuaKFMMzXziOldkGK.jpg"
+      },
+      {
+        "name": "Darío Grandinetti",
+        "id": 3618,
+        "character": "Juan",
+        "profile_path": "/l1Gw8OLzw7FehGeQK7pZ5wJOIgF.jpg"
+      },
+      {
+        "name": "Christina Rosenvinge",
+        "id": 1914309,
+        "character": "",
+        "profile_path": "/kEpvZhaeXeM4mKjQOxL98kv3nSa.jpg"
+      },
+      {
+        "name": "Karina Kolokolchykova",
+        "id": 1914003,
+        "character": "",
+        "profile_path": "/l1qPlsCja7RCUPK833MubiRfFLp.jpg"
+      }
+    ],
+    "géneros": [],
+    "popularidad": 0.4247,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.782,
+          "height": 864,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/r8pitetZPS8nJeEQooPMO8ku3Xi.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1540
+        },
+        {
+          "aspect_ratio": 1.782,
+          "height": 864,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/pWohAC4FdT1uGQ8KNUFDoZsAkzt.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1540
+        },
+        {
+          "aspect_ratio": 1.782,
+          "height": 864,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/1Ca0EXzaOYDcvmL20NkiGwG0GYc.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1540
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/p3vtustdUaMUI23rBZ1VYIiWMtE.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-04-17 22:11:07"
   },
   {
     "id": 1103551,
@@ -3102,7 +3233,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:37"
+    "última_actualización": "2026-04-17 22:11:07"
   },
   {
     "id": 1632334,
@@ -3205,7 +3336,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:38"
+    "última_actualización": "2026-04-17 22:11:08"
   },
   {
     "id": 1624329,
@@ -3328,7 +3459,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:39"
+    "última_actualización": "2026-04-17 22:11:09"
   },
   {
     "id": 1624632,
@@ -3403,7 +3534,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:39"
+    "última_actualización": "2026-04-17 22:11:09"
   },
   {
     "id": 1010755,
@@ -3467,7 +3598,7 @@
       }
     ],
     "popularidad": 88.5358,
-    "puntuación": 5.667,
+    "puntuación": 5.7,
     "votos": 111,
     "adulto": false,
     "video": false,
@@ -3558,7 +3689,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:34"
+    "última_actualización": "2026-04-17 22:11:05"
   },
   {
     "id": 1314481,
@@ -3568,10 +3699,10 @@
     "sinopsis": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
     "poster_path": "/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
     "poster_local": "imagenes_estrenos/El_diablo_viste_de_Prada_2_sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
-    "backdrop_path": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+    "backdrop_path": "/2cr7imTLVSSrzgL3bFKAMCMdgKw.jpg",
     "backdrop_local": "imagenes_estrenos/El_diablo_viste_de_Prada_2_backdrop_e5dglyzFNGvrcnddZxF4LJu5b4b.jpg",
     "fecha_estreno": "2026-04-30T00:00:00.000Z",
-    "duración": "119 min",
+    "duración": "120 min",
     "director": "David Frankel",
     "directores": [
       {
@@ -3613,12 +3744,12 @@
     ],
     "géneros": [
       {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
         "id": 18,
         "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
       }
     ],
     "popularidad": 25.3941,
@@ -3631,12 +3762,22 @@
       "backdrops": [
         {
           "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/2cr7imTLVSSrzgL3bFKAMCMdgKw.jpg",
+          "vote_average": 6.312,
+          "vote_count": 8,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
           "height": 1772,
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
-          "vote_average": 8.362,
-          "vote_count": 6,
+          "vote_average": 6.2,
+          "vote_count": 10,
           "width": 3150
         },
         {
@@ -3645,8 +3786,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/e5dglyzFNGvrcnddZxF4LJu5b4b.jpg",
-          "vote_average": 5.25,
-          "vote_count": 8,
+          "vote_average": 4.3,
+          "vote_count": 10,
           "width": 3840
         },
         {
@@ -3658,16 +3799,6 @@
           "vote_average": 1.434,
           "vote_count": 5,
           "width": 1319
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/2cr7imTLVSSrzgL3bFKAMCMdgKw.jpg",
-          "vote_average": 1.434,
-          "vote_count": 5,
-          "width": 3840
         },
         {
           "aspect_ratio": 1.778,
@@ -3733,7 +3864,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:34"
+    "última_actualización": "2026-04-17 22:11:05"
   },
   {
     "id": 878608,
@@ -3888,7 +4019,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:35"
+    "última_actualización": "2026-04-17 22:11:06"
   },
   {
     "id": 1370814,
@@ -3952,8 +4083,8 @@
       }
     ],
     "popularidad": 4.285,
-    "puntuación": 6.455,
-    "votos": 77,
+    "puntuación": 6.423,
+    "votos": 78,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -4043,7 +4174,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:35"
+    "última_actualización": "2026-04-17 22:11:06"
   },
   {
     "id": 855095,
@@ -4162,7 +4293,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:38"
+    "última_actualización": "2026-04-17 22:11:08"
   },
   {
     "id": 1583875,
@@ -4260,7 +4391,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:38"
+    "última_actualización": "2026-04-17 22:11:08"
   },
   {
     "id": 1658640,
@@ -4335,7 +4466,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:40"
+    "última_actualización": "2026-04-17 22:11:09"
   },
   {
     "id": 1574549,
@@ -4405,7 +4536,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:39"
+    "última_actualización": "2026-04-17 22:11:08"
   },
   {
     "id": 1547764,
@@ -4474,7 +4605,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-04-17 10:24:36"
+    "última_actualización": "2026-04-17 22:11:07"
   },
   {
     "id": 1609830,
@@ -4556,7 +4687,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:38"
+    "última_actualización": "2026-04-17 22:11:08"
   },
   {
     "id": 1479894,
@@ -4626,7 +4757,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:39"
+    "última_actualización": "2026-04-17 22:11:08"
   },
   {
     "id": 1301421,
@@ -4799,7 +4930,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:34"
+    "última_actualización": "2026-04-17 22:11:05"
   },
   {
     "id": 931285,
@@ -4978,7 +5109,87 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:34"
+    "última_actualización": "2026-04-17 22:11:06"
+  },
+  {
+    "id": 1180894,
+    "tmdb_id": 1180894,
+    "título": "Bajo tus pies",
+    "título_original": "Bajo tus pies",
+    "sinopsis": "Película de Cristian Bernard",
+    "poster_path": "/cRL5ydK3sGy7LjmSPBHvDOUICF8.jpg",
+    "poster_local": "imagenes_estrenos/Bajo_tus_pies_cRL5ydK3sGy7LjmSPBHvDOUICF8.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-05-08T00:00:00.000Z",
+    "duración": "110 min",
+    "director": "Cristian Bernard",
+    "directores": [
+      {
+        "name": "Cristian Bernard",
+        "id": 1800570
+      }
+    ],
+    "actores": [
+      {
+        "name": "Maribel Verdú",
+        "id": 16971,
+        "character": "",
+        "profile_path": "/xfpNy6z0eN2jwhv8NQnUxUYGq2P.jpg"
+      },
+      {
+        "name": "Sofía Otero",
+        "id": 3925017,
+        "character": "Lucía",
+        "profile_path": "/4B2F3TwZlpDnyBPWkEk2kv1zj12.jpg"
+      },
+      {
+        "name": "Erik Probanza",
+        "id": 94214,
+        "character": "",
+        "profile_path": "/axbNHusACv26Ys8YDCH7CdW7p4m.jpg"
+      },
+      {
+        "name": "Urko Olazábal",
+        "id": 1760905,
+        "character": "",
+        "profile_path": "/fkLYtgVFIim0mbmdBXjkoogjTSm.jpg"
+      },
+      {
+        "name": "Marcelo Galván",
+        "id": 1347585,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 1.0136,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/cRL5ydK3sGy7LjmSPBHvDOUICF8.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-04-17 22:11:07"
   },
   {
     "id": 1446301,
@@ -5089,86 +5300,6 @@
         }
       ]
     },
-    "última_actualización": "2026-04-17 10:24:36"
-  },
-  {
-    "id": 1180894,
-    "tmdb_id": 1180894,
-    "título": "Bajo tus pies",
-    "título_original": "Bajo tus pies",
-    "sinopsis": "Película de Cristian Bernard",
-    "poster_path": "/cRL5ydK3sGy7LjmSPBHvDOUICF8.jpg",
-    "poster_local": "imagenes_estrenos/Bajo_tus_pies_cRL5ydK3sGy7LjmSPBHvDOUICF8.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-05-08T00:00:00.000Z",
-    "duración": "110 min",
-    "director": "Cristian Bernard",
-    "directores": [
-      {
-        "name": "Cristian Bernard",
-        "id": 1800570
-      }
-    ],
-    "actores": [
-      {
-        "name": "Maribel Verdú",
-        "id": 16971,
-        "character": "",
-        "profile_path": "/xfpNy6z0eN2jwhv8NQnUxUYGq2P.jpg"
-      },
-      {
-        "name": "Sofía Otero",
-        "id": 3925017,
-        "character": "Lucía",
-        "profile_path": "/4B2F3TwZlpDnyBPWkEk2kv1zj12.jpg"
-      },
-      {
-        "name": "Erik Probanza",
-        "id": 94214,
-        "character": "",
-        "profile_path": "/axbNHusACv26Ys8YDCH7CdW7p4m.jpg"
-      },
-      {
-        "name": "Urko Olazábal",
-        "id": 1760905,
-        "character": "",
-        "profile_path": "/fkLYtgVFIim0mbmdBXjkoogjTSm.jpg"
-      },
-      {
-        "name": "Marcelo Galván",
-        "id": 1347585,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      }
-    ],
-    "popularidad": 1.0136,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/cRL5ydK3sGy7LjmSPBHvDOUICF8.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-04-17 10:24:36"
+    "última_actualización": "2026-04-17 22:11:07"
   }
 ]
