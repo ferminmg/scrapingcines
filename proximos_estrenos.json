@@ -2174,7 +2174,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-22 10:27:41"
+    "última_actualización": "2026-04-22 22:13:58"
   },
   {
     "id": 1314481,
@@ -2349,7 +2349,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-22 10:27:42"
+    "última_actualización": "2026-04-22 22:13:59"
   },
   {
     "id": 878608,
@@ -2504,7 +2504,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-22 10:27:43"
+    "última_actualización": "2026-04-22 22:13:59"
   },
   {
     "id": 1370814,
@@ -2565,11 +2565,15 @@
       {
         "id": 53,
         "name": "Suspense"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
       }
     ],
     "popularidad": 5.6941,
-    "puntuación": 6.4,
-    "votos": 80,
+    "puntuación": 6.451,
+    "votos": 82,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2659,7 +2663,105 @@
         }
       ]
     },
-    "última_actualización": "2026-04-22 10:27:43"
+    "última_actualización": "2026-04-22 22:13:59"
+  },
+  {
+    "id": 1583875,
+    "tmdb_id": 1583875,
+    "título": "Los mejores años de nuestra vida",
+    "título_original": "Los mejores años de nuestra vida",
+    "sinopsis": "Un retrato íntimo y emocional del grupo de rock Hombres G, uno de los más míticos de la historia de la música española, por su 40 aniversario.",
+    "poster_path": "/dSyseZXNnObOCSRmC4BQo1w1RMU.jpg",
+    "poster_local": "imagenes_estrenos/Los_mejores_a_os_de_nuestra_vida_dSyseZXNnObOCSRmC4BQo1w1RMU.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-04-30T00:00:00.000Z",
+    "duración": "108 min",
+    "director": "Charlie Arnaiz, Alberto Ortega",
+    "directores": [
+      {
+        "name": "Charlie Arnaiz",
+        "id": 2114770
+      },
+      {
+        "name": "Alberto Ortega",
+        "id": 2407283
+      }
+    ],
+    "actores": [
+      {
+        "name": "David Summers Rodriguez",
+        "id": 195479,
+        "character": "Self",
+        "profile_path": "/vQJMrCdra0XU7wWq6IixSukL7zd.jpg"
+      },
+      {
+        "name": "Rafael Gutiérrez",
+        "id": 1506934,
+        "character": "Self",
+        "profile_path": "/8bYPdl16qNSYWtlPmO4gSuSmpcE.jpg"
+      },
+      {
+        "name": "Daniel Mezquita",
+        "id": 1506933,
+        "character": "Self",
+        "profile_path": "/tnoLDfinz2kmpFskvK7vNY6PyxE.jpg"
+      },
+      {
+        "name": "Javier Molina",
+        "id": 1506935,
+        "character": "Self",
+        "profile_path": "/40cs8RRYgg9z1CcQApsVLKqoPSE.jpg"
+      },
+      {
+        "name": "Alejandro Sanz",
+        "id": 223686,
+        "character": "Self",
+        "profile_path": "/tXCZhcvC5WYOnrpUvRGbjqQBuHI.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "popularidad": 0.1095,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 2857,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/dSyseZXNnObOCSRmC4BQo1w1RMU.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/blXsg1xTrQP3ZY2rbTtL6HFxiab.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-04-22 22:14:01"
   },
   {
     "id": 855095,
@@ -2778,105 +2880,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-22 10:27:46"
-  },
-  {
-    "id": 1583875,
-    "tmdb_id": 1583875,
-    "título": "Los mejores años de nuestra vida",
-    "título_original": "Los mejores años de nuestra vida",
-    "sinopsis": "Un retrato íntimo y emocional del grupo de rock Hombres G, uno de los más míticos de la historia de la música española, por su 40 aniversario.",
-    "poster_path": "/dSyseZXNnObOCSRmC4BQo1w1RMU.jpg",
-    "poster_local": "imagenes_estrenos/Los_mejores_a_os_de_nuestra_vida_dSyseZXNnObOCSRmC4BQo1w1RMU.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-04-30T00:00:00.000Z",
-    "duración": "108 min",
-    "director": "Charlie Arnaiz, Alberto Ortega",
-    "directores": [
-      {
-        "name": "Charlie Arnaiz",
-        "id": 2114770
-      },
-      {
-        "name": "Alberto Ortega",
-        "id": 2407283
-      }
-    ],
-    "actores": [
-      {
-        "name": "David Summers Rodriguez",
-        "id": 195479,
-        "character": "Self",
-        "profile_path": "/vQJMrCdra0XU7wWq6IixSukL7zd.jpg"
-      },
-      {
-        "name": "Rafael Gutiérrez",
-        "id": 1506934,
-        "character": "Self",
-        "profile_path": "/8bYPdl16qNSYWtlPmO4gSuSmpcE.jpg"
-      },
-      {
-        "name": "Daniel Mezquita",
-        "id": 1506933,
-        "character": "Self",
-        "profile_path": "/tnoLDfinz2kmpFskvK7vNY6PyxE.jpg"
-      },
-      {
-        "name": "Javier Molina",
-        "id": 1506935,
-        "character": "Self",
-        "profile_path": "/40cs8RRYgg9z1CcQApsVLKqoPSE.jpg"
-      },
-      {
-        "name": "Alejandro Sanz",
-        "id": 223686,
-        "character": "Self",
-        "profile_path": "/tXCZhcvC5WYOnrpUvRGbjqQBuHI.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      },
-      {
-        "id": 10402,
-        "name": "Música"
-      }
-    ],
-    "popularidad": 0.1095,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.7,
-          "height": 2857,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/dSyseZXNnObOCSRmC4BQo1w1RMU.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/blXsg1xTrQP3ZY2rbTtL6HFxiab.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-04-22 10:27:48"
+    "última_actualización": "2026-04-22 22:14:01"
   },
   {
     "id": 1658640,
@@ -2951,7 +2955,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-22 10:27:49"
+    "última_actualización": "2026-04-22 22:14:02"
   },
   {
     "id": 1574549,
@@ -3021,7 +3025,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-22 10:27:49"
+    "última_actualización": "2026-04-22 22:14:01"
   },
   {
     "id": 1547764,
@@ -3090,7 +3094,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-04-22 10:27:46"
+    "última_actualización": "2026-04-22 22:14:00"
   },
   {
     "id": 1609830,
@@ -3172,7 +3176,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-22 10:27:48"
+    "última_actualización": "2026-04-22 22:14:01"
   },
   {
     "id": 1479894,
@@ -3242,7 +3246,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-22 10:27:49"
+    "última_actualización": "2026-04-22 22:14:02"
   },
   {
     "id": 931285,
@@ -3421,7 +3425,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-22 10:27:42"
+    "última_actualización": "2026-04-22 22:13:59"
   },
   {
     "id": 1301421,
@@ -3594,87 +3598,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-22 10:27:42"
-  },
-  {
-    "id": 1180894,
-    "tmdb_id": 1180894,
-    "título": "Bajo tus pies",
-    "título_original": "Bajo tus pies",
-    "sinopsis": "Película de Cristian Bernard",
-    "poster_path": "/cRL5ydK3sGy7LjmSPBHvDOUICF8.jpg",
-    "poster_local": "imagenes_estrenos/Bajo_tus_pies_cRL5ydK3sGy7LjmSPBHvDOUICF8.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-05-08T00:00:00.000Z",
-    "duración": "110 min",
-    "director": "Cristian Bernard",
-    "directores": [
-      {
-        "name": "Cristian Bernard",
-        "id": 1800570
-      }
-    ],
-    "actores": [
-      {
-        "name": "Maribel Verdú",
-        "id": 16971,
-        "character": "",
-        "profile_path": "/xfpNy6z0eN2jwhv8NQnUxUYGq2P.jpg"
-      },
-      {
-        "name": "Sofía Otero",
-        "id": 3925017,
-        "character": "Lucía",
-        "profile_path": "/4B2F3TwZlpDnyBPWkEk2kv1zj12.jpg"
-      },
-      {
-        "name": "Erik Probanza",
-        "id": 94214,
-        "character": "",
-        "profile_path": "/axbNHusACv26Ys8YDCH7CdW7p4m.jpg"
-      },
-      {
-        "name": "Urko Olazábal",
-        "id": 1760905,
-        "character": "",
-        "profile_path": "/fkLYtgVFIim0mbmdBXjkoogjTSm.jpg"
-      },
-      {
-        "name": "Marcelo Galván",
-        "id": 1347585,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      }
-    ],
-    "popularidad": 0.9248,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/cRL5ydK3sGy7LjmSPBHvDOUICF8.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-04-22 10:27:45"
+    "última_actualización": "2026-04-22 22:13:59"
   },
   {
     "id": 1446301,
@@ -3785,7 +3709,177 @@
         }
       ]
     },
-    "última_actualización": "2026-04-22 10:27:46"
+    "última_actualización": "2026-04-22 22:13:59"
+  },
+  {
+    "id": 1180894,
+    "tmdb_id": 1180894,
+    "título": "Bajo tus pies",
+    "título_original": "Bajo tus pies",
+    "sinopsis": "Película de Cristian Bernard",
+    "poster_path": "/cRL5ydK3sGy7LjmSPBHvDOUICF8.jpg",
+    "poster_local": "imagenes_estrenos/Bajo_tus_pies_cRL5ydK3sGy7LjmSPBHvDOUICF8.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-05-08T00:00:00.000Z",
+    "duración": "110 min",
+    "director": "Cristian Bernard",
+    "directores": [
+      {
+        "name": "Cristian Bernard",
+        "id": 1800570
+      }
+    ],
+    "actores": [
+      {
+        "name": "Maribel Verdú",
+        "id": 16971,
+        "character": "",
+        "profile_path": "/xfpNy6z0eN2jwhv8NQnUxUYGq2P.jpg"
+      },
+      {
+        "name": "Sofía Otero",
+        "id": 3925017,
+        "character": "Lucía",
+        "profile_path": "/4B2F3TwZlpDnyBPWkEk2kv1zj12.jpg"
+      },
+      {
+        "name": "Erik Probanza",
+        "id": 94214,
+        "character": "",
+        "profile_path": "/axbNHusACv26Ys8YDCH7CdW7p4m.jpg"
+      },
+      {
+        "name": "Urko Olazábal",
+        "id": 1760905,
+        "character": "",
+        "profile_path": "/fkLYtgVFIim0mbmdBXjkoogjTSm.jpg"
+      },
+      {
+        "name": "Marcelo Galván",
+        "id": 1347585,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 0.9248,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/cRL5ydK3sGy7LjmSPBHvDOUICF8.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-04-22 22:14:00"
+  },
+  {
+    "id": 1371706,
+    "tmdb_id": 1371706,
+    "título": "UAP",
+    "título_original": "UAP",
+    "sinopsis": "Cuando un grupo de amigos, en su viaje anual del 4 de julio, encuentra un UAP (Unidentified Anomalous Phenomena) que aterriza detrás de su casa del lago, deben decidir si quieren utilizarlo para beneficio propio, o salvar al mundo de la destrucción.",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": "/mddiPWHdBrXzjeo65P26DOVddLk.jpg",
+    "backdrop_local": "imagenes_estrenos/UAP_backdrop_mddiPWHdBrXzjeo65P26DOVddLk.jpg",
+    "fecha_estreno": "2026-05-13",
+    "duración": "0 min",
+    "director": "Mason Howard",
+    "directores": [
+      {
+        "name": "Mason Howard",
+        "id": 5002250
+      }
+    ],
+    "actores": [
+      {
+        "name": "Joel Courtney",
+        "id": 518627,
+        "character": "Kendrick",
+        "profile_path": "/XvlAlEedqATZcPoZcQh3cxXOA7.jpg"
+      },
+      {
+        "name": "Celeste O'Connor",
+        "id": 1972881,
+        "character": "Minnie",
+        "profile_path": "/jI3pNOhj9Gr7ym9cUcv8vsI0lCF.jpg"
+      },
+      {
+        "name": "Charlie Evans",
+        "id": 3603348,
+        "character": "Jacob",
+        "profile_path": "/tNyMjCimykWYzq099EarabwYTEY.jpg"
+      },
+      {
+        "name": "Josh MacQueen",
+        "id": 3756279,
+        "character": "Phoenix",
+        "profile_path": "/sdRbdMsLpTFeOgNmTj9iaKB1gir.jpg"
+      },
+      {
+        "name": "Amelie Zilber",
+        "id": 3695371,
+        "character": "Bella",
+        "profile_path": "/fqos1JvA7dhrT0lJySwpJ2FDgtb.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "popularidad": 0.5779,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mddiPWHdBrXzjeo65P26DOVddLk.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/Yk0UAW8bh6CU8zgdGu6PH7hZZo.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-04-22 22:14:01"
   },
   {
     "id": 467905,
@@ -3849,8 +3943,8 @@
       }
     ],
     "popularidad": 28.323,
-    "puntuación": 6.962,
-    "votos": 287,
+    "puntuación": 6.938,
+    "votos": 289,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3960,182 +4054,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-22 10:27:42"
-  },
-  {
-    "id": 1114967,
-    "tmdb_id": 1114967,
-    "título": "Cuando el Cielo se Equivoca",
-    "título_original": "Good Fortune",
-    "sinopsis": "Gabriel (Keanu Reeves), un ángel bienintencionado, pero bastante inepto, baja a la Tierra con el propósito de ayudar a Arj (Aziz Ansari), un organizador de conciertos en apuros y Jeff (Seth Rogen), un rico inversor de capital riesgo. Aunque las intenciones del angelical Gabriel son buenas, las consecuencias de sus actos no serán las esperadas…",
-    "poster_path": "/kDLQP1bbaFBTpOSM2fuPu3yBqxA.jpg",
-    "poster_local": "imagenes_estrenos/Cuando_el_Cielo_se_Equivoca_kDLQP1bbaFBTpOSM2fuPu3yBqxA.jpg",
-    "backdrop_path": "/q2V1q2Xxwqg3uXQKufpdCtrnAdn.jpg",
-    "backdrop_local": "imagenes_estrenos/Cuando_el_Cielo_se_Equivoca_backdrop_q2V1q2Xxwqg3uXQKufpdCtrnAdn.jpg",
-    "fecha_estreno": "2026-05-15T00:00:00.000Z",
-    "duración": "98 min",
-    "director": "Aziz Ansari",
-    "directores": [
-      {
-        "name": "Aziz Ansari",
-        "id": 86626
-      }
-    ],
-    "actores": [
-      {
-        "name": "Keanu Reeves",
-        "id": 6384,
-        "character": "Gabriel",
-        "profile_path": "/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
-      },
-      {
-        "name": "Aziz Ansari",
-        "id": 86626,
-        "character": "Arj / Delivery Robots (voice)",
-        "profile_path": "/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg"
-      },
-      {
-        "name": "Seth Rogen",
-        "id": 19274,
-        "character": "Jeff",
-        "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
-      },
-      {
-        "name": "Keke Palmer",
-        "id": 74688,
-        "character": "Elena",
-        "profile_path": "/fXiKInUmPLs5F53yv2KZSuCXHJZ.jpg"
-      },
-      {
-        "name": "Sandra Oh",
-        "id": 25540,
-        "character": "Martha",
-        "profile_path": "/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 14,
-        "name": "Fantasía"
-      }
-    ],
-    "popularidad": 7.5672,
-    "puntuación": 6.92,
-    "votos": 582,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/q2V1q2Xxwqg3uXQKufpdCtrnAdn.jpg",
-          "vote_average": 5.25,
-          "vote_count": 12,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/mqh9RCkvhNbLlgrZjaGvVyIioUf.jpg",
-          "vote_average": 4.458,
-          "vote_count": 12,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1687,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xemUfPgskiMguHD0GURl42beA7P.jpg",
-          "vote_average": 1.75,
-          "vote_count": 6,
-          "width": 3000
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2025,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/y1xorQrYRjhiIChxGeGqUVxuhc7.jpg",
-          "vote_average": 1.75,
-          "vote_count": 4,
-          "width": 3600
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 864,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/nbzUkElgFAdvnRdfvj69CharWaU.jpg",
-          "vote_average": 1.222,
-          "vote_count": 3,
-          "width": 1536
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/mIN2Pgn4T6TpjuDtlhMPCAw5Bvo.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/89EMVDx4Gc9qdibm0A1LcnFRAm6.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/kxjl01f5hs5IOvwsED9xvVejJkP.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/r7vPVZkVJAKCu1gNr45pQBOSm4H.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/r67oDN0AUxQVelmraVxkKH8SvIE.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-04-22 10:27:42"
+    "última_actualización": "2026-04-22 22:13:59"
   },
   {
     "id": 1430077,
@@ -4300,15 +4219,190 @@
         }
       ]
     },
-    "última_actualización": "2026-04-22 10:27:43"
+    "última_actualización": "2026-04-22 22:13:59"
+  },
+  {
+    "id": 1114967,
+    "tmdb_id": 1114967,
+    "título": "Cuando el Cielo se Equivoca",
+    "título_original": "Good Fortune",
+    "sinopsis": "Gabriel (Keanu Reeves), un ángel bienintencionado, pero bastante inepto, baja a la Tierra con el propósito de ayudar a Arj (Aziz Ansari), un organizador de conciertos en apuros y Jeff (Seth Rogen), un rico inversor de capital riesgo. Aunque las intenciones del angelical Gabriel son buenas, las consecuencias de sus actos no serán las esperadas…",
+    "poster_path": "/kDLQP1bbaFBTpOSM2fuPu3yBqxA.jpg",
+    "poster_local": "imagenes_estrenos/Cuando_el_Cielo_se_Equivoca_kDLQP1bbaFBTpOSM2fuPu3yBqxA.jpg",
+    "backdrop_path": "/q2V1q2Xxwqg3uXQKufpdCtrnAdn.jpg",
+    "backdrop_local": "imagenes_estrenos/Cuando_el_Cielo_se_Equivoca_backdrop_q2V1q2Xxwqg3uXQKufpdCtrnAdn.jpg",
+    "fecha_estreno": "2026-05-15T00:00:00.000Z",
+    "duración": "98 min",
+    "director": "Aziz Ansari",
+    "directores": [
+      {
+        "name": "Aziz Ansari",
+        "id": 86626
+      }
+    ],
+    "actores": [
+      {
+        "name": "Keanu Reeves",
+        "id": 6384,
+        "character": "Gabriel",
+        "profile_path": "/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+      },
+      {
+        "name": "Aziz Ansari",
+        "id": 86626,
+        "character": "Arj / Delivery Robots (voice)",
+        "profile_path": "/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg"
+      },
+      {
+        "name": "Seth Rogen",
+        "id": 19274,
+        "character": "Jeff",
+        "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+      },
+      {
+        "name": "Keke Palmer",
+        "id": 74688,
+        "character": "Elena",
+        "profile_path": "/fXiKInUmPLs5F53yv2KZSuCXHJZ.jpg"
+      },
+      {
+        "name": "Sandra Oh",
+        "id": 25540,
+        "character": "Martha",
+        "profile_path": "/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "popularidad": 7.5672,
+    "puntuación": 6.9,
+    "votos": 582,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/q2V1q2Xxwqg3uXQKufpdCtrnAdn.jpg",
+          "vote_average": 5.25,
+          "vote_count": 12,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mqh9RCkvhNbLlgrZjaGvVyIioUf.jpg",
+          "vote_average": 4.458,
+          "vote_count": 12,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1687,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xemUfPgskiMguHD0GURl42beA7P.jpg",
+          "vote_average": 1.75,
+          "vote_count": 6,
+          "width": 3000
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2025,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/y1xorQrYRjhiIChxGeGqUVxuhc7.jpg",
+          "vote_average": 1.75,
+          "vote_count": 4,
+          "width": 3600
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 864,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/nbzUkElgFAdvnRdfvj69CharWaU.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 1536
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mIN2Pgn4T6TpjuDtlhMPCAw5Bvo.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/89EMVDx4Gc9qdibm0A1LcnFRAm6.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/kxjl01f5hs5IOvwsED9xvVejJkP.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/r7vPVZkVJAKCu1gNr45pQBOSm4H.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/r67oDN0AUxQVelmraVxkKH8SvIE.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-04-22 22:13:59"
   },
   {
     "id": 1168719,
     "tmdb_id": 1168719,
-    "título": "Silent Friend",
-    "título_original": "Silent Friend",
+    "título": "Stiller Freund",
+    "título_original": "Stiller Freund",
     "sinopsis": "",
-    "poster_path": "/1YCKtx2Cdu19LhEiBf9TRPZstvO.jpg",
+    "poster_path": "/3QXmEnOKDjeRcxlgn3uka4SR5Im.jpg",
     "poster_local": "imagenes_estrenos/Silent_Friend_1YCKtx2Cdu19LhEiBf9TRPZstvO.jpg",
     "backdrop_path": "/e40FMjHg2RoypsjxygoTFB5jLUd.jpg",
     "backdrop_local": "imagenes_estrenos/Silent_Friend_backdrop_e40FMjHg2RoypsjxygoTFB5jLUd.jpg",
@@ -4357,6 +4451,10 @@
       {
         "id": 18,
         "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
       }
     ],
     "popularidad": 4.7743,
@@ -4420,7 +4518,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-04-22 10:27:43"
+    "última_actualización": "2026-04-22 22:13:59"
   },
   {
     "id": 1214684,
@@ -4583,57 +4681,57 @@
         }
       ]
     },
-    "última_actualización": "2026-04-22 10:27:44"
+    "última_actualización": "2026-04-22 22:13:59"
   },
   {
-    "id": 1158616,
-    "tmdb_id": 1158616,
-    "título": "El amigo inesperado",
-    "título_original": "Le Répondeur",
-    "sinopsis": "",
-    "poster_path": "/bQDjUA3Yol0Rwux2BCAyt4YYfyg.jpg",
-    "poster_local": "imagenes_estrenos/El_amigo_inesperado_bQDjUA3Yol0Rwux2BCAyt4YYfyg.jpg",
-    "backdrop_path": "/rNoIF5gIpY6pz03lIF5kJK87J9p.jpg",
-    "backdrop_local": "imagenes_estrenos/El_amigo_inesperado_backdrop_rNoIF5gIpY6pz03lIF5kJK87J9p.jpg",
+    "id": 1436219,
+    "tmdb_id": 1436219,
+    "título": "Pizza Movies",
+    "título_original": "Pizza Movies",
+    "sinopsis": "Una periodista cultural y crítica de cine en crisis convence a su marido de dejarlo todo y montar un negocio, pero no un uno cualquiera: una pizzería con temática de cine.",
+    "poster_path": "/rp6i8rkKDhqZ0455cgRHvcw6lup.jpg",
+    "poster_local": "imagenes_estrenos/Pizza_Movies_rp6i8rkKDhqZ0455cgRHvcw6lup.jpg",
+    "backdrop_path": "/eVLXHFU2lLhvcFu2ulfY58RdcQj.jpg",
+    "backdrop_local": "imagenes_estrenos/Pizza_Movies_backdrop_eVLXHFU2lLhvcFu2ulfY58RdcQj.jpg",
     "fecha_estreno": "2026-05-15T00:00:00.000Z",
-    "duración": "102 min",
-    "director": "Fabienne Godet",
+    "duración": "95 min",
+    "director": "Carlo Padial",
     "directores": [
       {
-        "name": "Fabienne Godet",
-        "id": 559914
+        "name": "Carlo Padial",
+        "id": 1157469
       }
     ],
     "actores": [
       {
-        "name": "Salif Cissé",
-        "id": 2541773,
-        "character": "Baptiste Mendy",
-        "profile_path": "/h0EzP4ZCdNK6ouMjQBSYDsSLPb7.jpg"
+        "name": "Judit Martín",
+        "id": 4517463,
+        "character": "Thais",
+        "profile_path": "/txawjKqqfyJwu8EzuU0eXzzjZMy.jpg"
       },
       {
-        "name": "Denis Podalydès",
-        "id": 6020,
-        "character": "Pierre Chozène",
-        "profile_path": "/uKEvUFBjdkDuNQgDoEVwFw1TvSa.jpg"
+        "name": "Berto Romero",
+        "id": 1283862,
+        "character": "Alan",
+        "profile_path": "/7HEPcRtF8G77K4zepmSdPuNy9CP.jpg"
       },
       {
-        "name": "Clara Bretheau",
-        "id": 3552511,
-        "character": "Elsa Chozène",
-        "profile_path": "/hIMz1TipjYkaMsIRDsZsF6aM9bA.jpg"
+        "name": "Raúl Arévalo",
+        "id": 34021,
+        "character": "Edu",
+        "profile_path": "/npWhiRnqlbqku6mNnk5RTgGvnj2.jpg"
       },
       {
-        "name": "Aure Atika",
-        "id": 19116,
-        "character": "Clara",
-        "profile_path": "/1jK3B2T1FTHmM2DPmQt6EzZgAYL.jpg"
+        "name": "Joaquín Reyes",
+        "id": 114462,
+        "character": "Joaquín Reyes",
+        "profile_path": "/nmYj32Pgnt60N99nI503K63QMK5.jpg"
       },
       {
-        "name": "Manon Clavel",
-        "id": 2390967,
-        "character": "Fanny",
-        "profile_path": "/nmYvluoCuLh5BpPlx6b6zrButTe.jpg"
+        "name": "Bruna Cusí",
+        "id": 1743949,
+        "character": "Psicologa",
+        "profile_path": "/gxPL7q1Ooi2LljSrZsnm6YnsEIT.jpg"
       }
     ],
     "géneros": [
@@ -4642,50 +4740,30 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.9426,
-    "puntuación": 6.3,
-    "votos": 68,
+    "popularidad": 1.0049,
+    "puntuación": 7.0,
+    "votos": 1,
     "adulto": false,
     "video": false,
-    "año": "2025",
+    "año": "2026",
     "imágenes": {
       "backdrops": [
-        {
-          "aspect_ratio": 1.779,
-          "height": 1321,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/rNoIF5gIpY6pz03lIF5kJK87J9p.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2350
-        },
         {
           "aspect_ratio": 1.778,
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/qnRiJcHhW9hlOrJNo7YdcVygDUo.jpg",
+          "file_path": "/eVLXHFU2lLhvcFu2ulfY58RdcQj.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 3840
         },
         {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/cuV4N6BqJmyL3G0j8GuPAeNklxi.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
           "aspect_ratio": 1.782,
           "height": 864,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/eJNLytbmJqwaIINiJmZYGL8HYdR.jpg",
+          "file_path": "/74eYD9AS16yw3sw5MLnhYxJbwiK.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 1540
@@ -4695,15 +4773,46 @@
           "height": 864,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/on0jPbGI5AmvoNxELLD3qyLsKIo.jpg",
+          "file_path": "/5qz8aZiPaIIxKFibxPTxF0Wr78t.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 1540
         }
       ],
-      "posters": []
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/21p3rD1w2rFLtgE91AbrdqjApW7.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.749,
+          "height": 1600,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5C6AxSfGKLIQ8RA4KMwFnJ0FEOX.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1199
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1600,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/rp6i8rkKDhqZ0455cgRHvcw6lup.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1067
+        }
+      ]
     },
-    "última_actualización": "2026-04-22 10:27:44"
+    "última_actualización": "2026-04-22 22:14:00"
   },
   {
     "id": 677561,
@@ -4844,7 +4953,127 @@
         }
       ]
     },
-    "última_actualización": "2026-04-22 10:27:45"
+    "última_actualización": "2026-04-22 22:14:00"
+  },
+  {
+    "id": 1158616,
+    "tmdb_id": 1158616,
+    "título": "El amigo inesperado",
+    "título_original": "Le Répondeur",
+    "sinopsis": "",
+    "poster_path": "/bQDjUA3Yol0Rwux2BCAyt4YYfyg.jpg",
+    "poster_local": "imagenes_estrenos/El_amigo_inesperado_bQDjUA3Yol0Rwux2BCAyt4YYfyg.jpg",
+    "backdrop_path": "/rNoIF5gIpY6pz03lIF5kJK87J9p.jpg",
+    "backdrop_local": "imagenes_estrenos/El_amigo_inesperado_backdrop_rNoIF5gIpY6pz03lIF5kJK87J9p.jpg",
+    "fecha_estreno": "2026-05-15T00:00:00.000Z",
+    "duración": "102 min",
+    "director": "Fabienne Godet",
+    "directores": [
+      {
+        "name": "Fabienne Godet",
+        "id": 559914
+      }
+    ],
+    "actores": [
+      {
+        "name": "Salif Cissé",
+        "id": 2541773,
+        "character": "Baptiste Mendy",
+        "profile_path": "/h0EzP4ZCdNK6ouMjQBSYDsSLPb7.jpg"
+      },
+      {
+        "name": "Denis Podalydès",
+        "id": 6020,
+        "character": "Pierre Chozène",
+        "profile_path": "/uKEvUFBjdkDuNQgDoEVwFw1TvSa.jpg"
+      },
+      {
+        "name": "Clara Bretheau",
+        "id": 3552511,
+        "character": "Elsa Chozène",
+        "profile_path": "/hIMz1TipjYkaMsIRDsZsF6aM9bA.jpg"
+      },
+      {
+        "name": "Aure Atika",
+        "id": 19116,
+        "character": "Clara",
+        "profile_path": "/1jK3B2T1FTHmM2DPmQt6EzZgAYL.jpg"
+      },
+      {
+        "name": "Manon Clavel",
+        "id": 2390967,
+        "character": "Fanny",
+        "profile_path": "/nmYvluoCuLh5BpPlx6b6zrButTe.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 0.9426,
+    "puntuación": 6.3,
+    "votos": 68,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.779,
+          "height": 1321,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/rNoIF5gIpY6pz03lIF5kJK87J9p.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2350
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/qnRiJcHhW9hlOrJNo7YdcVygDUo.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/cuV4N6BqJmyL3G0j8GuPAeNklxi.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.782,
+          "height": 864,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/eJNLytbmJqwaIINiJmZYGL8HYdR.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1540
+        },
+        {
+          "aspect_ratio": 1.782,
+          "height": 864,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/on0jPbGI5AmvoNxELLD3qyLsKIo.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1540
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-04-22 22:14:00"
   },
   {
     "id": 1019871,
@@ -4968,138 +5197,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-04-22 10:27:45"
-  },
-  {
-    "id": 1436219,
-    "tmdb_id": 1436219,
-    "título": "Pizza Movies",
-    "título_original": "Pizza Movies",
-    "sinopsis": "Una periodista cultural y crítica de cine en crisis convence a su marido de dejarlo todo y montar un negocio, pero no un uno cualquiera: una pizzería con temática de cine.",
-    "poster_path": "/rp6i8rkKDhqZ0455cgRHvcw6lup.jpg",
-    "poster_local": "imagenes_estrenos/Pizza_Movies_rp6i8rkKDhqZ0455cgRHvcw6lup.jpg",
-    "backdrop_path": "/eVLXHFU2lLhvcFu2ulfY58RdcQj.jpg",
-    "backdrop_local": "imagenes_estrenos/Pizza_Movies_backdrop_eVLXHFU2lLhvcFu2ulfY58RdcQj.jpg",
-    "fecha_estreno": "2026-05-15T00:00:00.000Z",
-    "duración": "95 min",
-    "director": "Carlo Padial",
-    "directores": [
-      {
-        "name": "Carlo Padial",
-        "id": 1157469
-      }
-    ],
-    "actores": [
-      {
-        "name": "Judit Martín",
-        "id": 4517463,
-        "character": "Thais",
-        "profile_path": "/txawjKqqfyJwu8EzuU0eXzzjZMy.jpg"
-      },
-      {
-        "name": "Berto Romero",
-        "id": 1283862,
-        "character": "Alan",
-        "profile_path": "/7HEPcRtF8G77K4zepmSdPuNy9CP.jpg"
-      },
-      {
-        "name": "Raúl Arévalo",
-        "id": 34021,
-        "character": "Edu",
-        "profile_path": "/npWhiRnqlbqku6mNnk5RTgGvnj2.jpg"
-      },
-      {
-        "name": "Joaquín Reyes",
-        "id": 114462,
-        "character": "Joaquín Reyes",
-        "profile_path": "/nmYj32Pgnt60N99nI503K63QMK5.jpg"
-      },
-      {
-        "name": "Bruna Cusí",
-        "id": 1743949,
-        "character": "Psicologa",
-        "profile_path": "/gxPL7q1Ooi2LljSrZsnm6YnsEIT.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 1.0049,
-    "puntuación": 7.0,
-    "votos": 1,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/eVLXHFU2lLhvcFu2ulfY58RdcQj.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.782,
-          "height": 864,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/74eYD9AS16yw3sw5MLnhYxJbwiK.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
-        },
-        {
-          "aspect_ratio": 1.782,
-          "height": 864,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/5qz8aZiPaIIxKFibxPTxF0Wr78t.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/21p3rD1w2rFLtgE91AbrdqjApW7.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.749,
-          "height": 1600,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/5C6AxSfGKLIQ8RA4KMwFnJ0FEOX.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1199
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1600,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/rp6i8rkKDhqZ0455cgRHvcw6lup.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1067
-        }
-      ]
-    },
-    "última_actualización": "2026-04-22 10:27:46"
+    "última_actualización": "2026-04-22 22:14:00"
   },
   {
     "id": 1396368,
@@ -5131,13 +5229,25 @@
         "name": "Ian Cortegoso",
         "id": 5094769,
         "character": "Guille",
-        "profile_path": null
+        "profile_path": "/aJhbQcE27J9XWqpChwsMPVUNX9n.jpg"
       },
       {
         "name": "Hugo Silva",
         "id": 112901,
-        "character": "",
+        "character": "Manuel",
         "profile_path": "/aMhffSrBefGQstniOtsJf3kEfNH.jpg"
+      },
+      {
+        "name": "Jesús Carroza",
+        "id": 6534,
+        "character": "Roberto",
+        "profile_path": "/ttjmSGcoLDYwxojQkAYiMAZmXTU.jpg"
+      },
+      {
+        "name": "Javier Aguayo",
+        "id": 2763352,
+        "character": "Paco",
+        "profile_path": "/8jLAzstevb1PMsi8DcTfYxDAE4k.jpg"
       }
     ],
     "géneros": [
@@ -5228,7 +5338,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-22 10:27:47"
+    "última_actualización": "2026-04-22 22:14:01"
   },
   {
     "id": 1674832,
@@ -5236,7 +5346,7 @@
     "título": "Gravemente insano",
     "título_original": "Gravemente insano",
     "sinopsis": "Entre diarios íntimos, monólogos perturbadores y conversaciones inconclusas, una joven intenta entender si amar es una forma de salvación o simplemente otra manera de perderse.",
-    "poster_path": "/oHmiULzd9Dv7ijspThTem4jvAPc.jpg",
+    "poster_path": "/p9yGkT0maoejNn9RVzk1HSP5JD9.jpg",
     "poster_local": "imagenes_estrenos/Gravemente_insano_oHmiULzd9Dv7ijspThTem4jvAPc.jpg",
     "backdrop_path": "/s9bUNRJTfys5IM6dxVgODxoh2iw.jpg",
     "backdrop_local": "imagenes_estrenos/Gravemente_insano_backdrop_s9bUNRJTfys5IM6dxVgODxoh2iw.jpg",
@@ -5322,9 +5432,49 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 2535
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1388,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/1aemIUICYLnIY72611MNmHRNvb3.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2468
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1407,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/yJi8nPHEfFCQ29zTdexLLMvuEKS.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2501
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1381,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/rCBQkWgbHk3p5QRUMUD3YUcKLZp.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2455
         }
       ],
       "posters": [
+        {
+          "aspect_ratio": 0.707,
+          "height": 2245,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/p9yGkT0maoejNn9RVzk1HSP5JD9.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1587
+        },
         {
           "aspect_ratio": 0.667,
           "height": 1870,
@@ -5332,11 +5482,11 @@
           "iso_639_1": null,
           "file_path": "/oHmiULzd9Dv7ijspThTem4jvAPc.jpg",
           "vote_average": 0.0,
-          "vote_count": 0,
+          "vote_count": 1,
           "width": 1247
         }
       ]
     },
-    "última_actualización": "2026-04-22 10:27:48"
+    "última_actualización": "2026-04-22 22:14:01"
   }
 ]
