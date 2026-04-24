@@ -1310,7 +1310,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:46"
+    "última_actualización": "2026-04-24 22:13:38"
   },
   {
     "id": 1314481,
@@ -1485,7 +1485,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:46"
+    "última_actualización": "2026-04-24 22:13:38"
   },
   {
     "id": 878608,
@@ -1549,8 +1549,8 @@
       }
     ],
     "popularidad": 6.9132,
-    "puntuación": 6.741,
-    "votos": 56,
+    "puntuación": 6.8,
+    "votos": 57,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -1562,7 +1562,17 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/sbmHT55N2aIwctQEY1pWOwRrxK0.jpg",
-          "vote_average": 8.362,
+          "vote_average": 7.19,
+          "vote_count": 7,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vOrqZy2luVNJFq4jj2R8tHckYsZ.jpg",
+          "vote_average": 6.722,
           "vote_count": 6,
           "width": 3840
         },
@@ -1594,16 +1604,6 @@
           "file_path": "/2JcKTEP0L6EXk88ITGVGU4uo7hm.jpg",
           "vote_average": 5.616,
           "vote_count": 13,
-          "width": 3200
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1800,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/gry8VX2ssomFFv0ogcmlv3ZGUWd.jpg",
-          "vote_average": 5.566,
-          "vote_count": 15,
           "width": 3200
         }
       ],
@@ -1640,7 +1640,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:47"
+    "última_actualización": "2026-04-24 22:13:39"
   },
   {
     "id": 1370814,
@@ -1799,105 +1799,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:48"
-  },
-  {
-    "id": 1583875,
-    "tmdb_id": 1583875,
-    "título": "Los mejores años de nuestra vida",
-    "título_original": "Los mejores años de nuestra vida",
-    "sinopsis": "Un retrato íntimo y emocional del grupo de rock Hombres G, uno de los más míticos de la historia de la música española, por su 40 aniversario.",
-    "poster_path": "/dSyseZXNnObOCSRmC4BQo1w1RMU.jpg",
-    "poster_local": "imagenes_estrenos/Los_mejores_a_os_de_nuestra_vida_dSyseZXNnObOCSRmC4BQo1w1RMU.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-04-30T00:00:00.000Z",
-    "duración": "108 min",
-    "director": "Charlie Arnaiz, Alberto Ortega",
-    "directores": [
-      {
-        "name": "Charlie Arnaiz",
-        "id": 2114770
-      },
-      {
-        "name": "Alberto Ortega",
-        "id": 2407283
-      }
-    ],
-    "actores": [
-      {
-        "name": "David Summers Rodriguez",
-        "id": 195479,
-        "character": "Self",
-        "profile_path": "/vQJMrCdra0XU7wWq6IixSukL7zd.jpg"
-      },
-      {
-        "name": "Rafael Gutiérrez",
-        "id": 1506934,
-        "character": "Self",
-        "profile_path": "/8bYPdl16qNSYWtlPmO4gSuSmpcE.jpg"
-      },
-      {
-        "name": "Daniel Mezquita",
-        "id": 1506933,
-        "character": "Self",
-        "profile_path": "/tnoLDfinz2kmpFskvK7vNY6PyxE.jpg"
-      },
-      {
-        "name": "Javier Molina",
-        "id": 1506935,
-        "character": "Self",
-        "profile_path": "/40cs8RRYgg9z1CcQApsVLKqoPSE.jpg"
-      },
-      {
-        "name": "Alejandro Sanz",
-        "id": 223686,
-        "character": "Self",
-        "profile_path": "/tXCZhcvC5WYOnrpUvRGbjqQBuHI.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      },
-      {
-        "id": 10402,
-        "name": "Música"
-      }
-    ],
-    "popularidad": 0.1654,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.7,
-          "height": 2857,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/dSyseZXNnObOCSRmC4BQo1w1RMU.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/blXsg1xTrQP3ZY2rbTtL6HFxiab.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-04-24 10:31:50"
+    "última_actualización": "2026-04-24 22:13:40"
   },
   {
     "id": 855095,
@@ -2016,7 +1918,105 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:51"
+    "última_actualización": "2026-04-24 22:13:43"
+  },
+  {
+    "id": 1583875,
+    "tmdb_id": 1583875,
+    "título": "Los mejores años de nuestra vida",
+    "título_original": "Los mejores años de nuestra vida",
+    "sinopsis": "Un retrato íntimo y emocional del grupo de rock Hombres G, uno de los más míticos de la historia de la música española, por su 40 aniversario.",
+    "poster_path": "/dSyseZXNnObOCSRmC4BQo1w1RMU.jpg",
+    "poster_local": "imagenes_estrenos/Los_mejores_a_os_de_nuestra_vida_dSyseZXNnObOCSRmC4BQo1w1RMU.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-04-30T00:00:00.000Z",
+    "duración": "108 min",
+    "director": "Charlie Arnaiz, Alberto Ortega",
+    "directores": [
+      {
+        "name": "Charlie Arnaiz",
+        "id": 2114770
+      },
+      {
+        "name": "Alberto Ortega",
+        "id": 2407283
+      }
+    ],
+    "actores": [
+      {
+        "name": "David Summers Rodriguez",
+        "id": 195479,
+        "character": "Self",
+        "profile_path": "/vQJMrCdra0XU7wWq6IixSukL7zd.jpg"
+      },
+      {
+        "name": "Rafael Gutiérrez",
+        "id": 1506934,
+        "character": "Self",
+        "profile_path": "/8bYPdl16qNSYWtlPmO4gSuSmpcE.jpg"
+      },
+      {
+        "name": "Daniel Mezquita",
+        "id": 1506933,
+        "character": "Self",
+        "profile_path": "/tnoLDfinz2kmpFskvK7vNY6PyxE.jpg"
+      },
+      {
+        "name": "Javier Molina",
+        "id": 1506935,
+        "character": "Self",
+        "profile_path": "/40cs8RRYgg9z1CcQApsVLKqoPSE.jpg"
+      },
+      {
+        "name": "Alejandro Sanz",
+        "id": 223686,
+        "character": "Self",
+        "profile_path": "/tXCZhcvC5WYOnrpUvRGbjqQBuHI.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "popularidad": 0.1654,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 2857,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/dSyseZXNnObOCSRmC4BQo1w1RMU.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/blXsg1xTrQP3ZY2rbTtL6HFxiab.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-04-24 22:13:43"
   },
   {
     "id": 1658640,
@@ -2091,7 +2091,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:52"
+    "última_actualización": "2026-04-24 22:13:44"
   },
   {
     "id": 1574549,
@@ -2161,7 +2161,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:52"
+    "última_actualización": "2026-04-24 22:13:44"
   },
   {
     "id": 1547764,
@@ -2230,7 +2230,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-04-24 10:31:50"
+    "última_actualización": "2026-04-24 22:13:42"
   },
   {
     "id": 1609830,
@@ -2312,7 +2312,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:51"
+    "última_actualización": "2026-04-24 22:13:44"
   },
   {
     "id": 1479894,
@@ -2382,7 +2382,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:52"
+    "última_actualización": "2026-04-24 22:13:45"
   },
   {
     "id": 931285,
@@ -2561,7 +2561,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:46"
+    "última_actualización": "2026-04-24 22:13:39"
   },
   {
     "id": 1301421,
@@ -2734,7 +2734,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:47"
+    "última_actualización": "2026-04-24 22:13:39"
   },
   {
     "id": 1180894,
@@ -2814,7 +2814,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:49"
+    "última_actualización": "2026-04-24 22:13:42"
   },
   {
     "id": 1446301,
@@ -2925,7 +2925,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:50"
+    "última_actualización": "2026-04-24 22:13:42"
   },
   {
     "id": 1371706,
@@ -3015,7 +3015,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-04-24 10:31:50"
+    "última_actualización": "2026-04-24 22:13:42"
   },
   {
     "id": 467905,
@@ -3080,7 +3080,7 @@
     ],
     "popularidad": 25.7016,
     "puntuación": 7.0,
-    "votos": 295,
+    "votos": 297,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3190,7 +3190,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:46"
+    "última_actualización": "2026-04-24 22:13:38"
   },
   {
     "id": 1430077,
@@ -3355,7 +3355,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:47"
+    "última_actualización": "2026-04-24 22:13:39"
   },
   {
     "id": 1114967,
@@ -3530,17 +3530,17 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:47"
+    "última_actualización": "2026-04-24 22:13:40"
   },
   {
     "id": 1168719,
     "tmdb_id": 1168719,
-    "título": "Stiller Freund",
+    "título": "El amigo silencioso",
     "título_original": "Stiller Freund",
     "sinopsis": "",
-    "poster_path": "/3QXmEnOKDjeRcxlgn3uka4SR5Im.jpg",
+    "poster_path": "/1YCKtx2Cdu19LhEiBf9TRPZstvO.jpg",
     "poster_local": "imagenes_estrenos/Silent_Friend_1YCKtx2Cdu19LhEiBf9TRPZstvO.jpg",
-    "backdrop_path": "/e40FMjHg2RoypsjxygoTFB5jLUd.jpg",
+    "backdrop_path": "/sd49Wx5Tevlp1y6Huygv99ueXDt.jpg",
     "backdrop_local": "imagenes_estrenos/Silent_Friend_backdrop_e40FMjHg2RoypsjxygoTFB5jLUd.jpg",
     "fecha_estreno": "2026-05-15T00:00:00.000Z",
     "duración": "147 min",
@@ -3594,8 +3594,8 @@
       }
     ],
     "popularidad": 4.5497,
-    "puntuación": 8.0,
-    "votos": 13,
+    "puntuación": 8.1,
+    "votos": 14,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3654,7 +3654,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-04-24 10:31:48"
+    "última_actualización": "2026-04-24 22:13:40"
   },
   {
     "id": 1214684,
@@ -3726,8 +3726,8 @@
       }
     ],
     "popularidad": 2.3403,
-    "puntuación": 5.914,
-    "votos": 58,
+    "puntuación": 6.0,
+    "votos": 60,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3817,7 +3817,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:48"
+    "última_actualización": "2026-04-24 22:13:40"
   },
   {
     "id": 677561,
@@ -3958,7 +3958,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:48"
+    "última_actualización": "2026-04-24 22:13:41"
   },
   {
     "id": 1019871,
@@ -4082,7 +4082,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-04-24 10:31:49"
+    "última_actualización": "2026-04-24 22:13:41"
   },
   {
     "id": 1436219,
@@ -4213,7 +4213,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:49"
+    "última_actualización": "2026-04-24 22:13:41"
   },
   {
     "id": 1158616,
@@ -4333,7 +4333,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-04-24 10:31:49"
+    "última_actualización": "2026-04-24 22:13:41"
   },
   {
     "id": 1396368,
@@ -4474,7 +4474,7 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:51"
+    "última_actualización": "2026-04-24 22:13:43"
   },
   {
     "id": 1674832,
@@ -4623,6 +4623,6 @@
         }
       ]
     },
-    "última_actualización": "2026-04-24 10:31:51"
+    "última_actualización": "2026-04-24 22:13:43"
   }
 ]
