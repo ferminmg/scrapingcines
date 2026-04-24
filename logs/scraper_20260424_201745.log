@@ -1,0 +1,5 @@
+2026-04-24 20:17:45,360 - INFO - Iniciando proceso de scraping
+2026-04-24 20:17:45,362 - INFO - Posts existentes encontrados: 2538
+2026-04-24 20:17:45,362 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-04-24 20:19:59,676 - ERROR - Error al obtener posts: HTTPSConnectionPool(host='ghostintheblog.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='ghostintheblog.com', port=443) at 0x7f2de85fba90>, 'Connection to ghostintheblog.com timed out. (connect timeout=None)'))
+2026-04-24 20:19:59,676 - INFO - Proceso completado. Posts nuevos guardados: 0
