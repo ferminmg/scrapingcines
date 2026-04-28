@@ -1,0 +1,55 @@
+2026-04-28 00:39:12,928 - INFO - Iniciando proceso de scraping
+2026-04-28 00:39:12,930 - INFO - Posts existentes encontrados: 2538
+2026-04-28 00:39:12,930 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-04-28 00:39:15,161 - INFO - Se encontraron 10 posts
+2026-04-28 00:39:15,162 - INFO - Comenzando extracción de información del post
+2026-04-28 00:39:15,162 - INFO - Título del post: MI QUERIDA SEÑORITA de Fernando González Molina
+2026-04-28 00:39:15,162 - INFO - Fecha del post: 2026-04-28T01:15:05+02:00
+2026-04-28 00:39:15,162 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/04/critica-de-mi-querida-senorita-de-fernando-gonzalez-molina.html
+2026-04-28 00:39:17,111 - INFO - Contenido extraído y estructurado (4569 caracteres)
+2026-04-28 00:39:17,112 - INFO - Guardando post en: posts/MI_QUERIDA_SEÑORITA_2026-04-28.json
+2026-04-28 00:39:17,112 - INFO - Post guardado exitosamente
+2026-04-28 00:39:17,113 - INFO - Actualizando índice de películas
+2026-04-28 00:39:17,113 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-04-28 00:39:17,117 - INFO - Índice existente cargado con 2637 películas
+2026-04-28 00:39:17,128 - INFO - Película agregada al índice: MI QUERIDA SEÑORITA
+2026-04-28 00:39:17,129 - INFO - Nuevo post guardado: MI QUERIDA SEÑORITA de Fernando González Molina
+2026-04-28 00:39:17,129 - INFO - Comenzando extracción de información del post
+2026-04-28 00:39:17,129 - INFO - Título del post: EL SONIDO DE LA CAIDA de Mascha Schilinski
+2026-04-28 00:39:17,129 - INFO - Fecha del post: 2026-04-28T01:11:10+02:00
+2026-04-28 00:39:17,129 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/04/critica-de-el-sonido-de-la-caida-de-mascha-schilinski.html
+2026-04-28 00:39:18,909 - INFO - Contenido extraído y estructurado (2750 caracteres)
+2026-04-28 00:39:18,910 - INFO - Guardando post en: posts/EL_SONIDO_DE_LA_CAIDA_2026-04-28.json
+2026-04-28 00:39:18,910 - INFO - Post guardado exitosamente
+2026-04-28 00:39:18,910 - INFO - Actualizando índice de películas
+2026-04-28 00:39:18,910 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-04-28 00:39:18,914 - INFO - Índice existente cargado con 2638 películas
+2026-04-28 00:39:18,926 - INFO - Película agregada al índice: EL SONIDO DE LA CAIDA
+2026-04-28 00:39:18,927 - INFO - Nuevo post guardado: EL SONIDO DE LA CAIDA de Mascha Schilinski
+2026-04-28 00:39:18,927 - INFO - Comenzando extracción de información del post
+2026-04-28 00:39:18,927 - INFO - Título del post: PRIME CRIME: A TRUE STORY de Gus Van Sant
+2026-04-28 00:39:18,927 - INFO - Fecha del post: 2026-04-28T01:05:26+02:00
+2026-04-28 00:39:18,927 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/04/critica-de-prime-crime-a-true-story-de-gus-van-sant-sitename.html
+2026-04-28 00:39:20,752 - INFO - Contenido extraído y estructurado (2488 caracteres)
+2026-04-28 00:39:20,753 - INFO - Guardando post en: posts/PRIME_CRIME:_A_TRUE_STORY_2026-04-28.json
+2026-04-28 00:39:20,754 - INFO - Post guardado exitosamente
+2026-04-28 00:39:20,754 - INFO - Actualizando índice de películas
+2026-04-28 00:39:20,754 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-04-28 00:39:20,767 - INFO - Índice existente cargado con 2639 películas
+2026-04-28 00:39:20,778 - INFO - Película agregada al índice: PRIME CRIME: A TRUE STORY
+2026-04-28 00:39:20,779 - INFO - Nuevo post guardado: PRIME CRIME: A TRUE STORY de Gus Van Sant
+2026-04-28 00:39:20,779 - INFO - Comenzando extracción de información del post
+2026-04-28 00:39:20,779 - INFO - Post ya existente, saltando: UN POETA de Simón Mesa
+2026-04-28 00:39:20,779 - INFO - Comenzando extracción de información del post
+2026-04-28 00:39:20,779 - INFO - Post ya existente, saltando: LA BUENA HIJA de Júlia de Paz Solvas
+2026-04-28 00:39:20,779 - INFO - Comenzando extracción de información del post
+2026-04-28 00:39:20,779 - INFO - Post ya existente, saltando: ATRAPANDO A UN MONSTRUO de Bryan Fuller
+2026-04-28 00:39:20,779 - INFO - Comenzando extracción de información del post
+2026-04-28 00:39:20,780 - INFO - Post ya existente, saltando: LA GRAZIA de Paolo Sorrentino
+2026-04-28 00:39:20,780 - INFO - Comenzando extracción de información del post
+2026-04-28 00:39:20,780 - INFO - Post ya existente, saltando: ALTAS CAPACIDADES de Víctor García León
+2026-04-28 00:39:20,780 - INFO - Comenzando extracción de información del post
+2026-04-28 00:39:20,780 - INFO - Post ya existente, saltando: LAPÖNIA de David Serrano
+2026-04-28 00:39:20,780 - INFO - Comenzando extracción de información del post
+2026-04-28 00:39:20,780 - INFO - Post ya existente, saltando: PROYECTO SALVACIÓN de Phil Lord y Christopher Miller
+2026-04-28 00:39:20,780 - INFO - Proceso completado. Posts nuevos guardados: 3
