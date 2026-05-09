@@ -1,0 +1,45 @@
+2026-05-09 10:20:33,328 - INFO - Iniciando proceso de scraping
+2026-05-09 10:20:33,330 - INFO - Posts existentes encontrados: 2545
+2026-05-09 10:20:33,330 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-05-09 10:20:34,788 - INFO - Se encontraron 10 posts
+2026-05-09 10:20:34,789 - INFO - Comenzando extracción de información del post
+2026-05-09 10:20:34,790 - INFO - Título del post: RESURRECTION de Bi Gan
+2026-05-09 10:20:34,790 - INFO - Fecha del post: 2026-05-09T10:45:27+02:00
+2026-05-09 10:20:34,790 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/05/critica-de-resurrection-de-bi-gan.html
+2026-05-09 10:20:36,211 - INFO - Contenido extraído y estructurado (4564 caracteres)
+2026-05-09 10:20:36,212 - INFO - Guardando post en: posts/RESURRECTION_2026-05-09.json
+2026-05-09 10:20:36,212 - INFO - Post guardado exitosamente
+2026-05-09 10:20:36,212 - INFO - Actualizando índice de películas
+2026-05-09 10:20:36,212 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-05-09 10:20:36,217 - INFO - Índice existente cargado con 2644 películas
+2026-05-09 10:20:36,228 - INFO - Película agregada al índice: RESURRECTION
+2026-05-09 10:20:36,229 - INFO - Nuevo post guardado: RESURRECTION de Bi Gan
+2026-05-09 10:20:36,229 - INFO - Comenzando extracción de información del post
+2026-05-09 10:20:36,229 - INFO - Título del post: ALTA COSTURA de Alice Winocour
+2026-05-09 10:20:36,229 - INFO - Fecha del post: 2026-05-09T10:38:44+02:00
+2026-05-09 10:20:36,229 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/2026/05/critica-de-alta-costura-de-alice-winocour.html
+2026-05-09 10:20:37,702 - INFO - Contenido extraído y estructurado (2761 caracteres)
+2026-05-09 10:20:37,703 - INFO - Guardando post en: posts/ALTA_COSTURA_2026-05-09.json
+2026-05-09 10:20:37,703 - INFO - Post guardado exitosamente
+2026-05-09 10:20:37,703 - INFO - Actualizando índice de películas
+2026-05-09 10:20:37,703 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-05-09 10:20:37,707 - INFO - Índice existente cargado con 2645 películas
+2026-05-09 10:20:37,707 - INFO - La película ya existe en el índice: ALTA COSTURA
+2026-05-09 10:20:37,708 - INFO - Nuevo post guardado: ALTA COSTURA de Alice Winocour
+2026-05-09 10:20:37,708 - INFO - Comenzando extracción de información del post
+2026-05-09 10:20:37,708 - INFO - Post ya existente, saltando: LA ISLA DE AMRUM de Fatih Akin
+2026-05-09 10:20:37,708 - INFO - Comenzando extracción de información del post
+2026-05-09 10:20:37,708 - INFO - Post ya existente, saltando: TODO LO QUE FUIMOS de Cherien Dabis
+2026-05-09 10:20:37,708 - INFO - Comenzando extracción de información del post
+2026-05-09 10:20:37,708 - INFO - Post ya existente, saltando: MICHAEL de Antoine Fuqua
+2026-05-09 10:20:37,708 - INFO - Comenzando extracción de información del post
+2026-05-09 10:20:37,708 - INFO - Post ya existente, saltando: ENZO de Robin Campillo
+2026-05-09 10:20:37,708 - INFO - Comenzando extracción de información del post
+2026-05-09 10:20:37,708 - INFO - Post ya existente, saltando: MI QUERIDA SEÑORITA de Fernando González Molina
+2026-05-09 10:20:37,709 - INFO - Comenzando extracción de información del post
+2026-05-09 10:20:37,709 - INFO - Post ya existente, saltando: EL SONIDO DE LA CAIDA de Mascha Schilinski
+2026-05-09 10:20:37,709 - INFO - Comenzando extracción de información del post
+2026-05-09 10:20:37,709 - INFO - Post ya existente, saltando: PRIME CRIME: A TRUE STORY de Gus Van Sant
+2026-05-09 10:20:37,709 - INFO - Comenzando extracción de información del post
+2026-05-09 10:20:37,709 - INFO - Post ya existente, saltando: UN POETA de Simón Mesa
+2026-05-09 10:20:37,709 - INFO - Proceso completado. Posts nuevos guardados: 2
