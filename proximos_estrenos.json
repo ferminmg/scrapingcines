@@ -82,7 +82,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-05-13 10:49:47"
+    "última_actualización": "2026-05-13 22:25:56"
   },
   {
     "id": 1371706,
@@ -2854,7 +2854,7 @@
     "título": "Beli con M",
     "título_original": "Beli con M",
     "sinopsis": "Beli es una chica que se muda a Elche con el objetivo de conseguir un puesto en el trabajo de sus sueños. Sin embargo, parece que todo y todos se han propuesto entorpecer su primer día en la nueva ciudad.",
-    "poster_path": "/cj5PGUhvZ6F6VRHiVebJCeRUHAZ.jpg",
+    "poster_path": "/cX0kXP2zLraa6wYNiwnlX1eSI6e.jpg",
     "poster_local": "imagenes_estrenos/Beli_con_M_cj5PGUhvZ6F6VRHiVebJCeRUHAZ.jpg",
     "backdrop_path": null,
     "backdrop_local": "",
@@ -2954,7 +2954,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-13 10:49:49"
+    "última_actualización": "2026-05-13 22:25:55"
   },
   {
     "id": 1292415,
@@ -3018,8 +3018,8 @@
       }
     ],
     "popularidad": 135.1991,
-    "puntuación": 6.583,
-    "votos": 18,
+    "puntuación": 6.763,
+    "votos": 19,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3048,7 +3048,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-05-13 10:49:40"
+    "última_actualización": "2026-05-13 22:25:50"
   },
   {
     "id": 1228710,
@@ -3227,7 +3227,125 @@
         }
       ]
     },
-    "última_actualización": "2026-05-13 10:49:41"
+    "última_actualización": "2026-05-13 22:25:50"
+  },
+  {
+    "id": 1471224,
+    "tmdb_id": 1471224,
+    "título": "Asesinato en la 3ª planta",
+    "título_original": "Le Crime du 3e étage",
+    "sinopsis": "",
+    "poster_path": "/5FHAlQPHFyJEIN1UOxsADog1KUy.jpg",
+    "poster_local": "imagenes_estrenos/Asesinato_en_la_3__planta_5FHAlQPHFyJEIN1UOxsADog1KUy.jpg",
+    "backdrop_path": "/tPgWgSS9LndIJaL8b0vYjWigLqE.jpg",
+    "backdrop_local": "imagenes_estrenos/Asesinato_en_la_3__planta_backdrop_tPgWgSS9LndIJaL8b0vYjWigLqE.jpg",
+    "fecha_estreno": "2026-05-22T00:00:00.000Z",
+    "duración": "106 min",
+    "director": "Rémi Bezançon",
+    "directores": [
+      {
+        "name": "Rémi Bezançon",
+        "id": 71506
+      }
+    ],
+    "actores": [
+      {
+        "name": "Gilles Lellouche",
+        "id": 54291,
+        "character": "François",
+        "profile_path": "/5Ka9nodCWS6TRFJnmosjp9sV3iA.jpg"
+      },
+      {
+        "name": "Laetitia Casta",
+        "id": 119499,
+        "character": "Colette",
+        "profile_path": "/xx4xCIacTNi8p0HkAyIZgbsDsy0.jpg"
+      },
+      {
+        "name": "Guillaume Gallienne",
+        "id": 6554,
+        "character": "Yann Kerbec",
+        "profile_path": "/nponKvpwED1CivIY3f2NlQGLWE9.jpg"
+      },
+      {
+        "name": "Isabel Aimé González Sola",
+        "id": 2355348,
+        "character": "Emma",
+        "profile_path": "/A8uyxyOyyc97gxCTrtYUpICtGTp.jpg"
+      },
+      {
+        "name": "Jenna Knafo",
+        "id": 3715469,
+        "character": "Nathalie Kerbec",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "popularidad": 1.5809,
+    "puntuación": 6.7,
+    "votos": 33,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tPgWgSS9LndIJaL8b0vYjWigLqE.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 729,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6kkvZ7ycxGO7HcVKcdFE4Q2a55i.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1296
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 729,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/kovdY3zBDJ8gY5PQiWleCEjxXo7.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1296
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1152,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/piH798aDFuhu6PS7ROALDO3rSDK.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2048
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-05-13 22:25:51"
   },
   {
     "id": 1290450,
@@ -3358,200 +3476,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-13 10:49:43"
-  },
-  {
-    "id": 1471224,
-    "tmdb_id": 1471224,
-    "título": "Asesinato en la 3ª planta",
-    "título_original": "Le Crime du 3e étage",
-    "sinopsis": "",
-    "poster_path": "/5FHAlQPHFyJEIN1UOxsADog1KUy.jpg",
-    "poster_local": "imagenes_estrenos/Asesinato_en_la_3__planta_5FHAlQPHFyJEIN1UOxsADog1KUy.jpg",
-    "backdrop_path": "/tPgWgSS9LndIJaL8b0vYjWigLqE.jpg",
-    "backdrop_local": "imagenes_estrenos/Asesinato_en_la_3__planta_backdrop_tPgWgSS9LndIJaL8b0vYjWigLqE.jpg",
-    "fecha_estreno": "2026-05-22T00:00:00.000Z",
-    "duración": "106 min",
-    "director": "Rémi Bezançon",
-    "directores": [
-      {
-        "name": "Rémi Bezançon",
-        "id": 71506
-      }
-    ],
-    "actores": [
-      {
-        "name": "Gilles Lellouche",
-        "id": 54291,
-        "character": "François",
-        "profile_path": "/5Ka9nodCWS6TRFJnmosjp9sV3iA.jpg"
-      },
-      {
-        "name": "Laetitia Casta",
-        "id": 119499,
-        "character": "Colette",
-        "profile_path": "/xx4xCIacTNi8p0HkAyIZgbsDsy0.jpg"
-      },
-      {
-        "name": "Guillaume Gallienne",
-        "id": 6554,
-        "character": "Yann Kerbec",
-        "profile_path": "/nponKvpwED1CivIY3f2NlQGLWE9.jpg"
-      },
-      {
-        "name": "Isabel Aimé González Sola",
-        "id": 2355348,
-        "character": "Emma",
-        "profile_path": "/A8uyxyOyyc97gxCTrtYUpICtGTp.jpg"
-      },
-      {
-        "name": "Jenna Knafo",
-        "id": 3715469,
-        "character": "Nathalie Kerbec",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 80,
-        "name": "Crimen"
-      }
-    ],
-    "popularidad": 1.5809,
-    "puntuación": 6.7,
-    "votos": 33,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/tPgWgSS9LndIJaL8b0vYjWigLqE.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 729,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6kkvZ7ycxGO7HcVKcdFE4Q2a55i.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1296
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 729,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/kovdY3zBDJ8gY5PQiWleCEjxXo7.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1296
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1152,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/piH798aDFuhu6PS7ROALDO3rSDK.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2048
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2026-05-13 10:49:44"
-  },
-  {
-    "id": 1650814,
-    "tmdb_id": 1650814,
-    "título": "Dos días",
-    "título_original": "Dos días",
-    "sinopsis": "Jose Antonio, 89 años, está perdiendo la memoria. Aunque su familia se lo prohíbe convence a su amigo Mindo para salir a pescar en la barca. Juntos quedan a la deriva en el mar, lo que les obliga a lidiar con la vejez y el paso del tiempo.",
-    "poster_path": "/A61TrD9ai6Wnqn2vCRPZamE2LPh.jpg",
-    "poster_local": "imagenes_estrenos/Dos_d_as_A61TrD9ai6Wnqn2vCRPZamE2LPh.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-05-22T00:00:00.000Z",
-    "duración": "88 min",
-    "director": "Gonzaga Manso",
-    "directores": [
-      {
-        "name": "Gonzaga Manso",
-        "id": 1717076
-      }
-    ],
-    "actores": [
-      {
-        "name": "Saturnino García",
-        "id": 93831,
-        "character": "",
-        "profile_path": "/yubpcNgsdb5rKZPhKmiNRJfA0qX.jpg"
-      },
-      {
-        "name": "Jesús Outes",
-        "id": 6069861,
-        "character": "Mindo",
-        "profile_path": null
-      },
-      {
-        "name": "Aurora Maestre",
-        "id": 2828410,
-        "character": "Abuela",
-        "profile_path": null
-      },
-      {
-        "name": "Melania Cruz",
-        "id": 1893573,
-        "character": "Mercedes",
-        "profile_path": "/hjOmWwpUt4GNCW45xAV6MmxV4lo.jpg"
-      },
-      {
-        "name": "Ledicia Sola",
-        "id": 1317801,
-        "character": "María",
-        "profile_path": "/3MNLtQf3HN1zgiRLv6zgTOcArPF.jpg"
-      }
-    ],
-    "géneros": [],
-    "popularidad": 0.4458,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.75,
-          "height": 1440,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/A61TrD9ai6Wnqn2vCRPZamE2LPh.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1080
-        }
-      ]
-    },
-    "última_actualización": "2026-05-13 10:49:44"
+    "última_actualización": "2026-05-13 22:25:52"
   },
   {
     "id": 1372139,
@@ -3628,7 +3553,82 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-05-13 10:49:46"
+    "última_actualización": "2026-05-13 22:25:53"
+  },
+  {
+    "id": 1650814,
+    "tmdb_id": 1650814,
+    "título": "Dos días",
+    "título_original": "Dos días",
+    "sinopsis": "Jose Antonio, 89 años, está perdiendo la memoria. Aunque su familia se lo prohíbe convence a su amigo Mindo para salir a pescar en la barca. Juntos quedan a la deriva en el mar, lo que les obliga a lidiar con la vejez y el paso del tiempo.",
+    "poster_path": "/A61TrD9ai6Wnqn2vCRPZamE2LPh.jpg",
+    "poster_local": "imagenes_estrenos/Dos_d_as_A61TrD9ai6Wnqn2vCRPZamE2LPh.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-05-22T00:00:00.000Z",
+    "duración": "88 min",
+    "director": "Gonzaga Manso",
+    "directores": [
+      {
+        "name": "Gonzaga Manso",
+        "id": 1717076
+      }
+    ],
+    "actores": [
+      {
+        "name": "Saturnino García",
+        "id": 93831,
+        "character": "",
+        "profile_path": "/yubpcNgsdb5rKZPhKmiNRJfA0qX.jpg"
+      },
+      {
+        "name": "Jesús Outes",
+        "id": 6069861,
+        "character": "Mindo",
+        "profile_path": null
+      },
+      {
+        "name": "Aurora Maestre",
+        "id": 2828410,
+        "character": "Abuela",
+        "profile_path": null
+      },
+      {
+        "name": "Melania Cruz",
+        "id": 1893573,
+        "character": "Mercedes",
+        "profile_path": "/hjOmWwpUt4GNCW45xAV6MmxV4lo.jpg"
+      },
+      {
+        "name": "Ledicia Sola",
+        "id": 1317801,
+        "character": "María",
+        "profile_path": "/3MNLtQf3HN1zgiRLv6zgTOcArPF.jpg"
+      }
+    ],
+    "géneros": [],
+    "popularidad": 0.4458,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.75,
+          "height": 1440,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/A61TrD9ai6Wnqn2vCRPZamE2LPh.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1080
+        }
+      ]
+    },
+    "última_actualización": "2026-05-13 22:25:54"
   },
   {
     "id": 1376838,
@@ -3807,7 +3807,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-13 10:49:46"
+    "última_actualización": "2026-05-13 22:25:54"
   },
   {
     "id": 1416893,
@@ -3969,6 +3969,39 @@
     "última_actualización": "2026-05-11 11:02:01"
   },
   {
+    "id": 1685309,
+    "tmdb_id": 1685309,
+    "título": "2026 TXT Moa Con in Japan: Live Viewing",
+    "título_original": "2026 TXT Moa Con in Japan: Live Viewing",
+    "sinopsis": "",
+    "poster_path": "/fOCgk2WYU09UOtY2KuzTe84P4ey.jpg",
+    "poster_local": "imagenes_estrenos/2026_TXT_Moa_Con_in_Japan__Live_Viewing_fOCgk2WYU09UOtY2KuzTe84P4ey.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-05-24T00:00:00.000Z",
+    "duración": "225 min",
+    "director": "",
+    "directores": [],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "popularidad": 0.3062,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-05-13 22:25:55"
+  },
+  {
     "id": 1325734,
     "tmdb_id": 1325734,
     "título": "El drama",
@@ -4034,8 +4067,8 @@
       }
     ],
     "popularidad": 79.0893,
-    "puntuación": 6.967,
-    "votos": 721,
+    "puntuación": 7.0,
+    "votos": 723,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -4145,7 +4178,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-13 10:49:41"
+    "última_actualización": "2026-05-13 22:25:50"
   },
   {
     "id": 1443940,
@@ -4274,7 +4307,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-13 10:49:43"
+    "última_actualización": "2026-05-13 22:25:51"
   },
   {
     "id": 1280405,
@@ -4372,7 +4405,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-05-13 10:49:44"
+    "última_actualización": "2026-05-13 22:25:51"
   },
   {
     "id": 1418849,
@@ -4503,7 +4536,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-13 10:49:44"
+    "última_actualización": "2026-05-13 22:25:52"
   },
   {
     "id": 1480613,
@@ -4569,7 +4602,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-13 10:49:44"
+    "última_actualización": "2026-05-13 22:25:52"
   },
   {
     "id": 1633840,
@@ -4668,7 +4701,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-13 10:49:45"
+    "última_actualización": "2026-05-13 22:25:53"
   },
   {
     "id": 1319977,
@@ -4748,7 +4781,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-05-13 10:49:45"
+    "última_actualización": "2026-05-13 22:25:53"
   },
   {
     "id": 1210096,
@@ -4846,7 +4879,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-05-13 10:49:46"
+    "última_actualización": "2026-05-13 22:25:55"
   },
   {
     "id": 1477049,
@@ -4946,7 +4979,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-05-13 10:49:47"
+    "última_actualización": "2026-05-13 22:25:56"
   },
   {
     "id": 1655396,
@@ -4997,7 +5030,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-05-13 10:49:49"
+    "última_actualización": "2026-05-13 22:25:57"
   },
   {
     "id": 1273221,
@@ -5010,7 +5043,7 @@
     "backdrop_path": "/pO7XVtgA6t5JbxY1S8Y4cQEFarR.jpg",
     "backdrop_local": "imagenes_estrenos/Scary_Movie_backdrop_pO7XVtgA6t5JbxY1S8Y4cQEFarR.jpg",
     "fecha_estreno": "2026-06-04T00:00:00.000Z",
-    "duración": "0 min",
+    "duración": "94 min",
     "director": "Michael Tiddes",
     "directores": [
       {
@@ -5152,166 +5185,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-13 10:49:42"
-  },
-  {
-    "id": 1083381,
-    "tmdb_id": 1083381,
-    "título": "Backrooms",
-    "título_original": "Backrooms",
-    "sinopsis": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-    "poster_path": "/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-    "poster_local": "imagenes_estrenos/Backrooms_u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-    "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-    "backdrop_local": "imagenes_estrenos/Backrooms_backdrop_mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-    "fecha_estreno": "2026-06-05T00:00:00.000Z",
-    "duración": "105 min",
-    "director": "Kane Parsons",
-    "directores": [
-      {
-        "name": "Kane Parsons",
-        "id": 3688382
-      }
-    ],
-    "actores": [
-      {
-        "name": "Chiwetel Ejiofor",
-        "id": 5294,
-        "character": "Clark",
-        "profile_path": "/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
-      },
-      {
-        "name": "Renate Reinsve",
-        "id": 1576786,
-        "character": "Mary",
-        "profile_path": "/3UZ5yHxW4MQFIeGslfuRH196Rsr.jpg"
-      },
-      {
-        "name": "Mark Duplass",
-        "id": 45407,
-        "character": "Phil",
-        "profile_path": "/lRDf99rAfcdqt8Cqk4LsIT7XSD2.jpg"
-      },
-      {
-        "name": "Finn Bennett",
-        "id": 1512452,
-        "character": "Bobby",
-        "profile_path": "/lPq5n7WreNVtt53obM5hmnAjxeK.jpg"
-      },
-      {
-        "name": "Lukita Maxwell",
-        "id": 1709431,
-        "character": "Kat",
-        "profile_path": "/g5g6XxUAtSdPfsJrSoFkl7vH51d.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      },
-      {
-        "id": 9648,
-        "name": "Misterio"
-      },
-      {
-        "id": 878,
-        "name": "Ciencia ficción"
-      }
-    ],
-    "popularidad": 15.5026,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-          "vote_average": 8.596,
-          "vote_count": 7,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1066,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/hhBqc8n9WaGizwMglvGZcDKzguK.jpg",
-          "vote_average": 3.954,
-          "vote_count": 11,
-          "width": 1895
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/w6vfW4D37qhNTsE0JFlZepujd4J.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wjwMC7u3xWKkrronolBqsIy4L0L.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ofBR1ZUQ1CzBJQFayzGvGl1PMtg.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.719,
-          "height": 2500,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/usrHe6fCmqlfhHI49d8LRnHMg98.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1797
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6hFnAYnu8YJ2g7DgKVdkV5z6X7V.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1200,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 800
-        }
-      ]
-    },
-    "última_actualización": "2026-05-13 10:49:41"
+    "última_actualización": "2026-05-13 22:25:51"
   },
   {
     "id": 454639,
@@ -5490,7 +5364,166 @@
         }
       ]
     },
-    "última_actualización": "2026-05-13 10:49:42"
+    "última_actualización": "2026-05-13 22:25:50"
+  },
+  {
+    "id": 1083381,
+    "tmdb_id": 1083381,
+    "título": "Backrooms",
+    "título_original": "Backrooms",
+    "sinopsis": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+    "poster_path": "/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
+    "poster_local": "imagenes_estrenos/Backrooms_u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
+    "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+    "backdrop_local": "imagenes_estrenos/Backrooms_backdrop_mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+    "fecha_estreno": "2026-06-05T00:00:00.000Z",
+    "duración": "105 min",
+    "director": "Kane Parsons",
+    "directores": [
+      {
+        "name": "Kane Parsons",
+        "id": 3688382
+      }
+    ],
+    "actores": [
+      {
+        "name": "Chiwetel Ejiofor",
+        "id": 5294,
+        "character": "Clark",
+        "profile_path": "/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+      },
+      {
+        "name": "Renate Reinsve",
+        "id": 1576786,
+        "character": "Mary",
+        "profile_path": "/3UZ5yHxW4MQFIeGslfuRH196Rsr.jpg"
+      },
+      {
+        "name": "Mark Duplass",
+        "id": 45407,
+        "character": "Phil",
+        "profile_path": "/lRDf99rAfcdqt8Cqk4LsIT7XSD2.jpg"
+      },
+      {
+        "name": "Finn Bennett",
+        "id": 1512452,
+        "character": "Bobby",
+        "profile_path": "/lPq5n7WreNVtt53obM5hmnAjxeK.jpg"
+      },
+      {
+        "name": "Lukita Maxwell",
+        "id": 1709431,
+        "character": "Kat",
+        "profile_path": "/g5g6XxUAtSdPfsJrSoFkl7vH51d.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "popularidad": 15.5026,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+          "vote_average": 8.596,
+          "vote_count": 7,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1066,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/hhBqc8n9WaGizwMglvGZcDKzguK.jpg",
+          "vote_average": 3.954,
+          "vote_count": 11,
+          "width": 1895
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/w6vfW4D37qhNTsE0JFlZepujd4J.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wjwMC7u3xWKkrronolBqsIy4L0L.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ofBR1ZUQ1CzBJQFayzGvGl1PMtg.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.719,
+          "height": 2500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/usrHe6fCmqlfhHI49d8LRnHMg98.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1797
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6hFnAYnu8YJ2g7DgKVdkV5z6X7V.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1200,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 800
+        }
+      ]
+    },
+    "última_actualización": "2026-05-13 22:25:50"
   },
   {
     "id": 1177767,
@@ -5643,7 +5676,101 @@
         }
       ]
     },
-    "última_actualización": "2026-05-13 10:49:43"
+    "última_actualización": "2026-05-13 22:25:51"
+  },
+  {
+    "id": 1497463,
+    "tmdb_id": 1497463,
+    "título": "Todo lo que nunca fuimos",
+    "título_original": "Todo lo que nunca fuimos",
+    "sinopsis": "Cuando a su hermano mayor le ofrecen un trabajo lejos de casa, una joven aspirante a pintora, destrozada por un trágico accidente que se llevó a sus padres, le pide a su mejor amigo que cuide de ella. A medida que su atracción mutua crece hasta proporciones insoportables, los dos deben decidir si reprimir su amor o dejar que suceda.",
+    "poster_path": "/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
+    "poster_local": "imagenes_estrenos/Todo_lo_que_nunca_fuimos_lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-06-05T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Jorge Alonso",
+    "directores": [
+      {
+        "name": "Jorge Alonso",
+        "id": 2086327
+      }
+    ],
+    "actores": [
+      {
+        "name": "Margarida Corceiro",
+        "id": 3372344,
+        "character": "Leah Jones",
+        "profile_path": "/8YxCNGN4qyrN0E12umJb7LRgReZ.jpg"
+      },
+      {
+        "name": "Maxi Iglesias",
+        "id": 1248277,
+        "character": "Axel Nguyen",
+        "profile_path": "/sX0fOdN7Urawav29j24nVAjNgaC.jpg"
+      },
+      {
+        "name": "Natalia Rodríguez",
+        "id": 56245,
+        "character": "Elena",
+        "profile_path": "/sn1MGn3Plx0QQPDkUwztJJTpvRm.jpg"
+      },
+      {
+        "name": "Sebastián Zurita",
+        "id": 970485,
+        "character": "Oliver",
+        "profile_path": "/b1njEJSLGGOUmzvjkwS45Yhi8An.jpg"
+      },
+      {
+        "name": "Adriana Hormigos",
+        "id": 4782295,
+        "character": "Belén",
+        "profile_path": "/8tCkSPyOPAQgsurkOCdi5HXr13n.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "popularidad": 1.2593,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1350,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 900
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/4gXlYOhtq1nPgLPNNcYLBxhLPvE.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2026-05-13 22:25:52"
   },
   {
     "id": 1211442,
@@ -5814,101 +5941,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-13 10:49:43"
-  },
-  {
-    "id": 1497463,
-    "tmdb_id": 1497463,
-    "título": "Todo lo que nunca fuimos",
-    "título_original": "Todo lo que nunca fuimos",
-    "sinopsis": "Cuando a su hermano mayor le ofrecen un trabajo lejos de casa, una joven aspirante a pintora, destrozada por un trágico accidente que se llevó a sus padres, le pide a su mejor amigo que cuide de ella. A medida que su atracción mutua crece hasta proporciones insoportables, los dos deben decidir si reprimir su amor o dejar que suceda.",
-    "poster_path": "/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
-    "poster_local": "imagenes_estrenos/Todo_lo_que_nunca_fuimos_lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-06-05T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Jorge Alonso",
-    "directores": [
-      {
-        "name": "Jorge Alonso",
-        "id": 2086327
-      }
-    ],
-    "actores": [
-      {
-        "name": "Margarida Corceiro",
-        "id": 3372344,
-        "character": "Leah Jones",
-        "profile_path": "/8YxCNGN4qyrN0E12umJb7LRgReZ.jpg"
-      },
-      {
-        "name": "Maxi Iglesias",
-        "id": 1248277,
-        "character": "Axel Nguyen",
-        "profile_path": "/sX0fOdN7Urawav29j24nVAjNgaC.jpg"
-      },
-      {
-        "name": "Natalia Rodríguez",
-        "id": 56245,
-        "character": "Elena",
-        "profile_path": "/sn1MGn3Plx0QQPDkUwztJJTpvRm.jpg"
-      },
-      {
-        "name": "Sebastián Zurita",
-        "id": 970485,
-        "character": "Oliver",
-        "profile_path": "/b1njEJSLGGOUmzvjkwS45Yhi8An.jpg"
-      },
-      {
-        "name": "Adriana Hormigos",
-        "id": 4782295,
-        "character": "Belén",
-        "profile_path": "/8tCkSPyOPAQgsurkOCdi5HXr13n.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      }
-    ],
-    "popularidad": 1.2593,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1350,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 900
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/4gXlYOhtq1nPgLPNNcYLBxhLPvE.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2026-05-13 10:49:44"
+    "última_actualización": "2026-05-13 22:25:52"
   },
   {
     "id": 1444595,
@@ -6019,7 +6052,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-13 10:49:45"
+    "última_actualización": "2026-05-13 22:25:53"
   },
   {
     "id": 1446912,
@@ -6140,7 +6173,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-13 10:49:46"
+    "última_actualización": "2026-05-13 22:25:54"
   },
   {
     "id": 1513268,
@@ -6217,7 +6250,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-05-13 10:49:47"
+    "última_actualización": "2026-05-13 22:25:55"
   },
   {
     "id": 1513026,
@@ -6312,7 +6345,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-13 10:49:47"
+    "última_actualización": "2026-05-13 22:25:56"
   },
   {
     "id": 1573100,
@@ -6389,7 +6422,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-13 10:49:49"
+    "última_actualización": "2026-05-13 22:25:56"
   },
   {
     "id": 1690880,
@@ -6469,6 +6502,6 @@
         }
       ]
     },
-    "última_actualización": "2026-05-13 10:49:49"
+    "última_actualización": "2026-05-13 22:25:56"
   }
 ]
