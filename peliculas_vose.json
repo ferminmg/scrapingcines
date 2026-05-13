@@ -6,7 +6,7 @@
             {
                 "fecha": "2026-05-13",
                 "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100092&eventCode=105381"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -23,7 +23,7 @@
             {
                 "fecha": "2026-05-13",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100090&eventCode=104739"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -40,7 +40,7 @@
             {
                 "fecha": "2026-05-13",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100099&eventCode=104103"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -57,7 +57,7 @@
             {
                 "fecha": "2026-05-13",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100096&eventCode=104919"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -389,6 +389,142 @@
         "año": "2025"
     },
     {
+        "título": "El beso de la mujer araña",
+        "cartel": "imagenes_peliculas/tmdb_el_beso_de_la_mujer_arana.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-19",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100217&eventCode=109541"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Bill Condon",
+        "duración": "128 min",
+        "actores": "Diego Luna, Tonatiuh, Jennifer Lopez, Bruno Bichir, Josefina Scaglione",
+        "sinopsis": "Valentín, un preso político, comparte celda con Molina, un escaparatista condenado por escándalo público. Surge un vínculo entre ellos mientras Molina relata la trama de un musical de Hollywood protagonizado por su diva favorita, Ingrid Luna.",
+        "año": "2025"
+    },
+    {
+        "título": "El diablo viste de Prada 2",
+        "cartel": "imagenes_peliculas/tmdb_el_diablo_viste_de_prada_2.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-19",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100212&eventCode=104739"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "David Frankel",
+        "duración": "119 min",
+        "actores": "Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci, Justin Theroux",
+        "sinopsis": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+        "año": "2026"
+    },
+    {
+        "título": "Michael",
+        "cartel": "imagenes_peliculas/tmdb_michael.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-19",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100227&eventCode=104103"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Antoine Fuqua",
+        "duración": "128 min",
+        "actores": "Jaafar Jackson, Colman Domingo, Nia Long, Juliano Krue Valdi, Miles Teller",
+        "sinopsis": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+        "año": "2026"
+    },
+    {
+        "título": "Incontrolable (I Swear)",
+        "cartel": "imagenes_peliculas/tmdb_incontrolable_i_swear.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-19",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100220&eventCode=104919"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Kirk Jones",
+        "duración": "120 min",
+        "actores": "Robert Aramayo, Maxine Peake, Peter Mullan, Shirley Henderson, Scott Ellis Watson",
+        "sinopsis": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
+        "año": "2025"
+    },
+    {
+        "título": "El beso de la mujer araña",
+        "cartel": "imagenes_peliculas/tmdb_el_beso_de_la_mujer_arana.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-20",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100235&eventCode=109541"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Bill Condon",
+        "duración": "128 min",
+        "actores": "Diego Luna, Tonatiuh, Jennifer Lopez, Bruno Bichir, Josefina Scaglione",
+        "sinopsis": "Valentín, un preso político, comparte celda con Molina, un escaparatista condenado por escándalo público. Surge un vínculo entre ellos mientras Molina relata la trama de un musical de Hollywood protagonizado por su diva favorita, Ingrid Luna.",
+        "año": "2025"
+    },
+    {
+        "título": "El diablo viste de Prada 2",
+        "cartel": "imagenes_peliculas/tmdb_el_diablo_viste_de_prada_2.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-20",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100230&eventCode=104739"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "David Frankel",
+        "duración": "119 min",
+        "actores": "Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci, Justin Theroux",
+        "sinopsis": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+        "año": "2026"
+    },
+    {
+        "título": "Michael",
+        "cartel": "imagenes_peliculas/tmdb_michael.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-20",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100245&eventCode=104103"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Antoine Fuqua",
+        "duración": "128 min",
+        "actores": "Jaafar Jackson, Colman Domingo, Nia Long, Juliano Krue Valdi, Miles Teller",
+        "sinopsis": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+        "año": "2026"
+    },
+    {
+        "título": "Incontrolable (I Swear)",
+        "cartel": "imagenes_peliculas/tmdb_incontrolable_i_swear.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-20",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100238&eventCode=104919"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Kirk Jones",
+        "duración": "120 min",
+        "actores": "Robert Aramayo, Maxine Peake, Peter Mullan, Shirley Henderson, Scott Ellis Watson",
+        "sinopsis": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
+        "año": "2025"
+    },
+    {
         "título": "GOLEM ARTE: Jago: El nuevo genio de la escultura",
         "cartel": "imagenes_peliculas/1773148150.jpg",
         "horarios": [
@@ -406,13 +542,81 @@
         "año": null
     },
     {
+        "título": "Star Wars: The Mandalorian and Grogu",
+        "cartel": "imagenes_peliculas/tmdb_star_wars_the_mandalorian_and_grogu.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-21",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100196&eventCode=104725"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Jon Favreau",
+        "duración": "132 min",
+        "actores": "Pedro Pascal, Jeremy Allen White, Sigourney Weaver, Jonny Coyne, Dave Filoni",
+        "sinopsis": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
+        "año": "2026"
+    },
+    {
+        "título": "El beso de la mujer araña",
+        "cartel": "imagenes_peliculas/tmdb_el_beso_de_la_mujer_arana.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-21",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100201&eventCode=109541"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Bill Condon",
+        "duración": "128 min",
+        "actores": "Diego Luna, Tonatiuh, Jennifer Lopez, Bruno Bichir, Josefina Scaglione",
+        "sinopsis": "Valentín, un preso político, comparte celda con Molina, un escaparatista condenado por escándalo público. Surge un vínculo entre ellos mientras Molina relata la trama de un musical de Hollywood protagonizado por su diva favorita, Ingrid Luna.",
+        "año": "2025"
+    },
+    {
+        "título": "El diablo viste de Prada 2",
+        "cartel": "imagenes_peliculas/tmdb_el_diablo_viste_de_prada_2.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-21",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100205&eventCode=104739"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "David Frankel",
+        "duración": "119 min",
+        "actores": "Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci, Justin Theroux",
+        "sinopsis": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+        "año": "2026"
+    },
+    {
+        "título": "Michael",
+        "cartel": "imagenes_peliculas/tmdb_michael.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-21",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100209&eventCode=104103"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Antoine Fuqua",
+        "duración": "128 min",
+        "actores": "Jaafar Jackson, Colman Domingo, Nia Long, Juliano Krue Valdi, Miles Teller",
+        "sinopsis": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+        "año": "2026"
+    },
+    {
         "título": "Recreación de un asesinato",
         "cartel": "imagenes_peliculas/tmdb_recreacion_de_un_asesinato.jpg",
         "horarios": [
             {
                 "fecha": "2026-05-13",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90692&eventCode=106311"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -429,7 +633,7 @@
             {
                 "fecha": "2026-05-13",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90694&eventCode=104751"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -508,13 +712,319 @@
         "año": "2025"
     },
     {
+        "título": "El Amigo Inesperado",
+        "cartel": "imagenes_peliculas/tmdb_el_amigo_inesperado.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-15",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90750&eventCode=109973"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fabienne Godet",
+        "duración": "102 min",
+        "actores": "Salif Cissé, Denis Podalydès, Clara Bretheau, Aure Atika, Manon Clavel",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La chica del coro",
+        "cartel": "imagenes_peliculas/tmdb_la_chica_del_coro.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-15",
+                "hora": "20:20",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90747&eventCode=104672"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Urška Djukić",
+        "duración": "89 min",
+        "actores": "Jara Sofija Ostan, Mina Švajger, Saša Tabaković, Nataša Burger, Staša Popovič",
+        "sinopsis": "Lucía, de 16 años, se une al coro de la escuela católica donde se hace amiga de Ana María, la estudiante de último año. Durante un retiro coral, la atracción de Lucía por un trabajador de restauración crea tensión con Ana María y desafía su fe.",
+        "año": "2025"
+    },
+    {
+        "título": "La isla de Amrum",
+        "cartel": "imagenes_peliculas/tmdb_la_isla_de_amrum.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-15",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90738&eventCode=104751"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fatih Akin",
+        "duración": "93 min",
+        "actores": "Jasper Billerbeck, Diane Kruger, Kian Köppke, Laura Tonke, Hark Bohm",
+        "sinopsis": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
+        "año": "2025"
+    },
+    {
+        "título": "El Amigo Inesperado",
+        "cartel": "imagenes_peliculas/tmdb_el_amigo_inesperado.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-16",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90833&eventCode=109973"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fabienne Godet",
+        "duración": "102 min",
+        "actores": "Salif Cissé, Denis Podalydès, Clara Bretheau, Aure Atika, Manon Clavel",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La chica del coro",
+        "cartel": "imagenes_peliculas/tmdb_la_chica_del_coro.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-16",
+                "hora": "20:20",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90772&eventCode=104672"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Urška Djukić",
+        "duración": "89 min",
+        "actores": "Jara Sofija Ostan, Mina Švajger, Saša Tabaković, Nataša Burger, Staša Popovič",
+        "sinopsis": "Lucía, de 16 años, se une al coro de la escuela católica donde se hace amiga de Ana María, la estudiante de último año. Durante un retiro coral, la atracción de Lucía por un trabajador de restauración crea tensión con Ana María y desafía su fe.",
+        "año": "2025"
+    },
+    {
+        "título": "La isla de Amrum",
+        "cartel": "imagenes_peliculas/tmdb_la_isla_de_amrum.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-16",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90756&eventCode=104751"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fatih Akin",
+        "duración": "93 min",
+        "actores": "Jasper Billerbeck, Diane Kruger, Kian Köppke, Laura Tonke, Hark Bohm",
+        "sinopsis": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
+        "año": "2025"
+    },
+    {
+        "título": "El Amigo Inesperado",
+        "cartel": "imagenes_peliculas/tmdb_el_amigo_inesperado.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-17",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90817&eventCode=109973"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fabienne Godet",
+        "duración": "102 min",
+        "actores": "Salif Cissé, Denis Podalydès, Clara Bretheau, Aure Atika, Manon Clavel",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La chica del coro",
+        "cartel": "imagenes_peliculas/tmdb_la_chica_del_coro.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-17",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90785&eventCode=104672"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Urška Djukić",
+        "duración": "89 min",
+        "actores": "Jara Sofija Ostan, Mina Švajger, Saša Tabaković, Nataša Burger, Staša Popovič",
+        "sinopsis": "Lucía, de 16 años, se une al coro de la escuela católica donde se hace amiga de Ana María, la estudiante de último año. Durante un retiro coral, la atracción de Lucía por un trabajador de restauración crea tensión con Ana María y desafía su fe.",
+        "año": "2025"
+    },
+    {
+        "título": "La isla de Amrum",
+        "cartel": "imagenes_peliculas/tmdb_la_isla_de_amrum.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-17",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90774&eventCode=104751"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fatih Akin",
+        "duración": "93 min",
+        "actores": "Jasper Billerbeck, Diane Kruger, Kian Köppke, Laura Tonke, Hark Bohm",
+        "sinopsis": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
+        "año": "2025"
+    },
+    {
+        "título": "El Amigo Inesperado",
+        "cartel": "imagenes_peliculas/tmdb_el_amigo_inesperado.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-18",
+                "hora": "21:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90832&eventCode=109973"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fabienne Godet",
+        "duración": "102 min",
+        "actores": "Salif Cissé, Denis Podalydès, Clara Bretheau, Aure Atika, Manon Clavel",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La chica del coro",
+        "cartel": "imagenes_peliculas/tmdb_la_chica_del_coro.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-18",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90830&eventCode=104672"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Urška Djukić",
+        "duración": "89 min",
+        "actores": "Jara Sofija Ostan, Mina Švajger, Saša Tabaković, Nataša Burger, Staša Popovič",
+        "sinopsis": "Lucía, de 16 años, se une al coro de la escuela católica donde se hace amiga de Ana María, la estudiante de último año. Durante un retiro coral, la atracción de Lucía por un trabajador de restauración crea tensión con Ana María y desafía su fe.",
+        "año": "2025"
+    },
+    {
+        "título": "La isla de Amrum",
+        "cartel": "imagenes_peliculas/tmdb_la_isla_de_amrum.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-18",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90819&eventCode=104751"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fatih Akin",
+        "duración": "93 min",
+        "actores": "Jasper Billerbeck, Diane Kruger, Kian Köppke, Laura Tonke, Hark Bohm",
+        "sinopsis": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
+        "año": "2025"
+    },
+    {
+        "título": "El Amigo Inesperado",
+        "cartel": "imagenes_peliculas/tmdb_el_amigo_inesperado.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-19",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90797&eventCode=109973"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fabienne Godet",
+        "duración": "102 min",
+        "actores": "Salif Cissé, Denis Podalydès, Clara Bretheau, Aure Atika, Manon Clavel",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La chica del coro",
+        "cartel": "imagenes_peliculas/tmdb_la_chica_del_coro.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-19",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90800&eventCode=104672"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Urška Djukić",
+        "duración": "89 min",
+        "actores": "Jara Sofija Ostan, Mina Švajger, Saša Tabaković, Nataša Burger, Staša Popovič",
+        "sinopsis": "Lucía, de 16 años, se une al coro de la escuela católica donde se hace amiga de Ana María, la estudiante de último año. Durante un retiro coral, la atracción de Lucía por un trabajador de restauración crea tensión con Ana María y desafía su fe.",
+        "año": "2025"
+    },
+    {
+        "título": "La isla de Amrum",
+        "cartel": "imagenes_peliculas/tmdb_la_isla_de_amrum.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-19",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90788&eventCode=104751"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fatih Akin",
+        "duración": "93 min",
+        "actores": "Jasper Billerbeck, Diane Kruger, Kian Köppke, Laura Tonke, Hark Bohm",
+        "sinopsis": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
+        "año": "2025"
+    },
+    {
+        "título": "El Amigo Inesperado",
+        "cartel": "imagenes_peliculas/tmdb_el_amigo_inesperado.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-20",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90812&eventCode=109973"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fabienne Godet",
+        "duración": "102 min",
+        "actores": "Salif Cissé, Denis Podalydès, Clara Bretheau, Aure Atika, Manon Clavel",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La chica del coro",
+        "cartel": "imagenes_peliculas/tmdb_la_chica_del_coro.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-20",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90815&eventCode=104672"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Urška Djukić",
+        "duración": "89 min",
+        "actores": "Jara Sofija Ostan, Mina Švajger, Saša Tabaković, Nataša Burger, Staša Popovič",
+        "sinopsis": "Lucía, de 16 años, se une al coro de la escuela católica donde se hace amiga de Ana María, la estudiante de último año. Durante un retiro coral, la atracción de Lucía por un trabajador de restauración crea tensión con Ana María y desafía su fe.",
+        "año": "2025"
+    },
+    {
+        "título": "La isla de Amrum",
+        "cartel": "imagenes_peliculas/tmdb_la_isla_de_amrum.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-20",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90803&eventCode=104751"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fatih Akin",
+        "duración": "93 min",
+        "actores": "Jasper Billerbeck, Diane Kruger, Kian Köppke, Laura Tonke, Hark Bohm",
+        "sinopsis": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
+        "año": "2025"
+    },
+    {
         "título": "Billie Eilish. Hit Me Hard and Soft - The Tour (Live in 3D)",
         "cartel": "imagenes_peliculas/tmdb_billie_eilish._hit_me_hard_and_soft__the_tour_live_in_3d.jpg",
         "horarios": [
             {
                 "fecha": "2026-05-13",
                 "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=223800&eventCode=106234"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem La Morea",
@@ -531,7 +1041,7 @@
             {
                 "fecha": "2026-05-13",
                 "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=223816&eventCode=104103"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem La Morea",
