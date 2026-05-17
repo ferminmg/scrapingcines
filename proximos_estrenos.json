@@ -82,7 +82,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-05-17 10:28:49"
+    "última_actualización": "2026-05-17 22:16:46"
   },
   {
     "id": 1684458,
@@ -190,7 +190,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:49"
+    "última_actualización": "2026-05-17 22:16:46"
   },
   {
     "id": 1292415,
@@ -254,8 +254,8 @@
       }
     ],
     "popularidad": 149.8461,
-    "puntuación": 6.611,
-    "votos": 27,
+    "puntuación": 6.6,
+    "votos": 28,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -305,7 +305,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:45"
+    "última_actualización": "2026-05-17 22:16:39"
   },
   {
     "id": 1228710,
@@ -373,8 +373,8 @@
       }
     ],
     "popularidad": 34.9579,
-    "puntuación": 8.0,
-    "votos": 3,
+    "puntuación": 8.5,
+    "votos": 4,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -405,29 +405,29 @@
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/v8DmL3EumiN1KRTkpKVSMNHYNPH.jpg",
+          "file_path": "/wld1ooNECiqQRxRxRDS6rx7IW9l.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 3840
         },
         {
           "aspect_ratio": 1.778,
-          "height": 2160,
+          "height": 900,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg",
-          "vote_average": 1.75,
-          "vote_count": 4,
-          "width": 3840
+          "file_path": "/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1600
         },
         {
           "aspect_ratio": 1.778,
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/arjGfQaakBlmfWQGNdG2nFxrpMQ.jpg",
-          "vote_average": 1.75,
-          "vote_count": 4,
+          "file_path": "/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
           "width": 3840
         }
       ],
@@ -484,7 +484,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:46"
+    "última_actualización": "2026-05-17 22:16:40"
   },
   {
     "id": 1471224,
@@ -613,7 +613,82 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:46"
+    "última_actualización": "2026-05-17 22:16:41"
+  },
+  {
+    "id": 1650814,
+    "tmdb_id": 1650814,
+    "título": "Dos días",
+    "título_original": "Dos días",
+    "sinopsis": "Jose Antonio, 89 años, está perdiendo la memoria. Aunque su familia se lo prohíbe convence a su amigo Mindo para salir a pescar en la barca. Juntos quedan a la deriva en el mar, lo que les obliga a lidiar con la vejez y el paso del tiempo.",
+    "poster_path": "/A61TrD9ai6Wnqn2vCRPZamE2LPh.jpg",
+    "poster_local": "imagenes_estrenos/Dos_d_as_A61TrD9ai6Wnqn2vCRPZamE2LPh.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-05-22T00:00:00.000Z",
+    "duración": "88 min",
+    "director": "Gonzaga Manso",
+    "directores": [
+      {
+        "name": "Gonzaga Manso",
+        "id": 1717076
+      }
+    ],
+    "actores": [
+      {
+        "name": "Saturnino García",
+        "id": 93831,
+        "character": "",
+        "profile_path": "/yubpcNgsdb5rKZPhKmiNRJfA0qX.jpg"
+      },
+      {
+        "name": "Jesús Outes",
+        "id": 6069861,
+        "character": "Mindo",
+        "profile_path": null
+      },
+      {
+        "name": "Aurora Maestre",
+        "id": 2828410,
+        "character": "Abuela",
+        "profile_path": null
+      },
+      {
+        "name": "Melania Cruz",
+        "id": 1893573,
+        "character": "Mercedes",
+        "profile_path": "/hjOmWwpUt4GNCW45xAV6MmxV4lo.jpg"
+      },
+      {
+        "name": "Ledicia Sola",
+        "id": 1317801,
+        "character": "María",
+        "profile_path": "/3MNLtQf3HN1zgiRLv6zgTOcArPF.jpg"
+      }
+    ],
+    "géneros": [],
+    "popularidad": 1.0976,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.75,
+          "height": 1440,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/A61TrD9ai6Wnqn2vCRPZamE2LPh.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1080
+        }
+      ]
+    },
+    "última_actualización": "2026-05-17 22:16:42"
   },
   {
     "id": 1290450,
@@ -754,7 +829,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:47"
+    "última_actualización": "2026-05-17 22:16:43"
   },
   {
     "id": 1372139,
@@ -842,82 +917,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:48"
-  },
-  {
-    "id": 1650814,
-    "tmdb_id": 1650814,
-    "título": "Dos días",
-    "título_original": "Dos días",
-    "sinopsis": "Jose Antonio, 89 años, está perdiendo la memoria. Aunque su familia se lo prohíbe convence a su amigo Mindo para salir a pescar en la barca. Juntos quedan a la deriva en el mar, lo que les obliga a lidiar con la vejez y el paso del tiempo.",
-    "poster_path": "/A61TrD9ai6Wnqn2vCRPZamE2LPh.jpg",
-    "poster_local": "imagenes_estrenos/Dos_d_as_A61TrD9ai6Wnqn2vCRPZamE2LPh.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-05-22T00:00:00.000Z",
-    "duración": "88 min",
-    "director": "Gonzaga Manso",
-    "directores": [
-      {
-        "name": "Gonzaga Manso",
-        "id": 1717076
-      }
-    ],
-    "actores": [
-      {
-        "name": "Saturnino García",
-        "id": 93831,
-        "character": "",
-        "profile_path": "/yubpcNgsdb5rKZPhKmiNRJfA0qX.jpg"
-      },
-      {
-        "name": "Jesús Outes",
-        "id": 6069861,
-        "character": "Mindo",
-        "profile_path": null
-      },
-      {
-        "name": "Aurora Maestre",
-        "id": 2828410,
-        "character": "Abuela",
-        "profile_path": null
-      },
-      {
-        "name": "Melania Cruz",
-        "id": 1893573,
-        "character": "Mercedes",
-        "profile_path": "/hjOmWwpUt4GNCW45xAV6MmxV4lo.jpg"
-      },
-      {
-        "name": "Ledicia Sola",
-        "id": 1317801,
-        "character": "María",
-        "profile_path": "/3MNLtQf3HN1zgiRLv6zgTOcArPF.jpg"
-      }
-    ],
-    "géneros": [],
-    "popularidad": 1.0976,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.75,
-          "height": 1440,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/A61TrD9ai6Wnqn2vCRPZamE2LPh.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1080
-        }
-      ]
-    },
-    "última_actualización": "2026-05-17 10:28:49"
+    "última_actualización": "2026-05-17 22:16:43"
   },
   {
     "id": 1376838,
@@ -1096,7 +1096,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:49"
+    "última_actualización": "2026-05-17 22:16:44"
   },
   {
     "id": 1416893,
@@ -1258,50 +1258,6 @@
     "última_actualización": "2026-05-11 11:02:01"
   },
   {
-    "id": 1696380,
-    "tmdb_id": 1696380,
-    "título": "Escala un cincuenta mil",
-    "título_original": "Escala un cincuenta mil",
-    "sinopsis": "",
-    "poster_path": "/8faSe1BoJrBvRTCeksvf878LksE.jpg",
-    "poster_local": "imagenes_estrenos/Escala_un_cincuenta_mil_8faSe1BoJrBvRTCeksvf878LksE.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-05-23T00:00:00.000Z",
-    "duración": "17 min",
-    "director": "Ángel Suanzes",
-    "directores": [
-      {
-        "name": "Ángel Suanzes",
-        "id": 6218267
-      }
-    ],
-    "actores": [],
-    "géneros": [],
-    "popularidad": 0.0071,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.706,
-          "height": 1280,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/8faSe1BoJrBvRTCeksvf878LksE.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 904
-        }
-      ]
-    },
-    "última_actualización": "2026-05-17 10:28:50"
-  },
-  {
     "id": 1696379,
     "tmdb_id": 1696379,
     "título": "Y Quién no teme al Lobo Feroz",
@@ -1343,7 +1299,51 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:51"
+    "última_actualización": "2026-05-17 22:16:47"
+  },
+  {
+    "id": 1696380,
+    "tmdb_id": 1696380,
+    "título": "Escala un cincuenta mil",
+    "título_original": "Escala un cincuenta mil",
+    "sinopsis": "",
+    "poster_path": "/8faSe1BoJrBvRTCeksvf878LksE.jpg",
+    "poster_local": "imagenes_estrenos/Escala_un_cincuenta_mil_8faSe1BoJrBvRTCeksvf878LksE.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-05-23T00:00:00.000Z",
+    "duración": "17 min",
+    "director": "Ángel Suanzes",
+    "directores": [
+      {
+        "name": "Ángel Suanzes",
+        "id": 6218267
+      }
+    ],
+    "actores": [],
+    "géneros": [],
+    "popularidad": 0.0071,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.706,
+          "height": 1280,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/8faSe1BoJrBvRTCeksvf878LksE.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 904
+        }
+      ]
+    },
+    "última_actualización": "2026-05-17 22:16:47"
   },
   {
     "id": 1696372,
@@ -1387,7 +1387,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:51"
+    "última_actualización": "2026-05-17 22:16:48"
   },
   {
     "id": 1696336,
@@ -1431,7 +1431,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:51"
+    "última_actualización": "2026-05-17 22:16:48"
   },
   {
     "id": 1685309,
@@ -1506,7 +1506,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-05-17 10:28:48"
+    "última_actualización": "2026-05-17 22:16:42"
   },
   {
     "id": 1325734,
@@ -1574,8 +1574,8 @@
       }
     ],
     "popularidad": 45.019,
-    "puntuación": 6.9,
-    "votos": 758,
+    "puntuación": 6.925,
+    "votos": 764,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1583,23 +1583,23 @@
       "backdrops": [
         {
           "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
-          "vote_average": 6.042,
-          "vote_count": 12,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
           "height": 1433,
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
-          "vote_average": 5.566,
-          "vote_count": 15,
+          "vote_average": 5.844,
+          "vote_count": 16,
           "width": 2548
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
+          "vote_average": 5.616,
+          "vote_count": 13,
+          "width": 3840
         },
         {
           "aspect_ratio": 1.778,
@@ -1685,7 +1685,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:45"
+    "última_actualización": "2026-05-17 22:16:39"
   },
   {
     "id": 1443940,
@@ -1814,7 +1814,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:46"
+    "última_actualización": "2026-05-17 22:16:41"
   },
   {
     "id": 1280405,
@@ -1912,7 +1912,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-05-17 10:28:46"
+    "última_actualización": "2026-05-17 22:16:41"
   },
   {
     "id": 1418849,
@@ -2043,7 +2043,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:47"
+    "última_actualización": "2026-05-17 22:16:43"
   },
   {
     "id": 1480613,
@@ -2109,7 +2109,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:48"
+    "última_actualización": "2026-05-17 22:16:43"
   },
   {
     "id": 1633840,
@@ -2208,7 +2208,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:48"
+    "última_actualización": "2026-05-17 22:16:44"
   },
   {
     "id": 1319977,
@@ -2288,7 +2288,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-05-17 10:28:48"
+    "última_actualización": "2026-05-17 22:16:44"
   },
   {
     "id": 1210096,
@@ -2386,7 +2386,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-05-17 10:28:49"
+    "última_actualización": "2026-05-17 22:16:45"
   },
   {
     "id": 1477049,
@@ -2486,7 +2486,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-05-17 10:28:49"
+    "última_actualización": "2026-05-17 22:16:46"
   },
   {
     "id": 1655396,
@@ -2537,7 +2537,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-05-17 10:28:50"
+    "última_actualización": "2026-05-17 22:16:47"
   },
   {
     "id": 1273221,
@@ -2692,7 +2692,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:46"
+    "última_actualización": "2026-05-17 22:16:40"
   },
   {
     "id": 454639,
@@ -2702,7 +2702,7 @@
     "sinopsis": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
     "poster_path": "/1iaoDCWAM5C1kvlmIiCrLUE16uM.jpg",
     "poster_local": "imagenes_estrenos/He_Man_y_los_masters_del_universo_nm2ianYVp7OXElUZVeeAbNTqBLr.jpg",
-    "backdrop_path": "/mqy2yiXrlJt2mvLAfxtgYU0mjSf.jpg",
+    "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
     "backdrop_local": "imagenes_estrenos/He_Man_y_los_masters_del_universo_backdrop_bK1TTmowTrHXq4SGu5FzqQJh0ip.jpg",
     "fecha_estreno": "2026-06-05T00:00:00.000Z",
     "duración": "132 min",
@@ -2769,12 +2769,22 @@
       "backdrops": [
         {
           "aspect_ratio": 1.778,
+          "height": 1620,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+          "vote_average": 2.066,
+          "vote_count": 5,
+          "width": 2880
+        },
+        {
+          "aspect_ratio": 1.778,
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/mqy2yiXrlJt2mvLAfxtgYU0mjSf.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
+          "vote_average": 1.75,
+          "vote_count": 2,
           "width": 3840
         },
         {
@@ -2783,8 +2793,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/uNRvQR0k5F8dfzeMBuiNmz8S9nN.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
+          "vote_average": 1.75,
+          "vote_count": 2,
           "width": 3840
         },
         {
@@ -2793,8 +2803,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/5yNkmlLEZUGMXWjUwC1xIiOsYQS.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
+          "vote_average": 1.75,
+          "vote_count": 2,
           "width": 3840
         },
         {
@@ -2803,19 +2813,9 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/g6CcV1i0jGI5MIZkxoW81qui1vc.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1620,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
           "vote_average": 1.75,
-          "vote_count": 4,
-          "width": 2880
+          "vote_count": 2,
+          "width": 3840
         }
       ],
       "posters": [
@@ -2871,7 +2871,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:46"
+    "última_actualización": "2026-05-17 22:16:40"
   },
   {
     "id": 1083381,
@@ -3050,7 +3050,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:46"
+    "última_actualización": "2026-05-17 22:16:40"
   },
   {
     "id": 1177767,
@@ -3203,101 +3203,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:46"
-  },
-  {
-    "id": 1497463,
-    "tmdb_id": 1497463,
-    "título": "Todo lo que nunca fuimos",
-    "título_original": "Todo lo que nunca fuimos",
-    "sinopsis": "Cuando a su hermano mayor le ofrecen un trabajo lejos de casa, una joven aspirante a pintora, destrozada por un trágico accidente que se llevó a sus padres, le pide a su mejor amigo que cuide de ella. A medida que su atracción mutua crece hasta proporciones insoportables, los dos deben decidir si reprimir su amor o dejar que suceda.",
-    "poster_path": "/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
-    "poster_local": "imagenes_estrenos/Todo_lo_que_nunca_fuimos_lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-06-05T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Jorge Alonso",
-    "directores": [
-      {
-        "name": "Jorge Alonso",
-        "id": 2086327
-      }
-    ],
-    "actores": [
-      {
-        "name": "Margarida Corceiro",
-        "id": 3372344,
-        "character": "Leah Jones",
-        "profile_path": "/8YxCNGN4qyrN0E12umJb7LRgReZ.jpg"
-      },
-      {
-        "name": "Maxi Iglesias",
-        "id": 1248277,
-        "character": "Axel Nguyen",
-        "profile_path": "/sX0fOdN7Urawav29j24nVAjNgaC.jpg"
-      },
-      {
-        "name": "Natalia Rodríguez",
-        "id": 56245,
-        "character": "Elena",
-        "profile_path": "/sn1MGn3Plx0QQPDkUwztJJTpvRm.jpg"
-      },
-      {
-        "name": "Sebastián Zurita",
-        "id": 970485,
-        "character": "Oliver",
-        "profile_path": "/b1njEJSLGGOUmzvjkwS45Yhi8An.jpg"
-      },
-      {
-        "name": "Adriana Hormigos",
-        "id": 4782295,
-        "character": "Belén",
-        "profile_path": "/8tCkSPyOPAQgsurkOCdi5HXr13n.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      }
-    ],
-    "popularidad": 1.1655,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1350,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 900
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/4gXlYOhtq1nPgLPNNcYLBxhLPvE.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2026-05-17 10:28:47"
+    "última_actualización": "2026-05-17 22:16:41"
   },
   {
     "id": 1211442,
@@ -3468,7 +3374,101 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:47"
+    "última_actualización": "2026-05-17 22:16:42"
+  },
+  {
+    "id": 1497463,
+    "tmdb_id": 1497463,
+    "título": "Todo lo que nunca fuimos",
+    "título_original": "Todo lo que nunca fuimos",
+    "sinopsis": "Cuando a su hermano mayor le ofrecen un trabajo lejos de casa, una joven aspirante a pintora, destrozada por un trágico accidente que se llevó a sus padres, le pide a su mejor amigo que cuide de ella. A medida que su atracción mutua crece hasta proporciones insoportables, los dos deben decidir si reprimir su amor o dejar que suceda.",
+    "poster_path": "/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
+    "poster_local": "imagenes_estrenos/Todo_lo_que_nunca_fuimos_lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-06-05T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Jorge Alonso",
+    "directores": [
+      {
+        "name": "Jorge Alonso",
+        "id": 2086327
+      }
+    ],
+    "actores": [
+      {
+        "name": "Margarida Corceiro",
+        "id": 3372344,
+        "character": "Leah Jones",
+        "profile_path": "/8YxCNGN4qyrN0E12umJb7LRgReZ.jpg"
+      },
+      {
+        "name": "Maxi Iglesias",
+        "id": 1248277,
+        "character": "Axel Nguyen",
+        "profile_path": "/sX0fOdN7Urawav29j24nVAjNgaC.jpg"
+      },
+      {
+        "name": "Natalia Rodríguez",
+        "id": 56245,
+        "character": "Elena",
+        "profile_path": "/sn1MGn3Plx0QQPDkUwztJJTpvRm.jpg"
+      },
+      {
+        "name": "Sebastián Zurita",
+        "id": 970485,
+        "character": "Oliver",
+        "profile_path": "/b1njEJSLGGOUmzvjkwS45Yhi8An.jpg"
+      },
+      {
+        "name": "Adriana Hormigos",
+        "id": 4782295,
+        "character": "Belén",
+        "profile_path": "/8tCkSPyOPAQgsurkOCdi5HXr13n.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "popularidad": 1.1655,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1350,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 900
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/4gXlYOhtq1nPgLPNNcYLBxhLPvE.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2026-05-17 22:16:42"
   },
   {
     "id": 1444595,
@@ -3579,7 +3579,84 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:48"
+    "última_actualización": "2026-05-17 22:16:44"
+  },
+  {
+    "id": 1513268,
+    "tmdb_id": 1513268,
+    "título": "Una pistola, una bala y un oso panda",
+    "título_original": "Una pistola, una bala y un oso panda",
+    "sinopsis": "Saúl, un director de cine abandonado por su pareja, en paro y con la cuenta bancaria al límite, atraviesa una depresión profunda que le tiene recluido en casa desde hace más de un mes. Pero la aparición de un paquete misterioso en su rellano  desencadena una cadena de acontecimientos que cambiará su vida por completo.",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-06-05T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Oriol Cardús",
+    "directores": [
+      {
+        "name": "Oriol Cardús",
+        "id": 4656727
+      }
+    ],
+    "actores": [
+      {
+        "name": "Alain Hernández",
+        "id": 1110505,
+        "character": "",
+        "profile_path": "/4rfXlYY1akHQG1pCJa8PmD3eSbw.jpg"
+      },
+      {
+        "name": "José Troncoso",
+        "id": 1073104,
+        "character": "",
+        "profile_path": "/jsCH9TtqoWTXbZ6IubEmupceKp3.jpg"
+      },
+      {
+        "name": "Teresa Ferrer",
+        "id": 3177252,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Petra Martínez",
+        "id": 132999,
+        "character": "",
+        "profile_path": "/kh5K3lstUZTFPzMB8IfhUJ4Kppr.jpg"
+      },
+      {
+        "name": "Emma Ozores",
+        "id": 582972,
+        "character": "",
+        "profile_path": "/mrFQv8TbYLUo1FM0MilI4p9CvLI.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "popularidad": 0.2455,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-05-17 22:16:45"
   },
   {
     "id": 1446912,
@@ -3700,7 +3777,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:49"
+    "última_actualización": "2026-05-17 22:16:45"
   },
   {
     "id": 1513026,
@@ -3795,84 +3872,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:49"
-  },
-  {
-    "id": 1513268,
-    "tmdb_id": 1513268,
-    "título": "Una pistola, una bala y un oso panda",
-    "título_original": "Una pistola, una bala y un oso panda",
-    "sinopsis": "Saúl, un director de cine abandonado por su pareja, en paro y con la cuenta bancaria al límite, atraviesa una depresión profunda que le tiene recluido en casa desde hace más de un mes. Pero la aparición de un paquete misterioso en su rellano  desencadena una cadena de acontecimientos que cambiará su vida por completo.",
-    "poster_path": null,
-    "poster_local": "",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-06-05T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Oriol Cardús",
-    "directores": [
-      {
-        "name": "Oriol Cardús",
-        "id": 4656727
-      }
-    ],
-    "actores": [
-      {
-        "name": "Alain Hernández",
-        "id": 1110505,
-        "character": "",
-        "profile_path": "/4rfXlYY1akHQG1pCJa8PmD3eSbw.jpg"
-      },
-      {
-        "name": "José Troncoso",
-        "id": 1073104,
-        "character": "",
-        "profile_path": "/jsCH9TtqoWTXbZ6IubEmupceKp3.jpg"
-      },
-      {
-        "name": "Teresa Ferrer",
-        "id": 3177252,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Petra Martínez",
-        "id": 132999,
-        "character": "",
-        "profile_path": "/kh5K3lstUZTFPzMB8IfhUJ4Kppr.jpg"
-      },
-      {
-        "name": "Emma Ozores",
-        "id": 582972,
-        "character": "",
-        "profile_path": "/mrFQv8TbYLUo1FM0MilI4p9CvLI.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 12,
-        "name": "Aventura"
-      }
-    ],
-    "popularidad": 0.2455,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2026-05-17 10:28:50"
+    "última_actualización": "2026-05-17 22:16:46"
   },
   {
     "id": 1690880,
@@ -3952,7 +3952,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:50"
+    "última_actualización": "2026-05-17 22:16:46"
   },
   {
     "id": 1573100,
@@ -4029,6 +4029,6 @@
         }
       ]
     },
-    "última_actualización": "2026-05-17 10:28:50"
+    "última_actualización": "2026-05-17 22:16:47"
   }
 ]
