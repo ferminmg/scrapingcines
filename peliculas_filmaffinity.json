@@ -1,27 +1,5 @@
 [
     {
-        "título": "El Castillo en el Cielo (40º Aniversario)",
-        "cartel": "imagenes_filmaffinity/el-castillo-en-el-cielo-40o-aniversario.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-05-20",
-                "hora": "17:45",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=29199"
-            },
-            {
-                "fecha": "2026-05-21",
-                "hora": "17:50",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=29585"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
-    },
-    {
         "título": "IRON MAIDEN: BURNING AMBITION",
         "cartel": "imagenes_filmaffinity/tmdb_iron-maiden-burning-ambition.jpg",
         "horarios": [
@@ -126,6 +104,23 @@
         "actores": "Pedro Pascal, Jeremy Allen White, Sigourney Weaver, Jonny Coyne, Dave Filoni",
         "sinopsis": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
         "año": "2026"
+    },
+    {
+        "título": "El Castillo en el Cielo (40º Aniversario)",
+        "cartel": "imagenes_filmaffinity/el-castillo-en-el-cielo-40o-aniversario.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-21",
+                "hora": "17:50",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=29585"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
     },
     {
         "título": "El pasajero nocturno",
