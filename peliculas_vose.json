@@ -6,7 +6,7 @@
             {
                 "fecha": "2026-05-20",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100235&eventCode=109541"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -23,7 +23,7 @@
             {
                 "fecha": "2026-05-20",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100230&eventCode=104739"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -40,7 +40,7 @@
             {
                 "fecha": "2026-05-20",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100245&eventCode=104103"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -57,7 +57,7 @@
             {
                 "fecha": "2026-05-20",
                 "hora": "19:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100238&eventCode=104919"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -414,7 +414,7 @@
             {
                 "fecha": "2026-05-20",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90812&eventCode=109973"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -431,7 +431,7 @@
             {
                 "fecha": "2026-05-20",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90815&eventCode=104672"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -448,7 +448,7 @@
             {
                 "fecha": "2026-05-20",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90803&eventCode=104751"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -510,13 +510,455 @@
         "año": "2025"
     },
     {
+        "título": "Love Me Tender",
+        "cartel": "imagenes_peliculas/tmdb_love_me_tender.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-22",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90851&eventCode=105519"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Anna Cazenave Cambet",
+        "duración": "134 min",
+        "actores": "Vicky Krieps, Antoine Reinartz, Monia Chokri, Viggo Ferreira Redier, Aurélia Petit",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Un mundo frágil y maravilloso",
+        "cartel": "imagenes_peliculas/tmdb_un_mundo_fragil_y_maravilloso.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-22",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90850&eventCode=105183"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Cyril Aris",
+        "duración": "110 min",
+        "actores": "Mounia Akl, Hassan Akil, Camille Salameh, Julia Kassar, Tino Karam",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La isla de Amrum",
+        "cartel": "imagenes_peliculas/tmdb_la_isla_de_amrum.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-22",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90855&eventCode=104751"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fatih Akin",
+        "duración": "93 min",
+        "actores": "Jasper Billerbeck, Diane Kruger, Kian Köppke, Laura Tonke, Hark Bohm",
+        "sinopsis": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
+        "año": "2025"
+    },
+    {
+        "título": "Love Me Tender",
+        "cartel": "imagenes_peliculas/tmdb_love_me_tender.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-23",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90859&eventCode=105519"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Anna Cazenave Cambet",
+        "duración": "134 min",
+        "actores": "Vicky Krieps, Antoine Reinartz, Monia Chokri, Viggo Ferreira Redier, Aurélia Petit",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Un mundo frágil y maravilloso",
+        "cartel": "imagenes_peliculas/tmdb_un_mundo_fragil_y_maravilloso.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-23",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90858&eventCode=105183"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Cyril Aris",
+        "duración": "110 min",
+        "actores": "Mounia Akl, Hassan Akil, Camille Salameh, Julia Kassar, Tino Karam",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La isla de Amrum",
+        "cartel": "imagenes_peliculas/tmdb_la_isla_de_amrum.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-23",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90866&eventCode=104751"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fatih Akin",
+        "duración": "93 min",
+        "actores": "Jasper Billerbeck, Diane Kruger, Kian Köppke, Laura Tonke, Hark Bohm",
+        "sinopsis": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
+        "año": "2025"
+    },
+    {
+        "título": "Love Me Tender",
+        "cartel": "imagenes_peliculas/tmdb_love_me_tender.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-24",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90887&eventCode=105519"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Anna Cazenave Cambet",
+        "duración": "134 min",
+        "actores": "Vicky Krieps, Antoine Reinartz, Monia Chokri, Viggo Ferreira Redier, Aurélia Petit",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Un mundo frágil y maravilloso",
+        "cartel": "imagenes_peliculas/tmdb_un_mundo_fragil_y_maravilloso.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-24",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90891&eventCode=105183"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Cyril Aris",
+        "duración": "110 min",
+        "actores": "Mounia Akl, Hassan Akil, Camille Salameh, Julia Kassar, Tino Karam",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "El Amigo Inesperado",
+        "cartel": "imagenes_peliculas/tmdb_el_amigo_inesperado.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-24",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90889&eventCode=109973"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fabienne Godet",
+        "duración": "102 min",
+        "actores": "Salif Cissé, Denis Podalydès, Clara Bretheau, Aure Atika, Manon Clavel",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La isla de Amrum",
+        "cartel": "imagenes_peliculas/tmdb_la_isla_de_amrum.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-24",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90892&eventCode=104751"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fatih Akin",
+        "duración": "93 min",
+        "actores": "Jasper Billerbeck, Diane Kruger, Kian Köppke, Laura Tonke, Hark Bohm",
+        "sinopsis": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
+        "año": "2025"
+    },
+    {
+        "título": "Love Me Tender",
+        "cartel": "imagenes_peliculas/tmdb_love_me_tender.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-25",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90896&eventCode=105519"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Anna Cazenave Cambet",
+        "duración": "134 min",
+        "actores": "Vicky Krieps, Antoine Reinartz, Monia Chokri, Viggo Ferreira Redier, Aurélia Petit",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Un mundo frágil y maravilloso",
+        "cartel": "imagenes_peliculas/tmdb_un_mundo_fragil_y_maravilloso.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-25",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90901&eventCode=105183"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Cyril Aris",
+        "duración": "110 min",
+        "actores": "Mounia Akl, Hassan Akil, Camille Salameh, Julia Kassar, Tino Karam",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "El Amigo Inesperado",
+        "cartel": "imagenes_peliculas/tmdb_el_amigo_inesperado.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-25",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90899&eventCode=109973"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fabienne Godet",
+        "duración": "102 min",
+        "actores": "Salif Cissé, Denis Podalydès, Clara Bretheau, Aure Atika, Manon Clavel",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La isla de Amrum",
+        "cartel": "imagenes_peliculas/tmdb_la_isla_de_amrum.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-25",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90902&eventCode=104751"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fatih Akin",
+        "duración": "93 min",
+        "actores": "Jasper Billerbeck, Diane Kruger, Kian Köppke, Laura Tonke, Hark Bohm",
+        "sinopsis": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
+        "año": "2025"
+    },
+    {
+        "título": "Love Me Tender",
+        "cartel": "imagenes_peliculas/tmdb_love_me_tender.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-26",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90911&eventCode=105519"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Anna Cazenave Cambet",
+        "duración": "134 min",
+        "actores": "Vicky Krieps, Antoine Reinartz, Monia Chokri, Viggo Ferreira Redier, Aurélia Petit",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Un mundo frágil y maravilloso",
+        "cartel": "imagenes_peliculas/tmdb_un_mundo_fragil_y_maravilloso.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-26",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90916&eventCode=105183"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Cyril Aris",
+        "duración": "110 min",
+        "actores": "Mounia Akl, Hassan Akil, Camille Salameh, Julia Kassar, Tino Karam",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "El Amigo Inesperado",
+        "cartel": "imagenes_peliculas/tmdb_el_amigo_inesperado.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-26",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90914&eventCode=109973"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fabienne Godet",
+        "duración": "102 min",
+        "actores": "Salif Cissé, Denis Podalydès, Clara Bretheau, Aure Atika, Manon Clavel",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La isla de Amrum",
+        "cartel": "imagenes_peliculas/tmdb_la_isla_de_amrum.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-26",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90917&eventCode=104751"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fatih Akin",
+        "duración": "93 min",
+        "actores": "Jasper Billerbeck, Diane Kruger, Kian Köppke, Laura Tonke, Hark Bohm",
+        "sinopsis": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
+        "año": "2025"
+    },
+    {
+        "título": "Love Me Tender",
+        "cartel": "imagenes_peliculas/tmdb_love_me_tender.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-27",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90926&eventCode=105519"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Anna Cazenave Cambet",
+        "duración": "134 min",
+        "actores": "Vicky Krieps, Antoine Reinartz, Monia Chokri, Viggo Ferreira Redier, Aurélia Petit",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Un mundo frágil y maravilloso",
+        "cartel": "imagenes_peliculas/tmdb_un_mundo_fragil_y_maravilloso.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-27",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90931&eventCode=105183"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Cyril Aris",
+        "duración": "110 min",
+        "actores": "Mounia Akl, Hassan Akil, Camille Salameh, Julia Kassar, Tino Karam",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "El Amigo Inesperado",
+        "cartel": "imagenes_peliculas/tmdb_el_amigo_inesperado.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-27",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90929&eventCode=109973"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fabienne Godet",
+        "duración": "102 min",
+        "actores": "Salif Cissé, Denis Podalydès, Clara Bretheau, Aure Atika, Manon Clavel",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La isla de Amrum",
+        "cartel": "imagenes_peliculas/tmdb_la_isla_de_amrum.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-27",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90932&eventCode=104751"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fatih Akin",
+        "duración": "93 min",
+        "actores": "Jasper Billerbeck, Diane Kruger, Kian Köppke, Laura Tonke, Hark Bohm",
+        "sinopsis": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
+        "año": "2025"
+    },
+    {
+        "título": "Love Me Tender",
+        "cartel": "imagenes_peliculas/tmdb_love_me_tender.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-28",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90941&eventCode=105519"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Anna Cazenave Cambet",
+        "duración": "134 min",
+        "actores": "Vicky Krieps, Antoine Reinartz, Monia Chokri, Viggo Ferreira Redier, Aurélia Petit",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Un mundo frágil y maravilloso",
+        "cartel": "imagenes_peliculas/tmdb_un_mundo_fragil_y_maravilloso.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-28",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90946&eventCode=105183"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Cyril Aris",
+        "duración": "110 min",
+        "actores": "Mounia Akl, Hassan Akil, Camille Salameh, Julia Kassar, Tino Karam",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "El Amigo Inesperado",
+        "cartel": "imagenes_peliculas/tmdb_el_amigo_inesperado.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-28",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90944&eventCode=109973"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fabienne Godet",
+        "duración": "102 min",
+        "actores": "Salif Cissé, Denis Podalydès, Clara Bretheau, Aure Atika, Manon Clavel",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La isla de Amrum",
+        "cartel": "imagenes_peliculas/tmdb_la_isla_de_amrum.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-28",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90947&eventCode=104751"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fatih Akin",
+        "duración": "93 min",
+        "actores": "Jasper Billerbeck, Diane Kruger, Kian Köppke, Laura Tonke, Hark Bohm",
+        "sinopsis": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
+        "año": "2025"
+    },
+    {
         "título": "El Castillo en el Cielo",
         "cartel": "imagenes_peliculas/tmdb_el_castillo_en_el_cielo.jpg",
         "horarios": [
             {
                 "fecha": "2026-05-20",
                 "hora": "19:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=224102&eventCode=110108"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem La Morea",
@@ -550,7 +992,7 @@
             {
                 "fecha": "2026-05-20",
                 "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=224091&eventCode=110329"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem La Morea",

@@ -1,27 +1,5 @@
 [
     {
-        "título": "IRON MAIDEN: BURNING AMBITION",
-        "cartel": "imagenes_filmaffinity/tmdb_iron-maiden-burning-ambition.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-05-20",
-                "hora": "20:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27703"
-            },
-            {
-                "fecha": "2026-05-21",
-                "hora": "20:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27704"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Malcolm Venville",
-        "duración": "105 min",
-        "actores": "Steve Harris, Bruce Dickinson, Nicko McBrain, Adrian Smith, Dave Murray",
-        "sinopsis": "",
-        "año": "2026"
-    },
-    {
         "título": "Billie Eilish. Hit Me Hard and Soft - The Tour",
         "cartel": "imagenes_filmaffinity/tmdb_billie-eilish-hit-me-hard-and-soft-the-tour.jpg",
         "horarios": [
@@ -121,6 +99,23 @@
         "actores": null,
         "sinopsis": null,
         "año": null
+    },
+    {
+        "título": "IRON MAIDEN: BURNING AMBITION",
+        "cartel": "imagenes_filmaffinity/tmdb_iron-maiden-burning-ambition.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-21",
+                "hora": "20:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=27704"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Malcolm Venville",
+        "duración": "105 min",
+        "actores": "Steve Harris, Bruce Dickinson, Nicko McBrain, Adrian Smith, Dave Murray",
+        "sinopsis": "",
+        "año": "2026"
     },
     {
         "título": "El pasajero nocturno",
