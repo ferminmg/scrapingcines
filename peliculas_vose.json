@@ -6,7 +6,7 @@
             {
                 "fecha": "2026-05-23",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100279&eventCode=110848"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -23,7 +23,7 @@
             {
                 "fecha": "2026-05-23",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100267&eventCode=104725"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -227,7 +227,7 @@
             {
                 "fecha": "2026-05-23",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90859&eventCode=105519"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -238,30 +238,13 @@
         "año": "2025"
     },
     {
-        "título": "Un mundo frágil y maravilloso",
-        "cartel": "imagenes_peliculas/tmdb_un_mundo_fragil_y_maravilloso.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-05-23",
-                "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90858&eventCode=105183"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Cyril Aris",
-        "duración": "110 min",
-        "actores": "Mounia Akl, Hassan Akil, Camille Salameh, Julia Kassar, Tino Karam",
-        "sinopsis": "",
-        "año": "2025"
-    },
-    {
         "título": "La isla de Amrum",
         "cartel": "imagenes_peliculas/tmdb_la_isla_de_amrum.jpg",
         "horarios": [
             {
                 "fecha": "2026-05-23",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90866&eventCode=104751"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -618,7 +601,7 @@
             {
                 "fecha": "2026-05-23",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=224162&eventCode=104725"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem La Morea",
