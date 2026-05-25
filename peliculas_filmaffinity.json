@@ -1,13 +1,25 @@
 [
     {
+        "título": "El pasajero nocturno",
+        "cartel": "imagenes_filmaffinity/tmdb_el-pasajero-nocturno.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-26",
+                "hora": "19:25",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=29700"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "André Øvredal",
+        "duración": "94 min",
+        "actores": "Lou Llobell, Jacob Scipio, Melissa Leo, Joseph Lopez, Tony Doupe",
+        "sinopsis": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos y no se detendrá hasta reclamarlos a ambos, convirtiendo su viaje en una auténtica pesadilla.",
+        "año": "2026"
+    },
+    {
         "título": "The Mandalorian and Grogu",
         "cartel": "imagenes_filmaffinity/tmdb_the-mandalorian-and-grogu.jpg",
         "horarios": [
-            {
-                "fecha": "2026-05-25",
-                "hora": "20:10",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=28693"
-            },
             {
                 "fecha": "2026-05-26",
                 "hora": "20:10",
@@ -29,23 +41,6 @@
         "duración": "132 min",
         "actores": "Pedro Pascal, Jeremy Allen White, Sigourney Weaver, Brendan Wayne, Lateef Crowder",
         "sinopsis": "Continuación de la serie \"The Mandalorian\" en forma de película. El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
-        "año": "2026"
-    },
-    {
-        "título": "El pasajero nocturno",
-        "cartel": "imagenes_filmaffinity/tmdb_el-pasajero-nocturno.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-05-26",
-                "hora": "19:25",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=29700"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "André Øvredal",
-        "duración": "94 min",
-        "actores": "Lou Llobell, Jacob Scipio, Melissa Leo, Joseph Lopez, Tony Doupe",
-        "sinopsis": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos y no se detendrá hasta reclamarlos a ambos, convirtiendo su viaje en una auténtica pesadilla.",
         "año": "2026"
     },
     {
