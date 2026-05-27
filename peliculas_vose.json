@@ -468,7 +468,7 @@
             {
                 "fecha": "2026-05-27",
                 "hora": "18:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=90931&eventCode=105183"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -771,21 +771,496 @@
         "año": "2025"
     },
     {
+        "título": "¿Qué te dice esa naturaleza?",
+        "cartel": "imagenes_peliculas/tmdb_que_te_dice_esa_naturaleza.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-31",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91018&eventCode=111114"
+            },
+            {
+                "fecha": "2026-05-31",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91019&eventCode=111114"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "홍상수",
+        "duración": "109 min",
+        "actores": "하성국, 권해효, 조윤희, 강소이, 박미소",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Corredora",
+        "cartel": "imagenes_peliculas/tmdb_corredora.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-31",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91013&eventCode=110182"
+            },
+            {
+                "fecha": "2026-05-31",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91015&eventCode=110182"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura García Alonso",
+        "duración": "96 min",
+        "actores": "Alba Sáez, Marina Salas, Àlex Brendemühl, Ot Serra Bas, Jordi Farrés",
+        "sinopsis": "Una corredora de élite se ve obligada a apartarse de la alta competición después de sufrir un brote psicótico.",
+        "año": "2026"
+    },
+    {
+        "título": "Love Me Tender",
+        "cartel": "imagenes_peliculas/tmdb_love_me_tender.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-31",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91021&eventCode=105519"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Anna Cazenave Cambet",
+        "duración": "134 min",
+        "actores": "Vicky Krieps, Antoine Reinartz, Monia Chokri, Viggo Ferreira Redier, Aurélia Petit",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Un mundo frágil y maravilloso",
+        "cartel": "imagenes_peliculas/tmdb_un_mundo_fragil_y_maravilloso.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-31",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91012&eventCode=105183"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Cyril Aris",
+        "duración": "110 min",
+        "actores": "Mounia Akl, Hassan Akil, Camille Salameh, Julia Kassar, Tino Karam",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La isla de Amrum",
+        "cartel": "imagenes_peliculas/tmdb_la_isla_de_amrum.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-05-31",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91016&eventCode=104751"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fatih Akin",
+        "duración": "93 min",
+        "actores": "Jasper Billerbeck, Diane Kruger, Kian Köppke, Laura Tonke, Hark Bohm",
+        "sinopsis": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
+        "año": "2025"
+    },
+    {
+        "título": "¿Qué te dice esa naturaleza?",
+        "cartel": "imagenes_peliculas/tmdb_que_te_dice_esa_naturaleza.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-01",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91035&eventCode=111114"
+            },
+            {
+                "fecha": "2026-06-01",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91036&eventCode=111114"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "홍상수",
+        "duración": "109 min",
+        "actores": "하성국, 권해효, 조윤희, 강소이, 박미소",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Corredora",
+        "cartel": "imagenes_peliculas/tmdb_corredora.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-01",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91028&eventCode=110182"
+            },
+            {
+                "fecha": "2026-06-01",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91030&eventCode=110182"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura García Alonso",
+        "duración": "96 min",
+        "actores": "Alba Sáez, Marina Salas, Àlex Brendemühl, Ot Serra Bas, Jordi Farrés",
+        "sinopsis": "Una corredora de élite se ve obligada a apartarse de la alta competición después de sufrir un brote psicótico.",
+        "año": "2026"
+    },
+    {
+        "título": "Love Me Tender",
+        "cartel": "imagenes_peliculas/tmdb_love_me_tender.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-01",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91038&eventCode=105519"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Anna Cazenave Cambet",
+        "duración": "134 min",
+        "actores": "Vicky Krieps, Antoine Reinartz, Monia Chokri, Viggo Ferreira Redier, Aurélia Petit",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Un mundo frágil y maravilloso",
+        "cartel": "imagenes_peliculas/tmdb_un_mundo_fragil_y_maravilloso.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-01",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91027&eventCode=105183"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Cyril Aris",
+        "duración": "110 min",
+        "actores": "Mounia Akl, Hassan Akil, Camille Salameh, Julia Kassar, Tino Karam",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La isla de Amrum",
+        "cartel": "imagenes_peliculas/tmdb_la_isla_de_amrum.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-01",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91032&eventCode=104751"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fatih Akin",
+        "duración": "93 min",
+        "actores": "Jasper Billerbeck, Diane Kruger, Kian Köppke, Laura Tonke, Hark Bohm",
+        "sinopsis": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
+        "año": "2025"
+    },
+    {
+        "título": "¿Qué te dice esa naturaleza?",
+        "cartel": "imagenes_peliculas/tmdb_que_te_dice_esa_naturaleza.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-02",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91050&eventCode=111114"
+            },
+            {
+                "fecha": "2026-06-02",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91051&eventCode=111114"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "홍상수",
+        "duración": "109 min",
+        "actores": "하성국, 권해효, 조윤희, 강소이, 박미소",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Corredora",
+        "cartel": "imagenes_peliculas/tmdb_corredora.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-02",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91043&eventCode=110182"
+            },
+            {
+                "fecha": "2026-06-02",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91045&eventCode=110182"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura García Alonso",
+        "duración": "96 min",
+        "actores": "Alba Sáez, Marina Salas, Àlex Brendemühl, Ot Serra Bas, Jordi Farrés",
+        "sinopsis": "Una corredora de élite se ve obligada a apartarse de la alta competición después de sufrir un brote psicótico.",
+        "año": "2026"
+    },
+    {
+        "título": "Love Me Tender",
+        "cartel": "imagenes_peliculas/tmdb_love_me_tender.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-02",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91053&eventCode=105519"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Anna Cazenave Cambet",
+        "duración": "134 min",
+        "actores": "Vicky Krieps, Antoine Reinartz, Monia Chokri, Viggo Ferreira Redier, Aurélia Petit",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Un mundo frágil y maravilloso",
+        "cartel": "imagenes_peliculas/tmdb_un_mundo_fragil_y_maravilloso.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-02",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91042&eventCode=105183"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Cyril Aris",
+        "duración": "110 min",
+        "actores": "Mounia Akl, Hassan Akil, Camille Salameh, Julia Kassar, Tino Karam",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La isla de Amrum",
+        "cartel": "imagenes_peliculas/tmdb_la_isla_de_amrum.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-02",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91047&eventCode=104751"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fatih Akin",
+        "duración": "93 min",
+        "actores": "Jasper Billerbeck, Diane Kruger, Kian Köppke, Laura Tonke, Hark Bohm",
+        "sinopsis": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
+        "año": "2025"
+    },
+    {
+        "título": "¿Qué te dice esa naturaleza?",
+        "cartel": "imagenes_peliculas/tmdb_que_te_dice_esa_naturaleza.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-03",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91065&eventCode=111114"
+            },
+            {
+                "fecha": "2026-06-03",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91066&eventCode=111114"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "홍상수",
+        "duración": "109 min",
+        "actores": "하성국, 권해효, 조윤희, 강소이, 박미소",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Corredora",
+        "cartel": "imagenes_peliculas/tmdb_corredora.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-03",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91058&eventCode=110182"
+            },
+            {
+                "fecha": "2026-06-03",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91060&eventCode=110182"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura García Alonso",
+        "duración": "96 min",
+        "actores": "Alba Sáez, Marina Salas, Àlex Brendemühl, Ot Serra Bas, Jordi Farrés",
+        "sinopsis": "Una corredora de élite se ve obligada a apartarse de la alta competición después de sufrir un brote psicótico.",
+        "año": "2026"
+    },
+    {
+        "título": "Love Me Tender",
+        "cartel": "imagenes_peliculas/tmdb_love_me_tender.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-03",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91068&eventCode=105519"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Anna Cazenave Cambet",
+        "duración": "134 min",
+        "actores": "Vicky Krieps, Antoine Reinartz, Monia Chokri, Viggo Ferreira Redier, Aurélia Petit",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Un mundo frágil y maravilloso",
+        "cartel": "imagenes_peliculas/tmdb_un_mundo_fragil_y_maravilloso.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-03",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91057&eventCode=105183"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Cyril Aris",
+        "duración": "110 min",
+        "actores": "Mounia Akl, Hassan Akil, Camille Salameh, Julia Kassar, Tino Karam",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La isla de Amrum",
+        "cartel": "imagenes_peliculas/tmdb_la_isla_de_amrum.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-03",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91062&eventCode=104751"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fatih Akin",
+        "duración": "93 min",
+        "actores": "Jasper Billerbeck, Diane Kruger, Kian Köppke, Laura Tonke, Hark Bohm",
+        "sinopsis": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
+        "año": "2025"
+    },
+    {
+        "título": "¿Qué te dice esa naturaleza?",
+        "cartel": "imagenes_peliculas/tmdb_que_te_dice_esa_naturaleza.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-04",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91080&eventCode=111114"
+            },
+            {
+                "fecha": "2026-06-04",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91081&eventCode=111114"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "홍상수",
+        "duración": "109 min",
+        "actores": "하성국, 권해효, 조윤희, 강소이, 박미소",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Corredora",
+        "cartel": "imagenes_peliculas/tmdb_corredora.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-04",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91073&eventCode=110182"
+            },
+            {
+                "fecha": "2026-06-04",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91075&eventCode=110182"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura García Alonso",
+        "duración": "96 min",
+        "actores": "Alba Sáez, Marina Salas, Àlex Brendemühl, Ot Serra Bas, Jordi Farrés",
+        "sinopsis": "Una corredora de élite se ve obligada a apartarse de la alta competición después de sufrir un brote psicótico.",
+        "año": "2026"
+    },
+    {
+        "título": "Love Me Tender",
+        "cartel": "imagenes_peliculas/tmdb_love_me_tender.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-04",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91083&eventCode=105519"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Anna Cazenave Cambet",
+        "duración": "134 min",
+        "actores": "Vicky Krieps, Antoine Reinartz, Monia Chokri, Viggo Ferreira Redier, Aurélia Petit",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Un mundo frágil y maravilloso",
+        "cartel": "imagenes_peliculas/tmdb_un_mundo_fragil_y_maravilloso.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-04",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91072&eventCode=105183"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Cyril Aris",
+        "duración": "110 min",
+        "actores": "Mounia Akl, Hassan Akil, Camille Salameh, Julia Kassar, Tino Karam",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La isla de Amrum",
+        "cartel": "imagenes_peliculas/tmdb_la_isla_de_amrum.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-04",
+                "hora": "18:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91077&eventCode=104751"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Fatih Akin",
+        "duración": "93 min",
+        "actores": "Jasper Billerbeck, Diane Kruger, Kian Köppke, Laura Tonke, Hark Bohm",
+        "sinopsis": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
+        "año": "2025"
+    },
+    {
         "título": "El señor de los anillos: Las dos torres (versión extendida)",
-        "cartel": "imagenes_peliculas/1777964419.jpg",
+        "cartel": "imagenes_peliculas/tmdb_el_senor_de_los_anillos_las_dos_torres_version_extendida.jpg",
         "horarios": [
             {
                 "fecha": "2026-05-27",
                 "hora": "19:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=223907&eventCode=110843"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem La Morea",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
+        "director": "Peter Jackson",
+        "duración": "180 min",
+        "actores": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Andy Serkis",
+        "sinopsis": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
+        "año": "2002"
     },
     {
         "título": "Star Wars: The Mandalorian and Grogu",
@@ -806,7 +1281,7 @@
     },
     {
         "título": "El señor de los anillos: Las dos torres (versión extendida)",
-        "cartel": "imagenes_peliculas/1777964419.jpg",
+        "cartel": "imagenes_peliculas/tmdb_el_senor_de_los_anillos_las_dos_torres_version_extendida.jpg",
         "horarios": [
             {
                 "fecha": "2026-05-28",
@@ -815,11 +1290,11 @@
             }
         ],
         "cine": "Golem La Morea",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
+        "director": "Peter Jackson",
+        "duración": "180 min",
+        "actores": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Andy Serkis",
+        "sinopsis": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
+        "año": "2002"
     },
     {
         "título": "Star Wars: The Mandalorian and Grogu",
@@ -840,7 +1315,7 @@
     },
     {
         "título": "El señor de los anillos: El Retorno del Rey (versión extendida)",
-        "cartel": "imagenes_peliculas/1777964189.jpg",
+        "cartel": "imagenes_peliculas/tmdb_el_senor_de_los_anillos_el_retorno_del_rey_version_extendida.jpg",
         "horarios": [
             {
                 "fecha": "2026-06-01",
@@ -849,15 +1324,15 @@
             }
         ],
         "cine": "Golem La Morea",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
+        "director": "Peter Jackson",
+        "duración": "202 min",
+        "actores": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Andy Serkis",
+        "sinopsis": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
+        "año": "2003"
     },
     {
         "título": "El señor de los anillos: El Retorno del Rey (versión extendida)",
-        "cartel": "imagenes_peliculas/1777964189.jpg",
+        "cartel": "imagenes_peliculas/tmdb_el_senor_de_los_anillos_el_retorno_del_rey_version_extendida.jpg",
         "horarios": [
             {
                 "fecha": "2026-06-02",
@@ -866,15 +1341,15 @@
             }
         ],
         "cine": "Golem La Morea",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
+        "director": "Peter Jackson",
+        "duración": "202 min",
+        "actores": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Andy Serkis",
+        "sinopsis": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
+        "año": "2003"
     },
     {
         "título": "El señor de los anillos: El Retorno del Rey (versión extendida)",
-        "cartel": "imagenes_peliculas/1777964189.jpg",
+        "cartel": "imagenes_peliculas/tmdb_el_senor_de_los_anillos_el_retorno_del_rey_version_extendida.jpg",
         "horarios": [
             {
                 "fecha": "2026-06-03",
@@ -883,11 +1358,11 @@
             }
         ],
         "cine": "Golem La Morea",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
+        "director": "Peter Jackson",
+        "duración": "202 min",
+        "actores": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Andy Serkis",
+        "sinopsis": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
+        "año": "2003"
     },
     {
         "título": "The Amazing Digital Circus: The Last Act",
@@ -913,7 +1388,7 @@
     },
     {
         "título": "El señor de los anillos: El Retorno del Rey (versión extendida)",
-        "cartel": "imagenes_peliculas/1777964189.jpg",
+        "cartel": "imagenes_peliculas/tmdb_el_senor_de_los_anillos_el_retorno_del_rey_version_extendida.jpg",
         "horarios": [
             {
                 "fecha": "2026-06-04",
@@ -922,11 +1397,11 @@
             }
         ],
         "cine": "Golem La Morea",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
+        "director": "Peter Jackson",
+        "duración": "202 min",
+        "actores": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Andy Serkis",
+        "sinopsis": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
+        "año": "2003"
     },
     {
         "título": "The Amazing Digital Circus: The Last Act",
