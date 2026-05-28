@@ -1,27 +1,5 @@
 [
     {
-        "título": "The Mandalorian and Grogu",
-        "cartel": "imagenes_filmaffinity/tmdb_the-mandalorian-and-grogu.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-05-28",
-                "hora": "20:10",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=28696"
-            },
-            {
-                "fecha": "2026-06-02",
-                "hora": "19:40",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=29949"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Jon Favreau",
-        "duración": "132 min",
-        "actores": "Pedro Pascal, Jeremy Allen White, Sigourney Weaver, Brendan Wayne, Lateef Crowder",
-        "sinopsis": "Continuación de la serie \"The Mandalorian\" en forma de película. El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
-        "año": "2026"
-    },
-    {
         "título": "El drama",
         "cartel": "imagenes_filmaffinity/tmdb_el-drama.jpg",
         "horarios": [
@@ -36,6 +14,23 @@
         "duración": "105 min",
         "actores": "Zendaya, Robert Pattinson, Mamoudou Athie, Alana Haim, Jordyn Curet",
         "sinopsis": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+        "año": "2026"
+    },
+    {
+        "título": "The Mandalorian and Grogu",
+        "cartel": "imagenes_filmaffinity/tmdb_the-mandalorian-and-grogu.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-02",
+                "hora": "19:40",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=29949"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Jon Favreau",
+        "duración": "132 min",
+        "actores": "Pedro Pascal, Jeremy Allen White, Sigourney Weaver, Brendan Wayne, Lateef Crowder",
+        "sinopsis": "Continuación de la serie \"The Mandalorian\" en forma de película. El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
         "año": "2026"
     },
     {
