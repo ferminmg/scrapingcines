@@ -1133,7 +1133,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 22.044,
+    "popularidad": 25.8503,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1225,7 +1225,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:00"
+    "última_actualización": "2026-05-29 22:30:52"
   },
   {
     "id": 1451884,
@@ -1330,7 +1330,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:06"
+    "última_actualización": "2026-05-29 22:30:59"
   },
   {
     "id": 1083381,
@@ -1340,7 +1340,7 @@
     "sinopsis": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
     "poster_path": "/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
     "poster_local": "imagenes_estrenos/Backrooms_u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-    "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+    "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
     "backdrop_local": "imagenes_estrenos/Backrooms_backdrop_mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
     "fecha_estreno": "2026-06-05T00:00:00.000Z",
     "duración": "105 min",
@@ -1353,22 +1353,16 @@
     ],
     "actores": [
       {
-        "name": "Renate Reinsve",
-        "id": 1576786,
-        "character": "Mary",
-        "profile_path": "/3UZ5yHxW4MQFIeGslfuRH196Rsr.jpg"
-      },
-      {
         "name": "Chiwetel Ejiofor",
         "id": 5294,
         "character": "Clark",
         "profile_path": "/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
       },
       {
-        "name": "Mark Duplass",
-        "id": 45407,
-        "character": "Phil",
-        "profile_path": "/lRDf99rAfcdqt8Cqk4LsIT7XSD2.jpg"
+        "name": "Renate Reinsve",
+        "id": 1576786,
+        "character": "Mary",
+        "profile_path": "/3UZ5yHxW4MQFIeGslfuRH196Rsr.jpg"
       },
       {
         "name": "Finn Bennett",
@@ -1380,7 +1374,13 @@
         "name": "Lukita Maxwell",
         "id": 1709431,
         "character": "Kat",
-        "profile_path": "/g5g6XxUAtSdPfsJrSoFkl7vH51d.jpg"
+        "profile_path": "/eOTdpB6HvXJfH1yDuzFJ6DvOgOQ.jpg"
+      },
+      {
+        "name": "Mark Duplass",
+        "id": 45407,
+        "character": "Phil",
+        "profile_path": "/lRDf99rAfcdqt8Cqk4LsIT7XSD2.jpg"
       }
     ],
     "géneros": [
@@ -1397,9 +1397,9 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 90.5218,
-    "puntuación": 6.333,
-    "votos": 36,
+    "popularidad": 132.9603,
+    "puntuación": 6.633,
+    "votos": 60,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1407,12 +1407,32 @@
       "backdrops": [
         {
           "aspect_ratio": 1.778,
+          "height": 2073,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+          "vote_average": 8.362,
+          "vote_count": 6,
+          "width": 3686
+        },
+        {
+          "aspect_ratio": 1.778,
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-          "vote_average": 8.77,
-          "vote_count": 9,
+          "vote_average": 6.346,
+          "vote_count": 13,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
           "width": 3840
         },
         {
@@ -1421,39 +1441,19 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/hhBqc8n9WaGizwMglvGZcDKzguK.jpg",
-          "vote_average": 3.954,
-          "vote_count": 11,
+          "vote_average": 3.214,
+          "vote_count": 14,
           "width": 1895
         },
         {
-          "aspect_ratio": 1.778,
-          "height": 2160,
+          "aspect_ratio": 1.777,
+          "height": 1083,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/w6vfW4D37qhNTsE0JFlZepujd4J.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/yonm1fCDWyDD4HDWGAzK8EWnolM.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/j7aYgxsttW7QA7CPICWZlLP9r8c.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
+          "file_path": "/ckgd8xG6PnuMSbNg3sfY7QRzN9f.jpg",
+          "vote_average": 2.542,
+          "vote_count": 4,
+          "width": 1925
         }
       ],
       "posters": [
@@ -1499,7 +1499,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:31:58"
+    "última_actualización": "2026-05-29 22:30:51"
   },
   {
     "id": 454639,
@@ -1509,7 +1509,7 @@
     "sinopsis": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
     "poster_path": "/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
     "poster_local": "imagenes_estrenos/He_Man_y_los_masters_del_universo_nm2ianYVp7OXElUZVeeAbNTqBLr.jpg",
-    "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+    "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
     "backdrop_local": "imagenes_estrenos/He_Man_y_los_masters_del_universo_backdrop_bK1TTmowTrHXq4SGu5FzqQJh0ip.jpg",
     "fecha_estreno": "2026-06-05T00:00:00.000Z",
     "duración": "141 min",
@@ -1566,24 +1566,14 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 37.1087,
-    "puntuación": 8.7,
-    "votos": 3,
+    "popularidad": 36.7647,
+    "puntuación": 9.0,
+    "votos": 4,
     "adulto": false,
     "video": false,
     "año": "2026",
     "imágenes": {
       "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
         {
           "aspect_ratio": 1.778,
           "height": 1620,
@@ -1623,6 +1613,16 @@
           "vote_average": 1.75,
           "vote_count": 2,
           "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/g6CcV1i0jGI5MIZkxoW81qui1vc.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
         }
       ],
       "posters": [
@@ -1641,7 +1641,7 @@
           "height": 3000,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/k66oHcl0nmibcLUdVGSCr2D8sni.jpg",
+          "file_path": "/cJUUrY0xjX38xHTFd2zOLEcJirY.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 2000
@@ -1678,7 +1678,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:31:59"
+    "última_actualización": "2026-05-29 22:30:52"
   },
   {
     "id": 1177767,
@@ -1749,7 +1749,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 5.9263,
+    "popularidad": 5.6863,
     "puntuación": 5.3,
     "votos": 12,
     "adulto": false,
@@ -1831,7 +1831,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:00"
+    "última_actualización": "2026-05-29 22:30:53"
   },
   {
     "id": 1211442,
@@ -1890,7 +1890,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.0367,
+    "popularidad": 2.1977,
     "puntuación": 6.66,
     "votos": 50,
     "adulto": false,
@@ -2002,7 +2002,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:01"
+    "última_actualización": "2026-05-29 22:30:53"
   },
   {
     "id": 1497463,
@@ -2065,7 +2065,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 1.8351,
+    "popularidad": 2.0514,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2096,7 +2096,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:01"
+    "última_actualización": "2026-05-29 22:30:53"
   },
   {
     "id": 1446912,
@@ -2155,7 +2155,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.4192,
+    "popularidad": 0.4293,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2217,7 +2217,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:03"
+    "última_actualización": "2026-05-29 22:30:55"
   },
   {
     "id": 1513026,
@@ -2270,7 +2270,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.1418,
+    "popularidad": 0.1115,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2312,7 +2312,176 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:05"
+    "última_actualización": "2026-05-29 22:30:57"
+  },
+  {
+    "id": 1685736,
+    "tmdb_id": 1685736,
+    "título": "Für Elise",
+    "título_original": "Für Elise",
+    "sinopsis": "",
+    "poster_path": "/yyoRfcUFOA5KCFcYPaQoiJytRqN.jpg",
+    "poster_local": "imagenes_estrenos/F_r_Elise_yyoRfcUFOA5KCFcYPaQoiJytRqN.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-06-05T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Oliver Schwarz",
+    "directores": [
+      {
+        "name": "Oliver Schwarz",
+        "id": 3708179
+      }
+    ],
+    "actores": [
+      {
+        "name": "Friederike Serr",
+        "id": 1820587,
+        "character": "Witwe / Mutter",
+        "profile_path": null
+      },
+      {
+        "name": "Aurelia Hönig",
+        "id": 6180448,
+        "character": "Kleines Mädchen",
+        "profile_path": null
+      },
+      {
+        "name": "Mario Kremp-Parschau",
+        "id": 6180449,
+        "character": "Geisterfrau",
+        "profile_path": null
+      },
+      {
+        "name": "Anjo Czernich",
+        "id": 6180450,
+        "character": "Sprecher",
+        "profile_path": null
+      },
+      {
+        "name": "Christoph Skottki",
+        "id": 6180452,
+        "character": "Vater",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 0.0913,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.706,
+          "height": 2048,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/yyoRfcUFOA5KCFcYPaQoiJytRqN.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1446
+        }
+      ]
+    },
+    "última_actualización": "2026-05-29 22:30:57"
+  },
+  {
+    "id": 1573100,
+    "tmdb_id": 1573100,
+    "título": "Este cuerpo mío",
+    "título_original": "Este cuerpo mío",
+    "sinopsis": "Unidos por una amistad inquebrantable, Rafael y Carolina se lanzan a un viaje emocional y geográfico en busca de reconciliación y aceptación. A lo largo del camino, acompañamos a Rafael en los primeros años de su transición de género: un proceso íntimo, lleno de retos, descubrimientos y pequeñas victorias que lo acercan a ese metro cuadrado de paz que tanto ansía. Una historia luminosa donde la amistad se convierte en refugio y lo personal se expande hasta volverse universal. Entre paisajes remotos y momentos de vulnerabilidad compartida, la película desvela la belleza —y también la dureza— de habitar un cuerpo en transformación en un mundo que apenas comienza a aprender a mirar.",
+    "poster_path": "/f5mGhfwKMf7uD7Ut2Apr9PFVG2U.jpg",
+    "poster_local": "imagenes_estrenos/Este_cuerpo_m_o_f5mGhfwKMf7uD7Ut2Apr9PFVG2U.jpg",
+    "backdrop_path": "/xruZgHfhQNXwPiIKF4iWR5ZbUag.jpg",
+    "backdrop_local": "imagenes_estrenos/Este_cuerpo_m_o_backdrop_xruZgHfhQNXwPiIKF4iWR5ZbUag.jpg",
+    "fecha_estreno": "2026-06-05T00:00:00.000Z",
+    "duración": "86 min",
+    "director": "Afioco Gnecco, Carolina Yuste",
+    "directores": [
+      {
+        "name": "Afioco Gnecco",
+        "id": 1708254
+      },
+      {
+        "name": "Carolina Yuste",
+        "id": 2025663
+      }
+    ],
+    "actores": [
+      {
+        "name": "Afioco Gnecco",
+        "id": 1708254,
+        "character": "",
+        "profile_path": "/oiufBSTPWlavmKE50pL0WnIZKca.jpg"
+      },
+      {
+        "name": "Carolina Yuste",
+        "id": 2025663,
+        "character": "",
+        "profile_path": "/WbPX1SzFmAEaF4ioMEwgumvqzW.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0579,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xruZgHfhQNXwPiIKF4iWR5ZbUag.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.701,
+          "height": 900,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/f5mGhfwKMf7uD7Ut2Apr9PFVG2U.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 631
+        }
+      ]
+    },
+    "última_actualización": "2026-05-29 22:30:58"
   },
   {
     "id": 1690880,
@@ -2371,7 +2540,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.0495,
+    "popularidad": 0.0387,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2392,84 +2561,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:06"
-  },
-  {
-    "id": 1573100,
-    "tmdb_id": 1573100,
-    "título": "Este cuerpo mío",
-    "título_original": "Este cuerpo mío",
-    "sinopsis": "Unidos por una amistad inquebrantable, Rafael y Carolina se lanzan a un viaje emocional y geográfico en busca de reconciliación y aceptación. A lo largo del camino, acompañamos a Rafael en los primeros años de su transición de género: un proceso íntimo, lleno de retos, descubrimientos y pequeñas victorias que lo acercan a ese metro cuadrado de paz que tanto ansía. Una historia luminosa donde la amistad se convierte en refugio y lo personal se expande hasta volverse universal. Entre paisajes remotos y momentos de vulnerabilidad compartida, la película desvela la belleza —y también la dureza— de habitar un cuerpo en transformación en un mundo que apenas comienza a aprender a mirar.",
-    "poster_path": "/f5mGhfwKMf7uD7Ut2Apr9PFVG2U.jpg",
-    "poster_local": "imagenes_estrenos/Este_cuerpo_m_o_f5mGhfwKMf7uD7Ut2Apr9PFVG2U.jpg",
-    "backdrop_path": "/xruZgHfhQNXwPiIKF4iWR5ZbUag.jpg",
-    "backdrop_local": "imagenes_estrenos/Este_cuerpo_m_o_backdrop_xruZgHfhQNXwPiIKF4iWR5ZbUag.jpg",
-    "fecha_estreno": "2026-06-05T00:00:00.000Z",
-    "duración": "86 min",
-    "director": "Afioco Gnecco, Carolina Yuste",
-    "directores": [
-      {
-        "name": "Afioco Gnecco",
-        "id": 1708254
-      },
-      {
-        "name": "Carolina Yuste",
-        "id": 2025663
-      }
-    ],
-    "actores": [
-      {
-        "name": "Afioco Gnecco",
-        "id": 1708254,
-        "character": "",
-        "profile_path": "/oiufBSTPWlavmKE50pL0WnIZKca.jpg"
-      },
-      {
-        "name": "Carolina Yuste",
-        "id": 2025663,
-        "character": "",
-        "profile_path": "/WbPX1SzFmAEaF4ioMEwgumvqzW.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.0409,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xruZgHfhQNXwPiIKF4iWR5ZbUag.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.701,
-          "height": 900,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/f5mGhfwKMf7uD7Ut2Apr9PFVG2U.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 631
-        }
-      ]
-    },
-    "última_actualización": "2026-05-28 22:32:06"
+    "última_actualización": "2026-05-29 22:30:58"
   },
   {
     "id": 1275779,
@@ -2536,7 +2628,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 30.6408,
+    "popularidad": 47.6357,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2550,29 +2642,19 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/5p6BsJtnPbglYN15MuiUEppPl0f.jpg",
-          "vote_average": 3.954,
-          "vote_count": 11,
+          "vote_average": 3.666,
+          "vote_count": 12,
           "width": 3840
         },
         {
-          "aspect_ratio": 1.778,
-          "height": 1080,
+          "aspect_ratio": 1.777,
+          "height": 1339,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/dsojJefzQsgxeu4njChWMP8bawt.jpg",
+          "file_path": "/gVczdWWAkBCuwEV1v9cg7ELfdhT.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/giqQLOaP0o1At92MZFMATe7up0g.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
+          "width": 2380
         },
         {
           "aspect_ratio": 1.778,
@@ -2581,7 +2663,7 @@
           "iso_639_1": null,
           "file_path": "/zTv9MPKasCm7jBSR3NoMAbtC4Oc.jpg",
           "vote_average": 3.334,
-          "vote_count": 1,
+          "vote_count": 2,
           "width": 1920
         },
         {
@@ -2593,6 +2675,16 @@
           "vote_average": 2.542,
           "vote_count": 4,
           "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/O2ioY0wpltYjcevoP90MCEhGVO.jpg",
+          "vote_average": 1.75,
+          "vote_count": 6,
+          "width": 3840
         }
       ],
       "posters": [
@@ -2601,7 +2693,7 @@
           "height": 3000,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/EvoaSiQmCpuAqxb1ZGOYPzzjFe.jpg",
+          "file_path": "/ltwfCfSjIfwekD9TNDL2cN8RTwZ.jpg",
           "vote_average": 3.334,
           "vote_count": 2,
           "width": 2000
@@ -2611,9 +2703,9 @@
           "height": 3000,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/ltwfCfSjIfwekD9TNDL2cN8RTwZ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
+          "file_path": "/701aTHRSfEm2IHchyMXoZt4T1yV.jpg",
+          "vote_average": 2.278,
+          "vote_count": 2,
           "width": 2000
         },
         {
@@ -2621,7 +2713,7 @@
           "height": 3000,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/701aTHRSfEm2IHchyMXoZt4T1yV.jpg",
+          "file_path": "/EvoaSiQmCpuAqxb1ZGOYPzzjFe.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
           "width": 2000
@@ -2648,7 +2740,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:00"
+    "última_actualización": "2026-05-29 22:30:51"
   },
   {
     "id": 1340206,
@@ -2711,9 +2803,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 14.4275,
-    "puntuación": 6.5,
-    "votos": 12,
+    "popularidad": 15.3314,
+    "puntuación": 6.8,
+    "votos": 18,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2783,7 +2875,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:00"
+    "última_actualización": "2026-05-29 22:30:52"
   },
   {
     "id": 1189423,
@@ -2846,7 +2938,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 1.6598,
+    "popularidad": 1.5023,
     "puntuación": 6.536,
     "votos": 28,
     "adulto": false,
@@ -2928,7 +3020,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:01"
+    "última_actualización": "2026-05-29 22:30:53"
   },
   {
     "id": 1471537,
@@ -2991,7 +3083,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.5606,
+    "popularidad": 1.4693,
     "puntuación": 6.0,
     "votos": 2,
     "adulto": false,
@@ -3073,7 +3165,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:01"
+    "última_actualización": "2026-05-29 22:30:54"
   },
   {
     "id": 714675,
@@ -3132,7 +3224,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.3101,
+    "popularidad": 1.3347,
     "puntuación": 6.775,
     "votos": 89,
     "adulto": false,
@@ -3244,7 +3336,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:02"
+    "última_actualización": "2026-05-29 22:30:54"
   },
   {
     "id": 1291202,
@@ -3307,7 +3399,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 0.8895,
+    "popularidad": 0.7401,
     "puntuación": 6.8,
     "votos": 39,
     "adulto": false,
@@ -3379,7 +3471,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:02"
+    "última_actualización": "2026-05-29 22:30:54"
   },
   {
     "id": 1444595,
@@ -3438,7 +3530,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.6435,
+    "popularidad": 0.7295,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3490,7 +3582,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:02"
+    "última_actualización": "2026-05-29 22:30:55"
   },
   {
     "id": 1514847,
@@ -3553,7 +3645,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 0.4619,
+    "popularidad": 0.2822,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3615,76 +3707,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:03"
-  },
-  {
-    "id": 1509717,
-    "tmdb_id": 1509717,
-    "título": "Todos los colores",
-    "título_original": "Todos los colores",
-    "sinopsis": "Belén, de 17 años, es la líder indiscutible de su grupo de amigas. Con un carácter arrollador, y su silla de ruedas, siempre consigue salirse con la suya. Pero con el fin del bachillerato a la vuelta de la esquina, todo empieza a cambiar. Sus amigas tienen la mirada puesta en el futuro y Belén teme quedarse atrás. Belén se sumerge en un momento vital de descubrimiento, de vínculos que se transforman, de deseos que despiertan y de emociones que se mezclan como si fuera una paleta con todos los colores a la vez.",
-    "poster_path": "/rJOO11ukBn5cBl84gXZ9n3i0VDh.jpg",
-    "poster_local": "imagenes_estrenos/Todos_los_colores_rJOO11ukBn5cBl84gXZ9n3i0VDh.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-06-12T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Beatriz de Silva",
-    "directores": [
-      {
-        "name": "Beatriz de Silva",
-        "id": 3667498
-      }
-    ],
-    "actores": [
-      {
-        "name": "Mafalda Carbonell",
-        "id": 2354330,
-        "character": "Belén",
-        "profile_path": null
-      },
-      {
-        "name": "Silvia Abril",
-        "id": 231486,
-        "character": "",
-        "profile_path": "/8Pd4oN6jagHpLjbNnYSy8wlV2i7.jpg"
-      },
-      {
-        "name": "Claudia Mora",
-        "id": 3705593,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Amalia Martos Olivares",
-        "id": 4969910,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Carlota Jiménez",
-        "id": 5549484,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 0.1547,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2026-05-28 22:32:05"
+    "última_actualización": "2026-05-29 22:30:56"
   },
   {
     "id": 1513268,
@@ -3751,7 +3774,7 @@
         "name": "Aventura"
       }
     ],
-    "popularidad": 0.1372,
+    "popularidad": 0.2435,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3761,7 +3784,76 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-05-28 22:32:05"
+    "última_actualización": "2026-05-29 22:30:56"
+  },
+  {
+    "id": 1509717,
+    "tmdb_id": 1509717,
+    "título": "Todos los colores",
+    "título_original": "Todos los colores",
+    "sinopsis": "Belén, de 17 años, es la líder indiscutible de su grupo de amigas. Con un carácter arrollador, y su silla de ruedas, siempre consigue salirse con la suya. Pero con el fin del bachillerato a la vuelta de la esquina, todo empieza a cambiar. Sus amigas tienen la mirada puesta en el futuro y Belén teme quedarse atrás. Belén se sumerge en un momento vital de descubrimiento, de vínculos que se transforman, de deseos que despiertan y de emociones que se mezclan como si fuera una paleta con todos los colores a la vez.",
+    "poster_path": "/rJOO11ukBn5cBl84gXZ9n3i0VDh.jpg",
+    "poster_local": "imagenes_estrenos/Todos_los_colores_rJOO11ukBn5cBl84gXZ9n3i0VDh.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-06-12T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Beatriz de Silva",
+    "directores": [
+      {
+        "name": "Beatriz de Silva",
+        "id": 3667498
+      }
+    ],
+    "actores": [
+      {
+        "name": "Mafalda Carbonell",
+        "id": 2354330,
+        "character": "Belén",
+        "profile_path": null
+      },
+      {
+        "name": "Silvia Abril",
+        "id": 231486,
+        "character": "",
+        "profile_path": "/8Pd4oN6jagHpLjbNnYSy8wlV2i7.jpg"
+      },
+      {
+        "name": "Claudia Mora",
+        "id": 3705593,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Amalia Martos Olivares",
+        "id": 4969910,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Carlota Jiménez",
+        "id": 5549484,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 0.1107,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-05-29 22:30:57"
   },
   {
     "id": 1418601,
@@ -3789,7 +3881,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.0441,
+    "popularidad": 0.0701,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3841,7 +3933,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:06"
+    "última_actualización": "2026-05-29 22:30:58"
   },
   {
     "id": 1699186,
@@ -3921,7 +4013,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:05"
+    "última_actualización": "2026-05-29 22:30:58"
   },
   {
     "id": 1084244,
@@ -3992,7 +4084,7 @@
         "name": "Aventura"
       }
     ],
-    "popularidad": 41.1859,
+    "popularidad": 38.9285,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4017,7 +4109,7 @@
           "iso_639_1": null,
           "file_path": "/lAHsO8hwVHO1SBnV6ki418I1SZ9.jpg",
           "vote_average": 3.334,
-          "vote_count": 1,
+          "vote_count": 2,
           "width": 1833
         },
         {
@@ -4104,7 +4196,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:31:59"
+    "última_actualización": "2026-05-29 22:30:52"
   },
   {
     "id": 1119537,
@@ -4167,7 +4259,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 1.349,
+    "popularidad": 1.2782,
     "puntuación": 7.6,
     "votos": 36,
     "adulto": false,
@@ -4239,74 +4331,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:02"
-  },
-  {
-    "id": 1634018,
-    "tmdb_id": 1634018,
-    "título": "La vida es Verdi",
-    "título_original": "La vida és Verdi",
-    "sinopsis": "",
-    "poster_path": "/s8ysDDcSCU4idgj4UpxG8Mde8Wk.jpg",
-    "poster_local": "imagenes_estrenos/La_vida_es_Verdi_s8ysDDcSCU4idgj4UpxG8Mde8Wk.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-06-19T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Berta García-Lacht",
-    "directores": [
-      {
-        "name": "Berta García-Lacht",
-        "id": 2707814
-      }
-    ],
-    "actores": [
-      {
-        "name": "Isabel Coixet",
-        "id": 90,
-        "character": "",
-        "profile_path": "/s2Hspn17nOf6LIuVrULvV3OOiX0.jpg"
-      },
-      {
-        "name": "Albert Serra",
-        "id": 932161,
-        "character": "",
-        "profile_path": "/2EmR82s7VGYuY642vUv1kZLzmqL.jpg"
-      },
-      {
-        "name": "J. A. Bayona",
-        "id": 51894,
-        "character": "",
-        "profile_path": "/cnbbnS7K8Uu6yohAfSRHv5Kxc7r.jpg"
-      },
-      {
-        "name": "Richard Gere",
-        "id": 1205,
-        "character": "",
-        "profile_path": "/i7wcBNmFldh2E4QInCvmv7CPSIR.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 0.6046,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2026-05-28 22:32:03"
+    "última_actualización": "2026-05-29 22:30:54"
   },
   {
     "id": 1275788,
@@ -4369,7 +4394,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 0.4612,
+    "popularidad": 0.5638,
     "puntuación": 6.2,
     "votos": 6,
     "adulto": false,
@@ -4431,7 +4456,74 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:03"
+    "última_actualización": "2026-05-29 22:30:55"
+  },
+  {
+    "id": 1634018,
+    "tmdb_id": 1634018,
+    "título": "La vida es Verdi",
+    "título_original": "La vida és Verdi",
+    "sinopsis": "",
+    "poster_path": "/s8ysDDcSCU4idgj4UpxG8Mde8Wk.jpg",
+    "poster_local": "imagenes_estrenos/La_vida_es_Verdi_s8ysDDcSCU4idgj4UpxG8Mde8Wk.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-06-19T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Berta García-Lacht",
+    "directores": [
+      {
+        "name": "Berta García-Lacht",
+        "id": 2707814
+      }
+    ],
+    "actores": [
+      {
+        "name": "Isabel Coixet",
+        "id": 90,
+        "character": "",
+        "profile_path": "/s2Hspn17nOf6LIuVrULvV3OOiX0.jpg"
+      },
+      {
+        "name": "Albert Serra",
+        "id": 932161,
+        "character": "",
+        "profile_path": "/2EmR82s7VGYuY642vUv1kZLzmqL.jpg"
+      },
+      {
+        "name": "J. A. Bayona",
+        "id": 51894,
+        "character": "",
+        "profile_path": "/cnbbnS7K8Uu6yohAfSRHv5Kxc7r.jpg"
+      },
+      {
+        "name": "Richard Gere",
+        "id": 1205,
+        "character": "",
+        "profile_path": "/i7wcBNmFldh2E4QInCvmv7CPSIR.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 0.5565,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-05-29 22:30:55"
   },
   {
     "id": 1421148,
@@ -4494,7 +4586,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 0.3913,
+    "popularidad": 0.3829,
     "puntuación": 5.857,
     "votos": 7,
     "adulto": false,
@@ -4586,7 +4678,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:04"
+    "última_actualización": "2026-05-29 22:30:56"
   },
   {
     "id": 1474225,
@@ -4653,7 +4745,7 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 0.3532,
+    "popularidad": 0.2267,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4695,7 +4787,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:04"
+    "última_actualización": "2026-05-29 22:30:56"
   },
   {
     "id": 1025393,
@@ -4758,7 +4850,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 0.1799,
+    "popularidad": 0.1428,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4790,7 +4882,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:04"
+    "última_actualización": "2026-05-29 22:30:57"
   },
   {
     "id": 1624329,
@@ -4913,6 +5005,6 @@
         }
       ]
     },
-    "última_actualización": "2026-05-28 22:32:07"
+    "última_actualización": "2026-05-29 22:30:59"
   }
 ]
