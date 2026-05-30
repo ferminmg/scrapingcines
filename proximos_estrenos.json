@@ -51,6 +51,75 @@
     "última_actualización": "2026-05-26 22:28:15"
   },
   {
+    "id": 1704987,
+    "tmdb_id": 1704987,
+    "título": "ARE YOU TELLING ME THAT YOU KNOW WHAT TO DO BECAUSE YOU GET NOTES FROM THE FUTURE TELLING YOU SO?",
+    "título_original": "¿ME ESTÁS DICIENDO QUE SABES LO QUE TIENES QUE HACER PORQUE RECIBES NOTAS DEL FUTURO QUE TE LO DICEN?",
+    "sinopsis": "Tras encontrar una nota en su taquilla, un estudiante descubre que está recibiendo mensajes de su yo del futuro. A medida que las instrucciones se vuelven cada vez más específicas, comienza a seguir el camino que parece tener reservado para él.",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-06-03",
+    "duración": "0 min",
+    "director": "Mario Benito",
+    "directores": [
+      {
+        "name": "Mario Benito",
+        "id": 5998494
+      }
+    ],
+    "actores": [
+      {
+        "name": "Mario Benito",
+        "id": 5998494,
+        "character": "Protagonista",
+        "profile_path": null
+      },
+      {
+        "name": "Juan Carlos Carro",
+        "id": 6251662,
+        "character": "Amigo",
+        "profile_path": null
+      },
+      {
+        "name": "Carolina Franco",
+        "id": 6251663,
+        "character": "Ella",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "popularidad": 0.0,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-05-30 22:19:19"
+  },
+  {
     "id": 1273221,
     "tmdb_id": 1273221,
     "título": "Scary Movie",
@@ -112,8 +181,8 @@
       }
     ],
     "popularidad": 30.0748,
-    "puntuación": 0.0,
-    "votos": 0,
+    "puntuación": 10.0,
+    "votos": 1,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -203,7 +272,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:12"
+    "última_actualización": "2026-05-30 22:19:15"
   },
   {
     "id": 1451884,
@@ -308,7 +377,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:15"
+    "última_actualización": "2026-05-30 22:19:18"
   },
   {
     "id": 1083381,
@@ -340,7 +409,7 @@
         "name": "Renate Reinsve",
         "id": 1576786,
         "character": "Mary Kline",
-        "profile_path": "/qsNKmSR9s5wHvKVYDiQej8C3Gnx.jpg"
+        "profile_path": "/cOb1N2A4YL14cEZn9pDrfhJTaBi.jpg"
       },
       {
         "name": "Mark Duplass",
@@ -376,8 +445,8 @@
       }
     ],
     "popularidad": 187.0112,
-    "puntuación": 6.6,
-    "votos": 86,
+    "puntuación": 6.591,
+    "votos": 99,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -389,8 +458,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
-          "vote_average": 7.19,
-          "vote_count": 7,
+          "vote_average": 6.312,
+          "vote_count": 8,
           "width": 3686
         },
         {
@@ -399,8 +468,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-          "vote_average": 5.928,
-          "vote_count": 14,
+          "vote_average": 6.2,
+          "vote_count": 15,
           "width": 3840
         },
         {
@@ -415,16 +484,6 @@
         },
         {
           "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
           "height": 1066,
           "iso_3166_1": null,
           "iso_639_1": null,
@@ -432,6 +491,16 @@
           "vote_average": 3.214,
           "vote_count": 14,
           "width": 1895
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1083,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ckgd8xG6PnuMSbNg3sfY7QRzN9f.jpg",
+          "vote_average": 2.542,
+          "vote_count": 4,
+          "width": 1925
         }
       ],
       "posters": [
@@ -487,7 +556,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:11"
+    "última_actualización": "2026-05-30 22:19:14"
   },
   {
     "id": 454639,
@@ -666,7 +735,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:12"
+    "última_actualización": "2026-05-30 22:19:15"
   },
   {
     "id": 1177767,
@@ -819,7 +888,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:12"
+    "última_actualización": "2026-05-30 22:19:15"
   },
   {
     "id": 1211442,
@@ -990,7 +1059,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:12"
+    "última_actualización": "2026-05-30 22:19:15"
   },
   {
     "id": 1497463,
@@ -1084,7 +1153,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:12"
+    "última_actualización": "2026-05-30 22:19:15"
   },
   {
     "id": 1446912,
@@ -1205,7 +1274,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:13"
+    "última_actualización": "2026-05-30 22:19:17"
   },
   {
     "id": 1513026,
@@ -1300,7 +1369,84 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:14"
+    "última_actualización": "2026-05-30 22:19:17"
+  },
+  {
+    "id": 1573100,
+    "tmdb_id": 1573100,
+    "título": "Este cuerpo mío",
+    "título_original": "Este cuerpo mío",
+    "sinopsis": "Unidos por una amistad inquebrantable, Rafael y Carolina se lanzan a un viaje emocional y geográfico en busca de reconciliación y aceptación. A lo largo del camino, acompañamos a Rafael en los primeros años de su transición de género: un proceso íntimo, lleno de retos, descubrimientos y pequeñas victorias que lo acercan a ese metro cuadrado de paz que tanto ansía. Una historia luminosa donde la amistad se convierte en refugio y lo personal se expande hasta volverse universal. Entre paisajes remotos y momentos de vulnerabilidad compartida, la película desvela la belleza —y también la dureza— de habitar un cuerpo en transformación en un mundo que apenas comienza a aprender a mirar.",
+    "poster_path": "/f5mGhfwKMf7uD7Ut2Apr9PFVG2U.jpg",
+    "poster_local": "imagenes_estrenos/Este_cuerpo_m_o_f5mGhfwKMf7uD7Ut2Apr9PFVG2U.jpg",
+    "backdrop_path": "/xruZgHfhQNXwPiIKF4iWR5ZbUag.jpg",
+    "backdrop_local": "imagenes_estrenos/Este_cuerpo_m_o_backdrop_xruZgHfhQNXwPiIKF4iWR5ZbUag.jpg",
+    "fecha_estreno": "2026-06-05T00:00:00.000Z",
+    "duración": "86 min",
+    "director": "Afioco Gnecco, Carolina Yuste",
+    "directores": [
+      {
+        "name": "Afioco Gnecco",
+        "id": 1708254
+      },
+      {
+        "name": "Carolina Yuste",
+        "id": 2025663
+      }
+    ],
+    "actores": [
+      {
+        "name": "Afioco Gnecco",
+        "id": 1708254,
+        "character": "",
+        "profile_path": "/oiufBSTPWlavmKE50pL0WnIZKca.jpg"
+      },
+      {
+        "name": "Carolina Yuste",
+        "id": 2025663,
+        "character": "",
+        "profile_path": "/WbPX1SzFmAEaF4ioMEwgumvqzW.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0802,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xruZgHfhQNXwPiIKF4iWR5ZbUag.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.701,
+          "height": 900,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/f5mGhfwKMf7uD7Ut2Apr9PFVG2U.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 631
+        }
+      ]
+    },
+    "última_actualización": "2026-05-30 22:19:18"
   },
   {
     "id": 1685736,
@@ -1392,84 +1538,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:14"
-  },
-  {
-    "id": 1573100,
-    "tmdb_id": 1573100,
-    "título": "Este cuerpo mío",
-    "título_original": "Este cuerpo mío",
-    "sinopsis": "Unidos por una amistad inquebrantable, Rafael y Carolina se lanzan a un viaje emocional y geográfico en busca de reconciliación y aceptación. A lo largo del camino, acompañamos a Rafael en los primeros años de su transición de género: un proceso íntimo, lleno de retos, descubrimientos y pequeñas victorias que lo acercan a ese metro cuadrado de paz que tanto ansía. Una historia luminosa donde la amistad se convierte en refugio y lo personal se expande hasta volverse universal. Entre paisajes remotos y momentos de vulnerabilidad compartida, la película desvela la belleza —y también la dureza— de habitar un cuerpo en transformación en un mundo que apenas comienza a aprender a mirar.",
-    "poster_path": "/f5mGhfwKMf7uD7Ut2Apr9PFVG2U.jpg",
-    "poster_local": "imagenes_estrenos/Este_cuerpo_m_o_f5mGhfwKMf7uD7Ut2Apr9PFVG2U.jpg",
-    "backdrop_path": "/xruZgHfhQNXwPiIKF4iWR5ZbUag.jpg",
-    "backdrop_local": "imagenes_estrenos/Este_cuerpo_m_o_backdrop_xruZgHfhQNXwPiIKF4iWR5ZbUag.jpg",
-    "fecha_estreno": "2026-06-05T00:00:00.000Z",
-    "duración": "86 min",
-    "director": "Afioco Gnecco, Carolina Yuste",
-    "directores": [
-      {
-        "name": "Afioco Gnecco",
-        "id": 1708254
-      },
-      {
-        "name": "Carolina Yuste",
-        "id": 2025663
-      }
-    ],
-    "actores": [
-      {
-        "name": "Afioco Gnecco",
-        "id": 1708254,
-        "character": "",
-        "profile_path": "/oiufBSTPWlavmKE50pL0WnIZKca.jpg"
-      },
-      {
-        "name": "Carolina Yuste",
-        "id": 2025663,
-        "character": "",
-        "profile_path": "/WbPX1SzFmAEaF4ioMEwgumvqzW.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.0802,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xruZgHfhQNXwPiIKF4iWR5ZbUag.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.701,
-          "height": 900,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/f5mGhfwKMf7uD7Ut2Apr9PFVG2U.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 631
-        }
-      ]
-    },
-    "última_actualización": "2026-05-30 10:33:15"
+    "última_actualización": "2026-05-30 22:19:18"
   },
   {
     "id": 1690880,
@@ -1549,7 +1618,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:15"
+    "última_actualización": "2026-05-30 22:19:18"
   },
   {
     "id": 1275779,
@@ -1559,7 +1628,7 @@
     "sinopsis": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías?",
     "poster_path": "/uGww4UrU3316Mld4p30dgdM09Du.jpg",
     "poster_local": "imagenes_estrenos/El_d_a_de_la_revelaci_n_pigU63pWFuXkq2MBc865GpFG4UP.jpg",
-    "backdrop_path": "/5p6BsJtnPbglYN15MuiUEppPl0f.jpg",
+    "backdrop_path": "/gVczdWWAkBCuwEV1v9cg7ELfdhT.jpg",
     "backdrop_local": "imagenes_estrenos/El_d_a_de_la_revelaci_n_backdrop_5p6BsJtnPbglYN15MuiUEppPl0f.jpg",
     "fecha_estreno": "2026-06-12T00:00:00.000Z",
     "duración": "145 min",
@@ -1625,23 +1694,13 @@
     "imágenes": {
       "backdrops": [
         {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/5p6BsJtnPbglYN15MuiUEppPl0f.jpg",
-          "vote_average": 3.666,
-          "vote_count": 12,
-          "width": 3840
-        },
-        {
           "aspect_ratio": 1.777,
           "height": 1339,
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/gVczdWWAkBCuwEV1v9cg7ELfdhT.jpg",
           "vote_average": 3.334,
-          "vote_count": 1,
+          "vote_count": 3,
           "width": 2380
         },
         {
@@ -1651,8 +1710,18 @@
           "iso_639_1": null,
           "file_path": "/zTv9MPKasCm7jBSR3NoMAbtC4Oc.jpg",
           "vote_average": 3.334,
-          "vote_count": 2,
+          "vote_count": 3,
           "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5p6BsJtnPbglYN15MuiUEppPl0f.jpg",
+          "vote_average": 3.214,
+          "vote_count": 14,
+          "width": 3840
         },
         {
           "aspect_ratio": 1.778,
@@ -1660,8 +1729,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-          "vote_average": 2.542,
-          "vote_count": 4,
+          "vote_average": 2.066,
+          "vote_count": 5,
           "width": 1920
         },
         {
@@ -1728,7 +1797,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:11"
+    "última_actualización": "2026-05-30 22:19:14"
   },
   {
     "id": 1340206,
@@ -1792,8 +1861,8 @@
       }
     ],
     "popularidad": 17.8294,
-    "puntuación": 6.818,
-    "votos": 22,
+    "puntuación": 6.462,
+    "votos": 26,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1863,7 +1932,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:12"
+    "última_actualización": "2026-05-30 22:19:15"
   },
   {
     "id": 1189423,
@@ -2008,7 +2077,178 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:12"
+    "última_actualización": "2026-05-30 22:19:15"
+  },
+  {
+    "id": 714675,
+    "tmdb_id": 714675,
+    "título": "Joika",
+    "título_original": "The American",
+    "sinopsis": "La bailarina de ballet estadounidense Joy Womack es aceptada en la infamemente dura Academia de Ballet Bolshoi de Moscú, con el sueño de convertirse en una gran bailarina.",
+    "poster_path": "/eCi1pqhM86bvIjJHmXDQ3ExkELr.jpg",
+    "poster_local": "imagenes_estrenos/Joika_eCi1pqhM86bvIjJHmXDQ3ExkELr.jpg",
+    "backdrop_path": "/3x0e1G3kbNzd4LAa9Yw98mbeSpu.jpg",
+    "backdrop_local": "imagenes_estrenos/Joika_backdrop_3x0e1G3kbNzd4LAa9Yw98mbeSpu.jpg",
+    "fecha_estreno": "2026-06-12T00:00:00.000Z",
+    "duración": "110 min",
+    "director": "James Napier Robertson",
+    "directores": [
+      {
+        "name": "James Napier Robertson",
+        "id": 1226684
+      }
+    ],
+    "actores": [
+      {
+        "name": "Talia Ryder",
+        "id": 2475409,
+        "character": "Joy Womack",
+        "profile_path": "/dq7nhIjhIFynugVdw3SmKaSY46B.jpg"
+      },
+      {
+        "name": "Diane Kruger",
+        "id": 9824,
+        "character": "Tatiyana Volkova",
+        "profile_path": "/o5gVowcjVw4ThYi0L3883Y4X7kH.jpg"
+      },
+      {
+        "name": "Oleg Ivenko",
+        "id": 1894615,
+        "character": "Nikolay Lebedev",
+        "profile_path": "/bW88hcqxBvT5d4aNuyemtF3Qrd0.jpg"
+      },
+      {
+        "name": "Natasha Alderslade",
+        "id": 32249,
+        "character": "Eleanor Womak",
+        "profile_path": "/po8heXet9pdD2Vl1BWt69OYw7qV.jpg"
+      },
+      {
+        "name": "Natalia Osipova",
+        "id": 1560588,
+        "character": "Natalia Osipova",
+        "profile_path": "/6KfDoNhF5gYAFXcSyhrimjZUFaL.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.6406,
+    "puntuación": 6.8,
+    "votos": 89,
+    "adulto": false,
+    "video": false,
+    "año": "2023",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3x0e1G3kbNzd4LAa9Yw98mbeSpu.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3mI8SfPwF6baBXDOHADkziFy0jp.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.776,
+          "height": 1126,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/9maqRl6EXXkbG5H3Lh1FoR8BTvI.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/rfRYSxT0yHluamOIx1ChkWfhAkg.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1688,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/1FkFyCmUXrUhdTv6HPIYbRKdaqe.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3000
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/s81qxwOo6cMN4vsCKPC8f6z8b3w.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/eCi1pqhM86bvIjJHmXDQ3ExkELr.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/9DZHIYI3vvw20arnd9idKcWT5Xz.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1200,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xO8aT47BgxdQteXEoai7NUIBfDS.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 800
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1200,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/fOfvtqD2d8QOwzdcnN5M7ZUMo2A.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 800
+        }
+      ]
+    },
+    "última_actualización": "2026-05-30 22:19:16"
   },
   {
     "id": 1471537,
@@ -2153,57 +2393,57 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:12"
+    "última_actualización": "2026-05-30 22:19:16"
   },
   {
-    "id": 714675,
-    "tmdb_id": 714675,
-    "título": "Joika",
-    "título_original": "The American",
-    "sinopsis": "La bailarina de ballet estadounidense Joy Womack es aceptada en la infamemente dura Academia de Ballet Bolshoi de Moscú, con el sueño de convertirse en una gran bailarina.",
-    "poster_path": "/eCi1pqhM86bvIjJHmXDQ3ExkELr.jpg",
-    "poster_local": "imagenes_estrenos/Joika_eCi1pqhM86bvIjJHmXDQ3ExkELr.jpg",
-    "backdrop_path": "/3x0e1G3kbNzd4LAa9Yw98mbeSpu.jpg",
-    "backdrop_local": "imagenes_estrenos/Joika_backdrop_3x0e1G3kbNzd4LAa9Yw98mbeSpu.jpg",
+    "id": 1444595,
+    "tmdb_id": 1444595,
+    "título": "Pioneras: solo querían jugar",
+    "título_original": "Pioneras: solo querían jugar",
+    "sinopsis": "España, años setenta. A pesar de que la ideología franquista siguen profundamente arraigada en la sociedad, un grupo de jóvenes pioneras y un promotor ambicioso están a punto de cambiar la historia del fútbol femenino.",
+    "poster_path": "/iNEBHb7633ax0Sz1KXu4gRpUHHD.jpg",
+    "poster_local": "imagenes_estrenos/Pioneras__solo_quer_an_jugar_iNEBHb7633ax0Sz1KXu4gRpUHHD.jpg",
+    "backdrop_path": "/vJryAefq6Ec6NiYdKTvXbFMRalB.jpg",
+    "backdrop_local": "imagenes_estrenos/Pioneras__solo_quer_an_jugar_backdrop_vJryAefq6Ec6NiYdKTvXbFMRalB.jpg",
     "fecha_estreno": "2026-06-12T00:00:00.000Z",
-    "duración": "110 min",
-    "director": "James Napier Robertson",
+    "duración": "106 min",
+    "director": "Marta Díaz de Lope Díaz",
     "directores": [
       {
-        "name": "James Napier Robertson",
-        "id": 1226684
+        "name": "Marta Díaz de Lope Díaz",
+        "id": 2020209
       }
     ],
     "actores": [
       {
-        "name": "Talia Ryder",
-        "id": 2475409,
-        "character": "Joy Womack",
-        "profile_path": "/dq7nhIjhIFynugVdw3SmKaSY46B.jpg"
+        "name": "Sofía de Iznájar",
+        "id": 4698819,
+        "character": "",
+        "profile_path": null
       },
       {
-        "name": "Diane Kruger",
-        "id": 9824,
-        "character": "Tatiyana Volkova",
-        "profile_path": "/o5gVowcjVw4ThYi0L3883Y4X7kH.jpg"
+        "name": "Bruna Lucadamo",
+        "id": 3511170,
+        "character": "",
+        "profile_path": "/4wiNUi7Qzxoakaf5BGihgkEYcOn.jpg"
       },
       {
-        "name": "Oleg Ivenko",
-        "id": 1894615,
-        "character": "Nikolay Lebedev",
-        "profile_path": "/bW88hcqxBvT5d4aNuyemtF3Qrd0.jpg"
+        "name": "Daniel Ibáñez",
+        "id": 2484837,
+        "character": "",
+        "profile_path": "/d2j4qq0TUasP8if26wIXQOP4kjS.jpg"
       },
       {
-        "name": "Natasha Alderslade",
-        "id": 32249,
-        "character": "Eleanor Womak",
-        "profile_path": "/po8heXet9pdD2Vl1BWt69OYw7qV.jpg"
+        "name": "Aixa Villagrán",
+        "id": 146300,
+        "character": "",
+        "profile_path": "/zJV1yUMWT5sTjhhkk1SazyrCMB1.jpg"
       },
       {
-        "name": "Natalia Osipova",
-        "id": 1560588,
-        "character": "Natalia Osipova",
-        "profile_path": "/6KfDoNhF5gYAFXcSyhrimjZUFaL.jpg"
+        "name": "Elena Irureta",
+        "id": 16980,
+        "character": "",
+        "profile_path": "/gJWLhfOXFoYTTVjh5Q9GlxLSsEE.jpg"
       }
     ],
     "géneros": [
@@ -2212,119 +2452,59 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.6406,
-    "puntuación": 6.775,
-    "votos": 89,
+    "popularidad": 0.7766,
+    "puntuación": 0.0,
+    "votos": 0,
     "adulto": false,
     "video": false,
-    "año": "2023",
+    "año": "2026",
     "imágenes": {
       "backdrops": [
         {
-          "aspect_ratio": 1.778,
-          "height": 2160,
+          "aspect_ratio": 1.782,
+          "height": 864,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/3x0e1G3kbNzd4LAa9Yw98mbeSpu.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/3mI8SfPwF6baBXDOHADkziFy0jp.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.776,
-          "height": 1126,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/9maqRl6EXXkbG5H3Lh1FoR8BTvI.jpg",
-          "vote_average": 0.0,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/rfRYSxT0yHluamOIx1ChkWfhAkg.jpg",
+          "file_path": "/vJryAefq6Ec6NiYdKTvXbFMRalB.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
-          "width": 1280
+          "width": 1540
         },
         {
-          "aspect_ratio": 1.777,
-          "height": 1688,
+          "aspect_ratio": 1.782,
+          "height": 864,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/1FkFyCmUXrUhdTv6HPIYbRKdaqe.jpg",
+          "file_path": "/wIgsZTmUGFz0IvoswkmjqiZLyHY.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
-          "width": 3000
+          "width": 1540
+        },
+        {
+          "aspect_ratio": 1.782,
+          "height": 864,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5SzzXSALNMg9oC9zGrBzWNLXIQ3.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1540
         }
       ],
       "posters": [
         {
           "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/s81qxwOo6cMN4vsCKPC8f6z8b3w.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
+          "height": 750,
           "iso_3166_1": "ES",
           "iso_639_1": "es",
-          "file_path": "/eCi1pqhM86bvIjJHmXDQ3ExkELr.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/9DZHIYI3vvw20arnd9idKcWT5Xz.jpg",
+          "file_path": "/iNEBHb7633ax0Sz1KXu4gRpUHHD.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 500
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1200,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xO8aT47BgxdQteXEoai7NUIBfDS.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 800
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1200,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/fOfvtqD2d8QOwzdcnN5M7ZUMo2A.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 800
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:12"
+    "última_actualización": "2026-05-30 22:19:16"
   },
   {
     "id": 1291202,
@@ -2459,118 +2639,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:12"
-  },
-  {
-    "id": 1444595,
-    "tmdb_id": 1444595,
-    "título": "Pioneras: solo querían jugar",
-    "título_original": "Pioneras: solo querían jugar",
-    "sinopsis": "España, años setenta. A pesar de que la ideología franquista siguen profundamente arraigada en la sociedad, un grupo de jóvenes pioneras y un promotor ambicioso están a punto de cambiar la historia del fútbol femenino.",
-    "poster_path": "/iNEBHb7633ax0Sz1KXu4gRpUHHD.jpg",
-    "poster_local": "imagenes_estrenos/Pioneras__solo_quer_an_jugar_iNEBHb7633ax0Sz1KXu4gRpUHHD.jpg",
-    "backdrop_path": "/vJryAefq6Ec6NiYdKTvXbFMRalB.jpg",
-    "backdrop_local": "imagenes_estrenos/Pioneras__solo_quer_an_jugar_backdrop_vJryAefq6Ec6NiYdKTvXbFMRalB.jpg",
-    "fecha_estreno": "2026-06-12T00:00:00.000Z",
-    "duración": "106 min",
-    "director": "Marta Díaz de Lope Díaz",
-    "directores": [
-      {
-        "name": "Marta Díaz de Lope Díaz",
-        "id": 2020209
-      }
-    ],
-    "actores": [
-      {
-        "name": "Sofía de Iznájar",
-        "id": 4698819,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Bruna Lucadamo",
-        "id": 3511170,
-        "character": "",
-        "profile_path": "/4wiNUi7Qzxoakaf5BGihgkEYcOn.jpg"
-      },
-      {
-        "name": "Daniel Ibáñez",
-        "id": 2484837,
-        "character": "",
-        "profile_path": "/d2j4qq0TUasP8if26wIXQOP4kjS.jpg"
-      },
-      {
-        "name": "Aixa Villagrán",
-        "id": 146300,
-        "character": "",
-        "profile_path": "/zJV1yUMWT5sTjhhkk1SazyrCMB1.jpg"
-      },
-      {
-        "name": "Elena Irureta",
-        "id": 16980,
-        "character": "",
-        "profile_path": "/gJWLhfOXFoYTTVjh5Q9GlxLSsEE.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.7766,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.782,
-          "height": 864,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/vJryAefq6Ec6NiYdKTvXbFMRalB.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
-        },
-        {
-          "aspect_ratio": 1.782,
-          "height": 864,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wIgsZTmUGFz0IvoswkmjqiZLyHY.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
-        },
-        {
-          "aspect_ratio": 1.782,
-          "height": 864,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/5SzzXSALNMg9oC9zGrBzWNLXIQ3.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/iNEBHb7633ax0Sz1KXu4gRpUHHD.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2026-05-30 10:33:12"
+    "última_actualización": "2026-05-30 22:19:16"
   },
   {
     "id": 1514847,
@@ -2695,7 +2764,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:13"
+    "última_actualización": "2026-05-30 22:19:16"
   },
   {
     "id": 1513268,
@@ -2772,7 +2841,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-05-30 10:33:13"
+    "última_actualización": "2026-05-30 22:19:17"
   },
   {
     "id": 1509717,
@@ -2841,7 +2910,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-05-30 10:33:14"
+    "última_actualización": "2026-05-30 22:19:17"
   },
   {
     "id": 1418601,
@@ -2921,7 +2990,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:14"
+    "última_actualización": "2026-05-30 22:19:18"
   },
   {
     "id": 1699186,
@@ -3001,7 +3070,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:14"
+    "última_actualización": "2026-05-30 22:19:18"
   },
   {
     "id": 1084244,
@@ -3184,7 +3253,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:11"
+    "última_actualización": "2026-05-30 22:19:15"
   },
   {
     "id": 1119537,
@@ -3319,7 +3388,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:12"
+    "última_actualización": "2026-05-30 22:19:16"
   },
   {
     "id": 1275788,
@@ -3444,7 +3513,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:13"
+    "última_actualización": "2026-05-30 22:19:16"
   },
   {
     "id": 1634018,
@@ -3511,7 +3580,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-05-30 10:33:13"
+    "última_actualización": "2026-05-30 22:19:17"
   },
   {
     "id": 1421148,
@@ -3666,7 +3735,102 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:13"
+    "última_actualización": "2026-05-30 22:19:17"
+  },
+  {
+    "id": 1025393,
+    "tmdb_id": 1025393,
+    "título": "Bajo el mismo sol",
+    "título_original": "Bajo el mismo sol",
+    "sinopsis": "",
+    "poster_path": "/cyG7SFQ49yPqErXDRUwiYkMVfAd.jpg",
+    "poster_local": "imagenes_estrenos/Bajo_el_mismo_sol_cyG7SFQ49yPqErXDRUwiYkMVfAd.jpg",
+    "backdrop_path": "/dMBTLE8ECw5fDU9ZW9fNqKBMuJD.jpg",
+    "backdrop_local": "imagenes_estrenos/Bajo_el_mismo_sol_backdrop_dMBTLE8ECw5fDU9ZW9fNqKBMuJD.jpg",
+    "fecha_estreno": "2026-06-19T00:00:00.000Z",
+    "duración": "103 min",
+    "director": "Ulises Porra",
+    "directores": [
+      {
+        "name": "Ulises Porra",
+        "id": 1879785
+      }
+    ],
+    "actores": [
+      {
+        "name": "David Castillo",
+        "id": 82350,
+        "character": "Lázaro",
+        "profile_path": "/nRzcUnXj5kkrYxgca3G15roZimE.jpg"
+      },
+      {
+        "name": "Valentina Shen Wu",
+        "id": 5644044,
+        "character": "Mei",
+        "profile_path": null
+      },
+      {
+        "name": "Jean Jean",
+        "id": 115477,
+        "character": "Baptiste",
+        "profile_path": "/vQcC8LnpwU3uGg7CYR38BQffk9G.jpg"
+      },
+      {
+        "name": "Cecile van Welie",
+        "id": 3181211,
+        "character": "Hermana Cecile",
+        "profile_path": "/j0RKKAYYIn98DOEK8BqOR5sxSO9.jpg"
+      },
+      {
+        "name": "Toni Regueiro",
+        "id": 3294297,
+        "character": "Vicario",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "popularidad": 0.2276,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/dMBTLE8ECw5fDU9ZW9fNqKBMuJD.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.671,
+          "height": 1050,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/cyG7SFQ49yPqErXDRUwiYkMVfAd.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 705
+        }
+      ]
+    },
+    "última_actualización": "2026-05-30 22:19:17"
   },
   {
     "id": 1474225,
@@ -3775,102 +3939,7 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:14"
-  },
-  {
-    "id": 1025393,
-    "tmdb_id": 1025393,
-    "título": "Bajo el mismo sol",
-    "título_original": "Bajo el mismo sol",
-    "sinopsis": "",
-    "poster_path": "/cyG7SFQ49yPqErXDRUwiYkMVfAd.jpg",
-    "poster_local": "imagenes_estrenos/Bajo_el_mismo_sol_cyG7SFQ49yPqErXDRUwiYkMVfAd.jpg",
-    "backdrop_path": "/dMBTLE8ECw5fDU9ZW9fNqKBMuJD.jpg",
-    "backdrop_local": "imagenes_estrenos/Bajo_el_mismo_sol_backdrop_dMBTLE8ECw5fDU9ZW9fNqKBMuJD.jpg",
-    "fecha_estreno": "2026-06-19T00:00:00.000Z",
-    "duración": "103 min",
-    "director": "Ulises Porra",
-    "directores": [
-      {
-        "name": "Ulises Porra",
-        "id": 1879785
-      }
-    ],
-    "actores": [
-      {
-        "name": "David Castillo",
-        "id": 82350,
-        "character": "Lázaro",
-        "profile_path": "/nRzcUnXj5kkrYxgca3G15roZimE.jpg"
-      },
-      {
-        "name": "Valentina Shen Wu",
-        "id": 5644044,
-        "character": "Mei",
-        "profile_path": null
-      },
-      {
-        "name": "Jean Jean",
-        "id": 115477,
-        "character": "Baptiste",
-        "profile_path": "/vQcC8LnpwU3uGg7CYR38BQffk9G.jpg"
-      },
-      {
-        "name": "Cecile van Welie",
-        "id": 3181211,
-        "character": "Hermana Cecile",
-        "profile_path": "/j0RKKAYYIn98DOEK8BqOR5sxSO9.jpg"
-      },
-      {
-        "name": "Toni Regueiro",
-        "id": 3294297,
-        "character": "Vicario",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 36,
-        "name": "Historia"
-      }
-    ],
-    "popularidad": 0.2276,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/dMBTLE8ECw5fDU9ZW9fNqKBMuJD.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.671,
-          "height": 1050,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/cyG7SFQ49yPqErXDRUwiYkMVfAd.jpg",
-          "vote_average": 0.0,
-          "vote_count": 1,
-          "width": 705
-        }
-      ]
-    },
-    "última_actualización": "2026-05-30 10:33:14"
+    "última_actualización": "2026-05-30 22:19:17"
   },
   {
     "id": 1624329,
@@ -3993,6 +4062,6 @@
         }
       ]
     },
-    "última_actualización": "2026-05-30 10:33:15"
+    "última_actualización": "2026-05-30 22:19:19"
   }
 ]
