@@ -6,7 +6,7 @@
             {
                 "fecha": "2026-06-02",
                 "hora": "19:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100469&eventCode=106157"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -23,7 +23,7 @@
             {
                 "fecha": "2026-06-02",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100514&eventCode=110848"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -40,7 +40,7 @@
             {
                 "fecha": "2026-06-02",
                 "hora": "21:40",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100511&eventCode=104725"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -276,7 +276,7 @@
             {
                 "fecha": "2026-06-02",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91051&eventCode=111114"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -298,7 +298,7 @@
             {
                 "fecha": "2026-06-02",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91045&eventCode=110182"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -332,7 +332,7 @@
             {
                 "fecha": "2026-06-02",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91042&eventCode=105183"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -547,6 +547,235 @@
         "duración": "93 min",
         "actores": "Jasper Billerbeck, Diane Kruger, Kian Köppke, Laura Tonke, Hark Bohm",
         "sinopsis": "Isla de Amrum, primavera de 1945. En los últimos días de la Segunda Guerra Mundial, Nanning, un niño de 12 años, desafía sin miedo los traicioneros mares para cazar focas, sale a pescar por la noche y cuida incansablemente los campos de la cercana granja Bendixen para ayudar a su madre a alimentar a la familia. Ante la ausencia de su padre, Nanning confía en su inquebrantable amistad con Hermann para que le apoye en momentos de necesidad. Sin embargo, a medida que llega la tan esperada paz, surgen desafíos imprevistos que obligan a Nanning a trazar su propio rumbo a través de las turbulentas aguas de la vida de posguerra. Basada en la infancia del director, guionista y actor Hark Bohm.",
+        "año": "2025"
+    },
+    {
+        "título": "La ironía del amor",
+        "cartel": "imagenes_peliculas/tmdb_la_ironia_del_amor.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-05",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91093&eventCode=111180"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Chandler Levack",
+        "duración": "112 min",
+        "actores": "Barbie Ferreira, Devon Bostick, Stanley Simons, Juliette Gariépy, Jay Baruchel",
+        "sinopsis": "",
+        "año": "2026"
+    },
+    {
+        "título": "Rebuilding",
+        "cartel": "imagenes_peliculas/tmdb_rebuilding.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-05",
+                "hora": "20:25",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91098&eventCode=111413"
+            },
+            {
+                "fecha": "2026-06-05",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91088&eventCode=111413"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Max Walker-Silverman",
+        "duración": "96 min",
+        "actores": "Josh O'Connor, Meghann Fahy, Lily LaTorre, Kali Reis, Amy Madigan",
+        "sinopsis": "Después de que un incendio forestal arrasara su granja, Dusty (Josh O’Connor), un padre divorciado, se ve obligado a comenzar de nuevo en un campamento de casas rodantes habilitado por el gobierno. En medio del dolor, encuentra una inesperada red de apoyo en sus nuevos vecinos, mientras intenta recomponer los lazos rotos con su exesposa Ruby (Meghann Fahy) y su hija Callie-Rose (Lily LaTorre).",
+        "año": "2025"
+    },
+    {
+        "título": "Corredora",
+        "cartel": "imagenes_peliculas/tmdb_corredora.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-05",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91086&eventCode=110182"
+            },
+            {
+                "fecha": "2026-06-05",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91096&eventCode=110182"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura García Alonso",
+        "duración": "96 min",
+        "actores": "Alba Sáez, Marina Salas, Àlex Brendemühl, Ot Serra Bas, Jordi Farrés",
+        "sinopsis": "Una corredora de élite se ve obligada a apartarse de la alta competición después de sufrir un brote psicótico.",
+        "año": "2026"
+    },
+    {
+        "título": "Un mundo frágil y maravilloso",
+        "cartel": "imagenes_peliculas/tmdb_un_mundo_fragil_y_maravilloso.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-05",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91092&eventCode=105183"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Cyril Aris",
+        "duración": "110 min",
+        "actores": "Mounia Akl, Hassan Akil, Camille Salameh, Julia Kassar, Tino Karam",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La ironía del amor",
+        "cartel": "imagenes_peliculas/tmdb_la_ironia_del_amor.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-06",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91115&eventCode=111180"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Chandler Levack",
+        "duración": "112 min",
+        "actores": "Barbie Ferreira, Devon Bostick, Stanley Simons, Juliette Gariépy, Jay Baruchel",
+        "sinopsis": "",
+        "año": "2026"
+    },
+    {
+        "título": "Rebuilding",
+        "cartel": "imagenes_peliculas/tmdb_rebuilding.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-06",
+                "hora": "20:25",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91105&eventCode=111413"
+            },
+            {
+                "fecha": "2026-06-06",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91106&eventCode=111413"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Max Walker-Silverman",
+        "duración": "96 min",
+        "actores": "Josh O'Connor, Meghann Fahy, Lily LaTorre, Kali Reis, Amy Madigan",
+        "sinopsis": "Después de que un incendio forestal arrasara su granja, Dusty (Josh O’Connor), un padre divorciado, se ve obligado a comenzar de nuevo en un campamento de casas rodantes habilitado por el gobierno. En medio del dolor, encuentra una inesperada red de apoyo en sus nuevos vecinos, mientras intenta recomponer los lazos rotos con su exesposa Ruby (Meghann Fahy) y su hija Callie-Rose (Lily LaTorre).",
+        "año": "2025"
+    },
+    {
+        "título": "Corredora",
+        "cartel": "imagenes_peliculas/tmdb_corredora.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-06",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91103&eventCode=110182"
+            },
+            {
+                "fecha": "2026-06-06",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91118&eventCode=110182"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura García Alonso",
+        "duración": "96 min",
+        "actores": "Alba Sáez, Marina Salas, Àlex Brendemühl, Ot Serra Bas, Jordi Farrés",
+        "sinopsis": "Una corredora de élite se ve obligada a apartarse de la alta competición después de sufrir un brote psicótico.",
+        "año": "2026"
+    },
+    {
+        "título": "Un mundo frágil y maravilloso",
+        "cartel": "imagenes_peliculas/tmdb_un_mundo_fragil_y_maravilloso.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-06",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91113&eventCode=105183"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Cyril Aris",
+        "duración": "110 min",
+        "actores": "Mounia Akl, Hassan Akil, Camille Salameh, Julia Kassar, Tino Karam",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "La ironía del amor",
+        "cartel": "imagenes_peliculas/tmdb_la_ironia_del_amor.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-07",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91128&eventCode=111180"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Chandler Levack",
+        "duración": "112 min",
+        "actores": "Barbie Ferreira, Devon Bostick, Stanley Simons, Juliette Gariépy, Jay Baruchel",
+        "sinopsis": "",
+        "año": "2026"
+    },
+    {
+        "título": "Rebuilding",
+        "cartel": "imagenes_peliculas/tmdb_rebuilding.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-07",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91121&eventCode=111413"
+            },
+            {
+                "fecha": "2026-06-07",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91122&eventCode=111413"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Max Walker-Silverman",
+        "duración": "96 min",
+        "actores": "Josh O'Connor, Meghann Fahy, Lily LaTorre, Kali Reis, Amy Madigan",
+        "sinopsis": "Después de que un incendio forestal arrasara su granja, Dusty (Josh O’Connor), un padre divorciado, se ve obligado a comenzar de nuevo en un campamento de casas rodantes habilitado por el gobierno. En medio del dolor, encuentra una inesperada red de apoyo en sus nuevos vecinos, mientras intenta recomponer los lazos rotos con su exesposa Ruby (Meghann Fahy) y su hija Callie-Rose (Lily LaTorre).",
+        "año": "2025"
+    },
+    {
+        "título": "Corredora",
+        "cartel": "imagenes_peliculas/tmdb_corredora.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-07",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91149&eventCode=110182"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Laura García Alonso",
+        "duración": "96 min",
+        "actores": "Alba Sáez, Marina Salas, Àlex Brendemühl, Ot Serra Bas, Jordi Farrés",
+        "sinopsis": "Una corredora de élite se ve obligada a apartarse de la alta competición después de sufrir un brote psicótico.",
+        "año": "2026"
+    },
+    {
+        "título": "Un mundo frágil y maravilloso",
+        "cartel": "imagenes_peliculas/tmdb_un_mundo_fragil_y_maravilloso.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-07",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91148&eventCode=105183"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Cyril Aris",
+        "duración": "110 min",
+        "actores": "Mounia Akl, Hassan Akil, Camille Salameh, Julia Kassar, Tino Karam",
+        "sinopsis": "",
         "año": "2025"
     },
     {
