@@ -1,13 +1,25 @@
 [
     {
+        "título": "Backrooms",
+        "cartel": "imagenes_filmaffinity/tmdb_backrooms.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-09",
+                "hora": "22:45",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=30405"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "redsterVR",
+        "duración": "90 min",
+        "actores": "Flunkedamonke, IceyGT, Tenko, redsterVR, SockpuppetGT",
+        "sinopsis": "",
+        "año": "2026"
+    },
+    {
         "título": "The Amazing Digital Circus: The Last Act",
         "cartel": "imagenes_filmaffinity/tmdb_the-amazing-digital-circus-the-last-act.jpg",
         "horarios": [
-            {
-                "fecha": "2026-06-08",
-                "hora": "18:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=30256"
-            },
             {
                 "fecha": "2026-06-09",
                 "hora": "16:00",
@@ -44,23 +56,6 @@
         "duración": "94 min",
         "actores": "Lizzie Freeman, Michael Kovach, Amanda Hufford, Marissa Lenti, Sean Chiplock",
         "sinopsis": "Con la partida de Caine y el circo en penumbras, al elenco solo le queda la compañía de los errores y traumas de su pasado. Mientras el horizonte de la eternidad se desvanece ante sus ojos, descubren la verdad del circo digital y su historia. ¿Aceptarán lo que descubren? ¿O tomarán... el camino alternativo? Además, posiblemente, en algún momento alguien diga algo gracioso, porque este final no puede ser TAN lúgubre, ¿no?",
-        "año": "2026"
-    },
-    {
-        "título": "Backrooms",
-        "cartel": "imagenes_filmaffinity/tmdb_backrooms.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-06-09",
-                "hora": "22:45",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=30405"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "redsterVR",
-        "duración": "90 min",
-        "actores": "Flunkedamonke, IceyGT, Tenko, redsterVR, SockpuppetGT",
-        "sinopsis": "",
         "año": "2026"
     },
     {
