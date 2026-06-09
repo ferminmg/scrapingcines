@@ -65,8 +65,8 @@
       }
     ],
     "popularidad": 77.0533,
-    "puntuación": 8.1,
-    "votos": 8,
+    "puntuación": 8.2,
+    "votos": 10,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -94,6 +94,16 @@
         },
         {
           "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zsT3cp4xAim28RuSgdbi3x55kRq.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
@@ -111,16 +121,6 @@
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/giqQLOaP0o1At92MZFMATe7up0g.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 1920
         }
       ],
       "posters": [
@@ -176,7 +176,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:42"
+    "última_actualización": "2026-06-09 22:29:27"
   },
   {
     "id": 1280738,
@@ -315,7 +315,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:42"
+    "última_actualización": "2026-06-09 22:29:28"
   },
   {
     "id": 1340206,
@@ -380,7 +380,7 @@
     ],
     "popularidad": 31.9703,
     "puntuación": 6.9,
-    "votos": 39,
+    "votos": 40,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -447,10 +447,20 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 500
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1535,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/8lXgc104hB0fUl6JVfgXDxbXv8h.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1024
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:43"
+    "última_actualización": "2026-06-09 22:29:28"
   },
   {
     "id": 1291202,
@@ -585,152 +595,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:43"
-  },
-  {
-    "id": 1471537,
-    "tmdb_id": 1471537,
-    "título": "Solomamma",
-    "título_original": "Solomamma",
-    "sinopsis": "",
-    "poster_path": "/l57DviQNrx9p23vGwDmpAkUZKIo.jpg",
-    "poster_local": "imagenes_estrenos/Solomamma_l57DviQNrx9p23vGwDmpAkUZKIo.jpg",
-    "backdrop_path": "/4BNEdfmgM2cZF1yNeE6bT0tIK63.jpg",
-    "backdrop_local": "imagenes_estrenos/Solomamma_backdrop_4BNEdfmgM2cZF1yNeE6bT0tIK63.jpg",
-    "fecha_estreno": "2026-06-12T00:00:00.000Z",
-    "duración": "99 min",
-    "director": "Janicke Askevold",
-    "directores": [
-      {
-        "name": "Janicke Askevold",
-        "id": 1942933
-      }
-    ],
-    "actores": [
-      {
-        "name": "Lisa Loven Kongsli",
-        "id": 1310711,
-        "character": "Edith",
-        "profile_path": "/pm5y6qrZqinsYZW0Rud1DjYU4mP.jpg"
-      },
-      {
-        "name": "Herbert Nordrum",
-        "id": 1083266,
-        "character": "Niels",
-        "profile_path": "/wMT9o2WNfLGE4dD8Rkt2Rem4Ljt.jpg"
-      },
-      {
-        "name": "Rolf Kristian Larsen",
-        "id": 74718,
-        "character": "Thorbjørn",
-        "profile_path": "/q7wEyE3wIL7MEvJIUPCsBCOC3Y5.jpg"
-      },
-      {
-        "name": "Nasrin Khusrawi",
-        "id": 1816217,
-        "character": "Marie",
-        "profile_path": "/kD6wHXQnYYiyfc8ksZdtRgmwQNB.jpg"
-      },
-      {
-        "name": "Kaveh Tehrani",
-        "id": 1479716,
-        "character": "Redaktør",
-        "profile_path": "/p3ZkCYPxKx5cT9MZCbDw5lY8dZr.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 1.1285,
-    "puntuación": 6.0,
-    "votos": 2,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/4BNEdfmgM2cZF1yNeE6bT0tIK63.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/woj79HYujic3bNJIigGuxPFF4An.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/pjrWwGFL3zp5tEls2IPP5UZNqAj.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/dttqNMNS9BTzzZXMcTxyjKGogez.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 810,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/pJFTrGTb0x6cRR1PLarkA0ptlLK.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1440
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/yvxQzx6MfCHhMl6Ipy3zXZyRhpf.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 720
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 754,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/qjTCyNr8xduxfkNsVXLgui2eAro.jpg",
-          "vote_average": 0.0,
-          "vote_count": 1,
-          "width": 503
-        }
-      ]
-    },
-    "última_actualización": "2026-06-09 11:00:43"
+    "última_actualización": "2026-06-09 22:29:30"
   },
   {
     "id": 1189423,
@@ -875,7 +740,152 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:44"
+    "última_actualización": "2026-06-09 22:29:30"
+  },
+  {
+    "id": 1471537,
+    "tmdb_id": 1471537,
+    "título": "Solomamma",
+    "título_original": "Solomamma",
+    "sinopsis": "",
+    "poster_path": "/l57DviQNrx9p23vGwDmpAkUZKIo.jpg",
+    "poster_local": "imagenes_estrenos/Solomamma_l57DviQNrx9p23vGwDmpAkUZKIo.jpg",
+    "backdrop_path": "/4BNEdfmgM2cZF1yNeE6bT0tIK63.jpg",
+    "backdrop_local": "imagenes_estrenos/Solomamma_backdrop_4BNEdfmgM2cZF1yNeE6bT0tIK63.jpg",
+    "fecha_estreno": "2026-06-12T00:00:00.000Z",
+    "duración": "99 min",
+    "director": "Janicke Askevold",
+    "directores": [
+      {
+        "name": "Janicke Askevold",
+        "id": 1942933
+      }
+    ],
+    "actores": [
+      {
+        "name": "Lisa Loven Kongsli",
+        "id": 1310711,
+        "character": "Edith",
+        "profile_path": "/pm5y6qrZqinsYZW0Rud1DjYU4mP.jpg"
+      },
+      {
+        "name": "Herbert Nordrum",
+        "id": 1083266,
+        "character": "Niels",
+        "profile_path": "/wMT9o2WNfLGE4dD8Rkt2Rem4Ljt.jpg"
+      },
+      {
+        "name": "Rolf Kristian Larsen",
+        "id": 74718,
+        "character": "Thorbjørn",
+        "profile_path": "/q7wEyE3wIL7MEvJIUPCsBCOC3Y5.jpg"
+      },
+      {
+        "name": "Nasrin Khusrawi",
+        "id": 1816217,
+        "character": "Marie",
+        "profile_path": "/kD6wHXQnYYiyfc8ksZdtRgmwQNB.jpg"
+      },
+      {
+        "name": "Kaveh Tehrani",
+        "id": 1479716,
+        "character": "Redaktør",
+        "profile_path": "/p3ZkCYPxKx5cT9MZCbDw5lY8dZr.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.1285,
+    "puntuación": 6.0,
+    "votos": 2,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/4BNEdfmgM2cZF1yNeE6bT0tIK63.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/woj79HYujic3bNJIigGuxPFF4An.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/pjrWwGFL3zp5tEls2IPP5UZNqAj.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/dttqNMNS9BTzzZXMcTxyjKGogez.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 810,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/pJFTrGTb0x6cRR1PLarkA0ptlLK.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1440
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/yvxQzx6MfCHhMl6Ipy3zXZyRhpf.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 720
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 754,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/qjTCyNr8xduxfkNsVXLgui2eAro.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 503
+        }
+      ]
+    },
+    "última_actualización": "2026-06-09 22:29:31"
   },
   {
     "id": 714675,
@@ -1046,7 +1056,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:44"
+    "última_actualización": "2026-06-09 22:29:32"
   },
   {
     "id": 1444595,
@@ -1167,7 +1177,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:45"
+    "última_actualización": "2026-06-09 22:29:33"
   },
   {
     "id": 1514847,
@@ -1292,7 +1302,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:45"
+    "última_actualización": "2026-06-09 22:29:34"
   },
   {
     "id": 1513268,
@@ -1380,7 +1390,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:45"
+    "última_actualización": "2026-06-09 22:29:35"
   },
   {
     "id": 1509717,
@@ -1449,7 +1459,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-06-09 11:00:45"
+    "última_actualización": "2026-06-09 22:29:36"
   },
   {
     "id": 1707103,
@@ -1491,7 +1501,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-06-09 11:00:46"
+    "última_actualización": "2026-06-09 22:29:36"
   },
   {
     "id": 1418601,
@@ -1571,7 +1581,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:46"
+    "última_actualización": "2026-06-09 22:29:37"
   },
   {
     "id": 1708901,
@@ -1657,7 +1667,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:45"
+    "última_actualización": "2026-06-09 22:29:34"
   },
   {
     "id": 1706237,
@@ -1797,7 +1807,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:46"
+    "última_actualización": "2026-06-09 22:29:37"
   },
   {
     "id": 1084244,
@@ -1980,7 +1990,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:43"
+    "última_actualización": "2026-06-09 22:29:27"
   },
   {
     "id": 1119537,
@@ -2115,7 +2125,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:43"
+    "última_actualización": "2026-06-09 22:29:31"
   },
   {
     "id": 1275788,
@@ -2220,7 +2230,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:45"
+    "última_actualización": "2026-06-09 22:29:33"
   },
   {
     "id": 1634018,
@@ -2287,7 +2297,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-06-09 11:00:45"
+    "última_actualización": "2026-06-09 22:29:33"
   },
   {
     "id": 1474225,
@@ -2406,7 +2416,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:45"
+    "última_actualización": "2026-06-09 22:29:35"
   },
   {
     "id": 1025393,
@@ -2501,7 +2511,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:46"
+    "última_actualización": "2026-06-09 22:29:36"
   },
   {
     "id": 1421148,
@@ -2779,7 +2789,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:46"
+    "última_actualización": "2026-06-09 22:29:37"
   },
   {
     "id": 1709687,
@@ -2851,7 +2861,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-06-09 11:00:45"
+    "última_actualización": "2026-06-09 22:29:34"
   },
   {
     "id": 1363043,
@@ -2962,7 +2972,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:45"
+    "última_actualización": "2026-06-09 22:29:32"
   },
   {
     "id": 1339713,
@@ -3022,8 +3032,8 @@
       }
     ],
     "popularidad": 898.7716,
-    "puntuación": 7.932,
-    "votos": 626,
+    "puntuación": 7.918,
+    "votos": 644,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3035,8 +3045,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/4k99kV4R1bbbrsnjR205v91Xbin.jpg",
-          "vote_average": 5.786,
-          "vote_count": 7,
+          "vote_average": 5.778,
+          "vote_count": 9,
           "width": 3840
         },
         {
@@ -3045,8 +3055,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-          "vote_average": 5.786,
-          "vote_count": 7,
+          "vote_average": 5.25,
+          "vote_count": 10,
           "width": 3840
         },
         {
@@ -3064,20 +3074,20 @@
           "height": 1080,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/u5BkYDM5gfK4wINfoIFMAcEUKhx.jpg",
-          "vote_average": 2.066,
-          "vote_count": 5,
+          "file_path": "/oICYZzr1arFtiaPrQfOTYZOOrCy.jpg",
+          "vote_average": 2.278,
+          "vote_count": 4,
           "width": 1920
         },
         {
           "aspect_ratio": 1.778,
-          "height": 1800,
+          "height": 1818,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/diOZbaDnB2CIilwd0527AB1qMvW.jpg",
-          "vote_average": 2.066,
-          "vote_count": 6,
-          "width": 3200
+          "file_path": "/5kY3Aw2abeqr3YCJB6xourYMoma.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 3232
         }
       ],
       "posters": [
@@ -3133,7 +3143,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:42"
+    "última_actualización": "2026-06-09 22:29:27"
   },
   {
     "id": 1081003,
@@ -3312,7 +3322,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:43"
+    "última_actualización": "2026-06-09 22:29:28"
   },
   {
     "id": 1284016,
@@ -3461,7 +3471,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:43"
+    "última_actualización": "2026-06-09 22:29:29"
   },
   {
     "id": 1612018,
@@ -3610,7 +3620,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:43"
+    "última_actualización": "2026-06-09 22:29:30"
   },
   {
     "id": 1337985,
@@ -3734,7 +3744,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-06-09 11:00:43"
+    "última_actualización": "2026-06-09 22:29:30"
   },
   {
     "id": 1313229,
@@ -3875,7 +3885,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:44"
+    "última_actualización": "2026-06-09 22:29:31"
   },
   {
     "id": 1337438,
@@ -3958,7 +3968,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:44"
+    "última_actualización": "2026-06-09 22:29:32"
   },
   {
     "id": 1551205,
@@ -4089,7 +4099,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:46"
+    "última_actualización": "2026-06-09 22:29:35"
   },
   {
     "id": 1646428,
@@ -4212,7 +4222,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:46"
+    "última_actualización": "2026-06-09 22:29:37"
   },
   {
     "id": 1242332,
@@ -4280,8 +4290,8 @@
       }
     ],
     "popularidad": 22.3558,
-    "puntuación": 6.5,
-    "votos": 142,
+    "puntuación": 6.455,
+    "votos": 144,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -4381,7 +4391,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:43"
+    "última_actualización": "2026-06-09 22:29:29"
   },
   {
     "id": 1315772,
@@ -4418,7 +4428,7 @@
       {
         "name": "Allison Janney",
         "id": 19,
-        "character": "(voice)",
+        "character": "Olivia (voice)",
         "profile_path": "/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg"
       },
       {
@@ -4430,7 +4440,7 @@
       {
         "name": "Jeff Bridges",
         "id": 1229,
-        "character": "(voice)",
+        "character": "Frank/Elwood (voice)",
         "profile_path": "/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
       }
     ],
@@ -4568,6 +4578,6 @@
         }
       ]
     },
-    "última_actualización": "2026-06-09 11:00:43"
+    "última_actualización": "2026-06-09 22:29:29"
   }
 ]
