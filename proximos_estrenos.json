@@ -149,8 +149,8 @@
       }
     ],
     "popularidad": 78.17,
-    "puntuación": 5.4,
-    "votos": 7,
+    "puntuación": 6.444,
+    "votos": 9,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -260,7 +260,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:34"
+    "última_actualización": "2026-06-14 22:24:14"
   },
   {
     "id": 1134463,
@@ -409,7 +409,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:35"
+    "última_actualización": "2026-06-14 22:24:17"
   },
   {
     "id": 1294698,
@@ -473,8 +473,8 @@
       }
     ],
     "popularidad": 2.9292,
-    "puntuación": 6.9,
-    "votos": 211,
+    "puntuación": 6.941,
+    "votos": 212,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -564,7 +564,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:35"
+    "última_actualización": "2026-06-14 22:24:17"
   },
   {
     "id": 1119537,
@@ -699,7 +699,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:35"
+    "última_actualización": "2026-06-14 22:24:18"
   },
   {
     "id": 1516724,
@@ -759,8 +759,8 @@
       }
     ],
     "popularidad": 1.3386,
-    "puntuación": 6.0,
-    "votos": 26,
+    "puntuación": 6.093,
+    "votos": 27,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -850,74 +850,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:36"
-  },
-  {
-    "id": 1634018,
-    "tmdb_id": 1634018,
-    "título": "La vida es Verdi",
-    "título_original": "La vida és Verdi",
-    "sinopsis": "",
-    "poster_path": "/s8ysDDcSCU4idgj4UpxG8Mde8Wk.jpg",
-    "poster_local": "imagenes_estrenos/La_vida_es_Verdi_s8ysDDcSCU4idgj4UpxG8Mde8Wk.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-06-19T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Berta García-Lacht",
-    "directores": [
-      {
-        "name": "Berta García-Lacht",
-        "id": 2707814
-      }
-    ],
-    "actores": [
-      {
-        "name": "Isabel Coixet",
-        "id": 90,
-        "character": "",
-        "profile_path": "/s2Hspn17nOf6LIuVrULvV3OOiX0.jpg"
-      },
-      {
-        "name": "Albert Serra",
-        "id": 932161,
-        "character": "",
-        "profile_path": "/4ubbOopSH7dmxTuT9v7UkMOIXPy.jpg"
-      },
-      {
-        "name": "J. A. Bayona",
-        "id": 51894,
-        "character": "",
-        "profile_path": "/cnbbnS7K8Uu6yohAfSRHv5Kxc7r.jpg"
-      },
-      {
-        "name": "Richard Gere",
-        "id": 1205,
-        "character": "",
-        "profile_path": "/i7wcBNmFldh2E4QInCvmv7CPSIR.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 0.3886,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2026-06-14 10:58:36"
+    "última_actualización": "2026-06-14 22:24:18"
   },
   {
     "id": 1275788,
@@ -1022,7 +955,74 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:36"
+    "última_actualización": "2026-06-14 22:24:20"
+  },
+  {
+    "id": 1634018,
+    "tmdb_id": 1634018,
+    "título": "La vida es Verdi",
+    "título_original": "La vida és Verdi",
+    "sinopsis": "",
+    "poster_path": "/s8ysDDcSCU4idgj4UpxG8Mde8Wk.jpg",
+    "poster_local": "imagenes_estrenos/La_vida_es_Verdi_s8ysDDcSCU4idgj4UpxG8Mde8Wk.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-06-19T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Berta García-Lacht",
+    "directores": [
+      {
+        "name": "Berta García-Lacht",
+        "id": 2707814
+      }
+    ],
+    "actores": [
+      {
+        "name": "Isabel Coixet",
+        "id": 90,
+        "character": "",
+        "profile_path": "/s2Hspn17nOf6LIuVrULvV3OOiX0.jpg"
+      },
+      {
+        "name": "Albert Serra",
+        "id": 932161,
+        "character": "",
+        "profile_path": "/4ubbOopSH7dmxTuT9v7UkMOIXPy.jpg"
+      },
+      {
+        "name": "J. A. Bayona",
+        "id": 51894,
+        "character": "",
+        "profile_path": "/cnbbnS7K8Uu6yohAfSRHv5Kxc7r.jpg"
+      },
+      {
+        "name": "Richard Gere",
+        "id": 1205,
+        "character": "",
+        "profile_path": "/i7wcBNmFldh2E4QInCvmv7CPSIR.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 0.3886,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-06-14 22:24:21"
   },
   {
     "id": 1474225,
@@ -1141,7 +1141,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:37"
+    "última_actualización": "2026-06-14 22:24:21"
   },
   {
     "id": 1025393,
@@ -1236,7 +1236,96 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:38"
+    "última_actualización": "2026-06-14 22:24:22"
+  },
+  {
+    "id": 808224,
+    "tmdb_id": 808224,
+    "título": "El príncipe de Nanawa",
+    "título_original": "El príncipe de Nanawa",
+    "sinopsis": "Con la frontera de Nanawa-Clorinda como escenario, el documental fue construido con los diarios cotidianos que Ángel filma desde los 10 años, combinados con imágenes de diferentes registros que dialogan entre sí y vienen acompañando desde hace tiempo los encuentros entre la realizadora y el protagonista.",
+    "poster_path": "/2OLcd9HiOa05usTZ3KYUsu2ME0A.jpg",
+    "poster_local": "imagenes_estrenos/El_pr_ncipe_de_Nanawa_2OLcd9HiOa05usTZ3KYUsu2ME0A.jpg",
+    "backdrop_path": "/9U1a47dZDDopBvfIZQ6c90ZYFEj.jpg",
+    "backdrop_local": "imagenes_estrenos/El_pr_ncipe_de_Nanawa_backdrop_9U1a47dZDDopBvfIZQ6c90ZYFEj.jpg",
+    "fecha_estreno": "2026-06-19T00:00:00.000Z",
+    "duración": "212 min",
+    "director": "Clarisa Navas",
+    "directores": [
+      {
+        "name": "Clarisa Navas",
+        "id": 1803578
+      }
+    ],
+    "actores": [
+      {
+        "name": "Ángel Stegmayer Caballero",
+        "id": 5887180,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Clarisa Navas",
+        "id": 1803578,
+        "character": "",
+        "profile_path": "/pNArV8PbMb7mFYCVa8quBQivSfd.jpg"
+      },
+      {
+        "name": "Lucas Gabriel Olivares",
+        "id": 3202560,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0546,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/9U1a47dZDDopBvfIZQ6c90ZYFEj.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/2OLcd9HiOa05usTZ3KYUsu2ME0A.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6h42Nmwa4r0wUMx9ecNmcT5RXQK.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-06-14 22:24:27"
   },
   {
     "id": 1421148,
@@ -1514,7 +1603,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:38"
+    "última_actualización": "2026-06-14 22:24:26"
   },
   {
     "id": 1709687,
@@ -1617,7 +1706,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:37"
+    "última_actualización": "2026-06-14 22:24:21"
   },
   {
     "id": 1363043,
@@ -1629,7 +1718,7 @@
     "poster_local": "imagenes_estrenos/ForeFans_5duadjRUPyXzHiVzd0YV89koNnx.jpg",
     "backdrop_path": "/lzKbtobJ8fsL1Etn8cszL2d2Txo.jpg",
     "backdrop_local": "imagenes_estrenos/ForeFans_backdrop_lzKbtobJ8fsL1Etn8cszL2d2Txo.jpg",
-    "fecha_estreno": "2026-06-25T00:00:00.000Z",
+    "fecha_estreno": "2026-06-25",
     "duración": "94 min",
     "director": "Ivan Malekin",
     "directores": [
@@ -1728,7 +1817,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:37"
+    "última_actualización": "2026-06-14 22:24:20"
   },
   {
     "id": 1339713,
@@ -1760,7 +1849,7 @@
         "name": "Inde Navarrette",
         "id": 2638587,
         "character": "Nikki Freeman",
-        "profile_path": "/8mYBaOximzwBgXOYRzbS6eUnoMX.jpg"
+        "profile_path": "/dOyn0C1bUIZiXy2Q4ws04kB1RhS.jpg"
       },
       {
         "name": "Cooper Tomlinson",
@@ -1793,7 +1882,7 @@
     ],
     "popularidad": 796.2753,
     "puntuación": 7.9,
-    "votos": 737,
+    "votos": 745,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1903,7 +1992,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:34"
+    "última_actualización": "2026-06-14 22:24:14"
   },
   {
     "id": 1081003,
@@ -2082,7 +2171,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:34"
+    "última_actualización": "2026-06-14 22:24:14"
   },
   {
     "id": 1284016,
@@ -2231,7 +2320,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:35"
+    "última_actualización": "2026-06-14 22:24:16"
   },
   {
     "id": 1612018,
@@ -2380,7 +2469,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:35"
+    "última_actualización": "2026-06-14 22:24:16"
   },
   {
     "id": 1337985,
@@ -2504,7 +2593,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-06-14 10:58:35"
+    "última_actualización": "2026-06-14 22:24:17"
   },
   {
     "id": 1337438,
@@ -2587,7 +2676,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:36"
+    "última_actualización": "2026-06-14 22:24:18"
   },
   {
     "id": 1313229,
@@ -2728,7 +2817,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:36"
+    "última_actualización": "2026-06-14 22:24:19"
   },
   {
     "id": 1551205,
@@ -2741,7 +2830,7 @@
     "backdrop_path": "/exGCmfVVLGkcqUV8gW1EoV9Bdax.jpg",
     "backdrop_local": "imagenes_estrenos/Viaje_al_pa_s_de_los_blancos_backdrop_exGCmfVVLGkcqUV8gW1EoV9Bdax.jpg",
     "fecha_estreno": "2026-06-26T00:00:00.000Z",
-    "duración": "0 min",
+    "duración": "110 min",
     "director": "Dani Sancho",
     "directores": [
       {
@@ -2859,7 +2948,108 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:38"
+    "última_actualización": "2026-06-14 22:24:22"
+  },
+  {
+    "id": 1447881,
+    "tmdb_id": 1447881,
+    "título": "Morir no siempre sale bien",
+    "título_original": "Morir no siempre sale bien",
+    "sinopsis": "El marido y el hermano de Rosario se han quedado sin trabajo tras un despido improcedente. Para pagar sus deudas, deciden secuestrar el cadáver de su jefe y pedir un rescate. Pero Inés, la adinerada mujer del muerto, y sus hijos tienen otros planes. A pesar de pertenecer a mundos totalmente distintos, ambas familias se verán obligadas a intercambiar mucho más que un cuerpo.",
+    "poster_path": "/maYJaT2WQP70B6Yw93Z0vkeSTJ5.jpg",
+    "poster_local": "imagenes_estrenos/Morir_no_siempre_sale_bien_maYJaT2WQP70B6Yw93Z0vkeSTJ5.jpg",
+    "backdrop_path": "/bT1GVyqPk0Y0FlZf0xqYR2jo3fW.jpg",
+    "backdrop_local": "imagenes_estrenos/Morir_no_siempre_sale_bien_backdrop_bT1GVyqPk0Y0FlZf0xqYR2jo3fW.jpg",
+    "fecha_estreno": "2026-06-26T00:00:00.000Z",
+    "duración": "97 min",
+    "director": "Claudia Pinto Emperador",
+    "directores": [
+      {
+        "name": "Claudia Pinto Emperador",
+        "id": 1316690
+      }
+    ],
+    "actores": [
+      {
+        "name": "Tamara Casellas",
+        "id": 2072194,
+        "character": "",
+        "profile_path": "/nCXGGmFP7pyNrdUtrsDUIOVjyc.jpg"
+      },
+      {
+        "name": "Ana Wagener",
+        "id": 34053,
+        "character": "",
+        "profile_path": "/56QIZqZM71M2PKQv9YvgpfIXrO8.jpg"
+      },
+      {
+        "name": "Juan Carlos Vellido",
+        "id": 1089049,
+        "character": "",
+        "profile_path": "/m1GEfFgcDNPTCTGUhrita7d5ec1.jpg"
+      },
+      {
+        "name": "Pau Durà",
+        "id": 1106176,
+        "character": "",
+        "profile_path": "/dhdYrmCfkhnQ5ertEBnQbjitosG.jpg"
+      },
+      {
+        "name": "Carmen Arrufat",
+        "id": 2388427,
+        "character": "",
+        "profile_path": "/9swPIqmwj4ao2l9Q5zrjZau1GFA.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 0.07,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/bT1GVyqPk0Y0FlZf0xqYR2jo3fW.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1600
+        },
+        {
+          "aspect_ratio": 1.781,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jkEq6PoEt1uxSShV7gAo4fxny92.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1282
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.707,
+          "height": 2829,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/maYJaT2WQP70B6Yw93Z0vkeSTJ5.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-06-14 22:24:26"
   },
   {
     "id": 1646428,
@@ -2982,7 +3172,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:38"
+    "última_actualización": "2026-06-14 22:24:26"
   },
   {
     "id": 1315772,
@@ -3169,7 +3359,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:34"
+    "última_actualización": "2026-06-14 22:24:15"
   },
   {
     "id": 1242332,
@@ -3328,7 +3518,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:35"
+    "última_actualización": "2026-06-14 22:24:15"
   },
   {
     "id": 1284465,
@@ -3463,7 +3653,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:35"
+    "última_actualización": "2026-06-14 22:24:16"
   },
   {
     "id": 975335,
@@ -3602,7 +3792,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:35"
+    "última_actualización": "2026-06-14 22:24:17"
   },
   {
     "id": 1283671,
@@ -3730,7 +3920,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-06-14 10:58:36"
+    "última_actualización": "2026-06-14 22:24:19"
   },
   {
     "id": 1266016,
@@ -3831,7 +4021,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:36"
+    "última_actualización": "2026-06-14 22:24:19"
   },
   {
     "id": 1266805,
@@ -3970,7 +4160,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:37"
+    "última_actualización": "2026-06-14 22:24:20"
   },
   {
     "id": 1087209,
@@ -4078,7 +4268,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-06-14 10:58:37"
+    "última_actualización": "2026-06-14 22:24:21"
   },
   {
     "id": 1318339,
@@ -4183,7 +4373,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:38"
+    "última_actualización": "2026-06-14 22:24:22"
   },
   {
     "id": 1391115,
@@ -4288,7 +4478,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:38"
+    "última_actualización": "2026-06-14 22:24:22"
   },
   {
     "id": 1624632,
@@ -4363,7 +4553,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:38"
+    "última_actualización": "2026-06-14 22:24:27"
   },
   {
     "id": 1108427,
@@ -4546,7 +4736,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:34"
+    "última_actualización": "2026-06-14 22:24:15"
   },
   {
     "id": 1031084,
@@ -4647,6 +4837,6 @@
         }
       ]
     },
-    "última_actualización": "2026-06-14 10:58:36"
+    "última_actualización": "2026-06-14 22:24:19"
   }
 ]
