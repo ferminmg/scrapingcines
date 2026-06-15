@@ -260,7 +260,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:05"
+    "última_actualización": "2026-06-15 22:39:07"
   },
   {
     "id": 1134463,
@@ -409,7 +409,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:06"
+    "última_actualización": "2026-06-15 22:39:08"
   },
   {
     "id": 1294698,
@@ -473,8 +473,8 @@
       }
     ],
     "popularidad": 2.6739,
-    "puntuación": 6.941,
-    "votos": 212,
+    "puntuación": 6.946,
+    "votos": 213,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -564,7 +564,168 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:06"
+    "última_actualización": "2026-06-15 22:39:08"
+  },
+  {
+    "id": 1516724,
+    "tmdb_id": 1516724,
+    "título": "El placer es mío",
+    "título_original": "Pour le plaisir",
+    "sinopsis": "",
+    "poster_path": "/uz9vg4YqxWIhkRBzYNNzWFmi1vn.jpg",
+    "poster_local": "imagenes_estrenos/El_placer_es_m_o_2cWdr2n7VNrLEAer6hMPASIP7Px.jpg",
+    "backdrop_path": "/eJKKygAF718jp1HhGvH3SMoi5Cv.jpg",
+    "backdrop_local": "imagenes_estrenos/El_placer_es_m_o_backdrop_eJKKygAF718jp1HhGvH3SMoi5Cv.jpg",
+    "fecha_estreno": "2026-06-19T00:00:00.000Z",
+    "duración": "95 min",
+    "director": "Reem Kherici",
+    "directores": [
+      {
+        "name": "Reem Kherici",
+        "id": 583687
+      }
+    ],
+    "actores": [
+      {
+        "name": "Alexandra Lamy",
+        "id": 113617,
+        "character": "Fanny",
+        "profile_path": "/m52fdEhVo6sBjEhgyM6bqFwC1HA.jpg"
+      },
+      {
+        "name": "François Cluzet",
+        "id": 33161,
+        "character": "Thomas",
+        "profile_path": "/4ioxRGRJdSjItLxAQ2pp7byWkd3.jpg"
+      },
+      {
+        "name": "Mitty Hazanavicius",
+        "id": 2924621,
+        "character": "Elsa",
+        "profile_path": "/4WzOf2T2NOlgG1t9k8SNMCfyhth.jpg"
+      },
+      {
+        "name": "Delphine Baril",
+        "id": 1146844,
+        "character": "Pauline",
+        "profile_path": "/571fTrSLspp8xPGkwwBUpKhl884.jpg"
+      },
+      {
+        "name": "François-Xavier Demaison",
+        "id": 76858,
+        "character": "Serge",
+        "profile_path": "/u2WWC1YAJuZLLk6Ho4IzhNAozqe.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 1.6701,
+    "puntuación": 6.1,
+    "votos": 27,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/eJKKygAF718jp1HhGvH3SMoi5Cv.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/iQ8hrjlETwAUQYmxkXlT4MIZ4Cm.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ozxSC7lFdFuycMCb2T0hgBkVAl6.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/hZK1XJoosuW38JS3vueFbegVr4q.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/2vaV23csj8O4EZ2HTSbSnlX61Af.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.75,
+          "height": 1600,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/euXfrO9ub7mt0F6rwpa284Vv2vc.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1200
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/crKmlntVlLHrycvYZzSF9kI5OxF.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jUa9PYAILlWsw8oVd4p2oWxOebL.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 600
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 2471,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/uz9vg4YqxWIhkRBzYNNzWFmi1vn.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1647
+        }
+      ]
+    },
+    "última_actualización": "2026-06-15 22:39:08"
   },
   {
     "id": 1119537,
@@ -699,158 +860,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:06"
-  },
-  {
-    "id": 1516724,
-    "tmdb_id": 1516724,
-    "título": "El placer es mío",
-    "título_original": "Pour le plaisir",
-    "sinopsis": "",
-    "poster_path": "/2cWdr2n7VNrLEAer6hMPASIP7Px.jpg",
-    "poster_local": "imagenes_estrenos/El_placer_es_m_o_2cWdr2n7VNrLEAer6hMPASIP7Px.jpg",
-    "backdrop_path": "/eJKKygAF718jp1HhGvH3SMoi5Cv.jpg",
-    "backdrop_local": "imagenes_estrenos/El_placer_es_m_o_backdrop_eJKKygAF718jp1HhGvH3SMoi5Cv.jpg",
-    "fecha_estreno": "2026-06-19T00:00:00.000Z",
-    "duración": "95 min",
-    "director": "Reem Kherici",
-    "directores": [
-      {
-        "name": "Reem Kherici",
-        "id": 583687
-      }
-    ],
-    "actores": [
-      {
-        "name": "Alexandra Lamy",
-        "id": 113617,
-        "character": "Fanny",
-        "profile_path": "/m52fdEhVo6sBjEhgyM6bqFwC1HA.jpg"
-      },
-      {
-        "name": "François Cluzet",
-        "id": 33161,
-        "character": "Thomas",
-        "profile_path": "/4ioxRGRJdSjItLxAQ2pp7byWkd3.jpg"
-      },
-      {
-        "name": "Mitty Hazanavicius",
-        "id": 2924621,
-        "character": "Elsa",
-        "profile_path": "/4WzOf2T2NOlgG1t9k8SNMCfyhth.jpg"
-      },
-      {
-        "name": "Delphine Baril",
-        "id": 1146844,
-        "character": "Pauline",
-        "profile_path": "/571fTrSLspp8xPGkwwBUpKhl884.jpg"
-      },
-      {
-        "name": "François-Xavier Demaison",
-        "id": 76858,
-        "character": "Serge",
-        "profile_path": "/u2WWC1YAJuZLLk6Ho4IzhNAozqe.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 1.6701,
-    "puntuación": 6.093,
-    "votos": 27,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/eJKKygAF718jp1HhGvH3SMoi5Cv.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/iQ8hrjlETwAUQYmxkXlT4MIZ4Cm.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ozxSC7lFdFuycMCb2T0hgBkVAl6.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/hZK1XJoosuW38JS3vueFbegVr4q.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/2vaV23csj8O4EZ2HTSbSnlX61Af.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.75,
-          "height": 1600,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/euXfrO9ub7mt0F6rwpa284Vv2vc.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1200
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1500,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/crKmlntVlLHrycvYZzSF9kI5OxF.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 900,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/jUa9PYAILlWsw8oVd4p2oWxOebL.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 600
-        }
-      ]
-    },
-    "última_actualización": "2026-06-15 10:11:07"
+    "última_actualización": "2026-06-15 22:39:09"
   },
   {
     "id": 1275788,
@@ -955,74 +965,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:07"
-  },
-  {
-    "id": 1634018,
-    "tmdb_id": 1634018,
-    "título": "La vida es Verdi",
-    "título_original": "La vida és Verdi",
-    "sinopsis": "",
-    "poster_path": "/s8ysDDcSCU4idgj4UpxG8Mde8Wk.jpg",
-    "poster_local": "imagenes_estrenos/La_vida_es_Verdi_s8ysDDcSCU4idgj4UpxG8Mde8Wk.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-06-19T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Berta García-Lacht",
-    "directores": [
-      {
-        "name": "Berta García-Lacht",
-        "id": 2707814
-      }
-    ],
-    "actores": [
-      {
-        "name": "Isabel Coixet",
-        "id": 90,
-        "character": "",
-        "profile_path": "/s2Hspn17nOf6LIuVrULvV3OOiX0.jpg"
-      },
-      {
-        "name": "Albert Serra",
-        "id": 932161,
-        "character": "",
-        "profile_path": "/4ubbOopSH7dmxTuT9v7UkMOIXPy.jpg"
-      },
-      {
-        "name": "J. A. Bayona",
-        "id": 51894,
-        "character": "",
-        "profile_path": "/cnbbnS7K8Uu6yohAfSRHv5Kxc7r.jpg"
-      },
-      {
-        "name": "Richard Gere",
-        "id": 1205,
-        "character": "",
-        "profile_path": "/i7wcBNmFldh2E4QInCvmv7CPSIR.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 0.2854,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2026-06-15 10:11:07"
+    "última_actualización": "2026-06-15 22:39:10"
   },
   {
     "id": 1474225,
@@ -1141,7 +1084,74 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:08"
+    "última_actualización": "2026-06-15 22:39:10"
+  },
+  {
+    "id": 1634018,
+    "tmdb_id": 1634018,
+    "título": "La vida es Verdi",
+    "título_original": "La vida és Verdi",
+    "sinopsis": "",
+    "poster_path": "/s8ysDDcSCU4idgj4UpxG8Mde8Wk.jpg",
+    "poster_local": "imagenes_estrenos/La_vida_es_Verdi_s8ysDDcSCU4idgj4UpxG8Mde8Wk.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-06-19T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Berta García-Lacht",
+    "directores": [
+      {
+        "name": "Berta García-Lacht",
+        "id": 2707814
+      }
+    ],
+    "actores": [
+      {
+        "name": "Isabel Coixet",
+        "id": 90,
+        "character": "",
+        "profile_path": "/s2Hspn17nOf6LIuVrULvV3OOiX0.jpg"
+      },
+      {
+        "name": "Albert Serra",
+        "id": 932161,
+        "character": "",
+        "profile_path": "/4ubbOopSH7dmxTuT9v7UkMOIXPy.jpg"
+      },
+      {
+        "name": "J. A. Bayona",
+        "id": 51894,
+        "character": "",
+        "profile_path": "/cnbbnS7K8Uu6yohAfSRHv5Kxc7r.jpg"
+      },
+      {
+        "name": "Richard Gere",
+        "id": 1205,
+        "character": "",
+        "profile_path": "/i7wcBNmFldh2E4QInCvmv7CPSIR.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 0.2854,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-06-15 22:39:11"
   },
   {
     "id": 1025393,
@@ -1236,7 +1246,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:08"
+    "última_actualización": "2026-06-15 22:39:11"
   },
   {
     "id": 808224,
@@ -1325,7 +1335,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:09"
+    "última_actualización": "2026-06-15 22:39:12"
   },
   {
     "id": 1421148,
@@ -1603,7 +1613,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:09"
+    "última_actualización": "2026-06-15 22:39:12"
   },
   {
     "id": 1709687,
@@ -1706,7 +1716,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:08"
+    "última_actualización": "2026-06-15 22:39:10"
   },
   {
     "id": 1363043,
@@ -1817,7 +1827,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:07"
+    "última_actualización": "2026-06-15 22:39:10"
   },
   {
     "id": 1339713,
@@ -1849,7 +1859,7 @@
         "name": "Inde Navarrette",
         "id": 2638587,
         "character": "Nikki Freeman",
-        "profile_path": "/dOyn0C1bUIZiXy2Q4ws04kB1RhS.jpg"
+        "profile_path": "/8mYBaOximzwBgXOYRzbS6eUnoMX.jpg"
       },
       {
         "name": "Cooper Tomlinson",
@@ -1881,8 +1891,8 @@
       }
     ],
     "popularidad": 770.2638,
-    "puntuación": 7.925,
-    "votos": 755,
+    "puntuación": 7.921,
+    "votos": 774,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1992,7 +2002,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:05"
+    "última_actualización": "2026-06-15 22:39:07"
   },
   {
     "id": 1081003,
@@ -2002,7 +2012,7 @@
     "sinopsis": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
     "poster_path": "/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
     "poster_local": "imagenes_estrenos/Supergirl_j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
-    "backdrop_path": "/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
+    "backdrop_path": "/2qWVt6JS1mIC2X2awSuuOnAYNbE.jpg",
     "backdrop_local": "imagenes_estrenos/Supergirl_backdrop_8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
     "fecha_estreno": "2026-06-26T00:00:00.000Z",
     "duración": "108 min",
@@ -2069,22 +2079,12 @@
       "backdrops": [
         {
           "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
-          "vote_average": 7.032,
-          "vote_count": 16,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
           "height": 1600,
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/2qWVt6JS1mIC2X2awSuuOnAYNbE.jpg",
-          "vote_average": 6.722,
-          "vote_count": 9,
+          "vote_average": 7.05,
+          "vote_count": 10,
           "width": 2845
         },
         {
@@ -2092,9 +2092,9 @@
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/l7WwYCdBGgSL3XiQcZBUViYV4h6.jpg",
-          "vote_average": 6.722,
-          "vote_count": 6,
+          "file_path": "/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
+          "vote_average": 7.032,
+          "vote_count": 16,
           "width": 3840
         },
         {
@@ -2116,6 +2116,16 @@
           "vote_average": 5.786,
           "vote_count": 7,
           "width": 1899
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1548,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/70GFlSR8e4A4sUZtWril19Cucy7.jpg",
+          "vote_average": 5.786,
+          "vote_count": 7,
+          "width": 2752
         }
       ],
       "posters": [
@@ -2127,6 +2137,26 @@
           "file_path": "/jHTd4qddi7PikMX7Un4C2wZzWim.jpg",
           "vote_average": 3.334,
           "vote_count": 3,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wRxJ27v4iItFkYIEQHvIgWshzgh.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/pM7NOBYzqWCnAnLDuGWgbHZpV0k.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
           "width": 2000
         },
         {
@@ -2148,30 +2178,10 @@
           "vote_average": 2.278,
           "vote_count": 3,
           "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/bxDoSISvNts9f4eQbvjJeeyUFVx.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/uHCouQyBHJ3DMbWHZqtDI6ehkds.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2000
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:05"
+    "última_actualización": "2026-06-15 22:39:07"
   },
   {
     "id": 1284016,
@@ -2320,7 +2330,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:05"
+    "última_actualización": "2026-06-15 22:39:08"
   },
   {
     "id": 1612018,
@@ -2469,7 +2479,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:06"
+    "última_actualización": "2026-06-15 22:39:08"
   },
   {
     "id": 1337985,
@@ -2593,7 +2603,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-06-15 10:11:06"
+    "última_actualización": "2026-06-15 22:39:08"
   },
   {
     "id": 1337438,
@@ -2676,7 +2686,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:06"
+    "última_actualización": "2026-06-15 22:39:09"
   },
   {
     "id": 1313229,
@@ -2817,7 +2827,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:07"
+    "última_actualización": "2026-06-15 22:39:09"
   },
   {
     "id": 1551205,
@@ -2948,7 +2958,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:08"
+    "última_actualización": "2026-06-15 22:39:11"
   },
   {
     "id": 1447881,
@@ -3049,7 +3059,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:08"
+    "última_actualización": "2026-06-15 22:39:11"
   },
   {
     "id": 1646428,
@@ -3172,7 +3182,166 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:08"
+    "última_actualización": "2026-06-15 22:39:11"
+  },
+  {
+    "id": 1242332,
+    "tmdb_id": 1242332,
+    "título": "Normal",
+    "título_original": "Normal",
+    "sinopsis": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
+    "poster_path": "/1KmqwmCPrrs06qHFmwx4kzB58kJ.jpg",
+    "poster_local": "imagenes_estrenos/Normal_1KmqwmCPrrs06qHFmwx4kzB58kJ.jpg",
+    "backdrop_path": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
+    "backdrop_local": "imagenes_estrenos/Normal_backdrop_1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
+    "fecha_estreno": "2026-07-01T00:00:00.000Z",
+    "duración": "91 min",
+    "director": "Ben Wheatley",
+    "directores": [
+      {
+        "name": "Ben Wheatley",
+        "id": 137467
+      }
+    ],
+    "actores": [
+      {
+        "name": "Bob Odenkirk",
+        "id": 59410,
+        "character": "Ulysses Richardson",
+        "profile_path": "/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+      },
+      {
+        "name": "Henry Winkler",
+        "id": 31903,
+        "character": "Mayor Kibner",
+        "profile_path": "/mGlSRA5RDswEDmY8oWEizXliShp.jpg"
+      },
+      {
+        "name": "Lena Headey",
+        "id": 17286,
+        "character": "Moira",
+        "profile_path": "/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
+      },
+      {
+        "name": "Billy MacLellan",
+        "id": 63814,
+        "character": "Deputy Mike Nelson",
+        "profile_path": "/9ObnhjbbeVEhk8g941FrLq4W0r7.jpg"
+      },
+      {
+        "name": "Ryan Allen",
+        "id": 62651,
+        "character": "Deputy Blaine Anderson",
+        "profile_path": "/99O5NjoOmO4uCmTYaQhipj1qMNx.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 19.9028,
+    "puntuación": 6.46,
+    "votos": 162,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
+          "vote_average": 6.722,
+          "vote_count": 6,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/kHdFlyJEHZq2vJDGDW5crp3d9Jv.jpg",
+          "vote_average": 5.25,
+          "vote_count": 8,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/y9anLJX0ozvldlM1wgGafFz28QR.jpg",
+          "vote_average": 5.25,
+          "vote_count": 8,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/47XRlwn3a1lP3BckKSm6HAQAx5O.jpg",
+          "vote_average": 3.334,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zt0rbWjn5ErLWee8RXPszlxfOa2.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/s4eTcJ3eQfBfoUPjtisH3L9xuhX.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/gWz8vcDXt3dZkRueleggCMCHBut.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.712,
+          "height": 911,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/1KmqwmCPrrs06qHFmwx4kzB58kJ.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 649
+        }
+      ]
+    },
+    "última_actualización": "2026-06-15 22:39:07"
   },
   {
     "id": 1315772,
@@ -3359,166 +3528,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:05"
-  },
-  {
-    "id": 1242332,
-    "tmdb_id": 1242332,
-    "título": "Normal",
-    "título_original": "Normal",
-    "sinopsis": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
-    "poster_path": "/1KmqwmCPrrs06qHFmwx4kzB58kJ.jpg",
-    "poster_local": "imagenes_estrenos/Normal_1KmqwmCPrrs06qHFmwx4kzB58kJ.jpg",
-    "backdrop_path": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
-    "backdrop_local": "imagenes_estrenos/Normal_backdrop_1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
-    "fecha_estreno": "2026-07-01T00:00:00.000Z",
-    "duración": "91 min",
-    "director": "Ben Wheatley",
-    "directores": [
-      {
-        "name": "Ben Wheatley",
-        "id": 137467
-      }
-    ],
-    "actores": [
-      {
-        "name": "Bob Odenkirk",
-        "id": 59410,
-        "character": "Ulysses Richardson",
-        "profile_path": "/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
-      },
-      {
-        "name": "Henry Winkler",
-        "id": 31903,
-        "character": "Mayor Kibner",
-        "profile_path": "/mGlSRA5RDswEDmY8oWEizXliShp.jpg"
-      },
-      {
-        "name": "Lena Headey",
-        "id": 17286,
-        "character": "Moira",
-        "profile_path": "/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
-      },
-      {
-        "name": "Billy MacLellan",
-        "id": 63814,
-        "character": "Deputy Mike Nelson",
-        "profile_path": "/9ObnhjbbeVEhk8g941FrLq4W0r7.jpg"
-      },
-      {
-        "name": "Ryan Allen",
-        "id": 62651,
-        "character": "Deputy Blaine Anderson",
-        "profile_path": "/99O5NjoOmO4uCmTYaQhipj1qMNx.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 28,
-        "name": "Acción"
-      },
-      {
-        "id": 80,
-        "name": "Crimen"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 19.9028,
-    "puntuación": 6.5,
-    "votos": 158,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
-          "vote_average": 6.722,
-          "vote_count": 6,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/kHdFlyJEHZq2vJDGDW5crp3d9Jv.jpg",
-          "vote_average": 5.25,
-          "vote_count": 8,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/y9anLJX0ozvldlM1wgGafFz28QR.jpg",
-          "vote_average": 5.25,
-          "vote_count": 8,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/47XRlwn3a1lP3BckKSm6HAQAx5O.jpg",
-          "vote_average": 3.334,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/zt0rbWjn5ErLWee8RXPszlxfOa2.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/s4eTcJ3eQfBfoUPjtisH3L9xuhX.jpg",
-          "vote_average": 0.0,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/gWz8vcDXt3dZkRueleggCMCHBut.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.712,
-          "height": 911,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/1KmqwmCPrrs06qHFmwx4kzB58kJ.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 649
-        }
-      ]
-    },
-    "última_actualización": "2026-06-15 10:11:05"
+    "última_actualización": "2026-06-15 22:39:07"
   },
   {
     "id": 1284465,
@@ -3653,7 +3663,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:06"
+    "última_actualización": "2026-06-15 22:39:08"
   },
   {
     "id": 975335,
@@ -3792,7 +3802,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:06"
+    "última_actualización": "2026-06-15 22:39:08"
   },
   {
     "id": 1283671,
@@ -3920,7 +3930,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-06-15 10:11:07"
+    "última_actualización": "2026-06-15 22:39:09"
   },
   {
     "id": 1266016,
@@ -4021,7 +4031,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:07"
+    "última_actualización": "2026-06-15 22:39:09"
   },
   {
     "id": 1266805,
@@ -4160,7 +4170,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:07"
+    "última_actualización": "2026-06-15 22:39:09"
   },
   {
     "id": 1087209,
@@ -4268,7 +4278,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-06-15 10:11:08"
+    "última_actualización": "2026-06-15 22:39:10"
   },
   {
     "id": 1318339,
@@ -4373,7 +4383,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:08"
+    "última_actualización": "2026-06-15 22:39:11"
   },
   {
     "id": 1391115,
@@ -4478,7 +4488,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:08"
+    "última_actualización": "2026-06-15 22:39:11"
   },
   {
     "id": 1624632,
@@ -4553,7 +4563,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:09"
+    "última_actualización": "2026-06-15 22:39:12"
   },
   {
     "id": 1108427,
@@ -4736,7 +4746,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:05"
+    "última_actualización": "2026-06-15 22:39:07"
   },
   {
     "id": 1031084,
@@ -4837,6 +4847,6 @@
         }
       ]
     },
-    "última_actualización": "2026-06-15 10:11:07"
+    "última_actualización": "2026-06-15 22:39:09"
   }
 ]
