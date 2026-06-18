@@ -6,7 +6,7 @@
             {
                 "fecha": "2026-06-18",
                 "hora": "11:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100655&eventCode=111647"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2026-06-18",
@@ -1022,6 +1022,118 @@
                 "fecha": "2026-06-24",
                 "hora": "21:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91430&eventCode=111413"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Max Walker-Silverman",
+        "duración": "96 min",
+        "actores": "Josh O'Connor, Meghann Fahy, Lily LaTorre, Kali Reis, Amy Madigan",
+        "sinopsis": "Después de que un incendio forestal arrasara su granja, Dusty (Josh O’Connor), un padre divorciado, se ve obligado a comenzar de nuevo en un campamento de casas rodantes habilitado por el gobierno. En medio del dolor, encuentra una inesperada red de apoyo en sus nuevos vecinos, mientras intenta recomponer los lazos rotos con su exesposa Ruby (Meghann Fahy) y su hija Callie-Rose (Lily LaTorre).",
+        "año": "2025"
+    },
+    {
+        "título": "15 pruebas de amor",
+        "cartel": "imagenes_peliculas/tmdb_15_pruebas_de_amor.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-25",
+                "hora": "17:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91555&eventCode=111666"
+            },
+            {
+                "fecha": "2026-06-25",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91558&eventCode=111666"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Alice Douard",
+        "duración": "97 min",
+        "actores": "Ella Rumpf, Monia Chokri, Noémie Lvovsky, Félix Kysyl, Anne Le Ny",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Caso 137",
+        "cartel": "imagenes_peliculas/tmdb_caso_137.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-25",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91442&eventCode=104654"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Dominik Moll",
+        "duración": "115 min",
+        "actores": "Léa Drucker, Jonathan Turnbull, Mathilde Riu, Guslagie Malanda, Stanislas Merhar",
+        "sinopsis": "Stéphanie, agente de policía de Asuntos Internos, es asignada a un caso relacionado con un joven gravemente herido durante una tensa y caótica manifestación en París. Si bien no encuentra pruebas de violencia policial ilegítima, el caso adquiere un cariz personal al descubrir que la víctima es de su ciudad natal y transformará el caso 137 en algo más que un simple número.",
+        "año": "2025"
+    },
+    {
+        "título": "Dreams",
+        "cartel": "imagenes_peliculas/tmdb_dreams.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-25",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91441&eventCode=112246"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Michel Franco",
+        "duración": "98 min",
+        "actores": "Jessica Chastain, Isaac Hernández, Rupert Friend, Marshall Bell, Eligio Meléndez",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Viva",
+        "cartel": "imagenes_peliculas/tmdb_viva.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-25",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91447&eventCode=111239"
+            },
+            {
+                "fecha": "2026-06-25",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91448&eventCode=111239"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Paddy Breathnach",
+        "duración": "100 min",
+        "actores": "Héctor Medina, Jorge Perugorría, Luis Alberto García, Renata Maikel Machin Blanco, Luis Manuel Alvarez",
+        "sinopsis": "Jesús, un chico cubano de 18 años, intenta encontrar su verdadera identidad. Sobrevive peinando a señoras del barrio y arreglando pelucas en un cabaret de La Habana. Pero su vida cambia por completo cuando su padre, un famoso boxeador al que daban por muerto, sale de la cárcel y regresa para vivir con él. Desde ese momento, lucharán por volver a ser padre e hijo",
+        "año": "2015"
+    },
+    {
+        "título": "Solomamma",
+        "cartel": "imagenes_peliculas/tmdb_solomamma.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-25",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91556&eventCode=111750"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Janicke Askevold",
+        "duración": "99 min",
+        "actores": "Lisa Loven Kongsli, Herbert Nordrum, Rolf Kristian Larsen, Nasrin Khusrawi, Kaveh Tehrani",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Rebuilding",
+        "cartel": "imagenes_peliculas/tmdb_rebuilding.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-25",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91445&eventCode=111413"
             }
         ],
         "cine": "Golem Yamaguchi",
