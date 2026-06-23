@@ -6,7 +6,7 @@
             {
                 "fecha": "2026-06-23",
                 "hora": "21:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100888&eventCode=106128"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -23,7 +23,7 @@
             {
                 "fecha": "2026-06-23",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100879&eventCode=109552"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -317,7 +317,7 @@
             {
                 "fecha": "2026-06-23",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91414&eventCode=111666"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -334,7 +334,7 @@
             {
                 "fecha": "2026-06-23",
                 "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91412&eventCode=104654"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -351,7 +351,7 @@
             {
                 "fecha": "2026-06-23",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91411&eventCode=112246"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -368,12 +368,12 @@
             {
                 "fecha": "2026-06-23",
                 "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91417&eventCode=111239"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2026-06-23",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91418&eventCode=111239"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -390,7 +390,7 @@
             {
                 "fecha": "2026-06-23",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91553&eventCode=111750"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -407,7 +407,7 @@
             {
                 "fecha": "2026-06-23",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91415&eventCode=111413"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -640,5 +640,516 @@
         "actores": "Josh O'Connor, Meghann Fahy, Lily LaTorre, Kali Reis, Amy Madigan",
         "sinopsis": "Después de que un incendio forestal arrasara su granja, Dusty (Josh O’Connor), un padre divorciado, se ve obligado a comenzar de nuevo en un campamento de casas rodantes habilitado por el gobierno. En medio del dolor, encuentra una inesperada red de apoyo en sus nuevos vecinos, mientras intenta recomponer los lazos rotos con su exesposa Ruby (Meghann Fahy) y su hija Callie-Rose (Lily LaTorre).",
         "año": "2025"
+    },
+    {
+        "título": "La mujer sin nombre",
+        "cartel": "imagenes_peliculas/tmdb_la_mujer_sin_nombre.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-26",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91564&eventCode=112131"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Haifaa al-Mansour",
+        "duración": "100 min",
+        "actores": "ميلا الزهراني, Aziz Gharbawi, Shafi Al Harthy",
+        "sinopsis": "",
+        "año": "2026"
+    },
+    {
+        "título": "15 pruebas de amor",
+        "cartel": "imagenes_peliculas/tmdb_15_pruebas_de_amor.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-26",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91560&eventCode=111666"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Alice Douard",
+        "duración": "97 min",
+        "actores": "Ella Rumpf, Monia Chokri, Noémie Lvovsky, Félix Kysyl, Anne Le Ny",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Caso 137",
+        "cartel": "imagenes_peliculas/tmdb_caso_137.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-26",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91571&eventCode=104654"
+            },
+            {
+                "fecha": "2026-06-26",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91572&eventCode=104654"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Dominik Moll",
+        "duración": "115 min",
+        "actores": "Léa Drucker, Jonathan Turnbull, Mathilde Riu, Guslagie Malanda, Stanislas Merhar",
+        "sinopsis": "Stéphanie, agente de policía de Asuntos Internos, es asignada a un caso relacionado con un joven gravemente herido durante una tensa y caótica manifestación en París. Si bien no encuentra pruebas de violencia policial ilegítima, el caso adquiere un cariz personal al descubrir que la víctima es de su ciudad natal y transformará el caso 137 en algo más que un simple número.",
+        "año": "2025"
+    },
+    {
+        "título": "Viva",
+        "cartel": "imagenes_peliculas/tmdb_viva.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-26",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91561&eventCode=111239"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Aina Clotet",
+        "duración": "113 min",
+        "actores": "Aina Clotet, Marc Soler Rull, Naby Dakhli, Guillermo Toledo, Lloll Bertran",
+        "sinopsis": "Durante un futuro cercano marcado por la salud mental y una extrema sequía, una mujer cuarentañera se enfrenta a la vida después de superar un cáncer de pecho.",
+        "año": "2026"
+    },
+    {
+        "título": "La mujer sin nombre",
+        "cartel": "imagenes_peliculas/tmdb_la_mujer_sin_nombre.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-27",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91574&eventCode=112131"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Haifaa al-Mansour",
+        "duración": "100 min",
+        "actores": "ميلا الزهراني, Aziz Gharbawi, Shafi Al Harthy",
+        "sinopsis": "",
+        "año": "2026"
+    },
+    {
+        "título": "15 pruebas de amor",
+        "cartel": "imagenes_peliculas/tmdb_15_pruebas_de_amor.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-27",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91585&eventCode=111666"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Alice Douard",
+        "duración": "97 min",
+        "actores": "Ella Rumpf, Monia Chokri, Noémie Lvovsky, Félix Kysyl, Anne Le Ny",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Caso 137",
+        "cartel": "imagenes_peliculas/tmdb_caso_137.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-27",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91581&eventCode=104654"
+            },
+            {
+                "fecha": "2026-06-27",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91582&eventCode=104654"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Dominik Moll",
+        "duración": "115 min",
+        "actores": "Léa Drucker, Jonathan Turnbull, Mathilde Riu, Guslagie Malanda, Stanislas Merhar",
+        "sinopsis": "Stéphanie, agente de policía de Asuntos Internos, es asignada a un caso relacionado con un joven gravemente herido durante una tensa y caótica manifestación en París. Si bien no encuentra pruebas de violencia policial ilegítima, el caso adquiere un cariz personal al descubrir que la víctima es de su ciudad natal y transformará el caso 137 en algo más que un simple número.",
+        "año": "2025"
+    },
+    {
+        "título": "Viva",
+        "cartel": "imagenes_peliculas/tmdb_viva.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-27",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91586&eventCode=111239"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Aina Clotet",
+        "duración": "113 min",
+        "actores": "Aina Clotet, Marc Soler Rull, Naby Dakhli, Guillermo Toledo, Lloll Bertran",
+        "sinopsis": "Durante un futuro cercano marcado por la salud mental y una extrema sequía, una mujer cuarentañera se enfrenta a la vida después de superar un cáncer de pecho.",
+        "año": "2026"
+    },
+    {
+        "título": "La mujer sin nombre",
+        "cartel": "imagenes_peliculas/tmdb_la_mujer_sin_nombre.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-28",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91589&eventCode=112131"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Haifaa al-Mansour",
+        "duración": "100 min",
+        "actores": "ميلا الزهراني, Aziz Gharbawi, Shafi Al Harthy",
+        "sinopsis": "",
+        "año": "2026"
+    },
+    {
+        "título": "15 pruebas de amor",
+        "cartel": "imagenes_peliculas/tmdb_15_pruebas_de_amor.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-28",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91600&eventCode=111666"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Alice Douard",
+        "duración": "97 min",
+        "actores": "Ella Rumpf, Monia Chokri, Noémie Lvovsky, Félix Kysyl, Anne Le Ny",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Caso 137",
+        "cartel": "imagenes_peliculas/tmdb_caso_137.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-28",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91596&eventCode=104654"
+            },
+            {
+                "fecha": "2026-06-28",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91597&eventCode=104654"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Dominik Moll",
+        "duración": "115 min",
+        "actores": "Léa Drucker, Jonathan Turnbull, Mathilde Riu, Guslagie Malanda, Stanislas Merhar",
+        "sinopsis": "Stéphanie, agente de policía de Asuntos Internos, es asignada a un caso relacionado con un joven gravemente herido durante una tensa y caótica manifestación en París. Si bien no encuentra pruebas de violencia policial ilegítima, el caso adquiere un cariz personal al descubrir que la víctima es de su ciudad natal y transformará el caso 137 en algo más que un simple número.",
+        "año": "2025"
+    },
+    {
+        "título": "Viva",
+        "cartel": "imagenes_peliculas/tmdb_viva.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-28",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91601&eventCode=111239"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Aina Clotet",
+        "duración": "113 min",
+        "actores": "Aina Clotet, Marc Soler Rull, Naby Dakhli, Guillermo Toledo, Lloll Bertran",
+        "sinopsis": "Durante un futuro cercano marcado por la salud mental y una extrema sequía, una mujer cuarentañera se enfrenta a la vida después de superar un cáncer de pecho.",
+        "año": "2026"
+    },
+    {
+        "título": "La mujer sin nombre",
+        "cartel": "imagenes_peliculas/tmdb_la_mujer_sin_nombre.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-29",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91604&eventCode=112131"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Haifaa al-Mansour",
+        "duración": "100 min",
+        "actores": "ميلا الزهراني, Aziz Gharbawi, Shafi Al Harthy",
+        "sinopsis": "",
+        "año": "2026"
+    },
+    {
+        "título": "15 pruebas de amor",
+        "cartel": "imagenes_peliculas/tmdb_15_pruebas_de_amor.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-29",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91615&eventCode=111666"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Alice Douard",
+        "duración": "97 min",
+        "actores": "Ella Rumpf, Monia Chokri, Noémie Lvovsky, Félix Kysyl, Anne Le Ny",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Caso 137",
+        "cartel": "imagenes_peliculas/tmdb_caso_137.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-29",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91611&eventCode=104654"
+            },
+            {
+                "fecha": "2026-06-29",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91612&eventCode=104654"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Dominik Moll",
+        "duración": "115 min",
+        "actores": "Léa Drucker, Jonathan Turnbull, Mathilde Riu, Guslagie Malanda, Stanislas Merhar",
+        "sinopsis": "Stéphanie, agente de policía de Asuntos Internos, es asignada a un caso relacionado con un joven gravemente herido durante una tensa y caótica manifestación en París. Si bien no encuentra pruebas de violencia policial ilegítima, el caso adquiere un cariz personal al descubrir que la víctima es de su ciudad natal y transformará el caso 137 en algo más que un simple número.",
+        "año": "2025"
+    },
+    {
+        "título": "Viva",
+        "cartel": "imagenes_peliculas/tmdb_viva.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-29",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91616&eventCode=111239"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Aina Clotet",
+        "duración": "113 min",
+        "actores": "Aina Clotet, Marc Soler Rull, Naby Dakhli, Guillermo Toledo, Lloll Bertran",
+        "sinopsis": "Durante un futuro cercano marcado por la salud mental y una extrema sequía, una mujer cuarentañera se enfrenta a la vida después de superar un cáncer de pecho.",
+        "año": "2026"
+    },
+    {
+        "título": "La mujer sin nombre",
+        "cartel": "imagenes_peliculas/tmdb_la_mujer_sin_nombre.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-30",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91619&eventCode=112131"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Haifaa al-Mansour",
+        "duración": "100 min",
+        "actores": "ميلا الزهراني, Aziz Gharbawi, Shafi Al Harthy",
+        "sinopsis": "",
+        "año": "2026"
+    },
+    {
+        "título": "15 pruebas de amor",
+        "cartel": "imagenes_peliculas/tmdb_15_pruebas_de_amor.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-30",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91630&eventCode=111666"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Alice Douard",
+        "duración": "97 min",
+        "actores": "Ella Rumpf, Monia Chokri, Noémie Lvovsky, Félix Kysyl, Anne Le Ny",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Caso 137",
+        "cartel": "imagenes_peliculas/tmdb_caso_137.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-30",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91626&eventCode=104654"
+            },
+            {
+                "fecha": "2026-06-30",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91627&eventCode=104654"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Dominik Moll",
+        "duración": "115 min",
+        "actores": "Léa Drucker, Jonathan Turnbull, Mathilde Riu, Guslagie Malanda, Stanislas Merhar",
+        "sinopsis": "Stéphanie, agente de policía de Asuntos Internos, es asignada a un caso relacionado con un joven gravemente herido durante una tensa y caótica manifestación en París. Si bien no encuentra pruebas de violencia policial ilegítima, el caso adquiere un cariz personal al descubrir que la víctima es de su ciudad natal y transformará el caso 137 en algo más que un simple número.",
+        "año": "2025"
+    },
+    {
+        "título": "Viva",
+        "cartel": "imagenes_peliculas/tmdb_viva.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-06-30",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91631&eventCode=111239"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Aina Clotet",
+        "duración": "113 min",
+        "actores": "Aina Clotet, Marc Soler Rull, Naby Dakhli, Guillermo Toledo, Lloll Bertran",
+        "sinopsis": "Durante un futuro cercano marcado por la salud mental y una extrema sequía, una mujer cuarentañera se enfrenta a la vida después de superar un cáncer de pecho.",
+        "año": "2026"
+    },
+    {
+        "título": "La mujer sin nombre",
+        "cartel": "imagenes_peliculas/tmdb_la_mujer_sin_nombre.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-07-01",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91634&eventCode=112131"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Haifaa al-Mansour",
+        "duración": "100 min",
+        "actores": "ميلا الزهراني, Aziz Gharbawi, Shafi Al Harthy",
+        "sinopsis": "",
+        "año": "2026"
+    },
+    {
+        "título": "15 pruebas de amor",
+        "cartel": "imagenes_peliculas/tmdb_15_pruebas_de_amor.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-07-01",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91645&eventCode=111666"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Alice Douard",
+        "duración": "97 min",
+        "actores": "Ella Rumpf, Monia Chokri, Noémie Lvovsky, Félix Kysyl, Anne Le Ny",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Caso 137",
+        "cartel": "imagenes_peliculas/tmdb_caso_137.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-07-01",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91641&eventCode=104654"
+            },
+            {
+                "fecha": "2026-07-01",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91642&eventCode=104654"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Dominik Moll",
+        "duración": "115 min",
+        "actores": "Léa Drucker, Jonathan Turnbull, Mathilde Riu, Guslagie Malanda, Stanislas Merhar",
+        "sinopsis": "Stéphanie, agente de policía de Asuntos Internos, es asignada a un caso relacionado con un joven gravemente herido durante una tensa y caótica manifestación en París. Si bien no encuentra pruebas de violencia policial ilegítima, el caso adquiere un cariz personal al descubrir que la víctima es de su ciudad natal y transformará el caso 137 en algo más que un simple número.",
+        "año": "2025"
+    },
+    {
+        "título": "Viva",
+        "cartel": "imagenes_peliculas/tmdb_viva.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-07-01",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91646&eventCode=111239"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Aina Clotet",
+        "duración": "113 min",
+        "actores": "Aina Clotet, Marc Soler Rull, Naby Dakhli, Guillermo Toledo, Lloll Bertran",
+        "sinopsis": "Durante un futuro cercano marcado por la salud mental y una extrema sequía, una mujer cuarentañera se enfrenta a la vida después de superar un cáncer de pecho.",
+        "año": "2026"
+    },
+    {
+        "título": "La mujer sin nombre",
+        "cartel": "imagenes_peliculas/tmdb_la_mujer_sin_nombre.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-07-02",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91649&eventCode=112131"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Haifaa al-Mansour",
+        "duración": "100 min",
+        "actores": "ميلا الزهراني, Aziz Gharbawi, Shafi Al Harthy",
+        "sinopsis": "",
+        "año": "2026"
+    },
+    {
+        "título": "15 pruebas de amor",
+        "cartel": "imagenes_peliculas/tmdb_15_pruebas_de_amor.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-07-02",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91660&eventCode=111666"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Alice Douard",
+        "duración": "97 min",
+        "actores": "Ella Rumpf, Monia Chokri, Noémie Lvovsky, Félix Kysyl, Anne Le Ny",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Caso 137",
+        "cartel": "imagenes_peliculas/tmdb_caso_137.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-07-02",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91656&eventCode=104654"
+            },
+            {
+                "fecha": "2026-07-02",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91657&eventCode=104654"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Dominik Moll",
+        "duración": "115 min",
+        "actores": "Léa Drucker, Jonathan Turnbull, Mathilde Riu, Guslagie Malanda, Stanislas Merhar",
+        "sinopsis": "Stéphanie, agente de policía de Asuntos Internos, es asignada a un caso relacionado con un joven gravemente herido durante una tensa y caótica manifestación en París. Si bien no encuentra pruebas de violencia policial ilegítima, el caso adquiere un cariz personal al descubrir que la víctima es de su ciudad natal y transformará el caso 137 en algo más que un simple número.",
+        "año": "2025"
+    },
+    {
+        "título": "Viva",
+        "cartel": "imagenes_peliculas/tmdb_viva.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-07-02",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91661&eventCode=111239"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Aina Clotet",
+        "duración": "113 min",
+        "actores": "Aina Clotet, Marc Soler Rull, Naby Dakhli, Guillermo Toledo, Lloll Bertran",
+        "sinopsis": "Durante un futuro cercano marcado por la salud mental y una extrema sequía, una mujer cuarentañera se enfrenta a la vida después de superar un cáncer de pecho.",
+        "año": "2026"
     }
 ]
