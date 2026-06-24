@@ -1733,8 +1733,8 @@
       }
     ],
     "popularidad": 42.8691,
-    "puntuación": 7.2,
-    "votos": 2,
+    "puntuación": 8.2,
+    "votos": 3,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1844,7 +1844,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:31"
+    "última_actualización": "2026-06-24 22:27:14"
   },
   {
     "id": 1242332,
@@ -2013,7 +2013,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:34"
+    "última_actualización": "2026-06-24 22:27:14"
   },
   {
     "id": 1284465,
@@ -2081,7 +2081,7 @@
       }
     ],
     "popularidad": 22.9284,
-    "puntuación": 6.565,
+    "puntuación": 6.6,
     "votos": 23,
     "adulto": false,
     "video": false,
@@ -2149,20 +2149,10 @@
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1620,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/fLSDraHNWA6BwoD0pzARqu8fEwv.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1080
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:33"
+    "última_actualización": "2026-06-24 22:27:14"
   },
   {
     "id": 975335,
@@ -2301,7 +2291,115 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:38"
+    "última_actualización": "2026-06-24 22:27:15"
+  },
+  {
+    "id": 1087209,
+    "tmdb_id": 1087209,
+    "título": "Lady Nazca",
+    "título_original": "Lady Nazca",
+    "sinopsis": "",
+    "poster_path": "/a1DFc1zouj1Fc3WnbrqYm0RZRiW.jpg",
+    "poster_local": "imagenes_estrenos/Lady_Nazca_a1DFc1zouj1Fc3WnbrqYm0RZRiW.jpg",
+    "backdrop_path": "/w9m04ZsohWMdrSEKt9r53i2Oclg.jpg",
+    "backdrop_local": "imagenes_estrenos/Lady_Nazca_backdrop_w9m04ZsohWMdrSEKt9r53i2Oclg.jpg",
+    "fecha_estreno": "2026-07-03T00:00:00.000Z",
+    "duración": "90 min",
+    "director": "Damien Dorsaz",
+    "directores": [
+      {
+        "name": "Damien Dorsaz",
+        "id": 1295965
+      }
+    ],
+    "actores": [
+      {
+        "name": "Devrim Lingnau",
+        "id": 1888322,
+        "character": "Maria Reiche",
+        "profile_path": "/vRKhVZFPhtpPv6VbXRGXTdbucZZ.jpg"
+      },
+      {
+        "name": "Guillaume Gallienne",
+        "id": 6554,
+        "character": "Paul D'Harcourt",
+        "profile_path": "/nponKvpwED1CivIY3f2NlQGLWE9.jpg"
+      },
+      {
+        "name": "Olivia Ross",
+        "id": 82183,
+        "character": "Amy",
+        "profile_path": "/5CSTFYU5WrhTqhN9ewN6NWDxOcc.jpg"
+      },
+      {
+        "name": "Marina Pumachapi",
+        "id": 5982940,
+        "character": "Juana",
+        "profile_path": null
+      },
+      {
+        "name": "Javier Valdés",
+        "id": 1657900,
+        "character": "Montoya",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "popularidad": 1.5588,
+    "puntuación": 7.731,
+    "votos": 13,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/w9m04ZsohWMdrSEKt9r53i2Oclg.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.779,
+          "height": 1549,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xoitvUwWTSh9ckE28UZXRiSq35t.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 2756
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/c2ENxxFR7Or8HECm5iPeD5yCAKZ.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1920
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-06-24 22:27:15"
   },
   {
     "id": 1283671,
@@ -2429,7 +2527,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-06-24 10:59:39"
+    "última_actualización": "2026-06-24 22:27:16"
   },
   {
     "id": 1266016,
@@ -2489,8 +2587,8 @@
       }
     ],
     "popularidad": 0.5625,
-    "puntuación": 6.882,
-    "votos": 34,
+    "puntuación": 6.886,
+    "votos": 35,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2530,7 +2628,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:40"
+    "última_actualización": "2026-06-24 22:27:16"
   },
   {
     "id": 1266805,
@@ -2679,115 +2777,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:40"
-  },
-  {
-    "id": 1087209,
-    "tmdb_id": 1087209,
-    "título": "Lady Nazca",
-    "título_original": "Lady Nazca",
-    "sinopsis": "",
-    "poster_path": "/a1DFc1zouj1Fc3WnbrqYm0RZRiW.jpg",
-    "poster_local": "imagenes_estrenos/Lady_Nazca_a1DFc1zouj1Fc3WnbrqYm0RZRiW.jpg",
-    "backdrop_path": "/w9m04ZsohWMdrSEKt9r53i2Oclg.jpg",
-    "backdrop_local": "imagenes_estrenos/Lady_Nazca_backdrop_w9m04ZsohWMdrSEKt9r53i2Oclg.jpg",
-    "fecha_estreno": "2026-07-03T00:00:00.000Z",
-    "duración": "90 min",
-    "director": "Damien Dorsaz",
-    "directores": [
-      {
-        "name": "Damien Dorsaz",
-        "id": 1295965
-      }
-    ],
-    "actores": [
-      {
-        "name": "Devrim Lingnau",
-        "id": 1888322,
-        "character": "Maria Reiche",
-        "profile_path": "/vRKhVZFPhtpPv6VbXRGXTdbucZZ.jpg"
-      },
-      {
-        "name": "Guillaume Gallienne",
-        "id": 6554,
-        "character": "Paul D'Harcourt",
-        "profile_path": "/nponKvpwED1CivIY3f2NlQGLWE9.jpg"
-      },
-      {
-        "name": "Olivia Ross",
-        "id": 82183,
-        "character": "Amy",
-        "profile_path": "/5CSTFYU5WrhTqhN9ewN6NWDxOcc.jpg"
-      },
-      {
-        "name": "Marina Pumachapi",
-        "id": 5982940,
-        "character": "Juana",
-        "profile_path": null
-      },
-      {
-        "name": "Javier Valdés",
-        "id": 1657900,
-        "character": "Montoya",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 36,
-        "name": "Historia"
-      },
-      {
-        "id": 12,
-        "name": "Aventura"
-      }
-    ],
-    "popularidad": 1.5588,
-    "puntuación": 7.5,
-    "votos": 12,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/w9m04ZsohWMdrSEKt9r53i2Oclg.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.779,
-          "height": 1549,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xoitvUwWTSh9ckE28UZXRiSq35t.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 2756
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/c2ENxxFR7Or8HECm5iPeD5yCAKZ.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1920
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2026-06-24 10:59:41"
+    "última_actualización": "2026-06-24 22:27:16"
   },
   {
     "id": 1318339,
@@ -2892,7 +2882,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:41"
+    "última_actualización": "2026-06-24 22:27:16"
   },
   {
     "id": 1391115,
@@ -2997,7 +2987,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:44"
+    "última_actualización": "2026-06-24 22:27:18"
   },
   {
     "id": 1624632,
@@ -3072,7 +3062,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:42"
+    "última_actualización": "2026-06-24 22:27:18"
   },
   {
     "id": 1108427,
@@ -3255,7 +3245,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:33"
+    "última_actualización": "2026-06-24 22:27:14"
   },
   {
     "id": 1031084,
@@ -3356,7 +3346,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:39"
+    "última_actualización": "2026-06-24 22:27:15"
   },
   {
     "id": 950028,
@@ -3525,7 +3515,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:36"
+    "última_actualización": "2026-06-24 22:27:15"
   },
   {
     "id": 1422404,
@@ -3656,7 +3646,87 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:36"
+    "última_actualización": "2026-06-24 22:27:15"
+  },
+  {
+    "id": 1242876,
+    "tmdb_id": 1242876,
+    "título": "A 500 millas de casa",
+    "título_original": "500 Miles",
+    "sinopsis": "",
+    "poster_path": "/FhRosui9MSdxdyD3h0skOFhqED.jpg",
+    "poster_local": "imagenes_estrenos/A_500_millas_de_casa_FhRosui9MSdxdyD3h0skOFhqED.jpg",
+    "backdrop_path": "/smTYZM6iSRwB9BJXFkOTQ0rG1VM.jpg",
+    "backdrop_local": "imagenes_estrenos/A_500_millas_de_casa_backdrop_smTYZM6iSRwB9BJXFkOTQ0rG1VM.jpg",
+    "fecha_estreno": "2026-07-10T00:00:00.000Z",
+    "duración": "102 min",
+    "director": "Morgan Matthews",
+    "directores": [
+      {
+        "name": "Morgan Matthews",
+        "id": 1184816
+      }
+    ],
+    "actores": [
+      {
+        "name": "Bill Nighy",
+        "id": 2440,
+        "character": "",
+        "profile_path": "/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+      },
+      {
+        "name": "Roman Griffin Davis",
+        "id": 2054851,
+        "character": "Finn",
+        "profile_path": "/jEox6Bq4TlINrnp5EUjqSlDK3eP.jpg"
+      },
+      {
+        "name": "Dexter Sol Ansell",
+        "id": 3568188,
+        "character": "Charlie",
+        "profile_path": "/r52K8hk22l9UYMpyfpmB9spq11o.jpg"
+      },
+      {
+        "name": "Clare Dunne",
+        "id": 1851644,
+        "character": "",
+        "profile_path": "/AisYR4krGar2CcdVck1IMl51FLv.jpg"
+      },
+      {
+        "name": "Michael Socha",
+        "id": 126171,
+        "character": "",
+        "profile_path": "/qjqXqf72GIwXgDYdQW75xojayVL.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 2.1571,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/smTYZM6iSRwB9BJXFkOTQ0rG1VM.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-06-24 22:27:15"
   },
   {
     "id": 1376415,
@@ -3805,87 +3875,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:37"
-  },
-  {
-    "id": 1242876,
-    "tmdb_id": 1242876,
-    "título": "A 500 millas de casa",
-    "título_original": "500 Miles",
-    "sinopsis": "",
-    "poster_path": "/FhRosui9MSdxdyD3h0skOFhqED.jpg",
-    "poster_local": "imagenes_estrenos/A_500_millas_de_casa_FhRosui9MSdxdyD3h0skOFhqED.jpg",
-    "backdrop_path": "/smTYZM6iSRwB9BJXFkOTQ0rG1VM.jpg",
-    "backdrop_local": "imagenes_estrenos/A_500_millas_de_casa_backdrop_smTYZM6iSRwB9BJXFkOTQ0rG1VM.jpg",
-    "fecha_estreno": "2026-07-10T00:00:00.000Z",
-    "duración": "102 min",
-    "director": "Morgan Matthews",
-    "directores": [
-      {
-        "name": "Morgan Matthews",
-        "id": 1184816
-      }
-    ],
-    "actores": [
-      {
-        "name": "Bill Nighy",
-        "id": 2440,
-        "character": "",
-        "profile_path": "/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
-      },
-      {
-        "name": "Roman Griffin Davis",
-        "id": 2054851,
-        "character": "Finn",
-        "profile_path": "/jEox6Bq4TlINrnp5EUjqSlDK3eP.jpg"
-      },
-      {
-        "name": "Dexter Sol Ansell",
-        "id": 3568188,
-        "character": "Charlie",
-        "profile_path": "/r52K8hk22l9UYMpyfpmB9spq11o.jpg"
-      },
-      {
-        "name": "Clare Dunne",
-        "id": 1851644,
-        "character": "",
-        "profile_path": "/AisYR4krGar2CcdVck1IMl51FLv.jpg"
-      },
-      {
-        "name": "Michael Socha",
-        "id": 126171,
-        "character": "",
-        "profile_path": "/qjqXqf72GIwXgDYdQW75xojayVL.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 2.1571,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/smTYZM6iSRwB9BJXFkOTQ0rG1VM.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2026-06-24 10:59:38"
+    "última_actualización": "2026-06-24 22:27:15"
   },
   {
     "id": 1416893,
@@ -4024,7 +4014,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:40"
+    "última_actualización": "2026-06-24 22:27:16"
   },
   {
     "id": 1447097,
@@ -4139,7 +4129,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:41"
+    "última_actualización": "2026-06-24 22:27:17"
   },
   {
     "id": 1632981,
@@ -4211,184 +4201,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:41"
-  },
-  {
-    "id": 1361852,
-    "tmdb_id": 1361852,
-    "título": "El Convento",
-    "título_original": "El Convento",
-    "sinopsis": "Lucia y Ana María, dos jóvenes postulantes recién llegadas a un pequeño convento, se ven envueltas en los extraños sucesos que acontecen en el lugar. Sor Águeda, madre superiora y famosa por llevar a cabo pequeños milagros, las acoge en el seno de su comunidad y se hace cargo de ellas, pero en realidad la religiosa es el epicentro de una serie de horrores que alcanzarán a las muchachas, en un intento por traer la presencia del Maligno a la Tierra. Tras sufrir horrores, rituales y violaciones, las jóvenes deberán enfrentar su destino con arrojo para lograr sobrevivir.",
-    "poster_path": "/bacptdUDGGfYg3E0mm5HE4eJQkh.jpg",
-    "poster_local": "imagenes_estrenos/El_Convento_bacptdUDGGfYg3E0mm5HE4eJQkh.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-07-10T00:00:00.000Z",
-    "duración": "99 min",
-    "director": "Luis Galindo, Ángel M. Chivite",
-    "directores": [
-      {
-        "name": "Luis Galindo",
-        "id": 2792320
-      },
-      {
-        "name": "Ángel M. Chivite",
-        "id": 4684281
-      }
-    ],
-    "actores": [
-      {
-        "name": "Ana Álvarez",
-        "id": 275322,
-        "character": "madre superiora sor Águeda",
-        "profile_path": "/ky90B7ZXPGeDp8JWjnJHzevnNWF.jpg"
-      },
-      {
-        "name": "María Mercado",
-        "id": 1953954,
-        "character": "Lucía",
-        "profile_path": "/59qjBGy87astvNBbbV0VVgCOd43.jpg"
-      },
-      {
-        "name": "Nahia Bergasa",
-        "id": 4684279,
-        "character": "Ana María",
-        "profile_path": "/xJnd9r25Rmjsl6c98mtqiajMcrZ.jpg"
-      },
-      {
-        "name": "Mentxu Vicente",
-        "id": 4963113,
-        "character": "sor Claudia",
-        "profile_path": "/xBCJG3YVQlj6MHw1GmUm6MPbhp8.jpg"
-      },
-      {
-        "name": "Alfonsina Carrocio",
-        "id": 1894408,
-        "character": "sor Joaquina",
-        "profile_path": "/btQzRpByqEKTqjcMeqpTAHjAhxd.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 0.1198,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 899,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/bacptdUDGGfYg3E0mm5HE4eJQkh.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 600
-        },
-        {
-          "aspect_ratio": 0.7,
-          "height": 2000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/eRCIibsk2gpuFBOfxL2Nzp4E8pn.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 1400
-        },
-        {
-          "aspect_ratio": 0.7,
-          "height": 2857,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/outf8NiyE104uVCkxj2LvcbzoRw.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-06-24 10:59:42"
-  },
-  {
-    "id": 815043,
-    "tmdb_id": 815043,
-    "título": "Winnipeg, El Barco de la Esperanza",
-    "título_original": "Winnipeg, El Barco de la Esperanza",
-    "sinopsis": "",
-    "poster_path": "/kbyVwqt7QRW40YQJdMdBRka89Z4.jpg",
-    "poster_local": "imagenes_estrenos/Winnipeg__El_Barco_de_la_Esperanza_kbyVwqt7QRW40YQJdMdBRka89Z4.jpg",
-    "backdrop_path": "/4zJ562gmJwdRV8VeneQgEpKjQjo.jpg",
-    "backdrop_local": "imagenes_estrenos/Winnipeg__El_Barco_de_la_Esperanza_backdrop_4zJ562gmJwdRV8VeneQgEpKjQjo.jpg",
-    "fecha_estreno": "2026-07-10T00:00:00.000Z",
-    "duración": "82 min",
-    "director": "Elio Quiroga, Beñat Beitia",
-    "directores": [
-      {
-        "name": "Elio Quiroga",
-        "id": 1036577
-      },
-      {
-        "name": "Beñat Beitia",
-        "id": 1165892
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 12,
-        "name": "Aventura"
-      },
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 36,
-        "name": "Historia"
-      },
-      {
-        "id": 10752,
-        "name": "Bélica"
-      }
-    ],
-    "popularidad": 0.1145,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/4zJ562gmJwdRV8VeneQgEpKjQjo.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2026-06-24 10:59:42"
+    "última_actualización": "2026-06-24 22:27:17"
   },
   {
     "id": 1661252,
@@ -4499,7 +4312,279 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:44"
+    "última_actualización": "2026-06-24 22:27:18"
+  },
+  {
+    "id": 1361852,
+    "tmdb_id": 1361852,
+    "título": "El Convento",
+    "título_original": "El Convento",
+    "sinopsis": "Lucia y Ana María, dos jóvenes postulantes recién llegadas a un pequeño convento, se ven envueltas en los extraños sucesos que acontecen en el lugar. Sor Águeda, madre superiora y famosa por llevar a cabo pequeños milagros, las acoge en el seno de su comunidad y se hace cargo de ellas, pero en realidad la religiosa es el epicentro de una serie de horrores que alcanzarán a las muchachas, en un intento por traer la presencia del Maligno a la Tierra. Tras sufrir horrores, rituales y violaciones, las jóvenes deberán enfrentar su destino con arrojo para lograr sobrevivir.",
+    "poster_path": "/bacptdUDGGfYg3E0mm5HE4eJQkh.jpg",
+    "poster_local": "imagenes_estrenos/El_Convento_bacptdUDGGfYg3E0mm5HE4eJQkh.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-07-10T00:00:00.000Z",
+    "duración": "99 min",
+    "director": "Luis Galindo, Ángel M. Chivite",
+    "directores": [
+      {
+        "name": "Luis Galindo",
+        "id": 2792320
+      },
+      {
+        "name": "Ángel M. Chivite",
+        "id": 4684281
+      }
+    ],
+    "actores": [
+      {
+        "name": "Ana Álvarez",
+        "id": 275322,
+        "character": "madre superiora sor Águeda",
+        "profile_path": "/ky90B7ZXPGeDp8JWjnJHzevnNWF.jpg"
+      },
+      {
+        "name": "María Mercado",
+        "id": 1953954,
+        "character": "Lucía",
+        "profile_path": "/59qjBGy87astvNBbbV0VVgCOd43.jpg"
+      },
+      {
+        "name": "Nahia Bergasa",
+        "id": 4684279,
+        "character": "Ana María",
+        "profile_path": "/xJnd9r25Rmjsl6c98mtqiajMcrZ.jpg"
+      },
+      {
+        "name": "Mentxu Vicente",
+        "id": 4963113,
+        "character": "sor Claudia",
+        "profile_path": "/xBCJG3YVQlj6MHw1GmUm6MPbhp8.jpg"
+      },
+      {
+        "name": "Alfonsina Carrocio",
+        "id": 1894408,
+        "character": "sor Joaquina",
+        "profile_path": "/btQzRpByqEKTqjcMeqpTAHjAhxd.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 0.1198,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 899,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/bacptdUDGGfYg3E0mm5HE4eJQkh.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 600
+        },
+        {
+          "aspect_ratio": 0.7,
+          "height": 2000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/eRCIibsk2gpuFBOfxL2Nzp4E8pn.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 1400
+        },
+        {
+          "aspect_ratio": 0.7,
+          "height": 2857,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/outf8NiyE104uVCkxj2LvcbzoRw.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-06-24 22:27:18"
+  },
+  {
+    "id": 815043,
+    "tmdb_id": 815043,
+    "título": "Winnipeg, El Barco de la Esperanza",
+    "título_original": "Winnipeg, El Barco de la Esperanza",
+    "sinopsis": "",
+    "poster_path": "/kbyVwqt7QRW40YQJdMdBRka89Z4.jpg",
+    "poster_local": "imagenes_estrenos/Winnipeg__El_Barco_de_la_Esperanza_kbyVwqt7QRW40YQJdMdBRka89Z4.jpg",
+    "backdrop_path": "/4zJ562gmJwdRV8VeneQgEpKjQjo.jpg",
+    "backdrop_local": "imagenes_estrenos/Winnipeg__El_Barco_de_la_Esperanza_backdrop_4zJ562gmJwdRV8VeneQgEpKjQjo.jpg",
+    "fecha_estreno": "2026-07-10T00:00:00.000Z",
+    "duración": "82 min",
+    "director": "Beñat Beitia, Elio Quiroga",
+    "directores": [
+      {
+        "name": "Beñat Beitia",
+        "id": 1165892
+      },
+      {
+        "name": "Elio Quiroga",
+        "id": 1036577
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      }
+    ],
+    "popularidad": 0.1145,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/4zJ562gmJwdRV8VeneQgEpKjQjo.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-06-24 22:27:18"
+  },
+  {
+    "id": 1572190,
+    "tmdb_id": 1572190,
+    "título": "Tap Tap",
+    "título_original": "Tap Tap",
+    "sinopsis": "Joaquín, un profesor marcado por un trauma infantil, sufre un TOC que le impide tolerar el sonido del chasquido lingual. Mientras es víctima del acoso de sus propios alumnos, se enfrenta a Víctor, un niño sociópata que desatará su lado más oscuro.",
+    "poster_path": "/olVdgaGRYchwxT8BJcJeZhJr2ID.jpg",
+    "poster_local": "imagenes_estrenos/Tap_Tap_olVdgaGRYchwxT8BJcJeZhJr2ID.jpg",
+    "backdrop_path": "/oM74QeGDf2tj6L7XgMKlogTZwr0.jpg",
+    "backdrop_local": "imagenes_estrenos/Tap_Tap_backdrop_oM74QeGDf2tj6L7XgMKlogTZwr0.jpg",
+    "fecha_estreno": "2026-07-11T00:00:00.000Z",
+    "duración": "10 min",
+    "director": "Fernando Camacho",
+    "directores": [
+      {
+        "name": "Fernando Camacho",
+        "id": 5786674
+      }
+    ],
+    "actores": [
+      {
+        "name": "Manuel Borrego",
+        "id": 4800951,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Maria José  Molina",
+        "id": 6306929,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Juan Pablo Garcia",
+        "id": 6306930,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Alber Cruz",
+        "id": 4800949,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Dani Navarro",
+        "id": 6306931,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "popularidad": 0.144,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oM74QeGDf2tj6L7XgMKlogTZwr0.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/olVdgaGRYchwxT8BJcJeZhJr2ID.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2026-06-24 22:27:18"
   },
   {
     "id": 1368337,
@@ -4678,7 +4763,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:33"
+    "última_actualización": "2026-06-24 22:27:14"
   },
   {
     "id": 1212763,
@@ -4843,7 +4928,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:34"
+    "última_actualización": "2026-06-24 22:27:14"
   },
   {
     "id": 1307373,
@@ -4971,7 +5056,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-06-24 10:59:36"
+    "última_actualización": "2026-06-24 22:27:15"
   },
   {
     "id": 1233655,
@@ -5106,7 +5191,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:37"
+    "última_actualización": "2026-06-24 22:27:15"
   },
   {
     "id": 1517123,
@@ -5265,7 +5350,7 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:39"
+    "última_actualización": "2026-06-24 22:27:15"
   },
   {
     "id": 1634018,
@@ -5332,7 +5417,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-06-24 10:59:40"
+    "última_actualización": "2026-06-24 22:27:16"
   },
   {
     "id": 1562200,
@@ -5426,7 +5511,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-06-24 10:59:45"
+    "última_actualización": "2026-06-24 22:27:19"
   },
   {
     "id": 1548326,
@@ -5499,6 +5584,6 @@
         }
       ]
     },
-    "última_actualización": "2026-06-24 10:59:43"
+    "última_actualización": "2026-06-24 22:27:18"
   }
 ]
