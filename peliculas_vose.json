@@ -6,7 +6,7 @@
             {
                 "fecha": "2026-06-30",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100980&eventCode=108967"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -23,7 +23,7 @@
             {
                 "fecha": "2026-06-30",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=100983&eventCode=109552"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -68,13 +68,47 @@
         "año": null
     },
     {
+        "título": "Obssesion",
+        "cartel": "imagenes_peliculas/1782211397.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-07-03",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101072&eventCode=108967"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
+        "título": "Obssesion",
+        "cartel": "imagenes_peliculas/1782211397.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-07-04",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101056&eventCode=108967"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
+    },
+    {
         "título": "La mujer sin nombre",
         "cartel": "imagenes_peliculas/tmdb_la_mujer_sin_nombre.jpg",
         "horarios": [
             {
                 "fecha": "2026-06-30",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91619&eventCode=112131"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -91,7 +125,7 @@
             {
                 "fecha": "2026-06-30",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91630&eventCode=111666"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -108,12 +142,12 @@
             {
                 "fecha": "2026-06-30",
                 "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91626&eventCode=104654"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2026-06-30",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91627&eventCode=104654"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -130,7 +164,7 @@
             {
                 "fecha": "2026-06-30",
                 "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91631&eventCode=111239"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
