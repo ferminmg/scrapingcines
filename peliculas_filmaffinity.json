@@ -1,54 +1,25 @@
 [
     {
-        "título": "Supergirl",
-        "cartel": "imagenes_filmaffinity/tmdb_supergirl.jpg",
+        "título": "Akira (Reestreno)",
+        "cartel": "imagenes_filmaffinity/akira-reestreno.jpg",
         "horarios": [
             {
-                "fecha": "2026-07-07",
-                "hora": "20:25",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=31335"
+                "fecha": "2026-07-08",
+                "hora": "17:05",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=30983"
+            },
+            {
+                "fecha": "2026-07-09",
+                "hora": "17:05",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=31543"
             }
         ],
         "cine": "Yelmo Itaroa",
-        "director": "Craig Gillespie",
-        "duración": "108 min",
-        "actores": "Milly Alcock, Eve Ridley, Matthias Schoenaerts, Jason Momoa, David Krumholtz",
-        "sinopsis": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su fuerza sirve para destruir o para proteger.",
-        "año": "2026"
-    },
-    {
-        "título": "Obsession",
-        "cartel": "imagenes_filmaffinity/obsession.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-07-07",
-                "hora": "20:25",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=31349"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Audrey Collins",
-        "duración": "18 min",
-        "actores": "Piper Colyar, Angus Chlebecek, Shoshana Gunasekera, Izzy Tiska, Audrey Collins",
-        "sinopsis": "",
-        "año": "2025"
-    },
-    {
-        "título": "Toy Story 5",
-        "cartel": "imagenes_filmaffinity/tmdb_toy-story-5.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-07-07",
-                "hora": "19:20",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=31336"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Andrew Stanton",
-        "duración": "102 min",
-        "actores": "Tom Hanks, Tim Allen, Joan Cusack, Greta Lee, Conan O'Brien",
-        "sinopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-        "año": "2026"
+        "director": null,
+        "duración": null,
+        "actores": null,
+        "sinopsis": null,
+        "año": null
     },
     {
         "título": "Vaiana",
@@ -65,6 +36,57 @@
         "duración": "115 min",
         "actores": "Catherine Lagaʻaia, Dwayne Johnson, Rena Owen, John Tui, Frankie Adams",
         "sinopsis": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+        "año": "2026"
+    },
+    {
+        "título": "Supergirl",
+        "cartel": "imagenes_filmaffinity/tmdb_supergirl.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-07-14",
+                "hora": "22:20",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=31476"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Craig Gillespie",
+        "duración": "108 min",
+        "actores": "Eve Ridley, Milly Alcock, Matthias Schoenaerts, Jason Momoa, David Krumholtz",
+        "sinopsis": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su fuerza sirve para destruir o para proteger.",
+        "año": "2026"
+    },
+    {
+        "título": "Obsession",
+        "cartel": "imagenes_filmaffinity/obsession.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-07-14",
+                "hora": "20:20",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=31486"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Audrey Collins",
+        "duración": "18 min",
+        "actores": "Piper Colyar, Angus Chlebecek, Shoshana Gunasekera, Izzy Tiska, Audrey Collins",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "Toy Story 5",
+        "cartel": "imagenes_filmaffinity/tmdb_toy-story-5.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-07-14",
+                "hora": "19:25",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=31484"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Andrew Stanton",
+        "duración": "102 min",
+        "actores": "Tom Hanks, Tim Allen, Joan Cusack, Greta Lee, Conan O'Brien",
+        "sinopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
         "año": "2026"
     },
     {
