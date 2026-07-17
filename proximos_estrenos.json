@@ -38,7 +38,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.2736,
+    "popularidad": 0.2154,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -59,7 +59,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-16 22:19:50"
+    "última_actualización": "2026-07-17 10:31:46"
   },
   {
     "id": 1083381,
@@ -126,9 +126,9 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 449.867,
-    "puntuación": 7.0,
-    "votos": 1287,
+    "popularidad": 280.3212,
+    "puntuación": 6.996,
+    "votos": 1373,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -191,40 +191,20 @@
           "height": 3000,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/6hFnAYnu8YJ2g7DgKVdkV5z6X7V.jpg",
-          "vote_average": 6.722,
-          "vote_count": 6,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/8vs8jeaYeYbGBwLN1U3eNafHjZ5.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
           "file_path": "/7NVnp7XHiW99nYLqEH5A63uPSJN.jpg",
-          "vote_average": 2.066,
-          "vote_count": 5,
+          "vote_average": 7.542,
+          "vote_count": 8,
           "width": 2000
         },
         {
-          "aspect_ratio": 0.719,
-          "height": 2500,
+          "aspect_ratio": 0.667,
+          "height": 3000,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/usrHe6fCmqlfhHI49d8LRnHMg98.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1797
+          "file_path": "/6hFnAYnu8YJ2g7DgKVdkV5z6X7V.jpg",
+          "vote_average": 4.722,
+          "vote_count": 9,
+          "width": 2000
         },
         {
           "aspect_ratio": 0.7,
@@ -232,13 +212,33 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/pUZUtCPi6COJ0krnNLpykzJ9PDS.jpg",
+          "vote_average": 2.542,
+          "vote_count": 4,
+          "width": 1181
+        },
+        {
+          "aspect_ratio": 0.666,
+          "height": 1537,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/4jRhhI1fgYsGi1vB0iVgBfWLeV4.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 1023
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/8vs8jeaYeYbGBwLN1U3eNafHjZ5.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
-          "width": 1181
+          "width": 2000
         }
       ]
     },
-    "última_actualización": "2026-07-16 22:19:43"
+    "última_actualización": "2026-07-17 10:31:42"
   },
   {
     "id": 1368337,
@@ -1425,6 +1425,110 @@
     "última_actualización": "2026-07-14 22:19:18"
   },
   {
+    "id": 1712586,
+    "tmdb_id": 1712586,
+    "título": "Sia: Nostalgic for the Present",
+    "título_original": "Sia: Nostalgic for the Present",
+    "sinopsis": "",
+    "poster_path": "/9mTQzI5WKIuLze5oQ4gX6mgVXCs.jpg",
+    "poster_local": "imagenes_estrenos/Sia__Nostalgic_for_the_Present_9mTQzI5WKIuLze5oQ4gX6mgVXCs.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-07-23",
+    "duración": "75 min",
+    "director": "Daniel Askill, Sia",
+    "directores": [
+      {
+        "name": "Daniel Askill",
+        "id": 1453890
+      },
+      {
+        "name": "Sia",
+        "id": 1136517
+      }
+    ],
+    "actores": [
+      {
+        "name": "Sia",
+        "id": 1136517,
+        "character": "",
+        "profile_path": "/tzrkrfN1oUTabjdsPllfZltTAKd.jpg"
+      },
+      {
+        "name": "Maddie Ziegler",
+        "id": 1483976,
+        "character": "",
+        "profile_path": "/hDzdA0IvoPpx5nmwL5Uu75rdfYh.jpg"
+      },
+      {
+        "name": "Nick Lanzisera",
+        "id": 2522408,
+        "character": "",
+        "profile_path": "/o2J4BpvZDujQi75pd1kp2Fy3cOy.jpg"
+      },
+      {
+        "name": "Stephanie Mincone",
+        "id": 2995889,
+        "character": "",
+        "profile_path": "/4T1PqcbbA6xzyP2b3HPMuROBjSL.jpg"
+      },
+      {
+        "name": "Wyatt Rocker",
+        "id": 6291281,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "popularidad": 1.4551,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.75,
+          "height": 1600,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/kx1SkaHhN6kz5EvmwSvjgtYr5CK.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 1200
+        },
+        {
+          "aspect_ratio": 0.666,
+          "height": 1024,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/9mTQzI5WKIuLze5oQ4gX6mgVXCs.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 682
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/1dUqkIrwQCDSnlEzPb2LBwGtgEO.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ]
+    },
+    "última_actualización": "2026-07-17 10:31:45"
+  },
+  {
     "id": 1363387,
     "tmdb_id": 1363387,
     "título": "Insaciable",
@@ -1481,7 +1585,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 27.5339,
+    "popularidad": 28.4625,
     "puntuación": 6.1,
     "votos": 42,
     "adulto": false,
@@ -1553,7 +1657,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-16 22:19:44"
+    "última_actualización": "2026-07-17 10:31:43"
   },
   {
     "id": 87513,
@@ -1668,7 +1772,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-16 22:19:45"
+    "última_actualización": "2026-07-17 10:31:43"
   },
   {
     "id": 1365378,
@@ -1799,7 +1903,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-16 22:19:46"
+    "última_actualización": "2026-07-17 10:31:44"
   },
   {
     "id": 1193128,
@@ -1862,7 +1966,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 2.6008,
+    "popularidad": 1.4557,
     "puntuación": 6.817,
     "votos": 30,
     "adulto": false,
@@ -1964,7 +2068,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-16 22:19:46"
+    "última_actualización": "2026-07-17 10:31:44"
   },
   {
     "id": 1049082,
@@ -2111,7 +2215,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-16 22:19:46"
+    "última_actualización": "2026-07-17 10:31:44"
   },
   {
     "id": 1154478,
@@ -2178,7 +2282,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 2.1858,
+    "popularidad": 1.196,
     "puntuación": 7.7,
     "votos": 32,
     "adulto": false,
@@ -2250,7 +2354,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-16 22:19:47"
+    "última_actualización": "2026-07-17 10:31:44"
   },
   {
     "id": 1512207,
@@ -2374,7 +2478,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-07-16 22:19:47"
+    "última_actualización": "2026-07-17 10:31:44"
   },
   {
     "id": 1193861,
@@ -2433,7 +2537,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.5132,
+    "popularidad": 0.7369,
     "puntuación": 7.5,
     "votos": 24,
     "adulto": false,
@@ -2515,7 +2619,232 @@
         }
       ]
     },
-    "última_actualización": "2026-07-16 22:19:47"
+    "última_actualización": "2026-07-17 10:31:45"
+  },
+  {
+    "id": 1498036,
+    "tmdb_id": 1498036,
+    "título": "Tres de más",
+    "título_original": "Tres de más",
+    "sinopsis": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
+    "poster_path": "/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
+    "poster_local": "imagenes_estrenos/Tres_de_m_s_bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-07-24T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Mar Olid",
+    "directores": [
+      {
+        "name": "Mar Olid",
+        "id": 2806172
+      }
+    ],
+    "actores": [
+      {
+        "name": "Kira Miró",
+        "id": 102223,
+        "character": "Julia",
+        "profile_path": "/5hMVeXmpcSKlmEfV1A4Ls44yXqo.jpg"
+      },
+      {
+        "name": "Salva Reina",
+        "id": 1413918,
+        "character": "Ernesto",
+        "profile_path": "/v3R6t0PyZ8Aqa4KZ6RC3h4xZryX.jpg"
+      },
+      {
+        "name": "Luna Fulgencio",
+        "id": 2272490,
+        "character": "",
+        "profile_path": "/kKyWxRgwsZIpdb9jrg4C7ZbWjtM.jpg"
+      },
+      {
+        "name": "Ian Cortegoso",
+        "id": 5094769,
+        "character": "",
+        "profile_path": "/aJhbQcE27J9XWqpChwsMPVUNX9n.jpg"
+      },
+      {
+        "name": "Adriana Bidae",
+        "id": 5598602,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 0.7029,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.666,
+          "height": 1688,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1125
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1200,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/o9zrLUGZVxUZv8UYgIDpVRFGVcC.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 800
+        }
+      ]
+    },
+    "última_actualización": "2026-07-17 10:31:46"
+  },
+  {
+    "id": 1339361,
+    "tmdb_id": 1339361,
+    "título": "El mensaje",
+    "título_original": "El mensaje",
+    "sinopsis": "En plena crisis económica, una niña de 9 años con el don de comunicarse con los animales y sus oportunistas tutores sobreviven ofreciendo consultas como médium de mascotas. La itinerante familia deberá enfrentar su propia incomunicación mientras viaja en un pequeño motorhome por el campo argentino, para visitar a la madre de la niña, internada en una institución psiquiátrica.",
+    "poster_path": "/vcOSYPea9ENWUIJIXO5nK5txeqx.jpg",
+    "poster_local": "imagenes_estrenos/El_mensaje_vcOSYPea9ENWUIJIXO5nK5txeqx.jpg",
+    "backdrop_path": "/bonQbx2jQ9FSFF8cth6bTnzuzH5.jpg",
+    "backdrop_local": "imagenes_estrenos/El_mensaje_backdrop_bonQbx2jQ9FSFF8cth6bTnzuzH5.jpg",
+    "fecha_estreno": "2026-07-24T00:00:00.000Z",
+    "duración": "91 min",
+    "director": "Iván Fund",
+    "directores": [
+      {
+        "name": "Iván Fund",
+        "id": 1775501
+      }
+    ],
+    "actores": [
+      {
+        "name": "Mara Bestelli",
+        "id": 1291442,
+        "character": "Myriam",
+        "profile_path": "/dOYbI8qPi1Pz2Gm5eBoOriVm3Rz.jpg"
+      },
+      {
+        "name": "Marcelo Subiotto",
+        "id": 1500062,
+        "character": "Roger",
+        "profile_path": "/zOkp6fSyduND420qmlYnhSJw3n4.jpg"
+      },
+      {
+        "name": "Anika Bootz",
+        "id": 4223703,
+        "character": "Anika",
+        "profile_path": "/fHUPi29YMg5fSAZgy0e9LNO0bAo.jpg"
+      },
+      {
+        "name": "Betania Cappato",
+        "id": 2653565,
+        "character": "Eloísa",
+        "profile_path": "/uGzwCZiFJNdSPFYXEzEzs0hGmhD.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.366,
+    "puntuación": 6.8,
+    "votos": 4,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1896,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/bonQbx2jQ9FSFF8cth6bTnzuzH5.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3371
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1038,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tZ7rlo33Z8XM2BPFoguqanT9g9B.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1845
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1896,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tFLzJlGjpIUeKbblL4Xl72DpbnX.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 3371
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/kMXWEEvThc7bpvuvPrSQVQqcLux.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1896,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ysJHQgWyNGH9TMQ4rJK0btHBPTF.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3371
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1896,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/qGL6luLxIyEsbI9Jr27TF6Iz2wd.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1264
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/vcOSYPea9ENWUIJIXO5nK5txeqx.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-07-17 10:31:46"
   },
   {
     "id": 1339175,
@@ -2657,231 +2986,6 @@
       ]
     },
     "última_actualización": "2026-07-16 22:19:48"
-  },
-  {
-    "id": 1498036,
-    "tmdb_id": 1498036,
-    "título": "Tres de más",
-    "título_original": "Tres de más",
-    "sinopsis": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
-    "poster_path": "/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
-    "poster_local": "imagenes_estrenos/Tres_de_m_s_bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-07-24T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Mar Olid",
-    "directores": [
-      {
-        "name": "Mar Olid",
-        "id": 2806172
-      }
-    ],
-    "actores": [
-      {
-        "name": "Kira Miró",
-        "id": 102223,
-        "character": "Julia",
-        "profile_path": "/5hMVeXmpcSKlmEfV1A4Ls44yXqo.jpg"
-      },
-      {
-        "name": "Salva Reina",
-        "id": 1413918,
-        "character": "Ernesto",
-        "profile_path": "/v3R6t0PyZ8Aqa4KZ6RC3h4xZryX.jpg"
-      },
-      {
-        "name": "Luna Fulgencio",
-        "id": 2272490,
-        "character": "",
-        "profile_path": "/kKyWxRgwsZIpdb9jrg4C7ZbWjtM.jpg"
-      },
-      {
-        "name": "Ian Cortegoso",
-        "id": 5094769,
-        "character": "",
-        "profile_path": "/aJhbQcE27J9XWqpChwsMPVUNX9n.jpg"
-      },
-      {
-        "name": "Adriana Bidae",
-        "id": 5598602,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 0.7029,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.666,
-          "height": 1688,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1125
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1200,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/o9zrLUGZVxUZv8UYgIDpVRFGVcC.jpg",
-          "vote_average": 0.0,
-          "vote_count": 1,
-          "width": 800
-        }
-      ]
-    },
-    "última_actualización": "2026-07-16 22:19:49"
-  },
-  {
-    "id": 1339361,
-    "tmdb_id": 1339361,
-    "título": "El mensaje",
-    "título_original": "El mensaje",
-    "sinopsis": "En plena crisis económica, una niña de 9 años con el don de comunicarse con los animales y sus oportunistas tutores sobreviven ofreciendo consultas como médium de mascotas. La itinerante familia deberá enfrentar su propia incomunicación mientras viaja en un pequeño motorhome por el campo argentino, para visitar a la madre de la niña, internada en una institución psiquiátrica.",
-    "poster_path": "/vcOSYPea9ENWUIJIXO5nK5txeqx.jpg",
-    "poster_local": "imagenes_estrenos/El_mensaje_vcOSYPea9ENWUIJIXO5nK5txeqx.jpg",
-    "backdrop_path": "/bonQbx2jQ9FSFF8cth6bTnzuzH5.jpg",
-    "backdrop_local": "imagenes_estrenos/El_mensaje_backdrop_bonQbx2jQ9FSFF8cth6bTnzuzH5.jpg",
-    "fecha_estreno": "2026-07-24T00:00:00.000Z",
-    "duración": "91 min",
-    "director": "Iván Fund",
-    "directores": [
-      {
-        "name": "Iván Fund",
-        "id": 1775501
-      }
-    ],
-    "actores": [
-      {
-        "name": "Mara Bestelli",
-        "id": 1291442,
-        "character": "Myriam",
-        "profile_path": "/dOYbI8qPi1Pz2Gm5eBoOriVm3Rz.jpg"
-      },
-      {
-        "name": "Marcelo Subiotto",
-        "id": 1500062,
-        "character": "Roger",
-        "profile_path": "/zOkp6fSyduND420qmlYnhSJw3n4.jpg"
-      },
-      {
-        "name": "Anika Bootz",
-        "id": 4223703,
-        "character": "Anika",
-        "profile_path": "/fHUPi29YMg5fSAZgy0e9LNO0bAo.jpg"
-      },
-      {
-        "name": "Betania Cappato",
-        "id": 2653565,
-        "character": "Eloísa",
-        "profile_path": "/uGzwCZiFJNdSPFYXEzEzs0hGmhD.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.366,
-    "puntuación": 6.8,
-    "votos": 4,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1896,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/bonQbx2jQ9FSFF8cth6bTnzuzH5.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3371
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1038,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/tZ7rlo33Z8XM2BPFoguqanT9g9B.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1845
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1896,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/tFLzJlGjpIUeKbblL4Xl72DpbnX.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 3371
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/kMXWEEvThc7bpvuvPrSQVQqcLux.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1896,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ysJHQgWyNGH9TMQ4rJK0btHBPTF.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3371
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1896,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/qGL6luLxIyEsbI9Jr27TF6Iz2wd.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1264
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/vcOSYPea9ENWUIJIXO5nK5txeqx.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-07-16 22:19:50"
   },
   {
     "id": 969681,
@@ -3060,7 +3164,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-16 22:19:44"
+    "última_actualización": "2026-07-17 10:31:42"
   },
   {
     "id": 1274837,
@@ -3123,7 +3227,7 @@
         "name": "Crimen"
       }
     ],
-    "popularidad": 0.7636,
+    "popularidad": 1.074,
     "puntuación": 5.4,
     "votos": 30,
     "adulto": false,
@@ -3195,7 +3299,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-16 22:19:49"
+    "última_actualización": "2026-07-17 10:31:46"
   },
   {
     "id": 1102883,
@@ -3203,7 +3307,7 @@
     "título": "Mother Mary",
     "título_original": "Mother Mary",
     "sinopsis": "La intensa relación entre la cantante de pop Mary y Sam, una antigua amiga suya, diseñadora de moda, que se vuelven a reunir tras la necesidad de la primera de un vestido para su nueva gira de conciertos.",
-    "poster_path": "/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
+    "poster_path": "/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg",
     "poster_local": "imagenes_estrenos/Mother_Mary_qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
     "backdrop_path": "/pRrH098VPYiUtDwKOm2mVXVQZdf.jpg",
     "backdrop_local": "imagenes_estrenos/Mother_Mary_backdrop_pRrH098VPYiUtDwKOm2mVXVQZdf.jpg",
@@ -3233,7 +3337,7 @@
         "name": "Hunter Schafer",
         "id": 2340180,
         "character": "Hilda",
-        "profile_path": "/6ZDieLlbm2m3jbYaxsHFo7cWWzJ.jpg"
+        "profile_path": "/AilBKow2NuvPBQbvGRx69RxKUBi.jpg"
       },
       {
         "name": "FKA twigs",
@@ -3262,7 +3366,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 9.9723,
+    "popularidad": 6.5372,
     "puntuación": 5.6,
     "votos": 98,
     "adulto": false,
@@ -3277,7 +3381,7 @@
           "iso_639_1": null,
           "file_path": "/pRrH098VPYiUtDwKOm2mVXVQZdf.jpg",
           "vote_average": 2.278,
-          "vote_count": 3,
+          "vote_count": 4,
           "width": 3840
         },
         {
@@ -3374,7 +3478,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-16 22:19:44"
+    "última_actualización": "2026-07-17 10:31:43"
   },
   {
     "id": 1634140,
@@ -3433,7 +3537,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 3.5867,
+    "popularidad": 2.4999,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3495,7 +3599,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-16 22:19:45"
+    "última_actualización": "2026-07-17 10:31:44"
   },
   {
     "id": 1462322,
@@ -3555,8 +3659,8 @@
       }
     ],
     "popularidad": 1.718,
-    "puntuación": 7.519,
-    "votos": 260,
+    "puntuación": 7.531,
+    "votos": 262,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -3636,7 +3740,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-16 22:19:47"
+    "última_actualización": "2026-07-17 10:31:45"
   },
   {
     "id": 1127384,
@@ -3699,9 +3803,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 177.2538,
-    "puntuación": 7.403,
-    "votos": 221,
+    "popularidad": 124.0767,
+    "puntuación": 7.426,
+    "votos": 223,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3781,7 +3885,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-16 22:19:44"
+    "última_actualización": "2026-07-17 10:31:42"
   },
   {
     "id": 1455079,
@@ -3946,7 +4050,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-16 22:19:45"
+    "última_actualización": "2026-07-17 10:31:43"
   },
   {
     "id": 1258509,
@@ -4009,7 +4113,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 1.4803,
+    "popularidad": 0.9951,
     "puntuación": 6.224,
     "votos": 29,
     "adulto": false,
@@ -4070,7 +4174,125 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-07-16 22:19:48"
+    "última_actualización": "2026-07-17 10:31:45"
+  },
+  {
+    "id": 1001043,
+    "tmdb_id": 1001043,
+    "título": "El síndrome Rembrandt",
+    "título_original": "Rembrandt",
+    "sinopsis": "",
+    "poster_path": "/sdRh7duuTkn9Nygs96yfoT97rk0.jpg",
+    "poster_local": "imagenes_estrenos/El_s_ndrome_Rembrandt_sdRh7duuTkn9Nygs96yfoT97rk0.jpg",
+    "backdrop_path": "/AwnWU7AdlLi7ASnjaiMwGtIxExE.jpg",
+    "backdrop_local": "imagenes_estrenos/El_s_ndrome_Rembrandt_backdrop_AwnWU7AdlLi7ASnjaiMwGtIxExE.jpg",
+    "fecha_estreno": "2026-08-07T00:00:00.000Z",
+    "duración": "107 min",
+    "director": "Pierre Schoeller",
+    "directores": [
+      {
+        "name": "Pierre Schoeller",
+        "id": 56382
+      }
+    ],
+    "actores": [
+      {
+        "name": "Camille Cottin",
+        "id": 1348474,
+        "character": "Claire",
+        "profile_path": "/ArBIA46esEk1qMlSwoVPR1SxPvc.jpg"
+      },
+      {
+        "name": "Romain Duris",
+        "id": 17497,
+        "character": "Yves",
+        "profile_path": "/70KN228eNpvouPTCxDSurnCzx9G.jpg"
+      },
+      {
+        "name": "Denis Podalydès",
+        "id": 6020,
+        "character": "Gregory",
+        "profile_path": "/uKEvUFBjdkDuNQgDoEVwFw1TvSa.jpg"
+      },
+      {
+        "name": "Céleste Brunnquell",
+        "id": 2355138,
+        "character": "Salome",
+        "profile_path": "/cFupALXnIkDOOJPjqq0Vm1XJNp2.jpg"
+      },
+      {
+        "name": "Bruno Podalydès",
+        "id": 21769,
+        "character": "Terrence",
+        "profile_path": "/a8dEHSgIqIOjnl6YsAv6cSf1Nz.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.5583,
+    "puntuación": 4.0,
+    "votos": 13,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/AwnWU7AdlLi7ASnjaiMwGtIxExE.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5NM3F4qCKIr8g6lhw6T5YlnraUb.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-07-17 10:31:46"
+  },
+  {
+    "id": 1728647,
+    "tmdb_id": 1728647,
+    "título": "La ventana abierta",
+    "título_original": "La ventana abierta",
+    "sinopsis": "Rubén viaja a un pueblo costero para conocer a su novia virtual, pero lo recibe Vera, su hija adolescente. Una ventana debe permanecer abierta pese al viento, sin explicación. El misterio crece sobre cuál ventana importa realmente.",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-08-07T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "",
+    "directores": [],
+    "actores": [],
+    "géneros": [],
+    "popularidad": 0.1407,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-07-17 10:31:46"
   },
   {
     "id": 1614289,
@@ -4281,122 +4503,223 @@
     "última_actualización": "2026-07-16 22:19:48"
   },
   {
-    "id": 1001043,
-    "tmdb_id": 1001043,
-    "título": "El síndrome Rembrandt",
-    "título_original": "Rembrandt",
+    "id": 1432474,
+    "tmdb_id": 1432474,
+    "título": "Nimrods",
+    "título_original": "Nimrods",
     "sinopsis": "",
-    "poster_path": "/sdRh7duuTkn9Nygs96yfoT97rk0.jpg",
-    "poster_local": "imagenes_estrenos/El_s_ndrome_Rembrandt_sdRh7duuTkn9Nygs96yfoT97rk0.jpg",
-    "backdrop_path": "/AwnWU7AdlLi7ASnjaiMwGtIxExE.jpg",
-    "backdrop_local": "imagenes_estrenos/El_s_ndrome_Rembrandt_backdrop_AwnWU7AdlLi7ASnjaiMwGtIxExE.jpg",
-    "fecha_estreno": "2026-08-07T00:00:00.000Z",
-    "duración": "107 min",
-    "director": "Pierre Schoeller",
+    "poster_path": "/aebmSpFu1lUV78PtOpqMUn4d82B.jpg",
+    "poster_local": "imagenes_estrenos/Nimrods_aebmSpFu1lUV78PtOpqMUn4d82B.jpg",
+    "backdrop_path": "/aVRRKTGJnnWvah99gLZaRG0wS17.jpg",
+    "backdrop_local": "imagenes_estrenos/Nimrods_backdrop_aVRRKTGJnnWvah99gLZaRG0wS17.jpg",
+    "fecha_estreno": "2026-08-11T00:00:00.000Z",
+    "duración": "116 min",
+    "director": "Lee Kirk",
     "directores": [
       {
-        "name": "Pierre Schoeller",
-        "id": 56382
+        "name": "Lee Kirk",
+        "id": 1023127
       }
     ],
     "actores": [
       {
-        "name": "Camille Cottin",
-        "id": 1348474,
-        "character": "Claire",
-        "profile_path": "/ArBIA46esEk1qMlSwoVPR1SxPvc.jpg"
+        "name": "Mason Thames",
+        "id": 2803710,
+        "character": "Tommy",
+        "profile_path": "/kgEYHw8bblVtwRTkR9TLMOpx5WO.jpg"
       },
       {
-        "name": "Romain Duris",
-        "id": 17497,
-        "character": "Yves",
-        "profile_path": "/70KN228eNpvouPTCxDSurnCzx9G.jpg"
+        "name": "Mckenna Grace",
+        "id": 1172108,
+        "character": "",
+        "profile_path": "/mbY7ngjgYcrUPDVNBikB9sMdaIk.jpg"
       },
       {
-        "name": "Denis Podalydès",
-        "id": 6020,
-        "character": "Gregory",
-        "profile_path": "/uKEvUFBjdkDuNQgDoEVwFw1TvSa.jpg"
+        "name": "Ryan Foust",
+        "id": 1971197,
+        "character": "",
+        "profile_path": "/kTGCcDGNMrsUM53k3pQ8LymE6pe.jpg"
       },
       {
-        "name": "Céleste Brunnquell",
-        "id": 2355138,
-        "character": "Salome",
-        "profile_path": "/cFupALXnIkDOOJPjqq0Vm1XJNp2.jpg"
+        "name": "Jenna Fischer",
+        "id": 51856,
+        "character": "",
+        "profile_path": "/mfKRbOHTPNi9jFSthtjl4FGVZv6.jpg"
       },
       {
-        "name": "Bruno Podalydès",
-        "id": 21769,
-        "character": "Terrence",
-        "profile_path": "/a8dEHSgIqIOjnl6YsAv6cSf1Nz.jpg"
+        "name": "Angela Kinsey",
+        "id": 113867,
+        "character": "",
+        "profile_path": "/qHFidnMcFqUWdMFyjmXufBlYckd.jpg"
       }
     ],
     "géneros": [
       {
-        "id": 18,
-        "name": "Drama"
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
       }
     ],
-    "popularidad": 0.5583,
-    "puntuación": 4.0,
-    "votos": 13,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/AwnWU7AdlLi7ASnjaiMwGtIxExE.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/5NM3F4qCKIr8g6lhw6T5YlnraUb.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2026-07-16 22:19:50"
-  },
-  {
-    "id": 1728647,
-    "tmdb_id": 1728647,
-    "título": "La ventana abierta",
-    "título_original": "La ventana abierta",
-    "sinopsis": "Rubén viaja a un pueblo costero para conocer a su novia virtual, pero lo recibe Vera, su hija adolescente. Una ventana debe permanecer abierta pese al viento, sin explicación. El misterio crece sobre cuál ventana importa realmente.",
-    "poster_path": null,
-    "poster_local": "",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-08-07T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "",
-    "directores": [],
-    "actores": [],
-    "géneros": [],
-    "popularidad": 0.1407,
+    "popularidad": 3.9143,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
     "video": false,
     "año": "2026",
     "imágenes": {
-      "backdrops": [],
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/aVRRKTGJnnWvah99gLZaRG0wS17.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/4t9Tpj35MpVArLNpyAsQu6PhGRk.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/bdcjiyjpKVjCbW00oyIuBtdzpGH.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xo450rsN3wmbzWYtewAopmeRisO.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/f4QiuAuq6XUwjrann0v0G2Rsicr.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1200,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6FSEXE19MB7UUpfPpExDihDhjdo.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 800
+        }
+      ]
+    },
+    "última_actualización": "2026-07-17 10:31:43"
+  },
+  {
+    "id": 1728113,
+    "tmdb_id": 1728113,
+    "título": "KATSEYE: WILD HEARTS",
+    "título_original": "KATSEYE: WILD HEARTS",
+    "sinopsis": "",
+    "poster_path": "/bcAxxRpiBIT3JWXAYUAf10UG4LD.jpg",
+    "poster_local": "imagenes_estrenos/KATSEYE__WILD_HEARTS_bcAxxRpiBIT3JWXAYUAf10UG4LD.jpg",
+    "backdrop_path": "/9D5zE2m1Lggf60rglYzm5lU6MxG.jpg",
+    "backdrop_local": "imagenes_estrenos/KATSEYE__WILD_HEARTS_backdrop_9D5zE2m1Lggf60rglYzm5lU6MxG.jpg",
+    "fecha_estreno": "2026-08-12",
+    "duración": "80 min",
+    "director": "Nadia Hallgren",
+    "directores": [
+      {
+        "name": "Nadia Hallgren",
+        "id": 1484586
+      }
+    ],
+    "actores": [
+      {
+        "name": "Sophia Laforteza",
+        "id": 4880275,
+        "character": "Self",
+        "profile_path": "/7dWyJeJZvQq1o3CSq1QjE5l1I0F.jpg"
+      },
+      {
+        "name": "Daniela Avanzini",
+        "id": 4880277,
+        "character": "Self",
+        "profile_path": "/rQk1qi9hOyUDkhFe1TwJ0iXmSbo.jpg"
+      },
+      {
+        "name": "Lara Raj",
+        "id": 4880278,
+        "character": "Self",
+        "profile_path": "/isAMyUTgkx2Hkm8kdexo1bdnvuT.jpg"
+      },
+      {
+        "name": "Megan Skiendiel",
+        "id": 4880280,
+        "character": "Self",
+        "profile_path": "/48QuK6Y99OJL6TytiUWCrQ2vMv.jpg"
+      },
+      {
+        "name": "정윤채",
+        "id": 4880281,
+        "character": "Self",
+        "profile_path": "/uYx5RvlNyRIP4Pa9Zg52hLUcJTk.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "popularidad": 3.6022,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/9D5zE2m1Lggf60rglYzm5lU6MxG.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
       "posters": []
     },
-    "última_actualización": "2026-07-16 22:19:50"
+    "última_actualización": "2026-07-17 10:31:44"
   },
   {
     "id": 1214028,
@@ -4459,7 +4782,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 2.233,
+    "popularidad": 1.088,
     "puntuación": 6.4,
     "votos": 28,
     "adulto": false,
@@ -4541,7 +4864,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-16 22:19:46"
+    "última_actualización": "2026-07-17 10:31:44"
   },
   {
     "id": 1545652,
@@ -4612,7 +4935,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 0.9889,
+    "popularidad": 0.3873,
     "puntuación": 5.0,
     "votos": 5,
     "adulto": false,
@@ -4653,6 +4976,6 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-07-16 22:19:49"
+    "última_actualización": "2026-07-17 10:31:45"
   }
 ]
