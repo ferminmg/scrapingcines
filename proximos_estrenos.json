@@ -59,7 +59,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:59:01"
+    "última_actualización": "2026-07-20 22:18:35"
   },
   {
     "id": 1548326,
@@ -247,7 +247,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:58:59"
+    "última_actualización": "2026-07-20 22:18:33"
   },
   {
     "id": 1363387,
@@ -307,8 +307,8 @@
       }
     ],
     "popularidad": 36.2236,
-    "puntuación": 6.1,
-    "votos": 43,
+    "puntuación": 6.136,
+    "votos": 44,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -378,7 +378,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:58:58"
+    "última_actualización": "2026-07-20 22:18:31"
   },
   {
     "id": 87513,
@@ -500,10 +500,20 @@
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 2000
+        },
+        {
+          "aspect_ratio": 0.666,
+          "height": 1611,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/evLM4hITQ0PoFDhdCTAh0aJLMgE.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1073
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:58:58"
+    "última_actualización": "2026-07-20 22:18:32"
   },
   {
     "id": 1365378,
@@ -634,7 +644,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:58:59"
+    "última_actualización": "2026-07-20 22:18:32"
   },
   {
     "id": 1193128,
@@ -799,71 +809,75 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:58:59"
+    "última_actualización": "2026-07-20 22:18:32"
   },
   {
-    "id": 1339175,
-    "tmdb_id": 1339175,
-    "título": "El anfitrión",
-    "título_original": "The Birthday Party",
-    "sinopsis": "Markos Timoleon, un magnate griego, celebra el 25 cumpleaños de su hija en su isla privada. Allí se enfrentará a una impredecible cadena de acontecimientos que amenazarán su dominio y sacudirán su propia existencia.",
-    "poster_path": "/83lV38lQ96UxSNbAdlPBCCcLYl2.jpg",
-    "poster_local": "imagenes_estrenos/El_anfitri_n_83lV38lQ96UxSNbAdlPBCCcLYl2.jpg",
-    "backdrop_path": "/c39vgYgzD4P770Mj6bKqkTiVErs.jpg",
-    "backdrop_local": "imagenes_estrenos/El_anfitri_n_backdrop_c39vgYgzD4P770Mj6bKqkTiVErs.jpg",
+    "id": 1512207,
+    "tmdb_id": 1512207,
+    "título": "Rufus, la serpiente que no sabía nadar",
+    "título_original": "Ruffen: Sjøormen som ikke kunne svømme",
+    "sinopsis": "",
+    "poster_path": "/sgoNvH0yEDonzJpGEzmBo5NlPSO.jpg",
+    "poster_local": "imagenes_estrenos/Rufus__la_serpiente_que_no_sab_a_nadar_sgoNvH0yEDonzJpGEzmBo5NlPSO.jpg",
+    "backdrop_path": "/mH7bfSIQelApYiTlefB8rKNJ81J.jpg",
+    "backdrop_local": "imagenes_estrenos/Rufus__la_serpiente_que_no_sab_a_nadar_backdrop_mH7bfSIQelApYiTlefB8rKNJ81J.jpg",
     "fecha_estreno": "2026-07-24T00:00:00.000Z",
-    "duración": "103 min",
-    "director": "Miguel Ángel Jiménez",
+    "duración": "80 min",
+    "director": "Endre Skandfer",
     "directores": [
       {
-        "name": "Miguel Ángel Jiménez",
-        "id": 588984
+        "name": "Endre Skandfer",
+        "id": 2133260
       }
     ],
     "actores": [
       {
-        "name": "Willem Dafoe",
-        "id": 5293,
-        "character": "Marcos Timoleon",
-        "profile_path": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+        "name": "Mudit Gupta",
+        "id": 5089049,
+        "character": "Ruffen (voice)",
+        "profile_path": "/ln39L7AaHdC3WKlEzJU2BTVVNIm.jpg"
       },
       {
-        "name": "Emma Suárez",
-        "id": 24974,
-        "character": "",
-        "profile_path": "/46VjvDA7znpxJvYmbu4t9PjoGfJ.jpg"
+        "name": "Janne Formoe",
+        "id": 77890,
+        "character": "Dyrehagedirektør (voice)",
+        "profile_path": "/bcgIOZVfBZqYuT0VkHjSPuhAtbZ.jpg"
       },
       {
-        "name": "Joe Cole",
-        "id": 1081875,
-        "character": "",
-        "profile_path": "/tJ4g1Zit0IqAhKiImTwAQrHHKuA.jpg"
+        "name": "Torstein Bae",
+        "id": 3921687,
+        "character": "Skilpadde (voice)",
+        "profile_path": "/s4j29gxmRBP4p0SEZ0yNHXOPqTh.jpg"
       },
       {
-        "name": "Vic Carmen Sonne",
-        "id": 1141086,
-        "character": "",
-        "profile_path": "/2ROtesSqxXDT9IszpKkspsHp42O.jpg"
+        "name": "Stig Henrik Hoff",
+        "id": 76611,
+        "character": "Henrik (voice)",
+        "profile_path": "/gEG51JAatJXXw8NBttqs4X5rMr2.jpg"
       },
       {
-        "name": "Χρήστος Στέργιογλου",
-        "id": 122428,
-        "character": "",
-        "profile_path": "/9nNyIj4A9B5PTTQTpkuc0cGLN9j.jpg"
+        "name": "Kåre Conradi",
+        "id": 146118,
+        "character": "Løve (voice)",
+        "profile_path": "/mcoVhZXHYSBsonlinwUmRAk15Sm.jpg"
       }
     ],
     "géneros": [
       {
-        "id": 18,
-        "name": "Drama"
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
       }
     ],
-    "popularidad": 1.4517,
-    "puntuación": 0.0,
-    "votos": 0,
+    "popularidad": 1.8769,
+    "puntuación": 7.3,
+    "votos": 3,
     "adulto": false,
     "video": false,
-    "año": "2026",
+    "año": "2025",
     "imágenes": {
       "backdrops": [
         {
@@ -871,76 +885,55 @@
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/c39vgYgzD4P770Mj6bKqkTiVErs.jpg",
+          "file_path": "/mH7bfSIQelApYiTlefB8rKNJ81J.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 3840
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 858,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/rqAHnFFjJjmxtzGTD5Qjt2EHwGc.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1525
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 858,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/8OXjkSoeo1lFa49xeriX0DehrAH.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1525
         },
         {
           "aspect_ratio": 1.778,
-          "height": 2160,
+          "height": 720,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/a9aSXcMk3cf5SHDpeYzZOlfaUOj.jpg",
+          "file_path": "/rtMzOMBU3xMdFdYEteccPPAxXDn.jpg",
           "vote_average": 0.0,
-          "vote_count": 1,
-          "width": 3840
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/raYrayt9Hx1IJm4QGNViHfx0HDX.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
         }
       ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 2835,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/mYHG6bduaslPdve3U2HHNiR2qsX.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1890
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1716,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/waYnFpdQdsmASclp86CH311Qjv4.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1144
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/zEMuBxqD9FjWPyfAY1LcVtt4DT2.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        },
-        {
-          "aspect_ratio": 0.7,
-          "height": 2835,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/eqkdR5kpRzlus4guDqWq70hyovZ.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1984
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/tRSB5CKg7L8Qi6aK3LDDTpp7y7T.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
+      "posters": []
     },
-    "última_actualización": "2026-07-20 10:58:59"
+    "última_actualización": "2026-07-20 22:18:32"
   },
   {
     "id": 1049082,
@@ -1087,131 +1080,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:58:59"
-  },
-  {
-    "id": 1512207,
-    "tmdb_id": 1512207,
-    "título": "Rufus, la serpiente que no sabía nadar",
-    "título_original": "Ruffen: Sjøormen som ikke kunne svømme",
-    "sinopsis": "",
-    "poster_path": "/sgoNvH0yEDonzJpGEzmBo5NlPSO.jpg",
-    "poster_local": "imagenes_estrenos/Rufus__la_serpiente_que_no_sab_a_nadar_sgoNvH0yEDonzJpGEzmBo5NlPSO.jpg",
-    "backdrop_path": "/mH7bfSIQelApYiTlefB8rKNJ81J.jpg",
-    "backdrop_local": "imagenes_estrenos/Rufus__la_serpiente_que_no_sab_a_nadar_backdrop_mH7bfSIQelApYiTlefB8rKNJ81J.jpg",
-    "fecha_estreno": "2026-07-24T00:00:00.000Z",
-    "duración": "80 min",
-    "director": "Endre Skandfer",
-    "directores": [
-      {
-        "name": "Endre Skandfer",
-        "id": 2133260
-      }
-    ],
-    "actores": [
-      {
-        "name": "Mudit Gupta",
-        "id": 5089049,
-        "character": "Ruffen (voice)",
-        "profile_path": "/ln39L7AaHdC3WKlEzJU2BTVVNIm.jpg"
-      },
-      {
-        "name": "Janne Formoe",
-        "id": 77890,
-        "character": "Dyrehagedirektør (voice)",
-        "profile_path": "/bcgIOZVfBZqYuT0VkHjSPuhAtbZ.jpg"
-      },
-      {
-        "name": "Torstein Bae",
-        "id": 3921687,
-        "character": "Skilpadde (voice)",
-        "profile_path": "/s4j29gxmRBP4p0SEZ0yNHXOPqTh.jpg"
-      },
-      {
-        "name": "Stig Henrik Hoff",
-        "id": 76611,
-        "character": "Henrik (voice)",
-        "profile_path": "/gEG51JAatJXXw8NBttqs4X5rMr2.jpg"
-      },
-      {
-        "name": "Kåre Conradi",
-        "id": 146118,
-        "character": "Løve (voice)",
-        "profile_path": "/mcoVhZXHYSBsonlinwUmRAk15Sm.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 1.8769,
-    "puntuación": 7.3,
-    "votos": 3,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/mH7bfSIQelApYiTlefB8rKNJ81J.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 858,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/rqAHnFFjJjmxtzGTD5Qjt2EHwGc.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1525
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 858,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/8OXjkSoeo1lFa49xeriX0DehrAH.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1525
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/rtMzOMBU3xMdFdYEteccPPAxXDn.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/raYrayt9Hx1IJm4QGNViHfx0HDX.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2026-07-20 10:59:00"
+    "última_actualización": "2026-07-20 22:18:33"
   },
   {
     "id": 1154478,
@@ -1350,7 +1219,148 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:59:00"
+    "última_actualización": "2026-07-20 22:18:33"
+  },
+  {
+    "id": 1339175,
+    "tmdb_id": 1339175,
+    "título": "El anfitrión",
+    "título_original": "The Birthday Party",
+    "sinopsis": "Markos Timoleon, un magnate griego, celebra el 25 cumpleaños de su hija en su isla privada. Allí se enfrentará a una impredecible cadena de acontecimientos que amenazarán su dominio y sacudirán su propia existencia.",
+    "poster_path": "/83lV38lQ96UxSNbAdlPBCCcLYl2.jpg",
+    "poster_local": "imagenes_estrenos/El_anfitri_n_83lV38lQ96UxSNbAdlPBCCcLYl2.jpg",
+    "backdrop_path": "/c39vgYgzD4P770Mj6bKqkTiVErs.jpg",
+    "backdrop_local": "imagenes_estrenos/El_anfitri_n_backdrop_c39vgYgzD4P770Mj6bKqkTiVErs.jpg",
+    "fecha_estreno": "2026-07-24T00:00:00.000Z",
+    "duración": "103 min",
+    "director": "Miguel Ángel Jiménez",
+    "directores": [
+      {
+        "name": "Miguel Ángel Jiménez",
+        "id": 588984
+      }
+    ],
+    "actores": [
+      {
+        "name": "Willem Dafoe",
+        "id": 5293,
+        "character": "Marcos Timoleon",
+        "profile_path": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+      },
+      {
+        "name": "Emma Suárez",
+        "id": 24974,
+        "character": "",
+        "profile_path": "/46VjvDA7znpxJvYmbu4t9PjoGfJ.jpg"
+      },
+      {
+        "name": "Joe Cole",
+        "id": 1081875,
+        "character": "",
+        "profile_path": "/tJ4g1Zit0IqAhKiImTwAQrHHKuA.jpg"
+      },
+      {
+        "name": "Vic Carmen Sonne",
+        "id": 1141086,
+        "character": "",
+        "profile_path": "/2ROtesSqxXDT9IszpKkspsHp42O.jpg"
+      },
+      {
+        "name": "Χρήστος Στέργιογλου",
+        "id": 122428,
+        "character": "",
+        "profile_path": "/9nNyIj4A9B5PTTQTpkuc0cGLN9j.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.4517,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/c39vgYgzD4P770Mj6bKqkTiVErs.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/a9aSXcMk3cf5SHDpeYzZOlfaUOj.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 2835,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mYHG6bduaslPdve3U2HHNiR2qsX.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1890
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1716,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/waYnFpdQdsmASclp86CH311Qjv4.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1144
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zEMuBxqD9FjWPyfAY1LcVtt4DT2.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        },
+        {
+          "aspect_ratio": 0.7,
+          "height": 2835,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/eqkdR5kpRzlus4guDqWq70hyovZ.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1984
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tRSB5CKg7L8Qi6aK3LDDTpp7y7T.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-07-20 22:18:33"
   },
   {
     "id": 1193861,
@@ -1491,7 +1501,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:59:00"
+    "última_actualización": "2026-07-20 22:18:33"
   },
   {
     "id": 1498036,
@@ -1581,7 +1591,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:59:00"
+    "última_actualización": "2026-07-20 22:18:33"
   },
   {
     "id": 1339361,
@@ -1716,7 +1726,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:59:01"
+    "última_actualización": "2026-07-20 22:18:35"
   },
   {
     "id": 1715914,
@@ -1793,7 +1803,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:59:00"
+    "última_actualización": "2026-07-20 22:18:34"
   },
   {
     "id": 969681,
@@ -1972,7 +1982,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:58:58"
+    "última_actualización": "2026-07-20 22:18:31"
   },
   {
     "id": 1274837,
@@ -2107,7 +2117,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:59:00"
+    "última_actualización": "2026-07-20 22:18:34"
   },
   {
     "id": 1102883,
@@ -2286,7 +2296,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:58:58"
+    "última_actualización": "2026-07-20 22:18:31"
   },
   {
     "id": 1634140,
@@ -2407,7 +2417,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:58:59"
+    "última_actualización": "2026-07-20 22:18:32"
   },
   {
     "id": 1462322,
@@ -2548,7 +2558,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:58:59"
+    "última_actualización": "2026-07-20 22:18:34"
   },
   {
     "id": 1127384,
@@ -2612,7 +2622,7 @@
       }
     ],
     "popularidad": 130.8946,
-    "puntuación": 7.504,
+    "puntuación": 7.492,
     "votos": 249,
     "adulto": false,
     "video": false,
@@ -2693,7 +2703,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:58:58"
+    "última_actualización": "2026-07-20 22:18:31"
   },
   {
     "id": 1455079,
@@ -2858,7 +2868,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:58:58"
+    "última_actualización": "2026-07-20 22:18:32"
   },
   {
     "id": 1258509,
@@ -2982,7 +2992,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-07-20 10:58:59"
+    "última_actualización": "2026-07-20 22:18:33"
   },
   {
     "id": 1303336,
@@ -3106,7 +3116,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-07-20 10:59:00"
+    "última_actualización": "2026-07-20 22:18:34"
   },
   {
     "id": 1614289,
@@ -3190,7 +3200,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:59:00"
+    "última_actualización": "2026-07-20 22:18:34"
   },
   {
     "id": 1001043,
@@ -3280,7 +3290,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-07-20 10:59:01"
+    "última_actualización": "2026-07-20 22:18:35"
   },
   {
     "id": 1728647,
@@ -3308,7 +3318,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-07-20 10:59:01"
+    "última_actualización": "2026-07-20 22:18:35"
   },
   {
     "id": 1432474,
@@ -3443,7 +3453,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:58:59"
+    "última_actualización": "2026-07-20 22:18:32"
   },
   {
     "id": 1728113,
@@ -3527,7 +3537,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-07-20 10:58:58"
+    "última_actualización": "2026-07-20 22:18:32"
   },
   {
     "id": 1214028,
@@ -3672,7 +3682,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-20 10:58:59"
+    "última_actualización": "2026-07-20 22:18:33"
   },
   {
     "id": 1545652,
@@ -3784,6 +3794,6 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-07-20 10:59:01"
+    "última_actualización": "2026-07-20 22:18:34"
   }
 ]
