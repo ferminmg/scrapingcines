@@ -59,7 +59,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:09"
+    "última_actualización": "2026-07-21 22:17:48"
   },
   {
     "id": 1548326,
@@ -247,7 +247,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:07"
+    "última_actualización": "2026-07-21 22:17:45"
   },
   {
     "id": 1363387,
@@ -378,7 +378,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:03"
+    "última_actualización": "2026-07-21 22:17:42"
   },
   {
     "id": 87513,
@@ -437,13 +437,17 @@
         "name": "Acción"
       },
       {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
         "id": 80,
         "name": "Crimen"
       }
     ],
     "popularidad": 8.0619,
-    "puntuación": 0.0,
-    "votos": 0,
+    "puntuación": 3.0,
+    "votos": 2,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -500,20 +504,10 @@
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 2000
-        },
-        {
-          "aspect_ratio": 0.666,
-          "height": 1611,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/evLM4hITQ0PoFDhdCTAh0aJLMgE.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1073
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:04"
+    "última_actualización": "2026-07-21 22:17:42"
   },
   {
     "id": 1365378,
@@ -644,7 +638,154 @@
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:05"
+    "última_actualización": "2026-07-21 22:17:43"
+  },
+  {
+    "id": 1049082,
+    "tmdb_id": 1049082,
+    "título": "Jumbo",
+    "título_original": "Jumbo",
+    "sinopsis": "Don, un niño de 10 años que lucha por encontrar un lugar en el mundo. Don carga con la tristeza de haber perdido a sus padres y con la sensación de ser constantemente subestimado por su físico. Su tesoro más preciado es el libro de cuentos ilustrado que heredó de ellos, un universo mágico que lo acompaña y que alimenta su creatividad y sus sueños. En el intento de demostrar su talento, Don se inscribe en un concurso local para montar una obra inspirada en ese libro. Pero cuando un bully se lo roba, Don toca fondo. Con el apoyo constante de su abuela y sus inseparables amigos Nurman y Mae, iniciarán una aventura transformadora que enseñará a Don el valor de la amistad verdadera.",
+    "poster_path": "/1ehrrkGoDQ51sSKa0IvgqvoVUst.jpg",
+    "poster_local": "imagenes_estrenos/Jumbo_1ehrrkGoDQ51sSKa0IvgqvoVUst.jpg",
+    "backdrop_path": "/4Kue0vWqoxI6wlweGoJxSQe647H.jpg",
+    "backdrop_local": "imagenes_estrenos/Jumbo_backdrop_4Kue0vWqoxI6wlweGoJxSQe647H.jpg",
+    "fecha_estreno": "2026-07-24T00:00:00.000Z",
+    "duración": "102 min",
+    "director": "Ryan Adriandhy",
+    "directores": [
+      {
+        "name": "Ryan Adriandhy",
+        "id": 1259070
+      }
+    ],
+    "actores": [
+      {
+        "name": "Prince Poetiray",
+        "id": 5058609,
+        "character": "Don (voice)",
+        "profile_path": "/aYExI2ic2be86Dxfh28rqsb4gE5.jpg"
+      },
+      {
+        "name": "Quinn Salman",
+        "id": 3805785,
+        "character": "Meri (voice)",
+        "profile_path": "/tuGcajmSw25GwfDAYYZFq68meDO.jpg"
+      },
+      {
+        "name": "Graciella Abigail",
+        "id": 2419633,
+        "character": "Mae (voice)",
+        "profile_path": "/17VNP3Pfj3zxXjnO1lBQ2WdYqEP.jpg"
+      },
+      {
+        "name": "M. Yusuf Ozkan",
+        "id": 2371450,
+        "character": "Nurman (voice)",
+        "profile_path": "/Ami8SIfb8gNGkuPMrZNpGQM3MN4.jpg"
+      },
+      {
+        "name": "M. Adhiyat",
+        "id": 1873241,
+        "character": "Atta (voice)",
+        "profile_path": "/mdPpU6WmZ02g2q0R3bM0F9cHFC9.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "popularidad": 1.8638,
+    "puntuación": 7.55,
+    "votos": 40,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/4Kue0vWqoxI6wlweGoJxSQe647H.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.779,
+          "height": 2159,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/8MCBwKgWYaFjedlDHzKTPzl3HTy.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.779,
+          "height": 2159,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/nqbMQ8kHmowcyMhxjXftN9QFvmK.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 858,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6nthxQOb0JdbbfJfvofazspzwaw.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1525
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 858,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/4VIStd6azDZbx44KHk84nLXQMZB.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1525
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oehjbqjXv8bcbR7BoopyD11IxDv.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 600
+        }
+      ]
+    },
+    "última_actualización": "2026-07-21 22:17:44"
   },
   {
     "id": 1193128,
@@ -809,278 +950,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:05"
-  },
-  {
-    "id": 1512207,
-    "tmdb_id": 1512207,
-    "título": "Rufus, la serpiente que no sabía nadar",
-    "título_original": "Ruffen: Sjøormen som ikke kunne svømme",
-    "sinopsis": "",
-    "poster_path": "/sgoNvH0yEDonzJpGEzmBo5NlPSO.jpg",
-    "poster_local": "imagenes_estrenos/Rufus__la_serpiente_que_no_sab_a_nadar_sgoNvH0yEDonzJpGEzmBo5NlPSO.jpg",
-    "backdrop_path": "/mH7bfSIQelApYiTlefB8rKNJ81J.jpg",
-    "backdrop_local": "imagenes_estrenos/Rufus__la_serpiente_que_no_sab_a_nadar_backdrop_mH7bfSIQelApYiTlefB8rKNJ81J.jpg",
-    "fecha_estreno": "2026-07-24T00:00:00.000Z",
-    "duración": "80 min",
-    "director": "Endre Skandfer",
-    "directores": [
-      {
-        "name": "Endre Skandfer",
-        "id": 2133260
-      }
-    ],
-    "actores": [
-      {
-        "name": "Mudit Gupta",
-        "id": 5089049,
-        "character": "Ruffen (voice)",
-        "profile_path": "/ln39L7AaHdC3WKlEzJU2BTVVNIm.jpg"
-      },
-      {
-        "name": "Janne Formoe",
-        "id": 77890,
-        "character": "Dyrehagedirektør (voice)",
-        "profile_path": "/bcgIOZVfBZqYuT0VkHjSPuhAtbZ.jpg"
-      },
-      {
-        "name": "Torstein Bae",
-        "id": 3921687,
-        "character": "Skilpadde (voice)",
-        "profile_path": "/s4j29gxmRBP4p0SEZ0yNHXOPqTh.jpg"
-      },
-      {
-        "name": "Stig Henrik Hoff",
-        "id": 76611,
-        "character": "Henrik (voice)",
-        "profile_path": "/gEG51JAatJXXw8NBttqs4X5rMr2.jpg"
-      },
-      {
-        "name": "Kåre Conradi",
-        "id": 146118,
-        "character": "Løve (voice)",
-        "profile_path": "/mcoVhZXHYSBsonlinwUmRAk15Sm.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 1.6143,
-    "puntuación": 7.3,
-    "votos": 3,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/mH7bfSIQelApYiTlefB8rKNJ81J.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 858,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/rqAHnFFjJjmxtzGTD5Qjt2EHwGc.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1525
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 858,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/8OXjkSoeo1lFa49xeriX0DehrAH.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1525
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/rtMzOMBU3xMdFdYEteccPPAxXDn.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/raYrayt9Hx1IJm4QGNViHfx0HDX.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2026-07-21 10:42:05"
-  },
-  {
-    "id": 1049082,
-    "tmdb_id": 1049082,
-    "título": "Jumbo",
-    "título_original": "Jumbo",
-    "sinopsis": "Don, un niño de 10 años que lucha por encontrar un lugar en el mundo. Don carga con la tristeza de haber perdido a sus padres y con la sensación de ser constantemente subestimado por su físico. Su tesoro más preciado es el libro de cuentos ilustrado que heredó de ellos, un universo mágico que lo acompaña y que alimenta su creatividad y sus sueños. En el intento de demostrar su talento, Don se inscribe en un concurso local para montar una obra inspirada en ese libro. Pero cuando un bully se lo roba, Don toca fondo. Con el apoyo constante de su abuela y sus inseparables amigos Nurman y Mae, iniciarán una aventura transformadora que enseñará a Don el valor de la amistad verdadera.",
-    "poster_path": "/1ehrrkGoDQ51sSKa0IvgqvoVUst.jpg",
-    "poster_local": "imagenes_estrenos/Jumbo_1ehrrkGoDQ51sSKa0IvgqvoVUst.jpg",
-    "backdrop_path": "/4Kue0vWqoxI6wlweGoJxSQe647H.jpg",
-    "backdrop_local": "imagenes_estrenos/Jumbo_backdrop_4Kue0vWqoxI6wlweGoJxSQe647H.jpg",
-    "fecha_estreno": "2026-07-24T00:00:00.000Z",
-    "duración": "102 min",
-    "director": "Ryan Adriandhy",
-    "directores": [
-      {
-        "name": "Ryan Adriandhy",
-        "id": 1259070
-      }
-    ],
-    "actores": [
-      {
-        "name": "Prince Poetiray",
-        "id": 5058609,
-        "character": "Don (voice)",
-        "profile_path": "/aYExI2ic2be86Dxfh28rqsb4gE5.jpg"
-      },
-      {
-        "name": "Quinn Salman",
-        "id": 3805785,
-        "character": "Meri (voice)",
-        "profile_path": "/tuGcajmSw25GwfDAYYZFq68meDO.jpg"
-      },
-      {
-        "name": "Graciella Abigail",
-        "id": 2419633,
-        "character": "Mae (voice)",
-        "profile_path": "/17VNP3Pfj3zxXjnO1lBQ2WdYqEP.jpg"
-      },
-      {
-        "name": "M. Yusuf Ozkan",
-        "id": 2371450,
-        "character": "Nurman (voice)",
-        "profile_path": "/Ami8SIfb8gNGkuPMrZNpGQM3MN4.jpg"
-      },
-      {
-        "name": "M. Adhiyat",
-        "id": 1873241,
-        "character": "Atta (voice)",
-        "profile_path": "/mdPpU6WmZ02g2q0R3bM0F9cHFC9.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      },
-      {
-        "id": 14,
-        "name": "Fantasía"
-      }
-    ],
-    "popularidad": 1.8638,
-    "puntuación": 7.55,
-    "votos": 40,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/4Kue0vWqoxI6wlweGoJxSQe647H.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.779,
-          "height": 2159,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/8MCBwKgWYaFjedlDHzKTPzl3HTy.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.779,
-          "height": 2159,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/nqbMQ8kHmowcyMhxjXftN9QFvmK.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 858,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6nthxQOb0JdbbfJfvofazspzwaw.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1525
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 858,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/4VIStd6azDZbx44KHk84nLXQMZB.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1525
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 900,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/oehjbqjXv8bcbR7BoopyD11IxDv.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 600
-        }
-      ]
-    },
-    "última_actualización": "2026-07-21 10:42:05"
+    "última_actualización": "2026-07-21 22:17:44"
   },
   {
     "id": 1154478,
@@ -1219,7 +1089,131 @@
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:06"
+    "última_actualización": "2026-07-21 22:17:44"
+  },
+  {
+    "id": 1512207,
+    "tmdb_id": 1512207,
+    "título": "Rufus, la serpiente que no sabía nadar",
+    "título_original": "Ruffen: Sjøormen som ikke kunne svømme",
+    "sinopsis": "",
+    "poster_path": "/sgoNvH0yEDonzJpGEzmBo5NlPSO.jpg",
+    "poster_local": "imagenes_estrenos/Rufus__la_serpiente_que_no_sab_a_nadar_sgoNvH0yEDonzJpGEzmBo5NlPSO.jpg",
+    "backdrop_path": "/mH7bfSIQelApYiTlefB8rKNJ81J.jpg",
+    "backdrop_local": "imagenes_estrenos/Rufus__la_serpiente_que_no_sab_a_nadar_backdrop_mH7bfSIQelApYiTlefB8rKNJ81J.jpg",
+    "fecha_estreno": "2026-07-24T00:00:00.000Z",
+    "duración": "80 min",
+    "director": "Endre Skandfer",
+    "directores": [
+      {
+        "name": "Endre Skandfer",
+        "id": 2133260
+      }
+    ],
+    "actores": [
+      {
+        "name": "Mudit Gupta",
+        "id": 5089049,
+        "character": "Ruffen (voice)",
+        "profile_path": "/ln39L7AaHdC3WKlEzJU2BTVVNIm.jpg"
+      },
+      {
+        "name": "Janne Formoe",
+        "id": 77890,
+        "character": "Dyrehagedirektør (voice)",
+        "profile_path": "/bcgIOZVfBZqYuT0VkHjSPuhAtbZ.jpg"
+      },
+      {
+        "name": "Torstein Bae",
+        "id": 3921687,
+        "character": "Skilpadde (voice)",
+        "profile_path": "/s4j29gxmRBP4p0SEZ0yNHXOPqTh.jpg"
+      },
+      {
+        "name": "Stig Henrik Hoff",
+        "id": 76611,
+        "character": "Henrik (voice)",
+        "profile_path": "/gEG51JAatJXXw8NBttqs4X5rMr2.jpg"
+      },
+      {
+        "name": "Kåre Conradi",
+        "id": 146118,
+        "character": "Løve (voice)",
+        "profile_path": "/mcoVhZXHYSBsonlinwUmRAk15Sm.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 1.6143,
+    "puntuación": 7.3,
+    "votos": 3,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mH7bfSIQelApYiTlefB8rKNJ81J.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 858,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/rqAHnFFjJjmxtzGTD5Qjt2EHwGc.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1525
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 858,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/8OXjkSoeo1lFa49xeriX0DehrAH.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1525
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/rtMzOMBU3xMdFdYEteccPPAxXDn.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/raYrayt9Hx1IJm4QGNViHfx0HDX.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-07-21 22:17:44"
   },
   {
     "id": 1339175,
@@ -1360,7 +1354,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:06"
+    "última_actualización": "2026-07-21 22:17:44"
   },
   {
     "id": 1193861,
@@ -1501,7 +1495,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:07"
+    "última_actualización": "2026-07-21 22:17:46"
   },
   {
     "id": 1498036,
@@ -1591,7 +1585,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:07"
+    "última_actualización": "2026-07-21 22:17:47"
   },
   {
     "id": 1339361,
@@ -1726,7 +1720,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:09"
+    "última_actualización": "2026-07-21 22:17:48"
   },
   {
     "id": 1715914,
@@ -1803,7 +1797,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:08"
+    "última_actualización": "2026-07-21 22:17:46"
   },
   {
     "id": 969681,
@@ -1965,24 +1959,24 @@
           "height": 3000,
           "iso_3166_1": null,
           "iso_639_1": null,
+          "file_path": "/hxfA1h7aX1MQoKqcWQFWvpe7kqk.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/yxOxOBxspl3NgC676W62G02g1cR.jpg",
           "vote_average": 2.542,
           "vote_count": 4,
           "width": 2000
-        },
-        {
-          "aspect_ratio": 0.666,
-          "height": 2162,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/60thcEmWyhpjITCI7BODvgSICSm.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 1440
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:03"
+    "última_actualización": "2026-07-21 22:17:41"
   },
   {
     "id": 1274837,
@@ -2117,7 +2111,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:08"
+    "última_actualización": "2026-07-21 22:17:47"
   },
   {
     "id": 1102883,
@@ -2286,7 +2280,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:03"
+    "última_actualización": "2026-07-21 22:17:42"
   },
   {
     "id": 1634140,
@@ -2407,7 +2401,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:04"
+    "última_actualización": "2026-07-21 22:17:43"
   },
   {
     "id": 1462322,
@@ -2467,7 +2461,7 @@
       }
     ],
     "popularidad": 1.1338,
-    "puntuación": 7.53,
+    "puntuación": 7.5,
     "votos": 264,
     "adulto": false,
     "video": false,
@@ -2548,7 +2542,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:07"
+    "última_actualización": "2026-07-21 22:17:46"
   },
   {
     "id": 1127384,
@@ -2612,8 +2606,8 @@
       }
     ],
     "popularidad": 130.7742,
-    "puntuación": 7.502,
-    "votos": 252,
+    "puntuación": 7.498,
+    "votos": 254,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2693,7 +2687,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:03"
+    "última_actualización": "2026-07-21 22:17:41"
   },
   {
     "id": 1455079,
@@ -2858,7 +2852,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:04"
+    "última_actualización": "2026-07-21 22:17:42"
   },
   {
     "id": 1258509,
@@ -2982,7 +2976,91 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-07-21 10:42:06"
+    "última_actualización": "2026-07-21 22:17:45"
+  },
+  {
+    "id": 1614289,
+    "tmdb_id": 1614289,
+    "título": "El último mono",
+    "título_original": "El último mono",
+    "sinopsis": "Nos contará la historia de un hombre (interpretado por Juan Dávila) que vende cursos para “machos alfa” aconsejándoles para ser mejores hombres. El reto de este protagonista es enamorar a una mujer feminista (interpretada por Susana Gómez Abaitua) que se encuentra de gira presentando su último libro. En tono de comedia y buscando generar una reflexión, El Último Mono cuenta la historia del reto de un “macho alfa” que pretende mostrar en redes sociales que ha conseguido enamorar a una mujer con la que probablemente no tendría ninguna posibilidad.",
+    "poster_path": "/ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
+    "poster_local": "imagenes_estrenos/El__ltimo_mono_ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-08-07T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Joaquín Mazón",
+    "directores": [
+      {
+        "name": "Joaquín Mazón",
+        "id": 1701864
+      }
+    ],
+    "actores": [
+      {
+        "name": "Juan Dávila",
+        "id": 4134863,
+        "character": "",
+        "profile_path": "/9Xz1EY3F4HoAEEXrrOhXJB0B4v8.jpg"
+      },
+      {
+        "name": "Susana Abaitua",
+        "id": 544004,
+        "character": "Mariela",
+        "profile_path": "/v9BA3YRPkEBpfL3ogKkn2Phag6m.jpg"
+      },
+      {
+        "name": "Óscar Lasarte",
+        "id": 4432223,
+        "character": "Samu",
+        "profile_path": "/vy9luk6gN009rOEQvFjpQDhNHFU.jpg"
+      },
+      {
+        "name": "Jany Collado",
+        "id": 3295272,
+        "character": "Ximo",
+        "profile_path": null
+      },
+      {
+        "name": "Paula García Sabio",
+        "id": 2449516,
+        "character": "Rebe",
+        "profile_path": "/7EGsg0aUvEVfnc1vDTWzRHlcWwL.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "popularidad": 1.336,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.699,
+          "height": 1200,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 839
+        }
+      ]
+    },
+    "última_actualización": "2026-07-21 22:17:45"
   },
   {
     "id": 1303336,
@@ -3106,91 +3184,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-07-21 10:42:08"
-  },
-  {
-    "id": 1614289,
-    "tmdb_id": 1614289,
-    "título": "El último mono",
-    "título_original": "El último mono",
-    "sinopsis": "Nos contará la historia de un hombre (interpretado por Juan Dávila) que vende cursos para “machos alfa” aconsejándoles para ser mejores hombres. El reto de este protagonista es enamorar a una mujer feminista (interpretada por Susana Gómez Abaitua) que se encuentra de gira presentando su último libro. En tono de comedia y buscando generar una reflexión, El Último Mono cuenta la historia del reto de un “macho alfa” que pretende mostrar en redes sociales que ha conseguido enamorar a una mujer con la que probablemente no tendría ninguna posibilidad.",
-    "poster_path": "/ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
-    "poster_local": "imagenes_estrenos/El__ltimo_mono_ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-08-07T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Joaquín Mazón",
-    "directores": [
-      {
-        "name": "Joaquín Mazón",
-        "id": 1701864
-      }
-    ],
-    "actores": [
-      {
-        "name": "Juan Dávila",
-        "id": 4134863,
-        "character": "",
-        "profile_path": "/9Xz1EY3F4HoAEEXrrOhXJB0B4v8.jpg"
-      },
-      {
-        "name": "Susana Abaitua",
-        "id": 544004,
-        "character": "Mariela",
-        "profile_path": "/v9BA3YRPkEBpfL3ogKkn2Phag6m.jpg"
-      },
-      {
-        "name": "Óscar Lasarte",
-        "id": 4432223,
-        "character": "Samu",
-        "profile_path": "/vy9luk6gN009rOEQvFjpQDhNHFU.jpg"
-      },
-      {
-        "name": "Jany Collado",
-        "id": 3295272,
-        "character": "Ximo",
-        "profile_path": null
-      },
-      {
-        "name": "Paula García Sabio",
-        "id": 2449516,
-        "character": "Rebe",
-        "profile_path": "/7EGsg0aUvEVfnc1vDTWzRHlcWwL.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      }
-    ],
-    "popularidad": 1.336,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.699,
-          "height": 1200,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 839
-        }
-      ]
-    },
-    "última_actualización": "2026-07-21 10:42:09"
+    "última_actualización": "2026-07-21 22:17:46"
   },
   {
     "id": 1001043,
@@ -3280,7 +3274,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-07-21 10:42:09"
+    "última_actualización": "2026-07-21 22:17:47"
   },
   {
     "id": 1728647,
@@ -3308,7 +3302,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-07-21 10:42:10"
+    "última_actualización": "2026-07-21 22:17:48"
   },
   {
     "id": 1432474,
@@ -3443,7 +3437,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:05"
+    "última_actualización": "2026-07-21 22:17:43"
   },
   {
     "id": 1728113,
@@ -3527,7 +3521,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-07-21 10:42:04"
+    "última_actualización": "2026-07-21 22:17:43"
   },
   {
     "id": 1214028,
@@ -3672,7 +3666,7 @@
         }
       ]
     },
-    "última_actualización": "2026-07-21 10:42:06"
+    "última_actualización": "2026-07-21 22:17:45"
   },
   {
     "id": 1545652,
@@ -3784,6 +3778,6 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-07-21 10:42:08"
+    "última_actualización": "2026-07-21 22:17:47"
   }
 ]
