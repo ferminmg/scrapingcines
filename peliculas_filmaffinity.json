@@ -1,13 +1,40 @@
 [
     {
+        "título": "Nicky, la aprendiz de bruja",
+        "cartel": "imagenes_filmaffinity/tmdb_nicky-la-aprendiz-de-bruja.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-07-24",
+                "hora": "18:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=31779"
+            },
+            {
+                "fecha": "2026-07-26",
+                "hora": "18:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=31830"
+            },
+            {
+                "fecha": "2026-07-27",
+                "hora": "18:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=31855"
+            },
+            {
+                "fecha": "2026-07-28",
+                "hora": "18:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=31879"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "清水崇",
+        "duración": "108 min",
+        "actores": "Fuka Koshiba, 広田亮平, 尾野真千子, 山本浩司, 吉田羊",
+        "sinopsis": "Como manda la tradición de las brujas, al cumplir los 13 años Nicky se ve obligada a abandonar su hogar durante un año entero para desarrollar al completo sus poderes y aprender a usarlos para ayudar a los demás. Montada en su escoba voladora y acompañada por su fiel gato Jiji, Nicky pondrá rumbo a Koriko, un pequeño pueblo costero donde vivirá increíbles aventuras y hará grandes amistades. Pero también tendrá que hacer frente a las dificultades de ser una bruja y tener poderes que la hacen diferente del resto de personas.",
+        "año": "2014"
+    },
+    {
         "título": "La odisea",
         "cartel": "imagenes_filmaffinity/tmdb_la-odisea.jpg",
         "horarios": [
-            {
-                "fecha": "2026-07-23",
-                "hora": "20:35",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=30684"
-            },
             {
                 "fecha": "2026-07-24",
                 "hora": "20:10",
@@ -40,38 +67,6 @@
         "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
         "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
         "año": "2026"
-    },
-    {
-        "título": "Nicky, la aprendiz de bruja",
-        "cartel": "imagenes_filmaffinity/tmdb_nicky-la-aprendiz-de-bruja.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-07-24",
-                "hora": "18:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=31779"
-            },
-            {
-                "fecha": "2026-07-26",
-                "hora": "18:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=31830"
-            },
-            {
-                "fecha": "2026-07-27",
-                "hora": "18:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=31855"
-            },
-            {
-                "fecha": "2026-07-28",
-                "hora": "18:15",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=31879"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "清水崇",
-        "duración": "108 min",
-        "actores": "Fuka Koshiba, 広田亮平, 尾野真千子, 山本浩司, 吉田羊",
-        "sinopsis": "Como manda la tradición de las brujas, al cumplir los 13 años Nicky se ve obligada a abandonar su hogar durante un año entero para desarrollar al completo sus poderes y aprender a usarlos para ayudar a los demás. Montada en su escoba voladora y acompañada por su fiel gato Jiji, Nicky pondrá rumbo a Koriko, un pequeño pueblo costero donde vivirá increíbles aventuras y hará grandes amistades. Pero también tendrá que hacer frente a las dificultades de ser una bruja y tener poderes que la hacen diferente del resto de personas.",
-        "año": "2014"
     },
     {
         "título": "Spider-Man: Brand New Day",
