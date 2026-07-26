@@ -6,7 +6,7 @@
             {
                 "fecha": "2026-07-26",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101389&eventCode=112501"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -23,7 +23,7 @@
             {
                 "fecha": "2026-07-26",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101385&eventCode=100228"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -40,7 +40,7 @@
             {
                 "fecha": "2026-07-26",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101383&eventCode=108967"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -278,7 +278,7 @@
             {
                 "fecha": "2026-07-26",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91797&eventCode=105377"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -289,30 +289,13 @@
         "año": "2025"
     },
     {
-        "título": "Los músicos",
-        "cartel": "imagenes_peliculas/tmdb_los_musicos.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-07-26",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91802&eventCode=111815"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Grégory Magne",
-        "duración": "102 min",
-        "actores": "Valérie Donzelli, Frédéric Pierrot, Mathieu Spinosi, Emma Ravier, Daniel Garlitsky",
-        "sinopsis": "Astrid reúne cuatro instrumentos Stradivarius para un concierto único. Pero durante los ensayos, los músicos tienen dificultades para tocar juntos en armonía. Por lo que llama al compositor de la partitura para guiarlos.",
-        "año": "2025"
-    },
-    {
         "título": "Cowgirl",
         "cartel": "imagenes_peliculas/tmdb_cowgirl.jpg",
         "horarios": [
             {
                 "fecha": "2026-07-26",
                 "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91343&eventCode=112181"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -321,23 +304,6 @@
         "actores": "Isabel Rocatti, Pep Munné, Carlos Cuevas, Joaquín Climent, Carles Sanjaime",
         "sinopsis": "Empar es una granjera de sesenta años que vive en una zona rural en la comarca de montaña de Els Ports y que necesita que Tona, la última vaca de su granja, se quede preñada para mantener la explotación ganadera. Después de repetidos fracasos y en contra de su voluntad, se ve obligada a pedir ayuda a Bernat, el propietario de la mayor granja de la zona, para que su semental monte a Tona.",
         "año": "2026"
-    },
-    {
-        "título": "Espejos n.º 3",
-        "cartel": "imagenes_peliculas/tmdb_espejos_n.o_3.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-07-26",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91344&eventCode=112190"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Christian Petzold",
-        "duración": "86 min",
-        "actores": "Paula Beer, Barbara Auer, Matthias Brandt, Enno Trebs, Philip Froissant",
-        "sinopsis": "La vida de una estudiante de música da un giro inesperado cuando su novio muere en un accidente de tráfico, obligándola a reevaluar su camino.",
-        "año": "2025"
     },
     {
         "título": "El arquitecto",
@@ -890,7 +856,7 @@
             {
                 "fecha": "2026-07-26",
                 "hora": "19:20",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=226542&eventCode=100228"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem La Morea",
