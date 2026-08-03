@@ -6,7 +6,7 @@
             {
                 "fecha": "2026-08-03",
                 "hora": "21:40",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101517&eventCode=104970"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -23,7 +23,7 @@
             {
                 "fecha": "2026-08-03",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101519&eventCode=100228"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -40,7 +40,7 @@
             {
                 "fecha": "2026-08-03",
                 "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101528&eventCode=108967"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -210,7 +210,7 @@
             {
                 "fecha": "2026-08-03",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91900&eventCode=111855"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -227,7 +227,7 @@
             {
                 "fecha": "2026-08-03",
                 "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91890&eventCode=111243"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -261,7 +261,7 @@
             {
                 "fecha": "2026-08-03",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91476&eventCode=112183"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -278,7 +278,7 @@
             {
                 "fecha": "2026-08-03",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91897&eventCode=105377"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -295,7 +295,7 @@
             {
                 "fecha": "2026-08-03",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91477&eventCode=112205"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -958,7 +958,7 @@
             {
                 "fecha": "2026-08-03",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=226803&eventCode=104970"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem La Morea",
@@ -975,7 +975,7 @@
             {
                 "fecha": "2026-08-03",
                 "hora": "19:20",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=226787&eventCode=100228"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem La Morea",
@@ -1085,6 +1085,91 @@
         "duración": "173 min",
         "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
         "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+        "año": "2026"
+    },
+    {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-07",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=226981&eventCode=104970"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "año": "2026"
+    },
+    {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-08",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=227009&eventCode=104970"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "año": "2026"
+    },
+    {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-09",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=227043&eventCode=104970"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "año": "2026"
+    },
+    {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-10",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=227079&eventCode=104970"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "año": "2026"
+    },
+    {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-11",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=227113&eventCode=104970"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
         "año": "2026"
     }
 ]
