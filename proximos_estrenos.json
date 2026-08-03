@@ -60,9 +60,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 105.1625,
-    "puntuación": 7.2,
-    "votos": 338,
+    "popularidad": 126.2185,
+    "puntuación": 7.209,
+    "votos": 347,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -162,7 +162,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-02 22:17:04"
+    "última_actualización": "2026-08-03 22:20:53"
   },
   {
     "id": 1455079,
@@ -225,7 +225,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 6.8639,
+    "popularidad": 6.7682,
     "puntuación": 7.4,
     "votos": 98,
     "adulto": false,
@@ -327,7 +327,142 @@
         }
       ]
     },
-    "última_actualización": "2026-08-02 22:17:05"
+    "última_actualización": "2026-08-03 22:20:54"
+  },
+  {
+    "id": 1258509,
+    "tmdb_id": 1258509,
+    "título": "El amor que permanece",
+    "título_original": "Ástin sem eftir er",
+    "sinopsis": "La cosa nunca acaba de funcionar cuando Anna y Magnus, recién separados, se reúnen con sus tres hijos en la aldea rural donde viven con la madre. Asistimos al paso de las cuatro estaciones en esa relación que se desintegra, escenas de un (ex)matrimonio que se afanan en capturar momentos cotidianos, como si de esa forma quedaran a salvo del olvido en un hipotético álbum familiar.",
+    "poster_path": "/4j1hblHh0DmpSdRqSQtqN8mepCU.jpg",
+    "poster_local": "imagenes_estrenos/El_amor_que_permanece_gveoShAALiQfdINESmjmsPGb0IC.jpg",
+    "backdrop_path": "/7xWTnediis2NYgZTq7ZndvI9JgW.jpg",
+    "backdrop_local": "imagenes_estrenos/El_amor_que_permanece_backdrop_7xWTnediis2NYgZTq7ZndvI9JgW.jpg",
+    "fecha_estreno": "2026-08-07T00:00:00.000Z",
+    "duración": "109 min",
+    "director": "Hlynur Pálmason",
+    "directores": [
+      {
+        "name": "Hlynur Pálmason",
+        "id": 1292227
+      }
+    ],
+    "actores": [
+      {
+        "name": "Saga Garðarsdóttir",
+        "id": 1472678,
+        "character": "Anna",
+        "profile_path": "/iEYyuPKn87Kv752iWYmiv7PyHWU.jpg"
+      },
+      {
+        "name": "Sverrir Gudnason",
+        "id": 87663,
+        "character": "Magnús",
+        "profile_path": "/ko2kPadRWZG8pPVRWCXqWy8TGbT.jpg"
+      },
+      {
+        "name": "Ída Mekkín Hlynsdóttir",
+        "id": 2294554,
+        "character": "Ída",
+        "profile_path": "/6M8Ozk9o2aTjGLyxjMUCkEBlLIf.jpg"
+      },
+      {
+        "name": "Þorgils Hlynsson",
+        "id": 3390757,
+        "character": "Þorgils",
+        "profile_path": null
+      },
+      {
+        "name": "Grímur Hlynsson",
+        "id": 3390756,
+        "character": "Grímur",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 1.8977,
+    "puntuación": 6.2,
+    "votos": 31,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7xWTnediis2NYgZTq7ZndvI9JgW.jpg",
+          "vote_average": 3.334,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3cIiqpdqz7MeiM1GTGizrpIfQc8.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1600
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xEMTKWqVXxcIirCiAizzMUFendF.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.78,
+          "height": 1180,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/1H8LyqAhkHgQPaDNaTZGAdRpSg.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 2100
+        },
+        {
+          "aspect_ratio": 1.78,
+          "height": 1180,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5VSV4nUfC3bgRJ7B6XPMtfaHUtw.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 2100
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/4j1hblHh0DmpSdRqSQtqN8mepCU.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-08-03 22:20:55"
   },
   {
     "id": 1303336,
@@ -390,7 +525,7 @@
         "name": "Fantasía"
       }
     ],
-    "popularidad": 2.0673,
+    "popularidad": 1.6998,
     "puntuación": 7.3,
     "votos": 13,
     "adulto": false,
@@ -451,7 +586,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-08-02 22:17:07"
+    "última_actualización": "2026-08-03 22:20:55"
   },
   {
     "id": 1614289,
@@ -514,7 +649,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 1.8514,
+    "popularidad": 1.6152,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -535,131 +670,100 @@
         }
       ]
     },
-    "última_actualización": "2026-08-02 22:17:07"
+    "última_actualización": "2026-08-03 22:20:56"
   },
   {
-    "id": 1258509,
-    "tmdb_id": 1258509,
-    "título": "El amor que permanece",
-    "título_original": "Ástin sem eftir er",
-    "sinopsis": "La cosa nunca acaba de funcionar cuando Anna y Magnus, recién separados, se reúnen con sus tres hijos en la aldea rural donde viven con la madre. Asistimos al paso de las cuatro estaciones en esa relación que se desintegra, escenas de un (ex)matrimonio que se afanan en capturar momentos cotidianos, como si de esa forma quedaran a salvo del olvido en un hipotético álbum familiar.",
-    "poster_path": "/gveoShAALiQfdINESmjmsPGb0IC.jpg",
-    "poster_local": "imagenes_estrenos/El_amor_que_permanece_gveoShAALiQfdINESmjmsPGb0IC.jpg",
-    "backdrop_path": "/7xWTnediis2NYgZTq7ZndvI9JgW.jpg",
-    "backdrop_local": "imagenes_estrenos/El_amor_que_permanece_backdrop_7xWTnediis2NYgZTq7ZndvI9JgW.jpg",
+    "id": 373887,
+    "tmdb_id": 373887,
+    "título": "Le vélo de l'éléphant",
+    "título_original": "Le vélo de l'éléphant",
+    "sinopsis": "Un elefante vive en una ciudad entre la gente normal y trabaja como basurero. Un día ve un anuncio enorme de una bicicleta y cree que es de su tamaño. A partir de ese momento, su vida se centrará en conseguir la bicicleta a toda costa!",
+    "poster_path": "/okcymyzDYtVwy7aSOy2q9Kn7gJW.jpg",
+    "poster_local": "imagenes_estrenos/Le_v_lo_de_l__l_phant_okcymyzDYtVwy7aSOy2q9Kn7gJW.jpg",
+    "backdrop_path": "/sPfz6ZALAAcbIATsQ2aqhUQaJak.jpg",
+    "backdrop_local": "imagenes_estrenos/Le_v_lo_de_l__l_phant_backdrop_sPfz6ZALAAcbIATsQ2aqhUQaJak.jpg",
     "fecha_estreno": "2026-08-07T00:00:00.000Z",
-    "duración": "109 min",
-    "director": "Hlynur Pálmason",
+    "duración": "5 min",
+    "director": "Olesya Shchukina",
     "directores": [
       {
-        "name": "Hlynur Pálmason",
-        "id": 1292227
+        "name": "Olesya Shchukina",
+        "id": 1552743
       }
     ],
-    "actores": [
-      {
-        "name": "Saga Garðarsdóttir",
-        "id": 1472678,
-        "character": "Anna",
-        "profile_path": "/iEYyuPKn87Kv752iWYmiv7PyHWU.jpg"
-      },
-      {
-        "name": "Sverrir Gudnason",
-        "id": 87663,
-        "character": "Magnús",
-        "profile_path": "/ko2kPadRWZG8pPVRWCXqWy8TGbT.jpg"
-      },
-      {
-        "name": "Ída Mekkín Hlynsdóttir",
-        "id": 2294554,
-        "character": "Ída",
-        "profile_path": "/6M8Ozk9o2aTjGLyxjMUCkEBlLIf.jpg"
-      },
-      {
-        "name": "Þorgils Hlynsson",
-        "id": 3390757,
-        "character": "Þorgils",
-        "profile_path": null
-      },
-      {
-        "name": "Grímur Hlynsson",
-        "id": 3390756,
-        "character": "Grímur",
-        "profile_path": null
-      }
-    ],
+    "actores": [],
     "géneros": [
       {
-        "id": 18,
-        "name": "Drama"
+        "id": 16,
+        "name": "Animación"
       },
       {
         "id": 35,
         "name": "Comedia"
       }
     ],
-    "popularidad": 1.818,
-    "puntuación": 6.21,
-    "votos": 31,
+    "popularidad": 0.5751,
+    "puntuación": 7.0,
+    "votos": 3,
     "adulto": false,
     "video": false,
-    "año": "2025",
+    "año": "2014",
     "imágenes": {
       "backdrops": [
         {
           "aspect_ratio": 1.778,
-          "height": 2160,
+          "height": 1026,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/7xWTnediis2NYgZTq7ZndvI9JgW.jpg",
+          "file_path": "/sPfz6ZALAAcbIATsQ2aqhUQaJak.jpg",
           "vote_average": 3.334,
-          "vote_count": 3,
-          "width": 3840
+          "vote_count": 1,
+          "width": 1824
         },
         {
           "aspect_ratio": 1.778,
-          "height": 900,
+          "height": 1026,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/3cIiqpdqz7MeiM1GTGizrpIfQc8.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1600
+          "file_path": "/ljvnAuvUqeaYbTyfVPHMqj9wuEi.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1824
         },
         {
           "aspect_ratio": 1.778,
-          "height": 2160,
+          "height": 1026,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/xEMTKWqVXxcIirCiAizzMUFendF.jpg",
-          "vote_average": 1.222,
-          "vote_count": 3,
-          "width": 3840
+          "file_path": "/iU3HetKeEyDFmoxfkQSaXfm1dUR.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1824
         },
         {
-          "aspect_ratio": 1.78,
-          "height": 1180,
+          "aspect_ratio": 1.778,
+          "height": 1026,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/1H8LyqAhkHgQPaDNaTZGAdRpSg.jpg",
-          "vote_average": 1.222,
-          "vote_count": 3,
-          "width": 2100
+          "file_path": "/pKhwxsvLl2vWSGspAhUwCLU9Cdk.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1824
         },
         {
-          "aspect_ratio": 1.78,
-          "height": 1180,
+          "aspect_ratio": 1.778,
+          "height": 1026,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/5VSV4nUfC3bgRJ7B6XPMtfaHUtw.jpg",
-          "vote_average": 1.222,
-          "vote_count": 3,
-          "width": 2100
+          "file_path": "/jYb2yZ5CMV2Fkde8OzmTLak3XVC.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1824
         }
       ],
       "posters": []
     },
-    "última_actualización": "2026-08-02 22:17:08"
+    "última_actualización": "2026-08-03 22:20:56"
   },
   {
     "id": 1001043,
@@ -667,7 +771,7 @@
     "título": "El síndrome Rembrandt",
     "título_original": "Rembrandt",
     "sinopsis": "",
-    "poster_path": "/sdRh7duuTkn9Nygs96yfoT97rk0.jpg",
+    "poster_path": "/s2uBw3jw7YVpSqAip54ilSo0wE1.jpg",
     "poster_local": "imagenes_estrenos/El_s_ndrome_Rembrandt_sdRh7duuTkn9Nygs96yfoT97rk0.jpg",
     "backdrop_path": "/AwnWU7AdlLi7ASnjaiMwGtIxExE.jpg",
     "backdrop_local": "imagenes_estrenos/El_s_ndrome_Rembrandt_backdrop_AwnWU7AdlLi7ASnjaiMwGtIxExE.jpg",
@@ -718,7 +822,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.6279,
+    "popularidad": 0.5497,
     "puntuación": 4.0,
     "votos": 13,
     "adulto": false,
@@ -747,9 +851,20 @@
           "width": 3840
         }
       ],
-      "posters": []
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/s2uBw3jw7YVpSqAip54ilSo0wE1.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
     },
-    "última_actualización": "2026-08-02 22:17:09"
+    "última_actualización": "2026-08-03 22:20:56"
   },
   {
     "id": 1728647,
@@ -767,7 +882,7 @@
     "directores": [],
     "actores": [],
     "géneros": [],
-    "popularidad": 0.0404,
+    "popularidad": 0.0281,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -777,7 +892,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-08-02 22:17:09"
+    "última_actualización": "2026-08-03 22:20:57"
   },
   {
     "id": 1432474,
@@ -840,7 +955,7 @@
         "name": "Música"
       }
     ],
-    "popularidad": 5.4743,
+    "popularidad": 5.2064,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -922,7 +1037,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-02 22:17:06"
+    "última_actualización": "2026-08-03 22:20:54"
   },
   {
     "id": 1728113,
@@ -985,7 +1100,7 @@
         "name": "Música"
       }
     ],
-    "popularidad": 3.3229,
+    "popularidad": 2.9657,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1006,7 +1121,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-08-02 22:17:06"
+    "última_actualización": "2026-08-03 22:20:55"
   },
   {
     "id": 1214028,
@@ -1069,7 +1184,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 2.2851,
+    "popularidad": 1.9854,
     "puntuación": 6.4,
     "votos": 29,
     "adulto": false,
@@ -1161,7 +1276,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-02 22:17:07"
+    "última_actualización": "2026-08-03 22:20:55"
   },
   {
     "id": 1218069,
@@ -1205,7 +1320,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 2.4155,
+    "popularidad": 2.2067,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1266,7 +1381,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-08-02 22:17:07"
+    "última_actualización": "2026-08-03 22:20:55"
   },
   {
     "id": 1101383,
@@ -1333,7 +1448,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 34.1349,
+    "popularidad": 34.1594,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1445,7 +1560,160 @@
         }
       ]
     },
-    "última_actualización": "2026-08-02 22:17:04"
+    "última_actualización": "2026-08-03 22:20:53"
+  },
+  {
+    "id": 1185806,
+    "tmdb_id": 1185806,
+    "título": "La Patrulla Canina: La dino película",
+    "título_original": "PAW Patrol: The Dino Movie",
+    "sinopsis": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+    "poster_path": "/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
+    "poster_local": "imagenes_estrenos/La_Patrulla_Canina__La_dino_pel_cula_mVx2O7ikolw0lQC3XEIM4C2uYwd.jpg",
+    "backdrop_path": "/upNeU9FNGAvdhnoThvv64Z0MWKn.jpg",
+    "backdrop_local": "imagenes_estrenos/La_Patrulla_Canina__La_dino_pel_cula_backdrop_rlREba6gEHwcIyxvZLrUebJjxsI.jpg",
+    "fecha_estreno": "2026-08-14T00:00:00.000Z",
+    "duración": "88 min",
+    "director": "Cal Brunker",
+    "directores": [
+      {
+        "name": "Cal Brunker",
+        "id": 1098477
+      }
+    ],
+    "actores": [
+      {
+        "name": "Carter Young",
+        "id": 3572176,
+        "character": "Marshall (voice)",
+        "profile_path": null
+      },
+      {
+        "name": "Hayden Chamberlen",
+        "id": 5423400,
+        "character": "Rex (voice)",
+        "profile_path": null
+      },
+      {
+        "name": "Mckenna Grace",
+        "id": 1172108,
+        "character": "Skye (voice)",
+        "profile_path": "/liUIubLxm7uaClq1ASwDOx0mwnq.jpg"
+      },
+      {
+        "name": "Rain Janjua",
+        "id": 3908744,
+        "character": "Chase (voice)",
+        "profile_path": "/39VLLyRP55v9ImeKT50EdCIrZ84.jpg"
+      },
+      {
+        "name": "Henry Bolan",
+        "id": 5423394,
+        "character": "Ryder (voice)",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 18.8197,
+    "puntuación": 7.0,
+    "votos": 7,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.777,
+          "height": 858,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/upNeU9FNGAvdhnoThvv64Z0MWKn.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1525
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 2074,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/rlREba6gEHwcIyxvZLrUebJjxsI.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3686
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 797,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mtZCXtdDxVpPPG4JxWDGOtZ40Ow.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1417
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.779,
+          "height": 802,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/IdSmuVixVHyuMhQI0JCL4H3uz6.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1427
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/hvF9KgDanGvPXJ1vACh7Y2JlYV.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.706,
+          "height": 2387,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/74yByqChly6h7Gv3vnGcRHJxlBo.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1686
+        }
+      ]
+    },
+    "última_actualización": "2026-08-03 22:20:53"
   },
   {
     "id": 1242265,
@@ -1516,9 +1784,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 18.2191,
-    "puntuación": 7.044,
-    "votos": 261,
+    "popularidad": 17.9272,
+    "puntuación": 7.036,
+    "votos": 267,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1608,160 +1876,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-02 22:17:04"
-  },
-  {
-    "id": 1185806,
-    "tmdb_id": 1185806,
-    "título": "La Patrulla Canina: La dino película",
-    "título_original": "PAW Patrol: The Dino Movie",
-    "sinopsis": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
-    "poster_path": "/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
-    "poster_local": "imagenes_estrenos/La_Patrulla_Canina__La_dino_pel_cula_mVx2O7ikolw0lQC3XEIM4C2uYwd.jpg",
-    "backdrop_path": "/upNeU9FNGAvdhnoThvv64Z0MWKn.jpg",
-    "backdrop_local": "imagenes_estrenos/La_Patrulla_Canina__La_dino_pel_cula_backdrop_rlREba6gEHwcIyxvZLrUebJjxsI.jpg",
-    "fecha_estreno": "2026-08-14T00:00:00.000Z",
-    "duración": "88 min",
-    "director": "Cal Brunker",
-    "directores": [
-      {
-        "name": "Cal Brunker",
-        "id": 1098477
-      }
-    ],
-    "actores": [
-      {
-        "name": "Carter Young",
-        "id": 3572176,
-        "character": "Marshall (voice)",
-        "profile_path": null
-      },
-      {
-        "name": "Hayden Chamberlen",
-        "id": 5423400,
-        "character": "Rex (voice)",
-        "profile_path": null
-      },
-      {
-        "name": "Mckenna Grace",
-        "id": 1172108,
-        "character": "Skye (voice)",
-        "profile_path": "/liUIubLxm7uaClq1ASwDOx0mwnq.jpg"
-      },
-      {
-        "name": "Rain Janjua",
-        "id": 3908744,
-        "character": "Chase (voice)",
-        "profile_path": "/39VLLyRP55v9ImeKT50EdCIrZ84.jpg"
-      },
-      {
-        "name": "Henry Bolan",
-        "id": 5423394,
-        "character": "Ryder (voice)",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 12,
-        "name": "Aventura"
-      },
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 17.0764,
-    "puntuación": 5.667,
-    "votos": 3,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.777,
-          "height": 858,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/upNeU9FNGAvdhnoThvv64Z0MWKn.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1525
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 2074,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/rlREba6gEHwcIyxvZLrUebJjxsI.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3686
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 797,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/mtZCXtdDxVpPPG4JxWDGOtZ40Ow.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1417
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.779,
-          "height": 802,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/IdSmuVixVHyuMhQI0JCL4H3uz6.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1427
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/hvF9KgDanGvPXJ1vACh7Y2JlYV.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.706,
-          "height": 2387,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/74yByqChly6h7Gv3vnGcRHJxlBo.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1686
-        }
-      ]
-    },
-    "última_actualización": "2026-08-02 22:17:04"
+    "última_actualización": "2026-08-03 22:20:54"
   },
   {
     "id": 1421153,
@@ -1824,7 +1939,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 2.6665,
+    "popularidad": 2.2881,
     "puntuación": 6.8,
     "votos": 11,
     "adulto": false,
@@ -1885,7 +2000,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-08-02 22:17:06"
+    "última_actualización": "2026-08-03 22:20:55"
   },
   {
     "id": 1432596,
@@ -1952,7 +2067,7 @@
         "name": "Bélica"
       }
     ],
-    "popularidad": 2.5752,
+    "popularidad": 2.1229,
     "puntuación": 7.8,
     "votos": 65,
     "adulto": false,
@@ -2064,7 +2179,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-02 22:17:06"
+    "última_actualización": "2026-08-03 22:20:55"
   },
   {
     "id": 1208284,
@@ -2135,7 +2250,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 1.7927,
+    "popularidad": 1.6635,
     "puntuación": 6.3,
     "votos": 52,
     "adulto": false,
@@ -2196,7 +2311,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-08-02 22:17:08"
+    "última_actualización": "2026-08-03 22:20:55"
   },
   {
     "id": 1514835,
@@ -2263,7 +2378,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 1.4642,
+    "popularidad": 1.2747,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2294,7 +2409,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-02 22:17:08"
+    "última_actualización": "2026-08-03 22:20:56"
   },
   {
     "id": 1545652,
@@ -2365,7 +2480,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 1.0918,
+    "popularidad": 0.7185,
     "puntuación": 5.0,
     "votos": 5,
     "adulto": false,
@@ -2406,7 +2521,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-08-02 22:17:09"
+    "última_actualización": "2026-08-03 22:20:56"
   },
   {
     "id": 1288445,
@@ -2469,7 +2584,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 13.2696,
+    "popularidad": 12.9513,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2581,7 +2696,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-02 22:17:05"
+    "última_actualización": "2026-08-03 22:20:54"
   },
   {
     "id": 1291595,
@@ -2644,7 +2759,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 12.9836,
+    "popularidad": 12.3271,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2736,7 +2851,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-02 22:17:05"
+    "última_actualización": "2026-08-03 22:20:54"
   },
   {
     "id": 1218412,
@@ -2795,7 +2910,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.2826,
+    "popularidad": 2.242,
     "puntuación": 5.9,
     "votos": 20,
     "adulto": false,
@@ -2856,7 +2971,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-08-02 22:17:07"
+    "última_actualización": "2026-08-03 22:20:55"
   },
   {
     "id": 1483477,
@@ -2919,7 +3034,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 1.9036,
+    "popularidad": 1.6535,
     "puntuación": 6.545,
     "votos": 22,
     "adulto": false,
@@ -2971,7 +3086,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-02 22:17:07"
+    "última_actualización": "2026-08-03 22:20:56"
   },
   {
     "id": 1567195,
@@ -3025,7 +3140,7 @@
       }
     ],
     "géneros": [],
-    "popularidad": 1.2991,
+    "popularidad": 1.0339,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3046,7 +3161,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-02 22:17:08"
+    "última_actualización": "2026-08-03 22:20:56"
   },
   {
     "id": 1339434,
@@ -3069,7 +3184,7 @@
     ],
     "actores": [],
     "géneros": [],
-    "popularidad": 0.0193,
+    "popularidad": 0.0264,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3090,7 +3205,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-02 22:17:09"
+    "última_actualización": "2026-08-03 22:20:57"
   },
   {
     "id": 1433367,
@@ -3157,9 +3272,9 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 14.4946,
-    "puntuación": 6.4,
-    "votos": 5,
+    "popularidad": 14.7795,
+    "puntuación": 6.667,
+    "votos": 6,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3249,7 +3364,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-02 22:17:05"
+    "última_actualización": "2026-08-03 22:20:54"
   },
   {
     "id": 1384216,
@@ -3316,7 +3431,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 9.9036,
+    "popularidad": 9.6143,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3428,7 +3543,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-02 22:17:05"
+    "última_actualización": "2026-08-03 22:20:54"
   },
   {
     "id": 1187326,
@@ -3495,7 +3610,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 2.8114,
+    "popularidad": 2.8613,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3567,7 +3682,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-02 22:17:06"
+    "última_actualización": "2026-08-03 22:20:55"
   },
   {
     "id": 1651187,
@@ -3608,7 +3723,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.1484,
+    "popularidad": 0.0648,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3629,6 +3744,6 @@
         }
       ]
     },
-    "última_actualización": "2026-08-02 22:17:09"
+    "última_actualización": "2026-08-03 22:20:56"
   }
 ]
