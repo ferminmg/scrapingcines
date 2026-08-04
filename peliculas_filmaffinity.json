@@ -4,11 +4,6 @@
         "cartel": "imagenes_filmaffinity/tmdb_spider-man-brand-new-day.jpg",
         "horarios": [
             {
-                "fecha": "2026-08-04",
-                "hora": "18:45",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=30745"
-            },
-            {
                 "fecha": "2026-08-05",
                 "hora": "18:45",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=30754"
@@ -17,6 +12,31 @@
                 "fecha": "2026-08-06",
                 "hora": "18:45",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=30763"
+            },
+            {
+                "fecha": "2026-08-07",
+                "hora": "21:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32128"
+            },
+            {
+                "fecha": "2026-08-08",
+                "hora": "21:10",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32149"
+            },
+            {
+                "fecha": "2026-08-09",
+                "hora": "21:10",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32168"
+            },
+            {
+                "fecha": "2026-08-10",
+                "hora": "21:10",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32187"
+            },
+            {
+                "fecha": "2026-08-11",
+                "hora": "21:10",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32206"
             }
         ],
         "cine": "Yelmo Itaroa",
@@ -27,13 +47,47 @@
         "año": "2026"
     },
     {
+        "título": "La Patrulla Canina: La dino película",
+        "cartel": "imagenes_filmaffinity/tmdb_la-patrulla-canina-la-dino-pelicula.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-11",
+                "hora": "20:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32217"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Cal Brunker",
+        "duración": "88 min",
+        "actores": "Carter Young, Hayden Chamberlen, Mckenna Grace, Rain Janjua, Henry Bolan",
+        "sinopsis": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+        "año": "2026"
+    },
+    {
+        "título": "En mar abierto",
+        "cartel": "imagenes_filmaffinity/tmdb_en-mar-abierto.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-11",
+                "hora": "20:30",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32213"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Renny Harlin",
+        "duración": "107 min",
+        "actores": "Aaron Eckhart, Ben Kingsley, Molly Belle Wright, Angus Sampson, Elijah Tamati",
+        "sinopsis": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
+        "año": "2026"
+    },
+    {
         "título": "La odisea",
         "cartel": "imagenes_filmaffinity/tmdb_la-odisea.jpg",
         "horarios": [
             {
-                "fecha": "2026-08-04",
-                "hora": "19:05",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=31946"
+                "fecha": "2026-08-11",
+                "hora": "19:15",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32203"
             }
         ],
         "cine": "Yelmo Itaroa",
