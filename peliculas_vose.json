@@ -533,7 +533,7 @@
             {
                 "fecha": "2026-08-05",
                 "hora": "17:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91481&eventCode=112183"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -1707,6 +1707,23 @@
                 "fecha": "2026-08-11",
                 "hora": "20:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=227113&eventCode=104970"
+            }
+        ],
+        "cine": "Golem La Morea",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jon Bernthal",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "año": "2026"
+    },
+    {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-12",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=227147&eventCode=104970"
             }
         ],
         "cine": "Golem La Morea",
