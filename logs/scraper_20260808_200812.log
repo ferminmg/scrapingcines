@@ -1,0 +1,55 @@
+2026-08-08 20:08:12,209 - INFO - Iniciando proceso de scraping
+2026-08-08 20:08:12,211 - INFO - Posts existentes encontrados: 2583
+2026-08-08 20:08:12,211 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-08-08 20:08:16,216 - INFO - Se encontraron 10 posts
+2026-08-08 20:08:16,217 - INFO - Comenzando extracción de información del post
+2026-08-08 20:08:16,218 - INFO - Título del post: MOTHER DAY de David Lowery
+2026-08-08 20:08:16,218 - INFO - Fecha del post: 2026-08-08T20:22:40+02:00
+2026-08-08 20:08:16,218 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/mother-mary-david-lowery-anne-hathaway/
+2026-08-08 20:08:18,478 - INFO - Contenido extraído y estructurado (4583 caracteres)
+2026-08-08 20:08:18,479 - INFO - Guardando post en: posts/MOTHER_DAY_2026-08-08.json
+2026-08-08 20:08:18,480 - INFO - Post guardado exitosamente
+2026-08-08 20:08:18,480 - INFO - Actualizando índice de películas
+2026-08-08 20:08:18,480 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-08-08 20:08:18,485 - INFO - Índice existente cargado con 2680 películas
+2026-08-08 20:08:18,503 - INFO - Película agregada al índice: MOTHER DAY
+2026-08-08 20:08:18,504 - INFO - Nuevo post guardado: MOTHER DAY de David Lowery
+2026-08-08 20:08:18,504 - INFO - Comenzando extracción de información del post
+2026-08-08 20:08:18,505 - INFO - Título del post: SPIDER-MAN. BRAND NEW DAY de Destin Cretton
+2026-08-08 20:08:18,505 - INFO - Fecha del post: 2026-08-08T20:09:58+02:00
+2026-08-08 20:08:18,505 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/spider-man-brand-new-day-tom-holland/
+2026-08-08 20:08:20,535 - INFO - Contenido extraído y estructurado (2639 caracteres)
+2026-08-08 20:08:20,536 - INFO - Guardando post en: posts/SPIDER-MAN._BRAND_NEW_DAY_2026-08-08.json
+2026-08-08 20:08:20,536 - INFO - Post guardado exitosamente
+2026-08-08 20:08:20,536 - INFO - Actualizando índice de películas
+2026-08-08 20:08:20,536 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-08-08 20:08:20,540 - INFO - Índice existente cargado con 2681 películas
+2026-08-08 20:08:20,554 - INFO - Película agregada al índice: SPIDER-MAN. BRAND NEW DAY
+2026-08-08 20:08:20,554 - INFO - Nuevo post guardado: SPIDER-MAN. BRAND NEW DAY de Destin Cretton
+2026-08-08 20:08:20,554 - INFO - Comenzando extracción de información del post
+2026-08-08 20:08:20,554 - INFO - Título del post: UN SECUESTRO FAMILIAR de Gábor Holtai
+2026-08-08 20:08:20,554 - INFO - Fecha del post: 2026-08-08T19:56:01+02:00
+2026-08-08 20:08:20,554 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/un-secuestro-familiar-gabor-holtai/
+2026-08-08 20:08:22,621 - INFO - Contenido extraído y estructurado (2759 caracteres)
+2026-08-08 20:08:22,622 - INFO - Guardando post en: posts/UN_SECUESTRO_FAMILIAR_2026-08-08.json
+2026-08-08 20:08:22,622 - INFO - Post guardado exitosamente
+2026-08-08 20:08:22,622 - INFO - Actualizando índice de películas
+2026-08-08 20:08:22,622 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-08-08 20:08:22,626 - INFO - Índice existente cargado con 2682 películas
+2026-08-08 20:08:22,639 - INFO - Película agregada al índice: UN SECUESTRO FAMILIAR
+2026-08-08 20:08:22,639 - INFO - Nuevo post guardado: UN SECUESTRO FAMILIAR de Gábor Holtai
+2026-08-08 20:08:22,639 - INFO - Comenzando extracción de información del post
+2026-08-08 20:08:22,640 - INFO - Post ya existente, saltando: LA ÚLTIMA RONDA EN VENECIA de Francesco Sossai
+2026-08-08 20:08:22,640 - INFO - Comenzando extracción de información del post
+2026-08-08 20:08:22,640 - INFO - Post ya existente, saltando: EL ANFITRIÓN  de Miguel Ángel Jiménez
+2026-08-08 20:08:22,640 - INFO - Comenzando extracción de información del post
+2026-08-08 20:08:22,640 - INFO - Post ya existente, saltando: EL MENSAJE de Iván Fund
+2026-08-08 20:08:22,640 - INFO - Comenzando extracción de información del post
+2026-08-08 20:08:22,640 - INFO - Post ya existente, saltando: LA ODISEA de Christopher Nolan
+2026-08-08 20:08:22,640 - INFO - Comenzando extracción de información del post
+2026-08-08 20:08:22,640 - INFO - Post ya existente, saltando: UNA COPIA PERFECTA de Jean-Paul Salomé
+2026-08-08 20:08:22,640 - INFO - Comenzando extracción de información del post
+2026-08-08 20:08:22,641 - INFO - Post ya existente, saltando: LAS CORRIENTES de Milagros Mumenthaler
+2026-08-08 20:08:22,641 - INFO - Comenzando extracción de información del post
+2026-08-08 20:08:22,641 - INFO - Post ya existente, saltando: OMAHA de Cole Webley
+2026-08-08 20:08:22,641 - INFO - Proceso completado. Posts nuevos guardados: 3
