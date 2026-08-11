@@ -6,7 +6,7 @@
             {
                 "fecha": "2026-08-11",
                 "hora": "21:40",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101701&eventCode=104970"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -23,7 +23,7 @@
             {
                 "fecha": "2026-08-11",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101688&eventCode=100228"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -153,13 +153,370 @@
         "año": "2026"
     },
     {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-14",
+                "hora": "21:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101732&eventCode=104970"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "año": "2026"
+    },
+    {
+        "título": "La Odisea",
+        "cartel": "imagenes_peliculas/tmdb_la_odisea.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-14",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101723&eventCode=100228"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Christopher Nolan",
+        "duración": "173 min",
+        "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
+        "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+        "año": "2026"
+    },
+    {
+        "título": "Obsession",
+        "cartel": "imagenes_peliculas/tmdb_obsession.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-14",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101735&eventCode=108967"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Curry Barker",
+        "duración": "108 min",
+        "actores": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+        "sinopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+        "año": "2026"
+    },
+    {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-15",
+                "hora": "21:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101742&eventCode=104970"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "año": "2026"
+    },
+    {
+        "título": "La Odisea",
+        "cartel": "imagenes_peliculas/tmdb_la_odisea.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-15",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101744&eventCode=100228"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Christopher Nolan",
+        "duración": "173 min",
+        "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
+        "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+        "año": "2026"
+    },
+    {
+        "título": "Obsession",
+        "cartel": "imagenes_peliculas/tmdb_obsession.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-15",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101755&eventCode=108967"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Curry Barker",
+        "duración": "108 min",
+        "actores": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+        "sinopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+        "año": "2026"
+    },
+    {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-16",
+                "hora": "21:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101761&eventCode=104970"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "año": "2026"
+    },
+    {
+        "título": "La Odisea",
+        "cartel": "imagenes_peliculas/tmdb_la_odisea.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-16",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101763&eventCode=100228"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Christopher Nolan",
+        "duración": "173 min",
+        "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
+        "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+        "año": "2026"
+    },
+    {
+        "título": "Obsession",
+        "cartel": "imagenes_peliculas/tmdb_obsession.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-16",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101774&eventCode=108967"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Curry Barker",
+        "duración": "108 min",
+        "actores": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+        "sinopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+        "año": "2026"
+    },
+    {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-17",
+                "hora": "21:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101836&eventCode=104970"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "año": "2026"
+    },
+    {
+        "título": "La Odisea",
+        "cartel": "imagenes_peliculas/tmdb_la_odisea.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-17",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101838&eventCode=100228"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Christopher Nolan",
+        "duración": "173 min",
+        "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
+        "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+        "año": "2026"
+    },
+    {
+        "título": "Obsession",
+        "cartel": "imagenes_peliculas/tmdb_obsession.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-17",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101849&eventCode=108967"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Curry Barker",
+        "duración": "108 min",
+        "actores": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+        "sinopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+        "año": "2026"
+    },
+    {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-18",
+                "hora": "21:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101780&eventCode=104970"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "año": "2026"
+    },
+    {
+        "título": "La Odisea",
+        "cartel": "imagenes_peliculas/tmdb_la_odisea.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-18",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101782&eventCode=100228"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Christopher Nolan",
+        "duración": "173 min",
+        "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
+        "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+        "año": "2026"
+    },
+    {
+        "título": "Obsession",
+        "cartel": "imagenes_peliculas/tmdb_obsession.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-18",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101793&eventCode=108967"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Curry Barker",
+        "duración": "108 min",
+        "actores": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+        "sinopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+        "año": "2026"
+    },
+    {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-19",
+                "hora": "21:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101799&eventCode=104970"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "año": "2026"
+    },
+    {
+        "título": "La Odisea",
+        "cartel": "imagenes_peliculas/tmdb_la_odisea.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-19",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101801&eventCode=100228"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Christopher Nolan",
+        "duración": "173 min",
+        "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
+        "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+        "año": "2026"
+    },
+    {
+        "título": "Obsession",
+        "cartel": "imagenes_peliculas/tmdb_obsession.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-19",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101812&eventCode=108967"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Curry Barker",
+        "duración": "108 min",
+        "actores": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+        "sinopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+        "año": "2026"
+    },
+    {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-20",
+                "hora": "21:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101833&eventCode=104970"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "año": "2026"
+    },
+    {
+        "título": "La Odisea",
+        "cartel": "imagenes_peliculas/tmdb_la_odisea.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-20",
+                "hora": "20:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101817&eventCode=100228"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Christopher Nolan",
+        "duración": "173 min",
+        "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
+        "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+        "año": "2026"
+    },
+    {
+        "título": "Obsession",
+        "cartel": "imagenes_peliculas/tmdb_obsession.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-20",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101828&eventCode=108967"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Curry Barker",
+        "duración": "108 min",
+        "actores": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+        "sinopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+        "año": "2026"
+    },
+    {
         "título": "El amor que permanece",
         "cartel": "imagenes_peliculas/tmdb_el_amor_que_permanece.jpg",
         "horarios": [
             {
                 "fecha": "2026-08-11",
                 "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91995&eventCode=111139"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -176,7 +533,7 @@
             {
                 "fecha": "2026-08-11",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91987&eventCode=111855"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -193,7 +550,7 @@
             {
                 "fecha": "2026-08-11",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91990&eventCode=111243"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -210,7 +567,7 @@
             {
                 "fecha": "2026-08-11",
                 "hora": "19:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91500&eventCode=112199"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -244,7 +601,7 @@
             {
                 "fecha": "2026-08-11",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91993&eventCode=105377"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -261,7 +618,7 @@
             {
                 "fecha": "2026-08-11",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91501&eventCode=112202"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -873,7 +1230,7 @@
             {
                 "fecha": "2026-08-11",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=227113&eventCode=104970"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem La Morea",
