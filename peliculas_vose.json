@@ -6,7 +6,7 @@
             {
                 "fecha": "2026-08-12",
                 "hora": "21:40",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101665&eventCode=104970"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -23,7 +23,7 @@
             {
                 "fecha": "2026-08-12",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101667&eventCode=100228"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -465,7 +465,7 @@
             {
                 "fecha": "2026-08-12",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91308&eventCode=111989"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -482,7 +482,7 @@
             {
                 "fecha": "2026-08-12",
                 "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92015&eventCode=111139"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -499,7 +499,7 @@
             {
                 "fecha": "2026-08-12",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92011&eventCode=111855"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -516,7 +516,7 @@
             {
                 "fecha": "2026-08-12",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92014&eventCode=111243"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -533,7 +533,7 @@
             {
                 "fecha": "2026-08-12",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91504&eventCode=112199"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -550,7 +550,7 @@
             {
                 "fecha": "2026-08-12",
                 "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91503&eventCode=112201"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -697,6 +697,57 @@
         "año": "2025"
     },
     {
+        "título": "Palestina 36",
+        "cartel": "imagenes_peliculas/tmdb_palestina_36.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-14",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92030&eventCode=113197"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Annemarie Jacir",
+        "duración": "120 min",
+        "actores": "كريم داود عناية, Hiam Abbass, Robert Aramayo, Billy Howle, Dhafer L'Abidine",
+        "sinopsis": "En 1936, los palestinos iniciaron una revuelta liderada por agricultores contra el colonialismo británico que marcó el comienzo del mayor y más largo levantamiento contra los 30 años de dominio británico.",
+        "año": "2025"
+    },
+    {
+        "título": "Vivir la tierra",
+        "cartel": "imagenes_peliculas/tmdb_vivir_la_tierra.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-14",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92025&eventCode=111093"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Meng Huo",
+        "duración": "132 min",
+        "actores": "Wang Shang, 张楚文, Zhang Yanrong, Zhang Caixia, Cao Lingzhi",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "El amor que permanece",
+        "cartel": "imagenes_peliculas/tmdb_el_amor_que_permanece.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-14",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92021&eventCode=111139"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Hlynur Pálmason",
+        "duración": "109 min",
+        "actores": "Saga Garðarsdóttir, Sverrir Gudnason, Ída Mekkín Hlynsdóttir, Þorgils Hlynsson, Grímur Hlynsson",
+        "sinopsis": "La cosa nunca acaba de funcionar cuando Anna y Magnus, recién separados, se reúnen con sus tres hijos en la aldea rural donde viven con la madre. Asistimos al paso de las cuatro estaciones en esa relación que se desintegra, escenas de un (ex)matrimonio que se afanan en capturar momentos cotidianos, como si de esa forma quedaran a salvo del olvido en un hipotético álbum familiar.",
+        "año": "2025"
+    },
+    {
         "título": "Las invasiones bárbaras",
         "cartel": "imagenes_peliculas/tmdb_las_invasiones_barbaras.jpg",
         "horarios": [
@@ -745,6 +796,57 @@
         "duración": "92 min",
         "actores": "Leonie Benesch, Alireza Bayram, Jürg Plüss, Jasmin Mattei, Lale Yavaş",
         "sinopsis": "La enfermera Floria ejerce su profesión con pasión y rigor. Incluso en medio del caos escucha siempre a sus pacientes y acude de inmediato a las urgencias… O casi siempre, porque la realidad cotidiana resulta a menudo imprevisible. Ese día falta una compañera en una planta completa y con demasiados pacientes, por lo que a medida que avanza el turno, Floria se enfrenta cada vez más a una lucha desesperada contra el tiempo.",
+        "año": "2025"
+    },
+    {
+        "título": "Palestina 36",
+        "cartel": "imagenes_peliculas/tmdb_palestina_36.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-15",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92038&eventCode=113197"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Annemarie Jacir",
+        "duración": "120 min",
+        "actores": "كريم داود عناية, Hiam Abbass, Robert Aramayo, Billy Howle, Dhafer L'Abidine",
+        "sinopsis": "En 1936, los palestinos iniciaron una revuelta liderada por agricultores contra el colonialismo británico que marcó el comienzo del mayor y más largo levantamiento contra los 30 años de dominio británico.",
+        "año": "2025"
+    },
+    {
+        "título": "Vivir la tierra",
+        "cartel": "imagenes_peliculas/tmdb_vivir_la_tierra.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-15",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92035&eventCode=111093"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Meng Huo",
+        "duración": "132 min",
+        "actores": "Wang Shang, 张楚文, Zhang Yanrong, Zhang Caixia, Cao Lingzhi",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "El amor que permanece",
+        "cartel": "imagenes_peliculas/tmdb_el_amor_que_permanece.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-15",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92033&eventCode=111139"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Hlynur Pálmason",
+        "duración": "109 min",
+        "actores": "Saga Garðarsdóttir, Sverrir Gudnason, Ída Mekkín Hlynsdóttir, Þorgils Hlynsson, Grímur Hlynsson",
+        "sinopsis": "La cosa nunca acaba de funcionar cuando Anna y Magnus, recién separados, se reúnen con sus tres hijos en la aldea rural donde viven con la madre. Asistimos al paso de las cuatro estaciones en esa relación que se desintegra, escenas de un (ex)matrimonio que se afanan en capturar momentos cotidianos, como si de esa forma quedaran a salvo del olvido en un hipotético álbum familiar.",
         "año": "2025"
     },
     {
@@ -799,6 +901,57 @@
         "año": "2025"
     },
     {
+        "título": "Palestina 36",
+        "cartel": "imagenes_peliculas/tmdb_palestina_36.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-16",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92050&eventCode=113197"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Annemarie Jacir",
+        "duración": "120 min",
+        "actores": "كريم داود عناية, Hiam Abbass, Robert Aramayo, Billy Howle, Dhafer L'Abidine",
+        "sinopsis": "En 1936, los palestinos iniciaron una revuelta liderada por agricultores contra el colonialismo británico que marcó el comienzo del mayor y más largo levantamiento contra los 30 años de dominio británico.",
+        "año": "2025"
+    },
+    {
+        "título": "Vivir la tierra",
+        "cartel": "imagenes_peliculas/tmdb_vivir_la_tierra.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-16",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92048&eventCode=111093"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Meng Huo",
+        "duración": "132 min",
+        "actores": "Wang Shang, 张楚文, Zhang Yanrong, Zhang Caixia, Cao Lingzhi",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "El amor que permanece",
+        "cartel": "imagenes_peliculas/tmdb_el_amor_que_permanece.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-16",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92047&eventCode=111139"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Hlynur Pálmason",
+        "duración": "109 min",
+        "actores": "Saga Garðarsdóttir, Sverrir Gudnason, Ída Mekkín Hlynsdóttir, Þorgils Hlynsson, Grímur Hlynsson",
+        "sinopsis": "La cosa nunca acaba de funcionar cuando Anna y Magnus, recién separados, se reúnen con sus tres hijos en la aldea rural donde viven con la madre. Asistimos al paso de las cuatro estaciones en esa relación que se desintegra, escenas de un (ex)matrimonio que se afanan en capturar momentos cotidianos, como si de esa forma quedaran a salvo del olvido en un hipotético álbum familiar.",
+        "año": "2025"
+    },
+    {
         "título": "Las invasiones bárbaras",
         "cartel": "imagenes_peliculas/tmdb_las_invasiones_barbaras.jpg",
         "horarios": [
@@ -847,6 +1000,57 @@
         "duración": "92 min",
         "actores": "Leonie Benesch, Alireza Bayram, Jürg Plüss, Jasmin Mattei, Lale Yavaş",
         "sinopsis": "La enfermera Floria ejerce su profesión con pasión y rigor. Incluso en medio del caos escucha siempre a sus pacientes y acude de inmediato a las urgencias… O casi siempre, porque la realidad cotidiana resulta a menudo imprevisible. Ese día falta una compañera en una planta completa y con demasiados pacientes, por lo que a medida que avanza el turno, Floria se enfrenta cada vez más a una lucha desesperada contra el tiempo.",
+        "año": "2025"
+    },
+    {
+        "título": "Palestina 36",
+        "cartel": "imagenes_peliculas/tmdb_palestina_36.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-17",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92068&eventCode=113197"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Annemarie Jacir",
+        "duración": "120 min",
+        "actores": "كريم داود عناية, Hiam Abbass, Robert Aramayo, Billy Howle, Dhafer L'Abidine",
+        "sinopsis": "En 1936, los palestinos iniciaron una revuelta liderada por agricultores contra el colonialismo británico que marcó el comienzo del mayor y más largo levantamiento contra los 30 años de dominio británico.",
+        "año": "2025"
+    },
+    {
+        "título": "Vivir la tierra",
+        "cartel": "imagenes_peliculas/tmdb_vivir_la_tierra.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-17",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92065&eventCode=111093"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Meng Huo",
+        "duración": "132 min",
+        "actores": "Wang Shang, 张楚文, Zhang Yanrong, Zhang Caixia, Cao Lingzhi",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "El amor que permanece",
+        "cartel": "imagenes_peliculas/tmdb_el_amor_que_permanece.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-17",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92059&eventCode=111139"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Hlynur Pálmason",
+        "duración": "109 min",
+        "actores": "Saga Garðarsdóttir, Sverrir Gudnason, Ída Mekkín Hlynsdóttir, Þorgils Hlynsson, Grímur Hlynsson",
+        "sinopsis": "La cosa nunca acaba de funcionar cuando Anna y Magnus, recién separados, se reúnen con sus tres hijos en la aldea rural donde viven con la madre. Asistimos al paso de las cuatro estaciones en esa relación que se desintegra, escenas de un (ex)matrimonio que se afanan en capturar momentos cotidianos, como si de esa forma quedaran a salvo del olvido en un hipotético álbum familiar.",
         "año": "2025"
     },
     {
@@ -901,6 +1105,57 @@
         "año": "2025"
     },
     {
+        "título": "Palestina 36",
+        "cartel": "imagenes_peliculas/tmdb_palestina_36.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-18",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92073&eventCode=113197"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Annemarie Jacir",
+        "duración": "120 min",
+        "actores": "كريم داود عناية, Hiam Abbass, Robert Aramayo, Billy Howle, Dhafer L'Abidine",
+        "sinopsis": "En 1936, los palestinos iniciaron una revuelta liderada por agricultores contra el colonialismo británico que marcó el comienzo del mayor y más largo levantamiento contra los 30 años de dominio británico.",
+        "año": "2025"
+    },
+    {
+        "título": "Vivir la tierra",
+        "cartel": "imagenes_peliculas/tmdb_vivir_la_tierra.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-18",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92078&eventCode=111093"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Meng Huo",
+        "duración": "132 min",
+        "actores": "Wang Shang, 张楚文, Zhang Yanrong, Zhang Caixia, Cao Lingzhi",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "El amor que permanece",
+        "cartel": "imagenes_peliculas/tmdb_el_amor_que_permanece.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-18",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92071&eventCode=111139"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Hlynur Pálmason",
+        "duración": "109 min",
+        "actores": "Saga Garðarsdóttir, Sverrir Gudnason, Ída Mekkín Hlynsdóttir, Þorgils Hlynsson, Grímur Hlynsson",
+        "sinopsis": "La cosa nunca acaba de funcionar cuando Anna y Magnus, recién separados, se reúnen con sus tres hijos en la aldea rural donde viven con la madre. Asistimos al paso de las cuatro estaciones en esa relación que se desintegra, escenas de un (ex)matrimonio que se afanan en capturar momentos cotidianos, como si de esa forma quedaran a salvo del olvido en un hipotético álbum familiar.",
+        "año": "2025"
+    },
+    {
         "título": "Las invasiones bárbaras",
         "cartel": "imagenes_peliculas/tmdb_las_invasiones_barbaras.jpg",
         "horarios": [
@@ -952,6 +1207,57 @@
         "año": "2025"
     },
     {
+        "título": "Palestina 36",
+        "cartel": "imagenes_peliculas/tmdb_palestina_36.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-19",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92092&eventCode=113197"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Annemarie Jacir",
+        "duración": "120 min",
+        "actores": "كريم داود عناية, Hiam Abbass, Robert Aramayo, Billy Howle, Dhafer L'Abidine",
+        "sinopsis": "En 1936, los palestinos iniciaron una revuelta liderada por agricultores contra el colonialismo británico que marcó el comienzo del mayor y más largo levantamiento contra los 30 años de dominio británico.",
+        "año": "2025"
+    },
+    {
+        "título": "Vivir la tierra",
+        "cartel": "imagenes_peliculas/tmdb_vivir_la_tierra.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-19",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92085&eventCode=111093"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Meng Huo",
+        "duración": "132 min",
+        "actores": "Wang Shang, 张楚文, Zhang Yanrong, Zhang Caixia, Cao Lingzhi",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "El amor que permanece",
+        "cartel": "imagenes_peliculas/tmdb_el_amor_que_permanece.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-19",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92083&eventCode=111139"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Hlynur Pálmason",
+        "duración": "109 min",
+        "actores": "Saga Garðarsdóttir, Sverrir Gudnason, Ída Mekkín Hlynsdóttir, Þorgils Hlynsson, Grímur Hlynsson",
+        "sinopsis": "La cosa nunca acaba de funcionar cuando Anna y Magnus, recién separados, se reúnen con sus tres hijos en la aldea rural donde viven con la madre. Asistimos al paso de las cuatro estaciones en esa relación que se desintegra, escenas de un (ex)matrimonio que se afanan en capturar momentos cotidianos, como si de esa forma quedaran a salvo del olvido en un hipotético álbum familiar.",
+        "año": "2025"
+    },
+    {
         "título": "Las invasiones bárbaras",
         "cartel": "imagenes_peliculas/tmdb_las_invasiones_barbaras.jpg",
         "horarios": [
@@ -1000,6 +1306,57 @@
         "duración": "92 min",
         "actores": "Leonie Benesch, Alireza Bayram, Jürg Plüss, Jasmin Mattei, Lale Yavaş",
         "sinopsis": "La enfermera Floria ejerce su profesión con pasión y rigor. Incluso en medio del caos escucha siempre a sus pacientes y acude de inmediato a las urgencias… O casi siempre, porque la realidad cotidiana resulta a menudo imprevisible. Ese día falta una compañera en una planta completa y con demasiados pacientes, por lo que a medida que avanza el turno, Floria se enfrenta cada vez más a una lucha desesperada contra el tiempo.",
+        "año": "2025"
+    },
+    {
+        "título": "Palestina 36",
+        "cartel": "imagenes_peliculas/tmdb_palestina_36.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-20",
+                "hora": "19:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92104&eventCode=113197"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Annemarie Jacir",
+        "duración": "120 min",
+        "actores": "كريم داود عناية, Hiam Abbass, Robert Aramayo, Billy Howle, Dhafer L'Abidine",
+        "sinopsis": "En 1936, los palestinos iniciaron una revuelta liderada por agricultores contra el colonialismo británico que marcó el comienzo del mayor y más largo levantamiento contra los 30 años de dominio británico.",
+        "año": "2025"
+    },
+    {
+        "título": "Vivir la tierra",
+        "cartel": "imagenes_peliculas/tmdb_vivir_la_tierra.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-20",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92101&eventCode=111093"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Meng Huo",
+        "duración": "132 min",
+        "actores": "Wang Shang, 张楚文, Zhang Yanrong, Zhang Caixia, Cao Lingzhi",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
+        "título": "El amor que permanece",
+        "cartel": "imagenes_peliculas/tmdb_el_amor_que_permanece.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-20",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92095&eventCode=111139"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Hlynur Pálmason",
+        "duración": "109 min",
+        "actores": "Saga Garðarsdóttir, Sverrir Gudnason, Ída Mekkín Hlynsdóttir, Þorgils Hlynsson, Grímur Hlynsson",
+        "sinopsis": "La cosa nunca acaba de funcionar cuando Anna y Magnus, recién separados, se reúnen con sus tres hijos en la aldea rural donde viven con la madre. Asistimos al paso de las cuatro estaciones en esa relación que se desintegra, escenas de un (ex)matrimonio que se afanan en capturar momentos cotidianos, como si de esa forma quedaran a salvo del olvido en un hipotético álbum familiar.",
         "año": "2025"
     },
     {
@@ -1077,7 +1434,7 @@
             {
                 "fecha": "2026-08-12",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=227147&eventCode=104970"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem La Morea",
