@@ -6,7 +6,7 @@
             {
                 "fecha": "2026-08-13",
                 "hora": "21:40",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101710&eventCode=104970"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -23,7 +23,7 @@
             {
                 "fecha": "2026-08-13",
                 "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=101707&eventCode=100228"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -414,7 +414,7 @@
             {
                 "fecha": "2026-08-13",
                 "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92005&eventCode=111139"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -423,40 +423,6 @@
         "actores": "Saga Garðarsdóttir, Sverrir Gudnason, Ída Mekkín Hlynsdóttir, Þorgils Hlynsson, Grímur Hlynsson",
         "sinopsis": "La cosa nunca acaba de funcionar cuando Anna y Magnus, recién separados, se reúnen con sus tres hijos en la aldea rural donde viven con la madre. Asistimos al paso de las cuatro estaciones en esa relación que se desintegra, escenas de un (ex)matrimonio que se afanan en capturar momentos cotidianos, como si de esa forma quedaran a salvo del olvido en un hipotético álbum familiar.",
         "año": "2025"
-    },
-    {
-        "título": "La última ronda en Venecia",
-        "cartel": "imagenes_peliculas/tmdb_la_ultima_ronda_en_venecia.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-08-13",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91999&eventCode=111855"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Francesco Sossai",
-        "duración": "98 min",
-        "actores": "Filippo Scotti, Sergio Romano, Pierpaolo Capovilla, Roberto Citran, Andrea Pennacchi",
-        "sinopsis": "Primera película de Francesco Sossai en Cannes 2025.  Carlobianchi y Doriano, dos cincuentones sin blanca con la filosofía de 'nunca te saltes la última copa', conocen a Giulio, un tímido estudiante de arquitectura a la deriva en la vida. Lo que empieza como un encuentro casual se convierte en un caótico viaje por carretera por las llanuras venecianas, donde los malos consejos, las resacas y una amistad inesperada redefinen los planes de vida y amor de Giulio.",
-        "año": "2025"
-    },
-    {
-        "título": "Mother Mary",
-        "cartel": "imagenes_peliculas/tmdb_mother_mary.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-08-13",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92002&eventCode=111243"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "David Lowery",
-        "duración": "112 min",
-        "actores": "Anne Hathaway, Michaela Coel, Hunter Schafer, FKA twigs, Sian Clifford",
-        "sinopsis": "La intensa relación entre la cantante de pop Mary y Sam, una antigua amiga suya, diseñadora de moda, que se vuelven a reunir tras la necesidad de la primera de un vestido para su nueva gira de conciertos.",
-        "año": "2026"
     },
     {
         "título": "Franz Kafka",
@@ -476,47 +442,13 @@
         "año": "2025"
     },
     {
-        "título": "Funny Games",
-        "cartel": "imagenes_peliculas/tmdb_funny_games.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-08-13",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91507&eventCode=112201"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Michael Haneke",
-        "duración": "111 min",
-        "actores": "Naomi Watts, Tim Roth, Michael Pitt, Brady Corbet, Devon Gearhart",
-        "sinopsis": "Anna, su marido George y su hijo de diez años se van a descansar a su residencia de vacaciones situada al lado de un lago. Nada más llegar, aparecen dos jóvenes aparentemente muy educados que dicen ser amigos de los vecinos y que les piden unos huevos. Remake norteamericano de la película homónima de Haneke, de 1997.",
-        "año": "2008"
-    },
-    {
-        "título": "Omaha",
-        "cartel": "imagenes_peliculas/tmdb_omaha.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-08-13",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92004&eventCode=105377"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Cole Webley",
-        "duración": "83 min",
-        "actores": "John Magaro, Molly Belle Wright, Talia Balsam, Rachel Alig, Lisa Carswell",
-        "sinopsis": "Tras una tragedia familiar y la pérdida de su hogar, un padre despierta a sus dos hijos en plena madrugada y los embarca en un viaje por carretera a través del oeste estadounidense. Lo que al principio parece una escapada improvisada se revela poco a poco como una huida marcada por el duelo, la precariedad y un destino incierto. A través de la mirada de la hija mayor, el viaje se convierte en un proceso de descubrimiento: no solo del mundo exterior, sino también de las grietas emocionales de su padre y de una realidad que este intenta ocultar.",
-        "año": "2025"
-    },
-    {
         "título": "La hija pequeña",
         "cartel": "imagenes_peliculas/tmdb_la_hija_pequena.jpg",
         "horarios": [
             {
                 "fecha": "2026-08-13",
                 "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=91506&eventCode=112202"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -1400,7 +1332,7 @@
             {
                 "fecha": "2026-08-13",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=227184&eventCode=104970"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem La Morea",
