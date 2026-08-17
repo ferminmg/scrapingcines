@@ -1,13 +1,25 @@
 [
     {
+        "título": "El final de Oak Street",
+        "cartel": "imagenes_filmaffinity/tmdb_el-final-de-oak-street.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-18",
+                "hora": "20:30",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=31905"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "David Robert Mitchell",
+        "duración": "99 min",
+        "actores": "Anne Hathaway, Ewan McGregor, Christian Convery, Maisy Stella, Jordan Alexa Davis",
+        "sinopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+        "año": "2026"
+    },
+    {
         "título": "Spider-Man: Brand New Day",
         "cartel": "imagenes_filmaffinity/tmdb_spider-man-brand-new-day.jpg",
         "horarios": [
-            {
-                "fecha": "2026-08-17",
-                "hora": "21:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32391"
-            },
             {
                 "fecha": "2026-08-18",
                 "hora": "19:00",
@@ -34,23 +46,6 @@
         "duración": "144 min",
         "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
         "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-        "año": "2026"
-    },
-    {
-        "título": "El final de Oak Street",
-        "cartel": "imagenes_filmaffinity/tmdb_el-final-de-oak-street.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-08-18",
-                "hora": "20:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=31905"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "David Robert Mitchell",
-        "duración": "99 min",
-        "actores": "Anne Hathaway, Ewan McGregor, Christian Convery, Maisy Stella, Jordan Alexa Davis",
-        "sinopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
         "año": "2026"
     },
     {
