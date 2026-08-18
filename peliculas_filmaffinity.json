@@ -1,40 +1,8 @@
 [
     {
-        "título": "El final de Oak Street",
-        "cartel": "imagenes_filmaffinity/tmdb_el-final-de-oak-street.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-08-18",
-                "hora": "20:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=31905"
-            },
-            {
-                "fecha": "2026-08-24",
-                "hora": "20:35",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32619"
-            },
-            {
-                "fecha": "2026-08-25",
-                "hora": "20:35",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32620"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "David Robert Mitchell",
-        "duración": "99 min",
-        "actores": "Anne Hathaway, Ewan McGregor, Christian Convery, Maisy Stella, Jordan Alexa Davis",
-        "sinopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-        "año": "2026"
-    },
-    {
         "título": "Spider-Man: Brand New Day",
         "cartel": "imagenes_filmaffinity/tmdb_spider-man-brand-new-day.jpg",
         "horarios": [
-            {
-                "fecha": "2026-08-18",
-                "hora": "21:30",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32413"
-            },
             {
                 "fecha": "2026-08-19",
                 "hora": "21:30",
@@ -61,33 +29,6 @@
         "duración": "144 min",
         "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
         "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-        "año": "2026"
-    },
-    {
-        "título": "La odisea",
-        "cartel": "imagenes_filmaffinity/tmdb_la-odisea.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-08-18",
-                "hora": "20:10",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32410"
-            },
-            {
-                "fecha": "2026-08-24",
-                "hora": "20:25",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32618"
-            },
-            {
-                "fecha": "2026-08-25",
-                "hora": "20:25",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32617"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Christopher Nolan",
-        "duración": "173 min",
-        "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
-        "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
         "año": "2026"
     },
     {
@@ -132,6 +73,50 @@
         "duración": "95 min",
         "actores": "Jason Statham, Annabelle Wallis, Roland Møller, Arnas Fedaravičius, Adrian Lester",
         "sinopsis": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
+        "año": "2026"
+    },
+    {
+        "título": "El final de Oak Street",
+        "cartel": "imagenes_filmaffinity/tmdb_el-final-de-oak-street.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-24",
+                "hora": "20:35",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32619"
+            },
+            {
+                "fecha": "2026-08-25",
+                "hora": "20:35",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32620"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "David Robert Mitchell",
+        "duración": "99 min",
+        "actores": "Anne Hathaway, Ewan McGregor, Christian Convery, Maisy Stella, Jordan Alexa Davis",
+        "sinopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+        "año": "2026"
+    },
+    {
+        "título": "La odisea",
+        "cartel": "imagenes_filmaffinity/tmdb_la-odisea.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-08-24",
+                "hora": "20:25",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32618"
+            },
+            {
+                "fecha": "2026-08-25",
+                "hora": "20:25",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32617"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Christopher Nolan",
+        "duración": "173 min",
+        "actores": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
+        "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
         "año": "2026"
     },
     {
