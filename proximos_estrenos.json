@@ -1,170 +1,5 @@
 [
   {
-    "id": 1433367,
-    "tmdb_id": 1433367,
-    "título": "Una noche al año",
-    "título_original": "One Night Only",
-    "sinopsis": "Dos extraños tratan de encontrar a alguien con quien acostarse en la única noche del año en la que es legal el sexo prematrimonial.",
-    "poster_path": "/6zWaYWrPXG7JBX3Tb3OI9ITWGad.jpg",
-    "poster_local": "imagenes_estrenos/Una_noche_al_a_o_ef8BsoRdCHrFeXkuYcdYxrBDtUS.jpg",
-    "backdrop_path": "/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
-    "backdrop_local": "imagenes_estrenos/Una_noche_al_a_o_backdrop_dICgIzrT4mV4yCPpqKSZIkRZk5M.jpg",
-    "fecha_estreno": "2026-08-26T00:00:00.000Z",
-    "duración": "102 min",
-    "director": "Will Gluck",
-    "directores": [
-      {
-        "name": "Will Gluck",
-        "id": 82511
-      }
-    ],
-    "actores": [
-      {
-        "name": "Monica Barbaro",
-        "id": 1525043,
-        "character": "Allie",
-        "profile_path": "/nxkFcvDIC4tC3st1K1BJXJm1F2h.jpg"
-      },
-      {
-        "name": "Callum Turner",
-        "id": 1371041,
-        "character": "Owen",
-        "profile_path": "/1QqpyYbX6zyyrtlKAJLbKM4B4k9.jpg"
-      },
-      {
-        "name": "Maya Hawke",
-        "id": 1903874,
-        "character": "Malika",
-        "profile_path": "/evjbbHM1bzA6Ma5Ptjwa4WkYkkj.jpg"
-      },
-      {
-        "name": "King Princess",
-        "id": 2463999,
-        "character": "Jacinta",
-        "profile_path": "/hQFDqQj5fmprYGOsKZMVRLCPJFd.jpg"
-      },
-      {
-        "name": "Molly Ringwald",
-        "id": 21625,
-        "character": "Linda",
-        "profile_path": "/eXRphPiX18t8C3nCoOuxQFNegqP.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      }
-    ],
-    "popularidad": 26.8935,
-    "puntuación": 6.833,
-    "votos": 39,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/dICgIzrT4mV4yCPpqKSZIkRZk5M.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1743,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wIzFZCTwkUMiikrtm3oxuJpXa9Y.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3098
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ccoEJ4Rxk9rb5cIrrkpPQDn39MP.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6BsFjvlO6cUx2kIVWB0Ix3Seyt8.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/hiNGVfBAdf4eklOQPfWhoyeLHYk.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ofJtMNweUYX3L4rOO0yQhod7VMP.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6LMtZWu7yNyG7hmGrOUxXotlzrw.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 948,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/6zWaYWrPXG7JBX3Tb3OI9ITWGad.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 632
-        }
-      ]
-    },
-    "última_actualización": "2026-08-24 22:05:10"
-  },
-  {
     "id": 1384216,
     "tmdb_id": 1384216,
     "título": "La constelación del perro",
@@ -229,9 +64,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 25.0874,
-    "puntuación": 7.3,
-    "votos": 3,
+    "popularidad": 22.0818,
+    "puntuación": 7.2,
+    "votos": 4,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -341,7 +176,172 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:10"
+    "última_actualización": "2026-08-25 10:07:46"
+  },
+  {
+    "id": 1433367,
+    "tmdb_id": 1433367,
+    "título": "Una noche al año",
+    "título_original": "One Night Only",
+    "sinopsis": "Dos extraños tratan de encontrar a alguien con quien acostarse en la única noche del año en la que es legal el sexo prematrimonial.",
+    "poster_path": "/6zWaYWrPXG7JBX3Tb3OI9ITWGad.jpg",
+    "poster_local": "imagenes_estrenos/Una_noche_al_a_o_ef8BsoRdCHrFeXkuYcdYxrBDtUS.jpg",
+    "backdrop_path": "/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
+    "backdrop_local": "imagenes_estrenos/Una_noche_al_a_o_backdrop_dICgIzrT4mV4yCPpqKSZIkRZk5M.jpg",
+    "fecha_estreno": "2026-08-26T00:00:00.000Z",
+    "duración": "102 min",
+    "director": "Will Gluck",
+    "directores": [
+      {
+        "name": "Will Gluck",
+        "id": 82511
+      }
+    ],
+    "actores": [
+      {
+        "name": "Monica Barbaro",
+        "id": 1525043,
+        "character": "Allie",
+        "profile_path": "/nxkFcvDIC4tC3st1K1BJXJm1F2h.jpg"
+      },
+      {
+        "name": "Callum Turner",
+        "id": 1371041,
+        "character": "Owen",
+        "profile_path": "/1QqpyYbX6zyyrtlKAJLbKM4B4k9.jpg"
+      },
+      {
+        "name": "Maya Hawke",
+        "id": 1903874,
+        "character": "Malika",
+        "profile_path": "/evjbbHM1bzA6Ma5Ptjwa4WkYkkj.jpg"
+      },
+      {
+        "name": "King Princess",
+        "id": 2463999,
+        "character": "Jacinta",
+        "profile_path": "/hQFDqQj5fmprYGOsKZMVRLCPJFd.jpg"
+      },
+      {
+        "name": "Molly Ringwald",
+        "id": 21625,
+        "character": "Linda",
+        "profile_path": "/eXRphPiX18t8C3nCoOuxQFNegqP.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "popularidad": 22.89,
+    "puntuación": 6.9,
+    "votos": 40,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/dICgIzrT4mV4yCPpqKSZIkRZk5M.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1743,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wIzFZCTwkUMiikrtm3oxuJpXa9Y.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3098
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ccoEJ4Rxk9rb5cIrrkpPQDn39MP.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6BsFjvlO6cUx2kIVWB0Ix3Seyt8.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/hiNGVfBAdf4eklOQPfWhoyeLHYk.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ofJtMNweUYX3L4rOO0yQhod7VMP.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6LMtZWu7yNyG7hmGrOUxXotlzrw.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 948,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/6zWaYWrPXG7JBX3Tb3OI9ITWGad.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 632
+        }
+      ]
+    },
+    "última_actualización": "2026-08-25 10:07:46"
   },
   {
     "id": 1187326,
@@ -408,7 +408,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 4.9103,
+    "popularidad": 4.3663,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -520,7 +520,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:12"
+    "última_actualización": "2026-08-25 10:07:47"
   },
   {
     "id": 1651187,
@@ -582,7 +582,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:18"
+    "última_actualización": "2026-08-25 10:07:53"
   },
   {
     "id": 1411614,
@@ -724,7 +724,7 @@
       }
     ],
     "géneros": [],
-    "popularidad": 0.8997,
+    "popularidad": 0.7737,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -745,7 +745,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:17"
+    "última_actualización": "2026-08-25 10:07:52"
   },
   {
     "id": 843352,
@@ -808,7 +808,7 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 3.428,
+    "popularidad": 3.0474,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -880,7 +880,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:12"
+    "última_actualización": "2026-08-25 10:07:48"
   },
   {
     "id": 1074074,
@@ -939,7 +939,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.8351,
+    "popularidad": 3.6861,
     "puntuación": 6.9,
     "votos": 41,
     "adulto": false,
@@ -1051,7 +1051,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:13"
+    "última_actualización": "2026-08-25 10:07:48"
   },
   {
     "id": 1337592,
@@ -1114,7 +1114,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 2.6371,
+    "popularidad": 2.3396,
     "puntuación": 6.1,
     "votos": 17,
     "adulto": false,
@@ -1196,7 +1196,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:13"
+    "última_actualización": "2026-08-25 10:07:49"
   },
   {
     "id": 858477,
@@ -1249,7 +1249,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.606,
+    "popularidad": 1.6231,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1351,7 +1351,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:15"
+    "última_actualización": "2026-08-25 10:07:50"
   },
   {
     "id": 1724356,
@@ -1392,7 +1392,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 0.756,
+    "popularidad": 0.657,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1413,7 +1413,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:18"
+    "última_actualización": "2026-08-25 10:07:53"
   },
   {
     "id": 1755153,
@@ -1491,7 +1491,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:19"
+    "última_actualización": "2026-08-25 10:07:54"
   },
   {
     "id": 1711813,
@@ -1539,7 +1539,7 @@
       }
     ],
     "géneros": [],
-    "popularidad": 0.6001,
+    "popularidad": 0.5375,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -1560,7 +1560,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:18"
+    "última_actualización": "2026-08-25 10:07:53"
   },
   {
     "id": 1755331,
@@ -1604,7 +1604,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:19"
+    "última_actualización": "2026-08-25 10:07:54"
   },
   {
     "id": 1321008,
@@ -1667,9 +1667,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 30.7862,
-    "puntuación": 6.191,
-    "votos": 68,
+    "popularidad": 30.0888,
+    "puntuación": 6.186,
+    "votos": 70,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1719,7 +1719,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:10"
+    "última_actualización": "2026-08-25 10:07:45"
   },
   {
     "id": 1477712,
@@ -1778,8 +1778,8 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 20.2983,
-    "puntuación": 4.933,
+    "popularidad": 17.3286,
+    "puntuación": 4.9,
     "votos": 45,
     "adulto": false,
     "video": false,
@@ -1843,6 +1843,16 @@
           "height": 3000,
           "iso_3166_1": null,
           "iso_639_1": null,
+          "file_path": "/u4IkgcUehvByKpejt4GSRKKcTJ7.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/tQAhHB9bUU5jslYPhMAbFCg6Ja3.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -1860,29 +1870,29 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:11"
+    "última_actualización": "2026-08-25 10:07:46"
   },
   {
     "id": 1061798,
     "tmdb_id": 1061798,
     "título": "Jim Queen",
     "título_original": "Jim Queen",
-    "sinopsis": "",
-    "poster_path": "/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
+    "sinopsis": "En la escena gay parisina, Jim es el rey de Gym Queens, la comunidad más sexy y codiciada de las redes sociales. Un día, se da cuenta de que ha sido infectado por Heterosis, un extraño virus que diezma la comunidad y convierte a los gays en... ¡heterosexuales! Jim pierde su trono y es abandonado por todo su entorno. Todos menos un seguidor: Lucien, un escuálido joven virgen. Juntos, emprenden un viaje a través del Marais (el pueblo gay parisino), en busca del misterioso doctor Ragoult, que afirma haber encontrado una cura para el virus. Esta cura no sólo podría salvar a Jim, sino también evitar la extinción de la homosexualidad.",
+    "poster_path": "/mpF0hbb9Z0SUuYSxLK2PUYImFjJ.jpg",
     "poster_local": "imagenes_estrenos/Jim_Queen_jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
     "backdrop_path": "/vQw05sfFEVCVpysDAU5C8NU1gMO.jpg",
     "backdrop_local": "imagenes_estrenos/Jim_Queen_backdrop_vQw05sfFEVCVpysDAU5C8NU1gMO.jpg",
     "fecha_estreno": "2026-09-04T00:00:00.000Z",
     "duración": "85 min",
-    "director": "Nicolas Athané, Marco Nguyen",
+    "director": "Marco Nguyen, Nicolas Athané",
     "directores": [
-      {
-        "name": "Nicolas Athané",
-        "id": 1774224
-      },
       {
         "name": "Marco Nguyen",
         "id": 1261454
+      },
+      {
+        "name": "Nicolas Athané",
+        "id": 1774224
       }
     ],
     "actores": [
@@ -1927,7 +1937,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 5.9713,
+    "popularidad": 5.5183,
     "puntuación": 7.9,
     "votos": 82,
     "adulto": false,
@@ -2029,7 +2039,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:11"
+    "última_actualización": "2026-08-25 10:07:47"
   },
   {
     "id": 1549315,
@@ -2092,7 +2102,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 3.0701,
+    "popularidad": 2.872,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2164,7 +2174,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:13"
+    "última_actualización": "2026-08-25 10:07:48"
   },
   {
     "id": 1368519,
@@ -2223,7 +2233,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.425,
+    "popularidad": 2.1505,
     "puntuación": 6.7,
     "votos": 97,
     "adulto": false,
@@ -2295,15 +2305,15 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:14"
+    "última_actualización": "2026-08-25 10:07:49"
   },
   {
     "id": 1740328,
     "tmdb_id": 1740328,
-    "título": "Eixam",
+    "título": "Enjambre",
     "título_original": "Eixam",
-    "sinopsis": "Lluc (Pablo Molinero) lo ha perdido todo cuando Alba (Cristina Fernández) le ofrece una salida: integrarse en una aldea aislada donde un grupo de desheredados convive en aparente armonía. Lluc se agarra a esta segunda oportunidad, aprende a vivir bajo las normas comunitarias y encuentra el amor de Silvia (María Maroto). Pero el espejismo se resquebraja, revelando la perversión del sistema creado por Alba y los oscuros secretos de su origen. En su intento por recuperar su libertad, Lluc se juega lo único que le queda: su vida.",
-    "poster_path": "/tJwpx0zbc7EjmCGdNnTclE5Vrrm.jpg",
+    "sinopsis": "Lluc  lo ha perdido todo cuando Alba  le ofrece una salida: integrarse en una aldea aislada donde un grupo de desheredados convive en aparente armonía. Lluc se agarra a esta segunda oportunidad, aprende a vivir bajo las normas comunitarias y encuentra el amor de Silvia. Pero el espejismo se resquebraja, revelando la perversión del sistema creado por Alba y los oscuros secretos de su origen. En su intento por recuperar su libertad, Lluc se juega lo único que le queda: su vida.",
+    "poster_path": "/kcRsKLIYiFI9L9F1ukhuRfImLPl.jpg",
     "poster_local": "imagenes_estrenos/Eixam_tJwpx0zbc7EjmCGdNnTclE5Vrrm.jpg",
     "backdrop_path": null,
     "backdrop_local": "",
@@ -2358,7 +2368,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 1.6173,
+    "popularidad": 1.8162,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2379,14 +2389,14 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:15"
+    "última_actualización": "2026-08-25 10:07:50"
   },
   {
     "id": 1228569,
     "tmdb_id": 1228569,
     "título": "Hora y veinte",
     "título_original": "Hora y veinte",
-    "sinopsis": "",
+    "sinopsis": "Manuela hará todo lo posible para encontrar a su hijo de 6 años, quien desaparece el día de Nochebuena en un centro comercial. Con la llegada de la Guardia Civil, Manuela debe afrontar la posibilidad de haber perdido la razón mientras lucha por recuperar a su pequeño. No hay indicios de un posible secuestro, pero de repente una noticia inquietante llega al centro comercial: Manuela tiene un largo historial delictivo y nadie recuerda haberla visto con su hijo.",
     "poster_path": "/dHEx0vtTkruolFnkyDeddffPYgT.jpg",
     "poster_local": "imagenes_estrenos/Hora_y_veinte_dHEx0vtTkruolFnkyDeddffPYgT.jpg",
     "backdrop_path": "/6UGrnnH7ciOT3BAz4IHLmV26lUj.jpg",
@@ -2442,7 +2452,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 1.1992,
+    "popularidad": 1.1629,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2494,15 +2504,15 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:16"
+    "última_actualización": "2026-08-25 10:07:51"
   },
   {
     "id": 1212310,
     "tmdb_id": 1212310,
     "título": "La conspiración del cuervo",
     "título_original": "Zima pod znakiem wrony",
-    "sinopsis": "En Varsovia bajo ley marcial en 1981, una profesora británica ve a la policía secreta matar a su estudiante. Huye por la ciudad mientras la persiguen, hasta enfrentarlos.",
-    "poster_path": "/U5vhHOZnpnmiW3rQiyDGBssVqK.jpg",
+    "sinopsis": "Varsovia, Polonia, 13 de diciembre de 1981. Se impone la ley marcial y de la noche a la mañana paraliza el país justo cuando la profesora británica de psiquiatría, la Dra. Joan Andrews (Manville), llega a Varsovia como docente invitada de la universidad. Los taxis han sido reemplazados por tanques; los ciudadanos son tratados como criminales. Pero mientras el caos se apodera de la ciudad, Andrews, armada con su cámara, presencia un brutal asesinato a manos de la policía secreta.",
+    "poster_path": "/tMK1XocgTz6heCRUizqBsiqfc53.jpg",
     "poster_local": "imagenes_estrenos/La_conspiraci_n_del_cuervo_U5vhHOZnpnmiW3rQiyDGBssVqK.jpg",
     "backdrop_path": "/2V3EgEgyF3cq93Pw63pcUeb0PNT.jpg",
     "backdrop_local": "imagenes_estrenos/La_conspiraci_n_del_cuervo_backdrop_2V3EgEgyF3cq93Pw63pcUeb0PNT.jpg",
@@ -2561,7 +2571,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 1.1357,
+    "popularidad": 1.0412,
     "puntuación": 6.0,
     "votos": 2,
     "adulto": false,
@@ -2593,7 +2603,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:16"
+    "última_actualización": "2026-08-25 10:07:51"
   },
   {
     "id": 1275086,
@@ -2652,7 +2662,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.0882,
+    "popularidad": 1.0311,
     "puntuación": 6.1,
     "votos": 7,
     "adulto": false,
@@ -2673,7 +2683,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-08-24 22:05:16"
+    "última_actualización": "2026-08-25 10:07:52"
   },
   {
     "id": 674668,
@@ -2732,7 +2742,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.7691,
+    "popularidad": 0.911,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2814,7 +2824,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:18"
+    "última_actualización": "2026-08-25 10:07:53"
   },
   {
     "id": 1496859,
@@ -2888,9 +2898,9 @@
   {
     "id": 1545621,
     "tmdb_id": 1545621,
-    "título": "名探偵コナン ハイウェイの堕天使",
+    "título": "Detective Conan: El ángel caído de la carretera",
     "título_original": "名探偵コナン ハイウェイの堕天使",
-    "sinopsis": "",
+    "sinopsis": "Edogawa Conan y Chihaya Hagiwara deben unirse para identificar al conductor de la misteriosa motocicleta completamente negra que causó el caos en Kanagawa.",
     "poster_path": "/5pEcrCTuocLsHeLKCE4zRgmmkOK.jpg",
     "poster_local": "imagenes_estrenos/_________________5pEcrCTuocLsHeLKCE4zRgmmkOK.jpg",
     "backdrop_path": "/zT5S4GNs8Eu2gIkGORoN6yC1uE2.jpg",
@@ -2954,7 +2964,7 @@
         "name": "Crimen"
       }
     ],
-    "popularidad": 24.0842,
+    "popularidad": 22.0358,
     "puntuación": 7.6,
     "votos": 16,
     "adulto": false,
@@ -3046,7 +3056,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:11"
+    "última_actualización": "2026-08-25 10:07:46"
   },
   {
     "id": 1339588,
@@ -3109,7 +3119,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 7.2282,
+    "popularidad": 6.2995,
     "puntuación": 6.9,
     "votos": 35,
     "adulto": false,
@@ -3211,7 +3221,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:11"
+    "última_actualización": "2026-08-25 10:07:46"
   },
   {
     "id": 1447853,
@@ -3278,7 +3288,7 @@
         "name": "Música"
       }
     ],
-    "popularidad": 5.2021,
+    "popularidad": 4.651,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3350,7 +3360,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:12"
+    "última_actualización": "2026-08-25 10:07:47"
   },
   {
     "id": 1274757,
@@ -3409,7 +3419,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.9804,
+    "popularidad": 2.5875,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3441,7 +3451,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:13"
+    "última_actualización": "2026-08-25 10:07:48"
   },
   {
     "id": 1690901,
@@ -3508,7 +3518,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 2.1154,
+    "popularidad": 3.079,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3540,7 +3550,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:14"
+    "última_actualización": "2026-08-25 10:07:49"
   },
   {
     "id": 1364168,
@@ -3599,7 +3609,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 2.0255,
+    "popularidad": 1.8085,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3641,7 +3651,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:14"
+    "última_actualización": "2026-08-25 10:07:49"
   },
   {
     "id": 1744439,
@@ -3700,7 +3710,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 1.7545,
+    "popularidad": 1.8458,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3721,7 +3731,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:14"
+    "última_actualización": "2026-08-25 10:07:50"
   },
   {
     "id": 1536053,
@@ -3786,7 +3796,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 1.5734,
+    "popularidad": 1.4129,
     "puntuación": 7.7,
     "votos": 11,
     "adulto": false,
@@ -3888,7 +3898,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:15"
+    "última_actualización": "2026-08-25 10:07:50"
   },
   {
     "id": 1455084,
@@ -3939,7 +3949,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 1.5503,
+    "popularidad": 1.3669,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3991,7 +4001,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:15"
+    "última_actualización": "2026-08-25 10:07:51"
   },
   {
     "id": 1421148,
@@ -4054,7 +4064,7 @@
         "name": "Terror"
       }
     ],
-    "popularidad": 1.462,
+    "popularidad": 1.3124,
     "puntuación": 5.9,
     "votos": 7,
     "adulto": false,
@@ -4115,7 +4125,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-08-24 22:05:16"
+    "última_actualización": "2026-08-25 10:07:51"
   },
   {
     "id": 1745792,
@@ -4178,7 +4188,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 0.8487,
+    "popularidad": 0.7413,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4199,7 +4209,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:17"
+    "última_actualización": "2026-08-25 10:07:52"
   },
   {
     "id": 1732875,
@@ -4207,8 +4217,8 @@
     "título": "Un plan perfecto",
     "título_original": "Un plan perfecto",
     "sinopsis": "Es Navidad. Los Ibáñez son un fracaso como familia. Están arruinados, sin ilusión por la vida y su convivencia familiar es un desastre. Cuando están a punto de ser desahuciados por el banco, descubren en el sótano de su casa que alguien cavó un túnel con la idea de robar el banco de enfrente. Con la ayuda de Rufus, un veterano ladrón retirado, la familia decide completar el túnel y dar el golpe de sus vidas. Sin embargo, convivir y trabajar en equipo resultará mucho más complicado que cavar los últimos metros del túnel. Entre conflictos familiares, situaciones disparatadas y un atraco en el que todo parece salir mal, descubrirán que al final de ese túnel les espera algo mucho más importante que un botín millonario.",
-    "poster_path": null,
-    "poster_local": "",
+    "poster_path": "/gkwoom0kN8CBjf7FgVQumBfBkw5.jpg",
+    "poster_local": "imagenes_estrenos/Un_plan_perfecto_gkwoom0kN8CBjf7FgVQumBfBkw5.jpg",
     "backdrop_path": null,
     "backdrop_local": "",
     "fecha_estreno": "2026-09-11T00:00:00.000Z",
@@ -4246,7 +4256,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.8402,
+    "popularidad": 0.752,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4267,7 +4277,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:17"
+    "última_actualización": "2026-08-25 10:07:52"
   },
   {
     "id": 1517127,
@@ -4330,7 +4340,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 4.9921,
+    "popularidad": 5.0729,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4372,6 +4382,6 @@
         }
       ]
     },
-    "última_actualización": "2026-08-24 22:05:12"
+    "última_actualización": "2026-08-25 10:07:47"
   }
 ]
