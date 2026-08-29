@@ -303,7 +303,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:47"
+    "última_actualización": "2026-08-29 22:03:11"
   },
   {
     "id": 1477712,
@@ -454,7 +454,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:48"
+    "última_actualización": "2026-08-29 22:03:11"
   },
   {
     "id": 1061798,
@@ -468,15 +468,15 @@
     "backdrop_local": "imagenes_estrenos/Jim_Queen_backdrop_vQw05sfFEVCVpysDAU5C8NU1gMO.jpg",
     "fecha_estreno": "2026-09-04T00:00:00.000Z",
     "duración": "85 min",
-    "director": "Nicolas Athané, Marco Nguyen",
+    "director": "Marco Nguyen, Nicolas Athané",
     "directores": [
-      {
-        "name": "Nicolas Athané",
-        "id": 1774224
-      },
       {
         "name": "Marco Nguyen",
         "id": 1261454
+      },
+      {
+        "name": "Nicolas Athané",
+        "id": 1774224
       }
     ],
     "actores": [
@@ -623,7 +623,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:49"
+    "última_actualización": "2026-08-29 22:03:12"
   },
   {
     "id": 1549315,
@@ -758,7 +758,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:50"
+    "última_actualización": "2026-08-29 22:03:13"
   },
   {
     "id": 1368519,
@@ -889,7 +889,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:51"
+    "última_actualización": "2026-08-29 22:03:13"
   },
   {
     "id": 1740328,
@@ -973,7 +973,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:52"
+    "última_actualización": "2026-08-29 22:03:14"
   },
   {
     "id": 1212310,
@@ -1072,7 +1072,87 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:52"
+    "última_actualización": "2026-08-29 22:03:14"
+  },
+  {
+    "id": 1275086,
+    "tmdb_id": 1275086,
+    "título": "El olor a leche quemada",
+    "título_original": "Milch ins Feuer",
+    "sinopsis": "Tres generaciones de mujeres agricultoras bajo un mismo techo. Anna está embarazada y solo piensa en castraciones. Katinka no podrá ser agricultora y lleva bikini en la sala de ordeño, pero los tomates de la abuela han salido este año mejor que nunca. Un verano en granjas alemanas en decadencia.",
+    "poster_path": "/vcGERj3wJ4s2BqMhCWeFCiwsQNs.jpg",
+    "poster_local": "imagenes_estrenos/Smell_of_Burnt_Milk_vcGERj3wJ4s2BqMhCWeFCiwsQNs.jpg",
+    "backdrop_path": "/rdaUHILVrkjQJg0b5fbTTTbHfCd.jpg",
+    "backdrop_local": "imagenes_estrenos/Smell_of_Burnt_Milk_backdrop_rdaUHILVrkjQJg0b5fbTTTbHfCd.jpg",
+    "fecha_estreno": "2026-09-04T00:00:00.000Z",
+    "duración": "78 min",
+    "director": "Justine Bauer",
+    "directores": [
+      {
+        "name": "Justine Bauer",
+        "id": 3611863
+      }
+    ],
+    "actores": [
+      {
+        "name": "Karolin Nothacker",
+        "id": 4655547,
+        "character": "Katinka",
+        "profile_path": null
+      },
+      {
+        "name": "Johanna Wokalek",
+        "id": 22687,
+        "character": "Marlies",
+        "profile_path": "/b0uEVTTHgQnR43x3BeNfOGJ0iKw.jpg"
+      },
+      {
+        "name": "Simon Steinhorst",
+        "id": 2934657,
+        "character": "Michi",
+        "profile_path": "/qPaaez0PyP0LzNNtBBuc4fSfhkI.jpg"
+      },
+      {
+        "name": "Lorena Elser",
+        "id": 4742184,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Pauline Bullinger",
+        "id": 5483712,
+        "character": "Anna",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.3558,
+    "puntuación": 6.1,
+    "votos": 7,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/rdaUHILVrkjQJg0b5fbTTTbHfCd.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-08-29 22:03:15"
   },
   {
     "id": 1228569,
@@ -1187,87 +1267,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:53"
-  },
-  {
-    "id": 1275086,
-    "tmdb_id": 1275086,
-    "título": "El olor a leche quemada",
-    "título_original": "Milch ins Feuer",
-    "sinopsis": "Tres generaciones de mujeres agricultoras bajo un mismo techo. Anna está embarazada y solo piensa en castraciones. Katinka no podrá ser agricultora y lleva bikini en la sala de ordeño, pero los tomates de la abuela han salido este año mejor que nunca. Un verano en granjas alemanas en decadencia.",
-    "poster_path": "/vcGERj3wJ4s2BqMhCWeFCiwsQNs.jpg",
-    "poster_local": "imagenes_estrenos/Smell_of_Burnt_Milk_vcGERj3wJ4s2BqMhCWeFCiwsQNs.jpg",
-    "backdrop_path": "/rdaUHILVrkjQJg0b5fbTTTbHfCd.jpg",
-    "backdrop_local": "imagenes_estrenos/Smell_of_Burnt_Milk_backdrop_rdaUHILVrkjQJg0b5fbTTTbHfCd.jpg",
-    "fecha_estreno": "2026-09-04T00:00:00.000Z",
-    "duración": "78 min",
-    "director": "Justine Bauer",
-    "directores": [
-      {
-        "name": "Justine Bauer",
-        "id": 3611863
-      }
-    ],
-    "actores": [
-      {
-        "name": "Karolin Nothacker",
-        "id": 4655547,
-        "character": "Katinka",
-        "profile_path": null
-      },
-      {
-        "name": "Johanna Wokalek",
-        "id": 22687,
-        "character": "Marlies",
-        "profile_path": "/b0uEVTTHgQnR43x3BeNfOGJ0iKw.jpg"
-      },
-      {
-        "name": "Simon Steinhorst",
-        "id": 2934657,
-        "character": "Michi",
-        "profile_path": "/qPaaez0PyP0LzNNtBBuc4fSfhkI.jpg"
-      },
-      {
-        "name": "Lorena Elser",
-        "id": 4742184,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Pauline Bullinger",
-        "id": 5483712,
-        "character": "Anna",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 1.3558,
-    "puntuación": 6.1,
-    "votos": 7,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/rdaUHILVrkjQJg0b5fbTTTbHfCd.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2026-08-29 10:03:53"
+    "última_actualización": "2026-08-29 22:03:15"
   },
   {
     "id": 674668,
@@ -1408,7 +1408,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:55"
+    "última_actualización": "2026-08-29 22:03:15"
   },
   {
     "id": 1496859,
@@ -1650,7 +1650,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:47"
+    "última_actualización": "2026-08-29 22:03:11"
   },
   {
     "id": 1339588,
@@ -1658,7 +1658,7 @@
     "título": "Finding Emily",
     "título_original": "Finding Emily",
     "sinopsis": "Cuando a un músico enamorado le dan el número equivocado de la chica de sus sueños, acaba haciendo equipo con una estudiante de psicología para encontrarla. Juntos desencadenan un hilarante frenesí por todo el campus, que pone a prueba sus propios corazones y ambiciones.",
-    "poster_path": "/jIjj0H2kobklKcyNHyrDj6WD2xw.jpg",
+    "poster_path": "/bfEQ6C702oPsN4kzIiY7n4JsrxF.jpg",
     "poster_local": "imagenes_estrenos/Finding_Emily_jIjj0H2kobklKcyNHyrDj6WD2xw.jpg",
     "backdrop_path": "/7Ja28gO6OwncmCA94q2qPyeRrsA.jpg",
     "backdrop_local": "imagenes_estrenos/Finding_Emily_backdrop_7Ja28gO6OwncmCA94q2qPyeRrsA.jpg",
@@ -1714,8 +1714,8 @@
       }
     ],
     "popularidad": 9.5835,
-    "puntuación": 7.0,
-    "votos": 37,
+    "puntuación": 6.9,
+    "votos": 38,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1742,16 +1742,6 @@
           "width": 1400
         },
         {
-          "aspect_ratio": 1.777,
-          "height": 1582,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ltql0GCvNckvqayTMaNYoZS0PBz.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2812
-        },
-        {
           "aspect_ratio": 1.778,
           "height": 1356,
           "iso_3166_1": null,
@@ -1770,6 +1760,16 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 2000
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1327,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/pNvX7I369C8ETM2DImC709vMe8j.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 2359
         }
       ],
       "posters": [
@@ -1815,7 +1815,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:48"
+    "última_actualización": "2026-08-29 22:03:12"
   },
   {
     "id": 1447853,
@@ -1954,7 +1954,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:48"
+    "última_actualización": "2026-08-29 22:03:12"
   },
   {
     "id": 1690901,
@@ -2053,7 +2053,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:50"
+    "última_actualización": "2026-08-29 22:03:12"
   },
   {
     "id": 1274757,
@@ -2144,7 +2144,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:50"
+    "última_actualización": "2026-08-29 22:03:13"
   },
   {
     "id": 1364168,
@@ -2245,7 +2245,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:51"
+    "última_actualización": "2026-08-29 22:03:13"
   },
   {
     "id": 1421148,
@@ -2369,7 +2369,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-08-29 10:03:52"
+    "última_actualización": "2026-08-29 22:03:14"
   },
   {
     "id": 1536053,
@@ -2536,7 +2536,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:52"
+    "última_actualización": "2026-08-29 22:03:14"
   },
   {
     "id": 1455084,
@@ -2639,7 +2639,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:53"
+    "última_actualización": "2026-08-29 22:03:14"
   },
   {
     "id": 1744439,
@@ -2719,7 +2719,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:53"
+    "última_actualización": "2026-08-29 22:03:14"
   },
   {
     "id": 1745792,
@@ -2803,7 +2803,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:55"
+    "última_actualización": "2026-08-29 22:03:15"
   },
   {
     "id": 1732875,
@@ -2871,7 +2871,46 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:55"
+    "última_actualización": "2026-08-29 22:03:16"
+  },
+  {
+    "id": 1758305,
+    "tmdb_id": 1758305,
+    "título": "MEMORY STICK (HOW TO PREPARE NEW YEARS)",
+    "título_original": "MEMORY STICK (HOW TO PREPARE NEW YEARS)",
+    "sinopsis": "",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-09-11T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "",
+    "directores": [],
+    "actores": [],
+    "géneros": [],
+    "popularidad": 0.0,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/pm6A5e3GVYMby1nAac1Clr5zEHy.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-08-29 22:03:16"
   },
   {
     "id": 1517127,
@@ -2976,7 +3015,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:49"
+    "última_actualización": "2026-08-29 22:03:12"
   },
   {
     "id": 1204680,
@@ -2984,7 +3023,7 @@
     "título": "Coyote vs. Acme",
     "título_original": "Coyote vs. Acme",
     "sinopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-    "poster_path": "/uD8uCTTdrsfFmRI468vB8FMoe9T.jpg",
+    "poster_path": "/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
     "poster_local": "imagenes_estrenos/Coyote_vs__Acme_sv6gFggwOOOAMRZssdkNwEIMzCa.jpg",
     "backdrop_path": "/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
     "backdrop_local": "imagenes_estrenos/Coyote_vs__Acme_backdrop_l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
@@ -3041,11 +3080,15 @@
       {
         "id": 10751,
         "name": "Familia"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
       }
     ],
     "popularidad": 70.034,
-    "puntuación": 7.963,
-    "votos": 27,
+    "puntuación": 8.0,
+    "votos": 29,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3155,7 +3198,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:47"
+    "última_actualización": "2026-08-29 22:03:11"
   },
   {
     "id": 1122573,
@@ -3220,7 +3263,7 @@
     ],
     "popularidad": 41.6736,
     "puntuación": 7.579,
-    "votos": 818,
+    "votos": 819,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3330,7 +3373,166 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:47"
+    "última_actualización": "2026-08-29 22:03:11"
+  },
+  {
+    "id": 1318413,
+    "tmdb_id": 1318413,
+    "título": "Tiempo de victoria",
+    "título_original": "Pressure",
+    "sinopsis": "Quedan 72 horas para el Día D y todo está listo salvo un elemento clave: el tiempo. El capitán James Stagg, jefe del servicio meteorológico británico, recibe el encargo de elaborar el pronóstico más trascendental de la historia. Unas condiciones climáticas adversas podrían arruinar la mayor invasión marítima de la historia, mientras que cualquier retraso podría suponer que los servicios de inteligencia alemanes descubran sus intenciones. El general Dwight D. Eisenhower deberá tomar la decisión que determine el destino de la Segunda Guerra Mundial.",
+    "poster_path": "/byKFPj2xvKkqMKQ4i0Ayq6N7Z9E.jpg",
+    "poster_local": "imagenes_estrenos/Tiempo_de_victoria_byKFPj2xvKkqMKQ4i0Ayq6N7Z9E.jpg",
+    "backdrop_path": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+    "backdrop_local": "imagenes_estrenos/Tiempo_de_victoria_backdrop_apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+    "fecha_estreno": "2026-09-18T00:00:00.000Z",
+    "duración": "101 min",
+    "director": "Anthony Maras",
+    "directores": [
+      {
+        "name": "Anthony Maras",
+        "id": 1484509
+      }
+    ],
+    "actores": [
+      {
+        "name": "Andrew Scott",
+        "id": 125660,
+        "character": "James Stagg",
+        "profile_path": "/4F8XpjyQCvtuu21WFm5d8RF5Rl.jpg"
+      },
+      {
+        "name": "Brendan Fraser",
+        "id": 18269,
+        "character": "Dwight ‘Ike’ Eisenhower",
+        "profile_path": "/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+      },
+      {
+        "name": "Kerry Condon",
+        "id": 62105,
+        "character": "Kay Summersby",
+        "profile_path": "/bLP627Ar30kSqy5ZIYVJioCprOH.jpg"
+      },
+      {
+        "name": "Chris Messina",
+        "id": 61659,
+        "character": "Irving Krick",
+        "profile_path": "/l9DbQTK5pI6SOGpmfbADGLhdOYS.jpg"
+      },
+      {
+        "name": "Damian Lewis",
+        "id": 20186,
+        "character": "Bernard ‘Monty’ Montgomery",
+        "profile_path": "/puOXtVatFnAxoOmsFO8z7KTfyJW.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      }
+    ],
+    "popularidad": 18.4654,
+    "puntuación": 7.772,
+    "votos": 327,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+          "vote_average": 7.542,
+          "vote_count": 8,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/e7LV0eqqh9jEcLW1bI56lzn70zb.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/t0FnZbl47k4m638wBj7zVkPtwjk.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/nrcOGq5cmRNFGZ6JbPvfGr0G6wR.jpg",
+          "vote_average": 0.904,
+          "vote_count": 7,
+          "width": 3839
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/q7ZgPZIqSYm3UlrdCldkYzjGOCI.jpg",
+          "vote_average": 0.854,
+          "vote_count": 8,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/byKFPj2xvKkqMKQ4i0Ayq6N7Z9E.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 999,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/9h4ae87n6qMlKtifKIOTvcAxDmc.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 666
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/8vX2oEIQ9qst5Uk0sTPlvFqMOKp.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-08-29 22:03:11"
   },
   {
     "id": 1423191,
@@ -3482,169 +3684,20 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 990
-        }
-      ]
-    },
-    "última_actualización": "2026-08-29 10:03:48"
-  },
-  {
-    "id": 1318413,
-    "tmdb_id": 1318413,
-    "título": "Tiempo de victoria",
-    "título_original": "Pressure",
-    "sinopsis": "Quedan 72 horas para el Día D y todo está listo salvo un elemento clave: el tiempo. El capitán James Stagg, jefe del servicio meteorológico británico, recibe el encargo de elaborar el pronóstico más trascendental de la historia. Unas condiciones climáticas adversas podrían arruinar la mayor invasión marítima de la historia, mientras que cualquier retraso podría suponer que los servicios de inteligencia alemanes descubran sus intenciones. El general Dwight D. Eisenhower deberá tomar la decisión que determine el destino de la Segunda Guerra Mundial.",
-    "poster_path": "/byKFPj2xvKkqMKQ4i0Ayq6N7Z9E.jpg",
-    "poster_local": "imagenes_estrenos/Tiempo_de_victoria_byKFPj2xvKkqMKQ4i0Ayq6N7Z9E.jpg",
-    "backdrop_path": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
-    "backdrop_local": "imagenes_estrenos/Tiempo_de_victoria_backdrop_apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
-    "fecha_estreno": "2026-09-18T00:00:00.000Z",
-    "duración": "101 min",
-    "director": "Anthony Maras",
-    "directores": [
-      {
-        "name": "Anthony Maras",
-        "id": 1484509
-      }
-    ],
-    "actores": [
-      {
-        "name": "Andrew Scott",
-        "id": 125660,
-        "character": "James Stagg",
-        "profile_path": "/4F8XpjyQCvtuu21WFm5d8RF5Rl.jpg"
-      },
-      {
-        "name": "Brendan Fraser",
-        "id": 18269,
-        "character": "Dwight ‘Ike’ Eisenhower",
-        "profile_path": "/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
-      },
-      {
-        "name": "Kerry Condon",
-        "id": 62105,
-        "character": "Kay Summersby",
-        "profile_path": "/bLP627Ar30kSqy5ZIYVJioCprOH.jpg"
-      },
-      {
-        "name": "Chris Messina",
-        "id": 61659,
-        "character": "Irving Krick",
-        "profile_path": "/l9DbQTK5pI6SOGpmfbADGLhdOYS.jpg"
-      },
-      {
-        "name": "Damian Lewis",
-        "id": 20186,
-        "character": "Bernard ‘Monty’ Montgomery",
-        "profile_path": "/puOXtVatFnAxoOmsFO8z7KTfyJW.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 53,
-        "name": "Suspense"
-      },
-      {
-        "id": 36,
-        "name": "Historia"
-      },
-      {
-        "id": 10752,
-        "name": "Bélica"
-      }
-    ],
-    "popularidad": 18.4654,
-    "puntuación": 7.775,
-    "votos": 326,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
-          "vote_average": 7.542,
-          "vote_count": 8,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/e7LV0eqqh9jEcLW1bI56lzn70zb.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/t0FnZbl47k4m638wBj7zVkPtwjk.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/nrcOGq5cmRNFGZ6JbPvfGr0G6wR.jpg",
-          "vote_average": 0.904,
-          "vote_count": 7,
-          "width": 3839
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/q7ZgPZIqSYm3UlrdCldkYzjGOCI.jpg",
-          "vote_average": 0.854,
-          "vote_count": 8,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/byKFPj2xvKkqMKQ4i0Ayq6N7Z9E.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
         },
         {
           "aspect_ratio": 0.667,
-          "height": 999,
+          "height": 2048,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/9h4ae87n6qMlKtifKIOTvcAxDmc.jpg",
-          "vote_average": 0.0,
-          "vote_count": 1,
-          "width": 666
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/8vX2oEIQ9qst5Uk0sTPlvFqMOKp.jpg",
+          "file_path": "/uVNuScpO4XUWuReD1YlEfJ78rPs.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
-          "width": 2000
+          "width": 1365
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:48"
+    "última_actualización": "2026-08-29 22:03:11"
   },
   {
     "id": 1228834,
@@ -3739,7 +3792,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:49"
+    "última_actualización": "2026-08-29 22:03:12"
   },
   {
     "id": 1291829,
@@ -3870,7 +3923,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:49"
+    "última_actualización": "2026-08-29 22:03:12"
   },
   {
     "id": 1649218,
@@ -3981,7 +4034,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:51"
+    "última_actualización": "2026-08-29 22:03:13"
   },
   {
     "id": 1721500,
@@ -4076,90 +4129,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:54"
-  },
-  {
-    "id": 1650219,
-    "tmdb_id": 1650219,
-    "título": "Ese niño de la fotografía. Carlos Saura",
-    "título_original": "Ese niño de la fotografía. Carlos Saura",
-    "sinopsis": "Carlos Saura falleció en febrero del 2023 a los 91 años dejando más de 50 películas que han sido premiadas en los festivales más prestigiosos del mundo, miles de fotografías, dibujos, obras de teatro, novelas y un largo etcétera. Sin embargo, poca gente conoce cómo vivió sus últimos años culminando una de las carreras más prolíficas de la historia del cine y de la cultura contemporánea. A través de su archivo personal e inédito, Anna Saura nos ofrece la cosmovisión de su padre como ejemplo de vida y pasión por la creatividad sin límites.",
-    "poster_path": "/xuzIqAa7DdmCWUhdnYKmdFZ4AGz.jpg",
-    "poster_local": "imagenes_estrenos/Ese_ni_o_de_la_fotograf_a__Carlos_Saura_xuzIqAa7DdmCWUhdnYKmdFZ4AGz.jpg",
-    "backdrop_path": "/i3sgb4jvdgoHhatRgNDweXQksBU.jpg",
-    "backdrop_local": "imagenes_estrenos/Ese_ni_o_de_la_fotograf_a__Carlos_Saura_backdrop_i3sgb4jvdgoHhatRgNDweXQksBU.jpg",
-    "fecha_estreno": "2026-09-18T00:00:00.000Z",
-    "duración": "80 min",
-    "director": "Anna Saura Ramón",
-    "directores": [
-      {
-        "name": "Anna Saura Ramón",
-        "id": 3123165
-      }
-    ],
-    "actores": [
-      {
-        "name": "Anna Saura Ramón",
-        "id": 3123165,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Carlos Saura",
-        "id": 96369,
-        "character": "",
-        "profile_path": "/jl9f6AiXClspedvewZ2akbhGoQG.jpg"
-      },
-      {
-        "name": "Eulalia Ramon Estrach",
-        "id": 102550,
-        "character": "",
-        "profile_path": "/erpJMOmTYaVQwfVwZM4yu6RPv9g.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 0.8238,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.782,
-          "height": 864,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/i3sgb4jvdgoHhatRgNDweXQksBU.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xuzIqAa7DdmCWUhdnYKmdFZ4AGz.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2026-08-29 10:03:54"
+    "última_actualización": "2026-08-29 22:03:16"
   },
   {
     "id": 1001072,
@@ -4300,7 +4270,90 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:54"
+    "última_actualización": "2026-08-29 22:03:16"
+  },
+  {
+    "id": 1650219,
+    "tmdb_id": 1650219,
+    "título": "Ese niño de la fotografía. Carlos Saura",
+    "título_original": "Ese niño de la fotografía. Carlos Saura",
+    "sinopsis": "Carlos Saura falleció en febrero del 2023 a los 91 años dejando más de 50 películas que han sido premiadas en los festivales más prestigiosos del mundo, miles de fotografías, dibujos, obras de teatro, novelas y un largo etcétera. Sin embargo, poca gente conoce cómo vivió sus últimos años culminando una de las carreras más prolíficas de la historia del cine y de la cultura contemporánea. A través de su archivo personal e inédito, Anna Saura nos ofrece la cosmovisión de su padre como ejemplo de vida y pasión por la creatividad sin límites.",
+    "poster_path": "/xuzIqAa7DdmCWUhdnYKmdFZ4AGz.jpg",
+    "poster_local": "imagenes_estrenos/Ese_ni_o_de_la_fotograf_a__Carlos_Saura_xuzIqAa7DdmCWUhdnYKmdFZ4AGz.jpg",
+    "backdrop_path": "/i3sgb4jvdgoHhatRgNDweXQksBU.jpg",
+    "backdrop_local": "imagenes_estrenos/Ese_ni_o_de_la_fotograf_a__Carlos_Saura_backdrop_i3sgb4jvdgoHhatRgNDweXQksBU.jpg",
+    "fecha_estreno": "2026-09-18T00:00:00.000Z",
+    "duración": "80 min",
+    "director": "Anna Saura Ramón",
+    "directores": [
+      {
+        "name": "Anna Saura Ramón",
+        "id": 3123165
+      }
+    ],
+    "actores": [
+      {
+        "name": "Anna Saura Ramón",
+        "id": 3123165,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Carlos Saura",
+        "id": 96369,
+        "character": "",
+        "profile_path": "/jl9f6AiXClspedvewZ2akbhGoQG.jpg"
+      },
+      {
+        "name": "Eulalia Ramon Estrach",
+        "id": 102550,
+        "character": "",
+        "profile_path": "/erpJMOmTYaVQwfVwZM4yu6RPv9g.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 0.8238,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.782,
+          "height": 864,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/i3sgb4jvdgoHhatRgNDweXQksBU.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1540
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xuzIqAa7DdmCWUhdnYKmdFZ4AGz.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2026-08-29 22:03:16"
   },
   {
     "id": 1735913,
@@ -4465,7 +4518,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:50"
+    "última_actualización": "2026-08-29 22:03:13"
   },
   {
     "id": 1753626,
@@ -4553,7 +4606,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:51"
+    "última_actualización": "2026-08-29 22:03:13"
   },
   {
     "id": 1740257,
@@ -4652,6 +4705,6 @@
         }
       ]
     },
-    "última_actualización": "2026-08-29 10:03:54"
+    "última_actualización": "2026-08-29 22:03:15"
   }
 ]
