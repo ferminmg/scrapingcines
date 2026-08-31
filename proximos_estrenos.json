@@ -174,7 +174,7 @@
       }
     ],
     "popularidad": 29.6112,
-    "puntuación": 6.2,
+    "puntuación": 6.167,
     "votos": 75,
     "adulto": false,
     "video": false,
@@ -225,7 +225,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:54"
+    "última_actualización": "2026-08-31 22:03:09"
   },
   {
     "id": 1477712,
@@ -380,7 +380,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:55"
+    "última_actualización": "2026-08-31 22:03:09"
   },
   {
     "id": 1061798,
@@ -549,7 +549,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:55"
+    "última_actualización": "2026-08-31 22:03:10"
   },
   {
     "id": 1549315,
@@ -619,10 +619,72 @@
     "video": false,
     "año": "2026",
     "imágenes": {
-      "backdrops": [],
-      "posters": []
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vLdqmucUqbolrjQbwncr4Po25Eq.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jt0LlVnEtXZFYfNeaLMuYDdYyrY.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/yd8PMpdYAqbmNZaalQlcWPVmGiz.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/aM9md77TtjPKlbraj9h48jmeOHo.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xcrYmxeuMUYgdopz8SUfVTzcbNr.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 2046,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/wDidLFHwIHK6LHcrzVH22lyHRzk.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1364
+        }
+      ]
     },
-    "última_actualización": "2026-08-31 10:03:57"
+    "última_actualización": "2026-08-31 22:03:10"
   },
   {
     "id": 1368519,
@@ -753,7 +815,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:57"
+    "última_actualización": "2026-08-31 22:03:11"
   },
   {
     "id": 1740328,
@@ -837,7 +899,106 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:58"
+    "última_actualización": "2026-08-31 22:03:12"
+  },
+  {
+    "id": 1212310,
+    "tmdb_id": 1212310,
+    "título": "La conspiración del cuervo",
+    "título_original": "Zima pod znakiem wrony",
+    "sinopsis": "Varsovia, Polonia, 13 de diciembre de 1981. Se impone la ley marcial y de la noche a la mañana paraliza el país justo cuando la profesora británica de psiquiatría, la Dra. Joan Andrews (Manville), llega a Varsovia como docente invitada de la universidad. Los taxis han sido reemplazados por tanques; los ciudadanos son tratados como criminales. Pero mientras el caos se apodera de la ciudad, Andrews, armada con su cámara, presencia un brutal asesinato a manos de la policía secreta.",
+    "poster_path": "/tMK1XocgTz6heCRUizqBsiqfc53.jpg",
+    "poster_local": "imagenes_estrenos/La_conspiraci_n_del_cuervo_U5vhHOZnpnmiW3rQiyDGBssVqK.jpg",
+    "backdrop_path": "/2V3EgEgyF3cq93Pw63pcUeb0PNT.jpg",
+    "backdrop_local": "imagenes_estrenos/La_conspiraci_n_del_cuervo_backdrop_2V3EgEgyF3cq93Pw63pcUeb0PNT.jpg",
+    "fecha_estreno": "2026-09-04T00:00:00.000Z",
+    "duración": "112 min",
+    "director": "Kasia Adamik",
+    "directores": [
+      {
+        "name": "Kasia Adamik",
+        "id": 293579
+      }
+    ],
+    "actores": [
+      {
+        "name": "Lesley Manville",
+        "id": 72305,
+        "character": "Joan Andrews",
+        "profile_path": "/tioPlSoypjdME3oMu3g7XmgIIKS.jpg"
+      },
+      {
+        "name": "Zofia Wichłacz",
+        "id": 1366025,
+        "character": "Alina Wachowiak",
+        "profile_path": "/lQiwvVcQ8fiv3CBZHL0x6tcmoLr.jpg"
+      },
+      {
+        "name": "Andrzej Konopka",
+        "id": 136650,
+        "character": "Henryk",
+        "profile_path": "/3QoIbqsBXj9Si1kuGOl0YCxM52v.jpg"
+      },
+      {
+        "name": "Sascha Ley",
+        "id": 1663296,
+        "character": "Beata",
+        "profile_path": "/wA2YZ4BhFD8AsdMv6xJS0bHsXLo.jpg"
+      },
+      {
+        "name": "Tom Burke",
+        "id": 52891,
+        "character": "Ambassador",
+        "profile_path": "/4IHlAZ9bJ82VAd6HUOWFgo81SDq.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "popularidad": 1.4813,
+    "puntuación": 6.0,
+    "votos": 2,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/2V3EgEgyF3cq93Pw63pcUeb0PNT.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.693,
+          "height": 1200,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/tMK1XocgTz6heCRUizqBsiqfc53.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 832
+        }
+      ]
+    },
+    "última_actualización": "2026-08-31 22:03:12"
   },
   {
     "id": 1275086,
@@ -917,7 +1078,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-08-31 10:03:59"
+    "última_actualización": "2026-08-31 22:03:12"
   },
   {
     "id": 1228569,
@@ -1032,7 +1193,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:59"
+    "última_actualización": "2026-08-31 22:03:12"
   },
   {
     "id": 674668,
@@ -1173,106 +1334,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:04:00"
-  },
-  {
-    "id": 1212310,
-    "tmdb_id": 1212310,
-    "título": "La conspiración del cuervo",
-    "título_original": "Zima pod znakiem wrony",
-    "sinopsis": "Varsovia, Polonia, 13 de diciembre de 1981. Se impone la ley marcial y de la noche a la mañana paraliza el país justo cuando la profesora británica de psiquiatría, la Dra. Joan Andrews (Manville), llega a Varsovia como docente invitada de la universidad. Los taxis han sido reemplazados por tanques; los ciudadanos son tratados como criminales. Pero mientras el caos se apodera de la ciudad, Andrews, armada con su cámara, presencia un brutal asesinato a manos de la policía secreta.",
-    "poster_path": "/tMK1XocgTz6heCRUizqBsiqfc53.jpg",
-    "poster_local": "imagenes_estrenos/La_conspiraci_n_del_cuervo_U5vhHOZnpnmiW3rQiyDGBssVqK.jpg",
-    "backdrop_path": "/2V3EgEgyF3cq93Pw63pcUeb0PNT.jpg",
-    "backdrop_local": "imagenes_estrenos/La_conspiraci_n_del_cuervo_backdrop_2V3EgEgyF3cq93Pw63pcUeb0PNT.jpg",
-    "fecha_estreno": "2026-09-04T00:00:00.000Z",
-    "duración": "112 min",
-    "director": "Kasia Adamik",
-    "directores": [
-      {
-        "name": "Kasia Adamik",
-        "id": 293579
-      }
-    ],
-    "actores": [
-      {
-        "name": "Lesley Manville",
-        "id": 72305,
-        "character": "Joan Andrews",
-        "profile_path": "/tioPlSoypjdME3oMu3g7XmgIIKS.jpg"
-      },
-      {
-        "name": "Zofia Wichłacz",
-        "id": 1366025,
-        "character": "Alina Wachowiak",
-        "profile_path": "/lQiwvVcQ8fiv3CBZHL0x6tcmoLr.jpg"
-      },
-      {
-        "name": "Andrzej Konopka",
-        "id": 136650,
-        "character": "Henryk",
-        "profile_path": "/3QoIbqsBXj9Si1kuGOl0YCxM52v.jpg"
-      },
-      {
-        "name": "Sascha Ley",
-        "id": 1663296,
-        "character": "Beata",
-        "profile_path": "/wA2YZ4BhFD8AsdMv6xJS0bHsXLo.jpg"
-      },
-      {
-        "name": "Tom Burke",
-        "id": 52891,
-        "character": "Ambassador",
-        "profile_path": "/4IHlAZ9bJ82VAd6HUOWFgo81SDq.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      },
-      {
-        "id": 36,
-        "name": "Historia"
-      }
-    ],
-    "popularidad": 1.5357,
-    "puntuación": 6.0,
-    "votos": 2,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/2V3EgEgyF3cq93Pw63pcUeb0PNT.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.693,
-          "height": 1200,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/tMK1XocgTz6heCRUizqBsiqfc53.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 832
-        }
-      ]
-    },
-    "última_actualización": "2026-08-30 22:03:55"
+    "última_actualización": "2026-08-31 22:03:13"
   },
   {
     "id": 1496859,
@@ -1514,7 +1576,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:54"
+    "última_actualización": "2026-08-31 22:03:09"
   },
   {
     "id": 1339588,
@@ -1679,7 +1741,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:55"
+    "última_actualización": "2026-08-31 22:03:09"
   },
   {
     "id": 1447853,
@@ -1818,7 +1880,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:55"
+    "última_actualización": "2026-08-31 22:03:10"
   },
   {
     "id": 1690901,
@@ -1892,10 +1954,32 @@
     "video": false,
     "año": "2026",
     "imágenes": {
-      "backdrops": [],
-      "posters": []
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/923O1SlY7RFYmOgt3zcM7utv0pp.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.699,
+          "height": 1200,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/ip3VExjF1sJoejq4juAZmutO6E5.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 839
+        }
+      ]
     },
-    "última_actualización": "2026-08-31 10:03:56"
+    "última_actualización": "2026-08-31 22:03:10"
   },
   {
     "id": 1274757,
@@ -1986,108 +2070,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:57"
-  },
-  {
-    "id": 1364168,
-    "tmdb_id": 1364168,
-    "título": "El ritual de Lily",
-    "título_original": "El ritual de Lily",
-    "sinopsis": "Cuatro amigas se reúnen en una cabaña aislada para un ritual de brujas, pero Lily descubre que será sacrificada al demonio Lilith.",
-    "poster_path": "/ryRhUfyF9j4Ty01gnZyZkJCshTs.jpg",
-    "poster_local": "imagenes_estrenos/El_ritual_de_Lily_ryRhUfyF9j4Ty01gnZyZkJCshTs.jpg",
-    "backdrop_path": "/fZET7t09TAgxFw80tYzqBsjtjb6.jpg",
-    "backdrop_local": "imagenes_estrenos/El_ritual_de_Lily_backdrop_fZET7t09TAgxFw80tYzqBsjtjb6.jpg",
-    "fecha_estreno": "2026-09-11T00:00:00.000Z",
-    "duración": "105 min",
-    "director": "Manu Herrera",
-    "directores": [
-      {
-        "name": "Manu Herrera",
-        "id": 2774034
-      }
-    ],
-    "actores": [
-      {
-        "name": "Maggie García",
-        "id": 3053482,
-        "character": "Lily",
-        "profile_path": "/rDHTtPSI80kKpjGjFbOFv8UbL9M.jpg"
-      },
-      {
-        "name": "Patricia Peñalver",
-        "id": 2510657,
-        "character": "Lola",
-        "profile_path": "/txdyKJnQD3sia5iJ4Q4ruFXhnco.jpg"
-      },
-      {
-        "name": "Eve Ryan",
-        "id": 3578019,
-        "character": "Laura",
-        "profile_path": "/lqNMF1KmRt2R76GBblGH1mxum8P.jpg"
-      },
-      {
-        "name": "Elena Gallardo",
-        "id": 2949789,
-        "character": "Leo",
-        "profile_path": "/95ligT9ib4ozgYZCGSttxFU5sTn.jpg"
-      },
-      {
-        "name": "Mike Fajardo",
-        "id": 4377946,
-        "character": "Adam",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      }
-    ],
-    "popularidad": 1.699,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/fZET7t09TAgxFw80tYzqBsjtjb6.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1824,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ryRhUfyF9j4Ty01gnZyZkJCshTs.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1216
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1824,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6M6PL4bEvGutEmIrIye9wH9BN6O.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1216
-        }
-      ]
-    },
-    "última_actualización": "2026-08-31 10:03:57"
+    "última_actualización": "2026-08-31 22:03:11"
   },
   {
     "id": 1744439,
@@ -2167,7 +2150,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:58"
+    "última_actualización": "2026-08-31 22:03:11"
   },
   {
     "id": 1536053,
@@ -2334,7 +2317,108 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:58"
+    "última_actualización": "2026-08-31 22:03:11"
+  },
+  {
+    "id": 1364168,
+    "tmdb_id": 1364168,
+    "título": "El ritual de Lily",
+    "título_original": "El ritual de Lily",
+    "sinopsis": "Cuatro amigas se reúnen en una cabaña aislada para un ritual de brujas, pero Lily descubre que será sacrificada al demonio Lilith.",
+    "poster_path": "/ryRhUfyF9j4Ty01gnZyZkJCshTs.jpg",
+    "poster_local": "imagenes_estrenos/El_ritual_de_Lily_ryRhUfyF9j4Ty01gnZyZkJCshTs.jpg",
+    "backdrop_path": "/fZET7t09TAgxFw80tYzqBsjtjb6.jpg",
+    "backdrop_local": "imagenes_estrenos/El_ritual_de_Lily_backdrop_fZET7t09TAgxFw80tYzqBsjtjb6.jpg",
+    "fecha_estreno": "2026-09-11T00:00:00.000Z",
+    "duración": "105 min",
+    "director": "Manu Herrera",
+    "directores": [
+      {
+        "name": "Manu Herrera",
+        "id": 2774034
+      }
+    ],
+    "actores": [
+      {
+        "name": "Maggie García",
+        "id": 3053482,
+        "character": "Lily",
+        "profile_path": "/rDHTtPSI80kKpjGjFbOFv8UbL9M.jpg"
+      },
+      {
+        "name": "Patricia Peñalver",
+        "id": 2510657,
+        "character": "Lola",
+        "profile_path": "/txdyKJnQD3sia5iJ4Q4ruFXhnco.jpg"
+      },
+      {
+        "name": "Eve Ryan",
+        "id": 3578019,
+        "character": "Laura",
+        "profile_path": "/lqNMF1KmRt2R76GBblGH1mxum8P.jpg"
+      },
+      {
+        "name": "Elena Gallardo",
+        "id": 2949789,
+        "character": "Leo",
+        "profile_path": "/95ligT9ib4ozgYZCGSttxFU5sTn.jpg"
+      },
+      {
+        "name": "Mike Fajardo",
+        "id": 4377946,
+        "character": "Adam",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 1.699,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/fZET7t09TAgxFw80tYzqBsjtjb6.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1824,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ryRhUfyF9j4Ty01gnZyZkJCshTs.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1216
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1824,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6M6PL4bEvGutEmIrIye9wH9BN6O.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1216
+        }
+      ]
+    },
+    "última_actualización": "2026-08-31 22:03:11"
   },
   {
     "id": 1421148,
@@ -2458,7 +2542,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-08-31 10:03:58"
+    "última_actualización": "2026-08-31 22:03:12"
   },
   {
     "id": 1455084,
@@ -2561,7 +2645,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:59"
+    "última_actualización": "2026-08-31 22:03:12"
   },
   {
     "id": 1745792,
@@ -2645,7 +2729,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:59"
+    "última_actualización": "2026-08-31 22:03:12"
   },
   {
     "id": 1732875,
@@ -2713,7 +2797,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:04:00"
+    "última_actualización": "2026-08-31 22:03:13"
   },
   {
     "id": 1758305,
@@ -2775,7 +2859,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-08-31 10:04:00"
+    "última_actualización": "2026-08-31 22:03:13"
   },
   {
     "id": 1517127,
@@ -2880,7 +2964,102 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:56"
+    "última_actualización": "2026-08-31 22:03:10"
+  },
+  {
+    "id": 1739482,
+    "tmdb_id": 1739482,
+    "título": "Homeward",
+    "título_original": "Homeward",
+    "sinopsis": "",
+    "poster_path": "/za5G1huMjbmAdZiQFuChE7amW4f.jpg",
+    "poster_local": "imagenes_estrenos/Homeward_za5G1huMjbmAdZiQFuChE7amW4f.jpg",
+    "backdrop_path": "/qq8Rw2vfRw5235CAqloYEfcGtbu.jpg",
+    "backdrop_local": "imagenes_estrenos/Homeward_backdrop_qq8Rw2vfRw5235CAqloYEfcGtbu.jpg",
+    "fecha_estreno": "2026-09-15",
+    "duración": "15 min",
+    "director": "Favio Redondo, Manuel de Sobrón, Manex Buitrago, Yago Romero Riera, Dácil Pérez",
+    "directores": [
+      {
+        "name": "Favio Redondo",
+        "id": 3346090
+      },
+      {
+        "name": "Manuel de Sobrón",
+        "id": 4814600
+      },
+      {
+        "name": "Manex Buitrago",
+        "id": 4814584
+      },
+      {
+        "name": "Yago Romero Riera",
+        "id": 5508928
+      },
+      {
+        "name": "Dácil Pérez",
+        "id": 5473580
+      }
+    ],
+    "actores": [
+      {
+        "name": "Lucas Lagrange",
+        "id": 4802041,
+        "character": "Voice",
+        "profile_path": null
+      },
+      {
+        "name": "Trent Cohn",
+        "id": 4395034,
+        "character": "Voice",
+        "profile_path": null
+      },
+      {
+        "name": "Harold Ricowski",
+        "id": 6375751,
+        "character": "Voice",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 1.8593,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/qq8Rw2vfRw5235CAqloYEfcGtbu.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/za5G1huMjbmAdZiQFuChE7amW4f.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-08-31 22:03:11"
   },
   {
     "id": 1204680,
@@ -2948,8 +3127,8 @@
       }
     ],
     "popularidad": 122.8797,
-    "puntuación": 7.923,
-    "votos": 52,
+    "puntuación": 7.9,
+    "votos": 53,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2963,6 +3142,16 @@
           "file_path": "/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
           "vote_average": 4.3,
           "vote_count": 10,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/4TWcVAtljd30qtaUV6DdeqIa1hW.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
           "width": 3840
         },
         {
@@ -2994,16 +3183,6 @@
           "vote_average": 2.278,
           "vote_count": 3,
           "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/AbQYEHieBJsMheLFKM02rFu0xnc.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 1920
         }
       ],
       "posters": [
@@ -3059,7 +3238,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:54"
+    "última_actualización": "2026-08-31 22:03:09"
   },
   {
     "id": 1122573,
@@ -3124,7 +3303,7 @@
     ],
     "popularidad": 44.7204,
     "puntuación": 7.591,
-    "votos": 842,
+    "votos": 844,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3234,7 +3413,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:54"
+    "última_actualización": "2026-08-31 22:03:09"
   },
   {
     "id": 1318413,
@@ -3302,7 +3481,7 @@
       }
     ],
     "popularidad": 19.1194,
-    "puntuación": 7.785,
+    "puntuación": 7.8,
     "votos": 332,
     "adulto": false,
     "video": false,
@@ -3393,7 +3572,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:54"
+    "última_actualización": "2026-08-31 22:03:09"
   },
   {
     "id": 1423191,
@@ -3538,7 +3717,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:55"
+    "última_actualización": "2026-08-31 22:03:09"
   },
   {
     "id": 1228834,
@@ -3633,118 +3812,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:56"
-  },
-  {
-    "id": 1649218,
-    "tmdb_id": 1649218,
-    "título": "Femenino, Singular",
-    "título_original": "Femení, singular",
-    "sinopsis": "Nayeli, una joven mexicana que trabaja como empleada doméstica en Barcelona, se enfrenta a un sinfín de adversidades cuando su vida da un vuelco inesperado. Mientras lucha por recuperar el control de su vida, su determinación la enfrentará a una sociedad que la juzga y limita. En su camino, encontrará la fuerza para transformarse.",
-    "poster_path": "/zO7TARKrMhaxhJ6KcwZYPvu2UGv.jpg",
-    "poster_local": "imagenes_estrenos/Femenino__Singular_zO7TARKrMhaxhJ6KcwZYPvu2UGv.jpg",
-    "backdrop_path": "/j85NlEId8EqescNkVvMA8t67ajj.jpg",
-    "backdrop_local": "imagenes_estrenos/Femenino__Singular_backdrop_j85NlEId8EqescNkVvMA8t67ajj.jpg",
-    "fecha_estreno": "2026-09-18T00:00:00.000Z",
-    "duración": "91 min",
-    "director": "Xavi Puebla",
-    "directores": [
-      {
-        "name": "Xavi Puebla",
-        "id": 991950
-      }
-    ],
-    "actores": [
-      {
-        "name": "Vico Escorcia",
-        "id": 1383932,
-        "character": "Nayeli",
-        "profile_path": "/tdzmSPh2MmS0nT9AbgQTlkKHvpN.jpg"
-      },
-      {
-        "name": "Nora Navas",
-        "id": 226431,
-        "character": "Andrea",
-        "profile_path": "/kTvfxyKoWUoxgsTSIRHs8dgdD3A.jpg"
-      },
-      {
-        "name": "Kasia Kapcia",
-        "id": 4027832,
-        "character": "Ilona",
-        "profile_path": "/zIGZRe2uUSuwnl2X6HNX0XdR8LY.jpg"
-      },
-      {
-        "name": "Sergio Caballero",
-        "id": 234958,
-        "character": "",
-        "profile_path": "/qT6efqyEcVnO9hNA1iLOIYcUViX.jpg"
-      },
-      {
-        "name": "Miquel Robusté",
-        "id": 6060203,
-        "character": "Diego",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 3.3071,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.782,
-          "height": 864,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/j85NlEId8EqescNkVvMA8t67ajj.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
-        },
-        {
-          "aspect_ratio": 1.782,
-          "height": 864,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/txe635GaIoMujEFkqDgtiCsse05.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
-        },
-        {
-          "aspect_ratio": 1.782,
-          "height": 864,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/1vcHLI81Luzv73XttrYSIwu4gTc.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.7,
-          "height": 1200,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/zO7TARKrMhaxhJ6KcwZYPvu2UGv.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 840
-        }
-      ]
-    },
-    "última_actualización": "2026-08-31 10:03:56"
+    "última_actualización": "2026-08-31 22:03:10"
   },
   {
     "id": 1291829,
@@ -3875,7 +3943,118 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:56"
+    "última_actualización": "2026-08-31 22:03:10"
+  },
+  {
+    "id": 1649218,
+    "tmdb_id": 1649218,
+    "título": "Femenino, Singular",
+    "título_original": "Femení, singular",
+    "sinopsis": "Nayeli, una joven mexicana que trabaja como empleada doméstica en Barcelona, se enfrenta a un sinfín de adversidades cuando su vida da un vuelco inesperado. Mientras lucha por recuperar el control de su vida, su determinación la enfrentará a una sociedad que la juzga y limita. En su camino, encontrará la fuerza para transformarse.",
+    "poster_path": "/zO7TARKrMhaxhJ6KcwZYPvu2UGv.jpg",
+    "poster_local": "imagenes_estrenos/Femenino__Singular_zO7TARKrMhaxhJ6KcwZYPvu2UGv.jpg",
+    "backdrop_path": "/j85NlEId8EqescNkVvMA8t67ajj.jpg",
+    "backdrop_local": "imagenes_estrenos/Femenino__Singular_backdrop_j85NlEId8EqescNkVvMA8t67ajj.jpg",
+    "fecha_estreno": "2026-09-18T00:00:00.000Z",
+    "duración": "91 min",
+    "director": "Xavi Puebla",
+    "directores": [
+      {
+        "name": "Xavi Puebla",
+        "id": 991950
+      }
+    ],
+    "actores": [
+      {
+        "name": "Vico Escorcia",
+        "id": 1383932,
+        "character": "Nayeli",
+        "profile_path": "/tdzmSPh2MmS0nT9AbgQTlkKHvpN.jpg"
+      },
+      {
+        "name": "Nora Navas",
+        "id": 226431,
+        "character": "Andrea",
+        "profile_path": "/kTvfxyKoWUoxgsTSIRHs8dgdD3A.jpg"
+      },
+      {
+        "name": "Kasia Kapcia",
+        "id": 4027832,
+        "character": "Ilona",
+        "profile_path": "/zIGZRe2uUSuwnl2X6HNX0XdR8LY.jpg"
+      },
+      {
+        "name": "Sergio Caballero",
+        "id": 234958,
+        "character": "",
+        "profile_path": "/qT6efqyEcVnO9hNA1iLOIYcUViX.jpg"
+      },
+      {
+        "name": "Miquel Robusté",
+        "id": 6060203,
+        "character": "Diego",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 3.3071,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.782,
+          "height": 864,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/j85NlEId8EqescNkVvMA8t67ajj.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1540
+        },
+        {
+          "aspect_ratio": 1.782,
+          "height": 864,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/txe635GaIoMujEFkqDgtiCsse05.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1540
+        },
+        {
+          "aspect_ratio": 1.782,
+          "height": 864,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/1vcHLI81Luzv73XttrYSIwu4gTc.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1540
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 1200,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/zO7TARKrMhaxhJ6KcwZYPvu2UGv.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 840
+        }
+      ]
+    },
+    "última_actualización": "2026-08-31 22:03:10"
   },
   {
     "id": 1721500,
@@ -3970,90 +4149,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:59"
-  },
-  {
-    "id": 1650219,
-    "tmdb_id": 1650219,
-    "título": "Ese niño de la fotografía. Carlos Saura",
-    "título_original": "Ese niño de la fotografía. Carlos Saura",
-    "sinopsis": "Carlos Saura falleció en febrero del 2023 a los 91 años dejando más de 50 películas que han sido premiadas en los festivales más prestigiosos del mundo, miles de fotografías, dibujos, obras de teatro, novelas y un largo etcétera. Sin embargo, poca gente conoce cómo vivió sus últimos años culminando una de las carreras más prolíficas de la historia del cine y de la cultura contemporánea. A través de su archivo personal e inédito, Anna Saura nos ofrece la cosmovisión de su padre como ejemplo de vida y pasión por la creatividad sin límites.",
-    "poster_path": "/xuzIqAa7DdmCWUhdnYKmdFZ4AGz.jpg",
-    "poster_local": "imagenes_estrenos/Ese_ni_o_de_la_fotograf_a__Carlos_Saura_xuzIqAa7DdmCWUhdnYKmdFZ4AGz.jpg",
-    "backdrop_path": "/i3sgb4jvdgoHhatRgNDweXQksBU.jpg",
-    "backdrop_local": "imagenes_estrenos/Ese_ni_o_de_la_fotograf_a__Carlos_Saura_backdrop_i3sgb4jvdgoHhatRgNDweXQksBU.jpg",
-    "fecha_estreno": "2026-09-18T00:00:00.000Z",
-    "duración": "80 min",
-    "director": "Anna Saura Ramón",
-    "directores": [
-      {
-        "name": "Anna Saura Ramón",
-        "id": 3123165
-      }
-    ],
-    "actores": [
-      {
-        "name": "Anna Saura Ramón",
-        "id": 3123165,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Carlos Saura",
-        "id": 96369,
-        "character": "",
-        "profile_path": "/jl9f6AiXClspedvewZ2akbhGoQG.jpg"
-      },
-      {
-        "name": "Eulalia Ramon Estrach",
-        "id": 102550,
-        "character": "",
-        "profile_path": "/erpJMOmTYaVQwfVwZM4yu6RPv9g.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 0.8089,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.782,
-          "height": 864,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/i3sgb4jvdgoHhatRgNDweXQksBU.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1540
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xuzIqAa7DdmCWUhdnYKmdFZ4AGz.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2026-08-31 10:04:00"
+    "última_actualización": "2026-08-31 22:03:13"
   },
   {
     "id": 1001072,
@@ -4194,7 +4290,90 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:04:00"
+    "última_actualización": "2026-08-31 22:03:13"
+  },
+  {
+    "id": 1650219,
+    "tmdb_id": 1650219,
+    "título": "Ese niño de la fotografía. Carlos Saura",
+    "título_original": "Ese niño de la fotografía. Carlos Saura",
+    "sinopsis": "Carlos Saura falleció en febrero del 2023 a los 91 años dejando más de 50 películas que han sido premiadas en los festivales más prestigiosos del mundo, miles de fotografías, dibujos, obras de teatro, novelas y un largo etcétera. Sin embargo, poca gente conoce cómo vivió sus últimos años culminando una de las carreras más prolíficas de la historia del cine y de la cultura contemporánea. A través de su archivo personal e inédito, Anna Saura nos ofrece la cosmovisión de su padre como ejemplo de vida y pasión por la creatividad sin límites.",
+    "poster_path": "/xuzIqAa7DdmCWUhdnYKmdFZ4AGz.jpg",
+    "poster_local": "imagenes_estrenos/Ese_ni_o_de_la_fotograf_a__Carlos_Saura_xuzIqAa7DdmCWUhdnYKmdFZ4AGz.jpg",
+    "backdrop_path": "/i3sgb4jvdgoHhatRgNDweXQksBU.jpg",
+    "backdrop_local": "imagenes_estrenos/Ese_ni_o_de_la_fotograf_a__Carlos_Saura_backdrop_i3sgb4jvdgoHhatRgNDweXQksBU.jpg",
+    "fecha_estreno": "2026-09-18T00:00:00.000Z",
+    "duración": "80 min",
+    "director": "Anna Saura Ramón",
+    "directores": [
+      {
+        "name": "Anna Saura Ramón",
+        "id": 3123165
+      }
+    ],
+    "actores": [
+      {
+        "name": "Anna Saura Ramón",
+        "id": 3123165,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Carlos Saura",
+        "id": 96369,
+        "character": "",
+        "profile_path": "/jl9f6AiXClspedvewZ2akbhGoQG.jpg"
+      },
+      {
+        "name": "Eulalia Ramon Estrach",
+        "id": 102550,
+        "character": "",
+        "profile_path": "/erpJMOmTYaVQwfVwZM4yu6RPv9g.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 0.8089,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.782,
+          "height": 864,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/i3sgb4jvdgoHhatRgNDweXQksBU.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1540
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xuzIqAa7DdmCWUhdnYKmdFZ4AGz.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2026-08-31 22:03:13"
   },
   {
     "id": 1735913,
@@ -4359,7 +4538,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:57"
+    "última_actualización": "2026-08-31 22:03:11"
   },
   {
     "id": 1753626,
@@ -4447,7 +4626,7 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:56"
+    "última_actualización": "2026-08-31 22:03:10"
   },
   {
     "id": 1740257,
@@ -4546,6 +4725,6 @@
         }
       ]
     },
-    "última_actualización": "2026-08-31 10:03:58"
+    "última_actualización": "2026-08-31 22:03:12"
   }
 ]
