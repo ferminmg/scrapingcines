@@ -1,0 +1,31 @@
+2026-09-01 08:15:51,459 - INFO - Iniciando proceso de scraping
+2026-09-01 08:15:51,462 - INFO - Posts existentes encontrados: 2592
+2026-09-01 08:15:51,462 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-09-01 08:15:53,550 - INFO - Se encontraron 10 posts
+2026-09-01 08:15:53,551 - INFO - Comenzando extracción de información del post
+2026-09-01 08:15:53,551 - INFO - Post ya existente, saltando: EL FINAL DE OAK STREET de David Robert Mitchell
+2026-09-01 08:15:53,551 - INFO - Comenzando extracción de información del post
+2026-09-01 08:15:53,552 - INFO - Título del post: ESTE / OESTE de Natja Brunckhorst
+2026-09-01 08:15:53,552 - INFO - Fecha del post: 2026-08-21T19:35:00+02:00
+2026-09-01 08:15:53,552 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/este-oeste-natja-brunckhorst/
+2026-09-01 08:15:55,765 - INFO - Contenido extraído y estructurado (2478 caracteres)
+2026-09-01 08:15:55,766 - INFO - Guardando post en: posts/ESTE_/_OESTE_2026-08-21.json
+2026-09-01 08:15:55,766 - ERROR - Error guardando post: [Errno 2] No such file or directory: 'posts/ESTE_/_OESTE_2026-08-21.json'
+2026-09-01 08:15:55,766 - INFO - Nuevo post guardado: ESTE / OESTE de Natja Brunckhorst
+2026-09-01 08:15:55,766 - INFO - Comenzando extracción de información del post
+2026-09-01 08:15:55,766 - INFO - Post ya existente, saltando: SIRI HUSTVEDT, LA DANZA DEL YO de Sabine Lidl
+2026-09-01 08:15:55,766 - INFO - Comenzando extracción de información del post
+2026-09-01 08:15:55,766 - INFO - Post ya existente, saltando: VIVIR LA TIERRA de Huo Meng
+2026-09-01 08:15:55,766 - INFO - Comenzando extracción de información del post
+2026-09-01 08:15:55,767 - INFO - Post ya existente, saltando: PALESTINA 36 de Annemarie Jacir
+2026-09-01 08:15:55,767 - INFO - Comenzando extracción de información del post
+2026-09-01 08:15:55,767 - INFO - Post ya existente, saltando: EL AMOR QUE PERMANECE de Hlynur Pálmason
+2026-09-01 08:15:55,767 - INFO - Comenzando extracción de información del post
+2026-09-01 08:15:55,767 - INFO - Post ya existente, saltando: MOTHER MARY de David Lowery
+2026-09-01 08:15:55,767 - INFO - Comenzando extracción de información del post
+2026-09-01 08:15:55,767 - INFO - Post ya existente, saltando: SPIDER-MAN. BRAND NEW DAY de Destin Cretton
+2026-09-01 08:15:55,767 - INFO - Comenzando extracción de información del post
+2026-09-01 08:15:55,767 - INFO - Post ya existente, saltando: UN SECUESTRO FAMILIAR de Gábor Holtai
+2026-09-01 08:15:55,767 - INFO - Comenzando extracción de información del post
+2026-09-01 08:15:55,767 - INFO - Post ya existente, saltando: LA ÚLTIMA RONDA EN VENECIA de Francesco Sossai
+2026-09-01 08:15:55,767 - INFO - Proceso completado. Posts nuevos guardados: 1
