@@ -23,7 +23,7 @@
             {
                 "fecha": "2026-09-01",
                 "hora": "22:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102065&eventCode=104970"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -106,6 +106,174 @@
         "cartel": "imagenes_peliculas/tmdb_cronos.jpg",
         "horarios": [
             {
+                "fecha": "2026-09-04",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102130&eventCode=105007"
+            },
+            {
+                "fecha": "2026-09-04",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102131&eventCode=105007"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Fernando González Molina",
+        "duración": "0 min",
+        "actores": "Enric Auquer, Diana Gómez, Mónica López, Pablo Derqui, Eduard Fernández",
+        "sinopsis": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
+        "año": "2026"
+    },
+    {
+        "título": "La constelación del perro",
+        "cartel": "imagenes_peliculas/tmdb_la_constelacion_del_perro.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-04",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102126&eventCode=104650"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Ridley Scott",
+        "duración": "119 min",
+        "actores": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce, Allison Janney",
+        "sinopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+        "año": "2026"
+    },
+    {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-04",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102128&eventCode=104970"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "año": "2026"
+    },
+    {
+        "título": "Cronos",
+        "cartel": "imagenes_peliculas/tmdb_cronos.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-05",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102148&eventCode=105007"
+            },
+            {
+                "fecha": "2026-09-05",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102149&eventCode=105007"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Fernando González Molina",
+        "duración": "0 min",
+        "actores": "Enric Auquer, Diana Gómez, Mónica López, Pablo Derqui, Eduard Fernández",
+        "sinopsis": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
+        "año": "2026"
+    },
+    {
+        "título": "La constelación del perro",
+        "cartel": "imagenes_peliculas/tmdb_la_constelacion_del_perro.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-05",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102143&eventCode=104650"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Ridley Scott",
+        "duración": "119 min",
+        "actores": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce, Allison Janney",
+        "sinopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+        "año": "2026"
+    },
+    {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-05",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102146&eventCode=104970"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "año": "2026"
+    },
+    {
+        "título": "Cronos",
+        "cartel": "imagenes_peliculas/tmdb_cronos.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-06",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102165&eventCode=105007"
+            },
+            {
+                "fecha": "2026-09-06",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102166&eventCode=105007"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Fernando González Molina",
+        "duración": "0 min",
+        "actores": "Enric Auquer, Diana Gómez, Mónica López, Pablo Derqui, Eduard Fernández",
+        "sinopsis": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
+        "año": "2026"
+    },
+    {
+        "título": "La constelación del perro",
+        "cartel": "imagenes_peliculas/tmdb_la_constelacion_del_perro.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-06",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102160&eventCode=104650"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Ridley Scott",
+        "duración": "119 min",
+        "actores": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce, Allison Janney",
+        "sinopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+        "año": "2026"
+    },
+    {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-06",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102163&eventCode=104970"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "año": "2026"
+    },
+    {
+        "título": "Cronos",
+        "cartel": "imagenes_peliculas/tmdb_cronos.jpg",
+        "horarios": [
+            {
                 "fecha": "2026-09-09",
                 "hora": "19:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102117&eventCode=105007"
@@ -125,12 +293,12 @@
             {
                 "fecha": "2026-09-01",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92257&eventCode=111859"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2026-09-01",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92258&eventCode=111859"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -147,7 +315,7 @@
             {
                 "fecha": "2026-09-01",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92260&eventCode=104957"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -164,7 +332,7 @@
             {
                 "fecha": "2026-09-01",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92255&eventCode=111532"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -181,7 +349,7 @@
             {
                 "fecha": "2026-09-01",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92264&eventCode=113197"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -389,6 +557,45 @@
         "año": "2025"
     },
     {
+        "título": "Cinco Segundos",
+        "cartel": "imagenes_peliculas/tmdb_cinco_segundos.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-04",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92331&eventCode=113316"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Paolo Virzì",
+        "duración": "105 min",
+        "actores": "Valerio Mastandrea, Galatea Bellugi, Valeria Bruni Tedeschi, Ilaria Spada, Anna Ferraioli Ravel",
+        "sinopsis": "Un hombre descubre su villa vecina ocupada por jóvenes estudiantes y graduados que están reviviendo viñedos abandonados. Su presencia le molesta y le hace pensar que los está ahuyentando.",
+        "año": "2025"
+    },
+    {
+        "título": "Jim Queen",
+        "cartel": "imagenes_peliculas/tmdb_jim_queen.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-04",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92396&eventCode=113170"
+            },
+            {
+                "fecha": "2026-09-04",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92397&eventCode=113170"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Nicolas Athané, Marco Nguyen",
+        "duración": "85 min",
+        "actores": "Alex Ramirès, Jéremy Gillet, Shirley Souagnon, François Sagat, Elisabeth Wiener",
+        "sinopsis": "En la escena gay parisina, Jim es el rey de Gym Queens, la comunidad más sexy y codiciada de las redes sociales. Un día, se da cuenta de que ha sido infectado por Heterosis, un extraño virus que diezma la comunidad y convierte a los gays en... ¡heterosexuales! Jim pierde su trono y es abandonado por todo su entorno. Todos menos un seguidor: Lucien, un escuálido joven virgen. Juntos, emprenden un viaje a través del Marais (el pueblo gay parisino), en busca del misterioso doctor Ragoult, que afirma haber encontrado una cura para el virus. Esta cura no sólo podría salvar a Jim, sino también evitar la extinción de la homosexualidad.",
+        "año": "2026"
+    },
+    {
         "título": "Prometido el cielo",
         "cartel": "imagenes_peliculas/tmdb_prometido_el_cielo.jpg",
         "horarios": [
@@ -421,6 +628,45 @@
         "actores": "كريم داود عناية, Hiam Abbass, Robert Aramayo, Billy Howle, Dhafer L'Abidine",
         "sinopsis": "En 1936, los palestinos iniciaron una revuelta liderada por agricultores contra el colonialismo británico que marcó el comienzo del mayor y más largo levantamiento contra los 30 años de dominio británico.",
         "año": "2025"
+    },
+    {
+        "título": "Cinco Segundos",
+        "cartel": "imagenes_peliculas/tmdb_cinco_segundos.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-05",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92345&eventCode=113316"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Paolo Virzì",
+        "duración": "105 min",
+        "actores": "Valerio Mastandrea, Galatea Bellugi, Valeria Bruni Tedeschi, Ilaria Spada, Anna Ferraioli Ravel",
+        "sinopsis": "Un hombre descubre su villa vecina ocupada por jóvenes estudiantes y graduados que están reviviendo viñedos abandonados. Su presencia le molesta y le hace pensar que los está ahuyentando.",
+        "año": "2025"
+    },
+    {
+        "título": "Jim Queen",
+        "cartel": "imagenes_peliculas/tmdb_jim_queen.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-05",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92342&eventCode=113170"
+            },
+            {
+                "fecha": "2026-09-05",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92343&eventCode=113170"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Nicolas Athané, Marco Nguyen",
+        "duración": "85 min",
+        "actores": "Alex Ramirès, Jéremy Gillet, Shirley Souagnon, François Sagat, Elisabeth Wiener",
+        "sinopsis": "En la escena gay parisina, Jim es el rey de Gym Queens, la comunidad más sexy y codiciada de las redes sociales. Un día, se da cuenta de que ha sido infectado por Heterosis, un extraño virus que diezma la comunidad y convierte a los gays en... ¡heterosexuales! Jim pierde su trono y es abandonado por todo su entorno. Todos menos un seguidor: Lucien, un escuálido joven virgen. Juntos, emprenden un viaje a través del Marais (el pueblo gay parisino), en busca del misterioso doctor Ragoult, que afirma haber encontrado una cura para el virus. Esta cura no sólo podría salvar a Jim, sino también evitar la extinción de la homosexualidad.",
+        "año": "2026"
     },
     {
         "título": "Prometido el cielo",
@@ -457,6 +703,45 @@
         "año": "2025"
     },
     {
+        "título": "Cinco Segundos",
+        "cartel": "imagenes_peliculas/tmdb_cinco_segundos.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-06",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92360&eventCode=113316"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Paolo Virzì",
+        "duración": "105 min",
+        "actores": "Valerio Mastandrea, Galatea Bellugi, Valeria Bruni Tedeschi, Ilaria Spada, Anna Ferraioli Ravel",
+        "sinopsis": "Un hombre descubre su villa vecina ocupada por jóvenes estudiantes y graduados que están reviviendo viñedos abandonados. Su presencia le molesta y le hace pensar que los está ahuyentando.",
+        "año": "2025"
+    },
+    {
+        "título": "Jim Queen",
+        "cartel": "imagenes_peliculas/tmdb_jim_queen.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-06",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92357&eventCode=113170"
+            },
+            {
+                "fecha": "2026-09-06",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92358&eventCode=113170"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Nicolas Athané, Marco Nguyen",
+        "duración": "85 min",
+        "actores": "Alex Ramirès, Jéremy Gillet, Shirley Souagnon, François Sagat, Elisabeth Wiener",
+        "sinopsis": "En la escena gay parisina, Jim es el rey de Gym Queens, la comunidad más sexy y codiciada de las redes sociales. Un día, se da cuenta de que ha sido infectado por Heterosis, un extraño virus que diezma la comunidad y convierte a los gays en... ¡heterosexuales! Jim pierde su trono y es abandonado por todo su entorno. Todos menos un seguidor: Lucien, un escuálido joven virgen. Juntos, emprenden un viaje a través del Marais (el pueblo gay parisino), en busca del misterioso doctor Ragoult, que afirma haber encontrado una cura para el virus. Esta cura no sólo podría salvar a Jim, sino también evitar la extinción de la homosexualidad.",
+        "año": "2026"
+    },
+    {
         "título": "Prometido el cielo",
         "cartel": "imagenes_peliculas/tmdb_prometido_el_cielo.jpg",
         "horarios": [
@@ -491,6 +776,45 @@
         "año": "2025"
     },
     {
+        "título": "Cinco Segundos",
+        "cartel": "imagenes_peliculas/tmdb_cinco_segundos.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-07",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92375&eventCode=113316"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Paolo Virzì",
+        "duración": "105 min",
+        "actores": "Valerio Mastandrea, Galatea Bellugi, Valeria Bruni Tedeschi, Ilaria Spada, Anna Ferraioli Ravel",
+        "sinopsis": "Un hombre descubre su villa vecina ocupada por jóvenes estudiantes y graduados que están reviviendo viñedos abandonados. Su presencia le molesta y le hace pensar que los está ahuyentando.",
+        "año": "2025"
+    },
+    {
+        "título": "Jim Queen",
+        "cartel": "imagenes_peliculas/tmdb_jim_queen.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-07",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92372&eventCode=113170"
+            },
+            {
+                "fecha": "2026-09-07",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92373&eventCode=113170"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Nicolas Athané, Marco Nguyen",
+        "duración": "85 min",
+        "actores": "Alex Ramirès, Jéremy Gillet, Shirley Souagnon, François Sagat, Elisabeth Wiener",
+        "sinopsis": "En la escena gay parisina, Jim es el rey de Gym Queens, la comunidad más sexy y codiciada de las redes sociales. Un día, se da cuenta de que ha sido infectado por Heterosis, un extraño virus que diezma la comunidad y convierte a los gays en... ¡heterosexuales! Jim pierde su trono y es abandonado por todo su entorno. Todos menos un seguidor: Lucien, un escuálido joven virgen. Juntos, emprenden un viaje a través del Marais (el pueblo gay parisino), en busca del misterioso doctor Ragoult, que afirma haber encontrado una cura para el virus. Esta cura no sólo podría salvar a Jim, sino también evitar la extinción de la homosexualidad.",
+        "año": "2026"
+    },
+    {
         "título": "Prometido el cielo",
         "cartel": "imagenes_peliculas/tmdb_prometido_el_cielo.jpg",
         "horarios": [
@@ -523,6 +847,45 @@
         "actores": "كريم داود عناية, Hiam Abbass, Robert Aramayo, Billy Howle, Dhafer L'Abidine",
         "sinopsis": "En 1936, los palestinos iniciaron una revuelta liderada por agricultores contra el colonialismo británico que marcó el comienzo del mayor y más largo levantamiento contra los 30 años de dominio británico.",
         "año": "2025"
+    },
+    {
+        "título": "Cinco Segundos",
+        "cartel": "imagenes_peliculas/tmdb_cinco_segundos.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-08",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92409&eventCode=113316"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Paolo Virzì",
+        "duración": "105 min",
+        "actores": "Valerio Mastandrea, Galatea Bellugi, Valeria Bruni Tedeschi, Ilaria Spada, Anna Ferraioli Ravel",
+        "sinopsis": "Un hombre descubre su villa vecina ocupada por jóvenes estudiantes y graduados que están reviviendo viñedos abandonados. Su presencia le molesta y le hace pensar que los está ahuyentando.",
+        "año": "2025"
+    },
+    {
+        "título": "Jim Queen",
+        "cartel": "imagenes_peliculas/tmdb_jim_queen.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-08",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92406&eventCode=113170"
+            },
+            {
+                "fecha": "2026-09-08",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92407&eventCode=113170"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Nicolas Athané, Marco Nguyen",
+        "duración": "85 min",
+        "actores": "Alex Ramirès, Jéremy Gillet, Shirley Souagnon, François Sagat, Elisabeth Wiener",
+        "sinopsis": "En la escena gay parisina, Jim es el rey de Gym Queens, la comunidad más sexy y codiciada de las redes sociales. Un día, se da cuenta de que ha sido infectado por Heterosis, un extraño virus que diezma la comunidad y convierte a los gays en... ¡heterosexuales! Jim pierde su trono y es abandonado por todo su entorno. Todos menos un seguidor: Lucien, un escuálido joven virgen. Juntos, emprenden un viaje a través del Marais (el pueblo gay parisino), en busca del misterioso doctor Ragoult, que afirma haber encontrado una cura para el virus. Esta cura no sólo podría salvar a Jim, sino también evitar la extinción de la homosexualidad.",
+        "año": "2026"
     },
     {
         "título": "Prometido el cielo",
@@ -576,6 +939,45 @@
         "año": null
     },
     {
+        "título": "Cinco Segundos",
+        "cartel": "imagenes_peliculas/tmdb_cinco_segundos.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-09",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92423&eventCode=113316"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Paolo Virzì",
+        "duración": "105 min",
+        "actores": "Valerio Mastandrea, Galatea Bellugi, Valeria Bruni Tedeschi, Ilaria Spada, Anna Ferraioli Ravel",
+        "sinopsis": "Un hombre descubre su villa vecina ocupada por jóvenes estudiantes y graduados que están reviviendo viñedos abandonados. Su presencia le molesta y le hace pensar que los está ahuyentando.",
+        "año": "2025"
+    },
+    {
+        "título": "Jim Queen",
+        "cartel": "imagenes_peliculas/tmdb_jim_queen.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-09",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92419&eventCode=113170"
+            },
+            {
+                "fecha": "2026-09-09",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92420&eventCode=113170"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Nicolas Athané, Marco Nguyen",
+        "duración": "85 min",
+        "actores": "Alex Ramirès, Jéremy Gillet, Shirley Souagnon, François Sagat, Elisabeth Wiener",
+        "sinopsis": "En la escena gay parisina, Jim es el rey de Gym Queens, la comunidad más sexy y codiciada de las redes sociales. Un día, se da cuenta de que ha sido infectado por Heterosis, un extraño virus que diezma la comunidad y convierte a los gays en... ¡heterosexuales! Jim pierde su trono y es abandonado por todo su entorno. Todos menos un seguidor: Lucien, un escuálido joven virgen. Juntos, emprenden un viaje a través del Marais (el pueblo gay parisino), en busca del misterioso doctor Ragoult, que afirma haber encontrado una cura para el virus. Esta cura no sólo podría salvar a Jim, sino también evitar la extinción de la homosexualidad.",
+        "año": "2026"
+    },
+    {
         "título": "Prometido el cielo",
         "cartel": "imagenes_peliculas/tmdb_prometido_el_cielo.jpg",
         "horarios": [
@@ -608,6 +1010,45 @@
         "actores": "كريم داود عناية, Hiam Abbass, Robert Aramayo, Billy Howle, Dhafer L'Abidine",
         "sinopsis": "En 1936, los palestinos iniciaron una revuelta liderada por agricultores contra el colonialismo británico que marcó el comienzo del mayor y más largo levantamiento contra los 30 años de dominio británico.",
         "año": "2025"
+    },
+    {
+        "título": "Cinco Segundos",
+        "cartel": "imagenes_peliculas/tmdb_cinco_segundos.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-10",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92390&eventCode=113316"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Paolo Virzì",
+        "duración": "105 min",
+        "actores": "Valerio Mastandrea, Galatea Bellugi, Valeria Bruni Tedeschi, Ilaria Spada, Anna Ferraioli Ravel",
+        "sinopsis": "Un hombre descubre su villa vecina ocupada por jóvenes estudiantes y graduados que están reviviendo viñedos abandonados. Su presencia le molesta y le hace pensar que los está ahuyentando.",
+        "año": "2025"
+    },
+    {
+        "título": "Jim Queen",
+        "cartel": "imagenes_peliculas/tmdb_jim_queen.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-10",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92387&eventCode=113170"
+            },
+            {
+                "fecha": "2026-09-10",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92388&eventCode=113170"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Nicolas Athané, Marco Nguyen",
+        "duración": "85 min",
+        "actores": "Alex Ramirès, Jéremy Gillet, Shirley Souagnon, François Sagat, Elisabeth Wiener",
+        "sinopsis": "En la escena gay parisina, Jim es el rey de Gym Queens, la comunidad más sexy y codiciada de las redes sociales. Un día, se da cuenta de que ha sido infectado por Heterosis, un extraño virus que diezma la comunidad y convierte a los gays en... ¡heterosexuales! Jim pierde su trono y es abandonado por todo su entorno. Todos menos un seguidor: Lucien, un escuálido joven virgen. Juntos, emprenden un viaje a través del Marais (el pueblo gay parisino), en busca del misterioso doctor Ragoult, que afirma haber encontrado una cura para el virus. Esta cura no sólo podría salvar a Jim, sino también evitar la extinción de la homosexualidad.",
+        "año": "2026"
     },
     {
         "título": "Prometido el cielo",
