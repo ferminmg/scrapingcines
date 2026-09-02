@@ -1,0 +1,61 @@
+2026-09-02 16:13:14,409 - INFO - Iniciando proceso de scraping
+2026-09-02 16:13:14,411 - INFO - Posts existentes encontrados: 2592
+2026-09-02 16:13:14,411 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-09-02 16:13:16,691 - INFO - Se encontraron 10 posts
+2026-09-02 16:13:16,692 - INFO - Comenzando extracción de información del post
+2026-09-02 16:13:16,693 - INFO - Título del post: EL SER QUERIDO de Rodrigo Sorogoyen
+2026-09-02 16:13:16,693 - INFO - Fecha del post: 2026-09-02T17:16:59+02:00
+2026-09-02 16:13:16,693 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/el-ser-querido-sorogoyen-bardem-victoria-luengo/
+2026-09-02 16:13:19,445 - INFO - Contenido extraído y estructurado (4629 caracteres)
+2026-09-02 16:13:19,446 - INFO - Guardando post en: posts/EL_SER_QUERIDO_2026-09-02.json
+2026-09-02 16:13:19,446 - INFO - Post guardado exitosamente
+2026-09-02 16:13:19,446 - INFO - Actualizando índice de películas
+2026-09-02 16:13:19,446 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-09-02 16:13:19,451 - INFO - Índice existente cargado con 2689 películas
+2026-09-02 16:13:19,461 - INFO - Película agregada al índice: EL SER QUERIDO
+2026-09-02 16:13:19,462 - INFO - Nuevo post guardado: EL SER QUERIDO de Rodrigo Sorogoyen
+2026-09-02 16:13:19,462 - INFO - Comenzando extracción de información del post
+2026-09-02 16:13:19,462 - INFO - Título del post: EL CORO DE PRAGA de Ondřej Provazník
+2026-09-02 16:13:19,462 - INFO - Fecha del post: 2026-09-02T17:02:47+02:00
+2026-09-02 16:13:19,462 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/el-coro-de-praga-ondrej-provaznik/
+2026-09-02 16:13:21,741 - INFO - Contenido extraído y estructurado (2503 caracteres)
+2026-09-02 16:13:21,742 - INFO - Guardando post en: posts/EL_CORO_DE_PRAGA_2026-09-02.json
+2026-09-02 16:13:21,742 - INFO - Post guardado exitosamente
+2026-09-02 16:13:21,742 - INFO - Actualizando índice de películas
+2026-09-02 16:13:21,742 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-09-02 16:13:21,747 - INFO - Índice existente cargado con 2690 películas
+2026-09-02 16:13:21,757 - INFO - Película agregada al índice: EL CORO DE PRAGA
+2026-09-02 16:13:21,757 - INFO - Nuevo post guardado: EL CORO DE PRAGA de Ondřej Provazník
+2026-09-02 16:13:21,757 - INFO - Comenzando extracción de información del post
+2026-09-02 16:13:21,758 - INFO - Título del post: PROMETIDO EL CIELO de Erige Sehiri
+2026-09-02 16:13:21,758 - INFO - Fecha del post: 2026-09-02T16:55:02+02:00
+2026-09-02 16:13:21,758 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/critica-de-prometido-el-cielo-de-erige-sehiri/
+2026-09-02 16:13:24,503 - INFO - Contenido extraído y estructurado (2871 caracteres)
+2026-09-02 16:13:24,505 - INFO - Guardando post en: posts/PROMETIDO_EL_CIELO_2026-09-02.json
+2026-09-02 16:13:24,505 - INFO - Post guardado exitosamente
+2026-09-02 16:13:24,505 - INFO - Actualizando índice de películas
+2026-09-02 16:13:24,505 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-09-02 16:13:24,508 - INFO - Índice existente cargado con 2691 películas
+2026-09-02 16:13:24,519 - INFO - Película agregada al índice: PROMETIDO EL CIELO
+2026-09-02 16:13:24,519 - INFO - Nuevo post guardado: PROMETIDO EL CIELO de Erige Sehiri
+2026-09-02 16:13:24,519 - INFO - Comenzando extracción de información del post
+2026-09-02 16:13:24,520 - INFO - Post ya existente, saltando: EL FINAL DE OAK STREET de David Robert Mitchell
+2026-09-02 16:13:24,520 - INFO - Comenzando extracción de información del post
+2026-09-02 16:13:24,520 - INFO - Título del post: ESTE / OESTE de Natja Brunckhorst
+2026-09-02 16:13:24,520 - INFO - Fecha del post: 2026-08-21T19:35:00+02:00
+2026-09-02 16:13:24,520 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/este-oeste-natja-brunckhorst/
+2026-09-02 16:13:28,847 - INFO - Contenido extraído y estructurado (2478 caracteres)
+2026-09-02 16:13:28,848 - INFO - Guardando post en: posts/ESTE_/_OESTE_2026-08-21.json
+2026-09-02 16:13:28,848 - ERROR - Error guardando post: [Errno 2] No such file or directory: 'posts/ESTE_/_OESTE_2026-08-21.json'
+2026-09-02 16:13:28,848 - INFO - Nuevo post guardado: ESTE / OESTE de Natja Brunckhorst
+2026-09-02 16:13:28,848 - INFO - Comenzando extracción de información del post
+2026-09-02 16:13:28,848 - INFO - Post ya existente, saltando: SIRI HUSTVEDT, LA DANZA DEL YO de Sabine Lidl
+2026-09-02 16:13:28,848 - INFO - Comenzando extracción de información del post
+2026-09-02 16:13:28,849 - INFO - Post ya existente, saltando: VIVIR LA TIERRA de Huo Meng
+2026-09-02 16:13:28,849 - INFO - Comenzando extracción de información del post
+2026-09-02 16:13:28,849 - INFO - Post ya existente, saltando: PALESTINA 36 de Annemarie Jacir
+2026-09-02 16:13:28,849 - INFO - Comenzando extracción de información del post
+2026-09-02 16:13:28,849 - INFO - Post ya existente, saltando: EL AMOR QUE PERMANECE de Hlynur Pálmason
+2026-09-02 16:13:28,849 - INFO - Comenzando extracción de información del post
+2026-09-02 16:13:28,849 - INFO - Post ya existente, saltando: MOTHER MARY de David Lowery
+2026-09-02 16:13:28,849 - INFO - Proceso completado. Posts nuevos guardados: 4
