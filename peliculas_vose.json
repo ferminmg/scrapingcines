@@ -23,7 +23,7 @@
             {
                 "fecha": "2026-09-02",
                 "hora": "22:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102069&eventCode=104970"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Baiona",
@@ -78,7 +78,7 @@
             },
             {
                 "fecha": "2026-09-04",
-                "hora": "22:00",
+                "hora": "22:15",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102131&eventCode=105007"
             }
         ],
@@ -134,7 +134,7 @@
             },
             {
                 "fecha": "2026-09-05",
-                "hora": "22:00",
+                "hora": "22:15",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102149&eventCode=105007"
             }
         ],
@@ -190,7 +190,7 @@
             },
             {
                 "fecha": "2026-09-06",
-                "hora": "22:00",
+                "hora": "22:15",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102166&eventCode=105007"
             }
         ],
@@ -240,9 +240,14 @@
         "cartel": "imagenes_peliculas/tmdb_cronos.jpg",
         "horarios": [
             {
-                "fecha": "2026-09-09",
+                "fecha": "2026-09-07",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102117&eventCode=105007"
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102182&eventCode=105007"
+            },
+            {
+                "fecha": "2026-09-07",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102183&eventCode=105007"
             }
         ],
         "cine": "Golem Baiona",
@@ -253,18 +258,220 @@
         "año": "2026"
     },
     {
+        "título": "La constelación del perro",
+        "cartel": "imagenes_peliculas/tmdb_la_constelacion_del_perro.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-07",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102177&eventCode=104650"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Ridley Scott",
+        "duración": "119 min",
+        "actores": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce, Allison Janney",
+        "sinopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+        "año": "2026"
+    },
+    {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-07",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102180&eventCode=104970"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "año": "2026"
+    },
+    {
+        "título": "Cronos",
+        "cartel": "imagenes_peliculas/tmdb_cronos.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-08",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102199&eventCode=105007"
+            },
+            {
+                "fecha": "2026-09-08",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102200&eventCode=105007"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Fernando González Molina",
+        "duración": "0 min",
+        "actores": "Enric Auquer, Diana Gómez, Mónica López, Pablo Derqui, Eduard Fernández",
+        "sinopsis": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
+        "año": "2026"
+    },
+    {
+        "título": "La constelación del perro",
+        "cartel": "imagenes_peliculas/tmdb_la_constelacion_del_perro.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-08",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102194&eventCode=104650"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Ridley Scott",
+        "duración": "119 min",
+        "actores": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce, Allison Janney",
+        "sinopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+        "año": "2026"
+    },
+    {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-08",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102197&eventCode=104970"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "año": "2026"
+    },
+    {
+        "título": "Cronos",
+        "cartel": "imagenes_peliculas/tmdb_cronos.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-09",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102117&eventCode=105007"
+            },
+            {
+                "fecha": "2026-09-09",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102221&eventCode=105007"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Fernando González Molina",
+        "duración": "0 min",
+        "actores": "Enric Auquer, Diana Gómez, Mónica López, Pablo Derqui, Eduard Fernández",
+        "sinopsis": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
+        "año": "2026"
+    },
+    {
+        "título": "La constelación del perro",
+        "cartel": "imagenes_peliculas/tmdb_la_constelacion_del_perro.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-09",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102227&eventCode=104650"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Ridley Scott",
+        "duración": "119 min",
+        "actores": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce, Allison Janney",
+        "sinopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+        "año": "2026"
+    },
+    {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-09",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102230&eventCode=104970"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "año": "2026"
+    },
+    {
+        "título": "Cronos",
+        "cartel": "imagenes_peliculas/tmdb_cronos.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-10",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102216&eventCode=105007"
+            },
+            {
+                "fecha": "2026-09-10",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102217&eventCode=105007"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Fernando González Molina",
+        "duración": "0 min",
+        "actores": "Enric Auquer, Diana Gómez, Mónica López, Pablo Derqui, Eduard Fernández",
+        "sinopsis": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
+        "año": "2026"
+    },
+    {
+        "título": "La constelación del perro",
+        "cartel": "imagenes_peliculas/tmdb_la_constelacion_del_perro.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-10",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102211&eventCode=104650"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Ridley Scott",
+        "duración": "119 min",
+        "actores": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce, Allison Janney",
+        "sinopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+        "año": "2026"
+    },
+    {
+        "título": "Spider-Man: Brand New Day",
+        "cartel": "imagenes_peliculas/tmdb_spiderman_brand_new_day.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-10",
+                "hora": "22:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102214&eventCode=104970"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Destin Daniel Cretton",
+        "duración": "144 min",
+        "actores": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+        "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+        "año": "2026"
+    },
+    {
         "título": "Erupcja",
         "cartel": "imagenes_peliculas/tmdb_erupcja.jpg",
         "horarios": [
             {
                 "fecha": "2026-09-02",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92272&eventCode=111859"
+                "enlace_entradas": null
             },
             {
                 "fecha": "2026-09-02",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92273&eventCode=111859"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -281,7 +488,7 @@
             {
                 "fecha": "2026-09-02",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92275&eventCode=104957"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -298,7 +505,7 @@
             {
                 "fecha": "2026-09-02",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92270&eventCode=111532"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -315,7 +522,7 @@
             {
                 "fecha": "2026-09-02",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92279&eventCode=113197"
+                "enlace_entradas": null
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -506,6 +713,23 @@
         "año": "2025"
     },
     {
+        "título": "Vivir la tierra",
+        "cartel": "imagenes_peliculas/tmdb_vivir_la_tierra.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-04",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92428&eventCode=111093"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Meng Huo",
+        "duración": "132 min",
+        "actores": "Wang Shang, 张楚文, Zhang Yanrong, Zhang Caixia, Cao Lingzhi",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
         "título": "Cinco Segundos",
         "cartel": "imagenes_peliculas/tmdb_cinco_segundos.jpg",
         "horarios": [
@@ -576,6 +800,23 @@
         "duración": "120 min",
         "actores": "كريم داود عناية, Hiam Abbass, Robert Aramayo, Billy Howle, Dhafer L'Abidine",
         "sinopsis": "En 1936, los palestinos iniciaron una revuelta liderada por agricultores contra el colonialismo británico que marcó el comienzo del mayor y más largo levantamiento contra los 30 años de dominio británico.",
+        "año": "2025"
+    },
+    {
+        "título": "Vivir la tierra",
+        "cartel": "imagenes_peliculas/tmdb_vivir_la_tierra.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-05",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92429&eventCode=111093"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Meng Huo",
+        "duración": "132 min",
+        "actores": "Wang Shang, 张楚文, Zhang Yanrong, Zhang Caixia, Cao Lingzhi",
+        "sinopsis": "",
         "año": "2025"
     },
     {
@@ -652,6 +893,23 @@
         "año": "2025"
     },
     {
+        "título": "Vivir la tierra",
+        "cartel": "imagenes_peliculas/tmdb_vivir_la_tierra.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-06",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92430&eventCode=111093"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Meng Huo",
+        "duración": "132 min",
+        "actores": "Wang Shang, 张楚文, Zhang Yanrong, Zhang Caixia, Cao Lingzhi",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
         "título": "Cinco Segundos",
         "cartel": "imagenes_peliculas/tmdb_cinco_segundos.jpg",
         "horarios": [
@@ -725,6 +983,23 @@
         "año": "2025"
     },
     {
+        "título": "Vivir la tierra",
+        "cartel": "imagenes_peliculas/tmdb_vivir_la_tierra.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-07",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92431&eventCode=111093"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Meng Huo",
+        "duración": "132 min",
+        "actores": "Wang Shang, 张楚文, Zhang Yanrong, Zhang Caixia, Cao Lingzhi",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
         "título": "Cinco Segundos",
         "cartel": "imagenes_peliculas/tmdb_cinco_segundos.jpg",
         "horarios": [
@@ -795,6 +1070,23 @@
         "duración": "120 min",
         "actores": "كريم داود عناية, Hiam Abbass, Robert Aramayo, Billy Howle, Dhafer L'Abidine",
         "sinopsis": "En 1936, los palestinos iniciaron una revuelta liderada por agricultores contra el colonialismo británico que marcó el comienzo del mayor y más largo levantamiento contra los 30 años de dominio británico.",
+        "año": "2025"
+    },
+    {
+        "título": "Vivir la tierra",
+        "cartel": "imagenes_peliculas/tmdb_vivir_la_tierra.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-08",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92434&eventCode=111093"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Meng Huo",
+        "duración": "132 min",
+        "actores": "Wang Shang, 张楚文, Zhang Yanrong, Zhang Caixia, Cao Lingzhi",
+        "sinopsis": "",
         "año": "2025"
     },
     {
@@ -888,6 +1180,23 @@
         "año": "2025"
     },
     {
+        "título": "Vivir la tierra",
+        "cartel": "imagenes_peliculas/tmdb_vivir_la_tierra.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-09",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92433&eventCode=111093"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Meng Huo",
+        "duración": "132 min",
+        "actores": "Wang Shang, 张楚文, Zhang Yanrong, Zhang Caixia, Cao Lingzhi",
+        "sinopsis": "",
+        "año": "2025"
+    },
+    {
         "título": "Cinco Segundos",
         "cartel": "imagenes_peliculas/tmdb_cinco_segundos.jpg",
         "horarios": [
@@ -958,6 +1267,23 @@
         "duración": "120 min",
         "actores": "كريم داود عناية, Hiam Abbass, Robert Aramayo, Billy Howle, Dhafer L'Abidine",
         "sinopsis": "En 1936, los palestinos iniciaron una revuelta liderada por agricultores contra el colonialismo británico que marcó el comienzo del mayor y más largo levantamiento contra los 30 años de dominio británico.",
+        "año": "2025"
+    },
+    {
+        "título": "Vivir la tierra",
+        "cartel": "imagenes_peliculas/tmdb_vivir_la_tierra.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-09-10",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92432&eventCode=111093"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Meng Huo",
+        "duración": "132 min",
+        "actores": "Wang Shang, 张楚文, Zhang Yanrong, Zhang Caixia, Cao Lingzhi",
+        "sinopsis": "",
         "año": "2025"
     }
 ]
