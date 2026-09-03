@@ -1,0 +1,31 @@
+2026-09-03 20:10:24,436 - INFO - Iniciando proceso de scraping
+2026-09-03 20:10:24,438 - INFO - Posts existentes encontrados: 2595
+2026-09-03 20:10:24,438 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-09-03 20:10:26,565 - INFO - Se encontraron 10 posts
+2026-09-03 20:10:26,566 - INFO - Comenzando extracción de información del post
+2026-09-03 20:10:26,566 - INFO - Post ya existente, saltando: EL SER QUERIDO de Rodrigo Sorogoyen
+2026-09-03 20:10:26,566 - INFO - Comenzando extracción de información del post
+2026-09-03 20:10:26,566 - INFO - Post ya existente, saltando: EL CORO DE PRAGA de Ondřej Provazník
+2026-09-03 20:10:26,566 - INFO - Comenzando extracción de información del post
+2026-09-03 20:10:26,567 - INFO - Post ya existente, saltando: PROMETIDO EL CIELO de Erige Sehiri
+2026-09-03 20:10:26,567 - INFO - Comenzando extracción de información del post
+2026-09-03 20:10:26,567 - INFO - Post ya existente, saltando: EL FINAL DE OAK STREET de David Robert Mitchell
+2026-09-03 20:10:26,567 - INFO - Comenzando extracción de información del post
+2026-09-03 20:10:26,567 - INFO - Título del post: ESTE / OESTE de Natja Brunckhorst
+2026-09-03 20:10:26,567 - INFO - Fecha del post: 2026-08-21T19:35:00+02:00
+2026-09-03 20:10:26,567 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/este-oeste-natja-brunckhorst/
+2026-09-03 20:10:28,951 - INFO - Contenido extraído y estructurado (2478 caracteres)
+2026-09-03 20:10:28,952 - INFO - Guardando post en: posts/ESTE_/_OESTE_2026-08-21.json
+2026-09-03 20:10:28,952 - ERROR - Error guardando post: [Errno 2] No such file or directory: 'posts/ESTE_/_OESTE_2026-08-21.json'
+2026-09-03 20:10:28,952 - INFO - Nuevo post guardado: ESTE / OESTE de Natja Brunckhorst
+2026-09-03 20:10:28,952 - INFO - Comenzando extracción de información del post
+2026-09-03 20:10:28,952 - INFO - Post ya existente, saltando: SIRI HUSTVEDT, LA DANZA DEL YO de Sabine Lidl
+2026-09-03 20:10:28,953 - INFO - Comenzando extracción de información del post
+2026-09-03 20:10:28,953 - INFO - Post ya existente, saltando: VIVIR LA TIERRA de Huo Meng
+2026-09-03 20:10:28,953 - INFO - Comenzando extracción de información del post
+2026-09-03 20:10:28,953 - INFO - Post ya existente, saltando: PALESTINA 36 de Annemarie Jacir
+2026-09-03 20:10:28,953 - INFO - Comenzando extracción de información del post
+2026-09-03 20:10:28,953 - INFO - Post ya existente, saltando: EL AMOR QUE PERMANECE de Hlynur Pálmason
+2026-09-03 20:10:28,953 - INFO - Comenzando extracción de información del post
+2026-09-03 20:10:28,953 - INFO - Post ya existente, saltando: MOTHER MARY de David Lowery
+2026-09-03 20:10:28,953 - INFO - Proceso completado. Posts nuevos guardados: 1
