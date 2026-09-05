@@ -242,7 +242,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:25"
+    "última_actualización": "2026-09-05 22:03:22"
   },
   {
     "id": 1339588,
@@ -407,7 +407,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:26"
+    "última_actualización": "2026-09-05 22:03:23"
   },
   {
     "id": 1447853,
@@ -546,7 +546,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:26"
+    "última_actualización": "2026-09-05 22:03:23"
   },
   {
     "id": 1198654,
@@ -671,7 +671,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:26"
+    "última_actualización": "2026-09-05 22:03:24"
   },
   {
     "id": 1690901,
@@ -770,7 +770,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:27"
+    "última_actualización": "2026-09-05 22:03:24"
   },
   {
     "id": 1274757,
@@ -861,15 +861,15 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:28"
+    "última_actualización": "2026-09-05 22:03:25"
   },
   {
     "id": 1421148,
     "tmdb_id": 1421148,
     "título": "Mother's Baby (La semilla)",
     "título_original": "Mother's Baby",
-    "sinopsis": "Una madre enfrenta sus miedos y preocupaciones más profundos mientras lidia con los desafíos de la maternidad.",
-    "poster_path": "/m6yJujB6lCGascMUvhNIJuKegJJ.jpg",
+    "sinopsis": "Julia, una exitosa directora de orquesta de cuarenta años, y su pareja Georg anhelan tener un hijo cuando el Dr. Vilfort, especialista en fertilidad de una clínica privada, les ofrece esperanzas con un procedimiento experimental. Julia se queda embarazada tras un exitoso tratamiento en la clínica. Sin embargo, el parto no sale como estaba previsto y se llevan al bebé inmediatamente para someterlo a un tratamiento adicional, dejando a Julia y a su marido sin saber lo que ha ocurrido. Cuando Julia se reúne por fin con el niño, se siente extrañamente distante. La presencia del bebé pone a prueba su matrimonio, ya que se hace evidente que Julia tiene dudas sobre si el bebé que han traído a casa es realmente suyo.",
+    "poster_path": "/4xRK4WWXyGHuAbc7ur6TQ9jme8e.jpg",
     "poster_local": "imagenes_estrenos/Mother_s_Baby__La_semilla__m6yJujB6lCGascMUvhNIJuKegJJ.jpg",
     "backdrop_path": "/6qQfRmIQ0p4sgFhVRqC8ItJO27E.jpg",
     "backdrop_local": "imagenes_estrenos/Mother_s_Baby__La_semilla__backdrop_6qQfRmIQ0p4sgFhVRqC8ItJO27E.jpg",
@@ -983,9 +983,20 @@
           "width": 2852
         }
       ],
-      "posters": []
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 1000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/4xRK4WWXyGHuAbc7ur6TQ9jme8e.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 700
+        }
+      ]
     },
-    "última_actualización": "2026-09-05 10:03:29"
+    "última_actualización": "2026-09-05 22:03:27"
   },
   {
     "id": 1744439,
@@ -1065,211 +1076,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:29"
-  },
-  {
-    "id": 1364168,
-    "tmdb_id": 1364168,
-    "título": "El ritual de Lily",
-    "título_original": "El ritual de Lily",
-    "sinopsis": "Cuatro amigas se reúnen en una cabaña aislada para un ritual de brujas, pero Lily descubre que será sacrificada al demonio Lilith.",
-    "poster_path": "/ryRhUfyF9j4Ty01gnZyZkJCshTs.jpg",
-    "poster_local": "imagenes_estrenos/El_ritual_de_Lily_ryRhUfyF9j4Ty01gnZyZkJCshTs.jpg",
-    "backdrop_path": "/fZET7t09TAgxFw80tYzqBsjtjb6.jpg",
-    "backdrop_local": "imagenes_estrenos/El_ritual_de_Lily_backdrop_fZET7t09TAgxFw80tYzqBsjtjb6.jpg",
-    "fecha_estreno": "2026-09-11T00:00:00.000Z",
-    "duración": "105 min",
-    "director": "Manu Herrera",
-    "directores": [
-      {
-        "name": "Manu Herrera",
-        "id": 2774034
-      }
-    ],
-    "actores": [
-      {
-        "name": "Maggie García",
-        "id": 3053482,
-        "character": "Lily",
-        "profile_path": "/rDHTtPSI80kKpjGjFbOFv8UbL9M.jpg"
-      },
-      {
-        "name": "Patricia Peñalver",
-        "id": 2510657,
-        "character": "Lola",
-        "profile_path": "/txdyKJnQD3sia5iJ4Q4ruFXhnco.jpg"
-      },
-      {
-        "name": "Eve Ryan",
-        "id": 3578019,
-        "character": "Laura",
-        "profile_path": "/lqNMF1KmRt2R76GBblGH1mxum8P.jpg"
-      },
-      {
-        "name": "Elena Gallardo",
-        "id": 2949789,
-        "character": "Leo",
-        "profile_path": "/95ligT9ib4ozgYZCGSttxFU5sTn.jpg"
-      },
-      {
-        "name": "Mike Fajardo",
-        "id": 4377946,
-        "character": "Adam",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      }
-    ],
-    "popularidad": 1.6709,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/fZET7t09TAgxFw80tYzqBsjtjb6.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1824,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ryRhUfyF9j4Ty01gnZyZkJCshTs.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1216
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1824,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6M6PL4bEvGutEmIrIye9wH9BN6O.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1216
-        }
-      ]
-    },
-    "última_actualización": "2026-09-05 10:03:30"
-  },
-  {
-    "id": 1455084,
-    "tmdb_id": 1455084,
-    "título": "Lionel",
-    "título_original": "Lionel",
-    "sinopsis": "Cuando Lionel acepta viajar con su distante padre para visitar a su hermana en Francia, lo que comienza como un simple viaje por carretera se convierte en un estruendoso ajuste de cuentas. Entre caminos desconocidos y recuerdos no hablados, Lionel se ve obligado a poner distancia dentro de su propia familia y a buscar una posibilidad de que algunos lazos aún puedan reconstruirse.",
-    "poster_path": "/89ykRAWGvgQTtahTreLgQsKwFKw.jpg",
-    "poster_local": "imagenes_estrenos/Lionel_89ykRAWGvgQTtahTreLgQsKwFKw.jpg",
-    "backdrop_path": "/yktbidli0o91kbdhtSFVQLMzV9o.jpg",
-    "backdrop_local": "imagenes_estrenos/Lionel_backdrop_yktbidli0o91kbdhtSFVQLMzV9o.jpg",
-    "fecha_estreno": "2026-09-11T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Carlos Saiz Espin",
-    "directores": [
-      {
-        "name": "Carlos Saiz Espin",
-        "id": 2805934
-      }
-    ],
-    "actores": [
-      {
-        "name": "Lionel Corral",
-        "id": 5781537,
-        "character": "Lionel",
-        "profile_path": null
-      },
-      {
-        "name": "Alicia Corral Bernal",
-        "id": 5781538,
-        "character": "Alicia",
-        "profile_path": null
-      },
-      {
-        "name": "Lionel Corral Bernal",
-        "id": 5781541,
-        "character": "Lionel",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 1.6527,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.78,
-          "height": 1366,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/yktbidli0o91kbdhtSFVQLMzV9o.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2432
-        },
-        {
-          "aspect_ratio": 1.779,
-          "height": 806,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/l0snTxdLDEYGHf0sZhgvpxJxhw7.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1434
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2144,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/aCYeKmMX68qmItEDmyPYrTVzkt9.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3812
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.7,
-          "height": 1200,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/89ykRAWGvgQTtahTreLgQsKwFKw.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 840
-        }
-      ]
-    },
-    "última_actualización": "2026-09-05 10:03:30"
+    "última_actualización": "2026-09-05 22:03:28"
   },
   {
     "id": 1536053,
@@ -1436,7 +1243,211 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:30"
+    "última_actualización": "2026-09-05 22:03:28"
+  },
+  {
+    "id": 1364168,
+    "tmdb_id": 1364168,
+    "título": "El ritual de Lily",
+    "título_original": "El ritual de Lily",
+    "sinopsis": "Cuatro amigas se reúnen en una cabaña aislada para un ritual de brujas, pero Lily descubre que será sacrificada al demonio Lilith.",
+    "poster_path": "/ryRhUfyF9j4Ty01gnZyZkJCshTs.jpg",
+    "poster_local": "imagenes_estrenos/El_ritual_de_Lily_ryRhUfyF9j4Ty01gnZyZkJCshTs.jpg",
+    "backdrop_path": "/fZET7t09TAgxFw80tYzqBsjtjb6.jpg",
+    "backdrop_local": "imagenes_estrenos/El_ritual_de_Lily_backdrop_fZET7t09TAgxFw80tYzqBsjtjb6.jpg",
+    "fecha_estreno": "2026-09-11T00:00:00.000Z",
+    "duración": "105 min",
+    "director": "Manu Herrera",
+    "directores": [
+      {
+        "name": "Manu Herrera",
+        "id": 2774034
+      }
+    ],
+    "actores": [
+      {
+        "name": "Maggie García",
+        "id": 3053482,
+        "character": "Lily",
+        "profile_path": "/rDHTtPSI80kKpjGjFbOFv8UbL9M.jpg"
+      },
+      {
+        "name": "Patricia Peñalver",
+        "id": 2510657,
+        "character": "Lola",
+        "profile_path": "/txdyKJnQD3sia5iJ4Q4ruFXhnco.jpg"
+      },
+      {
+        "name": "Eve Ryan",
+        "id": 3578019,
+        "character": "Laura",
+        "profile_path": "/lqNMF1KmRt2R76GBblGH1mxum8P.jpg"
+      },
+      {
+        "name": "Elena Gallardo",
+        "id": 2949789,
+        "character": "Leo",
+        "profile_path": "/95ligT9ib4ozgYZCGSttxFU5sTn.jpg"
+      },
+      {
+        "name": "Mike Fajardo",
+        "id": 4377946,
+        "character": "Adam",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 1.6709,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/fZET7t09TAgxFw80tYzqBsjtjb6.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1824,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ryRhUfyF9j4Ty01gnZyZkJCshTs.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1216
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1824,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6M6PL4bEvGutEmIrIye9wH9BN6O.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1216
+        }
+      ]
+    },
+    "última_actualización": "2026-09-05 22:03:28"
+  },
+  {
+    "id": 1455084,
+    "tmdb_id": 1455084,
+    "título": "Lionel",
+    "título_original": "Lionel",
+    "sinopsis": "Cuando Lionel acepta viajar con su distante padre para visitar a su hermana en Francia, lo que comienza como un simple viaje por carretera se convierte en un estruendoso ajuste de cuentas. Entre caminos desconocidos y recuerdos no hablados, Lionel se ve obligado a poner distancia dentro de su propia familia y a buscar una posibilidad de que algunos lazos aún puedan reconstruirse.",
+    "poster_path": "/89ykRAWGvgQTtahTreLgQsKwFKw.jpg",
+    "poster_local": "imagenes_estrenos/Lionel_89ykRAWGvgQTtahTreLgQsKwFKw.jpg",
+    "backdrop_path": "/yktbidli0o91kbdhtSFVQLMzV9o.jpg",
+    "backdrop_local": "imagenes_estrenos/Lionel_backdrop_yktbidli0o91kbdhtSFVQLMzV9o.jpg",
+    "fecha_estreno": "2026-09-11T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Carlos Saiz Espin",
+    "directores": [
+      {
+        "name": "Carlos Saiz Espin",
+        "id": 2805934
+      }
+    ],
+    "actores": [
+      {
+        "name": "Lionel Corral",
+        "id": 5781537,
+        "character": "Lionel",
+        "profile_path": null
+      },
+      {
+        "name": "Alicia Corral Bernal",
+        "id": 5781538,
+        "character": "Alicia",
+        "profile_path": null
+      },
+      {
+        "name": "Lionel Corral Bernal",
+        "id": 5781541,
+        "character": "Lionel",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 1.6527,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.78,
+          "height": 1366,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/yktbidli0o91kbdhtSFVQLMzV9o.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2432
+        },
+        {
+          "aspect_ratio": 1.779,
+          "height": 806,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/l0snTxdLDEYGHf0sZhgvpxJxhw7.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1434
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2144,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/aCYeKmMX68qmItEDmyPYrTVzkt9.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3812
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 1200,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/89ykRAWGvgQTtahTreLgQsKwFKw.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 840
+        }
+      ]
+    },
+    "última_actualización": "2026-09-05 22:03:29"
   },
   {
     "id": 1745792,
@@ -1520,7 +1531,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:31"
+    "última_actualización": "2026-09-05 22:03:30"
   },
   {
     "id": 1732875,
@@ -1588,7 +1599,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:31"
+    "última_actualización": "2026-09-05 22:03:30"
   },
   {
     "id": 1758305,
@@ -1650,7 +1661,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-05 10:03:31"
+    "última_actualización": "2026-09-05 22:03:30"
   },
   {
     "id": 1517127,
@@ -1755,7 +1766,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:27"
+    "última_actualización": "2026-09-05 22:03:24"
   },
   {
     "id": 1739482,
@@ -1850,7 +1861,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:28"
+    "última_actualización": "2026-09-05 22:03:26"
   },
   {
     "id": 1204680,
@@ -1918,8 +1929,8 @@
       }
     ],
     "popularidad": 378.5256,
-    "puntuación": 7.7,
-    "votos": 137,
+    "puntuación": 7.597,
+    "votos": 144,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2029,182 +2040,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:24"
-  },
-  {
-    "id": 1122573,
-    "tmdb_id": 1122573,
-    "título": "En la zona gris",
-    "título_original": "In the Grey",
-    "sinopsis": "Un equipo encubierto de agentes de élite viven en la sombra, tan cómodos manejando el poder y la influencia como armas automáticas y explosivos de gran potencia. Cuando un déspota roba una fortuna de mil millones de dólares, son enviados a recuperarla en lo que para cualquier otro sería una misión suicida. Lo que comienza como un atraco imposible empeora aún más y se convierte en una guerra total de estrategia, engaño y supervivencia.",
-    "poster_path": "/kQik7Yfcs3O8dCBpIUGSdXOMOnQ.jpg",
-    "poster_local": "imagenes_estrenos/En_la_zona_gris_kQik7Yfcs3O8dCBpIUGSdXOMOnQ.jpg",
-    "backdrop_path": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
-    "backdrop_local": "imagenes_estrenos/En_la_zona_gris_backdrop_qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
-    "fecha_estreno": "2026-09-18T00:00:00.000Z",
-    "duración": "97 min",
-    "director": "Guy Ritchie",
-    "directores": [
-      {
-        "name": "Guy Ritchie",
-        "id": 956
-      }
-    ],
-    "actores": [
-      {
-        "name": "Henry Cavill",
-        "id": 73968,
-        "character": "Sid",
-        "profile_path": "/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
-      },
-      {
-        "name": "Jake Gyllenhaal",
-        "id": 131,
-        "character": "Bronco",
-        "profile_path": "/ct2Gh2sJSxd4yaMrSsqSt1HpIC3.jpg"
-      },
-      {
-        "name": "Eiza González",
-        "id": 1222992,
-        "character": "Rachel",
-        "profile_path": "/v8CnaoJqdPwkQhJeGwgJDnESOd6.jpg"
-      },
-      {
-        "name": "Carlos Bardem",
-        "id": 78882,
-        "character": "Manny Salazar",
-        "profile_path": "/4eVSnaYe4O06BNZjuw8UHnWaqB5.jpg"
-      },
-      {
-        "name": "Michael Vu",
-        "id": 553271,
-        "character": "Ed Glover",
-        "profile_path": "/rHtIIqQvViPHovSJkDzDegBU6nb.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 28,
-        "name": "Acción"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 40.4135,
-    "puntuación": 7.592,
-    "votos": 879,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
-          "vote_average": 6.722,
-          "vote_count": 6,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/mjlwr0He035AUmVZ2iH0DcRvcje.jpg",
-          "vote_average": 5.928,
-          "vote_count": 14,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/oBft4BZeoDQzTT9ZGijClr76qvK.jpg",
-          "vote_average": 4.722,
-          "vote_count": 18,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1344,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/bIy0555ukSqweSqG9MtRnoyisQI.jpg",
-          "vote_average": 3.852,
-          "vote_count": 17,
-          "width": 2390
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/w5cjVyA8t2CwEaYSpOyKqbk5nLE.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/parLHiFZtrzsCygZhv3kHWqmoN7.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/kQik7Yfcs3O8dCBpIUGSdXOMOnQ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/4DvamJTelES3HV37ZV5R7OWD4Tp.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1620,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wdTKIeUpIbykLDtS06PoaItUNjs.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1080
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/vH3L70wKpLblHK9HyDjjCdwOXWM.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-09-05 10:03:25"
+    "última_actualización": "2026-09-05 22:03:21"
   },
   {
     "id": 1423191,
@@ -2379,7 +2215,182 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:25"
+    "última_actualización": "2026-09-05 22:03:21"
+  },
+  {
+    "id": 1122573,
+    "tmdb_id": 1122573,
+    "título": "En la zona gris",
+    "título_original": "In the Grey",
+    "sinopsis": "Un equipo encubierto de agentes de élite viven en la sombra, tan cómodos manejando el poder y la influencia como armas automáticas y explosivos de gran potencia. Cuando un déspota roba una fortuna de mil millones de dólares, son enviados a recuperarla en lo que para cualquier otro sería una misión suicida. Lo que comienza como un atraco imposible empeora aún más y se convierte en una guerra total de estrategia, engaño y supervivencia.",
+    "poster_path": "/kQik7Yfcs3O8dCBpIUGSdXOMOnQ.jpg",
+    "poster_local": "imagenes_estrenos/En_la_zona_gris_kQik7Yfcs3O8dCBpIUGSdXOMOnQ.jpg",
+    "backdrop_path": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+    "backdrop_local": "imagenes_estrenos/En_la_zona_gris_backdrop_qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+    "fecha_estreno": "2026-09-18T00:00:00.000Z",
+    "duración": "97 min",
+    "director": "Guy Ritchie",
+    "directores": [
+      {
+        "name": "Guy Ritchie",
+        "id": 956
+      }
+    ],
+    "actores": [
+      {
+        "name": "Henry Cavill",
+        "id": 73968,
+        "character": "Sid",
+        "profile_path": "/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
+      },
+      {
+        "name": "Jake Gyllenhaal",
+        "id": 131,
+        "character": "Bronco",
+        "profile_path": "/ct2Gh2sJSxd4yaMrSsqSt1HpIC3.jpg"
+      },
+      {
+        "name": "Eiza González",
+        "id": 1222992,
+        "character": "Rachel",
+        "profile_path": "/v8CnaoJqdPwkQhJeGwgJDnESOd6.jpg"
+      },
+      {
+        "name": "Carlos Bardem",
+        "id": 78882,
+        "character": "Manny Salazar",
+        "profile_path": "/4eVSnaYe4O06BNZjuw8UHnWaqB5.jpg"
+      },
+      {
+        "name": "Michael Vu",
+        "id": 553271,
+        "character": "Ed Glover",
+        "profile_path": "/rHtIIqQvViPHovSJkDzDegBU6nb.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 40.4135,
+    "puntuación": 7.588,
+    "votos": 883,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+          "vote_average": 6.722,
+          "vote_count": 6,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mjlwr0He035AUmVZ2iH0DcRvcje.jpg",
+          "vote_average": 5.928,
+          "vote_count": 14,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oBft4BZeoDQzTT9ZGijClr76qvK.jpg",
+          "vote_average": 4.722,
+          "vote_count": 18,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1344,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/bIy0555ukSqweSqG9MtRnoyisQI.jpg",
+          "vote_average": 3.852,
+          "vote_count": 17,
+          "width": 2390
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/w5cjVyA8t2CwEaYSpOyKqbk5nLE.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/parLHiFZtrzsCygZhv3kHWqmoN7.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/kQik7Yfcs3O8dCBpIUGSdXOMOnQ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/4DvamJTelES3HV37ZV5R7OWD4Tp.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1620,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wdTKIeUpIbykLDtS06PoaItUNjs.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1080
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vH3L70wKpLblHK9HyDjjCdwOXWM.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-09-05 22:03:21"
   },
   {
     "id": 1318413,
@@ -2451,7 +2462,7 @@
       }
     ],
     "popularidad": 21.1553,
-    "puntuación": 7.8,
+    "puntuación": 7.766,
     "votos": 340,
     "adulto": false,
     "video": false,
@@ -2542,7 +2553,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:25"
+    "última_actualización": "2026-09-05 22:03:22"
   },
   {
     "id": 1228834,
@@ -2647,102 +2658,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:26"
-  },
-  {
-    "id": 1721500,
-    "tmdb_id": 1721500,
-    "título": "La carta de Óscar",
-    "título_original": "La carta de Óscar",
-    "sinopsis": "Carmen demanda un poco más de atención a su marido, Ibón, pero el trabajo de éste acapara su  tiempo de tal manera que apenas pueden verse. Oscar, el hijo de ambos, intenta que sus padres le hagan caso, pero ellos están siempre “a otras cosas”. Además, Óscar tiene problemas en el colegio que no sabe cómo resolver, porque no ve el momento de contarlos en casa.",
-    "poster_path": "/5LnGy3JaNj256Hf213UFWG3CG75.jpg",
-    "poster_local": "imagenes_estrenos/La_carta_de__scar_5LnGy3JaNj256Hf213UFWG3CG75.jpg",
-    "backdrop_path": "/zYZPtmprdlUNvyaWD8bA1CvR589.jpg",
-    "backdrop_local": "imagenes_estrenos/La_carta_de__scar_backdrop_zYZPtmprdlUNvyaWD8bA1CvR589.jpg",
-    "fecha_estreno": "2026-09-18T00:00:00.000Z",
-    "duración": "91 min",
-    "director": "María Luz Zamora Abanades (Malu Zamora)",
-    "directores": [
-      {
-        "name": "María Luz Zamora Abanades (Malu Zamora)",
-        "id": 5907289
-      }
-    ],
-    "actores": [
-      {
-        "name": "Carmen Mayordomo",
-        "id": 2594387,
-        "character": "Carmen",
-        "profile_path": "/fwNvLNDvamHaYOZUqOL23Dwxn4K.jpg"
-      },
-      {
-        "name": "Gabriel Moreno",
-        "id": 1331611,
-        "character": "Ibón",
-        "profile_path": "/aYKFqn5hupU6nAWILK6l41qKAoO.jpg"
-      },
-      {
-        "name": "Rosana Pastor",
-        "id": 125486,
-        "character": "Psicóloga",
-        "profile_path": "/6Gdf8c5h9hQBWSJS4ya9xoXsSzJ.jpg"
-      },
-      {
-        "name": "Paula Braguinsky",
-        "id": 3199227,
-        "character": "Secretaria",
-        "profile_path": "/7cj1oUmWUD3X59JvJYD6aX9zlTH.jpg"
-      },
-      {
-        "name": "Paola Dominguín",
-        "id": 1035331,
-        "character": "July",
-        "profile_path": "/q8T81WzJySte7ZtSZo4W9Z7P361.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 2.4696,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/zYZPtmprdlUNvyaWD8bA1CvR589.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/5LnGy3JaNj256Hf213UFWG3CG75.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2026-09-05 10:03:27"
+    "última_actualización": "2026-09-05 22:03:23"
   },
   {
     "id": 1649218,
@@ -2853,7 +2769,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:27"
+    "última_actualización": "2026-09-05 22:03:24"
   },
   {
     "id": 1291829,
@@ -2994,58 +2910,70 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:28"
+    "última_actualización": "2026-09-05 22:03:25"
   },
   {
-    "id": 1650219,
-    "tmdb_id": 1650219,
-    "título": "Ese niño de la fotografía. Carlos Saura",
-    "título_original": "Ese niño de la fotografía. Carlos Saura",
-    "sinopsis": "Carlos Saura falleció en febrero del 2023 a los 91 años dejando más de 50 películas que han sido premiadas en los festivales más prestigiosos del mundo, miles de fotografías, dibujos, obras de teatro, novelas y un largo etcétera. Sin embargo, poca gente conoce cómo vivió sus últimos años culminando una de las carreras más prolíficas de la historia del cine y de la cultura contemporánea. A través de su archivo personal e inédito, Anna Saura nos ofrece la cosmovisión de su padre como ejemplo de vida y pasión por la creatividad sin límites.",
-    "poster_path": "/xuzIqAa7DdmCWUhdnYKmdFZ4AGz.jpg",
-    "poster_local": "imagenes_estrenos/Ese_ni_o_de_la_fotograf_a__Carlos_Saura_xuzIqAa7DdmCWUhdnYKmdFZ4AGz.jpg",
-    "backdrop_path": "/i3sgb4jvdgoHhatRgNDweXQksBU.jpg",
-    "backdrop_local": "imagenes_estrenos/Ese_ni_o_de_la_fotograf_a__Carlos_Saura_backdrop_i3sgb4jvdgoHhatRgNDweXQksBU.jpg",
+    "id": 1721500,
+    "tmdb_id": 1721500,
+    "título": "La carta de Óscar",
+    "título_original": "La carta de Óscar",
+    "sinopsis": "Carmen demanda un poco más de atención a su marido, Ibón, pero el trabajo de éste acapara su  tiempo de tal manera que apenas pueden verse. Oscar, el hijo de ambos, intenta que sus padres le hagan caso, pero ellos están siempre “a otras cosas”. Además, Óscar tiene problemas en el colegio que no sabe cómo resolver, porque no ve el momento de contarlos en casa.",
+    "poster_path": "/5LnGy3JaNj256Hf213UFWG3CG75.jpg",
+    "poster_local": "imagenes_estrenos/La_carta_de__scar_5LnGy3JaNj256Hf213UFWG3CG75.jpg",
+    "backdrop_path": "/zYZPtmprdlUNvyaWD8bA1CvR589.jpg",
+    "backdrop_local": "imagenes_estrenos/La_carta_de__scar_backdrop_zYZPtmprdlUNvyaWD8bA1CvR589.jpg",
     "fecha_estreno": "2026-09-18T00:00:00.000Z",
-    "duración": "80 min",
-    "director": "Anna Saura Ramón",
+    "duración": "91 min",
+    "director": "María Luz Zamora Abanades (Malu Zamora)",
     "directores": [
       {
-        "name": "Anna Saura Ramón",
-        "id": 3123165
+        "name": "María Luz Zamora Abanades (Malu Zamora)",
+        "id": 5907289
       }
     ],
     "actores": [
       {
-        "name": "Anna Saura Ramón",
-        "id": 3123165,
-        "character": "",
-        "profile_path": null
+        "name": "Carmen Mayordomo",
+        "id": 2594387,
+        "character": "Carmen",
+        "profile_path": "/fwNvLNDvamHaYOZUqOL23Dwxn4K.jpg"
       },
       {
-        "name": "Carlos Saura",
-        "id": 96369,
-        "character": "",
-        "profile_path": "/jl9f6AiXClspedvewZ2akbhGoQG.jpg"
+        "name": "Gabriel Moreno",
+        "id": 1331611,
+        "character": "Ibón",
+        "profile_path": "/aYKFqn5hupU6nAWILK6l41qKAoO.jpg"
       },
       {
-        "name": "Eulalia Ramon Estrach",
-        "id": 102550,
-        "character": "",
-        "profile_path": "/erpJMOmTYaVQwfVwZM4yu6RPv9g.jpg"
+        "name": "Rosana Pastor",
+        "id": 125486,
+        "character": "Psicóloga",
+        "profile_path": "/6Gdf8c5h9hQBWSJS4ya9xoXsSzJ.jpg"
+      },
+      {
+        "name": "Paula Braguinsky",
+        "id": 3199227,
+        "character": "Secretaria",
+        "profile_path": "/7cj1oUmWUD3X59JvJYD6aX9zlTH.jpg"
+      },
+      {
+        "name": "Paola Dominguín",
+        "id": 1035331,
+        "character": "July",
+        "profile_path": "/q8T81WzJySte7ZtSZo4W9Z7P361.jpg"
       }
     ],
     "géneros": [
       {
-        "id": 99,
-        "name": "Documental"
+        "id": 18,
+        "name": "Drama"
       },
       {
         "id": 10751,
         "name": "Familia"
       }
     ],
-    "popularidad": 1.0741,
+    "popularidad": 2.4696,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3054,14 +2982,14 @@
     "imágenes": {
       "backdrops": [
         {
-          "aspect_ratio": 1.782,
-          "height": 864,
+          "aspect_ratio": 1.778,
+          "height": 720,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/i3sgb4jvdgoHhatRgNDweXQksBU.jpg",
+          "file_path": "/zYZPtmprdlUNvyaWD8bA1CvR589.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
-          "width": 1540
+          "width": 1280
         }
       ],
       "posters": [
@@ -3070,14 +2998,14 @@
           "height": 750,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/xuzIqAa7DdmCWUhdnYKmdFZ4AGz.jpg",
+          "file_path": "/5LnGy3JaNj256Hf213UFWG3CG75.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 500
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:30"
+    "última_actualización": "2026-09-05 22:03:26"
   },
   {
     "id": 1001072,
@@ -3218,7 +3146,100 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:31"
+    "última_actualización": "2026-09-05 22:03:29"
+  },
+  {
+    "id": 1650219,
+    "tmdb_id": 1650219,
+    "título": "Ese niño de la fotografía. Carlos Saura",
+    "título_original": "Ese niño de la fotografía. Carlos Saura",
+    "sinopsis": "Carlos Saura falleció en febrero del 2023 a los 91 años dejando más de 50 películas que han sido premiadas en los festivales más prestigiosos del mundo, miles de fotografías, dibujos, obras de teatro, novelas y un largo etcétera. Sin embargo, poca gente conoce cómo vivió sus últimos años culminando una de las carreras más prolíficas de la historia del cine y de la cultura contemporánea. A través de su archivo personal e inédito, Anna Saura nos ofrece la cosmovisión de su padre como ejemplo de vida y pasión por la creatividad sin límites.",
+    "poster_path": "/dxHjc7TxgUH10VAIPrzRURY3jIR.jpg",
+    "poster_local": "imagenes_estrenos/Ese_ni_o_de_la_fotograf_a__Carlos_Saura_xuzIqAa7DdmCWUhdnYKmdFZ4AGz.jpg",
+    "backdrop_path": "/i3sgb4jvdgoHhatRgNDweXQksBU.jpg",
+    "backdrop_local": "imagenes_estrenos/Ese_ni_o_de_la_fotograf_a__Carlos_Saura_backdrop_i3sgb4jvdgoHhatRgNDweXQksBU.jpg",
+    "fecha_estreno": "2026-09-18T00:00:00.000Z",
+    "duración": "80 min",
+    "director": "Anna Saura Ramón",
+    "directores": [
+      {
+        "name": "Anna Saura Ramón",
+        "id": 3123165
+      }
+    ],
+    "actores": [
+      {
+        "name": "Anna Saura Ramón",
+        "id": 3123165,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Carlos Saura",
+        "id": 96369,
+        "character": "",
+        "profile_path": "/jl9f6AiXClspedvewZ2akbhGoQG.jpg"
+      },
+      {
+        "name": "Eulalia Ramon Estrach",
+        "id": 102550,
+        "character": "",
+        "profile_path": "/erpJMOmTYaVQwfVwZM4yu6RPv9g.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 1.0741,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.782,
+          "height": 864,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/i3sgb4jvdgoHhatRgNDweXQksBU.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1540
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xuzIqAa7DdmCWUhdnYKmdFZ4AGz.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        },
+        {
+          "aspect_ratio": 0.7,
+          "height": 1200,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/dxHjc7TxgUH10VAIPrzRURY3jIR.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 840
+        }
+      ]
+    },
+    "última_actualización": "2026-09-05 22:03:29"
   },
   {
     "id": 1735913,
@@ -3383,7 +3404,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:28"
+    "última_actualización": "2026-09-05 22:03:25"
   },
   {
     "id": 1753626,
@@ -3471,7 +3492,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:27"
+    "última_actualización": "2026-09-05 22:03:25"
   },
   {
     "id": 1740257,
@@ -3570,7 +3591,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:30"
+    "última_actualización": "2026-09-05 22:03:29"
   },
   {
     "id": 1101412,
@@ -3634,8 +3655,8 @@
       }
     ],
     "popularidad": 92.2172,
-    "puntuación": 5.6,
-    "votos": 10,
+    "puntuación": 6.0,
+    "votos": 11,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3745,7 +3766,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:24"
+    "última_actualización": "2026-09-05 22:03:21"
   },
   {
     "id": 1263337,
@@ -3898,7 +3919,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:25"
+    "última_actualización": "2026-09-05 22:03:22"
   },
   {
     "id": 1465063,
@@ -4069,7 +4090,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:26"
+    "última_actualización": "2026-09-05 22:03:22"
   },
   {
     "id": 1422041,
@@ -4248,7 +4269,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:26"
+    "última_actualización": "2026-09-05 22:03:23"
   },
   {
     "id": 1542396,
@@ -4311,7 +4332,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:29"
+    "última_actualización": "2026-09-05 22:03:27"
   },
   {
     "id": 1368830,
@@ -4432,7 +4453,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:29"
+    "última_actualización": "2026-09-05 22:03:27"
   },
   {
     "id": 1753646,
@@ -4530,7 +4551,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:29"
+    "última_actualización": "2026-09-05 22:03:28"
   },
   {
     "id": 1388805,
@@ -4625,6 +4646,6 @@
         }
       ]
     },
-    "última_actualización": "2026-09-05 10:03:28"
+    "última_actualización": "2026-09-05 22:03:26"
   }
 ]
