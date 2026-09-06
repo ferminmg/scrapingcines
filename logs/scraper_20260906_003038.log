@@ -1,0 +1,61 @@
+2026-09-06 00:30:38,604 - INFO - Iniciando proceso de scraping
+2026-09-06 00:30:38,606 - INFO - Posts existentes encontrados: 2595
+2026-09-06 00:30:38,606 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-09-06 00:30:40,465 - INFO - Se encontraron 10 posts
+2026-09-06 00:30:40,466 - INFO - Comenzando extracción de información del post
+2026-09-06 00:30:40,466 - INFO - Título del post: LA CONSTELACIÓN DEL PERRO de Ridley Scott
+2026-09-06 00:30:40,466 - INFO - Fecha del post: 2026-09-06T01:08:16+02:00
+2026-09-06 00:30:40,466 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/la-constelacion-del-perro-ridley-scott/
+2026-09-06 00:30:42,569 - INFO - Contenido extraído y estructurado (4543 caracteres)
+2026-09-06 00:30:42,570 - INFO - Guardando post en: posts/LA_CONSTELACIÓN_DEL_PERRO_2026-09-06.json
+2026-09-06 00:30:42,570 - INFO - Post guardado exitosamente
+2026-09-06 00:30:42,570 - INFO - Actualizando índice de películas
+2026-09-06 00:30:42,570 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-09-06 00:30:42,576 - INFO - Índice existente cargado con 2692 películas
+2026-09-06 00:30:42,588 - INFO - Película agregada al índice: LA CONSTELACIÓN DEL PERRO
+2026-09-06 00:30:42,588 - INFO - Nuevo post guardado: LA CONSTELACIÓN DEL PERRO de Ridley Scott
+2026-09-06 00:30:42,588 - INFO - Comenzando extracción de información del post
+2026-09-06 00:30:42,588 - INFO - Título del post: UNA NOCHE AL AÑO de Will Gluck
+2026-09-06 00:30:42,588 - INFO - Fecha del post: 2026-09-06T00:57:14+02:00
+2026-09-06 00:30:42,589 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/una-noche-al-ano-will-gluck-travis-braun/
+2026-09-06 00:30:44,485 - INFO - Contenido extraído y estructurado (2535 caracteres)
+2026-09-06 00:30:44,486 - INFO - Guardando post en: posts/UNA_NOCHE_AL_AÑO_2026-09-06.json
+2026-09-06 00:30:44,486 - INFO - Post guardado exitosamente
+2026-09-06 00:30:44,486 - INFO - Actualizando índice de películas
+2026-09-06 00:30:44,486 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-09-06 00:30:44,491 - INFO - Índice existente cargado con 2693 películas
+2026-09-06 00:30:44,503 - INFO - Película agregada al índice: UNA NOCHE AL AÑO
+2026-09-06 00:30:44,504 - INFO - Nuevo post guardado: UNA NOCHE AL AÑO de Will Gluck
+2026-09-06 00:30:44,504 - INFO - Comenzando extracción de información del post
+2026-09-06 00:30:44,504 - INFO - Título del post: ERUPCJA de Pete Ohs
+2026-09-06 00:30:44,504 - INFO - Fecha del post: 2026-09-06T00:48:40+02:00
+2026-09-06 00:30:44,504 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/erupcja-charli-xcx-pete-ohs/
+2026-09-06 00:30:46,383 - INFO - Contenido extraído y estructurado (2840 caracteres)
+2026-09-06 00:30:46,384 - INFO - Guardando post en: posts/ERUPCJA_2026-09-06.json
+2026-09-06 00:30:46,385 - INFO - Post guardado exitosamente
+2026-09-06 00:30:46,385 - INFO - Actualizando índice de películas
+2026-09-06 00:30:46,385 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-09-06 00:30:46,389 - INFO - Índice existente cargado con 2694 películas
+2026-09-06 00:30:46,402 - INFO - Película agregada al índice: ERUPCJA
+2026-09-06 00:30:46,402 - INFO - Nuevo post guardado: ERUPCJA de Pete Ohs
+2026-09-06 00:30:46,402 - INFO - Comenzando extracción de información del post
+2026-09-06 00:30:46,402 - INFO - Post ya existente, saltando: EL SER QUERIDO de Rodrigo Sorogoyen
+2026-09-06 00:30:46,402 - INFO - Comenzando extracción de información del post
+2026-09-06 00:30:46,403 - INFO - Post ya existente, saltando: EL CORO DE PRAGA de Ondřej Provazník
+2026-09-06 00:30:46,403 - INFO - Comenzando extracción de información del post
+2026-09-06 00:30:46,403 - INFO - Post ya existente, saltando: PROMETIDO EL CIELO de Erige Sehiri
+2026-09-06 00:30:46,403 - INFO - Comenzando extracción de información del post
+2026-09-06 00:30:46,403 - INFO - Post ya existente, saltando: EL FINAL DE OAK STREET de David Robert Mitchell
+2026-09-06 00:30:46,403 - INFO - Comenzando extracción de información del post
+2026-09-06 00:30:46,403 - INFO - Título del post: ESTE / OESTE de Natja Brunckhorst
+2026-09-06 00:30:46,403 - INFO - Fecha del post: 2026-08-21T19:35:00+02:00
+2026-09-06 00:30:46,403 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/este-oeste-natja-brunckhorst/
+2026-09-06 00:30:48,138 - INFO - Contenido extraído y estructurado (2478 caracteres)
+2026-09-06 00:30:48,139 - INFO - Guardando post en: posts/ESTE_/_OESTE_2026-08-21.json
+2026-09-06 00:30:48,139 - ERROR - Error guardando post: [Errno 2] No such file or directory: 'posts/ESTE_/_OESTE_2026-08-21.json'
+2026-09-06 00:30:48,139 - INFO - Nuevo post guardado: ESTE / OESTE de Natja Brunckhorst
+2026-09-06 00:30:48,139 - INFO - Comenzando extracción de información del post
+2026-09-06 00:30:48,139 - INFO - Post ya existente, saltando: SIRI HUSTVEDT, LA DANZA DEL YO de Sabine Lidl
+2026-09-06 00:30:48,139 - INFO - Comenzando extracción de información del post
+2026-09-06 00:30:48,140 - INFO - Post ya existente, saltando: VIVIR LA TIERRA de Huo Meng
+2026-09-06 00:30:48,140 - INFO - Proceso completado. Posts nuevos guardados: 4
