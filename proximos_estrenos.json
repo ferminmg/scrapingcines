@@ -77,7 +77,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-08 10:03:59"
+    "última_actualización": "2026-09-08 22:04:17"
   },
   {
     "id": 1545621,
@@ -250,7 +250,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:55"
+    "última_actualización": "2026-09-08 22:04:12"
   },
   {
     "id": 1339588,
@@ -314,8 +314,8 @@
       }
     ],
     "popularidad": 13.733,
-    "puntuación": 6.965,
-    "votos": 44,
+    "puntuación": 6.767,
+    "votos": 45,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -378,6 +378,16 @@
           "height": 1500,
           "iso_3166_1": null,
           "iso_639_1": null,
+          "file_path": "/cZw85X0OWTgisUBbz9dO1HLdAya.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/qcE9ErNspRP3BvxxsnWVetcSa19.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -415,7 +425,152 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:56"
+    "última_actualización": "2026-09-08 22:04:13"
+  },
+  {
+    "id": 1198654,
+    "tmdb_id": 1198654,
+    "título": "Bad Apples",
+    "título_original": "Bad Apples",
+    "sinopsis": "Una maestra de primaria con dificultades empieza a tomar decisiones cuestionables después de que uno de sus alumnos resulta herido.",
+    "poster_path": "/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
+    "poster_local": "imagenes_estrenos/Manzanas_Podridas_sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
+    "backdrop_path": "/A5sGEzVMjvbgh5ZniaHBXAxppKQ.jpg",
+    "backdrop_local": "imagenes_estrenos/Manzanas_Podridas_backdrop_dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
+    "fecha_estreno": "2026-09-11T00:00:00.000Z",
+    "duración": "100 min",
+    "director": "Jonatan Etzler",
+    "directores": [
+      {
+        "name": "Jonatan Etzler",
+        "id": 1878578
+      }
+    ],
+    "actores": [
+      {
+        "name": "Saoirse Ronan",
+        "id": 36592,
+        "character": "Maria",
+        "profile_path": "/tsk3iKGmMgXIGbRjwf2zYkh8Zkb.jpg"
+      },
+      {
+        "name": "Jacob Anderson",
+        "id": 964792,
+        "character": "Sam",
+        "profile_path": "/cWO1DdhFXWs5r8baNOPaVaJ56x6.jpg"
+      },
+      {
+        "name": "Sean Gilder",
+        "id": 77292,
+        "character": "Frank",
+        "profile_path": "/osZt3mxl2wYFR3EUyp1KADBux77.jpg"
+      },
+      {
+        "name": "Robert Emms",
+        "id": 589652,
+        "character": "Josh",
+        "profile_path": "/yqXBUz5WMcuicfyp6GlKSLBdBJH.jpg"
+      },
+      {
+        "name": "Rakie Ayola",
+        "id": 195575,
+        "character": "Sylvia",
+        "profile_path": "/oaLs5ACdurV2lij6GEidn0fSrUq.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 11.3134,
+    "puntuación": 7.2,
+    "votos": 2,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/A5sGEzVMjvbgh5ZniaHBXAxppKQ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 818,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vCON4BAZcBHc4CflkGr3NVo6DwW.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1454
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 816,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ftPOcrwOfYL2Ak0N7QXf4myvT53.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 1451
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/uPY2IWpkdTj0md7VLzlX171TbHo.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7Ds1XbzwxsmS7MQU5OsxFPtc7Wt.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1200,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3UadAIom5KjJ42mWt5No8C6VhKH.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 800
+        }
+      ]
+    },
+    "última_actualización": "2026-09-08 22:04:13"
   },
   {
     "id": 1447853,
@@ -564,152 +719,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:56"
-  },
-  {
-    "id": 1198654,
-    "tmdb_id": 1198654,
-    "título": "Bad Apples",
-    "título_original": "Bad Apples",
-    "sinopsis": "Una maestra de primaria con dificultades empieza a tomar decisiones cuestionables después de que uno de sus alumnos resulta herido.",
-    "poster_path": "/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
-    "poster_local": "imagenes_estrenos/Manzanas_Podridas_sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
-    "backdrop_path": "/A5sGEzVMjvbgh5ZniaHBXAxppKQ.jpg",
-    "backdrop_local": "imagenes_estrenos/Manzanas_Podridas_backdrop_dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
-    "fecha_estreno": "2026-09-11T00:00:00.000Z",
-    "duración": "100 min",
-    "director": "Jonatan Etzler",
-    "directores": [
-      {
-        "name": "Jonatan Etzler",
-        "id": 1878578
-      }
-    ],
-    "actores": [
-      {
-        "name": "Saoirse Ronan",
-        "id": 36592,
-        "character": "Maria",
-        "profile_path": "/tsk3iKGmMgXIGbRjwf2zYkh8Zkb.jpg"
-      },
-      {
-        "name": "Jacob Anderson",
-        "id": 964792,
-        "character": "Sam",
-        "profile_path": "/cWO1DdhFXWs5r8baNOPaVaJ56x6.jpg"
-      },
-      {
-        "name": "Sean Gilder",
-        "id": 77292,
-        "character": "Frank",
-        "profile_path": "/osZt3mxl2wYFR3EUyp1KADBux77.jpg"
-      },
-      {
-        "name": "Robert Emms",
-        "id": 589652,
-        "character": "Josh",
-        "profile_path": "/yqXBUz5WMcuicfyp6GlKSLBdBJH.jpg"
-      },
-      {
-        "name": "Rakie Ayola",
-        "id": 195575,
-        "character": "Sylvia",
-        "profile_path": "/oaLs5ACdurV2lij6GEidn0fSrUq.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 11.3134,
-    "puntuación": 7.2,
-    "votos": 2,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/A5sGEzVMjvbgh5ZniaHBXAxppKQ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 818,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/vCON4BAZcBHc4CflkGr3NVo6DwW.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 1454
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 816,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ftPOcrwOfYL2Ak0N7QXf4myvT53.jpg",
-          "vote_average": 0.0,
-          "vote_count": 1,
-          "width": 1451
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/uPY2IWpkdTj0md7VLzlX171TbHo.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/7Ds1XbzwxsmS7MQU5OsxFPtc7Wt.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1200,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/3UadAIom5KjJ42mWt5No8C6VhKH.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 800
-        }
-      ]
-    },
-    "última_actualización": "2026-09-08 10:03:56"
+    "última_actualización": "2026-09-08 22:04:13"
   },
   {
     "id": 1690901,
@@ -808,7 +818,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:56"
+    "última_actualización": "2026-09-08 22:04:14"
   },
   {
     "id": 1274757,
@@ -899,7 +909,243 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:57"
+    "última_actualización": "2026-09-08 22:04:16"
+  },
+  {
+    "id": 1421148,
+    "tmdb_id": 1421148,
+    "título": "Mother's Baby (La semilla)",
+    "título_original": "Mother's Baby",
+    "sinopsis": "Julia, una exitosa directora de orquesta de cuarenta años, y su pareja Georg anhelan tener un hijo cuando el Dr. Vilfort, especialista en fertilidad de una clínica privada, les ofrece esperanzas con un procedimiento experimental. Julia se queda embarazada tras un exitoso tratamiento en la clínica. Sin embargo, el parto no sale como estaba previsto y se llevan al bebé inmediatamente para someterlo a un tratamiento adicional, dejando a Julia y a su marido sin saber lo que ha ocurrido. Cuando Julia se reúne por fin con el niño, se siente extrañamente distante. La presencia del bebé pone a prueba su matrimonio, ya que se hace evidente que Julia tiene dudas sobre si el bebé que han traído a casa es realmente suyo.",
+    "poster_path": "/4xRK4WWXyGHuAbc7ur6TQ9jme8e.jpg",
+    "poster_local": "imagenes_estrenos/Mother_s_Baby__La_semilla__m6yJujB6lCGascMUvhNIJuKegJJ.jpg",
+    "backdrop_path": "/6qQfRmIQ0p4sgFhVRqC8ItJO27E.jpg",
+    "backdrop_local": "imagenes_estrenos/Mother_s_Baby__La_semilla__backdrop_6qQfRmIQ0p4sgFhVRqC8ItJO27E.jpg",
+    "fecha_estreno": "2026-09-11T00:00:00.000Z",
+    "duración": "108 min",
+    "director": "Johanna Moder",
+    "directores": [
+      {
+        "name": "Johanna Moder",
+        "id": 1369352
+      }
+    ],
+    "actores": [
+      {
+        "name": "Marie Leuenberger",
+        "id": 90119,
+        "character": "Julia",
+        "profile_path": "/z2AaNUK7TyOsa6Se2LJO57IJKzB.jpg"
+      },
+      {
+        "name": "Hans Löw",
+        "id": 5853,
+        "character": "Georg",
+        "profile_path": "/eu2VBm55a9aQNKEtFY9qKGm5ya5.jpg"
+      },
+      {
+        "name": "Claes Bang",
+        "id": 150802,
+        "character": "Dr. Vilfort",
+        "profile_path": "/allXGdenaUpFq1bJSIeZPkJeHfe.jpg"
+      },
+      {
+        "name": "Julia Franz Richter",
+        "id": 1963404,
+        "character": "Gerlinde",
+        "profile_path": "/iVSMl2PIZJJYsBzDUmomIu95f6b.jpg"
+      },
+      {
+        "name": "Nina Fog",
+        "id": 26202,
+        "character": "Renata",
+        "profile_path": "/xB6TGcsn9blgaASrFOV59aNtXFz.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 1.7102,
+    "puntuación": 5.9,
+    "votos": 7,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6qQfRmIQ0p4sgFhVRqC8ItJO27E.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/lQowuDPOyE4k2GeNxIzv73fPU30.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1470,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wwdEdC7B3TOl9WBKnwcH1vhQhZz.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 2613
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1606,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/pulBNQ0dWPCy5sTwid88wZqQLOq.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 2855
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1604,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/kvQpl130NZi7XeEEa5t0PckJ8ia.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2852
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 1000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/4xRK4WWXyGHuAbc7ur6TQ9jme8e.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 700
+        }
+      ]
+    },
+    "última_actualización": "2026-09-08 22:04:18"
+  },
+  {
+    "id": 1364168,
+    "tmdb_id": 1364168,
+    "título": "El ritual de Lily",
+    "título_original": "El ritual de Lily",
+    "sinopsis": "Cuatro amigas se reúnen en una cabaña aislada para un ritual de brujas, pero Lily descubre que será sacrificada al demonio Lilith.",
+    "poster_path": "/ryRhUfyF9j4Ty01gnZyZkJCshTs.jpg",
+    "poster_local": "imagenes_estrenos/El_ritual_de_Lily_ryRhUfyF9j4Ty01gnZyZkJCshTs.jpg",
+    "backdrop_path": "/fZET7t09TAgxFw80tYzqBsjtjb6.jpg",
+    "backdrop_local": "imagenes_estrenos/El_ritual_de_Lily_backdrop_fZET7t09TAgxFw80tYzqBsjtjb6.jpg",
+    "fecha_estreno": "2026-09-11T00:00:00.000Z",
+    "duración": "105 min",
+    "director": "Manu Herrera",
+    "directores": [
+      {
+        "name": "Manu Herrera",
+        "id": 2774034
+      }
+    ],
+    "actores": [
+      {
+        "name": "Maggie García",
+        "id": 3053482,
+        "character": "Lily",
+        "profile_path": "/rDHTtPSI80kKpjGjFbOFv8UbL9M.jpg"
+      },
+      {
+        "name": "Patricia Peñalver",
+        "id": 2510657,
+        "character": "Lola",
+        "profile_path": "/txdyKJnQD3sia5iJ4Q4ruFXhnco.jpg"
+      },
+      {
+        "name": "Eve Ryan",
+        "id": 3578019,
+        "character": "Laura",
+        "profile_path": "/lqNMF1KmRt2R76GBblGH1mxum8P.jpg"
+      },
+      {
+        "name": "Elena Gallardo",
+        "id": 2949789,
+        "character": "Leo",
+        "profile_path": "/95ligT9ib4ozgYZCGSttxFU5sTn.jpg"
+      },
+      {
+        "name": "Mike Fajardo",
+        "id": 4377946,
+        "character": "Adam",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 1.6993,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/fZET7t09TAgxFw80tYzqBsjtjb6.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1824,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ryRhUfyF9j4Ty01gnZyZkJCshTs.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1216
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1824,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6M6PL4bEvGutEmIrIye9wH9BN6O.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1216
+        }
+      ]
+    },
+    "última_actualización": "2026-09-08 22:04:18"
   },
   {
     "id": 1536053,
@@ -1066,243 +1312,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:58"
-  },
-  {
-    "id": 1421148,
-    "tmdb_id": 1421148,
-    "título": "Mother's Baby (La semilla)",
-    "título_original": "Mother's Baby",
-    "sinopsis": "Julia, una exitosa directora de orquesta de cuarenta años, y su pareja Georg anhelan tener un hijo cuando el Dr. Vilfort, especialista en fertilidad de una clínica privada, les ofrece esperanzas con un procedimiento experimental. Julia se queda embarazada tras un exitoso tratamiento en la clínica. Sin embargo, el parto no sale como estaba previsto y se llevan al bebé inmediatamente para someterlo a un tratamiento adicional, dejando a Julia y a su marido sin saber lo que ha ocurrido. Cuando Julia se reúne por fin con el niño, se siente extrañamente distante. La presencia del bebé pone a prueba su matrimonio, ya que se hace evidente que Julia tiene dudas sobre si el bebé que han traído a casa es realmente suyo.",
-    "poster_path": "/4xRK4WWXyGHuAbc7ur6TQ9jme8e.jpg",
-    "poster_local": "imagenes_estrenos/Mother_s_Baby__La_semilla__m6yJujB6lCGascMUvhNIJuKegJJ.jpg",
-    "backdrop_path": "/6qQfRmIQ0p4sgFhVRqC8ItJO27E.jpg",
-    "backdrop_local": "imagenes_estrenos/Mother_s_Baby__La_semilla__backdrop_6qQfRmIQ0p4sgFhVRqC8ItJO27E.jpg",
-    "fecha_estreno": "2026-09-11T00:00:00.000Z",
-    "duración": "108 min",
-    "director": "Johanna Moder",
-    "directores": [
-      {
-        "name": "Johanna Moder",
-        "id": 1369352
-      }
-    ],
-    "actores": [
-      {
-        "name": "Marie Leuenberger",
-        "id": 90119,
-        "character": "Julia",
-        "profile_path": "/z2AaNUK7TyOsa6Se2LJO57IJKzB.jpg"
-      },
-      {
-        "name": "Hans Löw",
-        "id": 5853,
-        "character": "Georg",
-        "profile_path": "/eu2VBm55a9aQNKEtFY9qKGm5ya5.jpg"
-      },
-      {
-        "name": "Claes Bang",
-        "id": 150802,
-        "character": "Dr. Vilfort",
-        "profile_path": "/allXGdenaUpFq1bJSIeZPkJeHfe.jpg"
-      },
-      {
-        "name": "Julia Franz Richter",
-        "id": 1963404,
-        "character": "Gerlinde",
-        "profile_path": "/iVSMl2PIZJJYsBzDUmomIu95f6b.jpg"
-      },
-      {
-        "name": "Nina Fog",
-        "id": 26202,
-        "character": "Renata",
-        "profile_path": "/xB6TGcsn9blgaASrFOV59aNtXFz.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 53,
-        "name": "Suspense"
-      },
-      {
-        "id": 27,
-        "name": "Terror"
-      }
-    ],
-    "popularidad": 1.7102,
-    "puntuación": 5.9,
-    "votos": 7,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6qQfRmIQ0p4sgFhVRqC8ItJO27E.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/lQowuDPOyE4k2GeNxIzv73fPU30.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1470,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wwdEdC7B3TOl9WBKnwcH1vhQhZz.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 2613
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1606,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/pulBNQ0dWPCy5sTwid88wZqQLOq.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 2855
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1604,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/kvQpl130NZi7XeEEa5t0PckJ8ia.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2852
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.7,
-          "height": 1000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/4xRK4WWXyGHuAbc7ur6TQ9jme8e.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 700
-        }
-      ]
-    },
-    "última_actualización": "2026-09-08 10:03:58"
-  },
-  {
-    "id": 1364168,
-    "tmdb_id": 1364168,
-    "título": "El ritual de Lily",
-    "título_original": "El ritual de Lily",
-    "sinopsis": "Cuatro amigas se reúnen en una cabaña aislada para un ritual de brujas, pero Lily descubre que será sacrificada al demonio Lilith.",
-    "poster_path": "/ryRhUfyF9j4Ty01gnZyZkJCshTs.jpg",
-    "poster_local": "imagenes_estrenos/El_ritual_de_Lily_ryRhUfyF9j4Ty01gnZyZkJCshTs.jpg",
-    "backdrop_path": "/fZET7t09TAgxFw80tYzqBsjtjb6.jpg",
-    "backdrop_local": "imagenes_estrenos/El_ritual_de_Lily_backdrop_fZET7t09TAgxFw80tYzqBsjtjb6.jpg",
-    "fecha_estreno": "2026-09-11T00:00:00.000Z",
-    "duración": "105 min",
-    "director": "Manu Herrera",
-    "directores": [
-      {
-        "name": "Manu Herrera",
-        "id": 2774034
-      }
-    ],
-    "actores": [
-      {
-        "name": "Maggie García",
-        "id": 3053482,
-        "character": "Lily",
-        "profile_path": "/rDHTtPSI80kKpjGjFbOFv8UbL9M.jpg"
-      },
-      {
-        "name": "Patricia Peñalver",
-        "id": 2510657,
-        "character": "Lola",
-        "profile_path": "/txdyKJnQD3sia5iJ4Q4ruFXhnco.jpg"
-      },
-      {
-        "name": "Eve Ryan",
-        "id": 3578019,
-        "character": "Laura",
-        "profile_path": "/lqNMF1KmRt2R76GBblGH1mxum8P.jpg"
-      },
-      {
-        "name": "Elena Gallardo",
-        "id": 2949789,
-        "character": "Leo",
-        "profile_path": "/95ligT9ib4ozgYZCGSttxFU5sTn.jpg"
-      },
-      {
-        "name": "Mike Fajardo",
-        "id": 4377946,
-        "character": "Adam",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      }
-    ],
-    "popularidad": 1.6993,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/fZET7t09TAgxFw80tYzqBsjtjb6.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1824,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ryRhUfyF9j4Ty01gnZyZkJCshTs.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1216
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1824,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6M6PL4bEvGutEmIrIye9wH9BN6O.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1216
-        }
-      ]
-    },
-    "última_actualización": "2026-09-08 10:03:58"
+    "última_actualización": "2026-09-08 22:04:19"
   },
   {
     "id": 1744439,
@@ -1382,7 +1392,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:58"
+    "última_actualización": "2026-09-08 22:04:19"
   },
   {
     "id": 1455084,
@@ -1491,7 +1501,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:58"
+    "última_actualización": "2026-09-08 22:04:19"
   },
   {
     "id": 1745792,
@@ -1575,7 +1585,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:59"
+    "última_actualización": "2026-09-08 22:04:20"
   },
   {
     "id": 1732875,
@@ -1643,7 +1653,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:59"
+    "última_actualización": "2026-09-08 22:04:21"
   },
   {
     "id": 1758305,
@@ -1705,7 +1715,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-08 10:03:59"
+    "última_actualización": "2026-09-08 22:04:21"
   },
   {
     "id": 1517127,
@@ -1810,7 +1820,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:56"
+    "última_actualización": "2026-09-08 22:04:14"
   },
   {
     "id": 1739482,
@@ -1905,7 +1915,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:57"
+    "última_actualización": "2026-09-08 22:04:16"
   },
   {
     "id": 1204680,
@@ -1973,8 +1983,8 @@
       }
     ],
     "popularidad": 654.7252,
-    "puntuación": 7.692,
-    "votos": 219,
+    "puntuación": 7.652,
+    "votos": 231,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2084,7 +2094,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:55"
+    "última_actualización": "2026-09-08 22:04:11"
   },
   {
     "id": 1423191,
@@ -2259,7 +2269,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:55"
+    "última_actualización": "2026-09-08 22:04:11"
   },
   {
     "id": 1122573,
@@ -2324,7 +2334,7 @@
     ],
     "popularidad": 41.1116,
     "puntuación": 7.579,
-    "votos": 902,
+    "votos": 903,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2434,7 +2444,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:55"
+    "última_actualización": "2026-09-08 22:04:11"
   },
   {
     "id": 1318413,
@@ -2506,7 +2516,7 @@
       }
     ],
     "popularidad": 23.5283,
-    "puntuación": 7.772,
+    "puntuación": 7.769,
     "votos": 349,
     "adulto": false,
     "video": false,
@@ -2597,7 +2607,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:55"
+    "última_actualización": "2026-09-08 22:04:12"
   },
   {
     "id": 1228834,
@@ -2702,7 +2712,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:56"
+    "última_actualización": "2026-09-08 22:04:14"
   },
   {
     "id": 1649218,
@@ -2813,7 +2823,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:56"
+    "última_actualización": "2026-09-08 22:04:15"
   },
   {
     "id": 1291829,
@@ -2954,7 +2964,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:57"
+    "última_actualización": "2026-09-08 22:04:15"
   },
   {
     "id": 1721500,
@@ -3049,7 +3059,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:57"
+    "última_actualización": "2026-09-08 22:04:17"
   },
   {
     "id": 1368830,
@@ -3170,7 +3180,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:58"
+    "última_actualización": "2026-09-08 22:04:17"
   },
   {
     "id": 1001072,
@@ -3311,7 +3321,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:59"
+    "última_actualización": "2026-09-08 22:04:20"
   },
   {
     "id": 1650219,
@@ -3557,7 +3567,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:57"
+    "última_actualización": "2026-09-08 22:04:16"
   },
   {
     "id": 1753626,
@@ -3645,14 +3655,14 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:57"
+    "última_actualización": "2026-09-08 22:04:15"
   },
   {
     "id": 1740257,
     "tmdb_id": 1740257,
     "título": "NCT 127 5TH TOUR ‘NEO CITY  SEOUL - THE REDLINE’ in CINEMAS",
     "título_original": "NCT 127 5TH TOUR ‘NEO CITY  SEOUL - THE REDLINE’ in CINEMAS",
-    "sinopsis": "",
+    "sinopsis": "Tras casi dos años de espera, la quinta gira de NCT 127, «NCT 127 5TH TOUR ‘NEO CITY : SEOUL - THE REDLINE’», ¡llega a los cines! Vive la energía explosiva, las actuaciones de talla mundial y la atmósfera electrizante del KSPO DOME en la gran pantalla y con un sonido envolvente. NCTzens, ¡acompañadnos en el espectacular inicio de «THE REDLINE»!",
     "poster_path": "/wLItpgfVeRL4VlqoaQJRQXzUmc1.jpg",
     "poster_local": "imagenes_estrenos/NCT_127_5TH_TOUR__NEO_CITY__SEOUL___THE_REDLINE__in_CINEMAS_wLItpgfVeRL4VlqoaQJRQXzUmc1.jpg",
     "backdrop_path": "/lqDLtZ8pdSPZZR6k8S2pqGTfuZz.jpg",
@@ -3744,7 +3754,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:59"
+    "última_actualización": "2026-09-08 22:04:20"
   },
   {
     "id": 1739413,
@@ -3818,7 +3828,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-08 10:03:59"
+    "última_actualización": "2026-09-08 22:04:20"
   },
   {
     "id": 1101412,
@@ -3828,7 +3838,7 @@
     "sinopsis": "Durante un peligroso ascenso por el monte Kwan, en Tailandia, dos escaladores quedan atrapados a miles de pies de altura; allí, las alturas que provocan vértigo, la exposición extrema y unas probabilidades de éxito casi nulas convierten cada instante en una lucha por la supervivencia.",
     "poster_path": "/7ODJFeX9gp4QfK6aFItw4CCrPfr.jpg",
     "poster_local": "imagenes_estrenos/Vertigo_2__Punto_muerto_xQlESgkDM7rczAWySdB0WBomh39.jpg",
-    "backdrop_path": "/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+    "backdrop_path": "/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
     "backdrop_local": "imagenes_estrenos/Vertigo_2__Punto_muerto_backdrop_g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
     "fecha_estreno": "2026-09-25T00:00:00.000Z",
     "duración": "98 min",
@@ -3993,7 +4003,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:55"
+    "última_actualización": "2026-09-08 22:04:11"
   },
   {
     "id": 1263337,
@@ -4146,7 +4156,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:55"
+    "última_actualización": "2026-09-08 22:04:12"
   },
   {
     "id": 1465063,
@@ -4245,6 +4255,16 @@
         },
         {
           "aspect_ratio": 1.778,
+          "height": 803,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/acJMSEaUdRgUCj26hk8VAZSFRNf.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1428
+        },
+        {
+          "aspect_ratio": 1.778,
           "height": 1215,
           "iso_3166_1": null,
           "iso_639_1": null,
@@ -4272,16 +4292,6 @@
           "vote_average": 1.75,
           "vote_count": 2,
           "width": 2160
-        },
-        {
-          "aspect_ratio": 1.78,
-          "height": 800,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/aES4LfrjUhYsj9xF4hOIPfvoIW2.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1424
         }
       ],
       "posters": [
@@ -4317,7 +4327,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:55"
+    "última_actualización": "2026-09-08 22:04:13"
   },
   {
     "id": 1422041,
@@ -4496,7 +4506,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:56"
+    "última_actualización": "2026-09-08 22:04:14"
   },
   {
     "id": 1542396,
@@ -4564,7 +4574,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:58"
+    "última_actualización": "2026-09-08 22:04:18"
   },
   {
     "id": 1649011,
@@ -4606,7 +4616,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-09-08 10:03:58"
+    "última_actualización": "2026-09-08 22:04:19"
   },
   {
     "id": 1753646,
@@ -4704,7 +4714,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:57"
+    "última_actualización": "2026-09-08 22:04:17"
   },
   {
     "id": 1388805,
@@ -4799,6 +4809,6 @@
         }
       ]
     },
-    "última_actualización": "2026-09-08 10:03:57"
+    "última_actualización": "2026-09-08 22:04:16"
   }
 ]
