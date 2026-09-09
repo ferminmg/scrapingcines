@@ -115,6 +115,33 @@
         "año": null
     },
     {
+        "título": "Always Lalisa",
+        "cartel": "imagenes_filmaffinity/tmdb_always-lalisa.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-10-12",
+                "hora": "20:05",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=33201"
+            },
+            {
+                "fecha": "2026-10-14",
+                "hora": "20:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=33202"
+            },
+            {
+                "fecha": "2026-10-17",
+                "hora": "20:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=33203"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Sue Kim",
+        "duración": "97 min",
+        "actores": "LISA",
+        "sinopsis": "",
+        "año": "2026"
+    },
+    {
         "título": "Dune: Parte Tres",
         "cartel": "imagenes_filmaffinity/tmdb_dune-parte-tres.jpg",
         "horarios": [
