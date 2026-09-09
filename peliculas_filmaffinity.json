@@ -113,5 +113,22 @@
         "actores": null,
         "sinopsis": null,
         "año": null
+    },
+    {
+        "título": "Dune: Parte Tres",
+        "cartel": "imagenes_filmaffinity/tmdb_dune-parte-tres.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-12-15",
+                "hora": "20:30",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=33065"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Denis Villeneuve",
+        "duración": "140 min",
+        "actores": "Timothée Chalamet, Zendaya, Jason Momoa, Florence Pugh, Rebecca Ferguson",
+        "sinopsis": "Paul Atreides, ahora Emperador Muad'Dib, se desenvuelve en su inmenso poder mientras lucha contra enemigos políticos y una conspiración dentro de su círculo. Mientras la Casa Atreides se enfrenta al colapso, surge el verdadero peligro para la amante de Paul, Chani, y su heredero nonato.",
+        "año": "2026"
     }
 ]
