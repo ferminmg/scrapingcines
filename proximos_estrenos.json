@@ -132,7 +132,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-09-13 10:11:24"
+    "última_actualización": "2026-09-13 22:03:03"
   },
   {
     "id": 1769011,
@@ -165,7 +165,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-09-13 10:11:25"
+    "última_actualización": "2026-09-13 22:03:04"
   },
   {
     "id": 1204680,
@@ -233,8 +233,8 @@
       }
     ],
     "popularidad": 590.1793,
-    "puntuación": 7.621,
-    "votos": 336,
+    "puntuación": 7.626,
+    "votos": 348,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -344,7 +344,182 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:18"
+    "última_actualización": "2026-09-13 22:03:00"
+  },
+  {
+    "id": 1122573,
+    "tmdb_id": 1122573,
+    "título": "En la zona gris",
+    "título_original": "In the Grey",
+    "sinopsis": "Un equipo encubierto de agentes de élite viven en la sombra, tan cómodos manejando el poder y la influencia como armas automáticas y explosivos de gran potencia. Cuando un déspota roba una fortuna de mil millones de dólares, son enviados a recuperarla en lo que para cualquier otro sería una misión suicida. Lo que comienza como un atraco imposible empeora aún más y se convierte en una guerra total de estrategia, engaño y supervivencia.",
+    "poster_path": "/kQik7Yfcs3O8dCBpIUGSdXOMOnQ.jpg",
+    "poster_local": "imagenes_estrenos/En_la_zona_gris_kQik7Yfcs3O8dCBpIUGSdXOMOnQ.jpg",
+    "backdrop_path": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+    "backdrop_local": "imagenes_estrenos/En_la_zona_gris_backdrop_qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+    "fecha_estreno": "2026-09-18T00:00:00.000Z",
+    "duración": "97 min",
+    "director": "Guy Ritchie",
+    "directores": [
+      {
+        "name": "Guy Ritchie",
+        "id": 956
+      }
+    ],
+    "actores": [
+      {
+        "name": "Henry Cavill",
+        "id": 73968,
+        "character": "Sid",
+        "profile_path": "/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
+      },
+      {
+        "name": "Jake Gyllenhaal",
+        "id": 131,
+        "character": "Bronco",
+        "profile_path": "/ct2Gh2sJSxd4yaMrSsqSt1HpIC3.jpg"
+      },
+      {
+        "name": "Eiza González",
+        "id": 1222992,
+        "character": "Rachel",
+        "profile_path": "/v8CnaoJqdPwkQhJeGwgJDnESOd6.jpg"
+      },
+      {
+        "name": "Carlos Bardem",
+        "id": 78882,
+        "character": "Manny Salazar",
+        "profile_path": "/4eVSnaYe4O06BNZjuw8UHnWaqB5.jpg"
+      },
+      {
+        "name": "Michael Vu",
+        "id": 553271,
+        "character": "Ed Glover",
+        "profile_path": "/rHtIIqQvViPHovSJkDzDegBU6nb.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 48.5177,
+    "puntuación": 7.584,
+    "votos": 951,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+          "vote_average": 6.722,
+          "vote_count": 6,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mjlwr0He035AUmVZ2iH0DcRvcje.jpg",
+          "vote_average": 5.928,
+          "vote_count": 14,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oBft4BZeoDQzTT9ZGijClr76qvK.jpg",
+          "vote_average": 4.722,
+          "vote_count": 18,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1344,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/bIy0555ukSqweSqG9MtRnoyisQI.jpg",
+          "vote_average": 3.852,
+          "vote_count": 17,
+          "width": 2390
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/w5cjVyA8t2CwEaYSpOyKqbk5nLE.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/parLHiFZtrzsCygZhv3kHWqmoN7.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/kQik7Yfcs3O8dCBpIUGSdXOMOnQ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/4DvamJTelES3HV37ZV5R7OWD4Tp.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1620,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wdTKIeUpIbykLDtS06PoaItUNjs.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1080
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vH3L70wKpLblHK9HyDjjCdwOXWM.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-09-13 22:03:00"
   },
   {
     "id": 1423191,
@@ -357,7 +532,7 @@
     "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
     "backdrop_local": "imagenes_estrenos/Resident_Evil_backdrop_mRM28tIIm8y0gKy9GKYGwotxuPM.jpg",
     "fecha_estreno": "2026-09-18T00:00:00.000Z",
-    "duración": "91 min",
+    "duración": "95 min",
     "director": "Zach Cregger",
     "directores": [
       {
@@ -523,182 +698,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:18"
-  },
-  {
-    "id": 1122573,
-    "tmdb_id": 1122573,
-    "título": "En la zona gris",
-    "título_original": "In the Grey",
-    "sinopsis": "Un equipo encubierto de agentes de élite viven en la sombra, tan cómodos manejando el poder y la influencia como armas automáticas y explosivos de gran potencia. Cuando un déspota roba una fortuna de mil millones de dólares, son enviados a recuperarla en lo que para cualquier otro sería una misión suicida. Lo que comienza como un atraco imposible empeora aún más y se convierte en una guerra total de estrategia, engaño y supervivencia.",
-    "poster_path": "/kQik7Yfcs3O8dCBpIUGSdXOMOnQ.jpg",
-    "poster_local": "imagenes_estrenos/En_la_zona_gris_kQik7Yfcs3O8dCBpIUGSdXOMOnQ.jpg",
-    "backdrop_path": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
-    "backdrop_local": "imagenes_estrenos/En_la_zona_gris_backdrop_qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
-    "fecha_estreno": "2026-09-18T00:00:00.000Z",
-    "duración": "97 min",
-    "director": "Guy Ritchie",
-    "directores": [
-      {
-        "name": "Guy Ritchie",
-        "id": 956
-      }
-    ],
-    "actores": [
-      {
-        "name": "Henry Cavill",
-        "id": 73968,
-        "character": "Sid",
-        "profile_path": "/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
-      },
-      {
-        "name": "Jake Gyllenhaal",
-        "id": 131,
-        "character": "Bronco",
-        "profile_path": "/ct2Gh2sJSxd4yaMrSsqSt1HpIC3.jpg"
-      },
-      {
-        "name": "Eiza González",
-        "id": 1222992,
-        "character": "Rachel",
-        "profile_path": "/v8CnaoJqdPwkQhJeGwgJDnESOd6.jpg"
-      },
-      {
-        "name": "Carlos Bardem",
-        "id": 78882,
-        "character": "Manny Salazar",
-        "profile_path": "/4eVSnaYe4O06BNZjuw8UHnWaqB5.jpg"
-      },
-      {
-        "name": "Michael Vu",
-        "id": 553271,
-        "character": "Ed Glover",
-        "profile_path": "/rHtIIqQvViPHovSJkDzDegBU6nb.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 28,
-        "name": "Acción"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 48.5177,
-    "puntuación": 7.58,
-    "votos": 946,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
-          "vote_average": 6.722,
-          "vote_count": 6,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/mjlwr0He035AUmVZ2iH0DcRvcje.jpg",
-          "vote_average": 5.928,
-          "vote_count": 14,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/oBft4BZeoDQzTT9ZGijClr76qvK.jpg",
-          "vote_average": 4.722,
-          "vote_count": 18,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1344,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/bIy0555ukSqweSqG9MtRnoyisQI.jpg",
-          "vote_average": 3.852,
-          "vote_count": 17,
-          "width": 2390
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/w5cjVyA8t2CwEaYSpOyKqbk5nLE.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/parLHiFZtrzsCygZhv3kHWqmoN7.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/kQik7Yfcs3O8dCBpIUGSdXOMOnQ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/4DvamJTelES3HV37ZV5R7OWD4Tp.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1620,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wdTKIeUpIbykLDtS06PoaItUNjs.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1080
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/vH3L70wKpLblHK9HyDjjCdwOXWM.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-09-13 10:11:19"
+    "última_actualización": "2026-09-13 22:03:00"
   },
   {
     "id": 1318413,
@@ -770,8 +770,8 @@
       }
     ],
     "popularidad": 24.4617,
-    "puntuación": 7.724,
-    "votos": 378,
+    "puntuación": 7.72,
+    "votos": 382,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -871,7 +871,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:19"
+    "última_actualización": "2026-09-13 22:03:00"
   },
   {
     "id": 1228834,
@@ -914,7 +914,7 @@
       {
         "name": "Titus Welliver",
         "id": 39389,
-        "character": "",
+        "character": "James",
         "profile_path": "/3hTwn7Maktr6ONq1VvfqyRacjiv.jpg"
       },
       {
@@ -996,7 +996,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:20"
+    "última_actualización": "2026-09-13 22:03:01"
   },
   {
     "id": 1649218,
@@ -1107,7 +1107,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:20"
+    "última_actualización": "2026-09-13 22:03:01"
   },
   {
     "id": 1291829,
@@ -1248,7 +1248,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:22"
+    "última_actualización": "2026-09-13 22:03:02"
   },
   {
     "id": 1368830,
@@ -1369,102 +1369,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:24"
-  },
-  {
-    "id": 1721500,
-    "tmdb_id": 1721500,
-    "título": "La carta de Óscar",
-    "título_original": "La carta de Óscar",
-    "sinopsis": "Carmen demanda un poco más de atención a su marido, Ibón, pero el trabajo de éste acapara su  tiempo de tal manera que apenas pueden verse. Oscar, el hijo de ambos, intenta que sus padres le hagan caso, pero ellos están siempre “a otras cosas”. Además, Óscar tiene problemas en el colegio que no sabe cómo resolver, porque no ve el momento de contarlos en casa.",
-    "poster_path": "/5LnGy3JaNj256Hf213UFWG3CG75.jpg",
-    "poster_local": "imagenes_estrenos/La_carta_de__scar_5LnGy3JaNj256Hf213UFWG3CG75.jpg",
-    "backdrop_path": "/zYZPtmprdlUNvyaWD8bA1CvR589.jpg",
-    "backdrop_local": "imagenes_estrenos/La_carta_de__scar_backdrop_zYZPtmprdlUNvyaWD8bA1CvR589.jpg",
-    "fecha_estreno": "2026-09-18T00:00:00.000Z",
-    "duración": "91 min",
-    "director": "María Luz Zamora Abanades (Malu Zamora)",
-    "directores": [
-      {
-        "name": "María Luz Zamora Abanades (Malu Zamora)",
-        "id": 5907289
-      }
-    ],
-    "actores": [
-      {
-        "name": "Carmen Mayordomo",
-        "id": 2594387,
-        "character": "Carmen",
-        "profile_path": "/fwNvLNDvamHaYOZUqOL23Dwxn4K.jpg"
-      },
-      {
-        "name": "Gabriel Moreno",
-        "id": 1331611,
-        "character": "Ibón",
-        "profile_path": "/aYKFqn5hupU6nAWILK6l41qKAoO.jpg"
-      },
-      {
-        "name": "Rosana Pastor",
-        "id": 125486,
-        "character": "Psicóloga",
-        "profile_path": "/6Gdf8c5h9hQBWSJS4ya9xoXsSzJ.jpg"
-      },
-      {
-        "name": "Paula Braguinsky",
-        "id": 3199227,
-        "character": "Secretaria",
-        "profile_path": "/7cj1oUmWUD3X59JvJYD6aX9zlTH.jpg"
-      },
-      {
-        "name": "Paola Dominguín",
-        "id": 1035331,
-        "character": "July",
-        "profile_path": "/q8T81WzJySte7ZtSZo4W9Z7P361.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 1.0675,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/zYZPtmprdlUNvyaWD8bA1CvR589.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/5LnGy3JaNj256Hf213UFWG3CG75.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2026-09-13 10:11:25"
+    "última_actualización": "2026-09-13 22:03:03"
   },
   {
     "id": 1001072,
@@ -1605,7 +1510,102 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:25"
+    "última_actualización": "2026-09-13 22:03:03"
+  },
+  {
+    "id": 1721500,
+    "tmdb_id": 1721500,
+    "título": "La carta de Óscar",
+    "título_original": "La carta de Óscar",
+    "sinopsis": "Carmen demanda un poco más de atención a su marido, Ibón, pero el trabajo de éste acapara su  tiempo de tal manera que apenas pueden verse. Oscar, el hijo de ambos, intenta que sus padres le hagan caso, pero ellos están siempre “a otras cosas”. Además, Óscar tiene problemas en el colegio que no sabe cómo resolver, porque no ve el momento de contarlos en casa.",
+    "poster_path": "/5LnGy3JaNj256Hf213UFWG3CG75.jpg",
+    "poster_local": "imagenes_estrenos/La_carta_de__scar_5LnGy3JaNj256Hf213UFWG3CG75.jpg",
+    "backdrop_path": "/zYZPtmprdlUNvyaWD8bA1CvR589.jpg",
+    "backdrop_local": "imagenes_estrenos/La_carta_de__scar_backdrop_zYZPtmprdlUNvyaWD8bA1CvR589.jpg",
+    "fecha_estreno": "2026-09-18T00:00:00.000Z",
+    "duración": "91 min",
+    "director": "María Luz Zamora Abanades (Malu Zamora)",
+    "directores": [
+      {
+        "name": "María Luz Zamora Abanades (Malu Zamora)",
+        "id": 5907289
+      }
+    ],
+    "actores": [
+      {
+        "name": "Carmen Mayordomo",
+        "id": 2594387,
+        "character": "Carmen",
+        "profile_path": "/fwNvLNDvamHaYOZUqOL23Dwxn4K.jpg"
+      },
+      {
+        "name": "Gabriel Moreno",
+        "id": 1331611,
+        "character": "Ibón",
+        "profile_path": "/aYKFqn5hupU6nAWILK6l41qKAoO.jpg"
+      },
+      {
+        "name": "Rosana Pastor",
+        "id": 125486,
+        "character": "Psicóloga",
+        "profile_path": "/6Gdf8c5h9hQBWSJS4ya9xoXsSzJ.jpg"
+      },
+      {
+        "name": "Paula Braguinsky",
+        "id": 3199227,
+        "character": "Secretaria",
+        "profile_path": "/7cj1oUmWUD3X59JvJYD6aX9zlTH.jpg"
+      },
+      {
+        "name": "Paola Dominguín",
+        "id": 1035331,
+        "character": "July",
+        "profile_path": "/q8T81WzJySte7ZtSZo4W9Z7P361.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 1.0675,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zYZPtmprdlUNvyaWD8bA1CvR589.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5LnGy3JaNj256Hf213UFWG3CG75.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2026-09-13 22:03:04"
   },
   {
     "id": 1650219,
@@ -1851,7 +1851,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:21"
+    "última_actualización": "2026-09-13 22:03:02"
   },
   {
     "id": 1753626,
@@ -1939,7 +1939,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:23"
+    "última_actualización": "2026-09-13 22:03:03"
   },
   {
     "id": 1740257,
@@ -2038,7 +2038,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:24"
+    "última_actualización": "2026-09-13 22:03:03"
   },
   {
     "id": 1739413,
@@ -2176,8 +2176,8 @@
       }
     ],
     "popularidad": 71.5348,
-    "puntuación": 6.667,
-    "votos": 27,
+    "puntuación": 6.786,
+    "votos": 28,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2287,7 +2287,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:18"
+    "última_actualización": "2026-09-13 22:03:00"
   },
   {
     "id": 1465063,
@@ -2478,7 +2478,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:19"
+    "última_actualización": "2026-09-13 22:03:01"
   },
   {
     "id": 1263337,
@@ -2515,7 +2515,7 @@
       {
         "name": "J.K. Simmons",
         "id": 18999,
-        "character": "",
+        "character": "Walter Boone",
         "profile_path": "/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
       },
       {
@@ -2637,7 +2637,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:20"
+    "última_actualización": "2026-09-13 22:03:01"
   },
   {
     "id": 1422041,
@@ -2816,49 +2816,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:21"
-  },
-  {
-    "id": 1649011,
-    "tmdb_id": 1649011,
-    "título": "La familia Dino",
-    "título_original": "Доктор Динозавров",
-    "sinopsis": "",
-    "poster_path": "/xtmTvcY4bpCmHUqJDFm9sZVA9dQ.jpg",
-    "poster_local": "imagenes_estrenos/La_familia_Dino_xtmTvcY4bpCmHUqJDFm9sZVA9dQ.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-09-25T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Maya Turkina, Максим Волков",
-    "directores": [
-      {
-        "name": "Maya Turkina",
-        "id": 2419987
-      },
-      {
-        "name": "Максим Волков",
-        "id": 1628967
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      }
-    ],
-    "popularidad": 1.7831,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2026-09-13 10:11:23"
+    "última_actualización": "2026-09-13 22:03:01"
   },
   {
     "id": 1542396,
@@ -2926,7 +2884,49 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:23"
+    "última_actualización": "2026-09-13 22:03:03"
+  },
+  {
+    "id": 1649011,
+    "tmdb_id": 1649011,
+    "título": "La familia Dino",
+    "título_original": "Доктор Динозавров",
+    "sinopsis": "",
+    "poster_path": "/xtmTvcY4bpCmHUqJDFm9sZVA9dQ.jpg",
+    "poster_local": "imagenes_estrenos/La_familia_Dino_xtmTvcY4bpCmHUqJDFm9sZVA9dQ.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-09-25T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Maya Turkina, Максим Волков",
+    "directores": [
+      {
+        "name": "Maya Turkina",
+        "id": 2419987
+      },
+      {
+        "name": "Максим Волков",
+        "id": 1628967
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "popularidad": 1.7831,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-09-13 22:03:03"
   },
   {
     "id": 1753646,
@@ -3024,7 +3024,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:22"
+    "última_actualización": "2026-09-13 22:03:02"
   },
   {
     "id": 1388805,
@@ -3119,7 +3119,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:22"
+    "última_actualización": "2026-09-13 22:03:02"
   },
   {
     "id": 1594914,
@@ -3244,7 +3244,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:18"
+    "última_actualización": "2026-09-13 22:03:00"
   },
   {
     "id": 1248832,
@@ -3288,7 +3288,7 @@
         "name": "Sandra Hüller",
         "id": 7152,
         "character": "Emma",
-        "profile_path": "/t7wGqC2dRwTEnt9Fk5pxQ0uXTqs.jpg"
+        "profile_path": "/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
       },
       {
         "name": "Michael Stuhlbarg",
@@ -3415,7 +3415,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:19"
+    "última_actualización": "2026-09-13 22:03:01"
   },
   {
     "id": 1283515,
@@ -3570,7 +3570,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:20"
+    "última_actualización": "2026-09-13 22:03:01"
   },
   {
     "id": 1280015,
@@ -3694,7 +3694,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-13 10:11:21"
+    "última_actualización": "2026-09-13 22:03:01"
   },
   {
     "id": 1634154,
@@ -3789,7 +3789,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:21"
+    "última_actualización": "2026-09-13 22:03:01"
   },
   {
     "id": 677558,
@@ -3887,7 +3887,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-13 10:11:21"
+    "última_actualización": "2026-09-13 22:03:02"
   },
   {
     "id": 1056494,
@@ -4020,7 +4020,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:22"
+    "última_actualización": "2026-09-13 22:03:02"
   },
   {
     "id": 1655881,
@@ -4111,7 +4111,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:23"
+    "última_actualización": "2026-09-13 22:03:02"
   },
   {
     "id": 1235286,
@@ -4232,7 +4232,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-13 10:11:24"
+    "última_actualización": "2026-09-13 22:03:03"
   },
   {
     "id": 1249635,
@@ -4340,6 +4340,6 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-13 10:11:25"
+    "última_actualización": "2026-09-13 22:03:03"
   }
 ]
