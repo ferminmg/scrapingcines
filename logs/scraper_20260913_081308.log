@@ -1,0 +1,31 @@
+2026-09-13 08:13:08,235 - INFO - Iniciando proceso de scraping
+2026-09-13 08:13:08,237 - INFO - Posts existentes encontrados: 2598
+2026-09-13 08:13:08,237 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-09-13 08:13:10,184 - INFO - Se encontraron 10 posts
+2026-09-13 08:13:10,185 - INFO - Comenzando extracción de información del post
+2026-09-13 08:13:10,186 - INFO - Post ya existente, saltando: LA CONSTELACIÓN DEL PERRO de Ridley Scott
+2026-09-13 08:13:10,186 - INFO - Comenzando extracción de información del post
+2026-09-13 08:13:10,186 - INFO - Post ya existente, saltando: UNA NOCHE AL AÑO de Will Gluck
+2026-09-13 08:13:10,186 - INFO - Comenzando extracción de información del post
+2026-09-13 08:13:10,186 - INFO - Post ya existente, saltando: ERUPCJA de Pete Ohs
+2026-09-13 08:13:10,186 - INFO - Comenzando extracción de información del post
+2026-09-13 08:13:10,186 - INFO - Post ya existente, saltando: EL SER QUERIDO de Rodrigo Sorogoyen
+2026-09-13 08:13:10,186 - INFO - Comenzando extracción de información del post
+2026-09-13 08:13:10,186 - INFO - Post ya existente, saltando: EL CORO DE PRAGA de Ondřej Provazník
+2026-09-13 08:13:10,186 - INFO - Comenzando extracción de información del post
+2026-09-13 08:13:10,186 - INFO - Post ya existente, saltando: PROMETIDO EL CIELO de Erige Sehiri
+2026-09-13 08:13:10,186 - INFO - Comenzando extracción de información del post
+2026-09-13 08:13:10,187 - INFO - Post ya existente, saltando: EL FINAL DE OAK STREET de David Robert Mitchell
+2026-09-13 08:13:10,187 - INFO - Comenzando extracción de información del post
+2026-09-13 08:13:10,187 - INFO - Título del post: ESTE / OESTE de Natja Brunckhorst
+2026-09-13 08:13:10,187 - INFO - Fecha del post: 2026-08-21T19:35:00+02:00
+2026-09-13 08:13:10,187 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/este-oeste-natja-brunckhorst/
+2026-09-13 08:13:11,910 - INFO - Contenido extraído y estructurado (2478 caracteres)
+2026-09-13 08:13:11,910 - INFO - Guardando post en: posts/ESTE_/_OESTE_2026-08-21.json
+2026-09-13 08:13:11,911 - ERROR - Error guardando post: [Errno 2] No such file or directory: 'posts/ESTE_/_OESTE_2026-08-21.json'
+2026-09-13 08:13:11,911 - INFO - Nuevo post guardado: ESTE / OESTE de Natja Brunckhorst
+2026-09-13 08:13:11,911 - INFO - Comenzando extracción de información del post
+2026-09-13 08:13:11,911 - INFO - Post ya existente, saltando: SIRI HUSTVEDT, LA DANZA DEL YO de Sabine Lidl
+2026-09-13 08:13:11,911 - INFO - Comenzando extracción de información del post
+2026-09-13 08:13:11,911 - INFO - Post ya existente, saltando: VIVIR LA TIERRA de Huo Meng
+2026-09-13 08:13:11,911 - INFO - Proceso completado. Posts nuevos guardados: 1
