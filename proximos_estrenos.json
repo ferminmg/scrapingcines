@@ -132,7 +132,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-09-15 10:03:38"
+    "última_actualización": "2026-09-15 22:03:44"
   },
   {
     "id": 1769011,
@@ -140,8 +140,8 @@
     "título": "Tú cocinas, Yo friego",
     "título_original": "Tú cocinas, Yo friego",
     "sinopsis": "Una pareja enfrenta el peso del duelo y las dificultades económicas mientras intentan mantener su relación.",
-    "poster_path": null,
-    "poster_local": "",
+    "poster_path": "/ofOerUz3wpyVa37vl8E7u4yrq9e.jpg",
+    "poster_local": "imagenes_estrenos/T__cocinas__Yo_friego_ofOerUz3wpyVa37vl8E7u4yrq9e.jpg",
     "backdrop_path": null,
     "backdrop_local": "",
     "fecha_estreno": "2026-09-17",
@@ -153,7 +153,20 @@
         "id": 5163112
       }
     ],
-    "actores": [],
+    "actores": [
+      {
+        "name": "Alma García Díaz",
+        "id": 6479875,
+        "character": "Lucy",
+        "profile_path": null
+      },
+      {
+        "name": "Andrés Glembotzky",
+        "id": 5852935,
+        "character": "Pablo",
+        "profile_path": null
+      }
+    ],
     "géneros": [],
     "popularidad": 0.2182,
     "puntuación": 0.0,
@@ -163,9 +176,83 @@
     "año": "2026",
     "imágenes": {
       "backdrops": [],
-      "posters": []
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ofOerUz3wpyVa37vl8E7u4yrq9e.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
     },
-    "última_actualización": "2026-09-15 10:03:41"
+    "última_actualización": "2026-09-15 22:03:47"
+  },
+  {
+    "id": 1770853,
+    "tmdb_id": 1770853,
+    "título": "The Getaway",
+    "título_original": "The Getaway",
+    "sinopsis": "",
+    "poster_path": "/6UEVXGtD3vUSMesGzsskN7bpfNX.jpg",
+    "poster_local": "imagenes_estrenos/The_Getaway_6UEVXGtD3vUSMesGzsskN7bpfNX.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-09-17T00:00:00.000Z",
+    "duración": "16 min",
+    "director": "Raquel Guerrero",
+    "directores": [
+      {
+        "name": "Raquel Guerrero",
+        "id": 1073101
+      }
+    ],
+    "actores": [
+      {
+        "name": "Ivanska Nataliia",
+        "id": 6479589,
+        "character": "Sylvia",
+        "profile_path": null
+      },
+      {
+        "name": "Alina Razumenko",
+        "id": 6144424,
+        "character": "Irina",
+        "profile_path": null
+      },
+      {
+        "name": "Marta Poveda",
+        "id": 1460406,
+        "character": "Ana",
+        "profile_path": "/zEItOysCUPfKgEXhg4JayBZvmim.jpg"
+      }
+    ],
+    "géneros": [],
+    "popularidad": 0.0,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.7,
+          "height": 2200,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6UEVXGtD3vUSMesGzsskN7bpfNX.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1540
+        }
+      ]
+    },
+    "última_actualización": "2026-09-15 22:03:48"
   },
   {
     "id": 1204680,
@@ -234,7 +321,7 @@
     ],
     "popularidad": 556.2409,
     "puntuación": 7.6,
-    "votos": 376,
+    "votos": 386,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -252,12 +339,22 @@
         },
         {
           "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+          "vote_average": 4.934,
+          "vote_count": 15,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
           "height": 1440,
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/s6WNALkMPnBDadiKaS1JdRx9Hnw.jpg",
-          "vote_average": 5.25,
-          "vote_count": 10,
+          "vote_average": 4.818,
+          "vote_count": 11,
           "width": 2560
         },
         {
@@ -266,18 +363,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
-          "vote_average": 5.25,
-          "vote_count": 8,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-          "vote_average": 4.934,
-          "vote_count": 15,
+          "vote_average": 4.722,
+          "vote_count": 9,
           "width": 3840
         },
         {
@@ -344,7 +431,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:33"
+    "última_actualización": "2026-09-15 22:03:38"
   },
   {
     "id": 1423191,
@@ -357,7 +444,7 @@
     "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
     "backdrop_local": "imagenes_estrenos/Resident_Evil_backdrop_mRM28tIIm8y0gKy9GKYGwotxuPM.jpg",
     "fecha_estreno": "2026-09-18T00:00:00.000Z",
-    "duración": "95 min",
+    "duración": "93 min",
     "director": "Zach Cregger",
     "directores": [
       {
@@ -405,11 +492,15 @@
       {
         "id": 53,
         "name": "Suspense"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
       }
     ],
     "popularidad": 65.4169,
-    "puntuación": 9.2,
-    "votos": 4,
+    "puntuación": 8.4,
+    "votos": 8,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -420,9 +511,19 @@
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/mRM28tIIm8y0gKy9GKYGwotxuPM.jpg",
-          "vote_average": 6.312,
+          "file_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+          "vote_average": 5.786,
           "vote_count": 8,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mRM28tIIm8y0gKy9GKYGwotxuPM.jpg",
+          "vote_average": 5.778,
+          "vote_count": 9,
           "width": 3840
         },
         {
@@ -431,19 +532,9 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/ddfXMkaPViSrg0P5aoYGFMc58x2.jpg",
-          "vote_average": 5.786,
-          "vote_count": 7,
+          "vote_average": 5.25,
+          "vote_count": 8,
           "width": 2160
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-          "vote_average": 5.786,
-          "vote_count": 7,
-          "width": 3840
         },
         {
           "aspect_ratio": 1.778,
@@ -519,7 +610,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:33"
+    "última_actualización": "2026-09-15 22:03:38"
   },
   {
     "id": 1122573,
@@ -584,7 +675,7 @@
     ],
     "popularidad": 40.4911,
     "puntuación": 7.587,
-    "votos": 959,
+    "votos": 962,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -694,7 +785,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:34"
+    "última_actualización": "2026-09-15 22:03:39"
   },
   {
     "id": 1318413,
@@ -766,8 +857,8 @@
       }
     ],
     "popularidad": 28.2772,
-    "puntuación": 7.715,
-    "votos": 398,
+    "puntuación": 7.712,
+    "votos": 402,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -867,7 +958,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:34"
+    "última_actualización": "2026-09-15 22:03:39"
   },
   {
     "id": 1228834,
@@ -992,7 +1083,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:35"
+    "última_actualización": "2026-09-15 22:03:40"
   },
   {
     "id": 1649218,
@@ -1103,7 +1194,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:36"
+    "última_actualización": "2026-09-15 22:03:41"
   },
   {
     "id": 1291829,
@@ -1244,7 +1335,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:37"
+    "última_actualización": "2026-09-15 22:03:42"
   },
   {
     "id": 1368830,
@@ -1365,7 +1456,102 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:38"
+    "última_actualización": "2026-09-15 22:03:44"
+  },
+  {
+    "id": 1721500,
+    "tmdb_id": 1721500,
+    "título": "La carta de Óscar",
+    "título_original": "La carta de Óscar",
+    "sinopsis": "Carmen demanda un poco más de atención a su marido, Ibón, pero el trabajo de éste acapara su  tiempo de tal manera que apenas pueden verse. Oscar, el hijo de ambos, intenta que sus padres le hagan caso, pero ellos están siempre “a otras cosas”. Además, Óscar tiene problemas en el colegio que no sabe cómo resolver, porque no ve el momento de contarlos en casa.",
+    "poster_path": "/5LnGy3JaNj256Hf213UFWG3CG75.jpg",
+    "poster_local": "imagenes_estrenos/La_carta_de__scar_5LnGy3JaNj256Hf213UFWG3CG75.jpg",
+    "backdrop_path": "/zYZPtmprdlUNvyaWD8bA1CvR589.jpg",
+    "backdrop_local": "imagenes_estrenos/La_carta_de__scar_backdrop_zYZPtmprdlUNvyaWD8bA1CvR589.jpg",
+    "fecha_estreno": "2026-09-18T00:00:00.000Z",
+    "duración": "91 min",
+    "director": "María Luz Zamora Abanades (Malu Zamora)",
+    "directores": [
+      {
+        "name": "María Luz Zamora Abanades (Malu Zamora)",
+        "id": 5907289
+      }
+    ],
+    "actores": [
+      {
+        "name": "Carmen Mayordomo",
+        "id": 2594387,
+        "character": "Carmen",
+        "profile_path": "/fwNvLNDvamHaYOZUqOL23Dwxn4K.jpg"
+      },
+      {
+        "name": "Gabriel Moreno",
+        "id": 1331611,
+        "character": "Ibón",
+        "profile_path": "/aYKFqn5hupU6nAWILK6l41qKAoO.jpg"
+      },
+      {
+        "name": "Rosana Pastor",
+        "id": 125486,
+        "character": "Psicóloga",
+        "profile_path": "/6Gdf8c5h9hQBWSJS4ya9xoXsSzJ.jpg"
+      },
+      {
+        "name": "Paula Braguinsky",
+        "id": 3199227,
+        "character": "Secretaria",
+        "profile_path": "/7cj1oUmWUD3X59JvJYD6aX9zlTH.jpg"
+      },
+      {
+        "name": "Paola Dominguín",
+        "id": 1035331,
+        "character": "July",
+        "profile_path": "/q8T81WzJySte7ZtSZo4W9Z7P361.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 1.1912,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zYZPtmprdlUNvyaWD8bA1CvR589.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5LnGy3JaNj256Hf213UFWG3CG75.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2026-09-15 22:03:46"
   },
   {
     "id": 1001072,
@@ -1506,102 +1692,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:40"
-  },
-  {
-    "id": 1721500,
-    "tmdb_id": 1721500,
-    "título": "La carta de Óscar",
-    "título_original": "La carta de Óscar",
-    "sinopsis": "Carmen demanda un poco más de atención a su marido, Ibón, pero el trabajo de éste acapara su  tiempo de tal manera que apenas pueden verse. Oscar, el hijo de ambos, intenta que sus padres le hagan caso, pero ellos están siempre “a otras cosas”. Además, Óscar tiene problemas en el colegio que no sabe cómo resolver, porque no ve el momento de contarlos en casa.",
-    "poster_path": "/5LnGy3JaNj256Hf213UFWG3CG75.jpg",
-    "poster_local": "imagenes_estrenos/La_carta_de__scar_5LnGy3JaNj256Hf213UFWG3CG75.jpg",
-    "backdrop_path": "/zYZPtmprdlUNvyaWD8bA1CvR589.jpg",
-    "backdrop_local": "imagenes_estrenos/La_carta_de__scar_backdrop_zYZPtmprdlUNvyaWD8bA1CvR589.jpg",
-    "fecha_estreno": "2026-09-18T00:00:00.000Z",
-    "duración": "91 min",
-    "director": "María Luz Zamora Abanades (Malu Zamora)",
-    "directores": [
-      {
-        "name": "María Luz Zamora Abanades (Malu Zamora)",
-        "id": 5907289
-      }
-    ],
-    "actores": [
-      {
-        "name": "Carmen Mayordomo",
-        "id": 2594387,
-        "character": "Carmen",
-        "profile_path": "/fwNvLNDvamHaYOZUqOL23Dwxn4K.jpg"
-      },
-      {
-        "name": "Gabriel Moreno",
-        "id": 1331611,
-        "character": "Ibón",
-        "profile_path": "/aYKFqn5hupU6nAWILK6l41qKAoO.jpg"
-      },
-      {
-        "name": "Rosana Pastor",
-        "id": 125486,
-        "character": "Psicóloga",
-        "profile_path": "/6Gdf8c5h9hQBWSJS4ya9xoXsSzJ.jpg"
-      },
-      {
-        "name": "Paula Braguinsky",
-        "id": 3199227,
-        "character": "Secretaria",
-        "profile_path": "/7cj1oUmWUD3X59JvJYD6aX9zlTH.jpg"
-      },
-      {
-        "name": "Paola Dominguín",
-        "id": 1035331,
-        "character": "July",
-        "profile_path": "/q8T81WzJySte7ZtSZo4W9Z7P361.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 1.1912,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/zYZPtmprdlUNvyaWD8bA1CvR589.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/5LnGy3JaNj256Hf213UFWG3CG75.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2026-09-15 10:03:40"
+    "última_actualización": "2026-09-15 22:03:46"
   },
   {
     "id": 1650219,
@@ -1847,95 +1938,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:38"
-  },
-  {
-    "id": 1753626,
-    "tmdb_id": 1753626,
-    "título": "Por amor al arte",
-    "título_original": "Por amor al arte",
-    "sinopsis": "Hugo Morenilla realiza una adaptación libre de su propia experiencia al crear una productora de cine desde cero con tan solo trece años, contando todo lo que ocurrió después y cómo aquella decisión cambió su vida para siempre.",
-    "poster_path": "/imniHB3Itc8frfFJxlSsaCNlWpL.jpg",
-    "poster_local": "imagenes_estrenos/POR_AMOR_AL_ARTE_imniHB3Itc8frfFJxlSsaCNlWpL.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-09-20",
-    "duración": "163 min",
-    "director": "Hugo Morenilla",
-    "directores": [
-      {
-        "name": "Hugo Morenilla",
-        "id": 3351447
-      }
-    ],
-    "actores": [
-      {
-        "name": "Hugo Morenilla",
-        "id": 3351447,
-        "character": "HUGO MORENILLA",
-        "profile_path": "/rVGsDUjet5IxrEKxlvZpjHb22Sa.jpg"
-      },
-      {
-        "name": "Álex Calero",
-        "id": 6253550,
-        "character": "IVÁN",
-        "profile_path": null
-      },
-      {
-        "name": "Jan Ferez",
-        "id": 5902711,
-        "character": "SAMUEL",
-        "profile_path": null
-      },
-      {
-        "name": "Joana Belmonte",
-        "id": 5638011,
-        "character": "EVA",
-        "profile_path": null
-      },
-      {
-        "name": "Luca Serna",
-        "id": 5547331,
-        "character": "LUCA SERNA",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 10402,
-        "name": "Música"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 1.649,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1350,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/imniHB3Itc8frfFJxlSsaCNlWpL.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 900
-        }
-      ]
-    },
-    "última_actualización": "2026-09-15 10:03:39"
+    "última_actualización": "2026-09-15 22:03:43"
   },
   {
     "id": 1740257,
@@ -2034,7 +2037,161 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:39"
+    "última_actualización": "2026-09-15 22:03:44"
+  },
+  {
+    "id": 1753626,
+    "tmdb_id": 1753626,
+    "título": "Por amor al arte",
+    "título_original": "Por amor al arte",
+    "sinopsis": "Hugo Morenilla realiza una adaptación libre de su propia experiencia al crear una productora de cine desde cero con tan solo trece años, contando todo lo que ocurrió después y cómo aquella decisión cambió su vida para siempre.",
+    "poster_path": "/imniHB3Itc8frfFJxlSsaCNlWpL.jpg",
+    "poster_local": "imagenes_estrenos/POR_AMOR_AL_ARTE_imniHB3Itc8frfFJxlSsaCNlWpL.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-09-20",
+    "duración": "163 min",
+    "director": "Hugo Morenilla",
+    "directores": [
+      {
+        "name": "Hugo Morenilla",
+        "id": 3351447
+      }
+    ],
+    "actores": [
+      {
+        "name": "Hugo Morenilla",
+        "id": 3351447,
+        "character": "HUGO MORENILLA",
+        "profile_path": "/rVGsDUjet5IxrEKxlvZpjHb22Sa.jpg"
+      },
+      {
+        "name": "Álex Calero",
+        "id": 6253550,
+        "character": "IVÁN",
+        "profile_path": null
+      },
+      {
+        "name": "Jan Ferez",
+        "id": 5902711,
+        "character": "SAMUEL",
+        "profile_path": null
+      },
+      {
+        "name": "Joana Belmonte",
+        "id": 5638011,
+        "character": "EVA",
+        "profile_path": null
+      },
+      {
+        "name": "Luca Serna",
+        "id": 5547331,
+        "character": "LUCA SERNA",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 10402,
+        "name": "Música"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 1.649,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1350,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/imniHB3Itc8frfFJxlSsaCNlWpL.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 900
+        }
+      ]
+    },
+    "última_actualización": "2026-09-15 22:03:45"
+  },
+  {
+    "id": 1770671,
+    "tmdb_id": 1770671,
+    "título": "SUPURA",
+    "título_original": "SUPURA",
+    "sinopsis": "Cuando una joven intenta abandonar la casa de su pareja, queda atrapada en un bucle que la devuelve una y otra vez al mismo lugar, obligándola a enfrentarse a una realidad que la carcome por dentro.",
+    "poster_path": "/atrFt3BJqtEtheGFUi6kDYZ2fMf.jpg",
+    "poster_local": "imagenes_estrenos/SUPURA_atrFt3BJqtEtheGFUi6kDYZ2fMf.jpg",
+    "backdrop_path": "/xnqGKCN3JqJsWkfDi02pqQzi7Tz.jpg",
+    "backdrop_local": "imagenes_estrenos/SUPURA_backdrop_xnqGKCN3JqJsWkfDi02pqQzi7Tz.jpg",
+    "fecha_estreno": "2026-09-21T00:00:00.000Z",
+    "duración": "14 min",
+    "director": "Pablo L. Moreno, Alejandro Escobar",
+    "directores": [
+      {
+        "name": "Pablo L. Moreno",
+        "id": 6478977
+      },
+      {
+        "name": "Alejandro Escobar",
+        "id": 6478976
+      }
+    ],
+    "actores": [
+      {
+        "name": "Carlota Méndez",
+        "id": 6478971,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Ángela Gómez",
+        "id": 6478972,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 0.0071,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/atrFt3BJqtEtheGFUi6kDYZ2fMf.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-09-15 22:03:48"
   },
   {
     "id": 1739413,
@@ -2172,8 +2329,8 @@
       }
     ],
     "popularidad": 67.7497,
-    "puntuación": 6.828,
-    "votos": 29,
+    "puntuación": 6.8,
+    "votos": 30,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2283,7 +2440,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:33"
+    "última_actualización": "2026-09-15 22:03:38"
   },
   {
     "id": 1465063,
@@ -2363,8 +2520,8 @@
       }
     ],
     "popularidad": 21.256,
-    "puntuación": 8.75,
-    "votos": 4,
+    "puntuación": 8.8,
+    "votos": 5,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2474,7 +2631,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:34"
+    "última_actualización": "2026-09-15 22:03:39"
   },
   {
     "id": 1263337,
@@ -2596,7 +2753,7 @@
           "height": 3000,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/3KN53kRlTBGiZ3XtvwiOaCt44WZ.jpg",
+          "file_path": "/xMQPJ58oradSdkpkUagLkziOjDm.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 2000
@@ -2606,9 +2763,9 @@
           "height": 3000,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/xMQPJ58oradSdkpkUagLkziOjDm.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
+          "file_path": "/3KN53kRlTBGiZ3XtvwiOaCt44WZ.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
           "width": 2000
         },
         {
@@ -2633,7 +2790,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:35"
+    "última_actualización": "2026-09-15 22:03:40"
   },
   {
     "id": 1422041,
@@ -2812,7 +2969,49 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:35"
+    "última_actualización": "2026-09-15 22:03:41"
+  },
+  {
+    "id": 1649011,
+    "tmdb_id": 1649011,
+    "título": "La familia Dino",
+    "título_original": "Доктор Динозавров",
+    "sinopsis": "",
+    "poster_path": "/xtmTvcY4bpCmHUqJDFm9sZVA9dQ.jpg",
+    "poster_local": "imagenes_estrenos/La_familia_Dino_xtmTvcY4bpCmHUqJDFm9sZVA9dQ.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-09-25T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Maya Turkina, Максим Волков",
+    "directores": [
+      {
+        "name": "Maya Turkina",
+        "id": 2419987
+      },
+      {
+        "name": "Максим Волков",
+        "id": 1628967
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "popularidad": 1.6782,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-09-15 22:03:45"
   },
   {
     "id": 1542396,
@@ -2880,49 +3079,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:39"
-  },
-  {
-    "id": 1649011,
-    "tmdb_id": 1649011,
-    "título": "La familia Dino",
-    "título_original": "Доктор Динозавров",
-    "sinopsis": "",
-    "poster_path": "/xtmTvcY4bpCmHUqJDFm9sZVA9dQ.jpg",
-    "poster_local": "imagenes_estrenos/La_familia_Dino_xtmTvcY4bpCmHUqJDFm9sZVA9dQ.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-09-25T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Maya Turkina, Максим Волков",
-    "directores": [
-      {
-        "name": "Maya Turkina",
-        "id": 2419987
-      },
-      {
-        "name": "Максим Волков",
-        "id": 1628967
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      }
-    ],
-    "popularidad": 1.6782,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2026-09-15 10:03:40"
+    "última_actualización": "2026-09-15 22:03:45"
   },
   {
     "id": 1753646,
@@ -3020,7 +3177,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:38"
+    "última_actualización": "2026-09-15 22:03:44"
   },
   {
     "id": 1388805,
@@ -3115,7 +3272,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:36"
+    "última_actualización": "2026-09-15 22:03:41"
   },
   {
     "id": 1594914,
@@ -3240,7 +3397,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:34"
+    "última_actualización": "2026-09-15 22:03:38"
   },
   {
     "id": 1248832,
@@ -3411,7 +3568,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:34"
+    "última_actualización": "2026-09-15 22:03:40"
   },
   {
     "id": 1283515,
@@ -3566,7 +3723,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:35"
+    "última_actualización": "2026-09-15 22:03:40"
   },
   {
     "id": 1280015,
@@ -3690,7 +3847,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-15 10:03:36"
+    "última_actualización": "2026-09-15 22:03:41"
   },
   {
     "id": 1056494,
@@ -3823,102 +3980,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:36"
-  },
-  {
-    "id": 1634154,
-    "tmdb_id": 1634154,
-    "título": "Nuda Propiedad",
-    "título_original": "Nuda Propiedad",
-    "sinopsis": "",
-    "poster_path": "/iKolxoXMpCMFE22Bc1khkeAT8OX.jpg",
-    "poster_local": "imagenes_estrenos/Nuda_Propiedad_iKolxoXMpCMFE22Bc1khkeAT8OX.jpg",
-    "backdrop_path": "/l9so3jH2aX1stLTUfYpoxCYnKpk.jpg",
-    "backdrop_local": "imagenes_estrenos/Nuda_Propiedad_backdrop_l9so3jH2aX1stLTUfYpoxCYnKpk.jpg",
-    "fecha_estreno": "2026-10-02T00:00:00.000Z",
-    "duración": "90 min",
-    "director": "Alberto Utrera",
-    "directores": [
-      {
-        "name": "Alberto Utrera",
-        "id": 1796079
-      }
-    ],
-    "actores": [
-      {
-        "name": "Susana Abaitua",
-        "id": 544004,
-        "character": "Vera",
-        "profile_path": "/v9BA3YRPkEBpfL3ogKkn2Phag6m.jpg"
-      },
-      {
-        "name": "Maxi Iglesias",
-        "id": 1248277,
-        "character": "Lucas",
-        "profile_path": "/sX0fOdN7Urawav29j24nVAjNgaC.jpg"
-      },
-      {
-        "name": "Pepe Viyuela",
-        "id": 25220,
-        "character": "",
-        "profile_path": "/aDDn9kF809MMCIXGQ7Cl0crW7Zj.jpg"
-      },
-      {
-        "name": "David Lorente",
-        "id": 1696114,
-        "character": "",
-        "profile_path": "/hSqdmED1YkAgA3VqByXUGuu27s4.jpg"
-      },
-      {
-        "name": "Stéphanie Magnin",
-        "id": 2443862,
-        "character": "",
-        "profile_path": "/fPDyHTbQMS2hn6LVBNIZjeemCOc.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 2.4409,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/l9so3jH2aX1stLTUfYpoxCYnKpk.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/iKolxoXMpCMFE22Bc1khkeAT8OX.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-09-15 10:03:37"
+    "última_actualización": "2026-09-15 22:03:42"
   },
   {
     "id": 677558,
@@ -4016,7 +4078,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-15 10:03:37"
+    "última_actualización": "2026-09-15 22:03:42"
   },
   {
     "id": 1655881,
@@ -4107,7 +4169,102 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:37"
+    "última_actualización": "2026-09-15 22:03:43"
+  },
+  {
+    "id": 1634154,
+    "tmdb_id": 1634154,
+    "título": "Nuda Propiedad",
+    "título_original": "Nuda Propiedad",
+    "sinopsis": "",
+    "poster_path": "/iKolxoXMpCMFE22Bc1khkeAT8OX.jpg",
+    "poster_local": "imagenes_estrenos/Nuda_Propiedad_iKolxoXMpCMFE22Bc1khkeAT8OX.jpg",
+    "backdrop_path": "/l9so3jH2aX1stLTUfYpoxCYnKpk.jpg",
+    "backdrop_local": "imagenes_estrenos/Nuda_Propiedad_backdrop_l9so3jH2aX1stLTUfYpoxCYnKpk.jpg",
+    "fecha_estreno": "2026-10-02T00:00:00.000Z",
+    "duración": "90 min",
+    "director": "Alberto Utrera",
+    "directores": [
+      {
+        "name": "Alberto Utrera",
+        "id": 1796079
+      }
+    ],
+    "actores": [
+      {
+        "name": "Susana Abaitua",
+        "id": 544004,
+        "character": "Vera",
+        "profile_path": "/v9BA3YRPkEBpfL3ogKkn2Phag6m.jpg"
+      },
+      {
+        "name": "Maxi Iglesias",
+        "id": 1248277,
+        "character": "Lucas",
+        "profile_path": "/sX0fOdN7Urawav29j24nVAjNgaC.jpg"
+      },
+      {
+        "name": "Pepe Viyuela",
+        "id": 25220,
+        "character": "",
+        "profile_path": "/aDDn9kF809MMCIXGQ7Cl0crW7Zj.jpg"
+      },
+      {
+        "name": "David Lorente",
+        "id": 1696114,
+        "character": "",
+        "profile_path": "/hSqdmED1YkAgA3VqByXUGuu27s4.jpg"
+      },
+      {
+        "name": "Stéphanie Magnin",
+        "id": 2443862,
+        "character": "",
+        "profile_path": "/fPDyHTbQMS2hn6LVBNIZjeemCOc.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 2.4409,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/l9so3jH2aX1stLTUfYpoxCYnKpk.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/iKolxoXMpCMFE22Bc1khkeAT8OX.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-09-15 22:03:43"
   },
   {
     "id": 1235286,
@@ -4228,7 +4385,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 10:03:39"
+    "última_actualización": "2026-09-15 22:03:45"
   },
   {
     "id": 1249635,
@@ -4336,6 +4493,6 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-15 10:03:40"
+    "última_actualización": "2026-09-15 22:03:46"
   }
 ]
