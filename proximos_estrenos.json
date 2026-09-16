@@ -1,100 +1,5 @@
 [
   {
-    "id": 1739482,
-    "tmdb_id": 1739482,
-    "título": "Homeward",
-    "título_original": "Homeward",
-    "sinopsis": "",
-    "poster_path": "/za5G1huMjbmAdZiQFuChE7amW4f.jpg",
-    "poster_local": "imagenes_estrenos/Homeward_za5G1huMjbmAdZiQFuChE7amW4f.jpg",
-    "backdrop_path": "/qq8Rw2vfRw5235CAqloYEfcGtbu.jpg",
-    "backdrop_local": "imagenes_estrenos/Homeward_backdrop_qq8Rw2vfRw5235CAqloYEfcGtbu.jpg",
-    "fecha_estreno": "2026-09-15",
-    "duración": "15 min",
-    "director": "Favio Redondo, Manuel de Sobrón, Manex Buitrago, Yago Romero Riera, Dácil Pérez",
-    "directores": [
-      {
-        "name": "Favio Redondo",
-        "id": 3346090
-      },
-      {
-        "name": "Manuel de Sobrón",
-        "id": 4814600
-      },
-      {
-        "name": "Manex Buitrago",
-        "id": 4814584
-      },
-      {
-        "name": "Yago Romero Riera",
-        "id": 5508928
-      },
-      {
-        "name": "Dácil Pérez",
-        "id": 5473580
-      }
-    ],
-    "actores": [
-      {
-        "name": "Lucas Lagrange",
-        "id": 4802041,
-        "character": "Voice",
-        "profile_path": null
-      },
-      {
-        "name": "Trent Cohn",
-        "id": 4395034,
-        "character": "Voice",
-        "profile_path": null
-      },
-      {
-        "name": "Harold Ricowski",
-        "id": 6375751,
-        "character": "Voice",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 2.2867,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/qq8Rw2vfRw5235CAqloYEfcGtbu.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/za5G1huMjbmAdZiQFuChE7amW4f.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-09-08 22:04:16"
-  },
-  {
     "id": 1726012,
     "tmdb_id": 1726012,
     "título": "LA DEFINITIVA",
@@ -2279,15 +2184,15 @@
     "backdrop_local": "imagenes_estrenos/Vertigo_2__Punto_muerto_backdrop_g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
     "fecha_estreno": "2026-09-25T00:00:00.000Z",
     "duración": "98 min",
-    "director": "Michael Spierig, Peter Spierig",
+    "director": "Peter Spierig, Michael Spierig",
     "directores": [
-      {
-        "name": "Michael Spierig",
-        "id": 56501
-      },
       {
         "name": "Peter Spierig",
         "id": 56502
+      },
+      {
+        "name": "Michael Spierig",
+        "id": 56501
       }
     ],
     "actores": [
@@ -2328,7 +2233,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 67.7497,
+    "popularidad": 66.5946,
     "puntuación": 6.8,
     "votos": 30,
     "adulto": false,
@@ -2440,7 +2345,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 22:03:38"
+    "última_actualización": "2026-09-16 10:02:55"
   },
   {
     "id": 1465063,
@@ -2494,7 +2399,7 @@
         "name": "Manny Jacinto",
         "id": 1368795,
         "character": "Bungi (voice)",
-        "profile_path": "/cjkZzaVR5StB4fqnl58NAOSsH0o.jpg"
+        "profile_path": "/jMbNV4nr5647r6CZJbT6nsnspMz.jpg"
       }
     ],
     "géneros": [
@@ -2519,7 +2424,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 21.256,
+    "popularidad": 18.2845,
     "puntuación": 8.8,
     "votos": 5,
     "adulto": false,
@@ -2631,7 +2536,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 22:03:39"
+    "última_actualización": "2026-09-16 10:02:56"
   },
   {
     "id": 1263337,
@@ -2660,12 +2565,6 @@
         "profile_path": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
       },
       {
-        "name": "Uber",
-        "id": 6466294,
-        "character": "Odin The Dog",
-        "profile_path": "/jUQdIsuHRhgBBz0j0tKYgzV24uZ.jpg"
-      },
-      {
         "name": "J.K. Simmons",
         "id": 18999,
         "character": "Walter Boone",
@@ -2688,9 +2587,9 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 19.0839,
-    "puntuación": 0.0,
-    "votos": 0,
+    "popularidad": 20.7952,
+    "puntuación": 10.0,
+    "votos": 2,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2790,7 +2689,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 22:03:40"
+    "última_actualización": "2026-09-16 10:02:56"
   },
   {
     "id": 1422041,
@@ -2826,7 +2725,7 @@
         "name": "Miguel Bernardeau",
         "id": 1846370,
         "character": "Rafael",
-        "profile_path": "/dFA8oHPaFseIqlpCFKtsDwzhrz1.jpg"
+        "profile_path": "/aPyvMBnGaTeWkMStdHvdiiWxpBQ.jpg"
       },
       {
         "name": "Carlos González",
@@ -2857,7 +2756,7 @@
         "name": "Bélica"
       }
     ],
-    "popularidad": 5.9166,
+    "popularidad": 5.7318,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2969,7 +2868,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 22:03:41"
+    "última_actualización": "2026-09-16 10:02:58"
   },
   {
     "id": 1649011,
@@ -3001,7 +2900,7 @@
         "name": "Animación"
       }
     ],
-    "popularidad": 1.6782,
+    "popularidad": 1.4043,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3011,7 +2910,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-09-15 22:03:45"
+    "última_actualización": "2026-09-16 10:03:00"
   },
   {
     "id": 1542396,
@@ -3058,7 +2957,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.6145,
+    "popularidad": 1.8524,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3079,7 +2978,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 22:03:45"
+    "última_actualización": "2026-09-16 10:03:00"
   },
   {
     "id": 1753646,
@@ -3146,7 +3045,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 1.7587,
+    "popularidad": 1.4962,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3177,7 +3076,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 22:03:44"
+    "última_actualización": "2026-09-16 10:03:00"
   },
   {
     "id": 1388805,
@@ -3240,7 +3139,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 3.0866,
+    "popularidad": 2.7113,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3272,7 +3171,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 22:03:41"
+    "última_actualización": "2026-09-16 10:02:58"
   },
   {
     "id": 1594914,
@@ -3335,7 +3234,7 @@
         "name": "Bélica"
       }
     ],
-    "popularidad": 58.0389,
+    "popularidad": 57.7348,
     "puntuación": 6.869,
     "votos": 42,
     "adulto": false,
@@ -3397,7 +3296,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 22:03:38"
+    "última_actualización": "2026-09-16 10:02:56"
   },
   {
     "id": 1248832,
@@ -3456,7 +3355,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 19.6253,
+    "popularidad": 20.345,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3568,7 +3467,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 22:03:40"
+    "última_actualización": "2026-09-16 10:02:56"
   },
   {
     "id": 1283515,
@@ -3631,7 +3530,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 12.1687,
+    "popularidad": 13.1621,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3723,7 +3622,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 22:03:40"
+    "última_actualización": "2026-09-16 10:02:57"
   },
   {
     "id": 1280015,
@@ -3786,7 +3685,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 4.0752,
+    "popularidad": 4.6669,
     "puntuación": 6.7,
     "votos": 13,
     "adulto": false,
@@ -3847,7 +3746,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-15 22:03:41"
+    "última_actualización": "2026-09-16 10:02:58"
   },
   {
     "id": 1056494,
@@ -3918,7 +3817,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 2.8812,
+    "popularidad": 2.9875,
     "puntuación": 10.0,
     "votos": 1,
     "adulto": false,
@@ -3980,7 +3879,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 22:03:42"
+    "última_actualización": "2026-09-16 10:02:59"
   },
   {
     "id": 677558,
@@ -4047,7 +3946,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 2.725,
+    "popularidad": 2.8394,
     "puntuación": 7.9,
     "votos": 7,
     "adulto": false,
@@ -4078,7 +3977,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-15 22:03:42"
+    "última_actualización": "2026-09-16 10:02:59"
   },
   {
     "id": 1655881,
@@ -4137,7 +4036,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.446,
+    "popularidad": 2.1442,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4169,7 +4068,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 22:03:43"
+    "última_actualización": "2026-09-16 10:02:59"
   },
   {
     "id": 1634154,
@@ -4232,7 +4131,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.4409,
+    "popularidad": 2.3635,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4264,7 +4163,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 22:03:43"
+    "última_actualización": "2026-09-16 10:02:59"
   },
   {
     "id": 1235286,
@@ -4323,7 +4222,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.6428,
+    "popularidad": 1.4279,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4385,7 +4284,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-15 22:03:45"
+    "última_actualización": "2026-09-16 10:03:00"
   },
   {
     "id": 1249635,
@@ -4452,7 +4351,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 1.1172,
+    "popularidad": 1.2664,
     "puntuación": 6.6,
     "votos": 7,
     "adulto": false,
@@ -4493,6 +4392,1756 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-15 22:03:46"
+    "última_actualización": "2026-09-16 10:03:00"
+  },
+  {
+    "id": 1469342,
+    "tmdb_id": 1469342,
+    "título": "Su propio infierno",
+    "título_original": "Her Private Hell",
+    "sinopsis": "Cuando una misteriosa niebla envuelve una metrópolis futurista, liberando a una presencia esquiva y letal, una atormentada joven se lanza a la búsqueda de su padre. Su búsqueda se cruza con la de un soldado estadounidense inmerso en una angustiosa odisea para rescatar a su hija del infierno.",
+    "poster_path": "/xFXoPwN8zRtC0ayA6UKmCK11Isy.jpg",
+    "poster_local": "imagenes_estrenos/Su_propio_infierno_xFXoPwN8zRtC0ayA6UKmCK11Isy.jpg",
+    "backdrop_path": "/hS4FcOM5y71FurkBQgDLTBxmWZh.jpg",
+    "backdrop_local": "imagenes_estrenos/Su_propio_infierno_backdrop_hS4FcOM5y71FurkBQgDLTBxmWZh.jpg",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "110 min",
+    "director": "Nicolas Winding Refn",
+    "directores": [
+      {
+        "name": "Nicolas Winding Refn",
+        "id": 21183
+      }
+    ],
+    "actores": [
+      {
+        "name": "Sophie Thatcher",
+        "id": 1981044,
+        "character": "Elle",
+        "profile_path": "/lQfSgP34VWtZXuyvULsA6ZZl3qE.jpg"
+      },
+      {
+        "name": "Charles Melton",
+        "id": 1907002,
+        "character": "Private K",
+        "profile_path": "/yQckwdk03189RodjMYjp17huHyS.jpg"
+      },
+      {
+        "name": "Havana Rose Liu",
+        "id": 2378813,
+        "character": "Dominique",
+        "profile_path": "/lqdialbfdj5l4KYMSlL4aausMaV.jpg"
+      },
+      {
+        "name": "Kristine Froseth",
+        "id": 1633001,
+        "character": "Hunter",
+        "profile_path": "/plgE7OleHgqZrdazFzbkv18UsRN.jpg"
+      },
+      {
+        "name": "Shioli Kutsuna",
+        "id": 230660,
+        "character": "Ms. T",
+        "profile_path": "/lpd1aRrXzmtACO77Pc9TXTnqpBP.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 12.9836,
+    "puntuación": 5.074,
+    "votos": 61,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/hS4FcOM5y71FurkBQgDLTBxmWZh.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6igS8o4pdqtKN6IPUWP7pYUdTrc.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/sPgUXbF8rQrqsB2ec4yBoRQMKJ5.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1600
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/gqru8w25hrKYeGJAViW8DAL9xDY.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1600
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/n5PopmkXa0w2qWmPYKHuD8NpPf6.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1600
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xcveja6n8qp2DJkb4x0o7XY6sW3.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/efx6ciNFw07IqD4uD8Pi3YfePSY.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/9q2bKsuUq3JefTJ8RFV9qsER1Cy.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1366
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1086,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ceGTWeaEFMUQA4We0PuHWuGOGY3.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 724
+        }
+      ]
+    },
+    "última_actualización": "2026-09-16 10:02:56"
+  },
+  {
+    "id": 1542261,
+    "tmdb_id": 1542261,
+    "título": "映画ドラえもん 新・のび太の海底鬼岩城",
+    "título_original": "映画ドラえもん 新・のび太の海底鬼岩城",
+    "sinopsis": "",
+    "poster_path": "/wPzyoIvJBOXFnuGWgu09gnlO26K.jpg",
+    "poster_local": "imagenes_estrenos/____________________wPzyoIvJBOXFnuGWgu09gnlO26K.jpg",
+    "backdrop_path": "/pxd9rc03EMMln3tVFdfd427Fpsi.jpg",
+    "backdrop_local": "imagenes_estrenos/____________________backdrop_pxd9rc03EMMln3tVFdfd427Fpsi.jpg",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "102 min",
+    "director": "矢嶋哲生",
+    "directores": [
+      {
+        "name": "矢嶋哲生",
+        "id": 1947876
+      }
+    ],
+    "actores": [
+      {
+        "name": "Wasabi Mizuta",
+        "id": 1241939,
+        "character": "Doraemon (voice)",
+        "profile_path": "/sJ4kytbg2XiERgch3k2k82FXK2B.jpg"
+      },
+      {
+        "name": "大原めぐみ",
+        "id": 932986,
+        "character": "Nobita (voice)",
+        "profile_path": "/zelZQmq65MaiSeDIiqEpZOINIxd.jpg"
+      },
+      {
+        "name": "かかずゆみ",
+        "id": 9715,
+        "character": "Shizuka (voice)",
+        "profile_path": "/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
+      },
+      {
+        "name": "Subaru Kimura",
+        "id": 1142780,
+        "character": "Gian (voice)",
+        "profile_path": "/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
+      },
+      {
+        "name": "Tomokazu Seki",
+        "id": 90567,
+        "character": "Suneo (voice)",
+        "profile_path": "/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 12.1869,
+    "puntuación": 7.3,
+    "votos": 10,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/pxd9rc03EMMln3tVFdfd427Fpsi.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zzpZe99PfPH3dkMiYIuT1wT1BDO.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/lBQ0vPp4FVFf5XeIFfD44BJNmLD.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zG3Ly3t14tdheBxvMl6aKwlX2Xr.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/goqmKELqvF7PM3wV8R8fnbow5zz.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 2379,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/iQctZr1p1vdqZgv5iOVIgebmIFa.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1586
+        }
+      ]
+    },
+    "última_actualización": "2026-09-16 10:02:57"
+  },
+  {
+    "id": 1400837,
+    "tmdb_id": 1400837,
+    "título": "La otra madre",
+    "título_original": "Other Mommy",
+    "sinopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
+    "poster_path": "/5yUwsjgWlYCIF5ck1NaUr5zEGg7.jpg",
+    "poster_local": "imagenes_estrenos/La_otra_madre_5yUwsjgWlYCIF5ck1NaUr5zEGg7.jpg",
+    "backdrop_path": "/aVhbUxed4AP7qESD1KxKdb0FSNZ.jpg",
+    "backdrop_local": "imagenes_estrenos/La_otra_madre_backdrop_aVhbUxed4AP7qESD1KxKdb0FSNZ.jpg",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "93 min",
+    "director": "Rob Savage",
+    "directores": [
+      {
+        "name": "Rob Savage",
+        "id": 1129908
+      }
+    ],
+    "actores": [
+      {
+        "name": "Jessica Chastain",
+        "id": 83002,
+        "character": "Ursula / Other Mommy",
+        "profile_path": "/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg"
+      },
+      {
+        "name": "Arabella Olivia Clark",
+        "id": 3484286,
+        "character": "Bela",
+        "profile_path": "/bwTovaznMIXo9Je01soHBCzmFxn.jpg"
+      },
+      {
+        "name": "Jay Duplass",
+        "id": 45405,
+        "character": "Russ",
+        "profile_path": "/eUY0JDlqzf5pE9pmdvv4IPU3NYn.jpg"
+      },
+      {
+        "name": "Dichen Lachman",
+        "id": 94797,
+        "character": "",
+        "profile_path": "/yLrpMHBNtuUAu3M9EjaYHnn5EEY.jpg"
+      },
+      {
+        "name": "Arian Moayed",
+        "id": 457386,
+        "character": "",
+        "profile_path": "/hYBqwt0HelUqgKSd1VDUAyvfDME.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 16.0003,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1125,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/aVhbUxed4AP7qESD1KxKdb0FSNZ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1455,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 2587
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1125,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/l5iLu1Unvb4EuqeHvFl1i8qD4wE.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/i7pTpv4Wmd8HvmnetXpMno3ffWW.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/lA8kKIWLouCn4OHjeIOtP46F3aZ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5vH86XhDahvn9NG2iWTBzAzAeTL.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/a30ptRyrFyKBcNq6zwwEHJvRE7w.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-09-16 10:02:57"
+  },
+  {
+    "id": 1140521,
+    "tmdb_id": 1140521,
+    "título": "El árbol muy muy lejano",
+    "título_original": "The Magic Faraway Tree",
+    "sinopsis": "Polly, Tim, y sus tres hijos son una familia moderna que se ve obligada a mudarse a la remota campiña inglesa. Poco después de su llegada, los niños descubren un árbol mágico y a sus extraordinarios y excéntricos habitantes.",
+    "poster_path": "/q2UkPRN4Nv4JJLLz1c564MyuqLB.jpg",
+    "poster_local": "imagenes_estrenos/El__rbol_muy_muy_lejano_q2UkPRN4Nv4JJLLz1c564MyuqLB.jpg",
+    "backdrop_path": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+    "backdrop_local": "imagenes_estrenos/El__rbol_muy_muy_lejano_backdrop_3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "110 min",
+    "director": "Ben Gregor",
+    "directores": [
+      {
+        "name": "Ben Gregor",
+        "id": 1172495
+      }
+    ],
+    "actores": [
+      {
+        "name": "Billie Gadsdon",
+        "id": 2607591,
+        "character": "Fran Thompson",
+        "profile_path": "/3Xs8VgjGNCjFsIGaFcr3lIkYhrd.jpg"
+      },
+      {
+        "name": "Nicola Coughlan",
+        "id": 1267240,
+        "character": "Silky",
+        "profile_path": "/bhbFv73vlUM0hXlDdAGDrBBb40x.jpg"
+      },
+      {
+        "name": "Delilah Bennett-Cardy",
+        "id": 5858357,
+        "character": "Beth Thompson",
+        "profile_path": "/1qPiOcNNuREzA0BoiOgeEzLJnGF.jpg"
+      },
+      {
+        "name": "Phoenix Laroche",
+        "id": 3717950,
+        "character": "Joe Thompson",
+        "profile_path": "/kXl2nB3tNF9XBPvvkUZgwO0AiY3.jpg"
+      },
+      {
+        "name": "Nonso Anozie",
+        "id": 43547,
+        "character": "Moonface",
+        "profile_path": "/5V5EGRRftkAMPAwRP3a0tu0Nlwe.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "popularidad": 8.4811,
+    "puntuación": 6.2,
+    "votos": 65,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+          "vote_average": 8.034,
+          "vote_count": 5,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/l2Iv2JVEvzlDu7Hxm7ZCm9QprqR.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ldsy8TYJuHxVlq8T5bHQkrS5jsR.jpg",
+          "vote_average": 2.542,
+          "vote_count": 4,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/bcOuDQCciQm9DzONv8xXXuleGJA.jpg",
+          "vote_average": 2.066,
+          "vote_count": 5,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/x4g6y3KPbX0goeI4d3AyoQkjN3R.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/qpqYNCtYXSrdaaYrPWWRcdZdedE.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jII8bwbr6JPA7vTCJXURCHfXZuB.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vAZZPoLdrz7EJMFPVSxGL8lbEG7.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.666,
+          "height": 751,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oH0pSSQvzEKcaY7P2Kb2AAULp8W.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 500
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6gN3gcrsUfzrRAjxm0fYjDvjdBm.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-09-16 10:02:57"
+  },
+  {
+    "id": 1107216,
+    "tmdb_id": 1107216,
+    "título": "Mascotas al rescate",
+    "título_original": "Falcon Express",
+    "sinopsis": "En un tren que está a punto de salir de la estación, suena la alarma que obliga a todos los pasajeros a bajarse. Pero entonces el tren arranca de manera improvista, llevándose a bordo los viajeros que no han tenido tiempo de bajar: los animales de compañía. Asombrados, estos descubren que el tren está bajo el control de Hans, un tejón manipulador y rencoroso, que se quiere vengar de Rex, el perro policía que le puso entre rejas hace años. Como los servicios de rescate no consiguen intervenir en el trayecto montañoso del tren, que circula a toda velocidad, los animales de compañía solo pueden contar con Falcon, un mapache un poco tramposo que hará todo lo posible para salvarles.",
+    "poster_path": "/dJZRImFs3jdMV1I2OzgjGz1rZv9.jpg",
+    "poster_local": "imagenes_estrenos/Mascotas_al_rescate_dJZRImFs3jdMV1I2OzgjGz1rZv9.jpg",
+    "backdrop_path": "/3Gjo73aMqNWxNdBa7PeEj7AXJ3E.jpg",
+    "backdrop_local": "imagenes_estrenos/Mascotas_al_rescate_backdrop_3Gjo73aMqNWxNdBa7PeEj7AXJ3E.jpg",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "86 min",
+    "director": "Jean-Christian Tassy, Benoît Daffis",
+    "directores": [
+      {
+        "name": "Jean-Christian Tassy",
+        "id": 930739
+      },
+      {
+        "name": "Benoît Daffis",
+        "id": 3988259
+      }
+    ],
+    "actores": [
+      {
+        "name": "Damien Ferrette",
+        "id": 1643367,
+        "character": "Falcon (voice)",
+        "profile_path": "/iW6zIP5wGMTI4RS4JKn2QjaKcxG.jpg"
+      },
+      {
+        "name": "Hervé Jolly",
+        "id": 1326512,
+        "character": "Rex (voice)",
+        "profile_path": null
+      },
+      {
+        "name": "Kaycie Chase",
+        "id": 1643163,
+        "character": "Maguy (voice)",
+        "profile_path": "/tis8Xvy8ALtFc9Kt7JBma0ze3Xp.jpg"
+      },
+      {
+        "name": "Frantz Confiac",
+        "id": 1872006,
+        "character": "Hans (voice)",
+        "profile_path": null
+      },
+      {
+        "name": "Emmanuel Garijo",
+        "id": 1497778,
+        "character": "Randy / Jimi (voice)",
+        "profile_path": "/ept2JUdN35WonXZgLLkA1Mr4uSL.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 6.3778,
+    "puntuación": 7.1,
+    "votos": 70,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3Gjo73aMqNWxNdBa7PeEj7AXJ3E.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1688,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/c3tpVAZuiWDNn7PzgFBNsQY4DcY.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3000
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/3d1OQUdUpocM4ux3q5HkKsuJqao.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/a4xhByKMBKQNSP2lNGSBMhqH2wp.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/i0br645raryQN4D6smcLV9kwnJD.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/dJZRImFs3jdMV1I2OzgjGz1rZv9.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zWN6YrOPypN3VYstwlrDbpPvNZK.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/79v9r1D4jEtGAvkaH9AvOXhKE1z.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2026-09-16 10:02:58"
+  },
+  {
+    "id": 1258181,
+    "tmdb_id": 1258181,
+    "título": "La vida de una mujer",
+    "título_original": "La vie d'une femme",
+    "sinopsis": "",
+    "poster_path": "/hakvR1eAbMI4xGFfElR6LZQyq8P.jpg",
+    "poster_local": "imagenes_estrenos/La_vida_de_una_mujer_hakvR1eAbMI4xGFfElR6LZQyq8P.jpg",
+    "backdrop_path": "/rFST4zAaG20VSIxSvYO57nhkkV4.jpg",
+    "backdrop_local": "imagenes_estrenos/La_vida_de_una_mujer_backdrop_rFST4zAaG20VSIxSvYO57nhkkV4.jpg",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "98 min",
+    "director": "Charline Bourgeois-Tacquet",
+    "directores": [
+      {
+        "name": "Charline Bourgeois-Tacquet",
+        "id": 1784936
+      }
+    ],
+    "actores": [
+      {
+        "name": "Léa Drucker",
+        "id": 19360,
+        "character": "Gabrielle",
+        "profile_path": "/tnDoNGkWGNJ7gk08zNBTMhAU1T4.jpg"
+      },
+      {
+        "name": "Mélanie Thierry",
+        "id": 59373,
+        "character": "Frida",
+        "profile_path": "/bzyr9QHNQhLwyxQ6mzN24HPyy3s.jpg"
+      },
+      {
+        "name": "Charles Berling",
+        "id": 48576,
+        "character": "Henri",
+        "profile_path": "/2xPeQoFms6hn8fi5wQx3CEjL70Z.jpg"
+      },
+      {
+        "name": "Laurent Capelluto",
+        "id": 228719,
+        "character": "Kamyar",
+        "profile_path": "/4QzdHAvXJs7TJzjnG2WgzAArld1.jpg"
+      },
+      {
+        "name": "Marie-Christine Barrault",
+        "id": 24393,
+        "character": "Arlette",
+        "profile_path": "/sVJxEzQupuhk1n2g4HpisKGXSSY.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 3.5878,
+    "puntuación": 6.211,
+    "votos": 19,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/rFST4zAaG20VSIxSvYO57nhkkV4.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1215,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5wpgAfHPn5tQyMh9p7WDf62604J.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2160
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/kRj1Dod3w9DZSJV37GTp7WkzsVn.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6PcXGGCKHJuWroKho8HWhKu1qP1.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/4SEzanB0GFE1vWr0JN6Bmpe9SYW.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/gOV2770kfWtqh3FWk95cWA9rmmT.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.666,
+          "height": 1028,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/a57hFw1XW0VpnEgc0A9ENmbmEE7.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 685
+        },
+        {
+          "aspect_ratio": 0.666,
+          "height": 1280,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/sgKD1AtyMfTLqbWo9rlqxYIKAY8.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 853
+        }
+      ]
+    },
+    "última_actualización": "2026-09-16 10:02:58"
+  },
+  {
+    "id": 1583381,
+    "tmdb_id": 1583381,
+    "título": "Perla",
+    "título_original": "Perla",
+    "sinopsis": "",
+    "poster_path": "/m4k2mgJrbnWy8GpJ4IG2RiWWqec.jpg",
+    "poster_local": "imagenes_estrenos/Perla_m4k2mgJrbnWy8GpJ4IG2RiWWqec.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "David Norris",
+    "directores": [
+      {
+        "name": "David Norris",
+        "id": 1400375
+      }
+    ],
+    "actores": [
+      {
+        "name": "Zuleyka Rivera",
+        "id": 1238065,
+        "character": "Perla",
+        "profile_path": null
+      },
+      {
+        "name": "Carlos Ponce",
+        "id": 62067,
+        "character": "Vicente Espinel",
+        "profile_path": "/elNTDau1yinXHgWht9EInLDftxH.jpg"
+      },
+      {
+        "name": "Paz Vega",
+        "id": 3627,
+        "character": "Frances",
+        "profile_path": "/fNLlJysFd5f0Q8Lj20EZpU8BiRN.jpg"
+      },
+      {
+        "name": "Georgina Borri",
+        "id": 1504019,
+        "character": "",
+        "profile_path": "/d5wqq6LACul5DJZzu2FLM4n6dxD.jpg"
+      },
+      {
+        "name": "Modesto Lacen",
+        "id": 64326,
+        "character": "",
+        "profile_path": "/t6Li2XdnKtTAAec2nlaxbZkGvDZ.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 10402,
+        "name": "Música"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 2.3825,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.707,
+          "height": 1440,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/m4k2mgJrbnWy8GpJ4IG2RiWWqec.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1018
+        }
+      ]
+    },
+    "última_actualización": "2026-09-16 10:02:59"
+  },
+  {
+    "id": 1518395,
+    "tmdb_id": 1518395,
+    "título": "Arriba Tutto",
+    "título_original": "Arriba Tutto",
+    "sinopsis": "1905. La feliz infancia de Michi, un niño de siete años, finaliza bruscamente con la violenta muerte de su padre, un artista ambulante que ha enseñado al pequeño a ver la magia y el humor en cada rincón de la vida. Pasados los años, Michi se ha convertido en un hombre amargado, violento y consumido por el rencor. Una asombrosa aparición y el reencuentro con Conchita, su amor de la niñez, le ayudará a recuperar el paraíso perdido y la transgresora visión del mundo que le inculcó su padre.",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "José Mota",
+    "directores": [
+      {
+        "name": "José Mota",
+        "id": 19854
+      }
+    ],
+    "actores": [
+      {
+        "name": "José Mota",
+        "id": 19854,
+        "character": "",
+        "profile_path": "/6a8kpruWspF6fvfbm5JqY9GOK0T.jpg"
+      },
+      {
+        "name": "Pablo Cabello",
+        "id": 5584048,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Karra Elejalde",
+        "id": 24977,
+        "character": "",
+        "profile_path": "/kHODqgc2c7RaZz9Sp7cedgadvzG.jpg"
+      },
+      {
+        "name": "Olivia Molina",
+        "id": 224871,
+        "character": "",
+        "profile_path": "/2G9T43ENJawiOF1dwZ1Ug9iZLVg.jpg"
+      },
+      {
+        "name": "Diego Anido",
+        "id": 2110628,
+        "character": "",
+        "profile_path": "/a7DVrZFjt8JjdPWfOTT93uRXOg8.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.7661,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-09-16 10:02:59"
+  },
+  {
+    "id": 1752487,
+    "tmdb_id": 1752487,
+    "título": "Petros Eni",
+    "título_original": "Petros Eni",
+    "sinopsis": "",
+    "poster_path": "/wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
+    "poster_local": "imagenes_estrenos/Petros_Eni_wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
+    "backdrop_path": "/5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
+    "backdrop_local": "imagenes_estrenos/Petros_Eni_backdrop_5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Paula Ortiz",
+    "directores": [
+      {
+        "name": "Paula Ortiz",
+        "id": 932115
+      }
+    ],
+    "actores": [
+      {
+        "name": "Chris Pratt",
+        "id": 73457,
+        "character": "Self - Guide",
+        "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 1.7426,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1600
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.711,
+          "height": 2362,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1680
+        }
+      ]
+    },
+    "última_actualización": "2026-09-16 10:03:00"
+  },
+  {
+    "id": 1623608,
+    "tmdb_id": 1623608,
+    "título": "Ceniza en la Boca",
+    "título_original": "Ceniza en la Boca",
+    "sinopsis": "",
+    "poster_path": "/5nUniXTDibidAroqNH67PoulEF4.jpg",
+    "poster_local": "imagenes_estrenos/Ceniza_en_la_Boca_5nUniXTDibidAroqNH67PoulEF4.jpg",
+    "backdrop_path": "/2Yvdd2aAk0WNWrhW93Qbrsu326l.jpg",
+    "backdrop_local": "imagenes_estrenos/Ceniza_en_la_Boca_backdrop_2Yvdd2aAk0WNWrhW93Qbrsu326l.jpg",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "98 min",
+    "director": "Diego Luna",
+    "directores": [
+      {
+        "name": "Diego Luna",
+        "id": 8688
+      }
+    ],
+    "actores": [
+      {
+        "name": "Anna Díaz",
+        "id": 4525341,
+        "character": "Lucila",
+        "profile_path": "/qd7fex3ZBH73h1IUNQik1geMr9w.jpg"
+      },
+      {
+        "name": "Adriana Paz",
+        "id": 983710,
+        "character": "Isabel",
+        "profile_path": "/aUBNKmudV1CCMUHskWemg58vc3n.jpg"
+      },
+      {
+        "name": "Luisa Huertas",
+        "id": 224508,
+        "character": "",
+        "profile_path": "/pk2t0f2EcRGxg55xG9gkbyk2xkH.jpg"
+      },
+      {
+        "name": "Guillermo Ríos",
+        "id": 129456,
+        "character": "",
+        "profile_path": "/9wtf0Oes040Vou7emxFDUddlz1N.jpg"
+      },
+      {
+        "name": "Sergio Bautista",
+        "id": 3468226,
+        "character": "",
+        "profile_path": "/67Lj239JTXj1o7XGpbCZOHs187u.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.2702,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/2Yvdd2aAk0WNWrhW93Qbrsu326l.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.776,
+          "height": 847,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/gOKd29vqZX2aQChkGKEwllHtJBc.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1504
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1350,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/utQMSJZL1zUfMY1iFBtuAbaepby.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 900
+        }
+      ]
+    },
+    "última_actualización": "2026-09-16 10:03:00"
+  },
+  {
+    "id": 1454616,
+    "tmdb_id": 1454616,
+    "título": "Las ciegas hormigas",
+    "título_original": "Inurri itsuak",
+    "sinopsis": "Bizkaia, 1935. Un duro temporal hace encallar un barco inglés con toneladas de carbón en su interior. Durante la noche, los vecinos de Algorta se agolpan en la costa para rescatar el oro negro. Sabas Jauregui lo ve como un golpe de suerte; Josefa, su esposa, como un mal presagio. Sin atender sus ruegos, Sabas arrastra a sus hijos hacia la violenta tormenta. La familia hará lo impensable por proteger el carbón que podría salvarles del invierno… o condenarles para siempre.",
+    "poster_path": "/8TRpYdaq8wm3DFgIABO0lnlUEcn.jpg",
+    "poster_local": "imagenes_estrenos/Las_ciegas_hormigas_8TRpYdaq8wm3DFgIABO0lnlUEcn.jpg",
+    "backdrop_path": "/567UptHujPCFl1lvIPtRixirDGa.jpg",
+    "backdrop_local": "imagenes_estrenos/Las_ciegas_hormigas_backdrop_567UptHujPCFl1lvIPtRixirDGa.jpg",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "101 min",
+    "director": "Igor Legarreta",
+    "directores": [
+      {
+        "name": "Igor Legarreta",
+        "id": 1355193
+      }
+    ],
+    "actores": [
+      {
+        "name": "Urko Olazábal",
+        "id": 1760905,
+        "character": "",
+        "profile_path": "/fkLYtgVFIim0mbmdBXjkoogjTSm.jpg"
+      },
+      {
+        "name": "Itziar Ituño",
+        "id": 947514,
+        "character": "",
+        "profile_path": "/l7XfYka8XxPj0fYjq22lvyxkJ7S.jpg"
+      },
+      {
+        "name": "Josean Bengoetxea",
+        "id": 840814,
+        "character": "",
+        "profile_path": "/iTswC5Qjmv8McucuShSDwVl6Smu.jpg"
+      },
+      {
+        "name": "Miren Gaztañaga",
+        "id": 1795540,
+        "character": "",
+        "profile_path": "/rcR7j2z6nm4LtmNNqJkGGw3NN4N.jpg"
+      },
+      {
+        "name": "Unax Hayden",
+        "id": 3782119,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "popularidad": 0.8944,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/567UptHujPCFl1lvIPtRixirDGa.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1600
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jicKX6gwe7BpJIDBdBcHSyD1W3I.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/8TRpYdaq8wm3DFgIABO0lnlUEcn.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1000
+        }
+      ]
+    },
+    "última_actualización": "2026-09-16 10:03:01"
+  },
+  {
+    "id": 1573952,
+    "tmdb_id": 1573952,
+    "título": "Escape Room 2",
+    "título_original": "Escape Room 2",
+    "sinopsis": "",
+    "poster_path": "/aXG5QfiCEqBlNsb8ZaMygKxPPX2.jpg",
+    "poster_local": "imagenes_estrenos/Escape_Room_2_aXG5QfiCEqBlNsb8ZaMygKxPPX2.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Joel Joan, Héctor Claramunt",
+    "directores": [
+      {
+        "name": "Joel Joan",
+        "id": 19826
+      },
+      {
+        "name": "Héctor Claramunt",
+        "id": 1105225
+      }
+    ],
+    "actores": [
+      {
+        "name": "Joel Joan",
+        "id": 19826,
+        "character": "",
+        "profile_path": "/z9XdC14NWhZ40za3zt8gMMRW7Lk.jpg"
+      },
+      {
+        "name": "Mònica Pérez",
+        "id": 1150114,
+        "character": "",
+        "profile_path": "/6aLm9GaZwOyyVbUJMTykC5TmOM2.jpg"
+      },
+      {
+        "name": "Paula Vives",
+        "id": 1090789,
+        "character": "",
+        "profile_path": "/aY2FH9Re5IhLKyB6u6HqD6aRNn5.jpg"
+      },
+      {
+        "name": "Ivan Massagué",
+        "id": 31422,
+        "character": "",
+        "profile_path": "/dmnJo2sGlfFjtKb8FDPlNjRhfyc.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 0.8367,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-09-16 10:03:02"
+  },
+  {
+    "id": 1393726,
+    "tmdb_id": 1393726,
+    "título": "Los niños están bien",
+    "título_original": "Les Enfants Iront Bien",
+    "sinopsis": "",
+    "poster_path": "/vU3fNxrFFr6Ze6zWe2djAmSXdKh.jpg",
+    "poster_local": "imagenes_estrenos/Los_ni_os_est_n_bien_vU3fNxrFFr6Ze6zWe2djAmSXdKh.jpg",
+    "backdrop_path": "/82pqiImKp9mSOE0VbcSC4B8zCtJ.jpg",
+    "backdrop_local": "imagenes_estrenos/Los_ni_os_est_n_bien_backdrop_82pqiImKp9mSOE0VbcSC4B8zCtJ.jpg",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Sigi Van Roy",
+    "directores": [
+      {
+        "name": "Sigi Van Roy",
+        "id": 5085134
+      }
+    ],
+    "actores": [
+      {
+        "name": "Aaron Roggeman",
+        "id": 1521443,
+        "character": "",
+        "profile_path": "/fgAX4U75c04CdVeoljSeU3D8Ko.jpg"
+      },
+      {
+        "name": "James Catteau-Simonet",
+        "id": 5093485,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Robin Vanderoost",
+        "id": 5962741,
+        "character": "Carwash medewerker",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.8631,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/82pqiImKp9mSOE0VbcSC4B8zCtJ.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-09-16 10:03:02"
+  },
+  {
+    "id": 1733562,
+    "tmdb_id": 1733562,
+    "título": "El murmullo del agua",
+    "título_original": "El murmullo del agua",
+    "sinopsis": "Durante una fiesta de cumpleaños, Luca, un niño queer, queda al margen de los juegos y las burlas de los demás. Herido por una infancia que no sabe cómo acoger su diferencia, se refugia en la fantasía e imagina convertirse en una sirena: una criatura libre, capaz de habitar entre dos mundos.",
+    "poster_path": "/3kSRRnlTJcfP1n7yfpcwJ5C5oQY.jpg",
+    "poster_local": "imagenes_estrenos/El_murmullo_del_agua_3kSRRnlTJcfP1n7yfpcwJ5C5oQY.jpg",
+    "backdrop_path": "/nTjrneOYClCBCROJulOPFYqBNEH.jpg",
+    "backdrop_local": "imagenes_estrenos/El_murmullo_del_agua_backdrop_nTjrneOYClCBCROJulOPFYqBNEH.jpg",
+    "fecha_estreno": "2026-10-10",
+    "duración": "8 min",
+    "director": "Yuval K.",
+    "directores": [
+      {
+        "name": "Yuval K.",
+        "id": 6355237
+      }
+    ],
+    "actores": [
+      {
+        "name": "Jordi Catalán",
+        "id": 4557067,
+        "character": "Luca",
+        "profile_path": null
+      },
+      {
+        "name": "Sandra Pece",
+        "id": 5747305,
+        "character": "Madre Luca",
+        "profile_path": null
+      },
+      {
+        "name": "Vega Llopis Moreno",
+        "id": 6160943,
+        "character": "Lucía",
+        "profile_path": null
+      },
+      {
+        "name": "Natalie Liceti",
+        "id": 6355319,
+        "character": "Madre Fiesta",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "popularidad": 1.0068,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1620,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/nTjrneOYClCBCROJulOPFYqBNEH.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2880
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.707,
+          "height": 2048,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/3kSRRnlTJcfP1n7yfpcwJ5C5oQY.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1448
+        }
+      ]
+    },
+    "última_actualización": "2026-09-16 10:03:01"
+  },
+  {
+    "id": 1381078,
+    "tmdb_id": 1381078,
+    "título": "Love of Your Life",
+    "título_original": "Love of Your Life",
+    "sinopsis": "",
+    "poster_path": "/o7ZCmjeW59yujCcAJjjYSJRoZLe.jpg",
+    "poster_local": "imagenes_estrenos/Love_of_Your_Life_o7ZCmjeW59yujCcAJjjYSJRoZLe.jpg",
+    "backdrop_path": "/mTUWpyf15tLs4YLvy3nirbn6xA9.jpg",
+    "backdrop_local": "imagenes_estrenos/Love_of_Your_Life_backdrop_mTUWpyf15tLs4YLvy3nirbn6xA9.jpg",
+    "fecha_estreno": "2026-10-14T00:00:00.000Z",
+    "duración": "106 min",
+    "director": "Rachel Morrison",
+    "directores": [
+      {
+        "name": "Rachel Morrison",
+        "id": 984113
+      }
+    ],
+    "actores": [
+      {
+        "name": "Margaret Qualley",
+        "id": 1392137,
+        "character": "Maya",
+        "profile_path": "/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg"
+      },
+      {
+        "name": "Aaron Pierre",
+        "id": 1763709,
+        "character": "Felix",
+        "profile_path": "/hNwZWdT2KxKj1YLbipvtUhNjfAp.jpg"
+      },
+      {
+        "name": "Gabriel Basso",
+        "id": 222122,
+        "character": "Charlie",
+        "profile_path": "/6jHYQf6Y37BEouavp03WWpWpFyR.jpg"
+      },
+      {
+        "name": "Patrick Schwarzenegger",
+        "id": 1053422,
+        "character": "Jason",
+        "profile_path": "/jKbI0OpFMMz4SPCU1VoMHXIbA3Y.jpg"
+      },
+      {
+        "name": "Catherine Keener",
+        "id": 2229,
+        "character": "",
+        "profile_path": "/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "popularidad": 3.9566,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1888,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mTUWpyf15tLs4YLvy3nirbn6xA9.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3356
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1418,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7RrnaX9AkAXxCVE6PpxIfbcVVBC.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2521
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1418,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xWmWfmMCRvVyv7I8fYcB7m7boCi.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2520
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1418,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ll4TuykDPK3Hm0J2tlmFdTaPdLu.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2521
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1688,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/uE4qESNLo6jQrKjnUiNE42hrn1Z.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3000
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-09-16 10:02:58"
   }
 ]
