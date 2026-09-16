@@ -2184,15 +2184,15 @@
     "backdrop_local": "imagenes_estrenos/Vertigo_2__Punto_muerto_backdrop_g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
     "fecha_estreno": "2026-09-25T00:00:00.000Z",
     "duración": "98 min",
-    "director": "Peter Spierig, Michael Spierig",
+    "director": "Michael Spierig, Peter Spierig",
     "directores": [
-      {
-        "name": "Peter Spierig",
-        "id": 56502
-      },
       {
         "name": "Michael Spierig",
         "id": 56501
+      },
+      {
+        "name": "Peter Spierig",
+        "id": 56502
       }
     ],
     "actores": [
@@ -2233,7 +2233,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 66.5946,
+    "popularidad": 67.7497,
     "puntuación": 6.8,
     "votos": 30,
     "adulto": false,
@@ -2345,7 +2345,166 @@
         }
       ]
     },
-    "última_actualización": "2026-09-16 10:02:55"
+    "última_actualización": "2026-09-16 22:03:04"
+  },
+  {
+    "id": 1263337,
+    "tmdb_id": 1263337,
+    "título": "En el corazón de la bestia",
+    "título_original": "Heart of the Beast",
+    "sinopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+    "poster_path": "/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+    "poster_local": "imagenes_estrenos/En_el_coraz_n_de_la_bestia_1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "backdrop_path": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+    "backdrop_local": "imagenes_estrenos/En_el_coraz_n_de_la_bestia_backdrop_bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+    "fecha_estreno": "2026-09-25T00:00:00.000Z",
+    "duración": "101 min",
+    "director": "David Ayer",
+    "directores": [
+      {
+        "name": "David Ayer",
+        "id": 19769
+      }
+    ],
+    "actores": [
+      {
+        "name": "Brad Pitt",
+        "id": 287,
+        "character": "James Belmont",
+        "profile_path": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+      },
+      {
+        "name": "Uber",
+        "id": 6466294,
+        "character": "Odin The Dog",
+        "profile_path": "/jUQdIsuHRhgBBz0j0tKYgzV24uZ.jpg"
+      },
+      {
+        "name": "J.K. Simmons",
+        "id": 18999,
+        "character": "Walter Boone",
+        "profile_path": "/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+      },
+      {
+        "name": "Anna Lambe",
+        "id": 2307481,
+        "character": "",
+        "profile_path": "/cKm5ZnAOVc6nD8KAgSDMJdZclYH.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 19.0839,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/nATJytbF2sB8QP4nKQNBUIdZswC.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ynjkULhYw2427E1Yrrh6GGgIvfZ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/briCzD66EoEBNGnbwV00N3LrDeA.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/sYZ5m0xjmytwa1YNZeYGK5fye8B.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xMQPJ58oradSdkpkUagLkziOjDm.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3KN53kRlTBGiZ3XtvwiOaCt44WZ.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/4RLhArdnymkf2WpQ5R2RxbUC21e.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.676,
+          "height": 1184,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 800
+        }
+      ]
+    },
+    "última_actualización": "2026-09-16 22:03:05"
   },
   {
     "id": 1465063,
@@ -2425,8 +2584,8 @@
       }
     ],
     "popularidad": 18.2845,
-    "puntuación": 8.8,
-    "votos": 5,
+    "puntuación": 8.833,
+    "votos": 6,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2536,160 +2695,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-16 10:02:56"
-  },
-  {
-    "id": 1263337,
-    "tmdb_id": 1263337,
-    "título": "En el corazón de la bestia",
-    "título_original": "Heart of the Beast",
-    "sinopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-    "poster_path": "/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-    "poster_local": "imagenes_estrenos/En_el_coraz_n_de_la_bestia_1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-    "backdrop_path": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-    "backdrop_local": "imagenes_estrenos/En_el_coraz_n_de_la_bestia_backdrop_bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-    "fecha_estreno": "2026-09-25T00:00:00.000Z",
-    "duración": "101 min",
-    "director": "David Ayer",
-    "directores": [
-      {
-        "name": "David Ayer",
-        "id": 19769
-      }
-    ],
-    "actores": [
-      {
-        "name": "Brad Pitt",
-        "id": 287,
-        "character": "James Belmont",
-        "profile_path": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
-      },
-      {
-        "name": "J.K. Simmons",
-        "id": 18999,
-        "character": "Walter Boone",
-        "profile_path": "/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
-      },
-      {
-        "name": "Anna Lambe",
-        "id": 2307481,
-        "character": "",
-        "profile_path": "/cKm5ZnAOVc6nD8KAgSDMJdZclYH.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 12,
-        "name": "Aventura"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 20.7952,
-    "puntuación": 10.0,
-    "votos": 2,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/nATJytbF2sB8QP4nKQNBUIdZswC.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ynjkULhYw2427E1Yrrh6GGgIvfZ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/briCzD66EoEBNGnbwV00N3LrDeA.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/sYZ5m0xjmytwa1YNZeYGK5fye8B.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xMQPJ58oradSdkpkUagLkziOjDm.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/3KN53kRlTBGiZ3XtvwiOaCt44WZ.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/4RLhArdnymkf2WpQ5R2RxbUC21e.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.676,
-          "height": 1184,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 800
-        }
-      ]
-    },
-    "última_actualización": "2026-09-16 10:02:56"
+    "última_actualización": "2026-09-16 22:03:05"
   },
   {
     "id": 1422041,
@@ -2725,7 +2731,7 @@
         "name": "Miguel Bernardeau",
         "id": 1846370,
         "character": "Rafael",
-        "profile_path": "/aPyvMBnGaTeWkMStdHvdiiWxpBQ.jpg"
+        "profile_path": "/dFA8oHPaFseIqlpCFKtsDwzhrz1.jpg"
       },
       {
         "name": "Carlos González",
@@ -2756,7 +2762,7 @@
         "name": "Bélica"
       }
     ],
-    "popularidad": 5.7318,
+    "popularidad": 5.9166,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2868,49 +2874,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-16 10:02:58"
-  },
-  {
-    "id": 1649011,
-    "tmdb_id": 1649011,
-    "título": "La familia Dino",
-    "título_original": "Доктор Динозавров",
-    "sinopsis": "",
-    "poster_path": "/xtmTvcY4bpCmHUqJDFm9sZVA9dQ.jpg",
-    "poster_local": "imagenes_estrenos/La_familia_Dino_xtmTvcY4bpCmHUqJDFm9sZVA9dQ.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-09-25T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Maya Turkina, Максим Волков",
-    "directores": [
-      {
-        "name": "Maya Turkina",
-        "id": 2419987
-      },
-      {
-        "name": "Максим Волков",
-        "id": 1628967
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      }
-    ],
-    "popularidad": 1.4043,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2026-09-16 10:03:00"
+    "última_actualización": "2026-09-16 22:03:06"
   },
   {
     "id": 1542396,
@@ -2957,7 +2921,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.8524,
+    "popularidad": 1.6145,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2978,7 +2942,60 @@
         }
       ]
     },
-    "última_actualización": "2026-09-16 10:03:00"
+    "última_actualización": "2026-09-16 22:03:07"
+  },
+  {
+    "id": 1649011,
+    "tmdb_id": 1649011,
+    "título": "La familia Dino",
+    "título_original": "Доктор Динозавров",
+    "sinopsis": "",
+    "poster_path": "/xtmTvcY4bpCmHUqJDFm9sZVA9dQ.jpg",
+    "poster_local": "imagenes_estrenos/La_familia_Dino_xtmTvcY4bpCmHUqJDFm9sZVA9dQ.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-09-25T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Maya Turkina, Максим Волков",
+    "directores": [
+      {
+        "name": "Maya Turkina",
+        "id": 2419987
+      },
+      {
+        "name": "Максим Волков",
+        "id": 1628967
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "popularidad": 1.6782,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.707,
+          "height": 2560,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/juAJaN7JvfX2ihMEcef6OFGZBRM.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1810
+        }
+      ]
+    },
+    "última_actualización": "2026-09-16 22:03:08"
   },
   {
     "id": 1753646,
@@ -3045,7 +3062,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 1.4962,
+    "popularidad": 1.7587,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3076,7 +3093,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-16 10:03:00"
+    "última_actualización": "2026-09-16 22:03:07"
   },
   {
     "id": 1388805,
@@ -3139,7 +3156,7 @@
         "name": "Documental"
       }
     ],
-    "popularidad": 2.7113,
+    "popularidad": 3.0866,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3171,7 +3188,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-16 10:02:58"
+    "última_actualización": "2026-09-16 22:03:06"
   },
   {
     "id": 1594914,
@@ -3234,7 +3251,7 @@
         "name": "Bélica"
       }
     ],
-    "popularidad": 57.7348,
+    "popularidad": 58.0389,
     "puntuación": 6.869,
     "votos": 42,
     "adulto": false,
@@ -3296,7 +3313,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-16 10:02:56"
+    "última_actualización": "2026-09-16 22:03:05"
   },
   {
     "id": 1248832,
@@ -3355,7 +3372,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 20.345,
+    "popularidad": 19.6253,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3467,14 +3484,14 @@
         }
       ]
     },
-    "última_actualización": "2026-09-16 10:02:56"
+    "última_actualización": "2026-09-16 22:03:05"
   },
   {
     "id": 1283515,
     "tmdb_id": 1283515,
     "título": "Verity. La sombra de un engaño",
     "título_original": "Verity",
-    "sinopsis": "",
+    "sinopsis": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
     "poster_path": "/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
     "poster_local": "imagenes_estrenos/Verity__La_sombra_de_un_enga_o_7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
     "backdrop_path": "/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
@@ -3622,7 +3639,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-16 10:02:57"
+    "última_actualización": "2026-09-16 22:03:05"
   },
   {
     "id": 1280015,
@@ -3746,7 +3763,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-16 10:02:58"
+    "última_actualización": "2026-09-16 22:03:06"
   },
   {
     "id": 1056494,
@@ -3817,7 +3834,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 2.9875,
+    "popularidad": 2.8812,
     "puntuación": 10.0,
     "votos": 1,
     "adulto": false,
@@ -3879,7 +3896,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-16 10:02:59"
+    "última_actualización": "2026-09-16 22:03:06"
   },
   {
     "id": 677558,
@@ -3946,7 +3963,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 2.8394,
+    "popularidad": 2.725,
     "puntuación": 7.9,
     "votos": 7,
     "adulto": false,
@@ -3977,14 +3994,109 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-16 10:02:59"
+    "última_actualización": "2026-09-16 22:03:06"
+  },
+  {
+    "id": 1634154,
+    "tmdb_id": 1634154,
+    "título": "Nuda Propiedad",
+    "título_original": "Nuda Propiedad",
+    "sinopsis": "",
+    "poster_path": "/iKolxoXMpCMFE22Bc1khkeAT8OX.jpg",
+    "poster_local": "imagenes_estrenos/Nuda_Propiedad_iKolxoXMpCMFE22Bc1khkeAT8OX.jpg",
+    "backdrop_path": "/l9so3jH2aX1stLTUfYpoxCYnKpk.jpg",
+    "backdrop_local": "imagenes_estrenos/Nuda_Propiedad_backdrop_l9so3jH2aX1stLTUfYpoxCYnKpk.jpg",
+    "fecha_estreno": "2026-10-02T00:00:00.000Z",
+    "duración": "90 min",
+    "director": "Alberto Utrera",
+    "directores": [
+      {
+        "name": "Alberto Utrera",
+        "id": 1796079
+      }
+    ],
+    "actores": [
+      {
+        "name": "Susana Abaitua",
+        "id": 544004,
+        "character": "Vera",
+        "profile_path": "/v9BA3YRPkEBpfL3ogKkn2Phag6m.jpg"
+      },
+      {
+        "name": "Maxi Iglesias",
+        "id": 1248277,
+        "character": "Lucas",
+        "profile_path": "/sX0fOdN7Urawav29j24nVAjNgaC.jpg"
+      },
+      {
+        "name": "Pepe Viyuela",
+        "id": 25220,
+        "character": "",
+        "profile_path": "/aDDn9kF809MMCIXGQ7Cl0crW7Zj.jpg"
+      },
+      {
+        "name": "David Lorente",
+        "id": 1696114,
+        "character": "",
+        "profile_path": "/hSqdmED1YkAgA3VqByXUGuu27s4.jpg"
+      },
+      {
+        "name": "Stéphanie Magnin",
+        "id": 2443862,
+        "character": "",
+        "profile_path": "/fPDyHTbQMS2hn6LVBNIZjeemCOc.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 2.4409,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/l9so3jH2aX1stLTUfYpoxCYnKpk.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/iKolxoXMpCMFE22Bc1khkeAT8OX.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-09-16 22:03:07"
   },
   {
     "id": 1655881,
     "tmdb_id": 1655881,
     "título": "XY9",
     "título_original": "XY9",
-    "sinopsis": "MAR e IVÁN son una pareja que se encuentra perdida y piensan que tener un hijo es la solución a todos sus problemas. Varios abortos y problemas genéticos van desgastando la relación lo que les llevará a decidir si de verdad quieren ser padres juntos.",
+    "sinopsis": "Mar e Ivan son una pareja que se encuentra perdida y piensan que tener un hijo es la solución a todos sus problemas. Varios abortos y problemas genéticos van desgastando la relación lo que les llevará a decidir si de verdad quieren ser padres juntos.",
     "poster_path": "/zdDSJwx7hxBMRHakMuZMxMBHSOC.jpg",
     "poster_local": "imagenes_estrenos/XY9_zdDSJwx7hxBMRHakMuZMxMBHSOC.jpg",
     "backdrop_path": "/qmaBczoxUVdcVTysrmTdgLNQAS8.jpg",
@@ -4068,102 +4180,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-16 10:02:59"
-  },
-  {
-    "id": 1634154,
-    "tmdb_id": 1634154,
-    "título": "Nuda Propiedad",
-    "título_original": "Nuda Propiedad",
-    "sinopsis": "",
-    "poster_path": "/iKolxoXMpCMFE22Bc1khkeAT8OX.jpg",
-    "poster_local": "imagenes_estrenos/Nuda_Propiedad_iKolxoXMpCMFE22Bc1khkeAT8OX.jpg",
-    "backdrop_path": "/l9so3jH2aX1stLTUfYpoxCYnKpk.jpg",
-    "backdrop_local": "imagenes_estrenos/Nuda_Propiedad_backdrop_l9so3jH2aX1stLTUfYpoxCYnKpk.jpg",
-    "fecha_estreno": "2026-10-02T00:00:00.000Z",
-    "duración": "90 min",
-    "director": "Alberto Utrera",
-    "directores": [
-      {
-        "name": "Alberto Utrera",
-        "id": 1796079
-      }
-    ],
-    "actores": [
-      {
-        "name": "Susana Abaitua",
-        "id": 544004,
-        "character": "Vera",
-        "profile_path": "/v9BA3YRPkEBpfL3ogKkn2Phag6m.jpg"
-      },
-      {
-        "name": "Maxi Iglesias",
-        "id": 1248277,
-        "character": "Lucas",
-        "profile_path": "/sX0fOdN7Urawav29j24nVAjNgaC.jpg"
-      },
-      {
-        "name": "Pepe Viyuela",
-        "id": 25220,
-        "character": "",
-        "profile_path": "/aDDn9kF809MMCIXGQ7Cl0crW7Zj.jpg"
-      },
-      {
-        "name": "David Lorente",
-        "id": 1696114,
-        "character": "",
-        "profile_path": "/hSqdmED1YkAgA3VqByXUGuu27s4.jpg"
-      },
-      {
-        "name": "Stéphanie Magnin",
-        "id": 2443862,
-        "character": "",
-        "profile_path": "/fPDyHTbQMS2hn6LVBNIZjeemCOc.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 2.3635,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/l9so3jH2aX1stLTUfYpoxCYnKpk.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/iKolxoXMpCMFE22Bc1khkeAT8OX.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-09-16 10:02:59"
+    "última_actualización": "2026-09-16 22:03:07"
   },
   {
     "id": 1235286,
@@ -4222,7 +4239,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.4279,
+    "popularidad": 1.6428,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4284,7 +4301,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-16 10:03:00"
+    "última_actualización": "2026-09-16 22:03:07"
   },
   {
     "id": 1249635,
@@ -4351,7 +4368,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 1.2664,
+    "popularidad": 1.1172,
     "puntuación": 6.6,
     "votos": 7,
     "adulto": false,
@@ -4392,7 +4409,492 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-16 10:03:00"
+    "última_actualización": "2026-09-16 22:03:08"
+  },
+  {
+    "id": 1400837,
+    "tmdb_id": 1400837,
+    "título": "La otra madre",
+    "título_original": "Other Mommy",
+    "sinopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
+    "poster_path": "/5yUwsjgWlYCIF5ck1NaUr5zEGg7.jpg",
+    "poster_local": "imagenes_estrenos/La_otra_madre_5yUwsjgWlYCIF5ck1NaUr5zEGg7.jpg",
+    "backdrop_path": "/aVhbUxed4AP7qESD1KxKdb0FSNZ.jpg",
+    "backdrop_local": "imagenes_estrenos/La_otra_madre_backdrop_aVhbUxed4AP7qESD1KxKdb0FSNZ.jpg",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "93 min",
+    "director": "Rob Savage",
+    "directores": [
+      {
+        "name": "Rob Savage",
+        "id": 1129908
+      }
+    ],
+    "actores": [
+      {
+        "name": "Jessica Chastain",
+        "id": 83002,
+        "character": "Ursula / Other Mommy",
+        "profile_path": "/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg"
+      },
+      {
+        "name": "Arabella Olivia Clark",
+        "id": 3484286,
+        "character": "Bela",
+        "profile_path": "/bwTovaznMIXo9Je01soHBCzmFxn.jpg"
+      },
+      {
+        "name": "Jay Duplass",
+        "id": 45405,
+        "character": "Russ",
+        "profile_path": "/eUY0JDlqzf5pE9pmdvv4IPU3NYn.jpg"
+      },
+      {
+        "name": "Dichen Lachman",
+        "id": 94797,
+        "character": "",
+        "profile_path": "/yLrpMHBNtuUAu3M9EjaYHnn5EEY.jpg"
+      },
+      {
+        "name": "Arian Moayed",
+        "id": 457386,
+        "character": "",
+        "profile_path": "/hYBqwt0HelUqgKSd1VDUAyvfDME.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 16.0003,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1125,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/aVhbUxed4AP7qESD1KxKdb0FSNZ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1455,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 2587
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1125,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/l5iLu1Unvb4EuqeHvFl1i8qD4wE.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/i7pTpv4Wmd8HvmnetXpMno3ffWW.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/lA8kKIWLouCn4OHjeIOtP46F3aZ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5vH86XhDahvn9NG2iWTBzAzAeTL.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/a30ptRyrFyKBcNq6zwwEHJvRE7w.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 2068,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/irFLaBnoGhFtAEIuOQdXbHu4fkC.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1379
+        },
+        {
+          "aspect_ratio": 0.666,
+          "height": 1350,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jPpl7aZLFhJY3HW7cE0ZB2xQEMz.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 899
+        }
+      ]
+    },
+    "última_actualización": "2026-09-16 22:03:05"
+  },
+  {
+    "id": 1140521,
+    "tmdb_id": 1140521,
+    "título": "El árbol muy muy lejano",
+    "título_original": "The Magic Faraway Tree",
+    "sinopsis": "Polly, Tim, y sus tres hijos son una familia moderna que se ve obligada a mudarse a la remota campiña inglesa. Poco después de su llegada, los niños descubren un árbol mágico y a sus extraordinarios y excéntricos habitantes.",
+    "poster_path": "/q2UkPRN4Nv4JJLLz1c564MyuqLB.jpg",
+    "poster_local": "imagenes_estrenos/El__rbol_muy_muy_lejano_q2UkPRN4Nv4JJLLz1c564MyuqLB.jpg",
+    "backdrop_path": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+    "backdrop_local": "imagenes_estrenos/El__rbol_muy_muy_lejano_backdrop_3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "110 min",
+    "director": "Ben Gregor",
+    "directores": [
+      {
+        "name": "Ben Gregor",
+        "id": 1172495
+      }
+    ],
+    "actores": [
+      {
+        "name": "Billie Gadsdon",
+        "id": 2607591,
+        "character": "Fran Thompson",
+        "profile_path": "/3Xs8VgjGNCjFsIGaFcr3lIkYhrd.jpg"
+      },
+      {
+        "name": "Nicola Coughlan",
+        "id": 1267240,
+        "character": "Silky",
+        "profile_path": "/bhbFv73vlUM0hXlDdAGDrBBb40x.jpg"
+      },
+      {
+        "name": "Delilah Bennett-Cardy",
+        "id": 5858357,
+        "character": "Beth Thompson",
+        "profile_path": "/1qPiOcNNuREzA0BoiOgeEzLJnGF.jpg"
+      },
+      {
+        "name": "Phoenix Laroche",
+        "id": 3717950,
+        "character": "Joe Thompson",
+        "profile_path": "/kXl2nB3tNF9XBPvvkUZgwO0AiY3.jpg"
+      },
+      {
+        "name": "Nonso Anozie",
+        "id": 43547,
+        "character": "Moonface",
+        "profile_path": "/5V5EGRRftkAMPAwRP3a0tu0Nlwe.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "popularidad": 8.4811,
+    "puntuación": 6.187,
+    "votos": 67,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+          "vote_average": 8.034,
+          "vote_count": 5,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/l2Iv2JVEvzlDu7Hxm7ZCm9QprqR.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ldsy8TYJuHxVlq8T5bHQkrS5jsR.jpg",
+          "vote_average": 2.542,
+          "vote_count": 4,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/bcOuDQCciQm9DzONv8xXXuleGJA.jpg",
+          "vote_average": 2.066,
+          "vote_count": 5,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/x4g6y3KPbX0goeI4d3AyoQkjN3R.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/qpqYNCtYXSrdaaYrPWWRcdZdedE.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jII8bwbr6JPA7vTCJXURCHfXZuB.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vAZZPoLdrz7EJMFPVSxGL8lbEG7.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.666,
+          "height": 751,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oH0pSSQvzEKcaY7P2Kb2AAULp8W.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 500
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6gN3gcrsUfzrRAjxm0fYjDvjdBm.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-09-16 22:03:06"
+  },
+  {
+    "id": 1752487,
+    "tmdb_id": 1752487,
+    "título": "Petros Eni",
+    "título_original": "Petros Eni",
+    "sinopsis": "Sigue el descubrimiento de la tumba de San Pedro a través de imágenes raras, mientras Constantino arrasaba la colina del Vaticano para construir la primera basílica alrededor de este lugar sagrado.",
+    "poster_path": "/wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
+    "poster_local": "imagenes_estrenos/Petros_Eni_wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
+    "backdrop_path": "/5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
+    "backdrop_local": "imagenes_estrenos/Petros_Eni_backdrop_5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Paula Ortiz",
+    "directores": [
+      {
+        "name": "Paula Ortiz",
+        "id": 932115
+      }
+    ],
+    "actores": [
+      {
+        "name": "Chris Pratt",
+        "id": 73457,
+        "character": "Self - Guide",
+        "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 1.7426,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1600
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.711,
+          "height": 2362,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1680
+        }
+      ]
+    },
+    "última_actualización": "2026-09-16 22:03:07"
+  },
+  {
+    "id": 1393726,
+    "tmdb_id": 1393726,
+    "título": "Los niños están bien",
+    "título_original": "Les Enfants Iront Bien",
+    "sinopsis": "Aaron está comenzando su vida adulta y se enfrenta a las responsabilidades que conlleva. Aún busca su lugar en el mundo, al tiempo que se esfuerza por asegurar que su hermano pequeño, James, crezca en las mejores circunstancias posibles.",
+    "poster_path": "/vU3fNxrFFr6Ze6zWe2djAmSXdKh.jpg",
+    "poster_local": "imagenes_estrenos/Los_ni_os_est_n_bien_vU3fNxrFFr6Ze6zWe2djAmSXdKh.jpg",
+    "backdrop_path": "/82pqiImKp9mSOE0VbcSC4B8zCtJ.jpg",
+    "backdrop_local": "imagenes_estrenos/Los_ni_os_est_n_bien_backdrop_82pqiImKp9mSOE0VbcSC4B8zCtJ.jpg",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "15 min",
+    "director": "Sigi Van Roy",
+    "directores": [
+      {
+        "name": "Sigi Van Roy",
+        "id": 5085134
+      }
+    ],
+    "actores": [
+      {
+        "name": "Aaron Roggeman",
+        "id": 1521443,
+        "character": "",
+        "profile_path": "/fgAX4U75c04CdVeoljSeU3D8Ko.jpg"
+      },
+      {
+        "name": "James Catteau-Simonet",
+        "id": 5093485,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Robin Vanderoost",
+        "id": 5962741,
+        "character": "Carwash medewerker",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.8631,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/82pqiImKp9mSOE0VbcSC4B8zCtJ.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-09-16 22:03:08"
   },
   {
     "id": 1469342,
@@ -4701,336 +5203,6 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 1586
-        }
-      ]
-    },
-    "última_actualización": "2026-09-16 10:02:57"
-  },
-  {
-    "id": 1400837,
-    "tmdb_id": 1400837,
-    "título": "La otra madre",
-    "título_original": "Other Mommy",
-    "sinopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-    "poster_path": "/5yUwsjgWlYCIF5ck1NaUr5zEGg7.jpg",
-    "poster_local": "imagenes_estrenos/La_otra_madre_5yUwsjgWlYCIF5ck1NaUr5zEGg7.jpg",
-    "backdrop_path": "/aVhbUxed4AP7qESD1KxKdb0FSNZ.jpg",
-    "backdrop_local": "imagenes_estrenos/La_otra_madre_backdrop_aVhbUxed4AP7qESD1KxKdb0FSNZ.jpg",
-    "fecha_estreno": "2026-10-09T00:00:00.000Z",
-    "duración": "93 min",
-    "director": "Rob Savage",
-    "directores": [
-      {
-        "name": "Rob Savage",
-        "id": 1129908
-      }
-    ],
-    "actores": [
-      {
-        "name": "Jessica Chastain",
-        "id": 83002,
-        "character": "Ursula / Other Mommy",
-        "profile_path": "/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg"
-      },
-      {
-        "name": "Arabella Olivia Clark",
-        "id": 3484286,
-        "character": "Bela",
-        "profile_path": "/bwTovaznMIXo9Je01soHBCzmFxn.jpg"
-      },
-      {
-        "name": "Jay Duplass",
-        "id": 45405,
-        "character": "Russ",
-        "profile_path": "/eUY0JDlqzf5pE9pmdvv4IPU3NYn.jpg"
-      },
-      {
-        "name": "Dichen Lachman",
-        "id": 94797,
-        "character": "",
-        "profile_path": "/yLrpMHBNtuUAu3M9EjaYHnn5EEY.jpg"
-      },
-      {
-        "name": "Arian Moayed",
-        "id": 457386,
-        "character": "",
-        "profile_path": "/hYBqwt0HelUqgKSd1VDUAyvfDME.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      }
-    ],
-    "popularidad": 16.0003,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1125,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/aVhbUxed4AP7qESD1KxKdb0FSNZ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1455,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 2587
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1125,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/l5iLu1Unvb4EuqeHvFl1i8qD4wE.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/i7pTpv4Wmd8HvmnetXpMno3ffWW.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/lA8kKIWLouCn4OHjeIOtP46F3aZ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1500,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/5vH86XhDahvn9NG2iWTBzAzAeTL.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/a30ptRyrFyKBcNq6zwwEHJvRE7w.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-09-16 10:02:57"
-  },
-  {
-    "id": 1140521,
-    "tmdb_id": 1140521,
-    "título": "El árbol muy muy lejano",
-    "título_original": "The Magic Faraway Tree",
-    "sinopsis": "Polly, Tim, y sus tres hijos son una familia moderna que se ve obligada a mudarse a la remota campiña inglesa. Poco después de su llegada, los niños descubren un árbol mágico y a sus extraordinarios y excéntricos habitantes.",
-    "poster_path": "/q2UkPRN4Nv4JJLLz1c564MyuqLB.jpg",
-    "poster_local": "imagenes_estrenos/El__rbol_muy_muy_lejano_q2UkPRN4Nv4JJLLz1c564MyuqLB.jpg",
-    "backdrop_path": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
-    "backdrop_local": "imagenes_estrenos/El__rbol_muy_muy_lejano_backdrop_3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
-    "fecha_estreno": "2026-10-09T00:00:00.000Z",
-    "duración": "110 min",
-    "director": "Ben Gregor",
-    "directores": [
-      {
-        "name": "Ben Gregor",
-        "id": 1172495
-      }
-    ],
-    "actores": [
-      {
-        "name": "Billie Gadsdon",
-        "id": 2607591,
-        "character": "Fran Thompson",
-        "profile_path": "/3Xs8VgjGNCjFsIGaFcr3lIkYhrd.jpg"
-      },
-      {
-        "name": "Nicola Coughlan",
-        "id": 1267240,
-        "character": "Silky",
-        "profile_path": "/bhbFv73vlUM0hXlDdAGDrBBb40x.jpg"
-      },
-      {
-        "name": "Delilah Bennett-Cardy",
-        "id": 5858357,
-        "character": "Beth Thompson",
-        "profile_path": "/1qPiOcNNuREzA0BoiOgeEzLJnGF.jpg"
-      },
-      {
-        "name": "Phoenix Laroche",
-        "id": 3717950,
-        "character": "Joe Thompson",
-        "profile_path": "/kXl2nB3tNF9XBPvvkUZgwO0AiY3.jpg"
-      },
-      {
-        "name": "Nonso Anozie",
-        "id": 43547,
-        "character": "Moonface",
-        "profile_path": "/5V5EGRRftkAMPAwRP3a0tu0Nlwe.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 12,
-        "name": "Aventura"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      },
-      {
-        "id": 14,
-        "name": "Fantasía"
-      }
-    ],
-    "popularidad": 8.4811,
-    "puntuación": 6.2,
-    "votos": 65,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
-          "vote_average": 8.034,
-          "vote_count": 5,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/l2Iv2JVEvzlDu7Hxm7ZCm9QprqR.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ldsy8TYJuHxVlq8T5bHQkrS5jsR.jpg",
-          "vote_average": 2.542,
-          "vote_count": 4,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/bcOuDQCciQm9DzONv8xXXuleGJA.jpg",
-          "vote_average": 2.066,
-          "vote_count": 5,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/x4g6y3KPbX0goeI4d3AyoQkjN3R.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/qpqYNCtYXSrdaaYrPWWRcdZdedE.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/jII8bwbr6JPA7vTCJXURCHfXZuB.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/vAZZPoLdrz7EJMFPVSxGL8lbEG7.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.666,
-          "height": 751,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/oH0pSSQvzEKcaY7P2Kb2AAULp8W.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 500
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6gN3gcrsUfzrRAjxm0fYjDvjdBm.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
         }
       ]
     },
@@ -5520,73 +5692,6 @@
     "última_actualización": "2026-09-16 10:02:59"
   },
   {
-    "id": 1752487,
-    "tmdb_id": 1752487,
-    "título": "Petros Eni",
-    "título_original": "Petros Eni",
-    "sinopsis": "",
-    "poster_path": "/wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
-    "poster_local": "imagenes_estrenos/Petros_Eni_wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
-    "backdrop_path": "/5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
-    "backdrop_local": "imagenes_estrenos/Petros_Eni_backdrop_5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
-    "fecha_estreno": "2026-10-09T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Paula Ortiz",
-    "directores": [
-      {
-        "name": "Paula Ortiz",
-        "id": 932115
-      }
-    ],
-    "actores": [
-      {
-        "name": "Chris Pratt",
-        "id": 73457,
-        "character": "Self - Guide",
-        "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 1.7426,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 900,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1600
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.711,
-          "height": 2362,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1680
-        }
-      ]
-    },
-    "última_actualización": "2026-09-16 10:03:00"
-  },
-  {
     "id": 1623608,
     "tmdb_id": 1623608,
     "título": "Ceniza en la Boca",
@@ -5864,74 +5969,6 @@
     "última_actualización": "2026-09-16 10:03:02"
   },
   {
-    "id": 1393726,
-    "tmdb_id": 1393726,
-    "título": "Los niños están bien",
-    "título_original": "Les Enfants Iront Bien",
-    "sinopsis": "",
-    "poster_path": "/vU3fNxrFFr6Ze6zWe2djAmSXdKh.jpg",
-    "poster_local": "imagenes_estrenos/Los_ni_os_est_n_bien_vU3fNxrFFr6Ze6zWe2djAmSXdKh.jpg",
-    "backdrop_path": "/82pqiImKp9mSOE0VbcSC4B8zCtJ.jpg",
-    "backdrop_local": "imagenes_estrenos/Los_ni_os_est_n_bien_backdrop_82pqiImKp9mSOE0VbcSC4B8zCtJ.jpg",
-    "fecha_estreno": "2026-10-09T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Sigi Van Roy",
-    "directores": [
-      {
-        "name": "Sigi Van Roy",
-        "id": 5085134
-      }
-    ],
-    "actores": [
-      {
-        "name": "Aaron Roggeman",
-        "id": 1521443,
-        "character": "",
-        "profile_path": "/fgAX4U75c04CdVeoljSeU3D8Ko.jpg"
-      },
-      {
-        "name": "James Catteau-Simonet",
-        "id": 5093485,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Robin Vanderoost",
-        "id": 5962741,
-        "character": "Carwash medewerker",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.8631,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/82pqiImKp9mSOE0VbcSC4B8zCtJ.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2026-09-16 10:03:02"
-  },
-  {
     "id": 1733562,
     "tmdb_id": 1733562,
     "título": "El murmullo del agua",
@@ -6025,7 +6062,7 @@
     "tmdb_id": 1381078,
     "título": "Love of Your Life",
     "título_original": "Love of Your Life",
-    "sinopsis": "",
+    "sinopsis": "Una joven pierde a su marido y emprende un viaje para encontrar el camino a seguir en su vida.",
     "poster_path": "/o7ZCmjeW59yujCcAJjjYSJRoZLe.jpg",
     "poster_local": "imagenes_estrenos/Love_of_Your_Life_o7ZCmjeW59yujCcAJjjYSJRoZLe.jpg",
     "backdrop_path": "/mTUWpyf15tLs4YLvy3nirbn6xA9.jpg",
@@ -6142,6 +6179,6 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-16 10:02:58"
+    "última_actualización": "2026-09-16 22:03:06"
   }
 ]
