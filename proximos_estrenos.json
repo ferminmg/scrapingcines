@@ -491,15 +491,15 @@
     "backdrop_local": "imagenes_estrenos/Vertigo_2__Punto_muerto_backdrop_g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
     "fecha_estreno": "2026-09-25T00:00:00.000Z",
     "duración": "98 min",
-    "director": "Michael Spierig, Peter Spierig",
+    "director": "Peter Spierig, Michael Spierig",
     "directores": [
-      {
-        "name": "Michael Spierig",
-        "id": 56501
-      },
       {
         "name": "Peter Spierig",
         "id": 56502
+      },
+      {
+        "name": "Michael Spierig",
+        "id": 56501
       }
     ],
     "actores": [
@@ -652,7 +652,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:10"
+    "última_actualización": "2026-09-19 22:02:54"
   },
   {
     "id": 1465063,
@@ -694,19 +694,19 @@
         "name": "Dave Franco",
         "id": 54697,
         "character": "Raww (voice)",
-        "profile_path": "/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg"
+        "profile_path": "/to7ee1xcCOpDSKMXjBIRuYEfbEc.jpg"
       },
       {
         "name": "Lea Salonga",
         "id": 15838,
         "character": "Manang (voice)",
-        "profile_path": "/nK9DqbXGPVnaET6I6u0IHL89DjP.jpg"
+        "profile_path": "/cA8lv5GCU5DkZMEeplaVgttrlXr.jpg"
       },
       {
-        "name": "Manny Jacinto",
-        "id": 1368795,
-        "character": "Bungi (voice)",
-        "profile_path": "/jMbNV4nr5647r6CZJbT6nsnspMz.jpg"
+        "name": "Jenny Slate",
+        "id": 213001,
+        "character": "Batiba (voice)",
+        "profile_path": "/iNpXig5Djkh5moYG4TCekIATs5B.jpg"
       }
     ],
     "géneros": [
@@ -843,7 +843,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:11"
+    "última_actualización": "2026-09-19 22:02:55"
   },
   {
     "id": 1263337,
@@ -901,8 +901,8 @@
       }
     ],
     "popularidad": 26.0598,
-    "puntuación": 10.0,
-    "votos": 2,
+    "puntuación": 8.8,
+    "votos": 4,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1002,7 +1002,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:11"
+    "última_actualización": "2026-09-19 22:02:55"
   },
   {
     "id": 1422041,
@@ -1181,7 +1181,60 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:13"
+    "última_actualización": "2026-09-19 22:02:56"
+  },
+  {
+    "id": 1649011,
+    "tmdb_id": 1649011,
+    "título": "La familia Dino",
+    "título_original": "Доктор Динозавров",
+    "sinopsis": "Phil es un adolescente que no está pasando por el mejor momento de su vida. Sus compañeros de clase se ríen de él, la chica que le gusta le ignora y su sueño de convertirse en veterinario se diluye ante la tradición profesional de la familia Dino: quieren que sea paleontólogo. Pero su vida cambia radicalmente cuando, por accidente, abre un portal hacia la era mesozoica. Ahora tendrá que aprender a sobrevivir en una selva prehistórica llena de peligros y evitar convertirse en la merienda de unos dinosaurios hambrientos. Pero, sobre todo, tendrá que encontrar la forma de entenderse con su padre para impedir que se produzca una catástrofe: la Titanoboa, una serpiente gigante prehistórica que odia a la familia Dino desde hace generaciones, está decidida a acabar con ellos.",
+    "poster_path": "/juAJaN7JvfX2ihMEcef6OFGZBRM.jpg",
+    "poster_local": "imagenes_estrenos/La_familia_Dino_xtmTvcY4bpCmHUqJDFm9sZVA9dQ.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-09-25T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Maya Turkina, Максим Волков",
+    "directores": [
+      {
+        "name": "Maya Turkina",
+        "id": 2419987
+      },
+      {
+        "name": "Максим Волков",
+        "id": 1628967
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "popularidad": 1.5835,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.707,
+          "height": 2560,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/juAJaN7JvfX2ihMEcef6OFGZBRM.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1810
+        }
+      ]
+    },
+    "última_actualización": "2026-09-19 22:02:58"
   },
   {
     "id": 1542396,
@@ -1249,60 +1302,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:16"
-  },
-  {
-    "id": 1649011,
-    "tmdb_id": 1649011,
-    "título": "La familia Dino",
-    "título_original": "Доктор Динозавров",
-    "sinopsis": "Phil es un adolescente que no está pasando por el mejor momento de su vida. Sus compañeros de clase se ríen de él, la chica que le gusta le ignora y su sueño de convertirse en veterinario se diluye ante la tradición profesional de la familia Dino: quieren que sea paleontólogo. Pero su vida cambia radicalmente cuando, por accidente, abre un portal hacia la era mesozoica. Ahora tendrá que aprender a sobrevivir en una selva prehistórica llena de peligros y evitar convertirse en la merienda de unos dinosaurios hambrientos. Pero, sobre todo, tendrá que encontrar la forma de entenderse con su padre para impedir que se produzca una catástrofe: la Titanoboa, una serpiente gigante prehistórica que odia a la familia Dino desde hace generaciones, está decidida a acabar con ellos.",
-    "poster_path": "/juAJaN7JvfX2ihMEcef6OFGZBRM.jpg",
-    "poster_local": "imagenes_estrenos/La_familia_Dino_xtmTvcY4bpCmHUqJDFm9sZVA9dQ.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-09-25T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Maya Turkina, Максим Волков",
-    "directores": [
-      {
-        "name": "Maya Turkina",
-        "id": 2419987
-      },
-      {
-        "name": "Максим Волков",
-        "id": 1628967
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      }
-    ],
-    "popularidad": 1.5835,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.707,
-          "height": 2560,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/juAJaN7JvfX2ihMEcef6OFGZBRM.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1810
-        }
-      ]
-    },
-    "última_actualización": "2026-09-19 10:03:17"
+    "última_actualización": "2026-09-19 22:02:58"
   },
   {
     "id": 1753646,
@@ -1400,7 +1400,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:17"
+    "última_actualización": "2026-09-19 22:02:58"
   },
   {
     "id": 1388805,
@@ -1495,7 +1495,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:14"
+    "última_actualización": "2026-09-19 22:02:56"
   },
   {
     "id": 1594914,
@@ -1620,7 +1620,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:11"
+    "última_actualización": "2026-09-19 22:02:54"
   },
   {
     "id": 1248832,
@@ -1791,7 +1791,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:12"
+    "última_actualización": "2026-09-19 22:02:55"
   },
   {
     "id": 1283515,
@@ -1946,7 +1946,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:12"
+    "última_actualización": "2026-09-19 22:02:55"
   },
   {
     "id": 1755291,
@@ -2036,7 +2036,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-19 10:03:12"
+    "última_actualización": "2026-09-19 22:02:55"
   },
   {
     "id": 1280015,
@@ -2160,7 +2160,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-19 10:03:14"
+    "última_actualización": "2026-09-19 22:02:56"
   },
   {
     "id": 677558,
@@ -2258,7 +2258,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-19 10:03:14"
+    "última_actualización": "2026-09-19 22:02:57"
   },
   {
     "id": 1056494,
@@ -2391,7 +2391,301 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:15"
+    "última_actualización": "2026-09-19 22:02:57"
+  },
+  {
+    "id": 1655881,
+    "tmdb_id": 1655881,
+    "título": "XY9",
+    "título_original": "XY9",
+    "sinopsis": "Mar e Ivan son una pareja que se encuentra perdida y piensan que tener un hijo es la solución a todos sus problemas. Varios abortos y problemas genéticos van desgastando la relación lo que les llevará a decidir si de verdad quieren ser padres juntos.",
+    "poster_path": "/zdDSJwx7hxBMRHakMuZMxMBHSOC.jpg",
+    "poster_local": "imagenes_estrenos/XY9_zdDSJwx7hxBMRHakMuZMxMBHSOC.jpg",
+    "backdrop_path": "/qmaBczoxUVdcVTysrmTdgLNQAS8.jpg",
+    "backdrop_local": "imagenes_estrenos/XY9_backdrop_qmaBczoxUVdcVTysrmTdgLNQAS8.jpg",
+    "fecha_estreno": "2026-10-02T00:00:00.000Z",
+    "duración": "65 min",
+    "director": "David Huergo",
+    "directores": [
+      {
+        "name": "David Huergo",
+        "id": 3071870
+      }
+    ],
+    "actores": [
+      {
+        "name": "Silvia Acosta",
+        "id": 2596967,
+        "character": "Mar",
+        "profile_path": "/yxwsFF0UMvw7k9q1TItU7yM6TWY.jpg"
+      },
+      {
+        "name": "Ruth Llopis",
+        "id": 1621790,
+        "character": "Vera",
+        "profile_path": "/uubMrUhY6tAJRholWupmPcY0Odv.jpg"
+      },
+      {
+        "name": "Belén Orihuela",
+        "id": 4885702,
+        "character": "Enfermera",
+        "profile_path": null
+      },
+      {
+        "name": "Ana Otero",
+        "id": 279256,
+        "character": "Doctora",
+        "profile_path": "/3pmab9inxPUamH3BRtPtn5HC9CR.jpg"
+      },
+      {
+        "name": "Maxi Rodríguez",
+        "id": 1146781,
+        "character": "Javier",
+        "profile_path": "/hm37jMbS7boxBgwJWrtUw0YDJfh.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.8768,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/qmaBczoxUVdcVTysrmTdgLNQAS8.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zdDSJwx7hxBMRHakMuZMxMBHSOC.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2026-09-19 22:02:57"
+  },
+  {
+    "id": 1634154,
+    "tmdb_id": 1634154,
+    "título": "Nuda Propiedad",
+    "título_original": "Nuda Propiedad",
+    "sinopsis": "Vera y Lucas, una pareja cercana a los cuarenta, encuentran un piso enorme a mitad de precio gracias a la nuda propiedad: lo compran ahora, pero el anciano dueño seguirá viviendo allí hasta morir. Lo que parecía una solución milagrosa pronto se convierte en obsesión cuando el anciano desaparece, reaparece cambiado y deja de comportarse como alguien en sus/las últimas. Entre sospechas, frustración y un humor negro cada vez más corrosivo, la pareja empieza a contemplar un plan tan absurdo como tentador.",
+    "poster_path": "/iKolxoXMpCMFE22Bc1khkeAT8OX.jpg",
+    "poster_local": "imagenes_estrenos/Nuda_Propiedad_iKolxoXMpCMFE22Bc1khkeAT8OX.jpg",
+    "backdrop_path": "/l9so3jH2aX1stLTUfYpoxCYnKpk.jpg",
+    "backdrop_local": "imagenes_estrenos/Nuda_Propiedad_backdrop_l9so3jH2aX1stLTUfYpoxCYnKpk.jpg",
+    "fecha_estreno": "2026-10-02T00:00:00.000Z",
+    "duración": "90 min",
+    "director": "Alberto Utrera",
+    "directores": [
+      {
+        "name": "Alberto Utrera",
+        "id": 1796079
+      }
+    ],
+    "actores": [
+      {
+        "name": "Susana Abaitua",
+        "id": 544004,
+        "character": "Vera",
+        "profile_path": "/v9BA3YRPkEBpfL3ogKkn2Phag6m.jpg"
+      },
+      {
+        "name": "Maxi Iglesias",
+        "id": 1248277,
+        "character": "Lucas",
+        "profile_path": "/sX0fOdN7Urawav29j24nVAjNgaC.jpg"
+      },
+      {
+        "name": "Pepe Viyuela",
+        "id": 25220,
+        "character": "",
+        "profile_path": "/aDDn9kF809MMCIXGQ7Cl0crW7Zj.jpg"
+      },
+      {
+        "name": "David Lorente",
+        "id": 1696114,
+        "character": "",
+        "profile_path": "/hSqdmED1YkAgA3VqByXUGuu27s4.jpg"
+      },
+      {
+        "name": "Stéphanie Magnin",
+        "id": 2443862,
+        "character": "",
+        "profile_path": "/fPDyHTbQMS2hn6LVBNIZjeemCOc.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.6907,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/l9so3jH2aX1stLTUfYpoxCYnKpk.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/iKolxoXMpCMFE22Bc1khkeAT8OX.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-09-19 22:02:57"
+  },
+  {
+    "id": 1249635,
+    "tmdb_id": 1249635,
+    "título": "The Umbrella Fairy",
+    "título_original": "伞少女",
+    "sinopsis": "En un mundo donde los objetos tienen alma y los deseos cobran vida, dos espíritus nacidos de una antigua pieza de jade deberán elegir entre la amistad y el destino. Mientras Qingdai lucha por proteger la armonía del Reino de las Reliquias, Wanggui emprende un camino marcado por la venganza.",
+    "poster_path": "/j61IJ61zTRKAnVCthtN0LsqoJqg.jpg",
+    "poster_local": "imagenes_estrenos/____j61IJ61zTRKAnVCthtN0LsqoJqg.jpg",
+    "backdrop_path": "/jGjup9PnLUUFdxRiZEiQYOgz3Gz.jpg",
+    "backdrop_local": "imagenes_estrenos/____backdrop_jGjup9PnLUUFdxRiZEiQYOgz3Gz.jpg",
+    "fecha_estreno": "2026-10-02T00:00:00.000Z",
+    "duración": "95 min",
+    "director": "沈杰",
+    "directores": [
+      {
+        "name": "沈杰",
+        "id": 4554980
+      }
+    ],
+    "actores": [
+      {
+        "name": "聶曦映",
+        "id": 3424042,
+        "character": "Qing Dai (voice)",
+        "profile_path": "/hzdBwUblHmYsDITxSgaW5M9faZX.jpg"
+      },
+      {
+        "name": "谷江山",
+        "id": 2532243,
+        "character": "Mo Yang (voice)",
+        "profile_path": "/9AHZohwKutKWdsexJDbfFf1SP6i.jpg"
+      },
+      {
+        "name": "刘校妤",
+        "id": 3207770,
+        "character": "Wang Gui (voice)",
+        "profile_path": "/bH7lP1jHVOMlUEN8lWRfHasDgC0.jpg"
+      },
+      {
+        "name": "沈念如",
+        "id": 2156487,
+        "character": "Xiao Jianzi (voice)",
+        "profile_path": "/6K9iai6QCkF8Gc9DeUPOeESokM0.jpg"
+      },
+      {
+        "name": "阿杰",
+        "id": 1674221,
+        "character": "Gu Jing / Grandpa Gui Jia  (voice)",
+        "profile_path": "/AaXR7HBOkyrLlM93cycAt6i9NDE.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 1.1834,
+    "puntuación": 6.6,
+    "votos": 7,
+    "adulto": false,
+    "video": false,
+    "año": "2024",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jGjup9PnLUUFdxRiZEiQYOgz3Gz.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/hTufl0RBqdwawjQL6f4JMsK1XGv.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/eWLCpirxHDTYzXxtEcuHa6YfEyW.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-09-19 22:02:58"
   },
   {
     "id": 1235286,
@@ -2515,300 +2809,6 @@
     "última_actualización": "2026-09-19 10:03:15"
   },
   {
-    "id": 1655881,
-    "tmdb_id": 1655881,
-    "título": "XY9",
-    "título_original": "XY9",
-    "sinopsis": "Mar e Ivan son una pareja que se encuentra perdida y piensan que tener un hijo es la solución a todos sus problemas. Varios abortos y problemas genéticos van desgastando la relación lo que les llevará a decidir si de verdad quieren ser padres juntos.",
-    "poster_path": "/zdDSJwx7hxBMRHakMuZMxMBHSOC.jpg",
-    "poster_local": "imagenes_estrenos/XY9_zdDSJwx7hxBMRHakMuZMxMBHSOC.jpg",
-    "backdrop_path": "/qmaBczoxUVdcVTysrmTdgLNQAS8.jpg",
-    "backdrop_local": "imagenes_estrenos/XY9_backdrop_qmaBczoxUVdcVTysrmTdgLNQAS8.jpg",
-    "fecha_estreno": "2026-10-02T00:00:00.000Z",
-    "duración": "65 min",
-    "director": "David Huergo",
-    "directores": [
-      {
-        "name": "David Huergo",
-        "id": 3071870
-      }
-    ],
-    "actores": [
-      {
-        "name": "Silvia Acosta",
-        "id": 2596967,
-        "character": "Mar",
-        "profile_path": "/yxwsFF0UMvw7k9q1TItU7yM6TWY.jpg"
-      },
-      {
-        "name": "Ruth Llopis",
-        "id": 1621790,
-        "character": "Vera",
-        "profile_path": "/uubMrUhY6tAJRholWupmPcY0Odv.jpg"
-      },
-      {
-        "name": "Belén Orihuela",
-        "id": 4885702,
-        "character": "Enfermera",
-        "profile_path": null
-      },
-      {
-        "name": "Ana Otero",
-        "id": 279256,
-        "character": "Doctora",
-        "profile_path": "/3pmab9inxPUamH3BRtPtn5HC9CR.jpg"
-      },
-      {
-        "name": "Maxi Rodríguez",
-        "id": 1146781,
-        "character": "Javier",
-        "profile_path": "/hm37jMbS7boxBgwJWrtUw0YDJfh.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 1.8768,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/qmaBczoxUVdcVTysrmTdgLNQAS8.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/zdDSJwx7hxBMRHakMuZMxMBHSOC.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2026-09-19 10:03:16"
-  },
-  {
-    "id": 1634154,
-    "tmdb_id": 1634154,
-    "título": "Nuda Propiedad",
-    "título_original": "Nuda Propiedad",
-    "sinopsis": "Vera y Lucas, una pareja cercana a los cuarenta, encuentran un piso enorme a mitad de precio gracias a la nuda propiedad: lo compran ahora, pero el anciano dueño seguirá viviendo allí hasta morir. Lo que parecía una solución milagrosa pronto se convierte en obsesión cuando el anciano desaparece, reaparece cambiado y deja de comportarse como alguien en sus/las últimas. Entre sospechas, frustración y un humor negro cada vez más corrosivo, la pareja empieza a contemplar un plan tan absurdo como tentador.",
-    "poster_path": "/iKolxoXMpCMFE22Bc1khkeAT8OX.jpg",
-    "poster_local": "imagenes_estrenos/Nuda_Propiedad_iKolxoXMpCMFE22Bc1khkeAT8OX.jpg",
-    "backdrop_path": "/l9so3jH2aX1stLTUfYpoxCYnKpk.jpg",
-    "backdrop_local": "imagenes_estrenos/Nuda_Propiedad_backdrop_l9so3jH2aX1stLTUfYpoxCYnKpk.jpg",
-    "fecha_estreno": "2026-10-02T00:00:00.000Z",
-    "duración": "90 min",
-    "director": "Alberto Utrera",
-    "directores": [
-      {
-        "name": "Alberto Utrera",
-        "id": 1796079
-      }
-    ],
-    "actores": [
-      {
-        "name": "Susana Abaitua",
-        "id": 544004,
-        "character": "Vera",
-        "profile_path": "/v9BA3YRPkEBpfL3ogKkn2Phag6m.jpg"
-      },
-      {
-        "name": "Maxi Iglesias",
-        "id": 1248277,
-        "character": "Lucas",
-        "profile_path": "/sX0fOdN7Urawav29j24nVAjNgaC.jpg"
-      },
-      {
-        "name": "Pepe Viyuela",
-        "id": 25220,
-        "character": "",
-        "profile_path": "/aDDn9kF809MMCIXGQ7Cl0crW7Zj.jpg"
-      },
-      {
-        "name": "David Lorente",
-        "id": 1696114,
-        "character": "",
-        "profile_path": "/hSqdmED1YkAgA3VqByXUGuu27s4.jpg"
-      },
-      {
-        "name": "Stéphanie Magnin",
-        "id": 2443862,
-        "character": "",
-        "profile_path": "/fPDyHTbQMS2hn6LVBNIZjeemCOc.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 1.6907,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/l9so3jH2aX1stLTUfYpoxCYnKpk.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/iKolxoXMpCMFE22Bc1khkeAT8OX.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-09-19 10:03:16"
-  },
-  {
-    "id": 1249635,
-    "tmdb_id": 1249635,
-    "título": "The Umbrella Fairy",
-    "título_original": "伞少女",
-    "sinopsis": "En un mundo donde los objetos tienen alma y los deseos cobran vida, dos espíritus nacidos de una antigua pieza de jade deberán elegir entre la amistad y el destino. Mientras Qingdai lucha por proteger la armonía del Reino de las Reliquias, Wanggui emprende un camino marcado por la venganza.",
-    "poster_path": "/j61IJ61zTRKAnVCthtN0LsqoJqg.jpg",
-    "poster_local": "imagenes_estrenos/____j61IJ61zTRKAnVCthtN0LsqoJqg.jpg",
-    "backdrop_path": "/jGjup9PnLUUFdxRiZEiQYOgz3Gz.jpg",
-    "backdrop_local": "imagenes_estrenos/____backdrop_jGjup9PnLUUFdxRiZEiQYOgz3Gz.jpg",
-    "fecha_estreno": "2026-10-02T00:00:00.000Z",
-    "duración": "95 min",
-    "director": "沈杰",
-    "directores": [
-      {
-        "name": "沈杰",
-        "id": 4554980
-      }
-    ],
-    "actores": [
-      {
-        "name": "聶曦映",
-        "id": 3424042,
-        "character": "Qing Dai (voice)",
-        "profile_path": "/hzdBwUblHmYsDITxSgaW5M9faZX.jpg"
-      },
-      {
-        "name": "谷江山",
-        "id": 2532243,
-        "character": "Mo Yang (voice)",
-        "profile_path": "/9AHZohwKutKWdsexJDbfFf1SP6i.jpg"
-      },
-      {
-        "name": "刘校妤",
-        "id": 3207770,
-        "character": "Wang Gui (voice)",
-        "profile_path": "/bH7lP1jHVOMlUEN8lWRfHasDgC0.jpg"
-      },
-      {
-        "name": "沈念如",
-        "id": 2156487,
-        "character": "Xiao Jianzi (voice)",
-        "profile_path": "/6K9iai6QCkF8Gc9DeUPOeESokM0.jpg"
-      },
-      {
-        "name": "阿杰",
-        "id": 1674221,
-        "character": "Gu Jing / Grandpa Gui Jia  (voice)",
-        "profile_path": "/AaXR7HBOkyrLlM93cycAt6i9NDE.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 14,
-        "name": "Fantasía"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 1.1834,
-    "puntuación": 6.6,
-    "votos": 7,
-    "adulto": false,
-    "video": false,
-    "año": "2024",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/jGjup9PnLUUFdxRiZEiQYOgz3Gz.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/hTufl0RBqdwawjQL6f4JMsK1XGv.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/eWLCpirxHDTYzXxtEcuHa6YfEyW.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2026-09-19 10:03:18"
-  },
-  {
     "id": 1772629,
     "tmdb_id": 1772629,
     "título": "Pequeño diccionario de gramática de las nubes",
@@ -2839,7 +2839,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-09-19 10:03:19"
+    "última_actualización": "2026-09-19 22:02:59"
   },
   {
     "id": 1400837,
@@ -2849,7 +2849,7 @@
     "sinopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
     "poster_path": "/5yUwsjgWlYCIF5ck1NaUr5zEGg7.jpg",
     "poster_local": "imagenes_estrenos/La_otra_madre_5yUwsjgWlYCIF5ck1NaUr5zEGg7.jpg",
-    "backdrop_path": "/aVhbUxed4AP7qESD1KxKdb0FSNZ.jpg",
+    "backdrop_path": "/wpx3J1ZuIZgWc9rzdfcj7fDru58.jpg",
     "backdrop_local": "imagenes_estrenos/La_otra_madre_backdrop_aVhbUxed4AP7qESD1KxKdb0FSNZ.jpg",
     "fecha_estreno": "2026-10-09T00:00:00.000Z",
     "duración": "93 min",
@@ -2908,16 +2908,6 @@
       "backdrops": [
         {
           "aspect_ratio": 1.778,
-          "height": 1125,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/aVhbUxed4AP7qESD1KxKdb0FSNZ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 1.778,
           "height": 1080,
           "iso_3166_1": null,
           "iso_639_1": null,
@@ -2925,6 +2915,16 @@
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
         },
         {
           "aspect_ratio": 1.778,
@@ -2938,23 +2938,23 @@
         },
         {
           "aspect_ratio": 1.778,
-          "height": 1125,
+          "height": 1741,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/l5iLu1Unvb4EuqeHvFl1i8qD4wE.jpg",
+          "file_path": "/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
-          "width": 2000
+          "width": 3096
         },
         {
           "aspect_ratio": 1.778,
-          "height": 1080,
+          "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/i7pTpv4Wmd8HvmnetXpMno3ffWW.jpg",
+          "file_path": "/qHURF5fju9HYpnEdEj3D4HH8C7q.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
-          "width": 1920
+          "width": 3840
         }
       ],
       "posters": [
@@ -2991,8 +2991,8 @@
         {
           "aspect_ratio": 0.667,
           "height": 1920,
-          "iso_3166_1": null,
-          "iso_639_1": null,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
           "file_path": "/19R9yRwgZSekpTNfKoB7MzsutDN.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
@@ -3000,7 +3000,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:11"
+    "última_actualización": "2026-09-19 22:02:55"
   },
   {
     "id": 1469342,
@@ -3068,8 +3068,8 @@
       }
     ],
     "popularidad": 11.8041,
-    "puntuación": 5.1,
-    "votos": 61,
+    "puntuación": 5.089,
+    "votos": 62,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3149,150 +3149,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:12"
-  },
-  {
-    "id": 1542261,
-    "tmdb_id": 1542261,
-    "título": "Doraemon: Nobita y el nuevo castillo del diablo submarino",
-    "título_original": "映画ドラえもん 新・のび太の海底鬼岩城",
-    "sinopsis": "Nobita y sus amigos descubren un castillo submarino secreto repleto de misterios y riquezas. Con los ingeniosos artilugios de Doraemon, se sumergen en una aventura oceánica que combina humor, trabajo en equipo e imaginación en un impresionante mundo acuático.",
-    "poster_path": "/wPzyoIvJBOXFnuGWgu09gnlO26K.jpg",
-    "poster_local": "imagenes_estrenos/____________________wPzyoIvJBOXFnuGWgu09gnlO26K.jpg",
-    "backdrop_path": "/pxd9rc03EMMln3tVFdfd427Fpsi.jpg",
-    "backdrop_local": "imagenes_estrenos/____________________backdrop_pxd9rc03EMMln3tVFdfd427Fpsi.jpg",
-    "fecha_estreno": "2026-10-09T00:00:00.000Z",
-    "duración": "102 min",
-    "director": "矢嶋哲生",
-    "directores": [
-      {
-        "name": "矢嶋哲生",
-        "id": 1947876
-      }
-    ],
-    "actores": [
-      {
-        "name": "Wasabi Mizuta",
-        "id": 1241939,
-        "character": "Doraemon (voice)",
-        "profile_path": "/sJ4kytbg2XiERgch3k2k82FXK2B.jpg"
-      },
-      {
-        "name": "大原めぐみ",
-        "id": 932986,
-        "character": "Nobita (voice)",
-        "profile_path": "/zelZQmq65MaiSeDIiqEpZOINIxd.jpg"
-      },
-      {
-        "name": "かかずゆみ",
-        "id": 9715,
-        "character": "Shizuka (voice)",
-        "profile_path": "/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
-      },
-      {
-        "name": "Subaru Kimura",
-        "id": 1142780,
-        "character": "Gian (voice)",
-        "profile_path": "/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
-      },
-      {
-        "name": "Tomokazu Seki",
-        "id": 90567,
-        "character": "Suneo (voice)",
-        "profile_path": "/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 12,
-        "name": "Aventura"
-      },
-      {
-        "id": 14,
-        "name": "Fantasía"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 10.4911,
-    "puntuación": 7.3,
-    "votos": 10,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/pxd9rc03EMMln3tVFdfd427Fpsi.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/zzpZe99PfPH3dkMiYIuT1wT1BDO.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/lBQ0vPp4FVFf5XeIFfD44BJNmLD.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/zG3Ly3t14tdheBxvMl6aKwlX2Xr.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/goqmKELqvF7PM3wV8R8fnbow5zz.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1920
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 2379,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/iQctZr1p1vdqZgv5iOVIgebmIFa.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1586
-        }
-      ]
-    },
-    "última_actualización": "2026-09-19 10:03:13"
+    "última_actualización": "2026-09-19 22:02:55"
   },
   {
     "id": 1140521,
@@ -3471,7 +3328,150 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:13"
+    "última_actualización": "2026-09-19 22:02:56"
+  },
+  {
+    "id": 1542261,
+    "tmdb_id": 1542261,
+    "título": "Doraemon: Nobita y el nuevo castillo del diablo submarino",
+    "título_original": "映画ドラえもん 新・のび太の海底鬼岩城",
+    "sinopsis": "Nobita y sus amigos descubren un castillo submarino secreto repleto de misterios y riquezas. Con los ingeniosos artilugios de Doraemon, se sumergen en una aventura oceánica que combina humor, trabajo en equipo e imaginación en un impresionante mundo acuático.",
+    "poster_path": "/wPzyoIvJBOXFnuGWgu09gnlO26K.jpg",
+    "poster_local": "imagenes_estrenos/____________________wPzyoIvJBOXFnuGWgu09gnlO26K.jpg",
+    "backdrop_path": "/pxd9rc03EMMln3tVFdfd427Fpsi.jpg",
+    "backdrop_local": "imagenes_estrenos/____________________backdrop_pxd9rc03EMMln3tVFdfd427Fpsi.jpg",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "102 min",
+    "director": "矢嶋哲生",
+    "directores": [
+      {
+        "name": "矢嶋哲生",
+        "id": 1947876
+      }
+    ],
+    "actores": [
+      {
+        "name": "Wasabi Mizuta",
+        "id": 1241939,
+        "character": "Doraemon (voice)",
+        "profile_path": "/sJ4kytbg2XiERgch3k2k82FXK2B.jpg"
+      },
+      {
+        "name": "大原めぐみ",
+        "id": 932986,
+        "character": "Nobita (voice)",
+        "profile_path": "/zelZQmq65MaiSeDIiqEpZOINIxd.jpg"
+      },
+      {
+        "name": "かかずゆみ",
+        "id": 9715,
+        "character": "Shizuka (voice)",
+        "profile_path": "/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
+      },
+      {
+        "name": "Subaru Kimura",
+        "id": 1142780,
+        "character": "Gian (voice)",
+        "profile_path": "/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
+      },
+      {
+        "name": "Tomokazu Seki",
+        "id": 90567,
+        "character": "Suneo (voice)",
+        "profile_path": "/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 10.4911,
+    "puntuación": 7.3,
+    "votos": 10,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/pxd9rc03EMMln3tVFdfd427Fpsi.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zzpZe99PfPH3dkMiYIuT1wT1BDO.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/lBQ0vPp4FVFf5XeIFfD44BJNmLD.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zG3Ly3t14tdheBxvMl6aKwlX2Xr.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/goqmKELqvF7PM3wV8R8fnbow5zz.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 2379,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/iQctZr1p1vdqZgv5iOVIgebmIFa.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1586
+        }
+      ]
+    },
+    "última_actualización": "2026-09-19 22:02:56"
   },
   {
     "id": 1107216,
@@ -3642,7 +3642,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:13"
+    "última_actualización": "2026-09-19 22:02:56"
   },
   {
     "id": 1258181,
@@ -3777,7 +3777,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:14"
+    "última_actualización": "2026-09-19 22:02:57"
   },
   {
     "id": 1583381,
@@ -3861,7 +3861,91 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:15"
+    "última_actualización": "2026-09-19 22:02:57"
+  },
+  {
+    "id": 1583381,
+    "tmdb_id": 1583381,
+    "título": "Perla",
+    "título_original": "Perla",
+    "sinopsis": "Vicente Espinel es un músico folclórico que lucha por preservar la tradición en un mundo cada vez más dominado por el reguetón. Su vida cambia cuando se cruza con Perla, una artista urbana audaz y carismática. Su conexión desata un choque entre tradición e innovación.",
+    "poster_path": "/m4k2mgJrbnWy8GpJ4IG2RiWWqec.jpg",
+    "poster_local": "imagenes_estrenos/Perla_m4k2mgJrbnWy8GpJ4IG2RiWWqec.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "David Norris",
+    "directores": [
+      {
+        "name": "David Norris",
+        "id": 1400375
+      }
+    ],
+    "actores": [
+      {
+        "name": "Zuleyka Rivera",
+        "id": 1238065,
+        "character": "Perla",
+        "profile_path": null
+      },
+      {
+        "name": "Carlos Ponce",
+        "id": 62067,
+        "character": "Vicente Espinel",
+        "profile_path": "/elNTDau1yinXHgWht9EInLDftxH.jpg"
+      },
+      {
+        "name": "Paz Vega",
+        "id": 3627,
+        "character": "Frances",
+        "profile_path": "/fNLlJysFd5f0Q8Lj20EZpU8BiRN.jpg"
+      },
+      {
+        "name": "Georgina Borri",
+        "id": 1504019,
+        "character": "",
+        "profile_path": "/d5wqq6LACul5DJZzu2FLM4n6dxD.jpg"
+      },
+      {
+        "name": "Modesto Lacen",
+        "id": 64326,
+        "character": "",
+        "profile_path": "/t6Li2XdnKtTAAec2nlaxbZkGvDZ.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 10402,
+        "name": "Música"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 2.3793,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.707,
+          "height": 1440,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/m4k2mgJrbnWy8GpJ4IG2RiWWqec.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1018
+        }
+      ]
+    },
+    "última_actualización": "2026-09-19 22:02:57"
   },
   {
     "id": 1752487,
@@ -3928,7 +4012,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:16"
+    "última_actualización": "2026-09-19 22:02:57"
   },
   {
     "id": 1518395,
@@ -4012,7 +4096,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:16"
+    "última_actualización": "2026-09-19 22:02:58"
   },
   {
     "id": 1623608,
@@ -4117,7 +4201,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:17"
+    "última_actualización": "2026-09-19 22:02:58"
   },
   {
     "id": 1454616,
@@ -4222,7 +4306,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:18"
+    "última_actualización": "2026-09-19 22:02:59"
   },
   {
     "id": 1573952,
@@ -4289,7 +4373,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-09-19 10:03:18"
+    "última_actualización": "2026-09-19 22:02:59"
   },
   {
     "id": 1393726,
@@ -4446,7 +4530,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-19 10:03:18"
+    "última_actualización": "2026-09-19 22:02:58"
   },
   {
     "id": 1381078,
@@ -4570,6 +4654,6 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-19 10:03:14"
+    "última_actualización": "2026-09-19 22:02:56"
   }
 ]
