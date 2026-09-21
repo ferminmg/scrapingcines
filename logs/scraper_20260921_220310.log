@@ -1,0 +1,55 @@
+2026-09-21 22:03:10,269 - INFO - Iniciando proceso de scraping
+2026-09-21 22:03:10,271 - INFO - Posts existentes encontrados: 2601
+2026-09-21 22:03:10,271 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-09-21 22:03:13,101 - INFO - Se encontraron 10 posts
+2026-09-21 22:03:13,102 - INFO - Comenzando extracción de información del post
+2026-09-21 22:03:13,102 - INFO - Título del post: BAD APPLES de Jonatan Etzler
+2026-09-21 22:03:13,102 - INFO - Fecha del post: 2026-09-21T23:51:16+02:00
+2026-09-21 22:03:13,102 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/bad-apples-critica/
+2026-09-21 22:03:15,280 - INFO - Contenido extraído y estructurado (4232 caracteres)
+2026-09-21 22:03:15,281 - INFO - Guardando post en: posts/BAD_APPLES_2026-09-21.json
+2026-09-21 22:03:15,281 - INFO - Post guardado exitosamente
+2026-09-21 22:03:15,281 - INFO - Actualizando índice de películas
+2026-09-21 22:03:15,281 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-09-21 22:03:15,287 - INFO - Índice existente cargado con 2698 películas
+2026-09-21 22:03:15,299 - INFO - Película agregada al índice: BAD APPLES
+2026-09-21 22:03:15,299 - INFO - Nuevo post guardado: BAD APPLES de Jonatan Etzler
+2026-09-21 22:03:15,299 - INFO - Comenzando extracción de información del post
+2026-09-21 22:03:15,300 - INFO - Título del post: FORASTERA de Lucía Aleñar Iglesias
+2026-09-21 22:03:15,300 - INFO - Fecha del post: 2026-09-21T23:43:54+02:00
+2026-09-21 22:03:15,300 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/forastera-critica/
+2026-09-21 22:03:17,331 - INFO - Contenido extraído y estructurado (2821 caracteres)
+2026-09-21 22:03:17,332 - INFO - Guardando post en: posts/FORASTERA_2026-09-21.json
+2026-09-21 22:03:17,333 - INFO - Post guardado exitosamente
+2026-09-21 22:03:17,333 - INFO - Actualizando índice de películas
+2026-09-21 22:03:17,333 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-09-21 22:03:17,337 - INFO - Índice existente cargado con 2699 películas
+2026-09-21 22:03:17,350 - INFO - Película agregada al índice: FORASTERA
+2026-09-21 22:03:17,350 - INFO - Nuevo post guardado: FORASTERA de Lucía Aleñar Iglesias
+2026-09-21 22:03:17,350 - INFO - Comenzando extracción de información del post
+2026-09-21 22:03:17,350 - INFO - Título del post: EL LADRÓN DE PERROS de Vinko Tomicic
+2026-09-21 22:03:17,350 - INFO - Fecha del post: 2026-09-21T23:33:59+02:00
+2026-09-21 22:03:17,351 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/el-ladron-de-perros-de-vinko-tomicic/
+2026-09-21 22:03:19,633 - INFO - Contenido extraído y estructurado (2602 caracteres)
+2026-09-21 22:03:19,634 - INFO - Guardando post en: posts/EL_LADRÓN_DE_PERROS_2026-09-21.json
+2026-09-21 22:03:19,634 - INFO - Post guardado exitosamente
+2026-09-21 22:03:19,634 - INFO - Actualizando índice de películas
+2026-09-21 22:03:19,634 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-09-21 22:03:19,638 - INFO - Índice existente cargado con 2700 películas
+2026-09-21 22:03:19,650 - INFO - Película agregada al índice: EL LADRÓN DE PERROS
+2026-09-21 22:03:19,651 - INFO - Nuevo post guardado: EL LADRÓN DE PERROS de Vinko Tomicic
+2026-09-21 22:03:19,651 - INFO - Comenzando extracción de información del post
+2026-09-21 22:03:19,651 - INFO - Post ya existente, saltando: CRONOS de Fernando González Molina
+2026-09-21 22:03:19,651 - INFO - Comenzando extracción de información del post
+2026-09-21 22:03:19,651 - INFO - Post ya existente, saltando: JIM QUEEN de Marco Nguyen y Nicolas Athane
+2026-09-21 22:03:19,651 - INFO - Comenzando extracción de información del post
+2026-09-21 22:03:19,651 - INFO - Post ya existente, saltando: CINCO SEGUNDOS de Paolo Virzì
+2026-09-21 22:03:19,651 - INFO - Comenzando extracción de información del post
+2026-09-21 22:03:19,651 - INFO - Post ya existente, saltando: LA CONSTELACIÓN DEL PERRO de Ridley Scott
+2026-09-21 22:03:19,651 - INFO - Comenzando extracción de información del post
+2026-09-21 22:03:19,652 - INFO - Post ya existente, saltando: UNA NOCHE AL AÑO de Will Gluck
+2026-09-21 22:03:19,652 - INFO - Comenzando extracción de información del post
+2026-09-21 22:03:19,652 - INFO - Post ya existente, saltando: ERUPCJA de Pete Ohs
+2026-09-21 22:03:19,652 - INFO - Comenzando extracción de información del post
+2026-09-21 22:03:19,652 - INFO - Post ya existente, saltando: EL SER QUERIDO de Rodrigo Sorogoyen
+2026-09-21 22:03:19,652 - INFO - Proceso completado. Posts nuevos guardados: 3
