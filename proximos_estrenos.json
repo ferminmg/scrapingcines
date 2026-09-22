@@ -1,5 +1,142 @@
 [
   {
+    "id": 1448266,
+    "tmdb_id": 1448266,
+    "título": "The Catcher",
+    "título_original": "The Catcher",
+    "sinopsis": "",
+    "poster_path": "/lxCDwXCy9v2rHS4tLzMVJ3kqIQM.jpg",
+    "poster_local": "imagenes_estrenos/The_Catcher_lxCDwXCy9v2rHS4tLzMVJ3kqIQM.jpg",
+    "backdrop_path": "/aErhraCnJufHDcrC7hbhRvL3a40.jpg",
+    "backdrop_local": "imagenes_estrenos/The_Catcher_backdrop_aErhraCnJufHDcrC7hbhRvL3a40.jpg",
+    "fecha_estreno": "2026-03-14",
+    "duración": "29 min",
+    "director": "Luka Galle",
+    "directores": [
+      {
+        "name": "Luka Galle",
+        "id": 4694600
+      }
+    ],
+    "actores": [
+      {
+        "name": "Emil Leysen",
+        "id": 5303729,
+        "character": "Robin Dubois",
+        "profile_path": "/6dcaM1jtzIl0uDgmRP4Z3TDqo4W.jpg"
+      },
+      {
+        "name": "Mieke De Groote",
+        "id": 1274465,
+        "character": "Helena",
+        "profile_path": "/2zdQFWQr0eiShO2h2iYdU7DHti7.jpg"
+      },
+      {
+        "name": "Kris Cuppens",
+        "id": 71492,
+        "character": "Walt",
+        "profile_path": "/qCAlUv3f0aK8iRU0kve4tj1czy8.jpg"
+      },
+      {
+        "name": "Damla Cengiz",
+        "id": 5314394,
+        "character": "Vera",
+        "profile_path": "/8JC7A61fmNIKaNmtjKBR18J50Ns.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "popularidad": 1.8133,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/aErhraCnJufHDcrC7hbhRvL3a40.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/klAYLlSxIr1AuIDyh7C3daEuDOH.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/2CNM8Rra1mteVvkwPd2hfLURJuq.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/lxCDwXCy9v2rHS4tLzMVJ3kqIQM.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 2755,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/8Rf1sgFiTGqn5js1zrvkMc8yZCo.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1837
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1920,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oU5jPD8Hc8hkuXhWjfchp25MzLB.jpg",
+          "vote_average": 0.0,
+          "vote_count": 1,
+          "width": 1280
+        }
+      ]
+    },
+    "última_actualización": "2026-09-22 22:03:20"
+  },
+  {
     "id": 1101412,
     "tmdb_id": 1101412,
     "título": "Fall 2: Punto muerto",
@@ -11,15 +148,15 @@
     "backdrop_local": "imagenes_estrenos/Vertigo_2__Punto_muerto_backdrop_g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
     "fecha_estreno": "2026-09-25T00:00:00.000Z",
     "duración": "98 min",
-    "director": "Peter Spierig, Michael Spierig",
+    "director": "Michael Spierig, Peter Spierig",
     "directores": [
-      {
-        "name": "Peter Spierig",
-        "id": 56502
-      },
       {
         "name": "Michael Spierig",
         "id": 56501
+      },
+      {
+        "name": "Peter Spierig",
+        "id": 56502
       }
     ],
     "actores": [
@@ -172,7 +309,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:39"
+    "última_actualización": "2026-09-22 22:03:15"
   },
   {
     "id": 1263337,
@@ -221,11 +358,15 @@
       {
         "id": 53,
         "name": "Suspense"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
       }
     ],
     "popularidad": 49.2589,
-    "puntuación": 7.688,
-    "votos": 16,
+    "puntuación": 7.9,
+    "votos": 18,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -258,7 +399,7 @@
           "iso_639_1": null,
           "file_path": "/ynjkULhYw2427E1Yrrh6GGgIvfZ.jpg",
           "vote_average": 3.334,
-          "vote_count": 1,
+          "vote_count": 2,
           "width": 3840
         },
         {
@@ -325,7 +466,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:40"
+    "última_actualización": "2026-09-22 22:03:15"
   },
   {
     "id": 1465063,
@@ -335,7 +476,7 @@
     "sinopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
     "poster_path": "/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
     "poster_local": "imagenes_estrenos/La_isla_olvidada_vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
-    "backdrop_path": "/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg",
+    "backdrop_path": "/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
     "backdrop_local": "imagenes_estrenos/La_isla_olvidada_backdrop_obsM8IyBz3jn8hbru8V5btBRSBk.jpg",
     "fecha_estreno": "2026-09-25T00:00:00.000Z",
     "duración": "109 min",
@@ -418,8 +559,8 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
+          "vote_average": 2.066,
+          "vote_count": 5,
           "width": 3840
         },
         {
@@ -428,19 +569,9 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg",
-          "vote_average": 2.066,
-          "vote_count": 5,
+          "vote_average": 1.75,
+          "vote_count": 6,
           "width": 2160
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-          "vote_average": 2.066,
-          "vote_count": 5,
-          "width": 3840
         },
         {
           "aspect_ratio": 1.78,
@@ -454,13 +585,23 @@
         },
         {
           "aspect_ratio": 1.778,
-          "height": 720,
+          "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/qhWwvo77nXAdiWuL4eP7JXLWErs.jpg",
+          "file_path": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
           "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1280
+          "vote_count": 6,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1215,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/obsM8IyBz3jn8hbru8V5btBRSBk.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 2160
         }
       ],
       "posters": [
@@ -516,7 +657,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:40"
+    "última_actualización": "2026-09-22 22:03:15"
   },
   {
     "id": 1422041,
@@ -695,7 +836,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:42"
+    "última_actualización": "2026-09-22 22:03:17"
   },
   {
     "id": 1542396,
@@ -763,7 +904,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:45"
+    "última_actualización": "2026-09-22 22:03:19"
   },
   {
     "id": 1649011,
@@ -816,7 +957,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:47"
+    "última_actualización": "2026-09-22 22:03:21"
   },
   {
     "id": 1753646,
@@ -914,7 +1055,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:46"
+    "última_actualización": "2026-09-22 22:03:22"
   },
   {
     "id": 1388805,
@@ -1009,7 +1150,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:43"
+    "última_actualización": "2026-09-22 22:03:18"
   },
   {
     "id": 1594914,
@@ -1134,7 +1275,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:39"
+    "última_actualización": "2026-09-22 22:03:15"
   },
   {
     "id": 1248832,
@@ -1305,7 +1446,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:40"
+    "última_actualización": "2026-09-22 22:03:16"
   },
   {
     "id": 1283515,
@@ -1460,7 +1601,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:40"
+    "última_actualización": "2026-09-22 22:03:16"
   },
   {
     "id": 1755291,
@@ -1468,7 +1609,7 @@
     "título": "NAZA",
     "título_original": "NAZA",
     "sinopsis": "",
-    "poster_path": "/aXlTjDmbYVNjGWt256MWeYVKFN.jpg",
+    "poster_path": "/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
     "poster_local": "imagenes_estrenos/NAZA_aXlTjDmbYVNjGWt256MWeYVKFN.jpg",
     "backdrop_path": "/7EzH0dlEN9OZWWBXBWwT5PbMNUz.jpg",
     "backdrop_local": "imagenes_estrenos/NAZA_backdrop_sGZJGECzPhABKX37xtwWOznGgFT.jpg",
@@ -1560,7 +1701,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-22 10:03:42"
+    "última_actualización": "2026-09-22 22:03:17"
   },
   {
     "id": 1280015,
@@ -1684,7 +1825,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-22 10:03:42"
+    "última_actualización": "2026-09-22 22:03:17"
   },
   {
     "id": 677558,
@@ -1782,7 +1923,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-22 10:03:43"
+    "última_actualización": "2026-09-22 22:03:18"
   },
   {
     "id": 1056494,
@@ -1915,7 +2056,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:44"
+    "última_actualización": "2026-09-22 22:03:18"
   },
   {
     "id": 1235286,
@@ -2036,7 +2177,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:44"
+    "última_actualización": "2026-09-22 22:03:19"
   },
   {
     "id": 1655881,
@@ -2127,7 +2268,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:45"
+    "última_actualización": "2026-09-22 22:03:21"
   },
   {
     "id": 1634154,
@@ -2222,7 +2363,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:46"
+    "última_actualización": "2026-09-22 22:03:21"
   },
   {
     "id": 1249635,
@@ -2330,7 +2471,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-22 10:03:46"
+    "última_actualización": "2026-09-22 22:03:22"
   },
   {
     "id": 1772629,
@@ -2363,7 +2504,138 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-09-22 10:03:48"
+    "última_actualización": "2026-09-22 22:03:23"
+  },
+  {
+    "id": 1398507,
+    "tmdb_id": 1398507,
+    "título": "Salsola",
+    "título_original": "Salsola",
+    "sinopsis": "Un forastero misterioso entra en una taberna desconocida. Allí deberá aceptar su destino.",
+    "poster_path": "/8jsCb4FUkTsG1JdvbYD1OGHLhmf.jpg",
+    "poster_local": "imagenes_estrenos/Salsola_8jsCb4FUkTsG1JdvbYD1OGHLhmf.jpg",
+    "backdrop_path": "/5S1hKLBHNvrJNXfaVJGlm9zdzUc.jpg",
+    "backdrop_local": "imagenes_estrenos/Salsola_backdrop_5S1hKLBHNvrJNXfaVJGlm9zdzUc.jpg",
+    "fecha_estreno": "2026-10-08",
+    "duración": "9 min",
+    "director": "Bronson Entertainment",
+    "directores": [
+      {
+        "name": "Bronson Entertainment",
+        "id": 4673936
+      }
+    ],
+    "actores": [
+      {
+        "name": "Tomás Mantilla",
+        "id": 3954125,
+        "character": "Denver Monkey",
+        "profile_path": "/knK9tQZ05fFsCbw3QKVxoNTzKi8.jpg"
+      },
+      {
+        "name": "Alessandro Pescetto",
+        "id": 6026387,
+        "character": "El Puma McClain",
+        "profile_path": "/uXrGZujY5q01p0JrEpZ447lvbqS.jpg"
+      },
+      {
+        "name": "Juan Marti Ávila",
+        "id": 6026378,
+        "character": "Doc McKenzie",
+        "profile_path": "/a2ImgiH1t2JLqFY6FbJRM0WCWsX.jpg"
+      },
+      {
+        "name": "Gorka Bilbao Ramos",
+        "id": 6026379,
+        "character": "William Shot Scottfield",
+        "profile_path": "/tZ9vzGnCxj8A0fhilZA094YjPtT.jpg"
+      },
+      {
+        "name": "Óscar Jiménez",
+        "id": 6303567,
+        "character": "Billy Thompson",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 37,
+        "name": "Western"
+      }
+    ],
+    "popularidad": 1.7562,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.777,
+          "height": 782,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5S1hKLBHNvrJNXfaVJGlm9zdzUc.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1390
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/8jsCb4FUkTsG1JdvbYD1OGHLhmf.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/lBYrc1GNNug8wsQ3WEbijTlC17J.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1000
+        },
+        {
+          "aspect_ratio": 0.675,
+          "height": 1174,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/xJDeRbaj20ILizLMTDggDsyao13.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 792
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/d5bTZeHJG1nkwsjXPHw9A9e1r62.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1000
+        },
+        {
+          "aspect_ratio": 0.666,
+          "height": 1600,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/pJj2RvMdJltVWLEHopyIJXhAWLA.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1066
+        }
+      ]
+    },
+    "última_actualización": "2026-09-22 22:03:21"
   },
   {
     "id": 1400837,
@@ -2400,7 +2672,7 @@
       {
         "name": "Jay Duplass",
         "id": 45405,
-        "character": "Russ",
+        "character": "Daddo / Russ",
         "profile_path": "/eUY0JDlqzf5pE9pmdvv4IPU3NYn.jpg"
       },
       {
@@ -2412,7 +2684,7 @@
       {
         "name": "Arian Moayed",
         "id": 457386,
-        "character": "",
+        "character": "Uncle Frank",
         "profile_path": "/hYBqwt0HelUqgKSd1VDUAyvfDME.jpg"
       }
     ],
@@ -2524,7 +2796,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:40"
+    "última_actualización": "2026-09-22 22:03:16"
   },
   {
     "id": 1140521,
@@ -2690,20 +2962,10 @@
           "vote_average": 0.166,
           "vote_count": 1,
           "width": 500
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6gN3gcrsUfzrRAjxm0fYjDvjdBm.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:41"
+    "última_actualización": "2026-09-22 22:03:16"
   },
   {
     "id": 1469342,
@@ -2872,7 +3134,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:41"
+    "última_actualización": "2026-09-22 22:03:16"
   },
   {
     "id": 1542261,
@@ -3015,7 +3277,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:41"
+    "última_actualización": "2026-09-22 22:03:17"
   },
   {
     "id": 1107216,
@@ -3186,7 +3448,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:42"
+    "última_actualización": "2026-09-22 22:03:17"
   },
   {
     "id": 1258181,
@@ -3250,8 +3512,8 @@
       }
     ],
     "popularidad": 3.4133,
-    "puntuación": 6.46,
-    "votos": 25,
+    "puntuación": 6.519,
+    "votos": 26,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3321,7 +3583,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:43"
+    "última_actualización": "2026-09-22 22:03:18"
   },
   {
     "id": 1583381,
@@ -3405,7 +3667,74 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:44"
+    "última_actualización": "2026-09-22 22:03:19"
+  },
+  {
+    "id": 1752487,
+    "tmdb_id": 1752487,
+    "título": "Petros Eni",
+    "título_original": "Petros Eni",
+    "sinopsis": "Sigue el descubrimiento de la tumba de San Pedro a través de imágenes raras, mientras Constantino arrasaba la colina del Vaticano para construir la primera basílica alrededor de este lugar sagrado.",
+    "poster_path": "/wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
+    "poster_local": "imagenes_estrenos/Petros_Eni_wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
+    "backdrop_path": "/5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
+    "backdrop_local": "imagenes_estrenos/Petros_Eni_backdrop_5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Paula Ortiz",
+    "directores": [
+      {
+        "name": "Paula Ortiz",
+        "id": 932115
+      }
+    ],
+    "actores": [
+      {
+        "name": "Chris Pratt",
+        "id": 73457,
+        "character": "Self - Guide",
+        "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 2.353,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1600
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.711,
+          "height": 2362,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1680
+        }
+      ]
+    },
+    "última_actualización": "2026-09-22 22:03:19"
   },
   {
     "id": 1518395,
@@ -3489,74 +3818,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:44"
-  },
-  {
-    "id": 1752487,
-    "tmdb_id": 1752487,
-    "título": "Petros Eni",
-    "título_original": "Petros Eni",
-    "sinopsis": "Sigue el descubrimiento de la tumba de San Pedro a través de imágenes raras, mientras Constantino arrasaba la colina del Vaticano para construir la primera basílica alrededor de este lugar sagrado.",
-    "poster_path": "/wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
-    "poster_local": "imagenes_estrenos/Petros_Eni_wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
-    "backdrop_path": "/5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
-    "backdrop_local": "imagenes_estrenos/Petros_Eni_backdrop_5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
-    "fecha_estreno": "2026-10-09T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Paula Ortiz",
-    "directores": [
-      {
-        "name": "Paula Ortiz",
-        "id": 932115
-      }
-    ],
-    "actores": [
-      {
-        "name": "Chris Pratt",
-        "id": 73457,
-        "character": "Self - Guide",
-        "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 2.353,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 900,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1600
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.711,
-          "height": 2362,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1680
-        }
-      ]
-    },
-    "última_actualización": "2026-09-22 10:03:45"
+    "última_actualización": "2026-09-22 22:03:19"
   },
   {
     "id": 1623608,
@@ -3661,74 +3923,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:45"
-  },
-  {
-    "id": 1573952,
-    "tmdb_id": 1573952,
-    "título": "Escape Room 2",
-    "título_original": "Escape Room 2",
-    "sinopsis": "Cinco años después, Edu, Marina, Viky y Rai vuelven a coincidir misteriosamente en un nuevo local de moda situado en lo alto de la montaña de Montjuïc, donde antiguamente se encontraba el parque de atracciones. No tardarán en darse cuenta de que aquel establecimiento no es lo que parece. Pronto irán a parar a una antigua atracción, un túnel del terror que había quedado sepultado, donde aparece un contador acompañado de un mensaje amenazador que les resulta inquietantemente familiar: tienen 60 minutos para salir o morirán.",
-    "poster_path": "/aXG5QfiCEqBlNsb8ZaMygKxPPX2.jpg",
-    "poster_local": "imagenes_estrenos/Escape_Room_2_aXG5QfiCEqBlNsb8ZaMygKxPPX2.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-10-09T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Joel Joan, Héctor Claramunt",
-    "directores": [
-      {
-        "name": "Joel Joan",
-        "id": 19826
-      },
-      {
-        "name": "Héctor Claramunt",
-        "id": 1105225
-      }
-    ],
-    "actores": [
-      {
-        "name": "Joel Joan",
-        "id": 19826,
-        "character": "",
-        "profile_path": "/z9XdC14NWhZ40za3zt8gMMRW7Lk.jpg"
-      },
-      {
-        "name": "Mònica Pérez",
-        "id": 1150114,
-        "character": "",
-        "profile_path": "/6aLm9GaZwOyyVbUJMTykC5TmOM2.jpg"
-      },
-      {
-        "name": "Paula Vives",
-        "id": 1090789,
-        "character": "",
-        "profile_path": "/aY2FH9Re5IhLKyB6u6HqD6aRNn5.jpg"
-      },
-      {
-        "name": "Ivan Massagué",
-        "id": 31422,
-        "character": "",
-        "profile_path": "/dmnJo2sGlfFjtKb8FDPlNjRhfyc.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 0.9685,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2026-09-22 10:03:47"
+    "última_actualización": "2026-09-22 22:03:20"
   },
   {
     "id": 1454616,
@@ -3837,7 +4032,85 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:47"
+    "última_actualización": "2026-09-22 22:03:22"
+  },
+  {
+    "id": 1573952,
+    "tmdb_id": 1573952,
+    "título": "Escape Room 2",
+    "título_original": "Escape Room 2",
+    "sinopsis": "Cinco años después, Edu, Marina, Viky y Rai vuelven a coincidir misteriosamente en un nuevo local de moda situado en lo alto de la montaña de Montjuïc, donde antiguamente se encontraba el parque de atracciones. No tardarán en darse cuenta de que aquel establecimiento no es lo que parece. Pronto irán a parar a una antigua atracción, un túnel del terror que había quedado sepultado, donde aparece un contador acompañado de un mensaje amenazador que les resulta inquietantemente familiar: tienen 60 minutos para salir o morirán.",
+    "poster_path": "/zLWkDcQgSLThHW2zZG5l2sSMvAn.jpg",
+    "poster_local": "imagenes_estrenos/Escape_Room_2_aXG5QfiCEqBlNsb8ZaMygKxPPX2.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Joel Joan, Héctor Claramunt",
+    "directores": [
+      {
+        "name": "Joel Joan",
+        "id": 19826
+      },
+      {
+        "name": "Héctor Claramunt",
+        "id": 1105225
+      }
+    ],
+    "actores": [
+      {
+        "name": "Joel Joan",
+        "id": 19826,
+        "character": "",
+        "profile_path": "/z9XdC14NWhZ40za3zt8gMMRW7Lk.jpg"
+      },
+      {
+        "name": "Mònica Pérez",
+        "id": 1150114,
+        "character": "",
+        "profile_path": "/6aLm9GaZwOyyVbUJMTykC5TmOM2.jpg"
+      },
+      {
+        "name": "Paula Vives",
+        "id": 1090789,
+        "character": "",
+        "profile_path": "/aY2FH9Re5IhLKyB6u6HqD6aRNn5.jpg"
+      },
+      {
+        "name": "Ivan Massagué",
+        "id": 31422,
+        "character": "",
+        "profile_path": "/dmnJo2sGlfFjtKb8FDPlNjRhfyc.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 0.9685,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.708,
+          "height": 1919,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/zLWkDcQgSLThHW2zZG5l2sSMvAn.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1358
+        }
+      ]
+    },
+    "última_actualización": "2026-09-22 22:03:22"
   },
   {
     "id": 1393726,
@@ -3994,7 +4267,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-22 10:03:46"
+    "última_actualización": "2026-09-22 22:03:22"
   },
   {
     "id": 1381078,
@@ -4118,6 +4391,6 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-22 10:03:43"
+    "última_actualización": "2026-09-22 22:03:18"
   }
 ]
