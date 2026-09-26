@@ -19,6 +19,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import os
+import re
 from datetime import datetime
 import logging
 
@@ -46,6 +47,63 @@ logger.setLevel(logging.INFO)
 logger.addHandler(file_handler)
 logger.addHandler(console_handler)
 
+# Partículas admitidas dentro del nombre del director
+PARTICULAS_DIRECTOR = {'de', 'del', 'la', 'los', 'y', '&', 'el', 'las',
+                       'con', 'por', 'para', 'sin', 'sobre', 'entre', 'un', 'una'}
+
+def split_titulo_director(titulo):
+    """Divide el título del post en (película, director).
+
+    Se prueba cada ' de ' de izquierda a derecha y se acepta la primera cuya
+    parte derecha parece un nombre propio: 1-8 palabras, sin dígitos, sin '/',
+    cada palabra empezada por mayúscula o siendo partícula. Así los apellidos
+    compuestos ('Dani de la Orden', 'Fernando León de Aranoa') se conservan
+    enteros en lugar de cortarse por la última partícula.
+
+    Los posts con dos películas (título con ' / ') no tienen una sola pareja
+    título/director fiable: se devuelve el título completo y 'Desconocido',
+    para que el respaldo del contenido (extraer_director_contenido) resuelva.
+    """
+    titulo = titulo.strip()
+    if ' / ' in titulo:
+        return titulo, "Desconocido"
+    inicio = 0
+    while True:
+        indice = titulo.find(' de ', inicio)
+        if indice <= 0:
+            break
+        pelicula = titulo[:indice].strip()
+        director = titulo[indice + 4:].strip()
+        palabras = director.split()
+        if (1 <= len(palabras) <= 8
+                and not any(c.isdigit() for c in director)
+                and '/' not in director
+                and all(p and (p[0].isupper() or p.lower() in PARTICULAS_DIRECTOR)
+                        for p in palabras)):
+            return pelicula, director
+        inicio = indice + 1
+    return titulo, "Desconocido"
+
+def rutas_post(pelicula, titulo, fecha):
+    """Ruta nueva (película ya separada) y ruta heredada (título completo)."""
+    dia = fecha[:10]
+    return (f"posts/{pelicula.replace(' ', '_')}_{dia}.json",
+            f"posts/{titulo.replace(' ', '_')}_{dia}.json")
+
+def extraer_director_contenido(contenido):
+    """Respaldo: busca 'Dirección:'/'Direccion:' en el contenido del post.
+
+    Devuelve el texto hasta el siguiente salto de línea o ';', como mucho 60
+    caracteres, recortado. None si no aparece.
+    """
+    if not contenido:
+        return None
+    coincidencia = re.search(r'Direcci(?:ó|o)n\s*:', contenido)
+    if not coincidencia:
+        return None
+    director = re.split(r'[;\n]', contenido[coincidencia.end():], maxsplit=1)[0].strip()[:60].strip()
+    return director or None
+
 def obtener_posts():
     url = "https://ghostintheblog.com/"
     logging.info(f"Intentando obtener posts desde: {url}")
@@ -67,17 +125,19 @@ def extraer_info_post(post):
         titulo = post.find('h2').text.strip()
         fecha = post.find('time')['datetime']
         
-        # Crear el nombre del archivo que tendría
-        partes = titulo.split(' de ')
-        if len(partes) == 2:
-            pelicula = partes[0].strip()
-        else:
-            pelicula = titulo
+        # Película y director se derivan con la misma división que la que
+        # genera el nombre del archivo, para que no puedan divergir
+        pelicula, director = split_titulo_director(titulo)
+        if director == "Desconocido":
+            logging.warning(f"No se pudo extraer director del título: {titulo}")
             
-        nombre_archivo = f"posts/{pelicula.replace(' ', '_')}_{fecha[:10]}.json"
-        
+        # Crear el nombre del archivo que tendría (y la ruta heredada, con el
+        # título completo, para no re-scrapear posts históricos guardados con
+        # la división anterior título/director)
+        nombre_archivo, nombre_heredado = rutas_post(pelicula, titulo, fecha)
+
         # Verificar si ya existe
-        if os.path.exists(nombre_archivo):
+        if os.path.exists(nombre_archivo) or os.path.exists(nombre_heredado):
             logging.info(f"Post ya existente, saltando: {titulo}")
             return None
             
@@ -85,16 +145,6 @@ def extraer_info_post(post):
         url_original = post.find('h2').find('a')['href']
         logging.info(f"Título del post: {titulo}")
         logging.info(f"Fecha del post: {fecha}")
-        
-        # Extraer película y director del título
-        partes = titulo.split(' de ')
-        if len(partes) == 2:
-            pelicula = partes[0].strip()
-            director = partes[1].strip()
-        else:
-            pelicula = titulo
-            director = "Desconocido"
-            logging.warning(f"No se pudo extraer director del título: {titulo}")
         
         # Obtener contenido del post completo
         logging.info(f"Obteniendo contenido completo de: {url_original}")
@@ -163,6 +213,13 @@ def extraer_info_post(post):
         else:
             logging.error("No se encontró el div de contenido")
             contenido = ""
+        
+        # Respaldo: si el título no llevaba el director, buscarlo en la ficha técnica
+        if director == "Desconocido":
+            director_respaldo = extraer_director_contenido(contenido)
+            if director_respaldo:
+                director = director_respaldo
+                logging.info(f"Director obtenido del contenido: {director}")
         
         post_data = {
             "title": titulo,
