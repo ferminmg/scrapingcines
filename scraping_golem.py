@@ -270,6 +270,28 @@ class MovieScraper:
                 
         return movies
 
+# Campos de metadatos que aporta TMDb (gana la primera aparición que traiga valor)
+CAMPOS_TMDB = ('director', 'duración', 'actores', 'sinopsis', 'año')
+
+def merge_movies(movies: List[Movie]) -> List[Movie]:
+    """Fusiona duplicados por (cine, título): junta los horarios de todos los
+    días y conserva los metadatos de la primera aparición (el cartel y los
+    campos de TMDb solo se rellenan si la primera vez venían vacíos)."""
+    fusionadas: Dict[tuple, Movie] = {}
+    for movie in movies:
+        clave = (movie.cine, movie.título)
+        existente = fusionadas.get(clave)
+        if existente is None:
+            fusionadas[clave] = movie
+            continue
+        existente.horarios.extend(movie.horarios)
+        if not existente.cartel and movie.cartel:
+            existente.cartel = movie.cartel
+        for campo in CAMPOS_TMDB:
+            if not getattr(existente, campo) and getattr(movie, campo):
+                setattr(existente, campo, getattr(movie, campo))
+    return list(fusionadas.values())
+
 def dataclass_to_dict(obj):
     """Convert a dataclass instance to a dictionary"""
     if hasattr(obj, '__dataclass_fields__'):
@@ -310,6 +332,9 @@ def main():
             DAYS_TO_SCRAPE
         )
         all_movies.extend(movies)
+
+    # Una sola entrada por (cine, película) con todas las sesiones
+    all_movies = merge_movies(all_movies)
 
     # Convert dataclass objects to dictionaries before JSON serialization
     movies_data = [dataclass_to_dict(movie) for movie in all_movies]
