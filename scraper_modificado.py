@@ -10,11 +10,12 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 import urllib.request
 import re
 import time
 import logging
+import unicodedata
 from difflib import SequenceMatcher
 import argparse
 
@@ -132,6 +133,28 @@ class TMDbAPI:
             "poster_path": details.get("poster_path")
         }
 
+# Formulaciones admitidas para sesiones en versión original subtitulada.
+# El texto se normaliza a ASCII y minúsculas antes de comparar, así que aquí
+# van sin acentos (tanto "V.O.S.E." como la redacción actual del sitio).
+CADENAS_VOSE = (
+    'v.o.s.e', 'vose', 'vo subs',
+    'subtitulado al espanol', 'subtitulos al espanol',
+    'subtitulado al castellano',
+    'subtitulos en espanol', 'subtitulos en castellano',
+    'version original',
+)
+
+def es_vose(idioma: str) -> bool:
+    """Devuelve True si el valor de Idioma indica versión original subtitulada."""
+    if not idioma:
+        return False
+    texto = unicodedata.normalize('NFKD', str(idioma)).encode('ascii', 'ignore').decode().lower()
+    return any(cadena in texto for cadena in CADENAS_VOSE)
+
+def limpiar_titulo_h1(titulo: str) -> str:
+    """Quita el '(título original, país, año)' final del <h1> de Filmoteca."""
+    return re.sub(r'\s*\([^)]*\)\s*$', '', titulo).strip()
+
 def scrapear_filmoteca():
     """Realiza el scraping de la web de Filmoteca de Navarra"""
     logger.info("Iniciando scraping de filmotecanavarra.com...")
@@ -182,9 +205,10 @@ def scrapear_filmoteca():
                     response.raise_for_status()
                     soup = BeautifulSoup(response.text, 'html.parser')
 
-                    title = soup.find('h1').text.strip()
+                    title = limpiar_titulo_h1(soup.find('h1').text.strip())
                     divtxt22 = soup.find('div', class_='txt txt22')
                     idioma = ""
+                    texto_completo = ""
 
                     if divtxt22:
                         texto_completo = divtxt22.get_text()
@@ -197,12 +221,13 @@ def scrapear_filmoteca():
                             if idioma:
                                 idioma = idioma.strip()
 
-                        if idioma and ('V.O.S.E.' in idioma or 
-                                    'subtítulos en español' in idioma.lower() or 
-                                    'subtítulos en castellano' in idioma.lower() or
-                                    'subtitulos en castellano' in idioma.lower() or
-                                    'subtitulos en español' in idioma.lower()):
-                            enlace_bacantix = soup.find('a', href=lambda x: x and 'bacantix.com' in x.lower())
+                        # Debe ser una película: requiere Idioma y Duración en el mismo
+                        # div (los actos de venta de libros no traen ninguno de los dos)
+                        if (idioma and
+                                    ('Duración' in texto_completo or 'Duracion' in texto_completo) and
+                                    es_vose(idioma)):
+                            enlace_entradas = soup.find('a', href=lambda x: x and
+                                                        any(h in x.lower() for h in ('bacantix.com', 'nicdo.es')))
 
                             logger.info(f"Procesando película: {title}")
                             logger.info(f"Idioma: {idioma}")
@@ -230,7 +255,10 @@ def scrapear_filmoteca():
                                     mes = meses[partes_fecha[3].lower()]
                                     hora_match = re.search(r'\d{2}:\d{2}', texto_fecha)
                                     hora = hora_match.group(0) if hora_match else "00:00"
-                                    año = datetime.now().year
+                                    # Si la fecha ya quedó muy atrás en el año, es del año siguiente
+                                    hoy = datetime.now()
+                                    fecha_clase = datetime(hoy.year, int(mes), int(dia))
+                                    año = hoy.year + 1 if fecha_clase < hoy - timedelta(days=15) else hoy.year
                                     fecha_formateada = f"{año}-{mes}-{dia.zfill(2)}"
 
                                     logger.info(f"Fecha formateada: {fecha_formateada}, Hora: {hora}")
@@ -238,7 +266,7 @@ def scrapear_filmoteca():
                                     horario = {
                                         "fecha": fecha_formateada,
                                         "hora": hora,
-                                        "enlace_entradas": enlace_bacantix['href'] if enlace_bacantix else ""
+                                        "enlace_entradas": enlace_entradas['href'] if enlace_entradas else ""
                                     }
                                     pelicula["horarios"].append(horario)
 
@@ -293,10 +321,17 @@ def scrapear_filmoteca():
             except Exception as e:
                 logger.error(f"Error procesando {link['href']}: {str(e)}")
 
-    # Guardar sugerencias de equivalencias
+    # Guardar sugerencias de equivalencias sin borrar las ya existentes:
+    # se parte de las cargadas y solo se añaden/sobrescriben las nuevas,
+    # conservando siempre las que ya tienen un tmdb_id resuelto
     if sugerencias_equivalencias:
+        for clave, valor in sugerencias_equivalencias.items():
+            existente = equivalencias_tmdb.get(clave)
+            if existente and existente.get('tmdb_id'):
+                continue
+            equivalencias_tmdb[clave] = valor
         with open('equivalencias_peliculas.json', 'w', encoding='utf-8') as f:
-            json.dump(sugerencias_equivalencias, f, ensure_ascii=False, indent=4)
+            json.dump(equivalencias_tmdb, f, ensure_ascii=False, indent=4)
         logger.info(f"Se han guardado {len(sugerencias_equivalencias)} sugerencias en equivalencias_peliculas.json")
 
     logger.info("Fin de scraping")
