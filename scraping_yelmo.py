@@ -159,6 +159,30 @@ MESES = {
     'septiembre': '09', 'octubre': '10', 'noviembre': '11', 'diciembre': '12'
 }
 
+def fecha_desde_filter_date(filter_date):
+    """Convierte FilterDate ('/Date(1790398800000)/') en 'YYYY-MM-DD' (UTC).
+
+    Devuelve None si falta o está mal formado, para usar la fecha de ShowtimeDate.
+    """
+    if not filter_date:
+        return None
+    texto = str(filter_date)
+    inicio, fin = texto.find('('), texto.find(')')
+    if inicio == -1 or fin == -1 or fin <= inicio:
+        return None
+    # Se eliminan los caracteres no numéricos; el valor válido es el número que
+    # empieza el trozo de dentro (p. ej. '/Date(1790398800000-0100)/' lleva el
+    # desfase horario detrás y hay que ignorarlo)
+    limpio = re.sub(r'[^0-9-]', '', texto[inicio + 1:fin])
+    coincidencia = re.match(r'-?\d+', limpio)
+    if not coincidencia:
+        return None
+    try:
+        return datetime.utcfromtimestamp(int(coincidencia.group(0)) / 1000).strftime('%Y-%m-%d')
+    except (OverflowError, OSError, ValueError) as e:
+        print(f"FilterDate inválido ({filter_date}): {e}")
+        return None
+
 # Inicializar TMDbAPI
 load_dotenv()
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
@@ -171,6 +195,11 @@ for cine in datos['d']['Cinemas']:
         mes_numero = MESES[mes.lower()]
         anoActual = datetime.now().year
         fecha_iso = f"{anoActual}-{mes_numero}-{dia.zfill(2)}"
+
+        # El año real viene en FilterDate (epoch en milisegundos, convertido en UTC)
+        fecha_iso_filtrada = fecha_desde_filter_date(fecha.get('FilterDate'))
+        if fecha_iso_filtrada:
+            fecha_iso = fecha_iso_filtrada
 
         for pelicula in fecha['Movies']:
             for formato in pelicula['Formats']:
