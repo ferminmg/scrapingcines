@@ -95,3 +95,22 @@ Se ejecuta inline con este documento como registro de la ruta y la desviación. 
 | TDD | — | OFF (sin framework de tests en el repo) |
 
 **Pendiente de autorización:** `git push` (operación remota). **Pendiente de Engram:** espejo `odd/scraping-vose-detection/tasks` — el proyecto `scrapingcines` no está dado de alta en la tienda de Engram, así que el espejo queda **pendiente** y el documento local es la fuente de verdad.
+
+## Resultado del asesor de riesgos (RDD)
+
+- Intento: `gentle-ai review assess --cwd <repo> --agent opencode --base-ref 2c33c216 --committed-only --json`
+- Resultado: **`unavailable`** — exit 1, `the active runtime is not eligible for immutable receipt review ... supported immutable review runtimes: claude-code, codex`.
+- Interpretación: es el contrato documentado del runtime (la revisión V2 de OpenCode está en espera de conformidad), **no** un defecto → sin handoff de proveedor.
+- Consecuencia: el tier **no se rebaja** por el fallo, pero **tampoco existe recibó ni aprobación**. El trabajo queda verificado solo con las comprobaciones funcionales de la tabla anterior. Si quieres recibo, hay que ejecutar la rama desde claude-code o codex.
+
+## Commits (unidades de trabajo, rama `fix/scraping-vose-detection`)
+
+| Commit | Unidad |
+|---|---|
+| `e0a6b9e2` | fix(filmoteca): redacción VOSE actual, título limpio, enlace nicdo, equivalencias fusionadas |
+| `9d5bbb76` | fix(golem): fusión por (cine, película) |
+| `97f65a80` | fix(yelmo): año desde `FilterDate` |
+| `07032188` | fix(blog): director robusto + rutas heredadas |
+| `2f61e343` | ci: run en rojo si una salida queda vacía o el scraper crashea |
+| `d3805a46` | docs(odd): documento de seguimiento |
+
