@@ -38,8 +38,10 @@ jobs:
     runs-on: ubuntu-latest
     needs: validate
     env:
-      # Fuera del repo: el paso "git add ." no debe commitear este registro de fallos
-      FALLOS_SCRAPERS: ${{ runner.temp }}/fallos_scraper.txt
+      # Fuera del repo: el paso "git add ." no debe commitear este registro de fallos.
+      # Nota: el contexto {{ runner.temp }} NO existe a nivel de job (solo dentro
+      # de steps), por eso se usa la ruta literal de /tmp en este runner ubuntu.
+      FALLOS_SCRAPERS: /tmp/fallos_scraper.txt
 
     steps:
       - name: 📥 Clonar repositorio
