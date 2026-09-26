@@ -18,8 +18,8 @@ Detección
   - La primera ejecución, sin registro previo, solo lo inicializa: no avisa.
   - Si un scraper falla y su cine desaparece un rato, al volver no se repiten
     los avisos: la pareja sigue en el registro durante DIAS_OLVIDO días.
-  - Si salen más de MAX_NOVEDADES películas nuevas de golpe se asume una
-    anomalía (p. ej. un scraper reparado) y no se envía nada.
+  - Si salen más de MAX_NOVEDADES películas nuevas de golpe se envía un único
+    aviso de resumen en lugar de uno por película.
 
 Envío
   - Temas FCM: "cine_<nombre normalizado>" (ver tema_de_cine) y "cine_todos".
@@ -164,6 +164,25 @@ def construir_aviso(parejas_nuevas, hoy):
     }
 
 
+def construir_resumen(avisos):
+    """Un único aviso con el recuento y algunos títulos."""
+    titulos = [a['titulo'] for a in avisos]
+    visibles = titulos[:3]
+    resto = len(titulos) - len(visibles)
+    cuerpo = ', '.join(visibles) + (f' y {resto} más' if resto else '')
+    return {
+        'tipo': 'resumen',
+        'titulo': None,
+        'pelicula': 'resumen',
+        'temas': sorted({t for a in avisos for t in a['temas']}),
+        'cines': sorted({c for a in avisos for c in a['cines']}),
+        'notificacion': {
+            'title': f'{len(titulos)} películas nuevas en VOSE',
+            'body': cuerpo,
+        },
+    }
+
+
 def detectar(args):
     hoy = hoy_pamplona()
     actuales = parejas_actuales(args.carpeta, hoy)
@@ -195,10 +214,9 @@ def detectar(args):
         pendientes = [construir_aviso(p, hoy) for p in por_pelicula.values()]
 
         if len(pendientes) > MAX_NOVEDADES:
-            print(f'::warning::{len(pendientes)} películas nuevas de golpe '
-                  f'(máximo {MAX_NOVEDADES}): se asume una anomalía y no se '
-                  'envían avisos.')
-            pendientes = []
+            print(f'ℹ️ {len(pendientes)} películas nuevas (más de '
+                  f'{MAX_NOVEDADES}): se envía un único aviso de resumen.')
+            pendientes = [construir_resumen(pendientes)]
 
     # Actualizar registro y olvidar lo que lleva mucho sin verse.
     for clave in actuales:
@@ -248,24 +266,28 @@ def condiciones(temas):
 
 
 def mensajes(aviso):
+    datos = {'tipo': aviso.get('tipo', 'nueva_pelicula')}
+    if aviso.get('titulo'):
+        datos['titulo'] = aviso['titulo']
+    # Mismo identificador = la notificación sustituye a la anterior en vez de
+    # duplicarse (si alguien la recibe por dos condiciones distintas).
+    agrupacion = aviso['pelicula'][:60]
     for condicion in condiciones(aviso['temas']):
         yield {
             'message': {
                 'condition': condicion,
                 'notification': aviso['notificacion'],
-                'data': {
-                    'tipo': 'nueva_pelicula',
-                    'titulo': aviso['titulo'],
-                },
+                'data': datos,
                 'android': {
                     'priority': 'high',
                     'notification': {
                         'channel_id': 'novedades',
-                        'tag': aviso['pelicula'][:60],
+                        'tag': agrupacion,
                         'icon': 'ic_stat_vose',
                     },
                 },
                 'apns': {
+                    'headers': {'apns-collapse-id': agrupacion},
                     'payload': {
                         'aps': {'sound': 'default', 'thread-id': 'novedades'},
                     },
@@ -313,7 +335,7 @@ def enviar(args):
             else:
                 fallos += 1
                 print(f"::warning::FCM {r.status_code} al enviar "
-                      f"«{aviso['titulo']}»: {r.text[:300]}")
+                      f"«{aviso['notificacion']['title']}»: {r.text[:300]}")
     return 1 if fallos else 0
 
 
