@@ -37,7 +37,10 @@ jobs:
   scraping:
     runs-on: ubuntu-latest
     needs: validate
-    
+    env:
+      # Fuera del repo: el paso "git add ." no debe commitear este registro de fallos
+      FALLOS_SCRAPERS: ${{ runner.temp }}/fallos_scraper.txt
+
     steps:
       - name: 📥 Clonar repositorio
         uses: actions/checkout@v4
@@ -86,14 +89,14 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
           echo "🎬 Ejecutando scraping de Golem..."
-          python scraping_golem.py || echo "⚠️ Error en Golem, continuando..."
+          python scraping_golem.py || { echo "⚠️ Error en Golem, continuando..."; echo "Scraping Golem Cines: falló la ejecución" >> "$FALLOS_SCRAPERS"; }
 
       - name: 🎭 Scraping Yelmo Cines
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
           echo "🎬 Ejecutando scraping de Yelmo..."
-          python scraping_yelmo.py || echo "⚠️ Error en Yelmo, continuando..."
+          python scraping_yelmo.py || { echo "⚠️ Error en Yelmo, continuando..."; echo "Scraping Yelmo Cines: falló la ejecución" >> "$FALLOS_SCRAPERS"; }
 
       - name: 🏛️ Scraping Filmoteca + Integración
         env:
@@ -104,20 +107,21 @@ jobs:
           mkdir -p backups imagenes_filmoteca
           
           # Ejecutar scraper con archivo temporal
-          python scraper_modificado.py --archivo_salida=peliculas_filmoteca_scraping.json || echo "⚠️ Error en scraper, continuando..."
+          python scraper_modificado.py --archivo_salida=peliculas_filmoteca_scraping.json || { echo "⚠️ Error en scraper, continuando..."; echo "Scraping Filmoteca (scraper_modificado): falló la ejecución" >> "$FALLOS_SCRAPERS"; }
           
           # Ejecutar integrador si existe el archivo temporal
           if [ -f "peliculas_filmoteca_scraping.json" ]; then
-            python integrador.py || echo "⚠️ Error en integrador, continuando..."
+            python integrador.py || { echo "⚠️ Error en integrador, continuando..."; echo "Integrador Filmoteca: falló la ejecución" >> "$FALLOS_SCRAPERS"; }
           else
             echo "⚠️ No se generó archivo temporal de Filmoteca"
+            echo "Integrador Filmoteca: no se generó peliculas_filmoteca_scraping.json" >> "$FALLOS_SCRAPERS"
           fi
 
       - name: 👻 Scraping Ghost in the Blog
         run: |
           echo "📝 Ejecutando scraping de Ghost in the Blog..."
           mkdir -p posts logs
-          python scrape_ghostintheblog.py || echo "⚠️ Error en Ghost in the Blog, continuando..."
+          python scrape_ghostintheblog.py || { echo "⚠️ Error en Ghost in the Blog, continuando..."; echo "Scraping Ghost in the Blog: falló la ejecución" >> "$FALLOS_SCRAPERS"; }
 
       - name: 🎬 Próximos Estrenos TMDb
         if: needs.validate.outputs.should_run_upcoming == 'true'
@@ -126,7 +130,7 @@ jobs:
         run: |
           echo "🎬 Ejecutando script de próximos estrenos..."
           mkdir -p imagenes_estrenos
-          python proximos_estrenos.py --max-pages=10 --output=proximos_estrenos.json || echo "⚠️ Error en próximos estrenos, continuando..."
+          python proximos_estrenos.py --max-pages=10 --output=proximos_estrenos.json || { echo "⚠️ Error en próximos estrenos, continuando..."; echo "Próximos Estrenos TMDb: falló la ejecución" >> "$FALLOS_SCRAPERS"; }
 
       - name: 🧹 Limpiar archivos temporales
         run: |
@@ -263,3 +267,41 @@ jobs:
           publish_dir: public
           keep_files: false
           force_orphan: true
+
+      # Los datos ya están commiteados y publicados: aquí solo se decide si la
+      # ejecución queda en rojo por fallos de los scrapers.
+      - name: ✅ Verificar salidas
+        if: always()
+        run: |
+          fallos_previos=0
+          if [ -f "$FALLOS_SCRAPERS" ] && [ -s "$FALLOS_SCRAPERS" ]; then
+            fallos_previos=1
+            echo "🔴 Scrapers que fallaron durante la ejecución:"
+            while IFS= read -r linea; do
+              [ -n "$linea" ] || continue
+              echo "::error::$linea"
+            done < "$FALLOS_SCRAPERS"
+            if [ -n "$GITHUB_STEP_SUMMARY" ]; then
+              {
+                echo ""
+                echo "### Scrapers fallidos"
+                echo '```'
+                cat "$FALLOS_SCRAPERS"
+                echo '```'
+              } >> "$GITHUB_STEP_SUMMARY"
+            fi
+          fi
+
+          if [ -f ".venv/Scripts/python.exe" ]; then
+            PY=".venv/Scripts/python.exe"
+          elif [ -f ".venv/bin/python" ]; then
+            PY=".venv/bin/python"
+          else
+            PY="python"
+          fi
+
+          verificador=0
+          "$PY" verificar_salidas.py || verificador=$?
+          if [ "$verificador" -ne 0 ] || [ "$fallos_previos" -ne 0 ]; then
+            exit 1
+          fi
