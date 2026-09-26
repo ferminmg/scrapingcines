@@ -157,6 +157,14 @@ jobs:
             fi
           done
 
+      # Detecta películas nuevas por cine y actualiza estado/notificaciones.json
+      # (se commitea con los datos). Los avisos se envían más abajo, cuando
+      # los datos ya están publicados en GitHub Pages.
+      - name: 🔔 Detectar novedades para notificaciones
+        run: |
+          python notificar_novedades.py detectar --salida /tmp/notificaciones_pendientes.json \
+            || echo "::warning::No se pudieron detectar novedades, continuando..."
+
       - name: 🔄 Verificar cambios
         id: changes
         run: |
@@ -273,6 +281,22 @@ jobs:
           publish_dir: public
           keep_files: false
           force_orphan: true
+
+      - name: 📲 Enviar notificaciones push
+        if: steps.changes.outputs.has_changes == 'true'
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: |
+          PENDIENTES=/tmp/notificaciones_pendientes.json
+          if ! python -c "import json,sys; sys.exit(0 if json.load(open('$PENDIENTES')) else 1)" 2>/dev/null; then
+            echo "🔕 Sin novedades que notificar"
+            exit 0
+          fi
+          pip install --quiet google-auth requests
+          # Margen para que GitHub Pages sirva ya los datos nuevos al abrir el aviso.
+          sleep 90
+          python notificar_novedades.py enviar --pendientes "$PENDIENTES" \
+            || echo "::warning::Algunas notificaciones no se pudieron enviar"
 
       # Los datos ya están commiteados y publicados: aquí solo se decide si la
       # ejecución queda en rojo por fallos de los scrapers.
