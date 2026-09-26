@@ -38,8 +38,10 @@ jobs:
     runs-on: ubuntu-latest
     needs: validate
     env:
-      # Fuera del repo: el paso "git add ." no debe commitear este registro de fallos
-      FALLOS_SCRAPERS: ${{ runner.temp }}/fallos_scraper.txt
+      # Fuera del repo: el paso "git add ." no debe commitear este registro de fallos.
+      # Nota: el contexto {{ runner.temp }} NO existe a nivel de job (solo dentro
+      # de steps), por eso se usa la ruta literal de /tmp en este runner ubuntu.
+      FALLOS_SCRAPERS: /tmp/fallos_scraper.txt
 
     steps:
       - name: 📥 Clonar repositorio
@@ -177,9 +179,13 @@ jobs:
           TIMESTAMP=$(date '+%Y-%m-%d %H:%M UTC')
           COMMIT_MSG="🔄 Actualización automática - $TIMESTAMP"
           
+          # Los datos se suben a la rama que disparó el run: en los schedules
+          # es main (como hasta ahora), en un dispatch manual es la rama
+          # seleccionada. Apuntar siempre a main rompe cualquier run lanzado
+          # desde otra rama (rebase contra archivos que esa rama no tiene).
           git commit -m "$COMMIT_MSG"
-          git pull --rebase origin main
-          git push origin main
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
 
       - name: 📄 Preparar archivos para GitHub Pages
         if: steps.changes.outputs.has_changes == 'true'
@@ -292,10 +298,13 @@ jobs:
             fi
           fi
 
-          if [ -f ".venv/Scripts/python.exe" ]; then
-            PY=".venv/Scripts/python.exe"
-          elif [ -f ".venv/bin/python" ]; then
+          # .venv está commiteado con los binarios de Windows: en ubuntu ese
+          # python.exe existe pero no es ejecutable (Permission denied), así
+          # que la comprobación tiene que ser -x y no -f.
+          if [ -x ".venv/bin/python" ]; then
             PY=".venv/bin/python"
+          elif [ -x ".venv/Scripts/python.exe" ]; then
+            PY=".venv/Scripts/python.exe"
           else
             PY="python"
           fi
