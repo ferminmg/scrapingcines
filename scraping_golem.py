@@ -23,7 +23,7 @@ logger = logging.getLogger(__name__)
 class MovieSchedule:
     fecha: str
     hora: str
-    enlace_entradas: Optional[str]
+    enlace_entradas: str
 
 @dataclass
 class Movie:
@@ -36,6 +36,8 @@ class Movie:
     actores: Optional[str] = None
     sinopsis: Optional[str] = None
     año: Optional[str] = None
+    # Ciclo o detalle de la sesión ('KLASIKOAK 2026', 'SSPNA'...)
+    nota: Optional[str] = None
 
 class TMDbAPI:
     def __init__(self, api_key: str):
@@ -176,10 +178,56 @@ class ImageDownloader:
             logger.error(f"Error downloading image: {str(e)}")
             return None
 
+# Marca de versión original subtitulada en el título de Golem:
+# '(V.O.S.E.)', '(V.O.S.E)', '(VOSE)', '(V.O.S.E. + V.O.S.E.U.)'...
+PATRON_VOSE = re.compile(r'\bV\.?\s*O\.?\s*S\.?\s*E\b', re.IGNORECASE)
+PATRON_PARENTESIS_VOSE = re.compile(r'\s*\([^)]*\bV\.?\s*O\.?\s*S\.?\s*E[^)]*\)', re.IGNORECASE)
+
+def es_vose(titulo: str) -> bool:
+    return bool(PATRON_VOSE.search(titulo or ''))
+
+def limpiar_titulo(titulo: str) -> str:
+    """Quita la marca de VOSE: 'Casablanca (V.O.S.E.)' -> 'Casablanca'."""
+    limpio = PATRON_PARENTESIS_VOSE.sub('', titulo)
+    limpio = PATRON_VOSE.sub('', limpio)
+    return ' '.join(limpio.split()).strip(' -') or titulo.strip()
+
+def quitar_prefijo_ciclo(titulo: str) -> Optional[str]:
+    """'SSPNA: Fatherland' -> 'Fatherland', 'KLASIKOAK 2026: Casablanca' ->
+    'Casablanca'. Devuelve None si no hay un prefijo corto de ciclo."""
+    if ':' not in titulo:
+        return None
+    prefijo, resto = titulo.split(':', 1)
+    prefijo, resto = prefijo.strip(), resto.strip()
+    if not resto or len(prefijo.split()) > 4:
+        return None
+    # Solo prefijos con pinta de ciclo ('SSPNA', 'KLASIKOAK 2026', 'Doc del
+    # mes'), no subtítulos de la propia película ('Vengadores Endgame: Encore')
+    if prefijo != prefijo.upper() and not re.match(r'(docs?|ciclo|cine|klasikoak|sspna)\b', prefijo, re.IGNORECASE):
+        return None
+    return resto
+
 class MovieScraper:
     def __init__(self, tmdb_api: TMDbAPI, image_downloader: ImageDownloader):
         self.tmdb_api = tmdb_api
         self.image_downloader = image_downloader
+        # La misma película sale muchos días: una sola consulta a TMDb
+        self._cache_tmdb: Dict[str, tuple] = {}
+
+    def buscar_tmdb(self, titulo: str) -> tuple:
+        """Devuelve (título a mostrar, info de TMDb). Si el título completo no
+        se encuentra y lleva un prefijo de ciclo ('SSPNA: ...'), prueba sin él."""
+        if titulo in self._cache_tmdb:
+            return self._cache_tmdb[titulo]
+        resultado = (titulo, self.tmdb_api.get_movie_info(titulo))
+        if not resultado[1]:
+            sin_prefijo = quitar_prefijo_ciclo(titulo)
+            if sin_prefijo:
+                info = self.tmdb_api.get_movie_info(sin_prefijo)
+                if info:
+                    resultado = (sin_prefijo, info)
+        self._cache_tmdb[titulo] = resultado
+        return resultado
 
     def scrape_cinema(self, base_url: str, cinema_name: str, days: int) -> List[Movie]:
         """Scrape movie information for a specific cinema"""
@@ -205,12 +253,11 @@ class MovieScraper:
                         
                     title = title_elem.get_text(strip=True)
                     
-                    # Filter VOSE movies: only those with "V.O.S.E" in the title
-                    if "V.O.S.E" not in title:
+                    # Solo películas en VOSE (Golem lo indica en el título)
+                    if not es_vose(title):
                         continue
-                        
-                    clean_title = title.replace("(V.O.S.E.)", "").strip()
-                    clean_title = clean_title.replace("(V.O.S.E)", "").strip()
+
+                    clean_title = limpiar_titulo(title)
                     
                     # Get poster from Golem
                     poster_elem = movie_table.find('img', {'class': 'bordeCartel'})
@@ -219,7 +266,10 @@ class MovieScraper:
                         fallback_image_path = self.image_downloader.download(poster_elem['src'])
                     
                     # Get TMDb information
-                    tmdb_info = self.tmdb_api.get_movie_info(clean_title)
+                    titulo_golem = clean_title
+                    clean_title, tmdb_info = self.buscar_tmdb(titulo_golem)
+                    # Si se quitó el prefijo del ciclo, se guarda como nota
+                    nota = titulo_golem.split(':', 1)[0].strip() if clean_title != titulo_golem else None
                     
                     # Get TMDb poster if available
                     image_path = fallback_image_path
@@ -241,7 +291,9 @@ class MovieScraper:
                     for schedule in movie_table.find_all('span', {'class': 'horaXXXL'}):
                         time = schedule.get_text(strip=True)
                         ticket_link = schedule.find('a', href=True)
-                        ticket_url = None
+                        # Siempre texto: las versiones publicadas de la app
+                        # descartan la película entera si llega null
+                        ticket_url = ""
                         if ticket_link and 'href' in ticket_link.attrs:
                             ticket_url = f"https://golem.es{ticket_link['href']}"
                         
@@ -261,7 +313,8 @@ class MovieScraper:
                         duración=tmdb_info.get('duración'),
                         actores=tmdb_info.get('actores'),
                         sinopsis=tmdb_info.get('sinopsis'),
-                        año=tmdb_info.get('año')
+                        año=tmdb_info.get('año'),
+                        nota=nota
                     ))
                     
             except requests.exceptions.RequestException as e:
@@ -271,7 +324,7 @@ class MovieScraper:
         return movies
 
 # Campos de metadatos que aporta TMDb (gana la primera aparición que traiga valor)
-CAMPOS_TMDB = ('director', 'duración', 'actores', 'sinopsis', 'año')
+CAMPOS_TMDB = ('director', 'duración', 'actores', 'sinopsis', 'año', 'nota')
 
 def merge_movies(movies: List[Movie]) -> List[Movie]:
     """Fusiona duplicados por (cine, título): junta los horarios de todos los
@@ -315,7 +368,8 @@ def main():
     
     IMAGES_FOLDER = "imagenes_peliculas"
     OUTPUT_FILE = "peliculas_vose.json"
-    DAYS_TO_SCRAPE = 10
+    # Golem publica la programación de unas tres semanas (ciclos, clásicos...)
+    DAYS_TO_SCRAPE = 21
 
     # Initialize components
     tmdb_api = TMDbAPI(TMDB_API_KEY)

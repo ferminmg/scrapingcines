@@ -103,25 +103,28 @@ def parejas_actuales(carpeta, hoy):
             cine = str(peli.get('cine') or '').strip()
             if not titulo or not cine:
                 continue
-            sesiones = []
+            # Cada sesión puede traer su propio cine (la Filmoteca proyecta
+            # también en Civivox Condestable); si no, el de la película
+            sesiones_por_cine = {}
             for h in peli.get('horarios') or []:
                 try:
                     fecha = datetime.date.fromisoformat(str(h.get('fecha')))
                 except (TypeError, ValueError, AttributeError):
                     continue
                 if fecha >= hoy:
-                    sesiones.append((fecha, str(h.get('hora') or '').strip()))
-            if not sesiones:
-                continue
-            clave = f'{tema_de_cine(cine)}|{normalizar(titulo)}'
-            info = parejas.setdefault(clave, {
-                'titulo': titulo,
-                'cine': cine,
-                'tema': tema_de_cine(cine),
-                'pelicula': normalizar(titulo),
-                'sesiones': [],
-            })
-            info['sesiones'].extend(sesiones)
+                    cine_sesion = str(h.get('cine') or '').strip() or cine
+                    sesiones_por_cine.setdefault(cine_sesion, []).append(
+                        (fecha, str(h.get('hora') or '').strip()))
+            for cine_sesion, sesiones in sesiones_por_cine.items():
+                clave = f'{tema_de_cine(cine_sesion)}|{normalizar(titulo)}'
+                info = parejas.setdefault(clave, {
+                    'titulo': titulo,
+                    'cine': cine_sesion,
+                    'tema': tema_de_cine(cine_sesion),
+                    'pelicula': normalizar(titulo),
+                    'sesiones': [],
+                })
+                info['sesiones'].extend(sesiones)
     for info in parejas.values():
         info['sesiones'].sort()
     return parejas
