@@ -126,40 +126,48 @@ def filtrar_horarios_futuros(pelicula: Dict[str, Any]) -> Dict[str, Any]:
     pelicula_actualizada['horarios'] = horarios_futuros
     return pelicula_actualizada
 
+def _horarios_con_cine(pelicula: Dict) -> List[Dict]:
+    """Horarios de la película con el cine de cada sesión (si una sesión no
+    lo trae, se usa el de la película)."""
+    cine = pelicula.get('cine', '')
+    resultado = []
+    for horario in pelicula.get('horarios', []) or []:
+        horario = dict(horario)
+        if not horario.get('cine') and cine:
+            horario['cine'] = cine
+        resultado.append(horario)
+    return resultado
+
 def fusionar_peliculas(pelicula_base: Dict, pelicula_nueva: Dict) -> Dict:
     """
     Fusiona dos películas priorizando:
-    1. Datos manuales para horarios personalizados
+    1. Horarios: todos los de ambas; si coinciden fecha y hora, gana el de
+       pelicula_nueva (el scraping, más reciente: sede y enlace actualizados)
     2. Datos de TMDb para metadatos
     3. Imágenes de TMDb sobre las locales
     """
     resultado = pelicula_base.copy()
-    
-    # 1. Fusionar horarios (sin duplicados)
-    horarios_existentes = resultado.get('horarios', [])
-    horarios_nuevos = pelicula_nueva.get('horarios', [])
-    
-    # Crear diccionario de horarios únicos usando fecha+hora como clave
+
+    # 1. Fusionar horarios (sin duplicados), con el cine de cada sesión
     horarios_unicos = {}
-    
-    # Priorizar horarios existentes (manuales)
-    for horario in horarios_existentes:
+    for horario in _horarios_con_cine(pelicula_base) + _horarios_con_cine(pelicula_nueva):
         clave = f"{horario.get('fecha', '')}_{horario.get('hora', '')}"
         horarios_unicos[clave] = horario
-    
-    # Añadir horarios nuevos que no estén duplicados
-    for horario in horarios_nuevos:
-        clave = f"{horario.get('fecha', '')}_{horario.get('hora', '')}"
-        if clave not in horarios_unicos:
-            horarios_unicos[clave] = horario
-    
+
     resultado['horarios'] = sorted(
-        horarios_unicos.values(), 
+        horarios_unicos.values(),
         key=lambda x: (x.get('fecha', ''), x.get('hora', ''))
     )
-    
+
+    # El cine de la película es el de su primera sesión (las versiones
+    # antiguas de la app solo leen este campo)
+    if resultado['horarios'] and resultado['horarios'][0].get('cine'):
+        resultado['cine'] = resultado['horarios'][0]['cine']
+    elif pelicula_nueva.get('cine'):
+        resultado['cine'] = pelicula_nueva['cine']
+
     # 2. Actualizar metadatos vacíos con datos nuevos
-    campos_metadatos = ['director', 'duración', 'actores', 'sinopsis', 'año', 'tmdb_id']
+    campos_metadatos = ['director', 'duración', 'actores', 'sinopsis', 'año', 'tmdb_id', 'nota']
     
     for campo in campos_metadatos:
         if not resultado.get(campo) and pelicula_nueva.get(campo):
@@ -278,7 +286,11 @@ def integrar_peliculas_completo(archivo_original: str, archivo_scraping: str, ar
         for pelicula in peliculas_scraping:
             try:
                 id_unico = generar_id_unico(pelicula)
-                mapa_peliculas[id_unico] = pelicula
+                if id_unico in mapa_peliculas:
+                    # Misma película en varios eventos: juntar sus sesiones
+                    mapa_peliculas[id_unico] = fusionar_peliculas(mapa_peliculas[id_unico], pelicula)
+                else:
+                    mapa_peliculas[id_unico] = pelicula
                 stats['scraping_añadidas'] += 1
                 logger.debug(f"🕷️  Scraping: {pelicula.get('título', 'Sin título')}")
             except Exception as e:
@@ -319,8 +331,23 @@ def integrar_peliculas_completo(archivo_original: str, archivo_scraping: str, ar
                 if tiene_horarios_futuros(pelicula_sin_tmdb):
                     pelicula_sin_tmdb = filtrar_horarios_futuros(pelicula_sin_tmdb)
                     id_unico = generar_id_unico(pelicula_sin_tmdb)
-                    
-                    if id_unico not in mapa_peliculas:
+
+                    # Si el scraping ya trae esa película (quizá ahora con
+                    # tmdb_id), se fusiona con ella en vez de duplicarla
+                    titulo_norm = normalize_title(pelicula_sin_tmdb.get('título', ''))
+                    id_existente = id_unico if id_unico in mapa_peliculas else next(
+                        (clave for clave, p in mapa_peliculas.items()
+                         if normalize_title(p.get('título', '')) == titulo_norm),
+                        None
+                    )
+
+                    if id_existente:
+                        logger.info(f"🤝 Fusionando sin TMDb: {pelicula_sin_tmdb.get('título')}")
+                        mapa_peliculas[id_existente] = fusionar_peliculas(
+                            pelicula_sin_tmdb, mapa_peliculas[id_existente]
+                        )
+                        stats['manuales_fusionadas'] += 1
+                    else:
                         logger.info(f"📝 Manteniendo película sin TMDb: {pelicula_sin_tmdb.get('título')}")
                         mapa_peliculas[id_unico] = pelicula_sin_tmdb
                         stats['sin_tmdb_mantenidas'] += 1

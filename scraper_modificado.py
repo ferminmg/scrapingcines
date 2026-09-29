@@ -151,9 +151,63 @@ def es_vose(idioma: str) -> bool:
     texto = unicodedata.normalize('NFKD', str(idioma)).encode('ascii', 'ignore').decode().lower()
     return any(cadena in texto for cadena in CADENAS_VOSE)
 
+def separar_titulo_h1(titulo: str) -> tuple:
+    """Separa el <h1> de Filmoteca en (título, nota): quita el '(título
+    original, país, año)' y guarda aparte lo que venga detrás, p. ej.
+    'Cowboy de medianoche (Midnight Cowboy, Estados Unidos, 1969) Sesión con
+    concierto.' -> ('Cowboy de medianoche', 'Sesión con concierto')."""
+    texto = ' '.join((titulo or '').split())
+    nota = ''
+    coincidencia = re.search(r'\s*\((?=[^)]*\b(?:18|19|20)\d{2}\b)[^)]*\)', texto)
+    if coincidencia:
+        nota = texto[coincidencia.end():].strip(' .-–—·')
+        texto = texto[:coincidencia.start()]
+    else:
+        texto = re.sub(r'\s*\([^)]*\)\s*$', '', texto)
+    texto = texto.strip()
+    return (texto or ' '.join((titulo or '').split()), nota)
+
 def limpiar_titulo_h1(titulo: str) -> str:
-    """Quita el '(título original, país, año)' final del <h1> de Filmoteca."""
-    return re.sub(r'\s*\([^)]*\)\s*$', '', titulo).strip()
+    """Título del <h1> sin '(título original, país, año)' ni notas."""
+    return separar_titulo_h1(titulo)[0]
+
+CINE_POR_DEFECTO = 'Filmoteca de Navarra'
+
+# Sedes fuera de la Filmoteca. El sitio las indica al final del <h2> de la
+# sesión ('Sábado, 3 de octubre 19:00 - CONDESTABLE') y en el <title>.
+SEDES = (
+    ('condestable', 'Civivox Condestable'),
+    ('iturrama', 'Civivox Iturrama'),
+    ('mendillorri', 'Civivox Mendillorri'),
+    ('jus la rocha', 'Civivox Jus la Rocha'),
+    ('milagrosa', 'Civivox Milagrosa'),
+    ('san jorge', 'Civivox San Jorge'),
+    ('ensanche', 'Civivox Ensanche'),
+    ('baluarte', 'Baluarte'),
+    ('planetario', 'Planetario de Pamplona'),
+    ('museo de navarra', 'Museo de Navarra'),
+)
+
+def _sin_acentos(texto: str) -> str:
+    return unicodedata.normalize('NFKD', texto or '').encode('ascii', 'ignore').decode().lower()
+
+def detectar_sede(texto_h2: str, titulo_pagina: str = '') -> str:
+    """Devuelve el cine/sede de la sesión (por defecto, la Filmoteca)."""
+    candidatos = []
+    # Lo que va tras el último ' - ' del h2 ('19:00 - CONDESTABLE')
+    if texto_h2 and ' - ' in texto_h2:
+        candidatos.append(texto_h2.rsplit(' - ', 1)[1])
+    # El <title>: 'Película - Ciclo - CONDESTABLE - Filmoteca de Navarra'.
+    # Solo los trozos en mayúsculas, para no confundir un nombre de ciclo.
+    if titulo_pagina:
+        candidatos.extend(t for t in titulo_pagina.split(' - ')[1:]
+                          if t.strip() and t.strip() == t.strip().upper())
+    for candidato in candidatos:
+        texto = _sin_acentos(candidato)
+        for clave, sede in SEDES:
+            if clave in texto:
+                return sede
+    return CINE_POR_DEFECTO
 
 def scrapear_filmoteca():
     """Realiza el scraping de la web de Filmoteca de Navarra"""
@@ -205,7 +259,7 @@ def scrapear_filmoteca():
                     response.raise_for_status()
                     soup = BeautifulSoup(response.text, 'html.parser')
 
-                    title = limpiar_titulo_h1(soup.find('h1').text.strip())
+                    title, nota = separar_titulo_h1(soup.find('h1').text.strip())
                     divtxt22 = soup.find('div', class_='txt txt22')
                     idioma = ""
                     texto_completo = ""
@@ -232,16 +286,23 @@ def scrapear_filmoteca():
                             logger.info(f"Procesando película: {title}")
                             logger.info(f"Idioma: {idioma}")
 
+                            fecha_hora = soup.find('h2')
+                            texto_fecha = fecha_hora.get_text(separator=" ").strip() if fecha_hora else ""
+                            titulo_pagina = soup.title.get_text().strip() if soup.title else ""
+                            cine = detectar_sede(texto_fecha, titulo_pagina)
+                            logger.info(f"Sede: {cine}")
+
                             pelicula = {
                                 "título": title,
                                 "cartel": os.path.join('imagenes_filmoteca', re.sub(r'[^a-zA-Z0-9]', '_', title) + '.jpg'),
                                 "horarios": [],
-                                "cine": "Filmoteca de Navarra",
+                                "cine": cine,
                             }
+                            if nota:
+                                # Detalle de la sesión: 'Sesión con concierto'...
+                                pelicula["nota"] = nota
 
-                            fecha_hora = soup.find('h2')
                             if fecha_hora:
-                                texto_fecha = fecha_hora.get_text(separator=" ").strip()
                                 try:
                                     meses = {
                                         'enero': '01', 'febrero': '02', 'marzo': '03',
@@ -266,8 +327,11 @@ def scrapear_filmoteca():
                                     horario = {
                                         "fecha": fecha_formateada,
                                         "hora": hora,
-                                        "enlace_entradas": enlace_entradas['href'] if enlace_entradas else ""
+                                        "enlace_entradas": enlace_entradas['href'] if enlace_entradas else "",
+                                        "cine": cine,
                                     }
+                                    if nota:
+                                        horario["nota"] = nota
                                     pelicula["horarios"].append(horario)
 
                                 except Exception as e:
