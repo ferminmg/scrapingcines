@@ -149,6 +149,13 @@ class TMDbAPI:
             "runtime": details.get("runtime"),
         }
 
+# El nombre del cartel de TMDb sale de su ruta en TMDb (única por imagen), no
+# del título: si el emparejamiento cambia, cambia también la URL y la app no
+# sigue mostrando el cartel anterior que guarda en caché (21 días por URL).
+def nombre_cartel_tmdb(poster_path: str) -> str:
+    base = re.sub(r'[^A-Za-z0-9_-]', '', os.path.splitext(os.path.basename(poster_path or ''))[0])
+    return f"tmdb_{base}.jpg"
+
 # Formulaciones admitidas para sesiones en versión original subtitulada.
 # El texto se normaliza a ASCII y minúsculas antes de comparar, así que aquí
 # van sin acentos (tanto "V.O.S.E." como la redacción actual del sitio).
@@ -458,8 +465,9 @@ def scrapear_filmoteca():
                             if tmdb_info:
                                 if tmdb_info.get('poster_path'):
                                     tmdb_poster_url = f"https://image.tmdb.org/t/p/w500{tmdb_info['poster_path']}"
-                                    tmdb_poster_filename = os.path.join('imagenes_filmoteca', f"tmdb_{re.sub(r'[^a-zA-Z0-9]', '_', title)}.jpg")
-                                    urllib.request.urlretrieve(tmdb_poster_url, tmdb_poster_filename)
+                                    tmdb_poster_filename = os.path.join('imagenes_filmoteca', nombre_cartel_tmdb(tmdb_info['poster_path']))
+                                    if not os.path.exists(tmdb_poster_filename):
+                                        urllib.request.urlretrieve(tmdb_poster_url, tmdb_poster_filename)
                                     pelicula['cartel'] = tmdb_poster_filename
 
                                 pelicula['tmdb_id'] = tmdb_info.get('tmdb_id')

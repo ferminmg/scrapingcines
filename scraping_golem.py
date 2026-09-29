@@ -177,6 +177,13 @@ class TMDbAPI:
         }
 
 
+# El nombre del cartel de TMDb sale de su ruta en TMDb (única por imagen), no
+# del título: si el emparejamiento cambia, cambia también la URL y la app no
+# sigue mostrando el cartel anterior que guarda en caché (21 días por URL).
+def nombre_cartel_tmdb(poster_path: str) -> str:
+    base = re.sub(r'[^A-Za-z0-9_-]', '', os.path.splitext(os.path.basename(poster_path or ''))[0])
+    return f"tmdb_{base}.jpg"
+
 class ImageDownloader:
     def __init__(self, base_folder: str):
         self.base_folder = Path(base_folder)
@@ -381,7 +388,7 @@ class MovieScraper:
                         poster_url = f"https://image.tmdb.org/t/p/w500{tmdb_info['poster_path']}"
                         
                         # Generate a safe filename for the TMDb poster in lowercase
-                        safe_filename = f"tmdb_{clean_title.lower()}.jpg"
+                        safe_filename = nombre_cartel_tmdb(tmdb_info['poster_path'])
                         
                         tmdb_image_path = self.image_downloader.download(
                             poster_url,
