@@ -318,6 +318,25 @@ def integrar_peliculas_completo(archivo_original: str, archivo_scraping: str, ar
                     )
                     stats['manuales_fusionadas'] += 1
                 else:
+                    # Misma película con otro tmdb_id: el scraping ha corregido
+                    # el emparejamiento (p. ej. un corto homónimo). Se fusiona
+                    # y mandan los datos de TMDb nuevos.
+                    titulo_norm = normalize_title(pelicula_manual.get('título', ''))
+                    id_titulo = next(
+                        (clave for clave, p in mapa_peliculas.items()
+                         if p.get('tmdb_id') and normalize_title(p.get('título', '')) == titulo_norm),
+                        None
+                    )
+                    if id_titulo:
+                        logger.info(f"🔁 TMDb corregido para: {pelicula_manual.get('título')}")
+                        nueva = mapa_peliculas[id_titulo]
+                        fusionada = fusionar_peliculas(pelicula_manual, nueva)
+                        for campo in ('tmdb_id', 'director', 'duración', 'actores', 'sinopsis', 'año', 'cartel'):
+                            if nueva.get(campo):
+                                fusionada[campo] = nueva[campo]
+                        mapa_peliculas[id_titulo] = fusionada
+                        stats['manuales_fusionadas'] += 1
+                        continue
                     # Película manual única
                     logger.info(f"✋ Manteniendo película manual: {pelicula_manual.get('título')}")
                     mapa_peliculas[id_unico] = pelicula_manual
