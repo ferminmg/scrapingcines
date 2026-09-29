@@ -296,6 +296,64 @@ def mensajes(aviso):
         }
 
 
+def _cliente_fcm(credenciales_json):
+    """URL y cabeceras autenticadas para la API v1 de FCM."""
+    from google.auth.transport.requests import Request
+    from google.oauth2 import service_account
+
+    info = json.loads(credenciales_json)
+    credenciales = service_account.Credentials.from_service_account_info(
+        info, scopes=['https://www.googleapis.com/auth/firebase.messaging'])
+    credenciales.refresh(Request())
+    url = (f"https://fcm.googleapis.com/v1/projects/{info['project_id']}"
+           '/messages:send')
+    cabeceras = {
+        'Authorization': f'Bearer {credenciales.token}',
+        'Content-Type': 'application/json; charset=utf-8',
+    }
+    return url, cabeceras
+
+
+def probar(args):
+    """Envía una notificación de prueba a un tema o a un token concreto."""
+    destino = (args.destino or TEMA_TODOS).strip()
+    # Los tokens de FCM son largos y llevan ":"; los temas no.
+    es_token = ':' in destino or len(destino) > 100
+    mensaje = {
+        'message': {
+            ('token' if es_token else 'topic'): destino,
+            'notification': {
+                'title': args.titulo,
+                'body': args.cuerpo,
+            },
+            'data': {'tipo': 'prueba'},
+            'android': {
+                'priority': 'high',
+                'notification': {
+                    'channel_id': 'novedades',
+                    'icon': 'ic_stat_vose',
+                },
+            },
+            'apns': {'payload': {'aps': {'sound': 'default'}}},
+        },
+    }
+    tipo = 'token' if es_token else f'tema «{destino}»'
+    credenciales_json = os.environ.get('FIREBASE_SERVICE_ACCOUNT', '').strip()
+    if not credenciales_json:
+        print('ℹ️ FIREBASE_SERVICE_ACCOUNT no configurado. Se enviaría:')
+        print(json.dumps(mensaje, ensure_ascii=False))
+        return 0
+
+    import requests
+    url, cabeceras = _cliente_fcm(credenciales_json)
+    r = requests.post(url, headers=cabeceras, json=mensaje, timeout=20)
+    if r.ok:
+        print(f'✅ Prueba enviada a {tipo}: {r.json().get("name")}')
+        return 0
+    print(f'::error::FCM {r.status_code} al enviar a {tipo}: {r.text[:500]}')
+    return 1
+
+
 def enviar(args):
     pendientes = cargar_json(args.pendientes, [])
     if not pendientes:
@@ -312,19 +370,7 @@ def enviar(args):
         return 0
 
     import requests
-    from google.auth.transport.requests import Request
-    from google.oauth2 import service_account
-
-    info = json.loads(credenciales_json)
-    credenciales = service_account.Credentials.from_service_account_info(
-        info, scopes=['https://www.googleapis.com/auth/firebase.messaging'])
-    credenciales.refresh(Request())
-    url = (f"https://fcm.googleapis.com/v1/projects/{info['project_id']}"
-           '/messages:send')
-    cabeceras = {
-        'Authorization': f'Bearer {credenciales.token}',
-        'Content-Type': 'application/json; charset=utf-8',
-    }
+    url, cabeceras = _cliente_fcm(credenciales_json)
 
     fallos = 0
     for aviso in pendientes:
@@ -354,6 +400,14 @@ def main():
     p = sub.add_parser('enviar', help='Envía los avisos pendientes por FCM')
     p.add_argument('--pendientes', required=True)
     p.set_defaults(func=enviar)
+
+    p = sub.add_parser('probar', help='Envía una notificación de prueba')
+    p.add_argument('--destino', default=TEMA_TODOS,
+                   help='Tema (p. ej. cine_todos) o token de un dispositivo')
+    p.add_argument('--titulo', default='Prueba de VOSE Pamplona')
+    p.add_argument('--cuerpo',
+                   default='Si ves esto, las notificaciones funcionan 🎬')
+    p.set_defaults(func=probar)
 
     args = parser.parse_args()
     sys.exit(args.func(args))

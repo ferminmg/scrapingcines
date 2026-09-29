@@ -1,0 +1,35 @@
+name: Notificación de prueba
+
+# Envía una notificación push de prueba sin esperar al scraping.
+# Actions → "Notificación de prueba" → Run workflow.
+on:
+  workflow_dispatch:
+    inputs:
+      destino:
+        description: "Tema (cine_todos, cine_golem_baiona...) o token del móvil (Ajustes → Diagnóstico → Copiar token)"
+        required: true
+        default: cine_todos
+      mensaje:
+        description: "Texto de la notificación"
+        required: false
+        default: "Si ves esto, las notificaciones funcionan 🎬"
+
+jobs:
+  probar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: notificar_novedades.py
+          sparse-checkout-cone-mode: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: 📲 Enviar notificación de prueba
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          DESTINO: ${{ inputs.destino }}
+          MENSAJE: ${{ inputs.mensaje }}
+        run: |
+          pip install --quiet google-auth requests
+          python notificar_novedades.py probar --destino "$DESTINO" --cuerpo "$MENSAJE"
