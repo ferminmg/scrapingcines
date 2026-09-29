@@ -4,7 +4,7 @@
 
 Detecta películas que aparecen por primera vez en la cartelera VOSE de un
 cine y las envía como notificación push (Firebase Cloud Messaging) a los
-móviles suscritos al tema de ese cine.
+móviles registrados que siguen ese cine.
 
 Uso (dos pasos, para enviar solo cuando los datos ya están publicados):
 
@@ -22,8 +22,10 @@ Detección
     aviso de resumen en lugar de uno por película.
 
 Envío
-  - Temas FCM: "cine_<nombre normalizado>" (ver tema_de_cine) y "cine_todos".
-    La app usa exactamente la misma normalización.
+  - Cada móvil se registra desde la app en Firestore, colección
+    "dispositivos": {token, todos, cines}. Se envía a cada token solo lo de
+    sus cines (o todo, si eligió "todos"). Los tokens caducados se borran.
+    (Antes se usaban temas de FCM, pero no se entregaban de forma fiable.)
   - Credenciales: variable de entorno FIREBASE_SERVICE_ACCOUNT con el JSON de
     la cuenta de servicio de Firebase. Si no existe, solo se muestra lo que se
     habría enviado.
@@ -48,9 +50,11 @@ FUENTES = [
 ESTADO_POR_DEFECTO = os.path.join('estado', 'notificaciones.json')
 DIAS_OLVIDO = 30
 MAX_NOVEDADES = 8
-TEMA_TODOS = 'cine_todos'
-# FCM admite como máximo 5 temas por condición.
-MAX_TEMAS_CONDICION = 5
+COLECCION_DISPOSITIVOS = 'dispositivos'
+SCOPES = [
+    'https://www.googleapis.com/auth/firebase.messaging',
+    'https://www.googleapis.com/auth/datastore',
+]
 
 DIAS_SEMANA = ['lun', 'mar', 'mié', 'jue', 'vie', 'sáb', 'dom']
 
@@ -252,138 +256,111 @@ def _fecha_o_none(valor):
         return None
 
 
-def condiciones(temas):
-    """Condiciones FCM (máx. 5 temas cada una). El tema "todos" va en la
-    primera para que quien lo tenga reciba un único aviso."""
-    temas = list(dict.fromkeys(temas))
-    grupos = []
-    primero = [TEMA_TODOS] + temas[:MAX_TEMAS_CONDICION - 1]
-    grupos.append(primero)
-    resto = temas[MAX_TEMAS_CONDICION - 1:]
-    for i in range(0, len(resto), MAX_TEMAS_CONDICION):
-        grupos.append(resto[i:i + MAX_TEMAS_CONDICION])
-    return [' || '.join(f"'{t}' in topics" for t in g) for g in grupos]
+class ClienteFirebase:
+    """FCM (API v1) y Firestore (REST) con la cuenta de servicio."""
+
+    def __init__(self, credenciales_json):
+        import requests
+        from google.auth.transport.requests import Request
+        from google.oauth2 import service_account
+
+        info = json.loads(credenciales_json)
+        credenciales = service_account.Credentials.from_service_account_info(
+            info, scopes=SCOPES)
+        credenciales.refresh(Request())
+        self.proyecto = info['project_id']
+        self.sesion = requests.Session()
+        self.sesion.headers['Authorization'] = f'Bearer {credenciales.token}'
+        self.url_fcm = (f'https://fcm.googleapis.com/v1/projects/'
+                        f'{self.proyecto}/messages:send')
+        self.url_docs = (f'https://firestore.googleapis.com/v1/projects/'
+                         f'{self.proyecto}/databases/(default)/documents')
+
+    def dispositivos(self):
+        """Lista de {nombre, token, todos, cines} registrados en Firestore."""
+        resultado = []
+        pagina = None
+        while True:
+            params = {'pageSize': 300}
+            if pagina:
+                params['pageToken'] = pagina
+            r = self.sesion.get(f'{self.url_docs}/{COLECCION_DISPOSITIVOS}',
+                                params=params, timeout=20)
+            r.raise_for_status()
+            datos = r.json()
+            for doc in datos.get('documents', []):
+                campos = doc.get('fields', {})
+                token = campos.get('token', {}).get('stringValue')
+                if not token:
+                    continue
+                cines = [v.get('stringValue', '') for v in
+                         campos.get('cines', {}).get('arrayValue', {})
+                         .get('values', [])]
+                resultado.append({
+                    'nombre': doc['name'],
+                    'token': token,
+                    'todos': campos.get('todos', {}).get('booleanValue', True),
+                    'cines': {normalizar(c) for c in cines if c},
+                })
+            pagina = datos.get('nextPageToken')
+            if not pagina:
+                return resultado
+
+    def enviar(self, mensaje):
+        """Devuelve (ok, token_caducado, detalle)."""
+        r = self.sesion.post(self.url_fcm, json=mensaje, timeout=20)
+        if r.ok:
+            return True, False, r.json().get('name', '')
+        caducado = r.status_code == 404 or 'UNREGISTERED' in r.text or (
+            r.status_code == 400 and 'registration token' in r.text)
+        return False, caducado, f'{r.status_code}: {r.text[:300]}'
+
+    def borrar(self, nombre_documento):
+        try:
+            self.sesion.delete(
+                f'https://firestore.googleapis.com/v1/{nombre_documento}',
+                timeout=20)
+        except Exception as e:  # no es grave: se reintentará otro día
+            print(f'ℹ️ No se pudo borrar {nombre_documento}: {e}')
 
 
-def mensajes(aviso):
+def quiere_aviso(dispositivo, aviso):
+    """¿Sigue este móvil alguno de los cines del aviso?"""
+    if dispositivo['todos']:
+        return True
+    return any(normalizar(c) in dispositivo['cines'] for c in aviso['cines'])
+
+
+def mensaje_para(aviso, token):
     datos = {'tipo': aviso.get('tipo', 'nueva_pelicula')}
     if aviso.get('titulo'):
         datos['titulo'] = aviso['titulo']
-    # Mismo identificador = la notificación sustituye a la anterior en vez de
-    # duplicarse (si alguien la recibe por dos condiciones distintas).
     agrupacion = aviso['pelicula'][:60]
-    for condicion in condiciones(aviso['temas']):
-        yield {
-            'message': {
-                'condition': condicion,
-                'notification': aviso['notificacion'],
-                'data': datos,
-                'android': {
-                    'priority': 'high',
-                    'notification': {
-                        'channel_id': 'novedades',
-                        'tag': agrupacion,
-                        'icon': 'ic_stat_vose',
-                    },
-                },
-                'apns': {
-                    'headers': {'apns-collapse-id': agrupacion},
-                    'payload': {
-                        'aps': {'sound': 'default', 'thread-id': 'novedades'},
-                    },
-                },
-            },
-        }
-
-
-def _cliente_fcm(credenciales_json):
-    """URL y cabeceras autenticadas para la API v1 de FCM."""
-    from google.auth.transport.requests import Request
-    from google.oauth2 import service_account
-
-    info = json.loads(credenciales_json)
-    credenciales = service_account.Credentials.from_service_account_info(
-        info, scopes=['https://www.googleapis.com/auth/firebase.messaging'])
-    credenciales.refresh(Request())
-    url = (f"https://fcm.googleapis.com/v1/projects/{info['project_id']}"
-           '/messages:send')
-    cabeceras = {
-        'Authorization': f'Bearer {credenciales.token}',
-        'Content-Type': 'application/json; charset=utf-8',
-    }
-    return url, cabeceras
-
-
-def probar(args):
-    """Envía una notificación de prueba a un tema o a un token concreto."""
-    destino = (args.destino or TEMA_TODOS).strip()
-    # Los tokens de FCM son largos y llevan ":"; los temas no.
-    es_token = ':' in destino or len(destino) > 100
-    mensaje = {
+    return {
         'message': {
-            ('token' if es_token else 'topic'): destino,
-            'notification': {
-                'title': args.titulo,
-                'body': args.cuerpo,
-            },
-            'data': {'tipo': 'prueba'},
+            'token': token,
+            'notification': aviso['notificacion'],
+            'data': datos,
             'android': {
                 'priority': 'high',
                 'notification': {
                     'channel_id': 'novedades',
+                    'tag': agrupacion,
                     'icon': 'ic_stat_vose',
                 },
             },
-            'apns': {'payload': {'aps': {'sound': 'default'}}},
+            'apns': {
+                'headers': {'apns-collapse-id': agrupacion},
+                'payload': {
+                    'aps': {'sound': 'default', 'thread-id': 'novedades'},
+                },
+            },
         },
     }
-    tipo = 'token' if es_token else f'tema «{destino}»'
-    credenciales_json = os.environ.get('FIREBASE_SERVICE_ACCOUNT', '').strip()
-    if not credenciales_json:
-        print('ℹ️ FIREBASE_SERVICE_ACCOUNT no configurado. Se enviaría:')
-        print(json.dumps(mensaje, ensure_ascii=False))
-        return 0
-
-    import requests
-    url, cabeceras = _cliente_fcm(credenciales_json)
-    if es_token:
-        _info_token(destino, cabeceras)
-    r = requests.post(url, headers=cabeceras, json=mensaje, timeout=20)
-    if r.ok:
-        print(f'✅ Prueba enviada a {tipo}: {r.json().get("name")}')
-        return 0
-    if r.status_code == 404 or 'UNREGISTERED' in r.text:
-        print('::error::El token ya no es válido (app desinstalada, datos '
-              'borrados o token caducado). Abre la app y copia el token nuevo.')
-    print(f'::error::FCM {r.status_code} al enviar a {tipo}: {r.text[:500]}')
-    return 1
 
 
-def _info_token(token, cabeceras):
-    """Muestra (si Google lo permite) la app y los temas de un token."""
-    import requests
-    try:
-        r = requests.get(
-            f'https://iid.googleapis.com/iid/info/{token}',
-            params={'details': 'true'},
-            headers={
-                'Authorization': cabeceras['Authorization'],
-                'access_token_auth': 'true',
-            },
-            timeout=20,
-        )
-    except Exception as e:  # solo informativo
-        print(f'ℹ️ No se pudo consultar el token: {e}')
-        return
-    if not r.ok:
-        print(f'ℹ️ Consulta del token no disponible ({r.status_code}): '
-              f'{r.text[:200]}')
-        return
-    info = r.json()
-    temas = sorted((info.get('rel') or {}).get('topics', {}).keys())
-    print(f"🔎 Token válido · app: {info.get('application')} · "
-          f"plataforma: {info.get('platform')}")
-    print(f"🔎 Temas suscritos: {', '.join(temas) if temas else 'NINGUNO'}")
+def _credenciales():
+    return os.environ.get('FIREBASE_SERVICE_ACCOUNT', '').strip()
 
 
 def enviar(args):
@@ -392,29 +369,87 @@ def enviar(args):
         print('🔕 Nada que enviar.')
         return 0
 
-    credenciales_json = os.environ.get('FIREBASE_SERVICE_ACCOUNT', '').strip()
+    credenciales_json = _credenciales()
     if not credenciales_json:
         print('ℹ️ FIREBASE_SERVICE_ACCOUNT no configurado: se muestra lo que '
-              'se habría enviado.')
+              'se habría enviado a cada móvil registrado.')
         for aviso in pendientes:
-            for m in mensajes(aviso):
-                print(json.dumps(m, ensure_ascii=False))
+            print(json.dumps(mensaje_para(aviso, '<token>'),
+                             ensure_ascii=False))
         return 0
 
-    import requests
-    url, cabeceras = _cliente_fcm(credenciales_json)
+    cliente = ClienteFirebase(credenciales_json)
+    dispositivos = cliente.dispositivos()
+    print(f'📱 {len(dispositivos)} móvil(es) registrado(s)')
 
     fallos = 0
+    caducados = set()
     for aviso in pendientes:
-        for m in mensajes(aviso):
-            r = requests.post(url, headers=cabeceras, json=m, timeout=20)
-            if r.ok:
-                print(f"✅ Enviado: {aviso['notificacion']['title']}")
+        titulo = aviso['notificacion']['title']
+        enviados = 0
+        for d in dispositivos:
+            if d['nombre'] in caducados or not quiere_aviso(d, aviso):
+                continue
+            ok, caducado, detalle = cliente.enviar(
+                mensaje_para(aviso, d['token']))
+            if ok:
+                enviados += 1
+            elif caducado:
+                caducados.add(d['nombre'])
+                cliente.borrar(d['nombre'])
             else:
                 fallos += 1
-                print(f"::warning::FCM {r.status_code} al enviar "
-                      f"«{aviso['notificacion']['title']}»: {r.text[:300]}")
+                print(f'::warning::FCM al enviar «{titulo}»: {detalle}')
+        print(f'✅ «{titulo}»: enviado a {enviados} móvil(es)')
+    if caducados:
+        print(f'🧹 {len(caducados)} registro(s) con token caducado borrado(s)')
     return 1 if fallos else 0
+
+
+def probar(args):
+    """Envía una notificación de prueba a todos los registrados o a un token."""
+    destino = (args.destino or 'todos').strip()
+    aviso = {
+        'tipo': 'prueba',
+        'titulo': None,
+        'pelicula': 'prueba',
+        'cines': [],
+        'notificacion': {'title': args.titulo, 'body': args.cuerpo},
+    }
+    credenciales_json = _credenciales()
+    if not credenciales_json:
+        print('ℹ️ FIREBASE_SERVICE_ACCOUNT no configurado. Se enviaría:')
+        print(json.dumps(mensaje_para(aviso, destino), ensure_ascii=False))
+        return 0
+
+    cliente = ClienteFirebase(credenciales_json)
+    if destino == 'todos':
+        dispositivos = cliente.dispositivos()
+        print(f'📱 {len(dispositivos)} móvil(es) registrado(s)')
+        for d in dispositivos:
+            print(f"   • {d['nombre'].rsplit('/', 1)[-1][:8]}… "
+                  f"{'todos los cines' if d['todos'] else ', '.join(sorted(d['cines'])) or 'sin cines'}")
+        tokens = [(d['token'], d['nombre']) for d in dispositivos]
+    else:
+        tokens = [(destino, None)]
+
+    errores = 0
+    for token, nombre in tokens:
+        ok, caducado, detalle = cliente.enviar(mensaje_para(aviso, token))
+        if ok:
+            print(f'✅ Prueba enviada: {detalle}')
+        elif caducado:
+            print('::warning::Token caducado (app desinstalada, datos '
+                  'borrados o token antiguo).')
+            if nombre:
+                cliente.borrar(nombre)
+        else:
+            errores += 1
+            print(f'::error::FCM {detalle}')
+    if not tokens:
+        print('::warning::No hay ningún móvil registrado todavía. Abre la '
+              'app con Firestore ya activado y revisa Ajustes → Diagnóstico.')
+    return 1 if errores else 0
 
 
 def main():
@@ -434,8 +469,8 @@ def main():
     p.set_defaults(func=enviar)
 
     p = sub.add_parser('probar', help='Envía una notificación de prueba')
-    p.add_argument('--destino', default=TEMA_TODOS,
-                   help='Tema (p. ej. cine_todos) o token de un dispositivo')
+    p.add_argument('--destino', default='todos',
+                   help='"todos" (móviles registrados) o token de un móvil')
     p.add_argument('--titulo', default='Prueba de VOSE Pamplona')
     p.add_argument('--cuerpo',
                    default='Si ves esto, las notificaciones funcionan 🎬')
