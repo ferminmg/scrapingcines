@@ -1,5 +1,6 @@
 """Diagnóstico temporal: películas de ciclos en Golem (TMDb y ficha de golem.es)."""
-import os, re, json, logging
+import os, re, json, logging, sys
+sys.path.insert(0, os.getcwd())
 from datetime import datetime, timedelta
 import requests
 from bs4 import BeautifulSoup
