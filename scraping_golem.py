@@ -83,7 +83,9 @@ class TMDbAPI:
     def _mismo_director(self, directores_golem: str, directores_tmdb: List[str]) -> bool:
         """¿Coincide algún director de Golem con alguno de TMDb? Se compara el
         nombre normalizado (sin acentos ni puntuación) y, si no, el apellido."""
-        tmdb = [self._nombre(d) for d in directores_tmdb if d]
+        # Los nombres en otros alfabetos quedan vacíos al normalizar: fuera,
+        # porque una cadena vacía 'estaría contenida' en cualquier nombre
+        tmdb = [n for n in (self._nombre(d) for d in directores_tmdb if d) if n]
         for director in re.split(r',| y | and |&', directores_golem or ''):
             nombre = self._nombre(director)
             if not nombre:
