@@ -346,12 +346,44 @@ def probar(args):
 
     import requests
     url, cabeceras = _cliente_fcm(credenciales_json)
+    if es_token:
+        _info_token(destino, cabeceras)
     r = requests.post(url, headers=cabeceras, json=mensaje, timeout=20)
     if r.ok:
         print(f'✅ Prueba enviada a {tipo}: {r.json().get("name")}')
         return 0
+    if r.status_code == 404 or 'UNREGISTERED' in r.text:
+        print('::error::El token ya no es válido (app desinstalada, datos '
+              'borrados o token caducado). Abre la app y copia el token nuevo.')
     print(f'::error::FCM {r.status_code} al enviar a {tipo}: {r.text[:500]}')
     return 1
+
+
+def _info_token(token, cabeceras):
+    """Muestra (si Google lo permite) la app y los temas de un token."""
+    import requests
+    try:
+        r = requests.get(
+            f'https://iid.googleapis.com/iid/info/{token}',
+            params={'details': 'true'},
+            headers={
+                'Authorization': cabeceras['Authorization'],
+                'access_token_auth': 'true',
+            },
+            timeout=20,
+        )
+    except Exception as e:  # solo informativo
+        print(f'ℹ️ No se pudo consultar el token: {e}')
+        return
+    if not r.ok:
+        print(f'ℹ️ Consulta del token no disponible ({r.status_code}): '
+              f'{r.text[:200]}')
+        return
+    info = r.json()
+    temas = sorted((info.get('rel') or {}).get('topics', {}).keys())
+    print(f"🔎 Token válido · app: {info.get('application')} · "
+          f"plataforma: {info.get('platform')}")
+    print(f"🔎 Temas suscritos: {', '.join(temas) if temas else 'NINGUNO'}")
 
 
 def enviar(args):
