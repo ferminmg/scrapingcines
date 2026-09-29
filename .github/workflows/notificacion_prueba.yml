@@ -6,9 +6,9 @@ on:
   workflow_dispatch:
     inputs:
       destino:
-        description: "Tema (cine_todos, cine_golem_baiona...) o token del móvil (Ajustes → Diagnóstico → Copiar token)"
+        description: "todos (móviles registrados) o token de un móvil (Ajustes → Diagnóstico → Copiar token)"
         required: true
-        default: cine_todos
+        default: todos
       mensaje:
         description: "Texto de la notificación"
         required: false
