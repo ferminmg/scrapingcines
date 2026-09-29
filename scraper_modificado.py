@@ -52,11 +52,19 @@ class TMDbAPI:
     def _title_similarity(self, title1: str, title2: str) -> float:
         return SequenceMatcher(None, self._normalize_title(title1), self._normalize_title(title2)).ratio()
 
-    def _buscar(self, consulta: str) -> list:
-        """Resultados de TMDb para una consulta, en español y en inglés."""
+    def _buscar(self, consulta: str, anio: int = None) -> list:
+        """Resultados de TMDb para una consulta, en español y en inglés.
+
+        TMDb devuelve 20 resultados por página y los títulos comunes ('Black
+        Water': 38 resultados) pueden dejar la película buena en la página 2.
+        Con el año se busca además filtrando por él (y el anterior y el
+        siguiente, por estrenos en festivales), que da solo unas pocas."""
+        busquedas = [{"language": "es"}, {"language": "en"}]
+        if anio:
+            busquedas += [{"language": "es", "year": y} for y in (anio, anio - 1, anio + 1)]
         resultados = {}
-        for idioma in ("es", "en"):
-            datos = self._make_request("search/movie", params={"query": consulta, "language": idioma})
+        for extra in busquedas:
+            datos = self._make_request("search/movie", params={"query": consulta, **extra})
             for r in (datos or {}).get("results", []):
                 resultados.setdefault(r.get("id"), r)
         return [r for r in resultados.values() if r.get("id")]
@@ -77,7 +85,7 @@ class TMDbAPI:
 
         candidatos = {}
         for consulta in titulos:
-            for r in self._buscar(consulta):
+            for r in self._buscar(consulta, anio):
                 candidatos.setdefault(r["id"], r)
         if not candidatos:
             logger.warning(f"No results found for: {title} in any language.")
@@ -123,12 +131,19 @@ class TMDbAPI:
         if not details or not credits:
             return {}
 
+        sinopsis_en = ""
+        if not (details.get("overview") or "").strip():
+            # Sin sinopsis en castellano: se guarda la inglesa como último recurso
+            detalles_en = self._make_request(f"movie/{movie_id}", params={"language": "en"})
+            sinopsis_en = ((detalles_en or {}).get("overview") or "").strip()
+
         return {
             "tmdb_id": movie_id,
             "director": ", ".join(c["name"] for c in credits.get("crew", []) if c["job"] == "Director"),
-            "duración": f"{details.get('runtime', 'Desconocido')} min",
+            "duración": f"{details['runtime']} min" if details.get("runtime") else "",
             "actores": ", ".join(a["name"] for a in credits.get("cast", [])[:5]),
             "sinopsis": details.get("overview"),
+            "sinopsis_en": sinopsis_en,
             "año": details.get("release_date", "")[:4],
             "poster_path": details.get("poster_path"),
             "runtime": details.get("runtime"),
@@ -185,6 +200,48 @@ def datos_h1(titulo: str) -> tuple:
 def limpiar_titulo_h1(titulo: str) -> str:
     """Título del <h1> sin '(título original, país, año)' ni notas."""
     return separar_titulo_h1(titulo)[0]
+
+def ficha_filmoteca(soup) -> dict:
+    """Datos de la propia ficha de la Filmoteca, para completar lo que TMDb
+    no tenga: 'div.txt22' trae campos etiquetados ('Dirección y guion: ...',
+    'Intérpretes: ...', 'Duración: 84 min.') y el primer párrafo de
+    'div.txt33' es la sinopsis (el siguiente, el comentario de la Filmoteca)."""
+    datos = {}
+    txt22 = soup.find('div', class_='txt22')
+    if txt22:
+        for parrafo in txt22.find_all('p'):
+            texto = ' '.join(parrafo.get_text(' ', strip=True).split())
+            coincidencia = re.match(r'^([^:]{2,40}):\s*(.+)$', texto)
+            if not coincidencia:
+                continue
+            etiqueta = _sin_acentos(coincidencia.group(1)).strip()
+            valor = coincidencia.group(2).strip().rstrip('.').strip()
+            if etiqueta.startswith('direccion') and 'director' not in datos:
+                datos['director'] = valor
+            elif etiqueta in ('interpretes', 'reparto', 'con la participacion de', 'con') and 'actores' not in datos:
+                datos['actores'] = valor
+            elif etiqueta == 'duracion' and 'duración' not in datos:
+                minutos = re.search(r'\d+', valor)
+                if minutos:
+                    datos['duración'] = f"{minutos.group(0)} min"
+    txt33 = soup.find('div', class_='txt33')
+    if txt33:
+        for parrafo in txt33.find_all('p'):
+            texto = ' '.join(parrafo.get_text(' ', strip=True).split())
+            if len(texto) >= 60:
+                datos['sinopsis'] = texto
+                break
+    return datos
+
+def completar_datos(pelicula: dict, tmdb_info: dict, ficha: dict) -> None:
+    """Rellena director, reparto, duración y sinopsis: primero TMDb (en
+    castellano), si falta la ficha de la Filmoteca y, para la sinopsis, en
+    último lugar la de TMDb en inglés."""
+    for campo in ('director', 'actores', 'duración', 'sinopsis'):
+        valor = (tmdb_info.get(campo) or '').strip() or (ficha.get(campo) or '').strip()
+        if not valor and campo == 'sinopsis':
+            valor = (tmdb_info.get('sinopsis_en') or '').strip()
+        pelicula[campo] = valor or None
 
 CINE_POR_DEFECTO = 'Filmoteca de Navarra'
 
@@ -406,11 +463,13 @@ def scrapear_filmoteca():
                                     pelicula['cartel'] = tmdb_poster_filename
 
                                 pelicula['tmdb_id'] = tmdb_info.get('tmdb_id')
-                                pelicula['director'] = tmdb_info.get('director')
-                                pelicula['duración'] = tmdb_info.get('duración')
-                                pelicula['actores'] = tmdb_info.get('actores')
-                                pelicula['sinopsis'] = tmdb_info.get('sinopsis')
                                 pelicula['año'] = tmdb_info.get('año')
+
+                            # Lo que TMDb no tenga (o todo, si no la encuentra),
+                            # desde la ficha de la propia Filmoteca
+                            completar_datos(pelicula, tmdb_info or {}, ficha_filmoteca(soup))
+                            if not pelicula.get('año') and anio_h1:
+                                pelicula['año'] = str(anio_h1)
 
                             peliculas.append(pelicula)
                             logger.info(f"Película añadida: {title}")
