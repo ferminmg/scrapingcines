@@ -1,7 +1,7 @@
 [
     {
-        "título": "SSPNA: Sucederá esta noche",
-        "cartel": "imagenes_peliculas/1788517674.jpg",
+        "título": "Sucederá esta noche",
+        "cartel": "imagenes_peliculas/tmdb_sucedera_esta_noche.jpg",
         "horarios": [
             {
                 "fecha": "2026-09-29",
@@ -10,11 +10,12 @@
             }
         ],
         "cine": "Golem Baiona",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
+        "director": "Nanni Moretti",
+        "duración": "103 min",
+        "actores": "Louis Garrel, Jasmine Trinca, Angela Finocchiaro, Elena Lietti, Antonio De Matteo",
+        "sinopsis": "En Oslo, Thea y Matteo están esperando el nacimiento de su hijo. Mientras, en Bombay, Carlo le propone matrimonio a Greta en público. Siete años después, en Roma, Matteo juega al tenis cuando aparece Greta a jugar un set con él vestida de novia. Para él es amor a primera vista, pero ella acaba de casarse. La vida continúa, Matteo no logra olvidar a Greta, siete años después, se encuentran por casualidad. Ambos están casados y tienen hijos con otras personas. El amor siempre les reúne en el momento equivocado.  Basado libremente en el libro de relatos \"Legami\" de Eshkol Nevo.",
+        "año": "2026",
+        "nota": "SSPNA"
     },
     {
         "título": "En el corazón de la bestia",
@@ -41,11 +42,12 @@
         "duración": "101 min",
         "actores": "Brad Pitt, J.K. Simmons, Anna Lambe, Justin Melnick, Shaun DeZern",
         "sinopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-        "año": "2026"
+        "año": "2026",
+        "nota": null
     },
     {
-        "título": "SSPNA: The Debut",
-        "cartel": "imagenes_peliculas/178886511113491.jpg",
+        "título": "The Debut",
+        "cartel": "imagenes_peliculas/tmdb_the_debut.jpg",
         "horarios": [
             {
                 "fecha": "2026-09-30",
@@ -54,14 +56,15 @@
             }
         ],
         "cine": "Golem Baiona",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
+        "director": "Jesse Eisenberg",
+        "duración": "105 min",
+        "actores": "Julianne Moore, Paul Giamatti, Halle Bailey, Jesse Eisenberg, K. Todd Freeman",
+        "sinopsis": "Cuando Mona Friedman consigue un papel menor en un pequeño teatro comunitario, se transforma de una ama de casa tímida y discreta en una actriz entregada al método, dispuesta a todo para proteger la integridad artística de su papel secundario, incluso si eso implica librar una guerra contra el director autoritario de la obra.",
+        "año": "2026",
+        "nota": "SSPNA"
     },
     {
-        "título": "SSPNA: Fatherland",
+        "título": "Fatherland",
         "cartel": "imagenes_peliculas/1788516644.jpg",
         "horarios": [
             {
@@ -71,15 +74,16 @@
             }
         ],
         "cine": "Golem Baiona",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
+        "director": "Pawel Pawlikowski",
+        "duración": "82 min",
+        "actores": "Sandra Hüller, Hanns Zischler, August Diehl",
+        "sinopsis": "FATHERLAND se centra en la relación entre el escritor ganador del Premio Nobel Thomas Mann y su hija Erika, actriz, escritora y piloto de rallies. En el verano de 1949 en plena Guerra Fría, padre e hija emprenden un viaje emocional y desafiante en un Buick negro a través de una Alemania en ruinas, desde la Fráncfort dominada por Estados Unidos hasta la Weimar controlada por la Unión Soviética. Tras dieciséis años de exilio en Estados Unidos, Thomas Mann debe enfrentarse no solo a una patria dividida, sino también a una profunda fractura dentro de su propia familia. Con «FATHERLAND», Pawlikowski retoma el hilo donde lo dejó con sus galardonadas «Ida» y «Cold War», explorando —con su estilo elíptico y conciso— los temas de la identidad, la familia, el amor y la culpa en medio de la agitación y la confusión de la Europa de la posguerra.",
+        "año": null,
+        "nota": "SSPNA"
     },
     {
-        "título": "KLASIKOAK 2026: Casablanca",
-        "cartel": "imagenes_peliculas/1789372490.jpg",
+        "título": "Casablanca",
+        "cartel": "imagenes_peliculas/tmdb_casablanca.jpg",
         "horarios": [
             {
                 "fecha": "2026-10-08",
@@ -88,11 +92,30 @@
             }
         ],
         "cine": "Golem Baiona",
-        "director": null,
-        "duración": null,
-        "actores": null,
-        "sinopsis": null,
-        "año": null
+        "director": "Michael Curtiz",
+        "duración": "102 min",
+        "actores": "Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains, Conrad Veidt",
+        "sinopsis": "Durante la Segunda Guerra Mundial, Casablanca era una ciudad a la que llegaban huyendo del nazismo gentes de todas partes: llegar era fácil, pero salir era casi imposible, especialmente si el nombre del fugitivo figuraba en las listas de la Gestapo. En esta ocasión el principal objetivo de la policía secreta alemana es el líder checo y héroe de la resistencia Victor Laszlo, cuya única esperanza es Rick Blaine, propietario del 'Rick’s Café' y antiguo amante de su mujer, Ilsa. Cuando Ilsa se ofrece a quedarse a cambio de un visado para sacar a Laszlo del país, Rick deberá elegir entre su propia felicidad o el idealismo que rigió su vida en el pasado.",
+        "año": "1943",
+        "nota": "KLASIKOAK 2026"
+    },
+    {
+        "título": "El hombre mosca",
+        "cartel": "imagenes_peliculas/tmdb_el_hombre_mosca.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-10-15",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102603&eventCode=114648"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Sam Taylor, Fred C. Newmeyer",
+        "duración": "70 min",
+        "actores": "Harold Lloyd, Mildred Davis, Bill Strother, Noah Young, Westcott Clarke",
+        "sinopsis": "La obra maestra de Harold Lloyd. La escena del genial cómico escalando un edificio supone uno de los momentos más grandes del cine mudo y su clímax -Harold colgado de las manillas del reloj- sigue siendo una de las escenas estelares de la historia del séptimo arte.",
+        "año": "1923",
+        "nota": "KLASIKOAK 2026"
     },
     {
         "título": "Bad Apples",
@@ -149,7 +172,8 @@
         "duración": "100 min",
         "actores": "Saoirse Ronan, Eddie Waller, Nia Brown, Jacob Anderson, Rakie Ayola",
         "sinopsis": "Una maestra de primaria con dificultades empieza a tomar decisiones cuestionables después de que uno de sus alumnos resulta herido.",
-        "año": "2026"
+        "año": "2026",
+        "nota": null
     },
     {
         "título": "Cronos",
@@ -176,11 +200,12 @@
         "duración": "118 min",
         "actores": "Enric Auquer, Diana Gómez, Mónica López, Pablo Derqui, Israel Elejalde",
         "sinopsis": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
-        "año": "2026"
+        "año": "2026",
+        "nota": null
     },
     {
-        "título": "Doc del mes: Les culpables",
-        "cartel": "imagenes_peliculas/1787132445.jpg",
+        "título": "Les culpables",
+        "cartel": "imagenes_peliculas/tmdb_les_culpables.jpg",
         "horarios": [
             {
                 "fecha": "2026-10-07",
@@ -189,11 +214,12 @@
             }
         ],
         "cine": "Golem Yamaguchi",
-        "director": null,
-        "duración": null,
+        "director": "Marta Duran Lozano",
+        "duración": "85 min",
         "actores": null,
-        "sinopsis": null,
-        "año": null
+        "sinopsis": "Después de años de silencio sobre el aborto que vivió en su adolescencia, Marta recibe un centenar de testimonios anónimos de mujeres que han vivido lo mismo que ella. Llevando estas historias a la pantalla, junto con seis chicas que dan voz y rostro a estos relatos silenciados, abre un espacio compartido donde lo silenciado se convierte en colectivo. La dirección Marta Durán Lozano es directora y guionista. Licenciada en Comunicación Audiovisual, también cursó el Máster en Documental de Creación de la Universitat Pompeu Fabra. En el marco del máster comenzó a desarrollar Les culpables , su ópera prima. La película es una producción de Boogaloo Films y Guspira Films, y ha pasado por Acción Viver de Dones Visuals, DOK Co-Pro Market y D’A Film Lab, entre otros. También ha recibido el Premio al Mejor Proyecto en Desarrollo en el Atlàntida Mallorca Talents Lab y uno de los Premios Laya 2025 por la reflexión y defensa de los derechos humanos. Actualmente, es residente de la Residencia de Guiones de la Academia del Cine Catalán, donde escribe su primera película de ficción, El prec de les feres , bajo la tutoría de Pol Guasch. Premios y festivales Sección oficial en el DocsBarcelona, 2026 Thessaloniki International Documentary Festival, Film Forward Competition 2026",
+        "año": "2026",
+        "nota": "Doc del mes"
     },
     {
         "título": "Vengadores Endgame: Encore",
@@ -220,6 +246,7 @@
         "duración": "181 min",
         "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson",
         "sinopsis": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
-        "año": "2019"
+        "año": "2019",
+        "nota": null
     }
 ]
