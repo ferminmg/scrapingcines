@@ -36,6 +36,7 @@ class Movie:
     actores: Optional[str] = None
     sinopsis: Optional[str] = None
     año: Optional[str] = None
+    tmdb_id: Optional[int] = None
     # Ciclo o detalle de la sesión ('KLASIKOAK 2026', 'SSPNA'...)
     nota: Optional[str] = None
 
@@ -427,6 +428,7 @@ class MovieScraper:
                         actores=tmdb_info.get('actores') or ficha.get('actores'),
                         sinopsis=tmdb_info.get('sinopsis') or ficha.get('sinopsis') or tmdb_info.get('sinopsis_en') or None,
                         año=tmdb_info.get('año'),
+                        tmdb_id=tmdb_info.get('tmdb_id'),
                         nota=nota
                     ))
                     
@@ -437,7 +439,7 @@ class MovieScraper:
         return movies
 
 # Campos de metadatos que aporta TMDb (gana la primera aparición que traiga valor)
-CAMPOS_TMDB = ('director', 'duración', 'actores', 'sinopsis', 'año', 'nota')
+CAMPOS_TMDB = ('director', 'duración', 'actores', 'sinopsis', 'año', 'nota', 'tmdb_id')
 
 def merge_movies(movies: List[Movie]) -> List[Movie]:
     """Fusiona duplicados por (cine, título): junta los horarios de todos los
