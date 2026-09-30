@@ -1,22 +1,5 @@
 [
     {
-        "título": "Vengadores: Endgame Encore (Infinity Vision)",
-        "cartel": "imagenes_filmaffinity/tmdb_br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-09-30",
-                "hora": "18:50",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=32817"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Anthony Russo, Joe Russo",
-        "duración": "181 min",
-        "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson",
-        "sinopsis": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
-        "año": "2019"
-    },
-    {
         "título": "Digger",
         "cartel": "imagenes_filmaffinity/tmdb_koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
         "horarios": [
@@ -31,7 +14,8 @@
         "duración": "128 min",
         "actores": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
         "sinopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-        "año": "2026"
+        "año": "2026",
+        "tmdb_id": 1248832
     },
     {
         "título": "Verity. La sombra de un engaño",
@@ -46,9 +30,10 @@
         "cine": "Yelmo Itaroa",
         "director": "Michael Showalter",
         "duración": "117 min",
-        "actores": "Anne Hathaway, Dakota Johnson, Josh Hartnett, Brady Wagner, Ismael Cruz Cordova",
+        "actores": "Dakota Johnson, Anne Hathaway, Josh Hartnett, Brady Wagner, Ismael Cruz Cordova",
         "sinopsis": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-        "año": "2026"
+        "año": "2026",
+        "tmdb_id": 1283515
     },
     {
         "título": "Vengadores: Endgame Encore",
@@ -65,7 +50,8 @@
         "duración": "181 min",
         "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson",
         "sinopsis": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
-        "año": "2019"
+        "año": "2019",
+        "tmdb_id": 299534
     },
     {
         "título": "En el corazón de la bestia",
@@ -82,7 +68,8 @@
         "duración": "101 min",
         "actores": "Brad Pitt, J.K. Simmons, Anna Lambe, Justin Melnick, Shaun DeZern",
         "sinopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-        "año": "2026"
+        "año": "2026",
+        "tmdb_id": 1263337
     },
     {
         "título": "Resident Evil",
@@ -99,7 +86,8 @@
         "duración": "93 min",
         "actores": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
         "sinopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-        "año": "2026"
+        "año": "2026",
+        "tmdb_id": 1423191
     },
     {
         "título": "Always Lalisa",
@@ -126,7 +114,8 @@
         "duración": "97 min",
         "actores": "LISA",
         "sinopsis": "",
-        "año": "2026"
+        "año": "2026",
+        "tmdb_id": 1489932
     },
     {
         "título": "Dune: Parte Tres",
@@ -143,6 +132,7 @@
         "duración": "140 min",
         "actores": "Timothée Chalamet, Zendaya, Jason Momoa, Florence Pugh, Rebecca Ferguson",
         "sinopsis": "Paul Atreides, ahora Emperador Muad'Dib, se desenvuelve en su inmenso poder mientras lucha contra enemigos políticos y una conspiración dentro de su círculo. Mientras la Casa Atreides se enfrenta al colapso, surge el verdadero peligro para la amante de Paul, Chani, y su heredero nonato.",
-        "año": "2026"
+        "año": "2026",
+        "tmdb_id": 1170608
     }
 ]

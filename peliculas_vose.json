@@ -6,7 +6,7 @@
             {
                 "fecha": "2026-09-30",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102503&eventCode=114874"
+                "enlace_entradas": ""
             }
         ],
         "cine": "Golem Baiona",
@@ -15,6 +15,7 @@
         "actores": "Julianne Moore, Paul Giamatti, Halle Bailey, Jesse Eisenberg, K. Todd Freeman",
         "sinopsis": "Cuando Mona Friedman consigue un papel menor en un pequeño teatro comunitario, se transforma de una ama de casa tímida y discreta en una actriz entregada al método, dispuesta a todo para proteger la integridad artística de su papel secundario, incluso si eso implica librar una guerra contra el director autoritario de la obra.",
         "año": "2026",
+        "tmdb_id": 1391239,
         "nota": "SSPNA"
     },
     {
@@ -38,6 +39,7 @@
         "actores": "Brad Pitt, J.K. Simmons, Anna Lambe, Justin Melnick, Shaun DeZern",
         "sinopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
         "año": "2026",
+        "tmdb_id": 1263337,
         "nota": null
     },
     {
@@ -86,6 +88,7 @@
         "actores": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
         "sinopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
         "año": "2026",
+        "tmdb_id": 1248832,
         "nota": null
     },
     {
@@ -104,6 +107,7 @@
         "actores": "Sandra Hüller, Hanns Zischler, August Diehl",
         "sinopsis": "FATHERLAND se centra en la relación entre el escritor ganador del Premio Nobel Thomas Mann y su hija Erika, actriz, escritora y piloto de rallies. En el verano de 1949 en plena Guerra Fría, padre e hija emprenden un viaje emocional y desafiante en un Buick negro a través de una Alemania en ruinas, desde la Fráncfort dominada por Estados Unidos hasta la Weimar controlada por la Unión Soviética. Tras dieciséis años de exilio en Estados Unidos, Thomas Mann debe enfrentarse no solo a una patria dividida, sino también a una profunda fractura dentro de su propia familia. Con «FATHERLAND», Pawlikowski retoma el hilo donde lo dejó con sus galardonadas «Ida» y «Cold War», explorando —con su estilo elíptico y conciso— los temas de la identidad, la familia, el amor y la culpa en medio de la agitación y la confusión de la Europa de la posguerra.",
         "año": null,
+        "tmdb_id": null,
         "nota": "SSPNA"
     },
     {
@@ -122,7 +126,27 @@
         "actores": "Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains, Conrad Veidt",
         "sinopsis": "Durante la Segunda Guerra Mundial, Casablanca era una ciudad a la que llegaban huyendo del nazismo gentes de todas partes: llegar era fácil, pero salir era casi imposible, especialmente si el nombre del fugitivo figuraba en las listas de la Gestapo. En esta ocasión el principal objetivo de la policía secreta alemana es el líder checo y héroe de la resistencia Victor Laszlo, cuya única esperanza es Rick Blaine, propietario del 'Rick’s Café' y antiguo amante de su mujer, Ilsa. Cuando Ilsa se ofrece a quedarse a cambio de un visado para sacar a Laszlo del país, Rick deberá elegir entre su propia felicidad o el idealismo que rigió su vida en el pasado.",
         "año": "1943",
+        "tmdb_id": 289,
         "nota": "KLASIKOAK 2026"
+    },
+    {
+        "título": "Inurri Itsuak (Las ciegas hormigas)",
+        "cartel": "imagenes_peliculas/tmdb_8trpydaq8wm3dfgiabo0lnluecn.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-10-09",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102726&eventCode=114522"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Igor Legarreta",
+        "duración": "100 min",
+        "actores": "Urko Olazábal, Itziar Ituño, Josean Bengoetxea, Miren Gaztañaga, Unax Hayden",
+        "sinopsis": "Bizkaia, 1935. Un duro temporal hace encallar un barco inglés con toneladas de carbón en su interior. Durante la noche, los vecinos de Algorta se agolpan en la costa para rescatar el oro negro. Sabas Jauregui lo ve como un golpe de suerte; Josefa, su esposa, como un mal presagio. Sin atender sus ruegos, Sabas arrastra a sus hijos hacia la violenta tormenta. La familia hará lo impensable por proteger el carbón que podría salvarles del invierno… o condenarles para siempre.",
+        "año": "2026",
+        "tmdb_id": 1454616,
+        "nota": null
     },
     {
         "título": "El hombre mosca",
@@ -140,6 +164,7 @@
         "actores": "Harold Lloyd, Mildred Davis, Bill Strother, Noah Young, Westcott Clarke",
         "sinopsis": "La obra maestra de Harold Lloyd. La escena del genial cómico escalando un edificio supone uno de los momentos más grandes del cine mudo y su clímax -Harold colgado de las manillas del reloj- sigue siendo una de las escenas estelares de la historia del séptimo arte.",
         "año": "1923",
+        "tmdb_id": 22596,
         "nota": "KLASIKOAK 2026"
     },
     {
@@ -153,13 +178,8 @@
             },
             {
                 "fecha": "2026-09-30",
-                "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92746&eventCode=113321"
-            },
-            {
-                "fecha": "2026-09-30",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92747&eventCode=113321"
+                "enlace_entradas": ""
             },
             {
                 "fecha": "2026-10-01",
@@ -238,6 +258,7 @@
         "actores": "Saoirse Ronan, Eddie Waller, Nia Brown, Jacob Anderson, Rakie Ayola",
         "sinopsis": "Una maestra de primaria con dificultades empieza a tomar decisiones cuestionables después de que uno de sus alumnos resulta herido.",
         "año": "2026",
+        "tmdb_id": 1198654,
         "nota": null
     },
     {
@@ -247,7 +268,7 @@
             {
                 "fecha": "2026-09-30",
                 "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92738&eventCode=105007"
+                "enlace_entradas": ""
             },
             {
                 "fecha": "2026-10-01",
@@ -261,6 +282,7 @@
         "actores": "Enric Auquer, Diana Gómez, Mónica López, Pablo Derqui, Israel Elejalde",
         "sinopsis": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
         "año": "2026",
+        "tmdb_id": 1549315,
         "nota": null
     },
     {
@@ -304,6 +326,7 @@
         "actores": "Bella Ramsey, Daniel Quinn-Toye, Ruby Stokes, Earl Cave, Conrad Khan",
         "sinopsis": "Ivy, de 17 años y con cáncer, asiste a regañadientes a un campamento para jóvenes pacientes. Contra pronóstico, se hace amiga de un grupo peculiar y vive un verano inolvidable.",
         "año": "2026",
+        "tmdb_id": 1280015,
         "nota": null
     },
     {
@@ -322,6 +345,7 @@
         "actores": null,
         "sinopsis": "Después de años de silencio sobre el aborto que vivió en su adolescencia, Marta recibe un centenar de testimonios anónimos de mujeres que han vivido lo mismo que ella. Llevando estas historias a la pantalla, junto con seis chicas que dan voz y rostro a estos relatos silenciados, abre un espacio compartido donde lo silenciado se convierte en colectivo. La dirección Marta Durán Lozano es directora y guionista. Licenciada en Comunicación Audiovisual, también cursó el Máster en Documental de Creación de la Universitat Pompeu Fabra. En el marco del máster comenzó a desarrollar Les culpables , su ópera prima. La película es una producción de Boogaloo Films y Guspira Films, y ha pasado por Acción Viver de Dones Visuals, DOK Co-Pro Market y D’A Film Lab, entre otros. También ha recibido el Premio al Mejor Proyecto en Desarrollo en el Atlàntida Mallorca Talents Lab y uno de los Premios Laya 2025 por la reflexión y defensa de los derechos humanos. Actualmente, es residente de la Residencia de Guiones de la Academia del Cine Catalán, donde escribe su primera película de ficción, El prec de les feres , bajo la tutoría de Pol Guasch. Premios y festivales Sección oficial en el DocsBarcelona, 2026 Thessaloniki International Documentary Festival, Film Forward Competition 2026",
         "año": "2026",
+        "tmdb_id": 1638839,
         "nota": "Doc del mes"
     },
     {
@@ -340,6 +364,7 @@
         "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson",
         "sinopsis": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
         "año": "2019",
+        "tmdb_id": 299534,
         "nota": null
     }
 ]
