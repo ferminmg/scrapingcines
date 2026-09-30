@@ -23,8 +23,14 @@ Detección
 
 Envío
   - Cada móvil se registra desde la app en Firestore, colección
-    "dispositivos": {token, todos, cines}. Se envía a cada token solo lo de
-    sus cines (o todo, si eligió "todos"). Los tokens caducados se borran.
+    "dispositivos": {token, todos, cines, novedades, seguidas}. Se envía a
+    cada token solo lo de sus cines (o todo, si eligió "todos"); con
+    novedades=false no recibe los avisos generales. Los tokens caducados se
+    borran.
+  - "seguidas" son las películas que el móvil sigue desde Próximos estrenos
+    ("tmdb_id|título"). Cuando una de ellas aparece en VOSE en cualquier cine
+    recibe un aviso propio ("¡Ya en VOSE!"), aunque no tenga ese cine y
+    aunque las novedades salgan agrupadas en un resumen.
     (Antes se usaban temas de FCM, pero no se entregaban de forma fiable.)
   - Credenciales: variable de entorno FIREBASE_SERVICE_ACCOUNT con el JSON de
     la cuenta de servicio de Firebase. Si no existe, solo se muestra lo que se
@@ -122,9 +128,12 @@ def parejas_actuales(carpeta, hoy):
                     'cine': cine_sesion,
                     'tema': tema_de_cine(cine_sesion),
                     'pelicula': normalizar(titulo),
+                    'tmdb_ids': set(),
                     'sesiones': [],
                 })
                 info['sesiones'].extend(sesiones)
+                if peli.get('tmdb_id'):
+                    info['tmdb_ids'].add(str(peli['tmdb_id']))
     for info in parejas.values():
         info['sesiones'].sort()
     return parejas
@@ -162,6 +171,8 @@ def construir_aviso(parejas_nuevas, hoy):
     return {
         'titulo': titulo,
         'pelicula': parejas_nuevas[0]['pelicula'],
+        'tmdb_ids': sorted({i for p in parejas_nuevas
+                            for i in p.get('tmdb_ids', ())}),
         'temas': [p['tema'] for p in parejas_nuevas],
         'cines': cines,
         'notificacion': {
@@ -187,6 +198,8 @@ def construir_resumen(avisos):
             'title': f'{len(titulos)} películas nuevas en VOSE',
             'body': cuerpo,
         },
+        # Para avisar aparte a quien sigue alguna de ellas
+        'avisos': avisos,
     }
 
 
@@ -299,11 +312,17 @@ class ClienteFirebase:
                 cines = [v.get('stringValue', '') for v in
                          campos.get('cines', {}).get('arrayValue', {})
                          .get('values', [])]
+                seguidas = [v.get('stringValue', '') for v in
+                            campos.get('seguidas', {}).get('arrayValue', {})
+                            .get('values', [])]
                 resultado.append({
                     'nombre': doc['name'],
                     'token': token,
                     'todos': campos.get('todos', {}).get('booleanValue', True),
                     'cines': {normalizar(c) for c in cines if c},
+                    'novedades': campos.get('novedades', {})
+                    .get('booleanValue', True),
+                    'seguidas': leer_seguidas(seguidas),
                 })
             pagina = datos.get('nextPageToken')
             if not pagina:
@@ -328,10 +347,65 @@ class ClienteFirebase:
 
 
 def quiere_aviso(dispositivo, aviso):
-    """¿Sigue este móvil alguno de los cines del aviso?"""
+    """¿Quiere este móvil los avisos generales de alguno de estos cines?"""
+    if not dispositivo.get('novedades', True):
+        return False
     if dispositivo['todos']:
         return True
     return any(normalizar(c) in dispositivo['cines'] for c in aviso['cines'])
+
+
+def leer_seguidas(valores):
+    """'tmdb_id|título' (el id puede faltar) -> {'ids': set, 'titulos': set}."""
+    ids, titulos = set(), set()
+    for valor in valores:
+        tmdb_id, _, titulo = str(valor).partition('|')
+        if tmdb_id.strip().isdigit():
+            ids.add(tmdb_id.strip())
+        if normalizar(titulo):
+            titulos.add(normalizar(titulo))
+    return {'ids': ids, 'titulos': titulos}
+
+
+def avisos_individuales(pendientes):
+    """Los avisos por película, sacando los que van dentro de un resumen."""
+    for aviso in pendientes:
+        if aviso.get('tipo') == 'resumen':
+            yield from aviso.get('avisos', [])
+        else:
+            yield aviso
+
+
+def sigue_pelicula(dispositivo, aviso):
+    """¿Sigue este móvil la película del aviso? Por id de TMDb o por título."""
+    seguidas = dispositivo.get('seguidas') or {}
+    if set(aviso.get('tmdb_ids') or ()) & seguidas.get('ids', set()):
+        return True
+    return aviso.get('pelicula') in seguidas.get('titulos', set())
+
+
+def aviso_seguida(aviso):
+    """Versión personal del aviso para quien sigue la película."""
+    return {
+        **aviso,
+        'tipo': 'seguida',
+        'notificacion': {
+            'title': f'¡Ya en VOSE! {aviso["titulo"]}',
+            'body': aviso['notificacion']['body'],
+        },
+    }
+
+
+def avisos_para(dispositivo, pendientes):
+    """Lo que hay que enviar a un móvil: los avisos generales de sus cines y,
+    aparte, los de las películas que sigue (en lugar del general de esa
+    película, si también le tocaba)."""
+    seguidos = [a for a in avisos_individuales(pendientes)
+                if sigue_pelicula(dispositivo, a)]
+    ya = {a['pelicula'] for a in seguidos}
+    generales = [a for a in pendientes
+                 if quiere_aviso(dispositivo, a) and a['pelicula'] not in ya]
+    return generales + [aviso_seguida(a) for a in seguidos]
 
 
 def mensaje_para(aviso, token):
@@ -339,6 +413,8 @@ def mensaje_para(aviso, token):
     if aviso.get('titulo'):
         datos['titulo'] = aviso['titulo']
     agrupacion = aviso['pelicula'][:60]
+    if aviso.get('tipo') == 'seguida':
+        agrupacion = ('seguida_' + aviso['pelicula'])[:60]
     return {
         'message': {
             'token': token,
@@ -387,23 +463,26 @@ def enviar(args):
 
     fallos = 0
     caducados = set()
-    for aviso in pendientes:
-        titulo = aviso['notificacion']['title']
-        enviados = 0
-        for d in dispositivos:
-            if d['nombre'] in caducados or not quiere_aviso(d, aviso):
-                continue
+    enviados = {}
+    for d in dispositivos:
+        for aviso in avisos_para(d, pendientes):
+            if d['nombre'] in caducados:
+                break
+            titulo = aviso['notificacion']['title']
             ok, caducado, detalle = cliente.enviar(
                 mensaje_para(aviso, d['token']))
             if ok:
-                enviados += 1
+                enviados[titulo] = enviados.get(titulo, 0) + 1
             elif caducado:
                 caducados.add(d['nombre'])
                 cliente.borrar(d['nombre'])
             else:
                 fallos += 1
                 print(f'::warning::FCM al enviar «{titulo}»: {detalle}')
-        print(f'✅ «{titulo}»: enviado a {enviados} móvil(es)')
+    for titulo, cuantos in enviados.items():
+        print(f'✅ «{titulo}»: enviado a {cuantos} móvil(es)')
+    if not enviados:
+        print('ℹ️ Ningún móvil tenía que recibir estos avisos.')
     if caducados:
         print(f'🧹 {len(caducados)} registro(s) con token caducado borrado(s)')
     return 1 if fallos else 0

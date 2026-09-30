@@ -88,6 +88,7 @@ class TMDbAPI:
                 return {}
 
             return {
+                "tmdb_id": movie_id,
                 "director": ", ".join(c["name"] for c in credits.get("crew", []) if c["job"] == "Director"),
                 "duración": f"{details.get('runtime', 'Desconocido')} min",
                 "actores": ", ".join(a["name"] for a in credits.get("cast", [])[:5]),
@@ -250,7 +251,8 @@ for cine in datos['d']['Cinemas']:
                             'duración': tmdb_info.get('duración'),
                             'actores': tmdb_info.get('actores'),
                             'sinopsis': tmdb_info.get('sinopsis'),
-                            'año': tmdb_info.get('año')
+                            'año': tmdb_info.get('año'),
+                            'tmdb_id': tmdb_info.get('tmdb_id')
                         }
                         peliculas_filmaffinity.append(info)
 
