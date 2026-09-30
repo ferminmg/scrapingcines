@@ -134,7 +134,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:26"
+    "última_actualización": "2026-09-30 22:18:53"
   },
   {
     "id": 1388805,
@@ -1678,7 +1678,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-09-30 10:20:28"
+    "última_actualización": "2026-09-30 22:18:55"
   },
   {
     "id": 1398507,
@@ -1809,7 +1809,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:19"
+    "última_actualización": "2026-09-30 22:18:52"
   },
   {
     "id": 1400837,
@@ -1967,20 +1967,10 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 1280
-        },
-        {
-          "aspect_ratio": 0.668,
-          "height": 2046,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/dguVtBthMcKGX7ksRwKqk8CAxK5.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1366
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:05"
+    "última_actualización": "2026-09-30 22:18:49"
   },
   {
     "id": 1140521,
@@ -2149,7 +2139,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:06"
+    "última_actualización": "2026-09-30 22:18:49"
   },
   {
     "id": 1469342,
@@ -2298,7 +2288,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:08"
+    "última_actualización": "2026-09-30 22:18:50"
   },
   {
     "id": 1542261,
@@ -2441,7 +2431,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:09"
+    "última_actualización": "2026-09-30 22:18:50"
   },
   {
     "id": 1107216,
@@ -2455,15 +2445,15 @@
     "backdrop_local": "imagenes_estrenos/Mascotas_al_rescate_backdrop_3Gjo73aMqNWxNdBa7PeEj7AXJ3E.jpg",
     "fecha_estreno": "2026-10-09T00:00:00.000Z",
     "duración": "86 min",
-    "director": "Jean-Christian Tassy, Benoît Daffis",
+    "director": "Benoît Daffis, Jean-Christian Tassy",
     "directores": [
-      {
-        "name": "Jean-Christian Tassy",
-        "id": 930739
-      },
       {
         "name": "Benoît Daffis",
         "id": 3988259
+      },
+      {
+        "name": "Jean-Christian Tassy",
+        "id": 930739
       }
     ],
     "actores": [
@@ -2521,8 +2511,8 @@
       }
     ],
     "popularidad": 7.1259,
-    "puntuación": 7.1,
-    "votos": 72,
+    "puntuación": 7.155,
+    "votos": 74,
     "adulto": false,
     "video": false,
     "año": "2025",
@@ -2612,7 +2602,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:10"
+    "última_actualización": "2026-09-30 22:18:50"
   },
   {
     "id": 1258181,
@@ -2747,158 +2737,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:15"
-  },
-  {
-    "id": 1752487,
-    "tmdb_id": 1752487,
-    "título": "Petros Eni",
-    "título_original": "Petros Eni",
-    "sinopsis": "Sigue el descubrimiento de la tumba de San Pedro a través de imágenes raras, mientras Constantino arrasaba la colina del Vaticano para construir la primera basílica alrededor de este lugar sagrado.",
-    "poster_path": "/wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
-    "poster_local": "imagenes_estrenos/Petros_Eni_wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
-    "backdrop_path": "/5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
-    "backdrop_local": "imagenes_estrenos/Petros_Eni_backdrop_5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
-    "fecha_estreno": "2026-10-09T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Paula Ortiz",
-    "directores": [
-      {
-        "name": "Paula Ortiz",
-        "id": 932115
-      }
-    ],
-    "actores": [
-      {
-        "name": "Chris Pratt",
-        "id": 73457,
-        "character": "Self - Guide",
-        "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 2.3777,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 900,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1600
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.711,
-          "height": 2362,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1680
-        }
-      ]
-    },
-    "última_actualización": "2026-09-30 10:20:16"
-  },
-  {
-    "id": 1583381,
-    "tmdb_id": 1583381,
-    "título": "Perla",
-    "título_original": "Perla",
-    "sinopsis": "Vicente Espinel es un músico folclórico que lucha por preservar la tradición en un mundo cada vez más dominado por el reguetón. Su vida cambia cuando se cruza con Perla, una artista urbana audaz y carismática. Su conexión desata un choque entre tradición e innovación.",
-    "poster_path": "/m4k2mgJrbnWy8GpJ4IG2RiWWqec.jpg",
-    "poster_local": "imagenes_estrenos/Perla_m4k2mgJrbnWy8GpJ4IG2RiWWqec.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-10-09T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "David Norris",
-    "directores": [
-      {
-        "name": "David Norris",
-        "id": 1400375
-      }
-    ],
-    "actores": [
-      {
-        "name": "Zuleyka Rivera",
-        "id": 1238065,
-        "character": "Perla",
-        "profile_path": null
-      },
-      {
-        "name": "Carlos Ponce",
-        "id": 62067,
-        "character": "Vicente Espinel",
-        "profile_path": "/elNTDau1yinXHgWht9EInLDftxH.jpg"
-      },
-      {
-        "name": "Paz Vega",
-        "id": 3627,
-        "character": "Frances",
-        "profile_path": "/fNLlJysFd5f0Q8Lj20EZpU8BiRN.jpg"
-      },
-      {
-        "name": "Georgina Borri",
-        "id": 1504019,
-        "character": "",
-        "profile_path": "/d5wqq6LACul5DJZzu2FLM4n6dxD.jpg"
-      },
-      {
-        "name": "Modesto Lacen",
-        "id": 64326,
-        "character": "",
-        "profile_path": "/t6Li2XdnKtTAAec2nlaxbZkGvDZ.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 10402,
-        "name": "Música"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 2.3399,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.707,
-          "height": 1440,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/m4k2mgJrbnWy8GpJ4IG2RiWWqec.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1018
-        }
-      ]
-    },
-    "última_actualización": "2026-09-30 10:20:16"
+    "última_actualización": "2026-09-30 22:18:52"
   },
   {
     "id": 1623608,
@@ -3003,7 +2842,158 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:16"
+    "última_actualización": "2026-09-30 22:18:52"
+  },
+  {
+    "id": 1752487,
+    "tmdb_id": 1752487,
+    "título": "Petros Eni",
+    "título_original": "Petros Eni",
+    "sinopsis": "Sigue el descubrimiento de la tumba de San Pedro a través de imágenes raras, mientras Constantino arrasaba la colina del Vaticano para construir la primera basílica alrededor de este lugar sagrado.",
+    "poster_path": "/wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
+    "poster_local": "imagenes_estrenos/Petros_Eni_wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
+    "backdrop_path": "/5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
+    "backdrop_local": "imagenes_estrenos/Petros_Eni_backdrop_5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Paula Ortiz",
+    "directores": [
+      {
+        "name": "Paula Ortiz",
+        "id": 932115
+      }
+    ],
+    "actores": [
+      {
+        "name": "Chris Pratt",
+        "id": 73457,
+        "character": "Self - Guide",
+        "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 2.3777,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5YOPkXbow0PjcZb1FccKG95bcKU.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1600
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.711,
+          "height": 2362,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wE0JjTeqxkSxvAyuGsq6FPZwDVY.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1680
+        }
+      ]
+    },
+    "última_actualización": "2026-09-30 22:18:52"
+  },
+  {
+    "id": 1583381,
+    "tmdb_id": 1583381,
+    "título": "Perla",
+    "título_original": "Perla",
+    "sinopsis": "Vicente Espinel es un músico folclórico que lucha por preservar la tradición en un mundo cada vez más dominado por el reguetón. Su vida cambia cuando se cruza con Perla, una artista urbana audaz y carismática. Su conexión desata un choque entre tradición e innovación.",
+    "poster_path": "/m4k2mgJrbnWy8GpJ4IG2RiWWqec.jpg",
+    "poster_local": "imagenes_estrenos/Perla_m4k2mgJrbnWy8GpJ4IG2RiWWqec.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-10-09T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "David Norris",
+    "directores": [
+      {
+        "name": "David Norris",
+        "id": 1400375
+      }
+    ],
+    "actores": [
+      {
+        "name": "Zuleyka Rivera",
+        "id": 1238065,
+        "character": "Perla",
+        "profile_path": null
+      },
+      {
+        "name": "Carlos Ponce",
+        "id": 62067,
+        "character": "Vicente Espinel",
+        "profile_path": "/elNTDau1yinXHgWht9EInLDftxH.jpg"
+      },
+      {
+        "name": "Paz Vega",
+        "id": 3627,
+        "character": "Frances",
+        "profile_path": "/fNLlJysFd5f0Q8Lj20EZpU8BiRN.jpg"
+      },
+      {
+        "name": "Georgina Borri",
+        "id": 1504019,
+        "character": "",
+        "profile_path": "/d5wqq6LACul5DJZzu2FLM4n6dxD.jpg"
+      },
+      {
+        "name": "Modesto Lacen",
+        "id": 64326,
+        "character": "",
+        "profile_path": "/t6Li2XdnKtTAAec2nlaxbZkGvDZ.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 10402,
+        "name": "Música"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 2.3399,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.707,
+          "height": 1440,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/m4k2mgJrbnWy8GpJ4IG2RiWWqec.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1018
+        }
+      ]
+    },
+    "última_actualización": "2026-09-30 22:18:52"
   },
   {
     "id": 1518395,
@@ -3087,7 +3077,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:17"
+    "última_actualización": "2026-09-30 22:18:52"
   },
   {
     "id": 1573952,
@@ -3165,7 +3155,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:26"
+    "última_actualización": "2026-09-30 22:18:54"
   },
   {
     "id": 1454616,
@@ -3274,7 +3264,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:27"
+    "última_actualización": "2026-09-30 22:18:54"
   },
   {
     "id": 1733562,
@@ -3363,7 +3353,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:27"
+    "última_actualización": "2026-09-30 22:18:54"
   },
   {
     "id": 1381078,
@@ -3487,7 +3477,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-30 10:20:14"
+    "última_actualización": "2026-09-30 22:18:52"
   },
   {
     "id": 950028,
@@ -3555,8 +3545,8 @@
       }
     ],
     "popularidad": 42.6751,
-    "puntuación": 7.224,
-    "votos": 683,
+    "puntuación": 7.219,
+    "votos": 686,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3666,7 +3656,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:05"
+    "última_actualización": "2026-09-30 22:18:49"
   },
   {
     "id": 1153576,
@@ -3841,7 +3831,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:06"
+    "última_actualización": "2026-09-30 22:18:49"
   },
   {
     "id": 1244523,
@@ -3965,7 +3955,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-30 10:20:07"
+    "última_actualización": "2026-09-30 22:18:50"
   },
   {
     "id": 964849,
@@ -4096,7 +4086,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:07"
+    "última_actualización": "2026-09-30 22:18:50"
   },
   {
     "id": 1255833,
@@ -4247,7 +4237,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:09"
+    "última_actualización": "2026-09-30 22:18:50"
   },
   {
     "id": 1572116,
@@ -4375,7 +4365,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-30 10:20:10"
+    "última_actualización": "2026-09-30 22:18:50"
   },
   {
     "id": 1553969,
@@ -4439,7 +4429,7 @@
       }
     ],
     "popularidad": 6.1121,
-    "puntuación": 6.315,
+    "puntuación": 6.3,
     "votos": 27,
     "adulto": false,
     "video": false,
@@ -4550,7 +4540,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:11"
+    "última_actualización": "2026-09-30 22:18:51"
   },
   {
     "id": 1299799,
@@ -4699,7 +4689,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:12"
+    "última_actualización": "2026-09-30 22:18:51"
   },
   {
     "id": 1233199,
@@ -4852,7 +4842,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:16"
+    "última_actualización": "2026-09-30 22:18:52"
   },
   {
     "id": 1494231,
@@ -4936,7 +4926,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:19"
+    "última_actualización": "2026-09-30 22:18:53"
   },
   {
     "id": 1482560,
@@ -5067,7 +5057,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:25"
+    "última_actualización": "2026-09-30 22:18:53"
   },
   {
     "id": 1370210,
@@ -5144,7 +5134,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:26"
+    "última_actualización": "2026-09-30 22:18:54"
   },
   {
     "id": 1704191,
@@ -5214,7 +5204,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:28"
+    "última_actualización": "2026-09-30 22:18:54"
   },
   {
     "id": 1777746,
@@ -5286,7 +5276,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-30 10:20:28"
+    "última_actualización": "2026-09-30 22:18:53"
   },
   {
     "id": 1745267,
@@ -5385,7 +5375,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:29"
+    "última_actualización": "2026-09-30 22:18:55"
   },
   {
     "id": 1624445,
@@ -5429,7 +5419,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:28"
+    "última_actualización": "2026-09-30 22:18:54"
   },
   {
     "id": 1400940,
@@ -5439,7 +5429,7 @@
     "sinopsis": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
     "poster_path": "/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
     "poster_local": "imagenes_estrenos/Clayface_6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-    "backdrop_path": "/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+    "backdrop_path": "/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
     "backdrop_local": "imagenes_estrenos/Clayface_backdrop_xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
     "fecha_estreno": "2026-10-23T00:00:00.000Z",
     "duración": "108 min",
@@ -5506,13 +5496,13 @@
       "backdrops": [
         {
           "aspect_ratio": 1.778,
-          "height": 2160,
+          "height": 1389,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
+          "file_path": "/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
+          "vote_average": 6.722,
+          "vote_count": 6,
+          "width": 2469
         },
         {
           "aspect_ratio": 1.778,
@@ -5526,26 +5516,6 @@
         },
         {
           "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
-          "vote_average": 2.066,
-          "vote_count": 5,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1389,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
-          "vote_average": 1.75,
-          "vote_count": 4,
-          "width": 2469
-        },
-        {
-          "aspect_ratio": 1.778,
           "height": 1393,
           "iso_3166_1": null,
           "iso_639_1": null,
@@ -5553,6 +5523,26 @@
           "vote_average": 1.75,
           "vote_count": 2,
           "width": 2477
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1394,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3AO85pPyxW2nu0FLDWYTtNmPGzd.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2478
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6rf6LGpJODbxo36WSCHqbC5CAKO.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
         }
       ],
       "posters": [
@@ -5608,7 +5598,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:06"
+    "última_actualización": "2026-09-30 22:18:49"
   },
   {
     "id": 1503762,
@@ -5783,7 +5773,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:07"
+    "última_actualización": "2026-09-30 22:18:49"
   },
   {
     "id": 791523,
@@ -5962,7 +5952,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:09"
+    "última_actualización": "2026-09-30 22:18:50"
   },
   {
     "id": 1184941,
@@ -6103,7 +6093,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:11"
+    "última_actualización": "2026-09-30 22:18:51"
   },
   {
     "id": 1620313,
@@ -6231,7 +6221,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-30 10:20:13"
+    "última_actualización": "2026-09-30 22:18:51"
   },
   {
     "id": 1727734,
@@ -6326,98 +6316,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:15"
-  },
-  {
-    "id": 1689901,
-    "tmdb_id": 1689901,
-    "título": "¿Me entiendes o te lo explico?",
-    "título_original": "¿Me entiendes o te lo explico?",
-    "sinopsis": "En 1992, en el barrio madrileño de Chueca, Pepe, el desafortunado gerente de una taberna catalana en horas bajas, toma una decisión drástica. Para salvarle, sus amigos deciden resucitar su bar reconvirtiéndolo en un pub de ambiente gay.",
-    "poster_path": "/qZVmxoLIjLjayEprI8BYYP6ZXcc.jpg",
-    "poster_local": "imagenes_estrenos/_Me_entiendes_o_te_lo_explico__qZVmxoLIjLjayEprI8BYYP6ZXcc.jpg",
-    "backdrop_path": "/yiRvtmSZJc7sKErb8hEaNn63kFB.jpg",
-    "backdrop_local": "imagenes_estrenos/_Me_entiendes_o_te_lo_explico__backdrop_yiRvtmSZJc7sKErb8hEaNn63kFB.jpg",
-    "fecha_estreno": "2026-10-23T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Jordi Calvet",
-    "directores": [
-      {
-        "name": "Jordi Calvet",
-        "id": 4601134
-      }
-    ],
-    "actores": [
-      {
-        "name": "Pablo Puyol",
-        "id": 118207,
-        "character": "",
-        "profile_path": "/z5wX0hV0AdKoXM1tcL6F0ClvPcA.jpg"
-      },
-      {
-        "name": "Octavi Pujades",
-        "id": 1206197,
-        "character": "",
-        "profile_path": "/3NV9BMnPVTq4Mn7Y3kPp9Tkl3Da.jpg"
-      },
-      {
-        "name": "Santiago Urrialde",
-        "id": 1093955,
-        "character": "",
-        "profile_path": "/qt1k5Y2eMOLbkS7EdhnGv6Cg8Ex.jpg"
-      },
-      {
-        "name": "Mayte Rodríguez",
-        "id": 2004128,
-        "character": "",
-        "profile_path": "/DhA25STlwOe6qrOa96HRy7GsFa.jpg"
-      },
-      {
-        "name": "Cristina Medina",
-        "id": 1405735,
-        "character": "",
-        "profile_path": "/2yK0XIO81LcwAjivVmtfAwSPlHW.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 1.9793,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/yiRvtmSZJc7sKErb8hEaNn63kFB.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 2250,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/qZVmxoLIjLjayEprI8BYYP6ZXcc.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1500
-        }
-      ]
-    },
-    "última_actualización": "2026-09-30 10:20:17"
+    "última_actualización": "2026-09-30 22:18:51"
   },
   {
     "id": 1574074,
@@ -6556,7 +6455,155 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:18"
+    "última_actualización": "2026-09-30 22:18:52"
+  },
+  {
+    "id": 1689901,
+    "tmdb_id": 1689901,
+    "título": "¿Me entiendes o te lo explico?",
+    "título_original": "¿Me entiendes o te lo explico?",
+    "sinopsis": "En 1992, en el barrio madrileño de Chueca, Pepe, el desafortunado gerente de una taberna catalana en horas bajas, toma una decisión drástica. Para salvarle, sus amigos deciden resucitar su bar reconvirtiéndolo en un pub de ambiente gay.",
+    "poster_path": "/qZVmxoLIjLjayEprI8BYYP6ZXcc.jpg",
+    "poster_local": "imagenes_estrenos/_Me_entiendes_o_te_lo_explico__qZVmxoLIjLjayEprI8BYYP6ZXcc.jpg",
+    "backdrop_path": "/yiRvtmSZJc7sKErb8hEaNn63kFB.jpg",
+    "backdrop_local": "imagenes_estrenos/_Me_entiendes_o_te_lo_explico__backdrop_yiRvtmSZJc7sKErb8hEaNn63kFB.jpg",
+    "fecha_estreno": "2026-10-23T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Jordi Calvet",
+    "directores": [
+      {
+        "name": "Jordi Calvet",
+        "id": 4601134
+      }
+    ],
+    "actores": [
+      {
+        "name": "Pablo Puyol",
+        "id": 118207,
+        "character": "",
+        "profile_path": "/z5wX0hV0AdKoXM1tcL6F0ClvPcA.jpg"
+      },
+      {
+        "name": "Octavi Pujades",
+        "id": 1206197,
+        "character": "",
+        "profile_path": "/3NV9BMnPVTq4Mn7Y3kPp9Tkl3Da.jpg"
+      },
+      {
+        "name": "Santiago Urrialde",
+        "id": 1093955,
+        "character": "",
+        "profile_path": "/qt1k5Y2eMOLbkS7EdhnGv6Cg8Ex.jpg"
+      },
+      {
+        "name": "Mayte Rodríguez",
+        "id": 2004128,
+        "character": "",
+        "profile_path": "/DhA25STlwOe6qrOa96HRy7GsFa.jpg"
+      },
+      {
+        "name": "Cristina Medina",
+        "id": 1405735,
+        "character": "",
+        "profile_path": "/2yK0XIO81LcwAjivVmtfAwSPlHW.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 1.9793,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/yiRvtmSZJc7sKErb8hEaNn63kFB.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 2250,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/qZVmxoLIjLjayEprI8BYYP6ZXcc.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1500
+        }
+      ]
+    },
+    "última_actualización": "2026-09-30 22:18:52"
+  },
+  {
+    "id": 1744346,
+    "tmdb_id": 1744346,
+    "título": "Superthings: La película",
+    "título_original": "Superthings: La película",
+    "sinopsis": "",
+    "poster_path": "/ncJXMB0MbDiXIpqCdNSN4MYRe3k.jpg",
+    "poster_local": "imagenes_estrenos/Superthings__La_pel_cula_ncJXMB0MbDiXIpqCdNSN4MYRe3k.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-10-23T00:00:00.000Z",
+    "duración": "92 min",
+    "director": "Víctor Monigote",
+    "directores": [
+      {
+        "name": "Víctor Monigote",
+        "id": 131587
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 1.3585,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/ncJXMB0MbDiXIpqCdNSN4MYRe3k.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2026-09-30 22:18:53"
   },
   {
     "id": 1327147,
@@ -6654,64 +6701,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-30 10:20:25"
-  },
-  {
-    "id": 1744346,
-    "tmdb_id": 1744346,
-    "título": "Superthings: La película",
-    "título_original": "Superthings: La película",
-    "sinopsis": "",
-    "poster_path": "/ncJXMB0MbDiXIpqCdNSN4MYRe3k.jpg",
-    "poster_local": "imagenes_estrenos/Superthings__La_pel_cula_ncJXMB0MbDiXIpqCdNSN4MYRe3k.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-10-23T00:00:00.000Z",
-    "duración": "92 min",
-    "director": "Víctor Monigote",
-    "directores": [
-      {
-        "name": "Víctor Monigote",
-        "id": 131587
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 28,
-        "name": "Acción"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 1.3585,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/ncJXMB0MbDiXIpqCdNSN4MYRe3k.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2026-09-30 10:20:25"
+    "última_actualización": "2026-09-30 22:18:53"
   },
   {
     "id": 1689329,
@@ -6784,7 +6774,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-09-30 10:20:26"
+    "última_actualización": "2026-09-30 22:18:53"
   },
   {
     "id": 1393726,
@@ -6852,7 +6842,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-30 10:20:27"
+    "última_actualización": "2026-09-30 22:18:54"
   },
   {
     "id": 1780585,
@@ -6901,7 +6891,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:29"
+    "última_actualización": "2026-09-30 22:18:55"
   },
   {
     "id": 1437396,
@@ -7040,7 +7030,7 @@
         }
       ]
     },
-    "última_actualización": "2026-09-30 10:20:10"
+    "última_actualización": "2026-09-30 22:18:50"
   },
   {
     "id": 1596275,
@@ -7124,7 +7114,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-30 10:20:12"
+    "última_actualización": "2026-09-30 22:18:51"
   },
   {
     "id": 1515139,
@@ -7248,6 +7238,6 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-09-30 10:20:14"
+    "última_actualización": "2026-09-30 22:18:51"
   }
 ]
