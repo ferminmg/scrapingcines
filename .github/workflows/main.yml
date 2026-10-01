@@ -77,7 +77,7 @@ jobs:
       - name: 🔍 Verificar archivos necesarios
         run: |
           echo "🔍 Verificando scripts necesarios..."
-          for script in scraping_golem.py scraping_yelmo.py scraper_modificado.py integrador.py scrape_ghostintheblog.py proximos_estrenos.py; do
+          for script in scraping_golem.py scraping_yelmo.py scraper_modificado.py integrador.py sesiones_manuales.py scrape_ghostintheblog.py proximos_estrenos.py; do
             if [ -f "$script" ]; then
               echo "✅ $script encontrado"
             else
@@ -118,6 +118,14 @@ jobs:
             echo "⚠️ No se generó archivo temporal de Filmoteca"
             echo "Integrador Filmoteca: no se generó peliculas_filmoteca_scraping.json" >> "$FALLOS_SCRAPERS"
           fi
+
+      # Ciclos que no publica la web de ningún cine (CineTag...): se apuntan a
+      # mano en sesiones_manuales.json y se añaden a peliculas_vose.json.
+      - name: ✍️ Sesiones apuntadas a mano
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: |
+          python sesiones_manuales.py || { echo "⚠️ Error en sesiones manuales, continuando..."; echo "Sesiones manuales: falló la ejecución" >> "$FALLOS_SCRAPERS"; }
 
       - name: 👻 Scraping Ghost in the Blog
         run: |
