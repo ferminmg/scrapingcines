@@ -1,24 +1,5 @@
 [
     {
-        "título": "En el corazón de la bestia",
-        "cartel": "imagenes_peliculas/tmdb_h9ql2vsltcouf44c28ninxjzl2m.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-10-01",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102596&eventCode=111594"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "David Ayer",
-        "duración": "101 min",
-        "actores": "Brad Pitt, J.K. Simmons, Anna Lambe, Justin Melnick, Shaun DeZern",
-        "sinopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-        "año": "2026",
-        "tmdb_id": 1263337,
-        "nota": null
-    },
-    {
         "título": "Digger",
         "cartel": "imagenes_peliculas/tmdb_koqe0v2igipvy5o2vvkogjvnb8b.jpg",
         "horarios": [
@@ -144,19 +125,72 @@
         "nota": "KLASIKOAK 2026"
     },
     {
+        "título": "Yojimbo",
+        "cartel": "imagenes_peliculas/1789372849.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-10-22",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102602&eventCode=114840"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Akira Kurosawa",
+        "duración": "110 min",
+        "actores": "Toshirō Mifune,Tatsuya Nakadai, Yokô Tsukasa, Isuzu Yamada, Daisuke Kato",
+        "sinopsis": "XIX. mendean, artean feudalismoaren mendeko Japonian, samurai bat herrixka batera iristen da. Han, bi mertzenario-banda elkarren artean borrokan ari dira, lurraldea zeinek kontrolatuko. Iritsi berriak ezagun du gudari garaiezina dela, eta, horretaz jabeturik, bi taldeetako buruak haren zerbitzuak kontratatzen saiatuko dira. En el siglo XIX, en un Japón todavía feudal, un samurái llega a un poblado donde dos bandas de mercenarios luchan entre sí por el control del territorio. Muy pronto el recién llegado da muestras de ser un guerrero invencible, por lo que los jefes de ambos grupos intentan contratar sus servicios.",
+        "año": null,
+        "tmdb_id": null,
+        "nota": "KLASIKOAK 2026"
+    },
+    {
+        "título": "Sunny Dancer",
+        "cartel": "imagenes_peliculas/tmdb_mxdejpftosvflezv1qyoih2n53e.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-10-02",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92773&eventCode=114750"
+            },
+            {
+                "fecha": "2026-10-03",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92789&eventCode=114750"
+            },
+            {
+                "fecha": "2026-10-04",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92803&eventCode=114750"
+            },
+            {
+                "fecha": "2026-10-05",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92817&eventCode=114750"
+            },
+            {
+                "fecha": "2026-10-06",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92835&eventCode=114750"
+            },
+            {
+                "fecha": "2026-10-07",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92838&eventCode=114750"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "George Jaques",
+        "duración": "106 min",
+        "actores": "Bella Ramsey, Daniel Quinn-Toye, Ruby Stokes, Earl Cave, Conrad Khan",
+        "sinopsis": "Ivy, de 17 años y con cáncer, asiste a regañadientes a un campamento para jóvenes pacientes. Contra pronóstico, se hace amiga de un grupo peculiar y vive un verano inolvidable.",
+        "año": "2026",
+        "tmdb_id": 1280015,
+        "nota": null
+    },
+    {
         "título": "Bad Apples",
         "cartel": "imagenes_peliculas/tmdb_sdgb5jvuz6zoh4yjtsmmnbovkci.jpg",
         "horarios": [
-            {
-                "fecha": "2026-10-01",
-                "hora": "17:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92759&eventCode=113321"
-            },
-            {
-                "fecha": "2026-10-01",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92761&eventCode=113321"
-            },
             {
                 "fecha": "2026-10-02",
                 "hora": "19:30",
@@ -223,69 +257,6 @@
         "nota": null
     },
     {
-        "título": "Cronos",
-        "cartel": "imagenes_peliculas/tmdb_wz6utsmbzdoln1fctb8hwbhpiqv.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-10-01",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92752&eventCode=105007"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Fernando González Molina",
-        "duración": "118 min",
-        "actores": "Enric Auquer, Diana Gómez, Mónica López, Pablo Derqui, Israel Elejalde",
-        "sinopsis": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
-        "año": "2026",
-        "tmdb_id": 1549315,
-        "nota": null
-    },
-    {
-        "título": "Sunny Dancer",
-        "cartel": "imagenes_peliculas/tmdb_mxdejpftosvflezv1qyoih2n53e.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-10-02",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92773&eventCode=114750"
-            },
-            {
-                "fecha": "2026-10-03",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92789&eventCode=114750"
-            },
-            {
-                "fecha": "2026-10-04",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92803&eventCode=114750"
-            },
-            {
-                "fecha": "2026-10-05",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92817&eventCode=114750"
-            },
-            {
-                "fecha": "2026-10-06",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92835&eventCode=114750"
-            },
-            {
-                "fecha": "2026-10-07",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92838&eventCode=114750"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "George Jaques",
-        "duración": "106 min",
-        "actores": "Bella Ramsey, Daniel Quinn-Toye, Ruby Stokes, Earl Cave, Conrad Khan",
-        "sinopsis": "Ivy, de 17 años y con cáncer, asiste a regañadientes a un campamento para jóvenes pacientes. Contra pronóstico, se hace amiga de un grupo peculiar y vive un verano inolvidable.",
-        "año": "2026",
-        "tmdb_id": 1280015,
-        "nota": null
-    },
-    {
         "título": "Les culpables",
         "cartel": "imagenes_peliculas/tmdb_l7ep3ghfvvumau3q4didjx7n1cj.jpg",
         "horarios": [
@@ -303,25 +274,6 @@
         "año": "2026",
         "tmdb_id": 1638839,
         "nota": "Doc del mes"
-    },
-    {
-        "título": "Vengadores Endgame: Encore",
-        "cartel": "imagenes_peliculas/tmdb_br6krbfpaymcsgllbwruhui7tpc.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-10-01",
-                "hora": "20:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=228909&eventCode=114121"
-            }
-        ],
-        "cine": "Golem La Morea",
-        "director": "Anthony Russo, Joe Russo",
-        "duración": "181 min",
-        "actores": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson",
-        "sinopsis": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
-        "año": "2019",
-        "tmdb_id": 299534,
-        "nota": null
     },
     {
         "título": "La pianista",
