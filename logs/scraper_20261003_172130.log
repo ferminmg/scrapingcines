@@ -1,0 +1,57 @@
+2026-10-03 17:21:30,340 - INFO - Iniciando proceso de scraping
+2026-10-03 17:21:30,342 - INFO - Posts existentes encontrados: 2607
+2026-10-03 17:21:30,342 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-10-03 17:21:32,421 - INFO - Se encontraron 10 posts
+2026-10-03 17:21:32,422 - INFO - Comenzando extracción de información del post
+2026-10-03 17:21:32,422 - WARNING - No se pudo extraer director del título: LA BOLA NEGRA de Los Javis (Javier Calvo y Javier Ambrossi)
+2026-10-03 17:21:32,422 - INFO - Título del post: LA BOLA NEGRA de Los Javis (Javier Calvo y Javier Ambrossi)
+2026-10-03 17:21:32,423 - INFO - Fecha del post: 2026-10-03T16:26:40+02:00
+2026-10-03 17:21:32,423 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/la-bola-negra-de-los-javis-javier-calvo-y-javier-ambrossi/
+2026-10-03 17:21:34,873 - INFO - Contenido extraído y estructurado (4576 caracteres)
+2026-10-03 17:21:34,873 - INFO - Director obtenido del contenido: Los Javis (Javier Calvo y Javier Ambrossi) Guion: Javier Cal
+2026-10-03 17:21:34,874 - INFO - Guardando post en: posts/LA_BOLA_NEGRA_de_Los_Javis_(Javier_Calvo_y_Javier_Ambrossi)_2026-10-03.json
+2026-10-03 17:21:34,875 - INFO - Post guardado exitosamente
+2026-10-03 17:21:34,875 - INFO - Actualizando índice de películas
+2026-10-03 17:21:34,875 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-10-03 17:21:34,879 - INFO - Índice existente cargado con 2704 películas
+2026-10-03 17:21:34,889 - INFO - Película agregada al índice: LA BOLA NEGRA de Los Javis (Javier Calvo y Javier Ambrossi)
+2026-10-03 17:21:34,889 - INFO - Nuevo post guardado: LA BOLA NEGRA de Los Javis (Javier Calvo y Javier Ambrossi)
+2026-10-03 17:21:34,889 - INFO - Comenzando extracción de información del post
+2026-10-03 17:21:34,890 - INFO - Título del post: EN EL CORAZÓN DE LA BESTIA de David Ayer
+2026-10-03 17:21:34,890 - INFO - Fecha del post: 2026-10-03T16:16:31+02:00
+2026-10-03 17:21:34,890 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/en-el-corazon-de-la-bestia/
+2026-10-03 17:21:37,205 - INFO - Contenido extraído y estructurado (2764 caracteres)
+2026-10-03 17:21:37,206 - INFO - Guardando post en: posts/EN_EL_CORAZÓN_DE_LA_BESTIA_2026-10-03.json
+2026-10-03 17:21:37,206 - INFO - Post guardado exitosamente
+2026-10-03 17:21:37,206 - INFO - Actualizando índice de películas
+2026-10-03 17:21:37,206 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-10-03 17:21:37,210 - INFO - Índice existente cargado con 2705 películas
+2026-10-03 17:21:37,220 - INFO - Película agregada al índice: EN EL CORAZÓN DE LA BESTIA
+2026-10-03 17:21:37,220 - INFO - Nuevo post guardado: EN EL CORAZÓN DE LA BESTIA de David Ayer
+2026-10-03 17:21:37,220 - INFO - Comenzando extracción de información del post
+2026-10-03 17:21:37,220 - INFO - Título del post: LA ISLA OLVIDADA de Joel Crawford y Januel Mercado
+2026-10-03 17:21:37,220 - INFO - Fecha del post: 2026-10-03T16:08:28+02:00
+2026-10-03 17:21:37,220 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/la-isla-olvidada-de-joel-crawford-y-januel-mercado/
+2026-10-03 17:21:39,504 - INFO - Contenido extraído y estructurado (2813 caracteres)
+2026-10-03 17:21:39,505 - INFO - Guardando post en: posts/LA_ISLA_OLVIDADA_2026-10-03.json
+2026-10-03 17:21:39,506 - INFO - Post guardado exitosamente
+2026-10-03 17:21:39,506 - INFO - Actualizando índice de películas
+2026-10-03 17:21:39,506 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-10-03 17:21:39,509 - INFO - Índice existente cargado con 2706 películas
+2026-10-03 17:21:39,520 - INFO - Película agregada al índice: LA ISLA OLVIDADA
+2026-10-03 17:21:39,520 - INFO - Nuevo post guardado: LA ISLA OLVIDADA de Joel Crawford y Januel Mercado
+2026-10-03 17:21:39,520 - INFO - Comenzando extracción de información del post
+2026-10-03 17:21:39,520 - INFO - Post ya existente, saltando: SUS HIJOS de Pablo Trapero
+2026-10-03 17:21:39,520 - INFO - Comenzando extracción de información del post
+2026-10-03 17:21:39,520 - INFO - Post ya existente, saltando: TIEMPO DE VICTORIA de Anthony Maras
+2026-10-03 17:21:39,520 - INFO - Comenzando extracción de información del post
+2026-10-03 17:21:39,521 - INFO - Post ya existente, saltando: COYOTE VS. ACME de Dave Green
+2026-10-03 17:21:39,521 - INFO - Comenzando extracción de información del post
+2026-10-03 17:21:39,521 - INFO - Post ya existente, saltando: BAD APPLES de Jonatan Etzler
+2026-10-03 17:21:39,521 - INFO - Comenzando extracción de información del post
+2026-10-03 17:21:39,521 - INFO - Post ya existente, saltando: FORASTERA de Lucía Aleñar Iglesias
+2026-10-03 17:21:39,521 - INFO - Comenzando extracción de información del post
+2026-10-03 17:21:39,521 - INFO - Post ya existente, saltando: EL LADRÓN DE PERROS de Vinko Tomicic
+2026-10-03 17:21:39,521 - INFO - Comenzando extracción de información del post
+2026-10-03 17:21:39,521 - INFO - Post ya existente, saltando: CRONOS de Fernando González Molina
+2026-10-03 17:21:39,521 - INFO - Proceso completado. Posts nuevos guardados: 3
