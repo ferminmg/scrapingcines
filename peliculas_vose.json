@@ -1,29 +1,5 @@
 [
     {
-        "título": "Digger",
-        "cartel": "imagenes_peliculas/tmdb_koqe0v2igipvy5o2vvkogjvnb8b.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-10-07",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102709&eventCode=105052"
-            },
-            {
-                "fecha": "2026-10-08",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102722&eventCode=105052"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "Alejandro González Iñárritu",
-        "duración": "128 min",
-        "actores": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
-        "sinopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-        "año": "2026",
-        "tmdb_id": 1248832,
-        "nota": null
-    },
-    {
         "título": "Casablanca",
         "cartel": "imagenes_peliculas/tmdb_a7ejycgnsyw6qqjqdood9eqgz4r.jpg",
         "horarios": [
@@ -41,6 +17,25 @@
         "año": "1943",
         "tmdb_id": 289,
         "nota": "KLASIKOAK 2026"
+    },
+    {
+        "título": "Digger",
+        "cartel": "imagenes_peliculas/tmdb_koqe0v2igipvy5o2vvkogjvnb8b.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-10-08",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102722&eventCode=105052"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Alejandro González Iñárritu",
+        "duración": "128 min",
+        "actores": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
+        "sinopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+        "año": "2026",
+        "tmdb_id": 1248832,
+        "nota": null
     },
     {
         "título": "El precio de la red",
@@ -249,33 +244,9 @@
         "nota": "KLASIKOAK 2026"
     },
     {
-        "título": "Les culpables",
-        "cartel": "imagenes_peliculas/tmdb_l7ep3ghfvvumau3q4didjx7n1cj.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-10-07",
-                "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92311&eventCode=113898"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Marta Duran Lozano",
-        "duración": "85 min",
-        "actores": null,
-        "sinopsis": "Después de años de silencio sobre el aborto que vivió en su adolescencia, Marta recibe un centenar de testimonios anónimos de mujeres que han vivido lo mismo que ella. Llevando estas historias a la pantalla, junto con seis chicas que dan voz y rostro a estos relatos silenciados, abre un espacio compartido donde lo silenciado se convierte en colectivo. La dirección Marta Durán Lozano es directora y guionista. Licenciada en Comunicación Audiovisual, también cursó el Máster en Documental de Creación de la Universitat Pompeu Fabra. En el marco del máster comenzó a desarrollar Les culpables , su ópera prima. La película es una producción de Boogaloo Films y Guspira Films, y ha pasado por Acción Viver de Dones Visuals, DOK Co-Pro Market y D’A Film Lab, entre otros. También ha recibido el Premio al Mejor Proyecto en Desarrollo en el Atlàntida Mallorca Talents Lab y uno de los Premios Laya 2025 por la reflexión y defensa de los derechos humanos. Actualmente, es residente de la Residencia de Guiones de la Academia del Cine Catalán, donde escribe su primera película de ficción, El prec de les feres , bajo la tutoría de Pol Guasch. Premios y festivales Sección oficial en el DocsBarcelona, 2026 Thessaloniki International Documentary Festival, Film Forward Competition 2026",
-        "año": "2026",
-        "tmdb_id": 1638839,
-        "nota": "Doc del mes"
-    },
-    {
         "título": "Sunny Dancer",
         "cartel": "imagenes_peliculas/tmdb_tmjpj4lmax8qcwlkpwtzpyz5u78.jpg",
         "horarios": [
-            {
-                "fecha": "2026-10-07",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92838&eventCode=114750"
-            },
             {
                 "fecha": "2026-10-08",
                 "hora": "21:30",
@@ -295,11 +266,6 @@
         "título": "Bad Apples",
         "cartel": "imagenes_peliculas/tmdb_sdgb5jvuz6zoh4yjtsmmnbovkci.jpg",
         "horarios": [
-            {
-                "fecha": "2026-10-07",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92853&eventCode=113321"
-            },
             {
                 "fecha": "2026-10-08",
                 "hora": "21:30",
