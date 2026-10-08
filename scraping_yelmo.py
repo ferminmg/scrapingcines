@@ -108,6 +108,24 @@ def nombre_cartel_tmdb(poster_path: str) -> str:
     base = re.sub(r'[^A-Za-z0-9_-]', '', os.path.splitext(os.path.basename(poster_path or ''))[0])
     return f"tmdb_{base}.jpg"
 
+def descargar_cartel(url, destino):
+    """Descarga una imagen sin tumbar el scraper si falla (403, 404, timeout...).
+
+    Devuelve True si el fichero queda disponible en 'destino'.
+    """
+    if os.path.exists(destino):
+        return True
+    try:
+        peticion = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(peticion, timeout=20) as respuesta, open(destino, 'wb') as f:
+            f.write(respuesta.read())
+        return True
+    except Exception as e:
+        print(f"No se pudo descargar el cartel {url}: {e}")
+        if os.path.exists(destino):
+            os.remove(destino)
+        return False
+
 # Crear directorio para las imágenes si no existe
 IMAGES_DIR = "imagenes_filmaffinity"
 if not os.path.exists(IMAGES_DIR):
@@ -215,16 +233,15 @@ for cine in datos['d']['Cinemas']:
                     poster_url = pelicula['Poster']
                     poster_filename = os.path.join(IMAGES_DIR, f"{pelicula['Key']}.jpg")
 
-                    if not os.path.exists(poster_filename):
-                        urllib.request.urlretrieve(poster_url, poster_filename)
+                    if not descargar_cartel(poster_url, poster_filename):
+                        poster_filename = ''
 
                     tmdb_info = tmdb_api.get_movie_info(pelicula['Title'])
                     if tmdb_info.get('poster_path'):
                         tmdb_poster_url = f"https://image.tmdb.org/t/p/w500{tmdb_info['poster_path']}"
                         tmdb_poster_filename = os.path.join(IMAGES_DIR, nombre_cartel_tmdb(tmdb_info['poster_path']))
-                        if not os.path.exists(tmdb_poster_filename):
-                            urllib.request.urlretrieve(tmdb_poster_url, tmdb_poster_filename)
-                        poster_filename = tmdb_poster_filename
+                        if descargar_cartel(tmdb_poster_url, tmdb_poster_filename):
+                            poster_filename = tmdb_poster_filename
 
                     pelicula_existente = next(
                         (p for p in peliculas_filmaffinity if p['título'] == pelicula['Title']),
