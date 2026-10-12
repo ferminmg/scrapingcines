@@ -1,33 +1,5 @@
 [
     {
-        "título": "Always Lalisa",
-        "cartel": "imagenes_filmaffinity/tmdb_pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-10-12",
-                "hora": "20:05",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=33201"
-            },
-            {
-                "fecha": "2026-10-14",
-                "hora": "20:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=33202"
-            },
-            {
-                "fecha": "2026-10-17",
-                "hora": "20:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=33203"
-            }
-        ],
-        "cine": "Yelmo Itaroa",
-        "director": "Sue Kim",
-        "duración": "98 min",
-        "actores": "LISA",
-        "sinopsis": "",
-        "año": "2026",
-        "tmdb_id": 1489932
-    },
-    {
         "título": "La otra madre",
         "cartel": "imagenes_filmaffinity/tmdb_vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
         "horarios": [
@@ -98,6 +70,29 @@
         "sinopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
         "año": "2026",
         "tmdb_id": 1263337
+    },
+    {
+        "título": "Always Lalisa",
+        "cartel": "imagenes_filmaffinity/tmdb_pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-10-14",
+                "hora": "20:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=33202"
+            },
+            {
+                "fecha": "2026-10-17",
+                "hora": "20:00",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=33203"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Sue Kim",
+        "duración": "98 min",
+        "actores": "LISA",
+        "sinopsis": "",
+        "año": "2026",
+        "tmdb_id": 1489932
     },
     {
         "título": "Godzilla Minus Zero",
