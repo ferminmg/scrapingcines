@@ -1,0 +1,36 @@
+2026-10-14 22:16:31,449 - INFO - Iniciando proceso de scraping
+2026-10-14 22:16:31,451 - INFO - Posts existentes encontrados: 2610
+2026-10-14 22:16:31,451 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-10-14 22:16:33,698 - INFO - Se encontraron 10 posts
+2026-10-14 22:16:33,699 - INFO - Comenzando extracción de información del post
+2026-10-14 22:16:33,699 - INFO - Título del post: VERITY, LA SOMBRA DE UN ENGAÑO de Michael Showalter
+2026-10-14 22:16:33,700 - INFO - Fecha del post: 2026-10-15T00:13:22+02:00
+2026-10-14 22:16:33,700 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/critica-verity-anne-hathaway-dakota-johnson/
+2026-10-14 22:16:36,442 - INFO - Contenido extraído y estructurado (2851 caracteres)
+2026-10-14 22:16:36,442 - INFO - Guardando post en: posts/VERITY,_LA_SOMBRA_DE_UN_ENGAÑO_2026-10-15.json
+2026-10-14 22:16:36,443 - INFO - Post guardado exitosamente
+2026-10-14 22:16:36,443 - INFO - Actualizando índice de películas
+2026-10-14 22:16:36,443 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-10-14 22:16:36,448 - INFO - Índice existente cargado con 2707 películas
+2026-10-14 22:16:36,459 - INFO - Película agregada al índice: VERITY, LA SOMBRA DE UN ENGAÑO
+2026-10-14 22:16:36,459 - INFO - Nuevo post guardado: VERITY, LA SOMBRA DE UN ENGAÑO de Michael Showalter
+2026-10-14 22:16:36,459 - INFO - Comenzando extracción de información del post
+2026-10-14 22:16:36,460 - WARNING - No se pudo extraer director del título: LA BOLA NEGRA de Los Javis (Javier Calvo y Javier Ambrossi)
+2026-10-14 22:16:36,460 - INFO - Post ya existente, saltando: LA BOLA NEGRA de Los Javis (Javier Calvo y Javier Ambrossi)
+2026-10-14 22:16:36,460 - INFO - Comenzando extracción de información del post
+2026-10-14 22:16:36,460 - INFO - Post ya existente, saltando: EN EL CORAZÓN DE LA BESTIA de David Ayer
+2026-10-14 22:16:36,460 - INFO - Comenzando extracción de información del post
+2026-10-14 22:16:36,460 - INFO - Post ya existente, saltando: LA ISLA OLVIDADA de Joel Crawford y Januel Mercado
+2026-10-14 22:16:36,460 - INFO - Comenzando extracción de información del post
+2026-10-14 22:16:36,460 - INFO - Post ya existente, saltando: SUS HIJOS de Pablo Trapero
+2026-10-14 22:16:36,460 - INFO - Comenzando extracción de información del post
+2026-10-14 22:16:36,460 - INFO - Post ya existente, saltando: TIEMPO DE VICTORIA de Anthony Maras
+2026-10-14 22:16:36,460 - INFO - Comenzando extracción de información del post
+2026-10-14 22:16:36,460 - INFO - Post ya existente, saltando: COYOTE VS. ACME de Dave Green
+2026-10-14 22:16:36,461 - INFO - Comenzando extracción de información del post
+2026-10-14 22:16:36,461 - INFO - Post ya existente, saltando: BAD APPLES de Jonatan Etzler
+2026-10-14 22:16:36,461 - INFO - Comenzando extracción de información del post
+2026-10-14 22:16:36,461 - INFO - Post ya existente, saltando: FORASTERA de Lucía Aleñar Iglesias
+2026-10-14 22:16:36,461 - INFO - Comenzando extracción de información del post
+2026-10-14 22:16:36,461 - INFO - Post ya existente, saltando: EL LADRÓN DE PERROS de Vinko Tomicic
+2026-10-14 22:16:36,461 - INFO - Proceso completado. Posts nuevos guardados: 1
