@@ -4,11 +4,6 @@
         "cartel": "imagenes_filmaffinity/tmdb_pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
         "horarios": [
             {
-                "fecha": "2026-10-14",
-                "hora": "20:00",
-                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=33202"
-            },
-            {
                 "fecha": "2026-10-17",
                 "hora": "20:00",
                 "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=33203"
@@ -21,6 +16,24 @@
         "sinopsis": "",
         "año": "2026",
         "tmdb_id": 1489932
+    },
+    {
+        "título": "La invitación.",
+        "cartel": "imagenes_filmaffinity/tmdb_21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-10-20",
+                "hora": "22:40",
+                "enlace_entradas": "https://compra.yelmocines.es/?cinemaVistaId=982&showtimeVistaId=34115"
+            }
+        ],
+        "cine": "Yelmo Itaroa",
+        "director": "Olivia Wilde",
+        "duración": "107 min",
+        "actores": "Olivia Wilde, Seth Rogen, Penélope Cruz, Edward Norton",
+        "sinopsis": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
+        "año": "2026",
+        "tmdb_id": 950028
     },
     {
         "título": "Godzilla Minus Zero",
