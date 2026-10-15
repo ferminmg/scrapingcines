@@ -1,13 +1,27 @@
 [
     {
+        "título": "El hombre mosca",
+        "cartel": "imagenes_peliculas/tmdb_zkmdkznpm8zgflgkheqflxgrf8q.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-10-15",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102603&eventCode=114648"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Fred C. Newmeyer, Sam Taylor",
+        "duración": "70 min",
+        "actores": "Harold Lloyd, Mildred Davis, Bill Strother, Noah Young, Westcott Clarke",
+        "sinopsis": "La obra maestra de Harold Lloyd. La escena del genial cómico escalando un edificio supone uno de los momentos más grandes del cine mudo y su clímax -Harold colgado de las manillas del reloj- sigue siendo una de las escenas estelares de la historia del séptimo arte.",
+        "año": "1923",
+        "tmdb_id": 22596,
+        "nota": "KLASIKOAK 2026"
+    },
+    {
         "título": "El precio de la red",
         "cartel": "imagenes_peliculas/tmdb_xt7yxocpgjqzalcutr9ifdf8oyb.jpg",
         "horarios": [
-            {
-                "fecha": "2026-10-14",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102813&eventCode=113558"
-            },
             {
                 "fecha": "2026-10-15",
                 "hora": "22:15",
@@ -27,21 +41,6 @@
         "título": "Inurri Itsuak (Las ciegas hormigas)",
         "cartel": "imagenes_peliculas/tmdb_8trpydaq8wm3dfgiabo0lnluecn.jpg",
         "horarios": [
-            {
-                "fecha": "2026-10-14",
-                "hora": "17:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102814&eventCode=114522"
-            },
-            {
-                "fecha": "2026-10-14",
-                "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102815&eventCode=114522"
-            },
-            {
-                "fecha": "2026-10-14",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102816&eventCode=114522"
-            },
             {
                 "fecha": "2026-10-15",
                 "hora": "17:15",
@@ -158,25 +157,6 @@
         "nota": null
     },
     {
-        "título": "El hombre mosca",
-        "cartel": "imagenes_peliculas/tmdb_zkmdkznpm8zgflgkheqflxgrf8q.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-10-15",
-                "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102603&eventCode=114648"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "Fred C. Newmeyer, Sam Taylor",
-        "duración": "70 min",
-        "actores": "Harold Lloyd, Mildred Davis, Bill Strother, Noah Young, Westcott Clarke",
-        "sinopsis": "La obra maestra de Harold Lloyd. La escena del genial cómico escalando un edificio supone uno de los momentos más grandes del cine mudo y su clímax -Harold colgado de las manillas del reloj- sigue siendo una de las escenas estelares de la historia del séptimo arte.",
-        "año": "1923",
-        "tmdb_id": 22596,
-        "nota": "KLASIKOAK 2026"
-    },
-    {
         "título": "La Invitación",
         "cartel": "imagenes_peliculas/tmdb_21jnfycarirkms9azhttxizkbij.jpg",
         "horarios": [
@@ -248,26 +228,6 @@
         "título": "Naza",
         "cartel": "imagenes_peliculas/tmdb_urm4mncgiscxowqdnwexsutvkag.jpg",
         "horarios": [
-            {
-                "fecha": "2026-10-14",
-                "hora": "17:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92951&eventCode=115052"
-            },
-            {
-                "fecha": "2026-10-14",
-                "hora": "18:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92941&eventCode=115052"
-            },
-            {
-                "fecha": "2026-10-14",
-                "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92952&eventCode=115052"
-            },
-            {
-                "fecha": "2026-10-14",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92953&eventCode=115052"
-            },
             {
                 "fecha": "2026-10-15",
                 "hora": "18:30",
@@ -362,11 +322,6 @@
         "título": "Su propio infierno",
         "cartel": "imagenes_peliculas/tmdb_esxmzxygfz2x0rs0tfuak6leuzd.jpg",
         "horarios": [
-            {
-                "fecha": "2026-10-14",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92940&eventCode=114636"
-            },
             {
                 "fecha": "2026-10-15",
                 "hora": "21:30",
@@ -479,6 +434,25 @@
         "año": "2026",
         "tmdb_id": 1553969,
         "nota": null
+    },
+    {
+        "título": "Numakage Public Pool",
+        "cartel": "imagenes_peliculas/1787132146.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-11-04",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92312&eventCode=113901"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Shingo Ota",
+        "duración": "80 min",
+        "actores": null,
+        "sinopsis": "Durante más de cincuenta años, Numakage, una piscina pública suburbana de Tokio, ha sido un punto de encuentro entre personas mayores, familias y comunidades de cruising gay. Ante su demolición, a pesar de la oposición local, la película recorre el duelo colectivo a través de las cinco etapas de Kübler-Ross, cuestionando una pérdida normalmente reservada a la muerte humana. La historia Durante más de cincuenta años, Numakage, una piscina pública suburbana de Tokio, ha sido un punto de encuentro entre personas mayores, familias y comunidades de cruising gay. Ante su demolición, a pesar de la oposición local, la película recorre el duelo colectivo a través de las cinco etapas de Kübler-Ross, cuestionando una pérdida normalmente reservada a la muerte humana. La dirección Shingo nació en 1985, en la prefectura de Nagano. Se graduó en la Universidad de Waseda, donde estudió Filosofía y Narratología. Su primer largometraje documental, The End of the Special Time We Were Allowed (2013), se presentó en el Festival Internacional de Cine Documental de Yamagata 2013 y se distribuyó en doce países de todo el mundo. At Kinosaki (2022) ganó el Premio a la Excelencia en el Festival Internacional de Cine Fantástico de Yubari 2022. La producción escénica The Last Geishas combina artes escénicas y documental, y tuvo su estreno mundial en el Festival d’Automne, el mayor festival de artes escénicas de Europa, en 2024. Premios y festivales Selección Oficial – Tessaloniki Documentary Festival 2026 (Croacia) Selección Oficial – Docs&Ciutat – DocsBarcelona 2026 (España) Premio del Jurado étudiant – Competición Oficial KINOTAYO Film Festival 2025 (Francia)",
+        "año": null,
+        "tmdb_id": null,
+        "nota": "Doc del mes"
     },
     {
         "título": "Los 400 golpes",
