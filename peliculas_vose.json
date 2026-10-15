@@ -44,7 +44,7 @@
             {
                 "fecha": "2026-10-15",
                 "hora": "17:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102830&eventCode=114522"
+                "enlace_entradas": ""
             },
             {
                 "fecha": "2026-10-15",
@@ -230,8 +230,18 @@
         "horarios": [
             {
                 "fecha": "2026-10-15",
+                "hora": "17:15",
+                "enlace_entradas": ""
+            },
+            {
+                "fecha": "2026-10-15",
                 "hora": "18:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=92956&eventCode=115052"
+            },
+            {
+                "fecha": "2026-10-15",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93118&eventCode=115052"
             },
             {
                 "fecha": "2026-10-15",
