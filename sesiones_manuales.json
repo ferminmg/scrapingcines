@@ -1,0 +1,72 @@
+{
+    "_instrucciones": "Sesiones VOSE que no publica ninguna web de cine (ciclos, centros culturales...). Una entrada por sesión. Obligatorios: título, cine, fecha (AAAA-MM-DD) y hora (HH:MM). Conviene poner director y año para que TMDb encuentre la película correcta, y título_original si el título en castellano es ambiguo. Opcionales: nota (aparece bajo el horario) y enlace (venta o información). Las sesiones pasadas se ignoran solas.",
+    "sesiones": [
+        {
+            "título": "Los domingos",
+            "director": "Alauda Ruiz de Azúa",
+            "año": 2025,
+            "cine": "Casa de la Juventud",
+            "fecha": "2026-09-12",
+            "hora": "18:00",
+            "nota": "CineTag · Con coloquio · Entrada libre"
+        },
+        {
+            "título": "La chica zurda",
+            "título_original": "Left-Handed Girl",
+            "director": "Shih-Ching Tsou",
+            "año": 2025,
+            "cine": "Casa de la Juventud",
+            "fecha": "2026-09-26",
+            "hora": "18:00",
+            "nota": "CineTag · Con coloquio · Entrada libre"
+        },
+        {
+            "título": "La pianista",
+            "título_original": "La Pianiste",
+            "director": "Michael Haneke",
+            "año": 2001,
+            "cine": "Casa de la Juventud",
+            "fecha": "2026-10-10",
+            "hora": "18:00",
+            "nota": "CineTag · Con coloquio · Entrada libre"
+        },
+        {
+            "título": "Los 400 golpes",
+            "título_original": "Les Quatre Cents Coups",
+            "director": "François Truffaut",
+            "año": 1959,
+            "cine": "Casa de la Juventud",
+            "fecha": "2026-10-24",
+            "hora": "18:00",
+            "nota": "CineTag · Con coloquio · Entrada libre"
+        },
+        {
+            "título": "Hereditary",
+            "director": "Ari Aster",
+            "año": 2018,
+            "cine": "Casa de la Juventud",
+            "fecha": "2026-11-07",
+            "hora": "18:00",
+            "nota": "CineTag · Con coloquio · Entrada libre"
+        },
+        {
+            "título": "Lost in Translation",
+            "director": "Sofia Coppola",
+            "año": 2003,
+            "cine": "Casa de la Juventud",
+            "fecha": "2026-11-21",
+            "hora": "18:00",
+            "nota": "CineTag · Con coloquio · Entrada libre"
+        },
+        {
+            "título": "Valor sentimental",
+            "título_original": "Affeksjonsverdi",
+            "director": "Joachim Trier",
+            "año": 2025,
+            "cine": "Casa de la Juventud",
+            "fecha": "2026-12-12",
+            "hora": "18:00",
+            "nota": "CineTag · Con coloquio · Entrada libre"
+        }
+    ]
+}
