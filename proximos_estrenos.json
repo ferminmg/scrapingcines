@@ -116,7 +116,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:35"
+    "última_actualización": "2026-10-20 22:16:41"
   },
   {
     "id": 1745146,
@@ -165,7 +165,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-10-20 10:16:38"
+    "última_actualización": "2026-10-20 22:16:43"
   },
   {
     "id": 1745267,
@@ -308,7 +308,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:39"
+    "última_actualización": "2026-10-20 22:16:44"
   },
   {
     "id": 1775906,
@@ -398,7 +398,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-10-20 10:16:37"
+    "última_actualización": "2026-10-20 22:16:44"
   },
   {
     "id": 1788146,
@@ -471,7 +471,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-10-20 10:16:38"
+    "última_actualización": "2026-10-20 22:16:44"
   },
   {
     "id": 1503762,
@@ -646,7 +646,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:29"
+    "última_actualización": "2026-10-20 22:16:36"
   },
   {
     "id": 1400940,
@@ -656,7 +656,7 @@
     "sinopsis": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
     "poster_path": "/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
     "poster_local": "imagenes_estrenos/Clayface_6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-    "backdrop_path": "/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
+    "backdrop_path": "/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
     "backdrop_local": "imagenes_estrenos/Clayface_backdrop_xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
     "fecha_estreno": "2026-10-23T00:00:00.000Z",
     "duración": "108 min",
@@ -714,8 +714,8 @@
       }
     ],
     "popularidad": 74.4426,
-    "puntuación": 8.0,
-    "votos": 13,
+    "puntuación": 8.222,
+    "votos": 18,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -723,12 +723,22 @@
       "backdrops": [
         {
           "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+          "vote_average": 8.034,
+          "vote_count": 5,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
-          "vote_average": 4.818,
-          "vote_count": 11,
+          "vote_average": 4.154,
+          "vote_count": 13,
           "width": 3840
         },
         {
@@ -737,19 +747,9 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
-          "vote_average": 4.3,
-          "vote_count": 10,
+          "vote_average": 3.666,
+          "vote_count": 12,
           "width": 2469
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
-          "vote_average": 3.334,
-          "vote_count": 3,
-          "width": 1920
         },
         {
           "aspect_ratio": 1.778,
@@ -763,13 +763,13 @@
         },
         {
           "aspect_ratio": 1.778,
-          "height": 1392,
+          "height": 1390,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
-          "vote_average": 2.066,
-          "vote_count": 5,
-          "width": 2475
+          "file_path": "/e1iAjnhQsM6Z9bYTOxNFxFY6CfG.jpg",
+          "vote_average": 2.278,
+          "vote_count": 4,
+          "width": 2472
         }
       ],
       "posters": [
@@ -825,7 +825,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:30"
+    "última_actualización": "2026-10-20 22:16:37"
   },
   {
     "id": 791523,
@@ -893,8 +893,8 @@
       }
     ],
     "popularidad": 19.4079,
-    "puntuación": 9.3,
-    "votos": 3,
+    "puntuación": 9.5,
+    "votos": 4,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1004,7 +1004,96 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:31"
+    "última_actualización": "2026-10-20 22:16:37"
+  },
+  {
+    "id": 1727734,
+    "tmdb_id": 1727734,
+    "título": "Ali G: Kién es yo?",
+    "título_original": "Ali G: Who Iz I?",
+    "sinopsis": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
+    "poster_path": "/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+    "poster_local": "imagenes_estrenos/Ali_G__Ki_n_es_yo__uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+    "backdrop_path": "/7GxXdTAbSSLMuEVbkzoGUpx4Mvc.jpg",
+    "backdrop_local": "imagenes_estrenos/Ali_G__Ki_n_es_yo__backdrop_7GxXdTAbSSLMuEVbkzoGUpx4Mvc.jpg",
+    "fecha_estreno": "2026-10-23T00:00:00.000Z",
+    "duración": "89 min",
+    "director": "Sacha Baron Cohen",
+    "directores": [
+      {
+        "name": "Sacha Baron Cohen",
+        "id": 6730
+      }
+    ],
+    "actores": [
+      {
+        "name": "Sacha Baron Cohen",
+        "id": 6730,
+        "character": "Alistair Leslie 'Ali G' Graham/Borat Sagdiyev/Erran Morad/Dr. Nira Cain-N'Degeocello",
+        "profile_path": "/bGzXHu8zwWqUY5gEExSh3deQd2j.jpg"
+      },
+      {
+        "name": "Morgana Robinson",
+        "id": 1370805,
+        "character": "Julie",
+        "profile_path": "/guBJRfTPeLBd3RxbhzUIi3cl242.jpg"
+      },
+      {
+        "name": "C. Stewart Rodeheaver",
+        "id": 6494490,
+        "character": "Self",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "popularidad": 6.7399,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.777,
+          "height": 1800,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7GxXdTAbSSLMuEVbkzoGUpx4Mvc.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3199
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1800,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/p107jRmoulTP8mLlLIrUOrk6mdM.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3199
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wzoz6SDhcTyHJCZmG5pjvwRF2Dj.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-10-20 22:16:38"
   },
   {
     "id": 1184941,
@@ -1145,96 +1234,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:32"
-  },
-  {
-    "id": 1727734,
-    "tmdb_id": 1727734,
-    "título": "Ali G: Kién es yo?",
-    "título_original": "Ali G: Who Iz I?",
-    "sinopsis": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
-    "poster_path": "/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
-    "poster_local": "imagenes_estrenos/Ali_G__Ki_n_es_yo__uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
-    "backdrop_path": "/7GxXdTAbSSLMuEVbkzoGUpx4Mvc.jpg",
-    "backdrop_local": "imagenes_estrenos/Ali_G__Ki_n_es_yo__backdrop_7GxXdTAbSSLMuEVbkzoGUpx4Mvc.jpg",
-    "fecha_estreno": "2026-10-23T00:00:00.000Z",
-    "duración": "89 min",
-    "director": "Sacha Baron Cohen",
-    "directores": [
-      {
-        "name": "Sacha Baron Cohen",
-        "id": 6730
-      }
-    ],
-    "actores": [
-      {
-        "name": "Sacha Baron Cohen",
-        "id": 6730,
-        "character": "Alistair Leslie 'Ali G' Graham/Borat Sagdiyev/Erran Morad/Dr. Nira Cain-N'Degeocello",
-        "profile_path": "/bGzXHu8zwWqUY5gEExSh3deQd2j.jpg"
-      },
-      {
-        "name": "Morgana Robinson",
-        "id": 1370805,
-        "character": "Julie",
-        "profile_path": "/guBJRfTPeLBd3RxbhzUIi3cl242.jpg"
-      },
-      {
-        "name": "C. Stewart Rodeheaver",
-        "id": 6494490,
-        "character": "Self",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      }
-    ],
-    "popularidad": 6.7399,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.777,
-          "height": 1800,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/7GxXdTAbSSLMuEVbkzoGUpx4Mvc.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3199
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1800,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/p107jRmoulTP8mLlLIrUOrk6mdM.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3199
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wzoz6SDhcTyHJCZmG5pjvwRF2Dj.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-10-20 10:16:32"
+    "última_actualización": "2026-10-20 22:16:39"
   },
   {
     "id": 1620313,
@@ -1362,7 +1362,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-10-20 10:16:33"
+    "última_actualización": "2026-10-20 22:16:39"
   },
   {
     "id": 1689901,
@@ -1453,148 +1453,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:36"
-  },
-  {
-    "id": 1744346,
-    "tmdb_id": 1744346,
-    "título": "Superthings: La película",
-    "título_original": "Superthings: La película",
-    "sinopsis": "",
-    "poster_path": "/ncJXMB0MbDiXIpqCdNSN4MYRe3k.jpg",
-    "poster_local": "imagenes_estrenos/Superthings__La_pel_cula_ncJXMB0MbDiXIpqCdNSN4MYRe3k.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-10-23T00:00:00.000Z",
-    "duración": "92 min",
-    "director": "Víctor Monigote",
-    "directores": [
-      {
-        "name": "Víctor Monigote",
-        "id": 131587
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 16,
-        "name": "Animación"
-      },
-      {
-        "id": 28,
-        "name": "Acción"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
-      }
-    ],
-    "popularidad": 1.6199,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 750,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/ncJXMB0MbDiXIpqCdNSN4MYRe3k.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 500
-        }
-      ]
-    },
-    "última_actualización": "2026-10-20 10:16:36"
-  },
-  {
-    "id": 1689329,
-    "tmdb_id": 1689329,
-    "título": "Leones en invierno",
-    "título_original": "Leones en invierno",
-    "sinopsis": "",
-    "poster_path": "/ozr5OyKt1whnfuLei2viZsS38Kp.jpg",
-    "poster_local": "imagenes_estrenos/Leones_en_invierno_8Szs4bPM6yj11NMQiDSvtStJz8P.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-10-23T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Albert Pintó",
-    "directores": [
-      {
-        "name": "Albert Pintó",
-        "id": 1485396
-      }
-    ],
-    "actores": [
-      {
-        "name": "Luis Zahera",
-        "id": 28511,
-        "character": "",
-        "profile_path": "/ozfRIrvu8i93RJAaeWbaCLKAlPq.jpg"
-      },
-      {
-        "name": "Roberto Álamo",
-        "id": 225017,
-        "character": "",
-        "profile_path": "/hy9hZnQxGjs2svlgEXqhdSbQlAR.jpg"
-      },
-      {
-        "name": "Luis Callejo",
-        "id": 15598,
-        "character": "",
-        "profile_path": "/s4SkMqVL7cGNLuCgYDSHzOfiu1p.jpg"
-      },
-      {
-        "name": "José Manuel Poga",
-        "id": 1071638,
-        "character": "",
-        "profile_path": "/baaV0r14Jnit0OZA4jv2BTWb3QO.jpg"
-      },
-      {
-        "name": "Inma Cuesta",
-        "id": 224728,
-        "character": "",
-        "profile_path": "/mzOriC8zIS3HqjGtthO4XwLht6C.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 28,
-        "name": "Acción"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 1.4772,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/ozr5OyKt1whnfuLei2viZsS38Kp.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-10-20 10:16:36"
+    "última_actualización": "2026-10-20 22:16:41"
   },
   {
     "id": 1574074,
@@ -1733,7 +1592,64 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:37"
+    "última_actualización": "2026-10-20 22:16:42"
+  },
+  {
+    "id": 1744346,
+    "tmdb_id": 1744346,
+    "título": "Superthings: La película",
+    "título_original": "Superthings: La película",
+    "sinopsis": "",
+    "poster_path": "/ncJXMB0MbDiXIpqCdNSN4MYRe3k.jpg",
+    "poster_local": "imagenes_estrenos/Superthings__La_pel_cula_ncJXMB0MbDiXIpqCdNSN4MYRe3k.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-10-23T00:00:00.000Z",
+    "duración": "92 min",
+    "director": "Víctor Monigote",
+    "directores": [
+      {
+        "name": "Víctor Monigote",
+        "id": 131587
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 1.6199,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/ncJXMB0MbDiXIpqCdNSN4MYRe3k.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2026-10-20 22:16:42"
   },
   {
     "id": 1327147,
@@ -1831,7 +1747,91 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-10-20 10:16:37"
+    "última_actualización": "2026-10-20 22:16:42"
+  },
+  {
+    "id": 1689329,
+    "tmdb_id": 1689329,
+    "título": "Leones en invierno",
+    "título_original": "Leones en invierno",
+    "sinopsis": "",
+    "poster_path": "/ozr5OyKt1whnfuLei2viZsS38Kp.jpg",
+    "poster_local": "imagenes_estrenos/Leones_en_invierno_8Szs4bPM6yj11NMQiDSvtStJz8P.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-10-23T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Albert Pintó",
+    "directores": [
+      {
+        "name": "Albert Pintó",
+        "id": 1485396
+      }
+    ],
+    "actores": [
+      {
+        "name": "Luis Zahera",
+        "id": 28511,
+        "character": "",
+        "profile_path": "/ozfRIrvu8i93RJAaeWbaCLKAlPq.jpg"
+      },
+      {
+        "name": "Roberto Álamo",
+        "id": 225017,
+        "character": "",
+        "profile_path": "/hy9hZnQxGjs2svlgEXqhdSbQlAR.jpg"
+      },
+      {
+        "name": "Luis Callejo",
+        "id": 15598,
+        "character": "",
+        "profile_path": "/s4SkMqVL7cGNLuCgYDSHzOfiu1p.jpg"
+      },
+      {
+        "name": "José Manuel Poga",
+        "id": 1071638,
+        "character": "",
+        "profile_path": "/baaV0r14Jnit0OZA4jv2BTWb3QO.jpg"
+      },
+      {
+        "name": "Inma Cuesta",
+        "id": 224728,
+        "character": "",
+        "profile_path": "/mzOriC8zIS3HqjGtthO4XwLht6C.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 1.4772,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/ozr5OyKt1whnfuLei2viZsS38Kp.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-10-20 22:16:42"
   },
   {
     "id": 1393726,
@@ -1899,7 +1899,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-10-20 10:16:38"
+    "última_actualización": "2026-10-20 22:16:43"
   },
   {
     "id": 1688795,
@@ -1983,7 +1983,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-10-20 10:16:34"
+    "última_actualización": "2026-10-20 22:16:40"
   },
   {
     "id": 1797226,
@@ -2067,7 +2067,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-10-20 10:16:35"
+    "última_actualización": "2026-10-20 22:16:40"
   },
   {
     "id": 1797200,
@@ -2151,7 +2151,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-10-20 10:16:39"
+    "última_actualización": "2026-10-20 22:16:44"
   },
   {
     "id": 1787433,
@@ -2270,7 +2270,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:37"
+    "última_actualización": "2026-10-20 22:16:44"
   },
   {
     "id": 1780585,
@@ -2319,7 +2319,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:39"
+    "última_actualización": "2026-10-20 22:16:44"
   },
   {
     "id": 1786826,
@@ -2535,7 +2535,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:30"
+    "última_actualización": "2026-10-20 22:16:37"
   },
   {
     "id": 1515139,
@@ -2659,7 +2659,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-10-20 10:16:33"
+    "última_actualización": "2026-10-20 22:16:39"
   },
   {
     "id": 1596275,
@@ -2811,8 +2811,8 @@
       }
     ],
     "popularidad": 385.9445,
-    "puntuación": 6.895,
-    "votos": 280,
+    "puntuación": 6.868,
+    "votos": 284,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2922,7 +2922,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:29"
+    "última_actualización": "2026-10-20 22:16:36"
   },
   {
     "id": 858035,
@@ -3067,7 +3067,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:29"
+    "última_actualización": "2026-10-20 22:16:36"
   },
   {
     "id": 977942,
@@ -3135,8 +3135,8 @@
       }
     ],
     "popularidad": 98.0387,
-    "puntuación": 7.945,
-    "votos": 347,
+    "puntuación": 7.94,
+    "votos": 348,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3246,7 +3246,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:29"
+    "última_actualización": "2026-10-20 22:16:36"
   },
   {
     "id": 1284046,
@@ -3425,7 +3425,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:30"
+    "última_actualización": "2026-10-20 22:16:37"
   },
   {
     "id": 1564614,
@@ -3489,8 +3489,8 @@
       }
     ],
     "popularidad": 36.0501,
-    "puntuación": 6.781,
-    "votos": 605,
+    "puntuación": 6.786,
+    "votos": 606,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3600,7 +3600,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:30"
+    "última_actualización": "2026-10-20 22:16:37"
   },
   {
     "id": 1195803,
@@ -3614,15 +3614,15 @@
     "backdrop_local": "imagenes_estrenos/Wicker_backdrop_xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
     "fecha_estreno": "2026-10-30T00:00:00.000Z",
     "duración": "105 min",
-    "director": "Alex Huston Fischer, Eleanor Wilson",
+    "director": "Eleanor Wilson, Alex Huston Fischer",
     "directores": [
-      {
-        "name": "Alex Huston Fischer",
-        "id": 1786006
-      },
       {
         "name": "Eleanor Wilson",
         "id": 566414
+      },
+      {
+        "name": "Alex Huston Fischer",
+        "id": 1786006
       }
     ],
     "actores": [
@@ -3783,7 +3783,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:31"
+    "última_actualización": "2026-10-20 22:16:38"
   },
   {
     "id": 1477104,
@@ -3956,7 +3956,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:32"
+    "última_actualización": "2026-10-20 22:16:38"
   },
   {
     "id": 1404684,
@@ -4095,7 +4095,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:32"
+    "última_actualización": "2026-10-20 22:16:38"
   },
   {
     "id": 1365224,
@@ -4236,7 +4236,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:34"
+    "última_actualización": "2026-10-20 22:16:40"
   },
   {
     "id": 1548369,
@@ -4369,7 +4369,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:35"
+    "última_actualización": "2026-10-20 22:16:41"
   },
   {
     "id": 1547311,
@@ -4510,7 +4510,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:35"
+    "última_actualización": "2026-10-20 22:16:42"
   },
   {
     "id": 1748404,
@@ -4634,7 +4634,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-10-20 10:16:33"
+    "última_actualización": "2026-10-20 22:16:39"
   },
   {
     "id": 1662674,
@@ -4743,7 +4743,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:38"
+    "última_actualización": "2026-10-20 22:16:43"
   },
   {
     "id": 1381071,
@@ -4922,7 +4922,156 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:31"
+    "última_actualización": "2026-10-20 22:16:36"
+  },
+  {
+    "id": 656908,
+    "tmdb_id": 656908,
+    "título": "Ramayana: El Nacimiento de una Leyenda",
+    "título_original": "रामायण",
+    "sinopsis": "",
+    "poster_path": "/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
+    "poster_local": "imagenes_estrenos/Ramayana__El_Nacimiento_de_una_Leyenda_nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
+    "backdrop_path": "/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
+    "backdrop_local": "imagenes_estrenos/Ramayana__El_Nacimiento_de_una_Leyenda_backdrop_ks72NqTPhpupk207NXiqmZIQQVI.jpg",
+    "fecha_estreno": "2026-11-06T00:00:00.000Z",
+    "duración": "195 min",
+    "director": "Nitesh Tiwari",
+    "directores": [
+      {
+        "name": "Nitesh Tiwari",
+        "id": 1042010
+      }
+    ],
+    "actores": [
+      {
+        "name": "रणबीर कपूर",
+        "id": 85034,
+        "character": "Ram / Parshuram / Vishnu",
+        "profile_path": "/a5xWgKh7f4XofIl7ZwisxOi616K.jpg"
+      },
+      {
+        "name": "Yash",
+        "id": 1293681,
+        "character": "Ravana",
+        "profile_path": "/ixHvgN8hGh8YgWd3j9RqUATvBiy.jpg"
+      },
+      {
+        "name": "Sai Pallavi",
+        "id": 1473119,
+        "character": "Sita",
+        "profile_path": "/qAPdGKUIUEzLibdgVCey7oKvvME.jpg"
+      },
+      {
+        "name": "Ravi Dubey",
+        "id": 1252841,
+        "character": "Lakshman",
+        "profile_path": "/dUhZ0E8nchBkjYV0okWfj4BLxy2.jpg"
+      },
+      {
+        "name": "अरुण गोविल",
+        "id": 1228593,
+        "character": "Dashrath",
+        "profile_path": "/xgefRNWurCiwyLSlpnDGgfMIF7H.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "popularidad": 41.6541,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1547,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
+          "vote_average": 2.542,
+          "vote_count": 4,
+          "width": 2750
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1524,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 2710
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 994,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/4xfWXTZNkeZ9R82aiDaZD34ruY5.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1766
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1035,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wE38Vvr1w577h1ndljzaEnXTKQ3.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1839
+        },
+        {
+          "aspect_ratio": 1.779,
+          "height": 1034,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.675,
+          "height": 1000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 675
+        },
+        {
+          "aspect_ratio": 0.666,
+          "height": 2528,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/lgJgvYYb3Em45CgDveojRrkMuQp.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1684
+        }
+      ]
+    },
+    "última_actualización": "2026-10-20 22:16:37"
   },
   {
     "id": 1117898,
@@ -5103,156 +5252,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:31"
-  },
-  {
-    "id": 656908,
-    "tmdb_id": 656908,
-    "título": "Ramayana: El Nacimiento de una Leyenda",
-    "título_original": "रामायण",
-    "sinopsis": "",
-    "poster_path": "/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
-    "poster_local": "imagenes_estrenos/Ramayana__El_Nacimiento_de_una_Leyenda_nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
-    "backdrop_path": "/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
-    "backdrop_local": "imagenes_estrenos/Ramayana__El_Nacimiento_de_una_Leyenda_backdrop_ks72NqTPhpupk207NXiqmZIQQVI.jpg",
-    "fecha_estreno": "2026-11-06T00:00:00.000Z",
-    "duración": "195 min",
-    "director": "Nitesh Tiwari",
-    "directores": [
-      {
-        "name": "Nitesh Tiwari",
-        "id": 1042010
-      }
-    ],
-    "actores": [
-      {
-        "name": "रणबीर कपूर",
-        "id": 85034,
-        "character": "Ram / Parshuram / Vishnu",
-        "profile_path": "/a5xWgKh7f4XofIl7ZwisxOi616K.jpg"
-      },
-      {
-        "name": "Yash",
-        "id": 1293681,
-        "character": "Ravana",
-        "profile_path": "/ixHvgN8hGh8YgWd3j9RqUATvBiy.jpg"
-      },
-      {
-        "name": "Sai Pallavi",
-        "id": 1473119,
-        "character": "Sita",
-        "profile_path": "/qAPdGKUIUEzLibdgVCey7oKvvME.jpg"
-      },
-      {
-        "name": "Ravi Dubey",
-        "id": 1252841,
-        "character": "Lakshman",
-        "profile_path": "/dUhZ0E8nchBkjYV0okWfj4BLxy2.jpg"
-      },
-      {
-        "name": "अरुण गोविल",
-        "id": 1228593,
-        "character": "Dashrath",
-        "profile_path": "/xgefRNWurCiwyLSlpnDGgfMIF7H.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 14,
-        "name": "Fantasía"
-      },
-      {
-        "id": 28,
-        "name": "Acción"
-      },
-      {
-        "id": 12,
-        "name": "Aventura"
-      }
-    ],
-    "popularidad": 41.6541,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1547,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
-          "vote_average": 2.542,
-          "vote_count": 4,
-          "width": 2750
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1524,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 2710
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 994,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/4xfWXTZNkeZ9R82aiDaZD34ruY5.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1766
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1035,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wE38Vvr1w577h1ndljzaEnXTKQ3.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1839
-        },
-        {
-          "aspect_ratio": 1.779,
-          "height": 1034,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.675,
-          "height": 1000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 675
-        },
-        {
-          "aspect_ratio": 0.666,
-          "height": 2528,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/lgJgvYYb3Em45CgDveojRrkMuQp.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1684
-        }
-      ]
-    },
-    "última_actualización": "2026-10-20 10:16:31"
+    "última_actualización": "2026-10-20 22:16:38"
   },
   {
     "id": 1241803,
@@ -5320,7 +5320,7 @@
       }
     ],
     "popularidad": 6.3854,
-    "puntuación": 6.958,
+    "puntuación": 7.0,
     "votos": 24,
     "adulto": false,
     "video": false,
@@ -5360,142 +5360,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-10-20 10:16:32"
-  },
-  {
-    "id": 1468846,
-    "tmdb_id": 1468846,
-    "título": "Species (Sanguine)",
-    "título_original": "Sanguine",
-    "sinopsis": "",
-    "poster_path": "/fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
-    "poster_local": "imagenes_estrenos/Species__Sanguine__fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
-    "backdrop_path": "/jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
-    "backdrop_local": "imagenes_estrenos/Species__Sanguine__backdrop_jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
-    "fecha_estreno": "2026-11-06T00:00:00.000Z",
-    "duración": "103 min",
-    "director": "Marion Le Corroller",
-    "directores": [
-      {
-        "name": "Marion Le Corroller",
-        "id": 3287533
-      }
-    ],
-    "actores": [
-      {
-        "name": "Mara Taquin",
-        "id": 1894436,
-        "character": "Margot Loiseau",
-        "profile_path": "/yEhRqSa6SAxUDXeAEGwXXfyaEnd.jpg"
-      },
-      {
-        "name": "Karin Viard",
-        "id": 13688,
-        "character": "Hélène",
-        "profile_path": "/quIomRrFBxXq32K5MBuvaTR3xBk.jpg"
-      },
-      {
-        "name": "Kim Higelin",
-        "id": 3070663,
-        "character": "Pauline Boucheron",
-        "profile_path": "/6b2jB4S9M3hbOisr4jmd2S7WfyL.jpg"
-      },
-      {
-        "name": "Sami Outalbali",
-        "id": 544687,
-        "character": "Louis Serraut",
-        "profile_path": "/2ekj2Fc6sK039NKNaCQ8fIhjXq.jpg"
-      },
-      {
-        "name": "Stefan Crepon",
-        "id": 2601088,
-        "character": "Clément Bescond",
-        "profile_path": "/pEhRxeFhLR1iVyYBMkHijkLZ3xN.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 878,
-        "name": "Ciencia ficción"
-      },
-      {
-        "id": 27,
-        "name": "Terror"
-      }
-    ],
-    "popularidad": 2.8213,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1688,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/vuLRfjY1j6qLpw2pe9CgiBfzhdj.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3000
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1688,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/840dgv29JqR6W74ZeeM43vjlsoC.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3000
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/acTXFEv4UAaJWUCDZXxQcOXVUTc.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/fjUSLw9LeulpefroThS9isVhXV4.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/aVTRq10oAjb88cT8ohbLgEyUh89.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-10-20 10:16:33"
+    "última_actualización": "2026-10-20 22:16:38"
   },
   {
     "id": 1217954,
@@ -5631,7 +5496,142 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-10-20 10:16:34"
+    "última_actualización": "2026-10-20 22:16:39"
+  },
+  {
+    "id": 1468846,
+    "tmdb_id": 1468846,
+    "título": "Species (Sanguine)",
+    "título_original": "Sanguine",
+    "sinopsis": "",
+    "poster_path": "/fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
+    "poster_local": "imagenes_estrenos/Species__Sanguine__fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
+    "backdrop_path": "/jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
+    "backdrop_local": "imagenes_estrenos/Species__Sanguine__backdrop_jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
+    "fecha_estreno": "2026-11-06T00:00:00.000Z",
+    "duración": "103 min",
+    "director": "Marion Le Corroller",
+    "directores": [
+      {
+        "name": "Marion Le Corroller",
+        "id": 3287533
+      }
+    ],
+    "actores": [
+      {
+        "name": "Mara Taquin",
+        "id": 1894436,
+        "character": "Margot Loiseau",
+        "profile_path": "/yEhRqSa6SAxUDXeAEGwXXfyaEnd.jpg"
+      },
+      {
+        "name": "Karin Viard",
+        "id": 13688,
+        "character": "Hélène",
+        "profile_path": "/quIomRrFBxXq32K5MBuvaTR3xBk.jpg"
+      },
+      {
+        "name": "Kim Higelin",
+        "id": 3070663,
+        "character": "Pauline Boucheron",
+        "profile_path": "/6b2jB4S9M3hbOisr4jmd2S7WfyL.jpg"
+      },
+      {
+        "name": "Sami Outalbali",
+        "id": 544687,
+        "character": "Louis Serraut",
+        "profile_path": "/2ekj2Fc6sK039NKNaCQ8fIhjXq.jpg"
+      },
+      {
+        "name": "Stefan Crepon",
+        "id": 2601088,
+        "character": "Clément Bescond",
+        "profile_path": "/pEhRxeFhLR1iVyYBMkHijkLZ3xN.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 2.8213,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1688,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vuLRfjY1j6qLpw2pe9CgiBfzhdj.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3000
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1688,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/840dgv29JqR6W74ZeeM43vjlsoC.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3000
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/acTXFEv4UAaJWUCDZXxQcOXVUTc.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/fjUSLw9LeulpefroThS9isVhXV4.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/aVTRq10oAjb88cT8ohbLgEyUh89.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-10-20 22:16:40"
   },
   {
     "id": 1649403,
@@ -5752,7 +5752,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:34"
+    "última_actualización": "2026-10-20 22:16:40"
   },
   {
     "id": 1405002,
@@ -5846,7 +5846,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:34"
+    "última_actualización": "2026-10-20 22:16:40"
   },
   {
     "id": 1371661,
@@ -5971,7 +5971,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:36"
+    "última_actualización": "2026-10-20 22:16:41"
   },
   {
     "id": 1755565,
@@ -6042,7 +6042,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-10-20 10:16:36"
+    "última_actualización": "2026-10-20 22:16:42"
   },
   {
     "id": 1522071,
@@ -6153,7 +6153,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:38"
+    "última_actualización": "2026-10-20 22:16:43"
   },
   {
     "id": 1784105,
@@ -6214,6 +6214,6 @@
         }
       ]
     },
-    "última_actualización": "2026-10-20 10:16:35"
+    "última_actualización": "2026-10-20 22:16:41"
   }
 ]
