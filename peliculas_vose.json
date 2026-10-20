@@ -17,6 +17,41 @@
                 "fecha": "2026-10-22",
                 "hora": "22:15",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102945&eventCode=111923"
+            },
+            {
+                "fecha": "2026-10-23",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103001&eventCode=111923"
+            },
+            {
+                "fecha": "2026-10-24",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103018&eventCode=111923"
+            },
+            {
+                "fecha": "2026-10-25",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103035&eventCode=111923"
+            },
+            {
+                "fecha": "2026-10-26",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103054&eventCode=111923"
+            },
+            {
+                "fecha": "2026-10-27",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103069&eventCode=111923"
+            },
+            {
+                "fecha": "2026-10-28",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103085&eventCode=111923"
+            },
+            {
+                "fecha": "2026-10-29",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103102&eventCode=111923"
             }
         ],
         "cine": "Golem Baiona",
@@ -35,7 +70,7 @@
             {
                 "fecha": "2026-10-20",
                 "hora": "17:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102962&eventCode=114522"
+                "enlace_entradas": ""
             },
             {
                 "fecha": "2026-10-20",
@@ -105,6 +140,55 @@
         "año": null,
         "tmdb_id": null,
         "nota": "KLASIKOAK 2026"
+    },
+    {
+        "título": "Sentido y sensibilidad",
+        "cartel": "imagenes_peliculas/tmdb_9bvqhfaq3bhkk5nsyxtysmn5lrb.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-10-23",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103010&eventCode=112965"
+            },
+            {
+                "fecha": "2026-10-24",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103027&eventCode=112965"
+            },
+            {
+                "fecha": "2026-10-25",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103044&eventCode=112965"
+            },
+            {
+                "fecha": "2026-10-26",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103053&eventCode=112965"
+            },
+            {
+                "fecha": "2026-10-27",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103076&eventCode=112965"
+            },
+            {
+                "fecha": "2026-10-28",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103083&eventCode=112965"
+            },
+            {
+                "fecha": "2026-10-29",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103100&eventCode=112965"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Georgia Oakley",
+        "duración": "131 min",
+        "actores": "Daisy Edgar-Jones, Esmé Creed-Miles, Bodhi Rae Breathnach, Caitríona Balfe, Fiona Shaw",
+        "sinopsis": "Una historia de amor, familia y hermandad basada en *Sentido y sensibilidad* de Jane Austen.",
+        "año": "2026",
+        "tmdb_id": 1503762,
+        "nota": null
     },
     {
         "título": "El cebo",
