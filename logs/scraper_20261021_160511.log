@@ -1,0 +1,57 @@
+2026-10-21 16:05:11,215 - INFO - Iniciando proceso de scraping
+2026-10-21 16:05:11,217 - INFO - Posts existentes encontrados: 2613
+2026-10-21 16:05:11,217 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-10-21 16:05:15,029 - INFO - Se encontraron 10 posts
+2026-10-21 16:05:15,029 - INFO - Comenzando extracción de información del post
+2026-10-21 16:05:15,030 - INFO - Título del post: EL PRECIO DE LA RED de Aaron Sorkin
+2026-10-21 16:05:15,030 - INFO - Fecha del post: 2026-10-21T17:10:23+02:00
+2026-10-21 16:05:15,030 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/el-precio-de-la-red-critica-aaron-sorkin/
+2026-10-21 16:05:22,607 - INFO - Contenido extraído y estructurado (4749 caracteres)
+2026-10-21 16:05:22,608 - INFO - Guardando post en: posts/EL_PRECIO_DE_LA_RED_2026-10-21.json
+2026-10-21 16:05:22,608 - INFO - Post guardado exitosamente
+2026-10-21 16:05:22,609 - INFO - Actualizando índice de películas
+2026-10-21 16:05:22,609 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-10-21 16:05:22,612 - INFO - Índice existente cargado con 2710 películas
+2026-10-21 16:05:22,619 - INFO - Película agregada al índice: EL PRECIO DE LA RED
+2026-10-21 16:05:22,619 - INFO - Nuevo post guardado: EL PRECIO DE LA RED de Aaron Sorkin
+2026-10-21 16:05:22,619 - INFO - Comenzando extracción de información del post
+2026-10-21 16:05:22,619 - WARNING - No se pudo extraer director del título: NAZA deYuval Abraham y Rachel Szor
+2026-10-21 16:05:22,619 - INFO - Título del post: NAZA deYuval Abraham y Rachel Szor
+2026-10-21 16:05:22,619 - INFO - Fecha del post: 2026-10-21T16:50:29+02:00
+2026-10-21 16:05:22,619 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/naza-critica-documental/
+2026-10-21 16:05:27,453 - INFO - Contenido extraído y estructurado (2768 caracteres)
+2026-10-21 16:05:27,454 - INFO - Guardando post en: posts/NAZA_deYuval_Abraham_y_Rachel_Szor_2026-10-21.json
+2026-10-21 16:05:27,455 - INFO - Post guardado exitosamente
+2026-10-21 16:05:27,455 - INFO - Actualizando índice de películas
+2026-10-21 16:05:27,455 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-10-21 16:05:27,457 - INFO - Índice existente cargado con 2711 películas
+2026-10-21 16:05:27,465 - INFO - Película agregada al índice: NAZA deYuval Abraham y Rachel Szor
+2026-10-21 16:05:27,465 - INFO - Nuevo post guardado: NAZA deYuval Abraham y Rachel Szor
+2026-10-21 16:05:27,465 - INFO - Comenzando extracción de información del post
+2026-10-21 16:05:27,465 - INFO - Título del post: LAS CIEGAS HORMIGAS de Igor Legarreta
+2026-10-21 16:05:27,465 - INFO - Fecha del post: 2026-10-21T16:32:25+02:00
+2026-10-21 16:05:27,465 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/as-ciegas-hormigas-igor-legarreta-critica/
+2026-10-21 16:05:35,115 - INFO - Contenido extraído y estructurado (2720 caracteres)
+2026-10-21 16:05:35,116 - INFO - Guardando post en: posts/LAS_CIEGAS_HORMIGAS_2026-10-21.json
+2026-10-21 16:05:35,116 - INFO - Post guardado exitosamente
+2026-10-21 16:05:35,116 - INFO - Actualizando índice de películas
+2026-10-21 16:05:35,116 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-10-21 16:05:35,118 - INFO - Índice existente cargado con 2712 películas
+2026-10-21 16:05:35,126 - INFO - Película agregada al índice: LAS CIEGAS HORMIGAS
+2026-10-21 16:05:35,126 - INFO - Nuevo post guardado: LAS CIEGAS HORMIGAS de Igor Legarreta
+2026-10-21 16:05:35,126 - INFO - Comenzando extracción de información del post
+2026-10-21 16:05:35,126 - INFO - Post ya existente, saltando: CENIZA EN LA BOCA de Diego Luna
+2026-10-21 16:05:35,126 - INFO - Comenzando extracción de información del post
+2026-10-21 16:05:35,126 - INFO - Post ya existente, saltando: DIGGER de Alejandro González Iñárritu
+2026-10-21 16:05:35,126 - INFO - Comenzando extracción de información del post
+2026-10-21 16:05:35,127 - INFO - Post ya existente, saltando: VERITY, LA SOMBRA DE UN ENGAÑO de Michael Showalter
+2026-10-21 16:05:35,127 - INFO - Comenzando extracción de información del post
+2026-10-21 16:05:35,127 - WARNING - No se pudo extraer director del título: LA BOLA NEGRA de Los Javis (Javier Calvo y Javier Ambrossi)
+2026-10-21 16:05:35,127 - INFO - Post ya existente, saltando: LA BOLA NEGRA de Los Javis (Javier Calvo y Javier Ambrossi)
+2026-10-21 16:05:35,127 - INFO - Comenzando extracción de información del post
+2026-10-21 16:05:35,127 - INFO - Post ya existente, saltando: EN EL CORAZÓN DE LA BESTIA de David Ayer
+2026-10-21 16:05:35,127 - INFO - Comenzando extracción de información del post
+2026-10-21 16:05:35,127 - INFO - Post ya existente, saltando: LA ISLA OLVIDADA de Joel Crawford y Januel Mercado
+2026-10-21 16:05:35,127 - INFO - Comenzando extracción de información del post
+2026-10-21 16:05:35,127 - INFO - Post ya existente, saltando: SUS HIJOS de Pablo Trapero
+2026-10-21 16:05:35,127 - INFO - Proceso completado. Posts nuevos guardados: 3
