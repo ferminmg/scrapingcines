@@ -1,13 +1,27 @@
 [
     {
+        "título": "Yojimbo",
+        "cartel": "imagenes_peliculas/1789372849.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-10-22",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102602&eventCode=114840"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Akira Kurosawa",
+        "duración": "110 min",
+        "actores": "Toshirō Mifune,Tatsuya Nakadai, Yokô Tsukasa, Isuzu Yamada, Daisuke Kato",
+        "sinopsis": "XIX. mendean, artean feudalismoaren mendeko Japonian, samurai bat herrixka batera iristen da. Han, bi mertzenario-banda elkarren artean borrokan ari dira, lurraldea zeinek kontrolatuko. Iritsi berriak ezagun du gudari garaiezina dela, eta, horretaz jabeturik, bi taldeetako buruak haren zerbitzuak kontratatzen saiatuko dira. En el siglo XIX, en un Japón todavía feudal, un samurái llega a un poblado donde dos bandas de mercenarios luchan entre sí por el control del territorio. Muy pronto el recién llegado da muestras de ser un guerrero invencible, por lo que los jefes de ambos grupos intentan contratar sus servicios.",
+        "año": null,
+        "tmdb_id": null,
+        "nota": "KLASIKOAK 2026"
+    },
+    {
         "título": "La Invitación",
         "cartel": "imagenes_peliculas/tmdb_21jnfycarirkms9azhttxizkbij.jpg",
         "horarios": [
-            {
-                "fecha": "2026-10-21",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102976&eventCode=111923"
-            },
             {
                 "fecha": "2026-10-22",
                 "hora": "22:15",
@@ -63,21 +77,6 @@
         "cartel": "imagenes_peliculas/tmdb_8trpydaq8wm3dfgiabo0lnluecn.jpg",
         "horarios": [
             {
-                "fecha": "2026-10-21",
-                "hora": "17:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102979&eventCode=114522"
-            },
-            {
-                "fecha": "2026-10-21",
-                "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102980&eventCode=114522"
-            },
-            {
-                "fecha": "2026-10-21",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102981&eventCode=114522"
-            },
-            {
                 "fecha": "2026-10-22",
                 "hora": "17:15",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102949&eventCode=114522"
@@ -101,25 +100,6 @@
         "año": "2026",
         "tmdb_id": 1454616,
         "nota": null
-    },
-    {
-        "título": "Yojimbo",
-        "cartel": "imagenes_peliculas/1789372849.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-10-22",
-                "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102602&eventCode=114840"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "Akira Kurosawa",
-        "duración": "110 min",
-        "actores": "Toshirō Mifune,Tatsuya Nakadai, Yokô Tsukasa, Isuzu Yamada, Daisuke Kato",
-        "sinopsis": "XIX. mendean, artean feudalismoaren mendeko Japonian, samurai bat herrixka batera iristen da. Han, bi mertzenario-banda elkarren artean borrokan ari dira, lurraldea zeinek kontrolatuko. Iritsi berriak ezagun du gudari garaiezina dela, eta, horretaz jabeturik, bi taldeetako buruak haren zerbitzuak kontratatzen saiatuko dira. En el siglo XIX, en un Japón todavía feudal, un samurái llega a un poblado donde dos bandas de mercenarios luchan entre sí por el control del territorio. Muy pronto el recién llegado da muestras de ser un guerrero invencible, por lo que los jefes de ambos grupos intentan contratar sus servicios.",
-        "año": null,
-        "tmdb_id": null,
-        "nota": "KLASIKOAK 2026"
     },
     {
         "título": "Sentido y sensibilidad",
@@ -194,11 +174,6 @@
         "cartel": "imagenes_peliculas/tmdb_lwesl7ehbpteyfgouvrduvxbtyq.jpg",
         "horarios": [
             {
-                "fecha": "2026-10-21",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93096&eventCode=112940"
-            },
-            {
                 "fecha": "2026-10-22",
                 "hora": "21:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93111&eventCode=112940"
@@ -248,11 +223,6 @@
         "cartel": "imagenes_peliculas/tmdb_cigdmgoi8tw2m4jlho5rir5evge.jpg",
         "horarios": [
             {
-                "fecha": "2026-10-21",
-                "hora": "19:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93090&eventCode=115072"
-            },
-            {
                 "fecha": "2026-10-22",
                 "hora": "19:00",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93105&eventCode=115072"
@@ -271,16 +241,6 @@
         "título": "Naza",
         "cartel": "imagenes_peliculas/tmdb_urm4mncgiscxowqdnwexsutvkag.jpg",
         "horarios": [
-            {
-                "fecha": "2026-10-21",
-                "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93099&eventCode=115052"
-            },
-            {
-                "fecha": "2026-10-21",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93100&eventCode=115052"
-            },
             {
                 "fecha": "2026-10-22",
                 "hora": "19:30",
