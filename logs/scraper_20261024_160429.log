@@ -1,5 +1,0 @@
-2026-10-24 16:04:29,907 - INFO - Iniciando proceso de scraping
-2026-10-24 16:04:29,910 - INFO - Posts existentes encontrados: 2616
-2026-10-24 16:04:29,910 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
-2026-10-24 16:04:44,929 - ERROR - Error al obtener posts: HTTPSConnectionPool(host='ghostintheblog.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='ghostintheblog.com', port=443): Failed to resolve 'ghostintheblog.com' ([Errno -3] Temporary failure in name resolution)"))
-2026-10-24 16:04:44,929 - INFO - Proceso completado. Posts nuevos guardados: 0
