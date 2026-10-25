@@ -4,11 +4,6 @@
         "cartel": "imagenes_peliculas/tmdb_9bvqhfaq3bhkk5nsyxtysmn5lrb.jpg",
         "horarios": [
             {
-                "fecha": "2026-10-24",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103027&eventCode=112965"
-            },
-            {
                 "fecha": "2026-10-25",
                 "hora": "22:15",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103044&eventCode=112965"
@@ -47,11 +42,6 @@
         "título": "La Invitación",
         "cartel": "imagenes_peliculas/tmdb_21jnfycarirkms9azhttxizkbij.jpg",
         "horarios": [
-            {
-                "fecha": "2026-10-24",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103018&eventCode=111923"
-            },
             {
                 "fecha": "2026-10-25",
                 "hora": "22:15",
@@ -130,11 +120,6 @@
         "cartel": "imagenes_peliculas/tmdb_lwesl7ehbpteyfgouvrduvxbtyq.jpg",
         "horarios": [
             {
-                "fecha": "2026-10-24",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93130&eventCode=112940"
-            },
-            {
                 "fecha": "2026-10-25",
                 "hora": "21:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93145&eventCode=112940"
@@ -168,16 +153,6 @@
         "título": "Inurri Itsuak (Las ciegas hormigas)",
         "cartel": "imagenes_peliculas/tmdb_8trpydaq8wm3dfgiabo0lnluecn.jpg",
         "horarios": [
-            {
-                "fecha": "2026-10-24",
-                "hora": "17:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93134&eventCode=114522"
-            },
-            {
-                "fecha": "2026-10-24",
-                "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93135&eventCode=114522"
-            },
             {
                 "fecha": "2026-10-25",
                 "hora": "17:00",
@@ -242,21 +217,6 @@
         "título": "Naza",
         "cartel": "imagenes_peliculas/tmdb_urm4mncgiscxowqdnwexsutvkag.jpg",
         "horarios": [
-            {
-                "fecha": "2026-10-24",
-                "hora": "16:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93122&eventCode=115052"
-            },
-            {
-                "fecha": "2026-10-24",
-                "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93132&eventCode=115052"
-            },
-            {
-                "fecha": "2026-10-24",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93227&eventCode=115052"
-            },
             {
                 "fecha": "2026-10-25",
                 "hora": "16:30",
@@ -355,27 +315,6 @@
         "año": null,
         "tmdb_id": null,
         "nota": "Doc del mes"
-    },
-    {
-        "título": "Los 400 golpes",
-        "cartel": "imagenes_manuales/tmdb_1uqxcqhtnxzlyzonkeqvkmvzuu4.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-10-24",
-                "hora": "18:00",
-                "enlace_entradas": "",
-                "cine": "Casa de la Juventud",
-                "nota": "CineTag · Con coloquio · Entrada libre"
-            }
-        ],
-        "cine": "Casa de la Juventud",
-        "director": "François Truffaut",
-        "duración": "92 min",
-        "actores": "Jean-Pierre Léaud, Claire Maurier, Albert Rémy, Georges Flamant, Patrick Auffay",
-        "sinopsis": "A sus doce años, Antoine Doinel se ve obligado no sólo a convivir con los problemas conyugales que sus padres no se atreven a afrontar, sino también a soportar las exigencias de un severo profesor. Un día, asustado porque no ha cumplido un castigo que el maestro le ha impuesto, decide hacer novillos con su amigo René. Inesperadamente, ve a su madre en compañía de otro hombre; la culpa y el miedo lo arrastran a una serie de mentiras y riñas que poco a poco van calando en su ánimo. Deseando dejar atrás todos sus problemas, sueña con conocer el mar y traza con René un plan para escaparse.",
-        "año": "1959",
-        "tmdb_id": "147",
-        "fuente": "manual"
     },
     {
         "título": "Hereditary",
