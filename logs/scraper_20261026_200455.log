@@ -1,0 +1,57 @@
+2026-10-26 20:04:55,343 - INFO - Iniciando proceso de scraping
+2026-10-26 20:04:55,345 - INFO - Posts existentes encontrados: 2616
+2026-10-26 20:04:55,345 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-10-26 20:04:58,167 - INFO - Se encontraron 10 posts
+2026-10-26 20:04:58,168 - INFO - Comenzando extracción de información del post
+2026-10-26 20:04:58,169 - INFO - Título del post: KAKERU de Hirokazu Koreeda
+2026-10-26 20:04:58,169 - INFO - Fecha del post: 2026-10-26T17:52:19+01:00
+2026-10-26 20:04:58,169 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/kakeru-sheep-in-the-box-hirokazu-koreeda/
+2026-10-26 20:05:02,064 - INFO - Contenido extraído y estructurado (4714 caracteres)
+2026-10-26 20:05:02,065 - INFO - Guardando post en: posts/KAKERU_2026-10-26.json
+2026-10-26 20:05:02,065 - INFO - Post guardado exitosamente
+2026-10-26 20:05:02,065 - INFO - Actualizando índice de películas
+2026-10-26 20:05:02,065 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-10-26 20:05:02,070 - INFO - Índice existente cargado con 2713 películas
+2026-10-26 20:05:02,083 - INFO - Película agregada al índice: KAKERU
+2026-10-26 20:05:02,083 - INFO - Nuevo post guardado: KAKERU de Hirokazu Koreeda
+2026-10-26 20:05:02,083 - INFO - Comenzando extracción de información del post
+2026-10-26 20:05:02,083 - INFO - Título del post: LA INVITACIÓN de Olivia Wilde
+2026-10-26 20:05:02,083 - INFO - Fecha del post: 2026-10-26T17:41:18+01:00
+2026-10-26 20:05:02,083 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/la-invitacion-critica-olivia-wilde/
+2026-10-26 20:05:08,350 - INFO - Contenido extraído y estructurado (2541 caracteres)
+2026-10-26 20:05:08,351 - INFO - Guardando post en: posts/LA_INVITACIÓN_2026-10-26.json
+2026-10-26 20:05:08,352 - INFO - Post guardado exitosamente
+2026-10-26 20:05:08,352 - INFO - Actualizando índice de películas
+2026-10-26 20:05:08,352 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-10-26 20:05:08,357 - INFO - Índice existente cargado con 2714 películas
+2026-10-26 20:05:08,357 - INFO - La película ya existe en el índice: LA INVITACIÓN
+2026-10-26 20:05:08,357 - INFO - Nuevo post guardado: LA INVITACIÓN de Olivia Wilde
+2026-10-26 20:05:08,357 - INFO - Comenzando extracción de información del post
+2026-10-26 20:05:08,357 - INFO - Título del post: LA MALETA de Carlos Therón
+2026-10-26 20:05:08,358 - INFO - Fecha del post: 2026-10-26T17:31:03+01:00
+2026-10-26 20:05:08,358 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/la-maleta-critica-pelicula-carlos-theron/
+2026-10-26 20:05:12,035 - INFO - Contenido extraído y estructurado (2795 caracteres)
+2026-10-26 20:05:12,036 - INFO - Guardando post en: posts/LA_MALETA_2026-10-26.json
+2026-10-26 20:05:12,036 - INFO - Post guardado exitosamente
+2026-10-26 20:05:12,036 - INFO - Actualizando índice de películas
+2026-10-26 20:05:12,036 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-10-26 20:05:12,041 - INFO - Índice existente cargado con 2714 películas
+2026-10-26 20:05:12,053 - INFO - Película agregada al índice: LA MALETA
+2026-10-26 20:05:12,054 - INFO - Nuevo post guardado: LA MALETA de Carlos Therón
+2026-10-26 20:05:12,054 - INFO - Comenzando extracción de información del post
+2026-10-26 20:05:12,054 - INFO - Post ya existente, saltando: EL PRECIO DE LA RED de Aaron Sorkin
+2026-10-26 20:05:12,054 - INFO - Comenzando extracción de información del post
+2026-10-26 20:05:12,054 - WARNING - No se pudo extraer director del título: NAZA deYuval Abraham y Rachel Szor
+2026-10-26 20:05:12,054 - INFO - Post ya existente, saltando: NAZA deYuval Abraham y Rachel Szor
+2026-10-26 20:05:12,054 - INFO - Comenzando extracción de información del post
+2026-10-26 20:05:12,054 - INFO - Post ya existente, saltando: LAS CIEGAS HORMIGAS de Igor Legarreta
+2026-10-26 20:05:12,054 - INFO - Comenzando extracción de información del post
+2026-10-26 20:05:12,054 - INFO - Post ya existente, saltando: CENIZA EN LA BOCA de Diego Luna
+2026-10-26 20:05:12,054 - INFO - Comenzando extracción de información del post
+2026-10-26 20:05:12,055 - INFO - Post ya existente, saltando: DIGGER de Alejandro González Iñárritu
+2026-10-26 20:05:12,055 - INFO - Comenzando extracción de información del post
+2026-10-26 20:05:12,055 - INFO - Post ya existente, saltando: VERITY, LA SOMBRA DE UN ENGAÑO de Michael Showalter
+2026-10-26 20:05:12,055 - INFO - Comenzando extracción de información del post
+2026-10-26 20:05:12,055 - WARNING - No se pudo extraer director del título: LA BOLA NEGRA de Los Javis (Javier Calvo y Javier Ambrossi)
+2026-10-26 20:05:12,055 - INFO - Post ya existente, saltando: LA BOLA NEGRA de Los Javis (Javier Calvo y Javier Ambrossi)
+2026-10-26 20:05:12,055 - INFO - Proceso completado. Posts nuevos guardados: 3
