@@ -17,6 +17,31 @@
                 "fecha": "2026-10-29",
                 "hora": "22:15",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103100&eventCode=112965"
+            },
+            {
+                "fecha": "2026-10-30",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103119&eventCode=112965"
+            },
+            {
+                "fecha": "2026-10-31",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103141&eventCode=112965"
+            },
+            {
+                "fecha": "2026-11-01",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103160&eventCode=112965"
+            },
+            {
+                "fecha": "2026-11-02",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103177&eventCode=112965"
+            },
+            {
+                "fecha": "2026-11-03",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103198&eventCode=112965"
             }
         ],
         "cine": "Golem Baiona",
@@ -46,6 +71,31 @@
                 "fecha": "2026-10-29",
                 "hora": "20:00",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103102&eventCode=111923"
+            },
+            {
+                "fecha": "2026-10-30",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103124&eventCode=111923"
+            },
+            {
+                "fecha": "2026-10-31",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103132&eventCode=111923"
+            },
+            {
+                "fecha": "2026-11-01",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103151&eventCode=111923"
+            },
+            {
+                "fecha": "2026-11-02",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103168&eventCode=111923"
+            },
+            {
+                "fecha": "2026-11-03",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103191&eventCode=111923"
             }
         ],
         "cine": "Golem Baiona",
@@ -55,6 +105,45 @@
         "sinopsis": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
         "año": "2026",
         "tmdb_id": 950028,
+        "nota": null
+    },
+    {
+        "título": "Hope",
+        "cartel": "imagenes_peliculas/1791994746.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-10-30",
+                "hora": "21:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103122&eventCode=115746"
+            },
+            {
+                "fecha": "2026-10-31",
+                "hora": "21:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103147&eventCode=115746"
+            },
+            {
+                "fecha": "2026-11-01",
+                "hora": "21:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103165&eventCode=115746"
+            },
+            {
+                "fecha": "2026-11-02",
+                "hora": "21:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103182&eventCode=115746"
+            },
+            {
+                "fecha": "2026-11-03",
+                "hora": "21:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103194&eventCode=115746"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Na Hong-jin",
+        "duración": "156 min",
+        "actores": "Hwang Jung-min, Jo In-sung, Jung Ho-yeon, Taylor Russell, Michael Fassbender, Alicia Vikander",
+        "sinopsis": "La policía investiga una misteriosa criatura que ha estado sembrando el caos en la remota isla de Hope Harbor. Un grupo de cazadores la sigue hacia un bosque cercano y se convierte en su presa involuntaria. El conflicto se intensifica hasta convertirse en una tragedia de proporciones cósmicas.",
+        "año": null,
+        "tmdb_id": null,
         "nota": null
     },
     {
@@ -126,7 +215,7 @@
             {
                 "fecha": "2026-10-27",
                 "hora": "17:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93164&eventCode=114522"
+                "enlace_entradas": ""
             },
             {
                 "fecha": "2026-10-27",
@@ -152,6 +241,11 @@
                 "fecha": "2026-10-29",
                 "hora": "19:15",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93180&eventCode=114522"
+            },
+            {
+                "fecha": "2026-10-30",
+                "hora": "17:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93230&eventCode=114522"
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -170,7 +264,7 @@
             {
                 "fecha": "2026-10-27",
                 "hora": "16:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93152&eventCode=115052"
+                "enlace_entradas": ""
             },
             {
                 "fecha": "2026-10-27",
@@ -211,6 +305,11 @@
                 "fecha": "2026-10-29",
                 "hora": "21:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93168&eventCode=115052"
+            },
+            {
+                "fecha": "2026-10-30",
+                "hora": "19:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93242&eventCode=115052"
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -220,6 +319,44 @@
         "sinopsis": "Rodada por la noche en los tejados de Tel Aviv, el documental revela con todo detalle los mecanismos que hay detrás del asesinato en masa y deliberado de civiles palestinos en Gaza por parte de las tropas de Israel. Naza es la palabra utilizada por el ejército israelí para denominar a las víctimas civiles como 'daños colaterales'.",
         "año": "2026",
         "tmdb_id": 1755291,
+        "nota": null
+    },
+    {
+        "título": "Tiempos de ilusión",
+        "cartel": "imagenes_peliculas/tmdb_ku7zvdj7yuzn71cg6yvcoc3rxjm.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-10-30",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93240&eventCode=115841"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Olivier Nakache, Éric Toledano",
+        "duración": "119 min",
+        "actores": "Louis Garrel, Camille Cottin, Simon Boublil, Alexis Rosenstiehl, Pierre Lottin",
+        "sinopsis": "1985. Vincent, de casi 13 años, vive en las afueras de París en el seno de una familia de clase media, entre un hermano mayor distante y unos padres en conflicto constante. Aunque ya no es un niño pero tampoco un adulto, la película sigue sus reflexiones y dudas sobre la identidad, la amistad y la familia, así como sus interrogantes acerca de la religión, el deseo y el amor.",
+        "año": "2026",
+        "tmdb_id": 1404684,
+        "nota": null
+    },
+    {
+        "título": "Wicker",
+        "cartel": "imagenes_peliculas/tmdb_ewpz6uvkrbklqrlri1r9ntzqlzn.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-10-30",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93237&eventCode=115777"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Eleanor Wilson, Alex Huston Fischer",
+        "duración": "105 min",
+        "actores": "Olivia Colman, Alexander Skarsgård, Peter Dinklage, Elizabeth Debicki, Marli Siu",
+        "sinopsis": "Una pescadora vive en la periferia de un pueblo costero; es soltera, apestosa y objeto de burlas constantes. Un día, harta de sus estirados y estrechos vecinos, encarga un marido de mimbre para ella.",
+        "año": "2026",
+        "tmdb_id": 1195803,
         "nota": null
     },
     {
