@@ -46,7 +46,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-10-29 10:13:28"
+    "última_actualización": "2026-10-29 22:12:59"
   },
   {
     "id": 1058424,
@@ -2201,7 +2201,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:28"
+    "última_actualización": "2026-10-29 22:13:00"
   },
   {
     "id": 656908,
@@ -2350,7 +2350,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:25"
+    "última_actualización": "2026-10-29 22:12:55"
   },
   {
     "id": 1381071,
@@ -2529,7 +2529,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:25"
+    "última_actualización": "2026-10-29 22:12:55"
   },
   {
     "id": 1117898,
@@ -2609,8 +2609,8 @@
       }
     ],
     "popularidad": 18.3952,
-    "puntuación": 0.0,
-    "votos": 0,
+    "puntuación": 10.0,
+    "votos": 1,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2710,135 +2710,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:25"
-  },
-  {
-    "id": 1241803,
-    "tmdb_id": 1241803,
-    "título": "Los miserables",
-    "título_original": "Les Misérables",
-    "sinopsis": "",
-    "poster_path": "/tY3CoBNTCpvJayVRLqIIGDa4Ep8.jpg",
-    "poster_local": "imagenes_estrenos/Los_miserables_tY3CoBNTCpvJayVRLqIIGDa4Ep8.jpg",
-    "backdrop_path": "/2IAY24dGrbGnafJ3ENXmCDTDvxg.jpg",
-    "backdrop_local": "imagenes_estrenos/Los_miserables_backdrop_xf06i3TzigoXAXhEIbLNAto8svv.jpg",
-    "fecha_estreno": "2026-11-06T00:00:00.000Z",
-    "duración": "178 min",
-    "director": "Fred Cavayé",
-    "directores": [
-      {
-        "name": "Fred Cavayé",
-        "id": 77008
-      }
-    ],
-    "actores": [
-      {
-        "name": "Vincent Lindon",
-        "id": 5443,
-        "character": "Jean Valjean",
-        "profile_path": "/tjRKMKfsIH7MrqtN7cMPIZubSXa.jpg"
-      },
-      {
-        "name": "Tahar Rahim",
-        "id": 81051,
-        "character": "Inspecteur Javert",
-        "profile_path": "/r1SJ9nkG9q4JbPHbtcvcVxmRcHw.jpg"
-      },
-      {
-        "name": "Camille Cottin",
-        "id": 1348474,
-        "character": "Mme Thénardier",
-        "profile_path": "/ArBIA46esEk1qMlSwoVPR1SxPvc.jpg"
-      },
-      {
-        "name": "Benjamin Lavernhe",
-        "id": 1159954,
-        "character": "M. Thénardier",
-        "profile_path": "/e0wFxLvNHS0XmdRKpMeIytDFZmO.jpg"
-      },
-      {
-        "name": "Noémie Merlant",
-        "id": 1385600,
-        "character": "Fantine",
-        "profile_path": "/l9ECDc9GGIESuKuT5zxIJknAD33.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 36,
-        "name": "Historia"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 6.0086,
-    "puntuación": 7.229,
-    "votos": 48,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/2IAY24dGrbGnafJ3ENXmCDTDvxg.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/lQQVChBZQoC3iirkn9U9gfFiDHJ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/n8rGUyk96OyS80LiEfNYkyyzaFj.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/8lwY8tnXfyRpv2oR3uvyLysyAAR.jpg",
-          "vote_average": 1.222,
-          "vote_count": 3,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1013,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xf06i3TzigoXAXhEIbLNAto8svv.jpg",
-          "vote_average": 0.166,
-          "vote_count": 3,
-          "width": 1800
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2026-10-29 10:13:26"
+    "última_actualización": "2026-10-29 22:12:55"
   },
   {
     "id": 1649403,
@@ -2959,166 +2831,76 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:26"
+    "última_actualización": "2026-10-29 22:12:56"
   },
   {
-    "id": 1405002,
-    "tmdb_id": 1405002,
-    "título": "Fiesta Pagäna",
-    "título_original": "Fiesta Pagäna",
-    "sinopsis": "Narra la historia jamás contada de Mägo de Oz, la banda que revolucionó el rock español al fusionar el heavy metal con el folk celta.",
-    "poster_path": "/WGH8A7l5pQHlO13A7QJ2t4mjvN.jpg",
-    "poster_local": "imagenes_estrenos/Fiesta_Pag_na_WGH8A7l5pQHlO13A7QJ2t4mjvN.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
+    "id": 1241803,
+    "tmdb_id": 1241803,
+    "título": "Los miserables",
+    "título_original": "Les Misérables",
+    "sinopsis": "",
+    "poster_path": "/tY3CoBNTCpvJayVRLqIIGDa4Ep8.jpg",
+    "poster_local": "imagenes_estrenos/Los_miserables_tY3CoBNTCpvJayVRLqIIGDa4Ep8.jpg",
+    "backdrop_path": "/2IAY24dGrbGnafJ3ENXmCDTDvxg.jpg",
+    "backdrop_local": "imagenes_estrenos/Los_miserables_backdrop_xf06i3TzigoXAXhEIbLNAto8svv.jpg",
     "fecha_estreno": "2026-11-06T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Álvaro Brechner",
+    "duración": "178 min",
+    "director": "Fred Cavayé",
     "directores": [
       {
-        "name": "Álvaro Brechner",
-        "id": 233912
+        "name": "Fred Cavayé",
+        "id": 77008
       }
     ],
     "actores": [
       {
-        "name": "Adrián Lastra",
-        "id": 224730,
-        "character": "Txus di Fellatio",
-        "profile_path": "/tY8LRngW7UErcXFEOC69apzreqa.jpg"
+        "name": "Vincent Lindon",
+        "id": 5443,
+        "character": "Jean Valjean",
+        "profile_path": "/tjRKMKfsIH7MrqtN7cMPIZubSXa.jpg"
       },
       {
-        "name": "Adrià Mondaray",
-        "id": 1682793,
-        "character": "José Andrëa",
-        "profile_path": null
+        "name": "Tahar Rahim",
+        "id": 81051,
+        "character": "Inspecteur Javert",
+        "profile_path": "/r1SJ9nkG9q4JbPHbtcvcVxmRcHw.jpg"
       },
       {
-        "name": "Jon Arias",
-        "id": 1380713,
-        "character": "Salva",
-        "profile_path": "/pdFte8b2cgGNimWlXKeCDaYufzS.jpg"
+        "name": "Camille Cottin",
+        "id": 1348474,
+        "character": "Mme Thénardier",
+        "profile_path": "/ArBIA46esEk1qMlSwoVPR1SxPvc.jpg"
       },
       {
-        "name": "Jorge López",
-        "id": 1623101,
-        "character": "Frank",
-        "profile_path": "/nKNM04xWkOZ4DFlu6ZbGu5pguF3.jpg"
+        "name": "Benjamin Lavernhe",
+        "id": 1159954,
+        "character": "M. Thénardier",
+        "profile_path": "/e0wFxLvNHS0XmdRKpMeIytDFZmO.jpg"
       },
       {
-        "name": "Carlos Librado \"Nene\"",
-        "id": 2143181,
-        "character": "Carlitos",
-        "profile_path": "/eDFFkcbparnElg3Z0wtKnAJGuoB.jpg"
+        "name": "Noémie Merlant",
+        "id": 1385600,
+        "character": "Fantine",
+        "profile_path": "/l9ECDc9GGIESuKuT5zxIJknAD33.jpg"
       }
     ],
     "géneros": [
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
       {
         "id": 18,
         "name": "Drama"
-      },
-      {
-        "id": 10402,
-        "name": "Música"
       }
     ],
-    "popularidad": 4.9755,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1819,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/WGH8A7l5pQHlO13A7QJ2t4mjvN.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1213
-        },
-        {
-          "aspect_ratio": 0.705,
-          "height": 1268,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/zW25LNPBKDKOzipFJjAXs0bhhhr.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 894
-        }
-      ]
-    },
-    "última_actualización": "2026-10-29 10:13:26"
-  },
-  {
-    "id": 1468846,
-    "tmdb_id": 1468846,
-    "título": "Species (Sanguine)",
-    "título_original": "Sanguine",
-    "sinopsis": "",
-    "poster_path": "/fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
-    "poster_local": "imagenes_estrenos/Species__Sanguine__fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
-    "backdrop_path": "/jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
-    "backdrop_local": "imagenes_estrenos/Species__Sanguine__backdrop_jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
-    "fecha_estreno": "2026-11-06T00:00:00.000Z",
-    "duración": "103 min",
-    "director": "Marion Le Corroller",
-    "directores": [
-      {
-        "name": "Marion Le Corroller",
-        "id": 3287533
-      }
-    ],
-    "actores": [
-      {
-        "name": "Mara Taquin",
-        "id": 1894436,
-        "character": "Margot Loiseau",
-        "profile_path": "/yEhRqSa6SAxUDXeAEGwXXfyaEnd.jpg"
-      },
-      {
-        "name": "Karin Viard",
-        "id": 13688,
-        "character": "Hélène",
-        "profile_path": "/quIomRrFBxXq32K5MBuvaTR3xBk.jpg"
-      },
-      {
-        "name": "Kim Higelin",
-        "id": 3070663,
-        "character": "Pauline Boucheron",
-        "profile_path": "/6b2jB4S9M3hbOisr4jmd2S7WfyL.jpg"
-      },
-      {
-        "name": "Sami Outalbali",
-        "id": 544687,
-        "character": "Louis Serraut",
-        "profile_path": "/2ekj2Fc6sK039NKNaCQ8fIhjXq.jpg"
-      },
-      {
-        "name": "Stefan Crepon",
-        "id": 2601088,
-        "character": "Clément Bescond",
-        "profile_path": "/pEhRxeFhLR1iVyYBMkHijkLZ3xN.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 878,
-        "name": "Ciencia ficción"
-      },
-      {
-        "id": 27,
-        "name": "Terror"
-      }
-    ],
-    "popularidad": 4.8691,
-    "puntuación": 0.0,
-    "votos": 0,
+    "popularidad": 6.0086,
+    "puntuación": 7.245,
+    "votos": 49,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3126,40 +2908,20 @@
       "backdrops": [
         {
           "aspect_ratio": 1.778,
-          "height": 2160,
+          "height": 1080,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
+          "file_path": "/2IAY24dGrbGnafJ3ENXmCDTDvxg.jpg",
           "vote_average": 3.334,
           "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1688,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/vuLRfjY1j6qLpw2pe9CgiBfzhdj.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3000
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1688,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/840dgv29JqR6W74ZeeM43vjlsoC.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3000
+          "width": 1920
         },
         {
           "aspect_ratio": 1.778,
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/acTXFEv4UAaJWUCDZXxQcOXVUTc.jpg",
+          "file_path": "/lQQVChBZQoC3iirkn9U9gfFiDHJ.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 3840
@@ -3169,26 +2931,35 @@
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/fjUSLw9LeulpefroThS9isVhXV4.jpg",
+          "file_path": "/n8rGUyk96OyS80LiEfNYkyyzaFj.jpg",
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/8lwY8tnXfyRpv2oR3uvyLysyAAR.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1013,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xf06i3TzigoXAXhEIbLNAto8svv.jpg",
+          "vote_average": 0.166,
+          "vote_count": 3,
+          "width": 1800
         }
       ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/aVTRq10oAjb88cT8ohbLgEyUh89.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
+      "posters": []
     },
-    "última_actualización": "2026-10-29 10:13:26"
+    "última_actualización": "2026-10-29 22:12:57"
   },
   {
     "id": 1217954,
@@ -3324,7 +3095,236 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-10-29 10:13:26"
+    "última_actualización": "2026-10-29 22:12:57"
+  },
+  {
+    "id": 1405002,
+    "tmdb_id": 1405002,
+    "título": "Fiesta Pagäna",
+    "título_original": "Fiesta Pagäna",
+    "sinopsis": "Narra la historia jamás contada de Mägo de Oz, la banda que revolucionó el rock español al fusionar el heavy metal con el folk celta.",
+    "poster_path": "/WGH8A7l5pQHlO13A7QJ2t4mjvN.jpg",
+    "poster_local": "imagenes_estrenos/Fiesta_Pag_na_WGH8A7l5pQHlO13A7QJ2t4mjvN.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-11-06T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Álvaro Brechner",
+    "directores": [
+      {
+        "name": "Álvaro Brechner",
+        "id": 233912
+      }
+    ],
+    "actores": [
+      {
+        "name": "Adrián Lastra",
+        "id": 224730,
+        "character": "Txus di Fellatio",
+        "profile_path": "/tY8LRngW7UErcXFEOC69apzreqa.jpg"
+      },
+      {
+        "name": "Adrià Mondaray",
+        "id": 1682793,
+        "character": "José Andrëa",
+        "profile_path": null
+      },
+      {
+        "name": "Jon Arias",
+        "id": 1380713,
+        "character": "Salva",
+        "profile_path": "/pdFte8b2cgGNimWlXKeCDaYufzS.jpg"
+      },
+      {
+        "name": "Jorge López",
+        "id": 1623101,
+        "character": "Frank",
+        "profile_path": "/nKNM04xWkOZ4DFlu6ZbGu5pguF3.jpg"
+      },
+      {
+        "name": "Carlos Librado \"Nene\"",
+        "id": 2143181,
+        "character": "Carlitos",
+        "profile_path": "/eDFFkcbparnElg3Z0wtKnAJGuoB.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "popularidad": 4.9755,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1819,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/WGH8A7l5pQHlO13A7QJ2t4mjvN.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1213
+        },
+        {
+          "aspect_ratio": 0.705,
+          "height": 1268,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/zW25LNPBKDKOzipFJjAXs0bhhhr.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 894
+        }
+      ]
+    },
+    "última_actualización": "2026-10-29 22:12:57"
+  },
+  {
+    "id": 1468846,
+    "tmdb_id": 1468846,
+    "título": "Species (Sanguine)",
+    "título_original": "Sanguine",
+    "sinopsis": "",
+    "poster_path": "/fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
+    "poster_local": "imagenes_estrenos/Species__Sanguine__fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
+    "backdrop_path": "/jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
+    "backdrop_local": "imagenes_estrenos/Species__Sanguine__backdrop_jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
+    "fecha_estreno": "2026-11-06T00:00:00.000Z",
+    "duración": "103 min",
+    "director": "Marion Le Corroller",
+    "directores": [
+      {
+        "name": "Marion Le Corroller",
+        "id": 3287533
+      }
+    ],
+    "actores": [
+      {
+        "name": "Mara Taquin",
+        "id": 1894436,
+        "character": "Margot Loiseau",
+        "profile_path": "/yEhRqSa6SAxUDXeAEGwXXfyaEnd.jpg"
+      },
+      {
+        "name": "Karin Viard",
+        "id": 13688,
+        "character": "Hélène",
+        "profile_path": "/quIomRrFBxXq32K5MBuvaTR3xBk.jpg"
+      },
+      {
+        "name": "Kim Higelin",
+        "id": 3070663,
+        "character": "Pauline Boucheron",
+        "profile_path": "/6b2jB4S9M3hbOisr4jmd2S7WfyL.jpg"
+      },
+      {
+        "name": "Sami Outalbali",
+        "id": 544687,
+        "character": "Louis Serraut",
+        "profile_path": "/2ekj2Fc6sK039NKNaCQ8fIhjXq.jpg"
+      },
+      {
+        "name": "Stefan Crepon",
+        "id": 2601088,
+        "character": "Clément Bescond",
+        "profile_path": "/pEhRxeFhLR1iVyYBMkHijkLZ3xN.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 4.8691,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1688,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vuLRfjY1j6qLpw2pe9CgiBfzhdj.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3000
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1688,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/840dgv29JqR6W74ZeeM43vjlsoC.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3000
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/acTXFEv4UAaJWUCDZXxQcOXVUTc.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/fjUSLw9LeulpefroThS9isVhXV4.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/aVTRq10oAjb88cT8ohbLgEyUh89.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-10-29 22:12:57"
   },
   {
     "id": 1755565,
@@ -3395,118 +3395,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-10-29 10:13:27"
-  },
-  {
-    "id": 1522071,
-    "tmdb_id": 1522071,
-    "título": "Ruega por nosotras",
-    "título_original": "Ruega por nosotras",
-    "sinopsis": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
-    "poster_path": "/vgAae3dWzJoFuGQbRaKvSCmogDq.jpg",
-    "poster_local": "imagenes_estrenos/Ruega_por_nosotras_vgAae3dWzJoFuGQbRaKvSCmogDq.jpg",
-    "backdrop_path": "/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
-    "backdrop_local": "imagenes_estrenos/Ruega_por_nosotras_backdrop_dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
-    "fecha_estreno": "2026-11-06T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Daniel Monzón",
-    "directores": [
-      {
-        "name": "Daniel Monzón",
-        "id": 74943
-      }
-    ],
-    "actores": [
-      {
-        "name": "Zoe Bonafonte",
-        "id": 3578018,
-        "character": "",
-        "profile_path": "/pwjNbRQP4GXVREfB96SuzHh2hqq.jpg"
-      },
-      {
-        "name": "Manuela Calle",
-        "id": 5594317,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Carla Domínguez",
-        "id": 3813575,
-        "character": "",
-        "profile_path": "/L4IuSo5mhieqh2F7Ydm4PmLGd6.jpg"
-      },
-      {
-        "name": "María Gandiaga",
-        "id": 4443627,
-        "character": "",
-        "profile_path": "/hNjgPdRfRMmoxuZhKmhcZEThT4a.jpg"
-      },
-      {
-        "name": "Shiara Fernández",
-        "id": 3980931,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 1.3252,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/JP5lKBmLxZOMATJ9JWV5x9DvSe.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.7,
-          "height": 900,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/vgAae3dWzJoFuGQbRaKvSCmogDq.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 630
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/8gHejM4ijIA4Pf4opr5oqbIlFrt.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-10-29 10:13:27"
+    "última_actualización": "2026-10-29 22:12:58"
   },
   {
     "id": 1371661,
@@ -3631,7 +3520,118 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:27"
+    "última_actualización": "2026-10-29 22:12:59"
+  },
+  {
+    "id": 1522071,
+    "tmdb_id": 1522071,
+    "título": "Ruega por nosotras",
+    "título_original": "Ruega por nosotras",
+    "sinopsis": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
+    "poster_path": "/vgAae3dWzJoFuGQbRaKvSCmogDq.jpg",
+    "poster_local": "imagenes_estrenos/Ruega_por_nosotras_vgAae3dWzJoFuGQbRaKvSCmogDq.jpg",
+    "backdrop_path": "/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
+    "backdrop_local": "imagenes_estrenos/Ruega_por_nosotras_backdrop_dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
+    "fecha_estreno": "2026-11-06T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Daniel Monzón",
+    "directores": [
+      {
+        "name": "Daniel Monzón",
+        "id": 74943
+      }
+    ],
+    "actores": [
+      {
+        "name": "Zoe Bonafonte",
+        "id": 3578018,
+        "character": "",
+        "profile_path": "/pwjNbRQP4GXVREfB96SuzHh2hqq.jpg"
+      },
+      {
+        "name": "Manuela Calle",
+        "id": 5594317,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Carla Domínguez",
+        "id": 3813575,
+        "character": "",
+        "profile_path": "/L4IuSo5mhieqh2F7Ydm4PmLGd6.jpg"
+      },
+      {
+        "name": "María Gandiaga",
+        "id": 4443627,
+        "character": "",
+        "profile_path": "/hNjgPdRfRMmoxuZhKmhcZEThT4a.jpg"
+      },
+      {
+        "name": "Shiara Fernández",
+        "id": 3980931,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.3252,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/JP5lKBmLxZOMATJ9JWV5x9DvSe.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.7,
+          "height": 900,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/vgAae3dWzJoFuGQbRaKvSCmogDq.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 630
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/8gHejM4ijIA4Pf4opr5oqbIlFrt.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-10-29 22:12:59"
   },
   {
     "id": 1802770,
@@ -3659,7 +3659,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-10-29 10:13:29"
+    "última_actualización": "2026-10-29 22:13:00"
   },
   {
     "id": 1784105,
@@ -3732,7 +3732,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:27"
+    "última_actualización": "2026-10-29 22:12:58"
   },
   {
     "id": 1421562,
@@ -3837,7 +3837,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:29"
+    "última_actualización": "2026-10-29 22:12:59"
   },
   {
     "id": 891621,
@@ -3905,8 +3905,8 @@
       }
     ],
     "popularidad": 19.8202,
-    "puntuación": 8.75,
-    "votos": 5,
+    "puntuación": 8.857,
+    "votos": 7,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -4006,7 +4006,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:25"
+    "última_actualización": "2026-10-29 22:12:55"
   },
   {
     "id": 1567605,
@@ -4181,7 +4181,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:25"
+    "última_actualización": "2026-10-29 22:12:55"
   },
   {
     "id": 1124142,
@@ -4360,7 +4360,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:25"
+    "última_actualización": "2026-10-29 22:12:56"
   },
   {
     "id": 1427833,
@@ -4509,7 +4509,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:25"
+    "última_actualización": "2026-10-29 22:12:56"
   },
   {
     "id": 1437511,
@@ -4668,7 +4668,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:26"
+    "última_actualización": "2026-10-29 22:12:56"
   },
   {
     "id": 1379486,
@@ -4773,7 +4773,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:26"
+    "última_actualización": "2026-10-29 22:12:56"
   },
   {
     "id": 1506401,
@@ -4864,7 +4864,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:26"
+    "última_actualización": "2026-10-29 22:12:57"
   },
   {
     "id": 13534,
@@ -4993,7 +4993,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:27"
+    "última_actualización": "2026-10-29 22:12:58"
   },
   {
     "id": 1736731,
@@ -5035,7 +5035,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-10-29 10:13:28"
+    "última_actualización": "2026-10-29 22:12:59"
   },
   {
     "id": 1720175,
@@ -5101,7 +5101,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:28"
+    "última_actualización": "2026-10-29 22:13:00"
   },
   {
     "id": 1810457,
@@ -5209,7 +5209,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-10-29 10:13:29"
+    "última_actualización": "2026-10-29 22:13:00"
   },
   {
     "id": 1232569,
@@ -5277,8 +5277,8 @@
       }
     ],
     "popularidad": 159.8711,
-    "puntuación": 6.5,
-    "votos": 149,
+    "puntuación": 6.517,
+    "votos": 150,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -5388,191 +5388,12 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:25"
-  },
-  {
-    "id": 1240889,
-    "tmdb_id": 1240889,
-    "título": "Adolescencia, sexo y muerte en campamento Miasma",
-    "título_original": "Teenage Sex and Death at Camp Miasma",
-    "sinopsis": "Tras años de secuelas cutres y un fandom en declive, la franquicia slasher 'Camp Miasma' es puesta en manos de una joven y entusiasta directora para que la resucite. Pero cuando visita a la estrella de la película original, una actriz que ahora vive recluida y envuelta en misterio, las dos caen en una espiral de sangre, deseo, miedo y delirio.",
-    "poster_path": "/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
-    "poster_local": "imagenes_estrenos/Adolescencia__sexo_y_muerte_en_campamento_Miasma_8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
-    "backdrop_path": "/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg",
-    "backdrop_local": "imagenes_estrenos/Adolescencia__sexo_y_muerte_en_campamento_Miasma_backdrop_c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg",
-    "fecha_estreno": "2026-11-20T00:00:00.000Z",
-    "duración": "106 min",
-    "director": "Jane Schoenbrun",
-    "directores": [
-      {
-        "name": "Jane Schoenbrun",
-        "id": 1827119
-      }
-    ],
-    "actores": [
-      {
-        "name": "Hannah Einbinder",
-        "id": 2559506,
-        "character": "Kris",
-        "profile_path": "/iWMeyJAghUYP3zxmOxzcYLU5G8Z.jpg"
-      },
-      {
-        "name": "Gillian Anderson",
-        "id": 12214,
-        "character": "Billy",
-        "profile_path": "/3Ny8ZYahb33vpqNEPNCE2IOXPew.jpg"
-      },
-      {
-        "name": "Amanda Fix",
-        "id": 3054663,
-        "character": "Young Billy",
-        "profile_path": "/ju3aa2yJL4h5msWcbEryh7cjXOt.jpg"
-      },
-      {
-        "name": "Arthur Conti",
-        "id": 3706720,
-        "character": "Alex",
-        "profile_path": "/pnO8qBwvLJfN54UaKsy0QQlAc8u.jpg"
-      },
-      {
-        "name": "Eva Victor",
-        "id": 2425998,
-        "character": "DJ Ella Giastic",
-        "profile_path": "/nlEirkGOQPVUVgNzIqEJysnt70q.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 27,
-        "name": "Terror"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      }
-    ],
-    "popularidad": 24.1185,
-    "puntuación": 6.1,
-    "votos": 359,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg",
-          "vote_average": 10.0,
-          "vote_count": 4,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1125,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-          "vote_average": 8.034,
-          "vote_count": 5,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1044,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/enQ1TFns1Tjxj8or3L8gPk37JXw.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1856
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1045,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/5aMSQDHUYmYB6GPAO2wEfWArBwG.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1857
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xMrW4hqP9jQpeGFlNMQioUhxKXc.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.666,
-          "height": 2364,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/mYAorRMCxzKBNeQTIYPuP76TR8c.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 1575
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/dltbAtWg4xNRugU8HQH6BrhdcKN.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/sh0nv7dOHXpivK3AQj8Pk8c7Qni.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.675,
-          "height": 2000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/f90H1z8V4WXJ5h85P4zFnAj8QMV.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1350
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/mjRwiLaA3wOsKjINAxWLXtZz1fz.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-10-29 10:13:25"
+    "última_actualización": "2026-10-29 22:12:54"
   },
   {
     "id": 1300968,
     "tmdb_id": 1300968,
-    "título": "Los juegos del hambre: Amanecer en la cosecha",
+    "título": "Los Juegos del Hambre: Amanecer en la cosecha",
     "título_original": "The Hunger Games: Sunrise on the Reaping",
     "sinopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
     "poster_path": "/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
@@ -5746,7 +5567,186 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:25"
+    "última_actualización": "2026-10-29 22:12:54"
+  },
+  {
+    "id": 1240889,
+    "tmdb_id": 1240889,
+    "título": "Adolescencia, sexo y muerte en campamento Miasma",
+    "título_original": "Teenage Sex and Death at Camp Miasma",
+    "sinopsis": "Tras años de secuelas cutres y un fandom en declive, la franquicia slasher 'Camp Miasma' es puesta en manos de una joven y entusiasta directora para que la resucite. Pero cuando visita a la estrella de la película original, una actriz que ahora vive recluida y envuelta en misterio, las dos caen en una espiral de sangre, deseo, miedo y delirio.",
+    "poster_path": "/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
+    "poster_local": "imagenes_estrenos/Adolescencia__sexo_y_muerte_en_campamento_Miasma_8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
+    "backdrop_path": "/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg",
+    "backdrop_local": "imagenes_estrenos/Adolescencia__sexo_y_muerte_en_campamento_Miasma_backdrop_c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg",
+    "fecha_estreno": "2026-11-20T00:00:00.000Z",
+    "duración": "106 min",
+    "director": "Jane Schoenbrun",
+    "directores": [
+      {
+        "name": "Jane Schoenbrun",
+        "id": 1827119
+      }
+    ],
+    "actores": [
+      {
+        "name": "Hannah Einbinder",
+        "id": 2559506,
+        "character": "Kris",
+        "profile_path": "/iWMeyJAghUYP3zxmOxzcYLU5G8Z.jpg"
+      },
+      {
+        "name": "Gillian Anderson",
+        "id": 12214,
+        "character": "Billy",
+        "profile_path": "/3Ny8ZYahb33vpqNEPNCE2IOXPew.jpg"
+      },
+      {
+        "name": "Amanda Fix",
+        "id": 3054663,
+        "character": "Young Billy",
+        "profile_path": "/ju3aa2yJL4h5msWcbEryh7cjXOt.jpg"
+      },
+      {
+        "name": "Arthur Conti",
+        "id": 3706720,
+        "character": "Alex",
+        "profile_path": "/pnO8qBwvLJfN54UaKsy0QQlAc8u.jpg"
+      },
+      {
+        "name": "Eva Victor",
+        "id": 2425998,
+        "character": "DJ Ella Giastic",
+        "profile_path": "/nlEirkGOQPVUVgNzIqEJysnt70q.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "popularidad": 24.1185,
+    "puntuación": 6.083,
+    "votos": 361,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/c3N1tHx6cKmhbv7Gt8M4cwHWPUZ.jpg",
+          "vote_average": 10.0,
+          "vote_count": 4,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1125,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+          "vote_average": 8.034,
+          "vote_count": 5,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1044,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/enQ1TFns1Tjxj8or3L8gPk37JXw.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1856
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1045,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5aMSQDHUYmYB6GPAO2wEfWArBwG.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1857
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xMrW4hqP9jQpeGFlNMQioUhxKXc.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.666,
+          "height": 2364,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mYAorRMCxzKBNeQTIYPuP76TR8c.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 1575
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/dltbAtWg4xNRugU8HQH6BrhdcKN.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/sh0nv7dOHXpivK3AQj8Pk8c7Qni.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.675,
+          "height": 2000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/f90H1z8V4WXJ5h85P4zFnAj8QMV.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1350
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mjRwiLaA3wOsKjINAxWLXtZz1fz.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-10-29 22:12:55"
   },
   {
     "id": 1308767,
@@ -5905,156 +5905,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:25"
-  },
-  {
-    "id": 1176962,
-    "tmdb_id": 1176962,
-    "título": "Rose",
-    "título_original": "Rose",
-    "sinopsis": "En medio de la agitación de la Guerra de los Treinta Años, un misterioso soldado aparece en una apartada aldea protestante afirmando ser el heredero de una mansión abandonada hace mucho tiempo. Su búsqueda de reconocimiento y aceptación se ve complicada por un secreto: ha llegado a la aldea bajo una identidad y un nombre falsos, y fingiendo pertenecer a otro género. Sin embargo, Rose —que es el verdadero nombre del soldado— no se detendrá ante nada para lograr sus objetivos.",
-    "poster_path": "/flnb7COkqD4dZNZiCacNkai22vz.jpg",
-    "poster_local": "imagenes_estrenos/Rose_flnb7COkqD4dZNZiCacNkai22vz.jpg",
-    "backdrop_path": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
-    "backdrop_local": "imagenes_estrenos/Rose_backdrop_1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
-    "fecha_estreno": "2026-11-20T00:00:00.000Z",
-    "duración": "94 min",
-    "director": "Markus Schleinzer",
-    "directores": [
-      {
-        "name": "Markus Schleinzer",
-        "id": 28605
-      }
-    ],
-    "actores": [
-      {
-        "name": "Sandra Hüller",
-        "id": 7152,
-        "character": "Rose",
-        "profile_path": "/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
-      },
-      {
-        "name": "Caro Braun",
-        "id": 5926511,
-        "character": "Suzanna",
-        "profile_path": "/gMlt1SZ6eOUinOcSTc7QhrlEuuy.jpg"
-      },
-      {
-        "name": "Marisa Growaldt",
-        "id": 1817655,
-        "character": "The Narrator (voice)",
-        "profile_path": "/lbDsn2cj6ATAL4Su10Usp0R5b4t.jpg"
-      },
-      {
-        "name": "Robert Gwisdek",
-        "id": 50244,
-        "character": "The Bailiff",
-        "profile_path": "/doCAnt1rXCLmbLlMA9wQx215LSF.jpg"
-      },
-      {
-        "name": "Godehard Giese",
-        "id": 928468,
-        "character": "The Large-Scale Farmer",
-        "profile_path": "/2vz3pSqdPUEtJ5xcNTWh7eZVdkj.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 36,
-        "name": "Historia"
-      },
-      {
-        "id": 10752,
-        "name": "Bélica"
-      }
-    ],
-    "popularidad": 5.5718,
-    "puntuación": 7.6,
-    "votos": 61,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1079,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/hW0geqVrlxERtc32wIwJv9AcWE6.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1918
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1079,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/mUg4XJwjXqI4Bom1lzQ72dTABA9.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1918
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6jrRBqeAaI9i6fyy0s5EAlLuwIQ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ewitRaiKieUQOxDkjfie4iy3ulK.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/vPTEousi0WL4OUk3I2xmOe3m5w6.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/aNpV4cYQCGyS3slhUl5csvmIII6.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-10-29 10:13:26"
+    "última_actualización": "2026-10-29 22:12:56"
   },
   {
     "id": 947493,
@@ -6122,8 +5973,8 @@
       }
     ],
     "popularidad": 6.9774,
-    "puntuación": 8.2,
-    "votos": 27,
+    "puntuación": 8.232,
+    "votos": 28,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -6233,7 +6084,156 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:26"
+    "última_actualización": "2026-10-29 22:12:56"
+  },
+  {
+    "id": 1176962,
+    "tmdb_id": 1176962,
+    "título": "Rose",
+    "título_original": "Rose",
+    "sinopsis": "En medio de la agitación de la Guerra de los Treinta Años, un misterioso soldado aparece en una apartada aldea protestante afirmando ser el heredero de una mansión abandonada hace mucho tiempo. Su búsqueda de reconocimiento y aceptación se ve complicada por un secreto: ha llegado a la aldea bajo una identidad y un nombre falsos, y fingiendo pertenecer a otro género. Sin embargo, Rose —que es el verdadero nombre del soldado— no se detendrá ante nada para lograr sus objetivos.",
+    "poster_path": "/flnb7COkqD4dZNZiCacNkai22vz.jpg",
+    "poster_local": "imagenes_estrenos/Rose_flnb7COkqD4dZNZiCacNkai22vz.jpg",
+    "backdrop_path": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
+    "backdrop_local": "imagenes_estrenos/Rose_backdrop_1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
+    "fecha_estreno": "2026-11-20T00:00:00.000Z",
+    "duración": "94 min",
+    "director": "Markus Schleinzer",
+    "directores": [
+      {
+        "name": "Markus Schleinzer",
+        "id": 28605
+      }
+    ],
+    "actores": [
+      {
+        "name": "Sandra Hüller",
+        "id": 7152,
+        "character": "Rose",
+        "profile_path": "/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
+      },
+      {
+        "name": "Caro Braun",
+        "id": 5926511,
+        "character": "Suzanna",
+        "profile_path": "/gMlt1SZ6eOUinOcSTc7QhrlEuuy.jpg"
+      },
+      {
+        "name": "Marisa Growaldt",
+        "id": 1817655,
+        "character": "The Narrator (voice)",
+        "profile_path": "/lbDsn2cj6ATAL4Su10Usp0R5b4t.jpg"
+      },
+      {
+        "name": "Robert Gwisdek",
+        "id": 50244,
+        "character": "The Bailiff",
+        "profile_path": "/doCAnt1rXCLmbLlMA9wQx215LSF.jpg"
+      },
+      {
+        "name": "Godehard Giese",
+        "id": 928468,
+        "character": "The Large-Scale Farmer",
+        "profile_path": "/2vz3pSqdPUEtJ5xcNTWh7eZVdkj.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      }
+    ],
+    "popularidad": 5.5718,
+    "puntuación": 7.637,
+    "votos": 62,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1079,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/hW0geqVrlxERtc32wIwJv9AcWE6.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1918
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1079,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mUg4XJwjXqI4Bom1lzQ72dTABA9.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1918
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6jrRBqeAaI9i6fyy0s5EAlLuwIQ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ewitRaiKieUQOxDkjfie4iy3ulK.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vPTEousi0WL4OUk3I2xmOe3m5w6.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/aNpV4cYQCGyS3slhUl5csvmIII6.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-10-29 22:12:57"
   },
   {
     "id": 1437939,
@@ -6374,7 +6374,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:27"
+    "última_actualización": "2026-10-29 22:12:58"
   },
   {
     "id": 1736705,
@@ -6478,7 +6478,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:27"
+    "última_actualización": "2026-10-29 22:12:58"
   },
   {
     "id": 1578646,
@@ -6569,7 +6569,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:27"
+    "última_actualización": "2026-10-29 22:12:58"
   },
   {
     "id": 1658070,
@@ -6646,7 +6646,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:28"
+    "última_actualización": "2026-10-29 22:12:59"
   },
   {
     "id": 1732872,
@@ -6690,7 +6690,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:28"
+    "última_actualización": "2026-10-29 22:13:00"
   },
   {
     "id": 1641467,
@@ -6757,7 +6757,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:29"
+    "última_actualización": "2026-10-29 22:13:00"
   },
   {
     "id": 1802868,
@@ -6892,6 +6892,6 @@
         }
       ]
     },
-    "última_actualización": "2026-10-29 10:13:28"
+    "última_actualización": "2026-10-29 22:12:59"
   }
 ]
