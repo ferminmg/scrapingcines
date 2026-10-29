@@ -4,11 +4,6 @@
         "cartel": "imagenes_peliculas/tmdb_9bvqhfaq3bhkk5nsyxtysmn5lrb.jpg",
         "horarios": [
             {
-                "fecha": "2026-10-28",
-                "hora": "22:15",
-                "enlace_entradas": ""
-            },
-            {
                 "fecha": "2026-10-29",
                 "hora": "22:15",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103100&eventCode=112965"
@@ -57,11 +52,6 @@
         "título": "La Invitación",
         "cartel": "imagenes_peliculas/tmdb_21jnfycarirkms9azhttxizkbij.jpg",
         "horarios": [
-            {
-                "fecha": "2026-10-28",
-                "hora": "20:00",
-                "enlace_entradas": ""
-            },
             {
                 "fecha": "2026-10-29",
                 "hora": "20:00",
@@ -257,19 +247,28 @@
         "nota": "KLASIKOAK 2026"
     },
     {
+        "título": "Chopin",
+        "cartel": "imagenes_peliculas/tmdb_lwesl7ehbpteyfgouvrduvxbtyq.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-10-29",
+                "hora": "21:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93175&eventCode=112940"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Michał Kwieciński",
+        "duración": "114 min",
+        "actores": "Eryk Kulm, Joséphine de la Baume, Victor Meutelet, Lambert Wilson, Theo Grundmann Brechet",
+        "sinopsis": "¿Quién es este joven y valiente pianista? ¿Quién es este compositor polaco que trasciende el poder de la música? ¿Quién es esta estrella que hace que todos los ojos parisinos se vuelvan hacia él? Lo llaman Chopin. Es el centro de todas las conversaciones, la figura más romántica de las noches decadentes de París. Cuando sus pulmones comienzan a sangrar, Chopin sabe que sus días están contados. Componer se convierte en su única obsesión. El reloj, que avanza rápidamente, lo empuja a revolucionar la música.",
+        "año": "2025",
+        "tmdb_id": 1299799,
+        "nota": null
+    },
+    {
         "título": "Inurri Itsuak (Las ciegas hormigas)",
         "cartel": "imagenes_peliculas/tmdb_8trpydaq8wm3dfgiabo0lnluecn.jpg",
         "horarios": [
-            {
-                "fecha": "2026-10-28",
-                "hora": "17:00",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-10-28",
-                "hora": "19:15",
-                "enlace_entradas": ""
-            },
             {
                 "fecha": "2026-10-29",
                 "hora": "17:00",
@@ -329,21 +328,6 @@
         "título": "Naza",
         "cartel": "imagenes_peliculas/tmdb_urm4mncgiscxowqdnwexsutvkag.jpg",
         "horarios": [
-            {
-                "fecha": "2026-10-28",
-                "hora": "16:30",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-10-28",
-                "hora": "19:30",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-10-28",
-                "hora": "21:30",
-                "enlace_entradas": ""
-            },
             {
                 "fecha": "2026-10-29",
                 "hora": "16:30",
@@ -432,25 +416,6 @@
         "sinopsis": "Rodada por la noche en los tejados de Tel Aviv, el documental revela con todo detalle los mecanismos que hay detrás del asesinato en masa y deliberado de civiles palestinos en Gaza por parte de las tropas de Israel. Naza es la palabra utilizada por el ejército israelí para denominar a las víctimas civiles como 'daños colaterales'.",
         "año": "2026",
         "tmdb_id": 1755291,
-        "nota": null
-    },
-    {
-        "título": "Chopin",
-        "cartel": "imagenes_peliculas/tmdb_lwesl7ehbpteyfgouvrduvxbtyq.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-10-29",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93175&eventCode=112940"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Michał Kwieciński",
-        "duración": "114 min",
-        "actores": "Eryk Kulm, Joséphine de la Baume, Victor Meutelet, Lambert Wilson, Theo Grundmann Brechet",
-        "sinopsis": "¿Quién es este joven y valiente pianista? ¿Quién es este compositor polaco que trasciende el poder de la música? ¿Quién es esta estrella que hace que todos los ojos parisinos se vuelvan hacia él? Lo llaman Chopin. Es el centro de todas las conversaciones, la figura más romántica de las noches decadentes de París. Cuando sus pulmones comienzan a sangrar, Chopin sabe que sus días están contados. Componer se convierte en su única obsesión. El reloj, que avanza rápidamente, lo empuja a revolucionar la música.",
-        "año": "2025",
-        "tmdb_id": 1299799,
         "nota": null
     },
     {
