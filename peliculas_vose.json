@@ -55,7 +55,7 @@
             {
                 "fecha": "2026-10-29",
                 "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103102&eventCode=111923"
+                "enlace_entradas": ""
             },
             {
                 "fecha": "2026-10-30",
@@ -277,7 +277,7 @@
             {
                 "fecha": "2026-10-29",
                 "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93180&eventCode=114522"
+                "enlace_entradas": ""
             },
             {
                 "fecha": "2026-10-30",
@@ -336,12 +336,17 @@
             {
                 "fecha": "2026-10-29",
                 "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93177&eventCode=115052"
+                "enlace_entradas": ""
             },
             {
                 "fecha": "2026-10-29",
                 "hora": "21:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93168&eventCode=115052"
+            },
+            {
+                "fecha": "2026-10-30",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93334&eventCode=115052"
             },
             {
                 "fecha": "2026-10-30",
@@ -401,7 +406,7 @@
             {
                 "fecha": "2026-11-05",
                 "hora": "16:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93298&eventCode=115052"
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93332&eventCode=115052"
             },
             {
                 "fecha": "2026-11-05",
@@ -446,11 +451,6 @@
                 "fecha": "2026-11-03",
                 "hora": "21:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93288&eventCode=115841"
-            },
-            {
-                "fecha": "2026-11-05",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93303&eventCode=115841"
             }
         ],
         "cine": "Golem Yamaguchi",
@@ -503,7 +503,7 @@
             }
         ],
         "cine": "Golem Yamaguchi",
-        "director": "Alex Huston Fischer, Eleanor Wilson",
+        "director": "Eleanor Wilson, Alex Huston Fischer",
         "duración": "105 min",
         "actores": "Olivia Colman, Alexander Skarsgård, Peter Dinklage, Elizabeth Debicki, Marli Siu",
         "sinopsis": "Una pescadora vive en la periferia de un pueblo costero; es soltera, apestosa y objeto de burlas constantes. Un día, harta de sus estirados y estrechos vecinos, encarga un marido de mimbre para ella.",
