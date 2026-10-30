@@ -46,7 +46,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-10-30 10:13:52"
+    "última_actualización": "2026-10-30 22:10:21"
   },
   {
     "id": 1058424,
@@ -2201,7 +2201,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:52"
+    "última_actualización": "2026-10-30 22:10:21"
   },
   {
     "id": 656908,
@@ -2269,8 +2269,8 @@
       }
     ],
     "popularidad": 22.9732,
-    "puntuación": 0.0,
-    "votos": 0,
+    "puntuación": 10.0,
+    "votos": 1,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2347,10 +2347,20 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 1684
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/bMfhefbP33wWGWrH84e9Fu8pWx1.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:47"
+    "última_actualización": "2026-10-30 22:10:18"
   },
   {
     "id": 1381071,
@@ -2482,9 +2492,9 @@
           "height": 3000,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/dQ1VgCHcXSYiIt21pM5yf9stKir.jpg",
+          "file_path": "/q7gaYKraFOlI4InFq4rFlSfSOe9.jpg",
           "vote_average": 3.334,
-          "vote_count": 2,
+          "vote_count": 1,
           "width": 2000
         },
         {
@@ -2502,19 +2512,9 @@
           "height": 3000,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/jBXzAD2Krv3OmiH0757WiPe75fs.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
           "file_path": "/e8gIGHtOPlMbdzMhCUnpOud1CPv.jpg",
           "vote_average": 3.334,
-          "vote_count": 1,
+          "vote_count": 2,
           "width": 2000
         },
         {
@@ -2526,10 +2526,20 @@
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/nWYx9u3Z6UD1dqQjBwPNjOndx2e.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:47"
+    "última_actualización": "2026-10-30 22:10:18"
   },
   {
     "id": 1117898,
@@ -2609,8 +2619,8 @@
       }
     ],
     "popularidad": 19.4594,
-    "puntuación": 10.0,
-    "votos": 1,
+    "puntuación": 8.5,
+    "votos": 2,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2720,7 +2730,146 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:48"
+    "última_actualización": "2026-10-30 22:10:18"
+  },
+  {
+    "id": 1241803,
+    "tmdb_id": 1241803,
+    "título": "Los miserables",
+    "título_original": "Les Misérables",
+    "sinopsis": "",
+    "poster_path": "/jwRMUI6rGjAwkXHEqBlSnViT6gG.jpg",
+    "poster_local": "imagenes_estrenos/Los_miserables_tY3CoBNTCpvJayVRLqIIGDa4Ep8.jpg",
+    "backdrop_path": "/2IAY24dGrbGnafJ3ENXmCDTDvxg.jpg",
+    "backdrop_local": "imagenes_estrenos/Los_miserables_backdrop_xf06i3TzigoXAXhEIbLNAto8svv.jpg",
+    "fecha_estreno": "2026-11-06T00:00:00.000Z",
+    "duración": "178 min",
+    "director": "Fred Cavayé",
+    "directores": [
+      {
+        "name": "Fred Cavayé",
+        "id": 77008
+      }
+    ],
+    "actores": [
+      {
+        "name": "Vincent Lindon",
+        "id": 5443,
+        "character": "Jean Valjean",
+        "profile_path": "/tjRKMKfsIH7MrqtN7cMPIZubSXa.jpg"
+      },
+      {
+        "name": "Tahar Rahim",
+        "id": 81051,
+        "character": "Inspecteur Javert",
+        "profile_path": "/r1SJ9nkG9q4JbPHbtcvcVxmRcHw.jpg"
+      },
+      {
+        "name": "Camille Cottin",
+        "id": 1348474,
+        "character": "Mme Thénardier",
+        "profile_path": "/ArBIA46esEk1qMlSwoVPR1SxPvc.jpg"
+      },
+      {
+        "name": "Benjamin Lavernhe",
+        "id": 1159954,
+        "character": "M. Thénardier",
+        "profile_path": "/e0wFxLvNHS0XmdRKpMeIytDFZmO.jpg"
+      },
+      {
+        "name": "Noémie Merlant",
+        "id": 1385600,
+        "character": "Fantine",
+        "profile_path": "/l9ECDc9GGIESuKuT5zxIJknAD33.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 6.711,
+    "puntuación": 7.2,
+    "votos": 51,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/2IAY24dGrbGnafJ3ENXmCDTDvxg.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/lQQVChBZQoC3iirkn9U9gfFiDHJ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/n8rGUyk96OyS80LiEfNYkyyzaFj.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/8lwY8tnXfyRpv2oR3uvyLysyAAR.jpg",
+          "vote_average": 1.222,
+          "vote_count": 3,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1013,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xf06i3TzigoXAXhEIbLNAto8svv.jpg",
+          "vote_average": 0.166,
+          "vote_count": 3,
+          "width": 1800
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/jwRMUI6rGjAwkXHEqBlSnViT6gG.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-10-30 22:10:19"
   },
   {
     "id": 1649403,
@@ -2841,135 +2990,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:49"
-  },
-  {
-    "id": 1241803,
-    "tmdb_id": 1241803,
-    "título": "Los miserables",
-    "título_original": "Les Misérables",
-    "sinopsis": "",
-    "poster_path": "/tY3CoBNTCpvJayVRLqIIGDa4Ep8.jpg",
-    "poster_local": "imagenes_estrenos/Los_miserables_tY3CoBNTCpvJayVRLqIIGDa4Ep8.jpg",
-    "backdrop_path": "/2IAY24dGrbGnafJ3ENXmCDTDvxg.jpg",
-    "backdrop_local": "imagenes_estrenos/Los_miserables_backdrop_xf06i3TzigoXAXhEIbLNAto8svv.jpg",
-    "fecha_estreno": "2026-11-06T00:00:00.000Z",
-    "duración": "178 min",
-    "director": "Fred Cavayé",
-    "directores": [
-      {
-        "name": "Fred Cavayé",
-        "id": 77008
-      }
-    ],
-    "actores": [
-      {
-        "name": "Vincent Lindon",
-        "id": 5443,
-        "character": "Jean Valjean",
-        "profile_path": "/tjRKMKfsIH7MrqtN7cMPIZubSXa.jpg"
-      },
-      {
-        "name": "Tahar Rahim",
-        "id": 81051,
-        "character": "Inspecteur Javert",
-        "profile_path": "/r1SJ9nkG9q4JbPHbtcvcVxmRcHw.jpg"
-      },
-      {
-        "name": "Camille Cottin",
-        "id": 1348474,
-        "character": "Mme Thénardier",
-        "profile_path": "/ArBIA46esEk1qMlSwoVPR1SxPvc.jpg"
-      },
-      {
-        "name": "Benjamin Lavernhe",
-        "id": 1159954,
-        "character": "M. Thénardier",
-        "profile_path": "/e0wFxLvNHS0XmdRKpMeIytDFZmO.jpg"
-      },
-      {
-        "name": "Noémie Merlant",
-        "id": 1385600,
-        "character": "Fantine",
-        "profile_path": "/l9ECDc9GGIESuKuT5zxIJknAD33.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 36,
-        "name": "Historia"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 6.711,
-    "puntuación": 7.157,
-    "votos": 51,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/2IAY24dGrbGnafJ3ENXmCDTDvxg.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/lQQVChBZQoC3iirkn9U9gfFiDHJ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/n8rGUyk96OyS80LiEfNYkyyzaFj.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/8lwY8tnXfyRpv2oR3uvyLysyAAR.jpg",
-          "vote_average": 1.222,
-          "vote_count": 3,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1013,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/xf06i3TzigoXAXhEIbLNAto8svv.jpg",
-          "vote_average": 0.166,
-          "vote_count": 3,
-          "width": 1800
-        }
-      ],
-      "posters": []
-    },
-    "última_actualización": "2026-10-30 10:13:49"
+    "última_actualización": "2026-10-30 22:10:19"
   },
   {
     "id": 1217954,
@@ -2977,7 +2998,7 @@
     "título": "Lucy Lost",
     "título_original": "Lucy Lost",
     "sinopsis": "",
-    "poster_path": "/ucEnLbYQDdzE0bjGPhnVEbdu7kd.jpg",
+    "poster_path": "/nngRbX3VsYZwG9zT7VOKYWRlP33.jpg",
     "poster_local": "imagenes_estrenos/Lucy_Lost_ucEnLbYQDdzE0bjGPhnVEbdu7kd.jpg",
     "backdrop_path": "/lhb1NoiKScRaApfn9rqaG9uS4MY.jpg",
     "backdrop_local": "imagenes_estrenos/Lucy_Lost_backdrop_lhb1NoiKScRaApfn9rqaG9uS4MY.jpg",
@@ -3103,103 +3124,20 @@
           "width": 1792
         }
       ],
-      "posters": []
-    },
-    "última_actualización": "2026-10-30 10:13:49"
-  },
-  {
-    "id": 1405002,
-    "tmdb_id": 1405002,
-    "título": "Fiesta Pagäna",
-    "título_original": "Fiesta Pagäna",
-    "sinopsis": "Narra la historia jamás contada de Mägo de Oz, la banda que revolucionó el rock español al fusionar el heavy metal con el folk celta.",
-    "poster_path": "/WGH8A7l5pQHlO13A7QJ2t4mjvN.jpg",
-    "poster_local": "imagenes_estrenos/Fiesta_Pag_na_WGH8A7l5pQHlO13A7QJ2t4mjvN.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-11-06T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Álvaro Brechner",
-    "directores": [
-      {
-        "name": "Álvaro Brechner",
-        "id": 233912
-      }
-    ],
-    "actores": [
-      {
-        "name": "Adrián Lastra",
-        "id": 224730,
-        "character": "Txus di Fellatio",
-        "profile_path": "/tY8LRngW7UErcXFEOC69apzreqa.jpg"
-      },
-      {
-        "name": "Adrià Mondaray",
-        "id": 1682793,
-        "character": "José Andrëa",
-        "profile_path": null
-      },
-      {
-        "name": "Jon Arias",
-        "id": 1380713,
-        "character": "Salva",
-        "profile_path": "/pdFte8b2cgGNimWlXKeCDaYufzS.jpg"
-      },
-      {
-        "name": "Jorge López",
-        "id": 1623101,
-        "character": "Frank",
-        "profile_path": "/nKNM04xWkOZ4DFlu6ZbGu5pguF3.jpg"
-      },
-      {
-        "name": "Carlos Librado \"Nene\"",
-        "id": 2143181,
-        "character": "Carlitos",
-        "profile_path": "/eDFFkcbparnElg3Z0wtKnAJGuoB.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10402,
-        "name": "Música"
-      }
-    ],
-    "popularidad": 4.3901,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
       "posters": [
         {
           "aspect_ratio": 0.667,
-          "height": 1819,
+          "height": 2837,
           "iso_3166_1": "ES",
           "iso_639_1": "es",
-          "file_path": "/WGH8A7l5pQHlO13A7QJ2t4mjvN.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1213
-        },
-        {
-          "aspect_ratio": 0.705,
-          "height": 1268,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/zW25LNPBKDKOzipFJjAXs0bhhhr.jpg",
-          "vote_average": 0.166,
-          "vote_count": 1,
-          "width": 894
+          "file_path": "/nngRbX3VsYZwG9zT7VOKYWRlP33.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1891
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:49"
+    "última_actualización": "2026-10-30 22:10:19"
   },
   {
     "id": 1468846,
@@ -3334,68 +3272,70 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:49"
+    "última_actualización": "2026-10-30 22:10:19"
   },
   {
-    "id": 1755565,
-    "tmdb_id": 1755565,
-    "título": "11",
-    "título_original": "11",
-    "sinopsis": "",
-    "poster_path": "/7pksyM5i9GeCJzlDscQ5te13vaL.jpg",
-    "poster_local": "imagenes_estrenos/11_7pksyM5i9GeCJzlDscQ5te13vaL.jpg",
+    "id": 1405002,
+    "tmdb_id": 1405002,
+    "título": "Fiesta Pagäna",
+    "título_original": "Fiesta Pagäna",
+    "sinopsis": "Narra la historia jamás contada de Mägo de Oz, la banda que revolucionó el rock español al fusionar el heavy metal con el folk celta.",
+    "poster_path": "/WGH8A7l5pQHlO13A7QJ2t4mjvN.jpg",
+    "poster_local": "imagenes_estrenos/Fiesta_Pag_na_WGH8A7l5pQHlO13A7QJ2t4mjvN.jpg",
     "backdrop_path": null,
     "backdrop_local": "",
     "fecha_estreno": "2026-11-06T00:00:00.000Z",
-    "duración": "89 min",
-    "director": "Paula Serra, Clàudia Serra",
+    "duración": "0 min",
+    "director": "Álvaro Brechner",
     "directores": [
       {
-        "name": "Paula Serra",
-        "id": 2725308
-      },
-      {
-        "name": "Clàudia Serra",
-        "id": 5882480
+        "name": "Álvaro Brechner",
+        "id": 233912
       }
     ],
     "actores": [
       {
-        "name": "Jael Borràs",
-        "id": 6213180,
-        "character": "",
-        "profile_path": "/n6XCImQ0cLhAAeLlUcMP0MxV7aj.jpg"
+        "name": "Adrián Lastra",
+        "id": 224730,
+        "character": "Txus di Fellatio",
+        "profile_path": "/tY8LRngW7UErcXFEOC69apzreqa.jpg"
       },
       {
-        "name": "Mia Sala-Patau",
-        "id": 3698073,
-        "character": "",
+        "name": "Adrià Mondaray",
+        "id": 1682793,
+        "character": "José Andrëa",
         "profile_path": null
       },
       {
-        "name": "Pablo Scapigliati",
-        "id": 2869815,
-        "character": "",
-        "profile_path": "/8VDS2NnHHoinvCuqi9MdEJaUwVx.jpg"
+        "name": "Jon Arias",
+        "id": 1380713,
+        "character": "Salva",
+        "profile_path": "/pdFte8b2cgGNimWlXKeCDaYufzS.jpg"
       },
       {
-        "name": "Marc Vila",
-        "id": 1330982,
-        "character": "",
-        "profile_path": null
+        "name": "Jorge López",
+        "id": 1623101,
+        "character": "Frank",
+        "profile_path": "/nKNM04xWkOZ4DFlu6ZbGu5pguF3.jpg"
+      },
+      {
+        "name": "Carlos Librado \"Nene\"",
+        "id": 2143181,
+        "character": "Carlitos",
+        "profile_path": "/eDFFkcbparnElg3Z0wtKnAJGuoB.jpg"
       }
     ],
     "géneros": [
       {
-        "id": 27,
-        "name": "Terror"
+        "id": 18,
+        "name": "Drama"
       },
       {
-        "id": 53,
-        "name": "Suspense"
+        "id": 10402,
+        "name": "Música"
       }
     ],
-    "popularidad": 1.486,
+    "popularidad": 4.3901,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3403,9 +3343,141 @@
     "año": "2026",
     "imágenes": {
       "backdrops": [],
-      "posters": []
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1819,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/WGH8A7l5pQHlO13A7QJ2t4mjvN.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1213
+        },
+        {
+          "aspect_ratio": 0.705,
+          "height": 1268,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/zW25LNPBKDKOzipFJjAXs0bhhhr.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 894
+        }
+      ]
     },
-    "última_actualización": "2026-10-30 10:13:51"
+    "última_actualización": "2026-10-30 22:10:20"
+  },
+  {
+    "id": 1522071,
+    "tmdb_id": 1522071,
+    "título": "Ruega por nosotras",
+    "título_original": "Ruega por nosotras",
+    "sinopsis": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
+    "poster_path": "/vgAae3dWzJoFuGQbRaKvSCmogDq.jpg",
+    "poster_local": "imagenes_estrenos/Ruega_por_nosotras_vgAae3dWzJoFuGQbRaKvSCmogDq.jpg",
+    "backdrop_path": "/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
+    "backdrop_local": "imagenes_estrenos/Ruega_por_nosotras_backdrop_dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
+    "fecha_estreno": "2026-11-06T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Daniel Monzón",
+    "directores": [
+      {
+        "name": "Daniel Monzón",
+        "id": 74943
+      }
+    ],
+    "actores": [
+      {
+        "name": "Zoe Bonafonte",
+        "id": 3578018,
+        "character": "",
+        "profile_path": "/pwjNbRQP4GXVREfB96SuzHh2hqq.jpg"
+      },
+      {
+        "name": "Manuela Calle",
+        "id": 5594317,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Carla Domínguez",
+        "id": 3813575,
+        "character": "",
+        "profile_path": "/L4IuSo5mhieqh2F7Ydm4PmLGd6.jpg"
+      },
+      {
+        "name": "María Gandiaga",
+        "id": 4443627,
+        "character": "",
+        "profile_path": "/hNjgPdRfRMmoxuZhKmhcZEThT4a.jpg"
+      },
+      {
+        "name": "Shiara Fernández",
+        "id": 3980931,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 2.295,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/JP5lKBmLxZOMATJ9JWV5x9DvSe.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.7,
+          "height": 900,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/vgAae3dWzJoFuGQbRaKvSCmogDq.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 630
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/8gHejM4ijIA4Pf4opr5oqbIlFrt.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-10-30 22:10:20"
   },
   {
     "id": 1371661,
@@ -3530,118 +3602,78 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:51"
+    "última_actualización": "2026-10-30 22:10:21"
   },
   {
-    "id": 1522071,
-    "tmdb_id": 1522071,
-    "título": "Ruega por nosotras",
-    "título_original": "Ruega por nosotras",
-    "sinopsis": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
-    "poster_path": "/vgAae3dWzJoFuGQbRaKvSCmogDq.jpg",
-    "poster_local": "imagenes_estrenos/Ruega_por_nosotras_vgAae3dWzJoFuGQbRaKvSCmogDq.jpg",
-    "backdrop_path": "/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
-    "backdrop_local": "imagenes_estrenos/Ruega_por_nosotras_backdrop_dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
+    "id": 1755565,
+    "tmdb_id": 1755565,
+    "título": "11",
+    "título_original": "11",
+    "sinopsis": "",
+    "poster_path": "/7pksyM5i9GeCJzlDscQ5te13vaL.jpg",
+    "poster_local": "imagenes_estrenos/11_7pksyM5i9GeCJzlDscQ5te13vaL.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
     "fecha_estreno": "2026-11-06T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "Daniel Monzón",
+    "duración": "89 min",
+    "director": "Paula Serra, Clàudia Serra",
     "directores": [
       {
-        "name": "Daniel Monzón",
-        "id": 74943
+        "name": "Paula Serra",
+        "id": 2725308
+      },
+      {
+        "name": "Clàudia Serra",
+        "id": 5882480
       }
     ],
     "actores": [
       {
-        "name": "Zoe Bonafonte",
-        "id": 3578018,
+        "name": "Jael Borràs",
+        "id": 6213180,
         "character": "",
-        "profile_path": "/pwjNbRQP4GXVREfB96SuzHh2hqq.jpg"
+        "profile_path": "/n6XCImQ0cLhAAeLlUcMP0MxV7aj.jpg"
       },
       {
-        "name": "Manuela Calle",
-        "id": 5594317,
+        "name": "Mia Sala-Patau",
+        "id": 3698073,
         "character": "",
         "profile_path": null
       },
       {
-        "name": "Carla Domínguez",
-        "id": 3813575,
+        "name": "Pablo Scapigliati",
+        "id": 2869815,
         "character": "",
-        "profile_path": "/L4IuSo5mhieqh2F7Ydm4PmLGd6.jpg"
+        "profile_path": "/8VDS2NnHHoinvCuqi9MdEJaUwVx.jpg"
       },
       {
-        "name": "María Gandiaga",
-        "id": 4443627,
-        "character": "",
-        "profile_path": "/hNjgPdRfRMmoxuZhKmhcZEThT4a.jpg"
-      },
-      {
-        "name": "Shiara Fernández",
-        "id": 3980931,
+        "name": "Marc Vila",
+        "id": 1330982,
         "character": "",
         "profile_path": null
       }
     ],
     "géneros": [
       {
-        "id": 18,
-        "name": "Drama"
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
       }
     ],
-    "popularidad": 2.295,
+    "popularidad": 1.486,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
     "video": false,
     "año": "2026",
     "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/dcms6atcKVzYPMWJwvltYkaq2zf.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/JP5lKBmLxZOMATJ9JWV5x9DvSe.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.7,
-          "height": 900,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/vgAae3dWzJoFuGQbRaKvSCmogDq.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 630
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/8gHejM4ijIA4Pf4opr5oqbIlFrt.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
+      "backdrops": [],
+      "posters": []
     },
-    "última_actualización": "2026-10-30 10:13:51"
+    "última_actualización": "2026-10-30 22:10:21"
   },
   {
     "id": 1802770,
@@ -3669,7 +3701,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-10-30 10:13:52"
+    "última_actualización": "2026-10-30 22:10:21"
   },
   {
     "id": 1784105,
@@ -3742,7 +3774,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:50"
+    "última_actualización": "2026-10-30 22:10:20"
   },
   {
     "id": 1421562,
@@ -3847,7 +3879,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:52"
+    "última_actualización": "2026-10-30 22:10:21"
   },
   {
     "id": 1567605,
@@ -3857,7 +3889,7 @@
     "sinopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
     "poster_path": "/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
     "poster_local": "imagenes_estrenos/Scrooge_y_los_fantasmas_de_la_Navidad_gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-    "backdrop_path": "/6VlTpWnm6DjNlK1NKFv1o4eMU33.jpg",
+    "backdrop_path": "/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
     "backdrop_local": "imagenes_estrenos/Scrooge_y_los_fantasmas_de_la_Navidad_backdrop_bG8uwYAq5Y9bPDaoxq2eHjopA9T.jpg",
     "fecha_estreno": "2026-11-13T00:00:00.000Z",
     "duración": "115 min",
@@ -3923,6 +3955,16 @@
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
+          "file_path": "/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/6VlTpWnm6DjNlK1NKFv1o4eMU33.jpg",
           "vote_average": 2.542,
           "vote_count": 4,
@@ -3957,16 +3999,6 @@
           "vote_average": 1.75,
           "vote_count": 2,
           "width": 2296
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1152,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/nAkH7yDch9ZsIPxuDTHOFZDI4hb.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2048
         }
       ],
       "posters": [
@@ -4015,14 +4047,14 @@
           "height": 3000,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/qmhT3W7eEBZLB8R8Cmt7WYG4e2X.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
+          "file_path": "/v0B9UdIVGoiX7N75GSJOqDStK46.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
           "width": 2000
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:47"
+    "última_actualización": "2026-10-30 22:10:18"
   },
   {
     "id": 891621,
@@ -4191,7 +4223,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:47"
+    "última_actualización": "2026-10-30 22:10:18"
   },
   {
     "id": 1427833,
@@ -4340,186 +4372,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:48"
-  },
-  {
-    "id": 1124142,
-    "tmdb_id": 1124142,
-    "título": "Los rivales de Amziah King",
-    "título_original": "The Rivals of Amziah King",
-    "sinopsis": "En lo más profundo de los bosques de la Oklahoma rural, el carismático y musicalmente dotado Amziah King lidera una banda de inadaptados que tocan bluegrass mientras supervisa la principal operación de fabricación de miel del pueblo. Cuando la hija adoptiva de Amziah, Kateri, regresa inesperadamente, él trata de renovar su conexión y crear un negocio familiar. Pero el juego de la miel es despiadado, y los rivales de Amziah amenazan con destruir todo lo que ha construido.",
-    "poster_path": "/gINcZnpbBboaT5cMYGJiWi6Og3Y.jpg",
-    "poster_local": "imagenes_estrenos/Los_rivales_de_Amziah_King_gINcZnpbBboaT5cMYGJiWi6Og3Y.jpg",
-    "backdrop_path": "/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
-    "backdrop_local": "imagenes_estrenos/Los_rivales_de_Amziah_King_backdrop_nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
-    "fecha_estreno": "2026-11-13T00:00:00.000Z",
-    "duración": "131 min",
-    "director": "Andrew Patterson",
-    "directores": [
-      {
-        "name": "Andrew Patterson",
-        "id": 2186238
-      }
-    ],
-    "actores": [
-      {
-        "name": "Matthew McConaughey",
-        "id": 10297,
-        "character": "Amziah King",
-        "profile_path": "/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
-      },
-      {
-        "name": "Kurt Russell",
-        "id": 6856,
-        "character": "Dob McCoy",
-        "profile_path": "/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg"
-      },
-      {
-        "name": "Angelina LookingGlass",
-        "id": 4769412,
-        "character": "Kateri",
-        "profile_path": "/jo1OhLLAsM9Noqy9tD3ioJLi2AC.jpg"
-      },
-      {
-        "name": "Cole Sprouse",
-        "id": 56730,
-        "character": "Oat",
-        "profile_path": "/mQAXL0rUGwX316d1FBBQmloZzHu.jpg"
-      },
-      {
-        "name": "Scott Shepherd",
-        "id": 1475960,
-        "character": "Chimmy",
-        "profile_path": "/leLuJUpF6uySDWPS7FwHpObAMs4.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 80,
-        "name": "Crimen"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 9.7418,
-    "puntuación": 6.746,
-    "votos": 120,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/sUPFV7bilTqMRILfbUgpbV4Aj9n.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/lmD4KcrhYzykEJgm9ZcdboaMQ4B.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/3CoQEPerKoKBoAmlmgj79XKSvK1.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/4axgUEy9kURNfYRVK88oWkEzq4y.jpg",
-          "vote_average": 1.75,
-          "vote_count": 3,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/rHYtPf1qFFZZ3gjmVG48VxyYa6v.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/vKoIgPheW7KnvOpdCOp7xZb4gUE.jpg",
-          "vote_average": 1.75,
-          "vote_count": 4,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/3jVDgbtXBv0AAd0shoSWiC8LE86.jpg",
-          "vote_average": 0.958,
-          "vote_count": 4,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ozibGHRKEdBmvtH1onP8r9vwJ9J.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 1536,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/tbrTyzfR5vBYmsU5DvouRboZ6tg.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1024
-        }
-      ]
-    },
-    "última_actualización": "2026-10-30 10:13:48"
+    "última_actualización": "2026-10-30 22:10:18"
   },
   {
     "id": 1437511,
@@ -4678,7 +4531,186 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:48"
+    "última_actualización": "2026-10-30 22:10:19"
+  },
+  {
+    "id": 1124142,
+    "tmdb_id": 1124142,
+    "título": "Los rivales de Amziah King",
+    "título_original": "The Rivals of Amziah King",
+    "sinopsis": "En lo más profundo de los bosques de la Oklahoma rural, el carismático y musicalmente dotado Amziah King lidera una banda de inadaptados que tocan bluegrass mientras supervisa la principal operación de fabricación de miel del pueblo. Cuando la hija adoptiva de Amziah, Kateri, regresa inesperadamente, él trata de renovar su conexión y crear un negocio familiar. Pero el juego de la miel es despiadado, y los rivales de Amziah amenazan con destruir todo lo que ha construido.",
+    "poster_path": "/gINcZnpbBboaT5cMYGJiWi6Og3Y.jpg",
+    "poster_local": "imagenes_estrenos/Los_rivales_de_Amziah_King_gINcZnpbBboaT5cMYGJiWi6Og3Y.jpg",
+    "backdrop_path": "/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
+    "backdrop_local": "imagenes_estrenos/Los_rivales_de_Amziah_King_backdrop_nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
+    "fecha_estreno": "2026-11-13T00:00:00.000Z",
+    "duración": "131 min",
+    "director": "Andrew Patterson",
+    "directores": [
+      {
+        "name": "Andrew Patterson",
+        "id": 2186238
+      }
+    ],
+    "actores": [
+      {
+        "name": "Matthew McConaughey",
+        "id": 10297,
+        "character": "Amziah King",
+        "profile_path": "/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+      },
+      {
+        "name": "Kurt Russell",
+        "id": 6856,
+        "character": "Dob McCoy",
+        "profile_path": "/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg"
+      },
+      {
+        "name": "Angelina LookingGlass",
+        "id": 4769412,
+        "character": "Kateri",
+        "profile_path": "/jo1OhLLAsM9Noqy9tD3ioJLi2AC.jpg"
+      },
+      {
+        "name": "Cole Sprouse",
+        "id": 56730,
+        "character": "Oat",
+        "profile_path": "/mQAXL0rUGwX316d1FBBQmloZzHu.jpg"
+      },
+      {
+        "name": "Scott Shepherd",
+        "id": 1475960,
+        "character": "Chimmy",
+        "profile_path": "/leLuJUpF6uySDWPS7FwHpObAMs4.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 9.7418,
+    "puntuación": 6.74,
+    "votos": 121,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/sUPFV7bilTqMRILfbUgpbV4Aj9n.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/lmD4KcrhYzykEJgm9ZcdboaMQ4B.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3CoQEPerKoKBoAmlmgj79XKSvK1.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/4axgUEy9kURNfYRVK88oWkEzq4y.jpg",
+          "vote_average": 1.75,
+          "vote_count": 3,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/rHYtPf1qFFZZ3gjmVG48VxyYa6v.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vKoIgPheW7KnvOpdCOp7xZb4gUE.jpg",
+          "vote_average": 1.75,
+          "vote_count": 4,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3jVDgbtXBv0AAd0shoSWiC8LE86.jpg",
+          "vote_average": 0.958,
+          "vote_count": 4,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ozibGHRKEdBmvtH1onP8r9vwJ9J.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1536,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tbrTyzfR5vBYmsU5DvouRboZ6tg.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1024
+        }
+      ]
+    },
+    "última_actualización": "2026-10-30 22:10:19"
   },
   {
     "id": 1379486,
@@ -4783,7 +4815,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:48"
+    "última_actualización": "2026-10-30 22:10:19"
   },
   {
     "id": 1506401,
@@ -4874,7 +4906,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:50"
+    "última_actualización": "2026-10-30 22:10:20"
   },
   {
     "id": 13534,
@@ -5003,7 +5035,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:50"
+    "última_actualización": "2026-10-30 22:10:20"
   },
   {
     "id": 1736731,
@@ -5045,7 +5077,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-10-30 10:13:51"
+    "última_actualización": "2026-10-30 22:10:21"
   },
   {
     "id": 1720175,
@@ -5111,7 +5143,75 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:52"
+    "última_actualización": "2026-10-30 22:10:21"
+  },
+  {
+    "id": 1812576,
+    "tmdb_id": 1812576,
+    "título": "Nininbaori",
+    "título_original": "Nininbaori",
+    "sinopsis": "",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": "/ovhR7tmXhG3rxuUXcatGKpfS1Zr.jpg",
+    "backdrop_local": "imagenes_estrenos/Nininbaori_backdrop_ovhR7tmXhG3rxuUXcatGKpfS1Zr.jpg",
+    "fecha_estreno": "2026-11-14",
+    "duración": "19 min",
+    "director": "Mathieu Achermann",
+    "directores": [
+      {
+        "name": "Mathieu Achermann",
+        "id": 6587126
+      }
+    ],
+    "actores": [
+      {
+        "name": "Sho Aita",
+        "id": 6587127,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Solenne Piret",
+        "id": 5619705,
+        "character": "Self",
+        "profile_path": "/AmyH0Cgy9qbK8vPqz0ITQa8vu1D.jpg"
+      },
+      {
+        "name": "Pavitra Vandenhoven",
+        "id": 5985786,
+        "character": "Self",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 864,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ovhR7tmXhG3rxuUXcatGKpfS1Zr.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1536
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-10-30 22:10:23"
   },
   {
     "id": 1810457,
@@ -5219,7 +5319,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-10-30 10:13:53"
+    "última_actualización": "2026-10-30 22:10:22"
   },
   {
     "id": 1232569,
@@ -5287,7 +5387,7 @@
       }
     ],
     "popularidad": 163.2107,
-    "puntuación": 6.5,
+    "puntuación": 6.467,
     "votos": 151,
     "adulto": false,
     "video": false,
@@ -5398,7 +5498,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:46"
+    "última_actualización": "2026-10-30 22:10:18"
   },
   {
     "id": 1300968,
@@ -5540,6 +5640,16 @@
           "height": 3000,
           "iso_3166_1": null,
           "iso_639_1": null,
+          "file_path": "/xtAfkYImY13kPpqKmsdePQYzK3s.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
           "file_path": "/vgK0ZjtgBWVUZ8TxO5KvYquccHv.jpg",
           "vote_average": 1.75,
           "vote_count": 2,
@@ -5564,20 +5674,10 @@
           "vote_average": 1.75,
           "vote_count": 2,
           "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/1GYcaY3O4LSWaOPx4pqXmhlIJjN.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2000
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:47"
+    "última_actualización": "2026-10-30 22:10:18"
   },
   {
     "id": 1240889,
@@ -5645,7 +5745,7 @@
       }
     ],
     "popularidad": 24.9538,
-    "puntuación": 6.084,
+    "puntuación": 6.1,
     "votos": 362,
     "adulto": false,
     "video": false,
@@ -5756,7 +5856,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:47"
+    "última_actualización": "2026-10-30 22:10:18"
   },
   {
     "id": 1308767,
@@ -5824,8 +5924,8 @@
       }
     ],
     "popularidad": 8.502,
-    "puntuación": 7.7,
-    "votos": 137,
+    "puntuación": 7.696,
+    "votos": 138,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -5915,7 +6015,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:48"
+    "última_actualización": "2026-10-30 22:10:19"
   },
   {
     "id": 947493,
@@ -5923,7 +6023,7 @@
     "título": "Chico de hierro",
     "título_original": "Le Corset",
     "sinopsis": "En la Francia rural, Christophe (10 años) intenta estar a la altura de su padre, un hombre rígido y distante, en la granja familiar. Sin embargo, el niño empieza a inclinarse y a desplomarse sin previo aviso: en el tractor, en la escuela, durante la cena... Un médico encuentra la solución: Christophe debe llevar un corsé de hierro para mantenerse erguido. Obligado a reinventar su vida lejos de la granja, Christophe descubre una nueva pasión por la música, conoce a una nueva amiga y la sigue en sus primeras travesuras. Pero ¿acaso servirá todo esto para corregir lo que está desequilibrado?",
-    "poster_path": "/7RN7uox5vLnMY3GAXKjjGHTkeXR.jpg",
+    "poster_path": "/h4YDklaLjbgdu9yUr6vNybnrnzX.jpg",
     "poster_local": "imagenes_estrenos/Chico_de_Hierro_7RN7uox5vLnMY3GAXKjjGHTkeXR.jpg",
     "backdrop_path": "/3e0Lzs4vDSHjRULFw6vPI4jyHd6.jpg",
     "backdrop_local": "imagenes_estrenos/Chico_de_Hierro_backdrop_3e0Lzs4vDSHjRULFw6vPI4jyHd6.jpg",
@@ -5983,8 +6083,8 @@
       }
     ],
     "popularidad": 7.2521,
-    "puntuación": 8.2,
-    "votos": 31,
+    "puntuación": 7.857,
+    "votos": 35,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -6094,7 +6194,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:48"
+    "última_actualización": "2026-10-30 22:10:19"
   },
   {
     "id": 1176962,
@@ -6243,7 +6343,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:49"
+    "última_actualización": "2026-10-30 22:10:19"
   },
   {
     "id": 1437939,
@@ -6269,7 +6369,7 @@
         "name": "Christian Clavier",
         "id": 28781,
         "character": "Frédéric Bouvier-Sauvage / Mehmet Suleymanoglu",
-        "profile_path": "/hgYQW69iOU2LrEeVINho9LvesCU.jpg"
+        "profile_path": "/9WsvKjheeizXCcZrFjZCrCoItqO.jpg"
       },
       {
         "name": "Didier Bourdon",
@@ -6384,7 +6484,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:50"
+    "última_actualización": "2026-10-30 22:10:20"
   },
   {
     "id": 1736705,
@@ -6488,7 +6588,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:50"
+    "última_actualización": "2026-10-30 22:10:20"
   },
   {
     "id": 1578646,
@@ -6579,7 +6679,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:50"
+    "última_actualización": "2026-10-30 22:10:20"
   },
   {
     "id": 1658070,
@@ -6656,7 +6756,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:51"
+    "última_actualización": "2026-10-30 22:10:21"
   },
   {
     "id": 1732872,
@@ -6700,7 +6800,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:52"
+    "última_actualización": "2026-10-30 22:10:21"
   },
   {
     "id": 1641467,
@@ -6767,7 +6867,7 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:52"
+    "última_actualización": "2026-10-30 22:10:22"
   },
   {
     "id": 1802868,
@@ -6902,6 +7002,6 @@
         }
       ]
     },
-    "última_actualización": "2026-10-30 10:13:51"
+    "última_actualización": "2026-10-30 22:10:20"
   }
 ]
