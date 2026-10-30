@@ -1,108 +1,5 @@
 [
     {
-        "título": "Sentido y sensibilidad",
-        "cartel": "imagenes_peliculas/tmdb_9bvqhfaq3bhkk5nsyxtysmn5lrb.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-10-29",
-                "hora": "22:15",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-10-30",
-                "hora": "19:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103119&eventCode=112965"
-            },
-            {
-                "fecha": "2026-10-31",
-                "hora": "19:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103141&eventCode=112965"
-            },
-            {
-                "fecha": "2026-11-01",
-                "hora": "19:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103160&eventCode=112965"
-            },
-            {
-                "fecha": "2026-11-02",
-                "hora": "19:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103177&eventCode=112965"
-            },
-            {
-                "fecha": "2026-11-03",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103198&eventCode=112965"
-            },
-            {
-                "fecha": "2026-11-04",
-                "hora": "19:45",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103209&eventCode=112965"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "Georgia Oakley",
-        "duración": "131 min",
-        "actores": "Daisy Edgar-Jones, Esmé Creed-Miles, Caitríona Balfe, Bodhi Rae Breathnach, Frank Dillane",
-        "sinopsis": "Una historia de amor, familia y hermandad basada en *Sentido y sensibilidad* de Jane Austen.",
-        "año": "2026",
-        "tmdb_id": 1503762,
-        "nota": null
-    },
-    {
-        "título": "La Invitación",
-        "cartel": "imagenes_peliculas/tmdb_21jnfycarirkms9azhttxizkbij.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-10-29",
-                "hora": "20:00",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-10-30",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103124&eventCode=111923"
-            },
-            {
-                "fecha": "2026-10-31",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103132&eventCode=111923"
-            },
-            {
-                "fecha": "2026-11-01",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103151&eventCode=111923"
-            },
-            {
-                "fecha": "2026-11-02",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103168&eventCode=111923"
-            },
-            {
-                "fecha": "2026-11-03",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103191&eventCode=111923"
-            },
-            {
-                "fecha": "2026-11-04",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103211&eventCode=111923"
-            },
-            {
-                "fecha": "2026-11-05",
-                "hora": "22:20",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103227&eventCode=111923"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "Olivia Wilde",
-        "duración": "107 min",
-        "actores": "Olivia Wilde, Seth Rogen, Penélope Cruz, Edward Norton",
-        "sinopsis": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
-        "año": "2026",
-        "tmdb_id": 950028,
-        "nota": null
-    },
-    {
         "título": "Hope",
         "cartel": "imagenes_peliculas/1791994746.jpg",
         "horarios": [
@@ -149,6 +46,99 @@
         "sinopsis": "La policía investiga una misteriosa criatura que ha estado sembrando el caos en la remota isla de Hope Harbor. Un grupo de cazadores la sigue hacia un bosque cercano y se convierte en su presa involuntaria. El conflicto se intensifica hasta convertirse en una tragedia de proporciones cósmicas.",
         "año": null,
         "tmdb_id": null,
+        "nota": null
+    },
+    {
+        "título": "Sentido y sensibilidad",
+        "cartel": "imagenes_peliculas/tmdb_9bvqhfaq3bhkk5nsyxtysmn5lrb.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-10-30",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103119&eventCode=112965"
+            },
+            {
+                "fecha": "2026-10-31",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103141&eventCode=112965"
+            },
+            {
+                "fecha": "2026-11-01",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103160&eventCode=112965"
+            },
+            {
+                "fecha": "2026-11-02",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103177&eventCode=112965"
+            },
+            {
+                "fecha": "2026-11-03",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103198&eventCode=112965"
+            },
+            {
+                "fecha": "2026-11-04",
+                "hora": "19:45",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103209&eventCode=112965"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Georgia Oakley",
+        "duración": "131 min",
+        "actores": "Daisy Edgar-Jones, Esmé Creed-Miles, Caitríona Balfe, Bodhi Rae Breathnach, Frank Dillane",
+        "sinopsis": "Una historia de amor, familia y hermandad basada en *Sentido y sensibilidad* de Jane Austen.",
+        "año": "2026",
+        "tmdb_id": 1503762,
+        "nota": null
+    },
+    {
+        "título": "La Invitación",
+        "cartel": "imagenes_peliculas/tmdb_21jnfycarirkms9azhttxizkbij.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-10-30",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103124&eventCode=111923"
+            },
+            {
+                "fecha": "2026-10-31",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103132&eventCode=111923"
+            },
+            {
+                "fecha": "2026-11-01",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103151&eventCode=111923"
+            },
+            {
+                "fecha": "2026-11-02",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103168&eventCode=111923"
+            },
+            {
+                "fecha": "2026-11-03",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103191&eventCode=111923"
+            },
+            {
+                "fecha": "2026-11-04",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103211&eventCode=111923"
+            },
+            {
+                "fecha": "2026-11-05",
+                "hora": "22:20",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103227&eventCode=111923"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Olivia Wilde",
+        "duración": "107 min",
+        "actores": "Olivia Wilde, Seth Rogen, Penélope Cruz, Edward Norton",
+        "sinopsis": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
+        "año": "2026",
+        "tmdb_id": 950028,
         "nota": null
     },
     {
@@ -247,181 +237,23 @@
         "nota": "KLASIKOAK 2026"
     },
     {
-        "título": "Chopin",
-        "cartel": "imagenes_peliculas/tmdb_lwesl7ehbpteyfgouvrduvxbtyq.jpg",
+        "título": "La amiga",
+        "cartel": "imagenes_peliculas/tmdb_ufzapjjdyytezf8ib1p4gnhrgic.jpg",
         "horarios": [
             {
-                "fecha": "2026-10-29",
-                "hora": "21:30",
-                "enlace_entradas": ""
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Michał Kwieciński",
-        "duración": "114 min",
-        "actores": "Eryk Kulm, Joséphine de la Baume, Victor Meutelet, Lambert Wilson, Theo Grundmann Brechet",
-        "sinopsis": "¿Quién es este joven y valiente pianista? ¿Quién es este compositor polaco que trasciende el poder de la música? ¿Quién es esta estrella que hace que todos los ojos parisinos se vuelvan hacia él? Lo llaman Chopin. Es el centro de todas las conversaciones, la figura más romántica de las noches decadentes de París. Cuando sus pulmones comienzan a sangrar, Chopin sabe que sus días están contados. Componer se convierte en su única obsesión. El reloj, que avanza rápidamente, lo empuja a revolucionar la música.",
-        "año": "2025",
-        "tmdb_id": 1299799,
-        "nota": null
-    },
-    {
-        "título": "Inurri Itsuak (Las ciegas hormigas)",
-        "cartel": "imagenes_peliculas/tmdb_8trpydaq8wm3dfgiabo0lnluecn.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-10-29",
-                "hora": "17:00",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-10-29",
-                "hora": "19:15",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-10-30",
-                "hora": "17:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93230&eventCode=114522"
-            },
-            {
-                "fecha": "2026-10-31",
-                "hora": "17:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93304&eventCode=114522"
-            },
-            {
-                "fecha": "2026-11-01",
-                "hora": "17:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93244&eventCode=114522"
-            },
-            {
-                "fecha": "2026-11-02",
-                "hora": "17:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93259&eventCode=114522"
-            },
-            {
-                "fecha": "2026-11-03",
-                "hora": "17:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93274&eventCode=114522"
-            },
-            {
-                "fecha": "2026-11-04",
-                "hora": "17:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93318&eventCode=114522"
-            },
-            {
-                "fecha": "2026-11-05",
-                "hora": "17:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93289&eventCode=114522"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Igor Legarreta",
-        "duración": "100 min",
-        "actores": "Urko Olazábal, Itziar Ituño, Unax Hayden, Josean Bengoetxea, Miren Gaztañaga",
-        "sinopsis": "Bizkaia, 1935. Un duro temporal hace encallar un barco inglés con toneladas de carbón en su interior. Durante la noche, los vecinos de Algorta se agolpan en la costa para rescatar el oro negro. Sabas Jauregui lo ve como un golpe de suerte; Josefa, su esposa, como un mal presagio. Sin atender sus ruegos, Sabas arrastra a sus hijos hacia la violenta tormenta. La familia hará lo impensable por proteger el carbón que podría salvarles del invierno… o condenarles para siempre.",
-        "año": "2026",
-        "tmdb_id": 1454616,
-        "nota": null
-    },
-    {
-        "título": "Naza",
-        "cartel": "imagenes_peliculas/tmdb_urm4mncgiscxowqdnwexsutvkag.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-10-29",
-                "hora": "16:30",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-10-29",
+                "fecha": "2026-11-19",
                 "hora": "19:30",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-10-29",
-                "hora": "21:30",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-10-30",
-                "hora": "16:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93334&eventCode=115052"
-            },
-            {
-                "fecha": "2026-10-30",
-                "hora": "19:40",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93242&eventCode=115052"
-            },
-            {
-                "fecha": "2026-10-31",
-                "hora": "16:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93313&eventCode=115052"
-            },
-            {
-                "fecha": "2026-10-31",
-                "hora": "19:40",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93311&eventCode=115052"
-            },
-            {
-                "fecha": "2026-11-01",
-                "hora": "16:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93253&eventCode=115052"
-            },
-            {
-                "fecha": "2026-11-01",
-                "hora": "19:40",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93251&eventCode=115052"
-            },
-            {
-                "fecha": "2026-11-02",
-                "hora": "16:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93268&eventCode=115052"
-            },
-            {
-                "fecha": "2026-11-02",
-                "hora": "19:40",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93266&eventCode=115052"
-            },
-            {
-                "fecha": "2026-11-03",
-                "hora": "16:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93283&eventCode=115052"
-            },
-            {
-                "fecha": "2026-11-03",
-                "hora": "19:40",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93281&eventCode=115052"
-            },
-            {
-                "fecha": "2026-11-04",
-                "hora": "16:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93329&eventCode=115052"
-            },
-            {
-                "fecha": "2026-11-04",
-                "hora": "19:40",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93325&eventCode=115052"
-            },
-            {
-                "fecha": "2026-11-05",
-                "hora": "16:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93332&eventCode=115052"
-            },
-            {
-                "fecha": "2026-11-05",
-                "hora": "19:40",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93296&eventCode=115052"
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102606&eventCode=114653"
             }
         ],
-        "cine": "Golem Yamaguchi",
-        "director": "Yuval Abraham, רחל שור",
-        "duración": "77 min",
-        "actores": "Yuval Abraham, Benjamín Netanyahu",
-        "sinopsis": "Rodada por la noche en los tejados de Tel Aviv, el documental revela con todo detalle los mecanismos que hay detrás del asesinato en masa y deliberado de civiles palestinos en Gaza por parte de las tropas de Israel. Naza es la palabra utilizada por el ejército israelí para denominar a las víctimas civiles como 'daños colaterales'.",
-        "año": "2026",
-        "tmdb_id": 1755291,
-        "nota": null
+        "cine": "Golem Baiona",
+        "director": "Jeanine Meerapfel",
+        "duración": "108 min",
+        "actores": "Liv Ullmann, Cipe Lincovsky, Federico Luppi, Lito Cruz, Víctor Laplace",
+        "sinopsis": "La historia de dos amigas íntimas durante la última dictadura cívico-militar argentina y como viven durante el Terrorismo de Estado que se aplicó en esos años. Las amigas son eventualmente separadas y vueltas a reunirse, una vez terminada la dictadura, para luchar juntas por los derechos humanos y la justicia, junto a las Madres de Plaza de Mayo.",
+        "año": "1989",
+        "tmdb_id": 341593,
+        "nota": "KLASIKOAK 2026"
     },
     {
         "título": "Tiempos de ilusión",
@@ -509,6 +341,139 @@
         "sinopsis": "Una pescadora vive en la periferia de un pueblo costero; es soltera, apestosa y objeto de burlas constantes. Un día, harta de sus estirados y estrechos vecinos, encarga un marido de mimbre para ella.",
         "año": "2026",
         "tmdb_id": 1195803,
+        "nota": null
+    },
+    {
+        "título": "Inurri Itsuak (Las ciegas hormigas)",
+        "cartel": "imagenes_peliculas/tmdb_8trpydaq8wm3dfgiabo0lnluecn.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-10-30",
+                "hora": "17:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93230&eventCode=114522"
+            },
+            {
+                "fecha": "2026-10-31",
+                "hora": "17:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93304&eventCode=114522"
+            },
+            {
+                "fecha": "2026-11-01",
+                "hora": "17:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93244&eventCode=114522"
+            },
+            {
+                "fecha": "2026-11-02",
+                "hora": "17:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93259&eventCode=114522"
+            },
+            {
+                "fecha": "2026-11-03",
+                "hora": "17:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93274&eventCode=114522"
+            },
+            {
+                "fecha": "2026-11-04",
+                "hora": "17:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93318&eventCode=114522"
+            },
+            {
+                "fecha": "2026-11-05",
+                "hora": "17:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93289&eventCode=114522"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Igor Legarreta",
+        "duración": "100 min",
+        "actores": "Urko Olazábal, Itziar Ituño, Unax Hayden, Josean Bengoetxea, Miren Gaztañaga",
+        "sinopsis": "Bizkaia, 1935. Un duro temporal hace encallar un barco inglés con toneladas de carbón en su interior. Durante la noche, los vecinos de Algorta se agolpan en la costa para rescatar el oro negro. Sabas Jauregui lo ve como un golpe de suerte; Josefa, su esposa, como un mal presagio. Sin atender sus ruegos, Sabas arrastra a sus hijos hacia la violenta tormenta. La familia hará lo impensable por proteger el carbón que podría salvarles del invierno… o condenarles para siempre.",
+        "año": "2026",
+        "tmdb_id": 1454616,
+        "nota": null
+    },
+    {
+        "título": "Naza",
+        "cartel": "imagenes_peliculas/tmdb_urm4mncgiscxowqdnwexsutvkag.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-10-30",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93334&eventCode=115052"
+            },
+            {
+                "fecha": "2026-10-30",
+                "hora": "19:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93242&eventCode=115052"
+            },
+            {
+                "fecha": "2026-10-31",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93313&eventCode=115052"
+            },
+            {
+                "fecha": "2026-10-31",
+                "hora": "19:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93311&eventCode=115052"
+            },
+            {
+                "fecha": "2026-11-01",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93253&eventCode=115052"
+            },
+            {
+                "fecha": "2026-11-01",
+                "hora": "19:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93251&eventCode=115052"
+            },
+            {
+                "fecha": "2026-11-02",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93268&eventCode=115052"
+            },
+            {
+                "fecha": "2026-11-02",
+                "hora": "19:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93266&eventCode=115052"
+            },
+            {
+                "fecha": "2026-11-03",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93283&eventCode=115052"
+            },
+            {
+                "fecha": "2026-11-03",
+                "hora": "19:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93281&eventCode=115052"
+            },
+            {
+                "fecha": "2026-11-04",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93329&eventCode=115052"
+            },
+            {
+                "fecha": "2026-11-04",
+                "hora": "19:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93325&eventCode=115052"
+            },
+            {
+                "fecha": "2026-11-05",
+                "hora": "16:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93332&eventCode=115052"
+            },
+            {
+                "fecha": "2026-11-05",
+                "hora": "19:40",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93296&eventCode=115052"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Yuval Abraham, רחל שור",
+        "duración": "77 min",
+        "actores": "Yuval Abraham, Benjamín Netanyahu",
+        "sinopsis": "Rodada por la noche en los tejados de Tel Aviv, el documental revela con todo detalle los mecanismos que hay detrás del asesinato en masa y deliberado de civiles palestinos en Gaza por parte de las tropas de Israel. Naza es la palabra utilizada por el ejército israelí para denominar a las víctimas civiles como 'daños colaterales'.",
+        "año": "2026",
+        "tmdb_id": 1755291,
         "nota": null
     },
     {
