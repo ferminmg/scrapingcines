@@ -1,0 +1,56 @@
+2026-10-31 20:04:18,595 - INFO - Iniciando proceso de scraping
+2026-10-31 20:04:18,597 - INFO - Posts existentes encontrados: 2619
+2026-10-31 20:04:18,597 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-10-31 20:04:21,431 - INFO - Se encontraron 10 posts
+2026-10-31 20:04:21,432 - INFO - Comenzando extracción de información del post
+2026-10-31 20:04:21,433 - INFO - Título del post: SENTIDO Y SENSIBILIDAD de Georgia Oakley
+2026-10-31 20:04:21,433 - INFO - Fecha del post: 2026-10-31T18:01:53+01:00
+2026-10-31 20:04:21,433 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/sentido-y-sensibilidad-georgia-oakley-critica/
+2026-10-31 20:04:23,695 - INFO - Contenido extraído y estructurado (4587 caracteres)
+2026-10-31 20:04:23,696 - INFO - Guardando post en: posts/SENTIDO_Y_SENSIBILIDAD_2026-10-31.json
+2026-10-31 20:04:23,697 - INFO - Post guardado exitosamente
+2026-10-31 20:04:23,697 - INFO - Actualizando índice de películas
+2026-10-31 20:04:23,697 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-10-31 20:04:23,701 - INFO - Índice existente cargado con 2715 películas
+2026-10-31 20:04:23,710 - INFO - Película agregada al índice: SENTIDO Y SENSIBILIDAD
+2026-10-31 20:04:23,710 - INFO - Nuevo post guardado: SENTIDO Y SENSIBILIDAD de Georgia Oakley
+2026-10-31 20:04:23,710 - INFO - Comenzando extracción de información del post
+2026-10-31 20:04:23,711 - INFO - Título del post: WILDWOOD: EL BOSQUE SALVAJE de Travis Knight
+2026-10-31 20:04:23,711 - INFO - Fecha del post: 2026-10-31T17:46:12+01:00
+2026-10-31 20:04:23,711 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/wildwood-travis-knight-critica-animacion/
+2026-10-31 20:04:25,642 - INFO - Contenido extraído y estructurado (2426 caracteres)
+2026-10-31 20:04:25,643 - INFO - Guardando post en: posts/WILDWOOD:_EL_BOSQUE_SALVAJE_2026-10-31.json
+2026-10-31 20:04:25,643 - INFO - Post guardado exitosamente
+2026-10-31 20:04:25,643 - INFO - Actualizando índice de películas
+2026-10-31 20:04:25,643 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-10-31 20:04:25,647 - INFO - Índice existente cargado con 2716 películas
+2026-10-31 20:04:25,656 - INFO - Película agregada al índice: WILDWOOD: EL BOSQUE SALVAJE
+2026-10-31 20:04:25,656 - INFO - Nuevo post guardado: WILDWOOD: EL BOSQUE SALVAJE de Travis Knight
+2026-10-31 20:04:25,656 - INFO - Comenzando extracción de información del post
+2026-10-31 20:04:25,657 - INFO - Título del post: EL MUNDO ES ANSÍ de Miguel Angel Calvo Buttini
+2026-10-31 20:04:25,657 - INFO - Fecha del post: 2026-10-31T17:37:48+01:00
+2026-10-31 20:04:25,657 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/el-mundo-es-ansi-pio-baroja-cine-critica/
+2026-10-31 20:04:27,766 - INFO - Contenido extraído y estructurado (2847 caracteres)
+2026-10-31 20:04:27,767 - INFO - Guardando post en: posts/EL_MUNDO_ES_ANSÍ_2026-10-31.json
+2026-10-31 20:04:27,767 - INFO - Post guardado exitosamente
+2026-10-31 20:04:27,767 - INFO - Actualizando índice de películas
+2026-10-31 20:04:27,767 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-10-31 20:04:27,770 - INFO - Índice existente cargado con 2717 películas
+2026-10-31 20:04:27,780 - INFO - Película agregada al índice: EL MUNDO ES ANSÍ
+2026-10-31 20:04:27,781 - INFO - Nuevo post guardado: EL MUNDO ES ANSÍ de Miguel Angel Calvo Buttini
+2026-10-31 20:04:27,781 - INFO - Comenzando extracción de información del post
+2026-10-31 20:04:27,781 - INFO - Post ya existente, saltando: KAKERU de Hirokazu Koreeda
+2026-10-31 20:04:27,781 - INFO - Comenzando extracción de información del post
+2026-10-31 20:04:27,781 - INFO - Post ya existente, saltando: LA INVITACIÓN de Olivia Wilde
+2026-10-31 20:04:27,781 - INFO - Comenzando extracción de información del post
+2026-10-31 20:04:27,781 - INFO - Post ya existente, saltando: LA MALETA de Carlos Therón
+2026-10-31 20:04:27,781 - INFO - Comenzando extracción de información del post
+2026-10-31 20:04:27,781 - INFO - Post ya existente, saltando: EL PRECIO DE LA RED de Aaron Sorkin
+2026-10-31 20:04:27,781 - INFO - Comenzando extracción de información del post
+2026-10-31 20:04:27,781 - WARNING - No se pudo extraer director del título: NAZA deYuval Abraham y Rachel Szor
+2026-10-31 20:04:27,781 - INFO - Post ya existente, saltando: NAZA deYuval Abraham y Rachel Szor
+2026-10-31 20:04:27,781 - INFO - Comenzando extracción de información del post
+2026-10-31 20:04:27,781 - INFO - Post ya existente, saltando: LAS CIEGAS HORMIGAS de Igor Legarreta
+2026-10-31 20:04:27,782 - INFO - Comenzando extracción de información del post
+2026-10-31 20:04:27,782 - INFO - Post ya existente, saltando: CENIZA EN LA BOCA de Diego Luna
+2026-10-31 20:04:27,782 - INFO - Proceso completado. Posts nuevos guardados: 3
