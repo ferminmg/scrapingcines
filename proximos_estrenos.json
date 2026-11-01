@@ -100,7 +100,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:23"
+    "última_actualización": "2026-11-01 22:11:24"
   },
   {
     "id": 1745146,
@@ -149,7 +149,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-11-01 10:11:24"
+    "última_actualización": "2026-11-01 22:11:24"
   },
   {
     "id": 1748404,
@@ -382,7 +382,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:24"
+    "última_actualización": "2026-11-01 22:11:26"
   },
   {
     "id": 656908,
@@ -561,7 +561,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:21"
+    "última_actualización": "2026-11-01 22:11:18"
   },
   {
     "id": 1381071,
@@ -740,7 +740,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:21"
+    "última_actualización": "2026-11-01 22:11:18"
   },
   {
     "id": 1117898,
@@ -820,7 +820,7 @@
       }
     ],
     "popularidad": 21.0432,
-    "puntuación": 7.667,
+    "puntuación": 7.7,
     "votos": 3,
     "adulto": false,
     "video": false,
@@ -931,7 +931,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:21"
+    "última_actualización": "2026-11-01 22:11:19"
   },
   {
     "id": 1241803,
@@ -999,8 +999,8 @@
       }
     ],
     "popularidad": 6.3399,
-    "puntuación": 7.1,
-    "votos": 55,
+    "puntuación": 7.143,
+    "votos": 56,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1080,7 +1080,263 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:22"
+    "última_actualización": "2026-11-01 22:11:20"
+  },
+  {
+    "id": 1468846,
+    "tmdb_id": 1468846,
+    "título": "Species (Sanguine)",
+    "título_original": "Sanguine",
+    "sinopsis": "",
+    "poster_path": "/fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
+    "poster_local": "imagenes_estrenos/Species__Sanguine__fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
+    "backdrop_path": "/jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
+    "backdrop_local": "imagenes_estrenos/Species__Sanguine__backdrop_jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
+    "fecha_estreno": "2026-11-06T00:00:00.000Z",
+    "duración": "103 min",
+    "director": "Marion Le Corroller",
+    "directores": [
+      {
+        "name": "Marion Le Corroller",
+        "id": 3287533
+      }
+    ],
+    "actores": [
+      {
+        "name": "Mara Taquin",
+        "id": 1894436,
+        "character": "Margot Loiseau",
+        "profile_path": "/yEhRqSa6SAxUDXeAEGwXXfyaEnd.jpg"
+      },
+      {
+        "name": "Karin Viard",
+        "id": 13688,
+        "character": "Hélène",
+        "profile_path": "/quIomRrFBxXq32K5MBuvaTR3xBk.jpg"
+      },
+      {
+        "name": "Kim Higelin",
+        "id": 3070663,
+        "character": "Pauline Boucheron",
+        "profile_path": "/6b2jB4S9M3hbOisr4jmd2S7WfyL.jpg"
+      },
+      {
+        "name": "Sami Outalbali",
+        "id": 544687,
+        "character": "Louis Serraut",
+        "profile_path": "/2ekj2Fc6sK039NKNaCQ8fIhjXq.jpg"
+      },
+      {
+        "name": "Stefan Crepon",
+        "id": 2601088,
+        "character": "Clément Bescond",
+        "profile_path": "/pEhRxeFhLR1iVyYBMkHijkLZ3xN.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "popularidad": 5.2966,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1688,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vuLRfjY1j6qLpw2pe9CgiBfzhdj.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3000
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1688,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/840dgv29JqR6W74ZeeM43vjlsoC.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3000
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/acTXFEv4UAaJWUCDZXxQcOXVUTc.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/fjUSLw9LeulpefroThS9isVhXV4.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/aVTRq10oAjb88cT8ohbLgEyUh89.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-11-01 22:11:21"
+  },
+  {
+    "id": 1649403,
+    "tmdb_id": 1649403,
+    "título": "George Michael: The Faith Tour",
+    "título_original": "George Michael: The Faith Tour",
+    "sinopsis": "",
+    "poster_path": "/LXqHnaJ4ffkcx5YCuJN1noxkhr.jpg",
+    "poster_local": "imagenes_estrenos/George_Michael__The_Faith_Tour_LXqHnaJ4ffkcx5YCuJN1noxkhr.jpg",
+    "backdrop_path": "/srq06Q5iFZrgNUuFwvGS5vqwHAh.jpg",
+    "backdrop_local": "imagenes_estrenos/George_Michael__The_Faith_Tour_backdrop_srq06Q5iFZrgNUuFwvGS5vqwHAh.jpg",
+    "fecha_estreno": "2026-11-06T00:00:00.000Z",
+    "duración": "113 min",
+    "director": "Andy Morahan, David Austin",
+    "directores": [
+      {
+        "name": "Andy Morahan",
+        "id": 4940102
+      },
+      {
+        "name": "David Austin",
+        "id": 1564922
+      }
+    ],
+    "actores": [
+      {
+        "name": "George Michael",
+        "id": 81487,
+        "character": "Self (archive footage)",
+        "profile_path": "/97ZAoQtREhnQJ7VM5013SAAhOXu.jpg"
+      },
+      {
+        "name": "Herb Ritts",
+        "id": 1233671,
+        "character": "Self (archive footage)",
+        "profile_path": "/8oQCWCF1tT5l4pUv7dPA0EiLp1W.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 10402,
+        "name": "Música"
+      },
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 5.1379,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1898,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/srq06Q5iFZrgNUuFwvGS5vqwHAh.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3375
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vdIlFSbouDza7CfKP1tu76KcjMW.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/lW1ALLdnEHxQ78epa6tqkmbIxLJ.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vvtV3jaAQvSECTxX7OmxVwEkqbh.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/2ttT87RMTV5rhaJNJuDhN5gDsNJ.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tCimlqyRRPk8wjYyb5oTnFD8aLc.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-11-01 22:11:21"
   },
   {
     "id": 1217954,
@@ -1227,263 +1483,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:22"
-  },
-  {
-    "id": 1649403,
-    "tmdb_id": 1649403,
-    "título": "George Michael: The Faith Tour",
-    "título_original": "George Michael: The Faith Tour",
-    "sinopsis": "",
-    "poster_path": "/LXqHnaJ4ffkcx5YCuJN1noxkhr.jpg",
-    "poster_local": "imagenes_estrenos/George_Michael__The_Faith_Tour_LXqHnaJ4ffkcx5YCuJN1noxkhr.jpg",
-    "backdrop_path": "/srq06Q5iFZrgNUuFwvGS5vqwHAh.jpg",
-    "backdrop_local": "imagenes_estrenos/George_Michael__The_Faith_Tour_backdrop_srq06Q5iFZrgNUuFwvGS5vqwHAh.jpg",
-    "fecha_estreno": "2026-11-06T00:00:00.000Z",
-    "duración": "113 min",
-    "director": "Andy Morahan, David Austin",
-    "directores": [
-      {
-        "name": "Andy Morahan",
-        "id": 4940102
-      },
-      {
-        "name": "David Austin",
-        "id": 1564922
-      }
-    ],
-    "actores": [
-      {
-        "name": "George Michael",
-        "id": 81487,
-        "character": "Self (archive footage)",
-        "profile_path": "/97ZAoQtREhnQJ7VM5013SAAhOXu.jpg"
-      },
-      {
-        "name": "Herb Ritts",
-        "id": 1233671,
-        "character": "Self (archive footage)",
-        "profile_path": "/8oQCWCF1tT5l4pUv7dPA0EiLp1W.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 10402,
-        "name": "Música"
-      },
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 5.1379,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 1898,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/srq06Q5iFZrgNUuFwvGS5vqwHAh.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3375
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/vdIlFSbouDza7CfKP1tu76KcjMW.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/lW1ALLdnEHxQ78epa6tqkmbIxLJ.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/vvtV3jaAQvSECTxX7OmxVwEkqbh.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 720,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/2ttT87RMTV5rhaJNJuDhN5gDsNJ.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1280
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/tCimlqyRRPk8wjYyb5oTnFD8aLc.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-11-01 10:11:23"
-  },
-  {
-    "id": 1468846,
-    "tmdb_id": 1468846,
-    "título": "Species (Sanguine)",
-    "título_original": "Sanguine",
-    "sinopsis": "",
-    "poster_path": "/fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
-    "poster_local": "imagenes_estrenos/Species__Sanguine__fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
-    "backdrop_path": "/jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
-    "backdrop_local": "imagenes_estrenos/Species__Sanguine__backdrop_jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
-    "fecha_estreno": "2026-11-06T00:00:00.000Z",
-    "duración": "103 min",
-    "director": "Marion Le Corroller",
-    "directores": [
-      {
-        "name": "Marion Le Corroller",
-        "id": 3287533
-      }
-    ],
-    "actores": [
-      {
-        "name": "Mara Taquin",
-        "id": 1894436,
-        "character": "Margot Loiseau",
-        "profile_path": "/yEhRqSa6SAxUDXeAEGwXXfyaEnd.jpg"
-      },
-      {
-        "name": "Karin Viard",
-        "id": 13688,
-        "character": "Hélène",
-        "profile_path": "/quIomRrFBxXq32K5MBuvaTR3xBk.jpg"
-      },
-      {
-        "name": "Kim Higelin",
-        "id": 3070663,
-        "character": "Pauline Boucheron",
-        "profile_path": "/6b2jB4S9M3hbOisr4jmd2S7WfyL.jpg"
-      },
-      {
-        "name": "Sami Outalbali",
-        "id": 544687,
-        "character": "Louis Serraut",
-        "profile_path": "/2ekj2Fc6sK039NKNaCQ8fIhjXq.jpg"
-      },
-      {
-        "name": "Stefan Crepon",
-        "id": 2601088,
-        "character": "Clément Bescond",
-        "profile_path": "/pEhRxeFhLR1iVyYBMkHijkLZ3xN.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 878,
-        "name": "Ciencia ficción"
-      },
-      {
-        "id": 27,
-        "name": "Terror"
-      }
-    ],
-    "popularidad": 5.2966,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1688,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/vuLRfjY1j6qLpw2pe9CgiBfzhdj.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3000
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1688,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/840dgv29JqR6W74ZeeM43vjlsoC.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3000
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/acTXFEv4UAaJWUCDZXxQcOXVUTc.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/fjUSLw9LeulpefroThS9isVhXV4.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/aVTRq10oAjb88cT8ohbLgEyUh89.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-11-01 10:11:23"
+    "última_actualización": "2026-11-01 22:11:22"
   },
   {
     "id": 1405002,
@@ -1577,7 +1577,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:23"
+    "última_actualización": "2026-11-01 22:11:22"
   },
   {
     "id": 1522071,
@@ -1688,78 +1688,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:24"
-  },
-  {
-    "id": 1755565,
-    "tmdb_id": 1755565,
-    "título": "11",
-    "título_original": "11",
-    "sinopsis": "",
-    "poster_path": "/7pksyM5i9GeCJzlDscQ5te13vaL.jpg",
-    "poster_local": "imagenes_estrenos/11_7pksyM5i9GeCJzlDscQ5te13vaL.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-11-06T00:00:00.000Z",
-    "duración": "89 min",
-    "director": "Paula Serra, Clàudia Serra",
-    "directores": [
-      {
-        "name": "Paula Serra",
-        "id": 2725308
-      },
-      {
-        "name": "Clàudia Serra",
-        "id": 5882480
-      }
-    ],
-    "actores": [
-      {
-        "name": "Jael Borràs",
-        "id": 6213180,
-        "character": "",
-        "profile_path": "/n6XCImQ0cLhAAeLlUcMP0MxV7aj.jpg"
-      },
-      {
-        "name": "Mia Sala-Patau",
-        "id": 3698073,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Pablo Scapigliati",
-        "id": 2869815,
-        "character": "",
-        "profile_path": "/8VDS2NnHHoinvCuqi9MdEJaUwVx.jpg"
-      },
-      {
-        "name": "Marc Vila",
-        "id": 1330982,
-        "character": "",
-        "profile_path": null
-      }
-    ],
-    "géneros": [
-      {
-        "id": 27,
-        "name": "Terror"
-      },
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 1.3018,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2026-11-01 10:11:24"
+    "última_actualización": "2026-11-01 22:11:24"
   },
   {
     "id": 1371661,
@@ -1884,7 +1813,78 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:24"
+    "última_actualización": "2026-11-01 22:11:24"
+  },
+  {
+    "id": 1755565,
+    "tmdb_id": 1755565,
+    "título": "11",
+    "título_original": "11",
+    "sinopsis": "",
+    "poster_path": "/7pksyM5i9GeCJzlDscQ5te13vaL.jpg",
+    "poster_local": "imagenes_estrenos/11_7pksyM5i9GeCJzlDscQ5te13vaL.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-11-06T00:00:00.000Z",
+    "duración": "89 min",
+    "director": "Paula Serra, Clàudia Serra",
+    "directores": [
+      {
+        "name": "Paula Serra",
+        "id": 2725308
+      },
+      {
+        "name": "Clàudia Serra",
+        "id": 5882480
+      }
+    ],
+    "actores": [
+      {
+        "name": "Jael Borràs",
+        "id": 6213180,
+        "character": "",
+        "profile_path": "/n6XCImQ0cLhAAeLlUcMP0MxV7aj.jpg"
+      },
+      {
+        "name": "Mia Sala-Patau",
+        "id": 3698073,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Pablo Scapigliati",
+        "id": 2869815,
+        "character": "",
+        "profile_path": "/8VDS2NnHHoinvCuqi9MdEJaUwVx.jpg"
+      },
+      {
+        "name": "Marc Vila",
+        "id": 1330982,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 1.3018,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-11-01 22:11:25"
   },
   {
     "id": 1802770,
@@ -1912,7 +1912,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-11-01 10:11:24"
+    "última_actualización": "2026-11-01 22:11:26"
   },
   {
     "id": 1784105,
@@ -1985,7 +1985,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:23"
+    "última_actualización": "2026-11-01 22:11:22"
   },
   {
     "id": 1421562,
@@ -2090,7 +2090,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:24"
+    "última_actualización": "2026-11-01 22:11:26"
   },
   {
     "id": 1567605,
@@ -2265,7 +2265,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:22"
+    "última_actualización": "2026-11-01 22:11:19"
   },
   {
     "id": 891621,
@@ -2333,7 +2333,7 @@
       }
     ],
     "popularidad": 18.6853,
-    "puntuación": 8.8,
+    "puntuación": 8.75,
     "votos": 8,
     "adulto": false,
     "video": false,
@@ -2434,7 +2434,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:22"
+    "última_actualización": "2026-11-01 22:11:19"
   },
   {
     "id": 1427833,
@@ -2583,7 +2583,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:22"
+    "última_actualización": "2026-11-01 22:11:19"
   },
   {
     "id": 1437511,
@@ -2742,7 +2742,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:22"
+    "última_actualización": "2026-11-01 22:11:20"
   },
   {
     "id": 1124142,
@@ -2921,7 +2921,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:22"
+    "última_actualización": "2026-11-01 22:11:20"
   },
   {
     "id": 1379486,
@@ -3026,7 +3026,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:22"
+    "última_actualización": "2026-11-01 22:11:20"
   },
   {
     "id": 1506401,
@@ -3117,7 +3117,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:23"
+    "última_actualización": "2026-11-01 22:11:22"
   },
   {
     "id": 13534,
@@ -3246,7 +3246,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:23"
+    "última_actualización": "2026-11-01 22:11:23"
   },
   {
     "id": 1736731,
@@ -3288,7 +3288,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-11-01 10:11:24"
+    "última_actualización": "2026-11-01 22:11:25"
   },
   {
     "id": 1720175,
@@ -3354,7 +3354,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:24"
+    "última_actualización": "2026-11-01 22:11:25"
   },
   {
     "id": 1812576,
@@ -3422,7 +3422,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-11-01 10:11:25"
+    "última_actualización": "2026-11-01 22:11:26"
   },
   {
     "id": 1810457,
@@ -3530,7 +3530,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-11-01 10:11:25"
+    "última_actualización": "2026-11-01 22:11:27"
   },
   {
     "id": 1232569,
@@ -3709,7 +3709,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:21"
+    "última_actualización": "2026-11-01 22:11:18"
   },
   {
     "id": 1300968,
@@ -3888,7 +3888,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:21"
+    "última_actualización": "2026-11-01 22:11:18"
   },
   {
     "id": 1240889,
@@ -3956,8 +3956,8 @@
       }
     ],
     "popularidad": 25.721,
-    "puntuación": 6.1,
-    "votos": 367,
+    "puntuación": 6.108,
+    "votos": 370,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -4067,7 +4067,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:21"
+    "última_actualización": "2026-11-01 22:11:18"
   },
   {
     "id": 1308767,
@@ -4226,7 +4226,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:22"
+    "última_actualización": "2026-11-01 22:11:20"
   },
   {
     "id": 947493,
@@ -4385,7 +4385,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:22"
+    "última_actualización": "2026-11-01 22:11:21"
   },
   {
     "id": 1176962,
@@ -4534,7 +4534,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:22"
+    "última_actualización": "2026-11-01 22:11:21"
   },
   {
     "id": 1437939,
@@ -4675,7 +4675,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:23"
+    "última_actualización": "2026-11-01 22:11:23"
   },
   {
     "id": 1578646,
@@ -4766,7 +4766,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:23"
+    "última_actualización": "2026-11-01 22:11:23"
   },
   {
     "id": 1736705,
@@ -4870,7 +4870,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:23"
+    "última_actualización": "2026-11-01 22:11:23"
   },
   {
     "id": 1658070,
@@ -4947,7 +4947,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:24"
+    "última_actualización": "2026-11-01 22:11:25"
   },
   {
     "id": 1732872,
@@ -4991,7 +4991,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:24"
+    "última_actualización": "2026-11-01 22:11:25"
   },
   {
     "id": 1641467,
@@ -5058,7 +5058,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:25"
+    "última_actualización": "2026-11-01 22:11:27"
   },
   {
     "id": 1802868,
@@ -5193,6 +5193,6 @@
         }
       ]
     },
-    "última_actualización": "2026-11-01 10:11:23"
+    "última_actualización": "2026-11-01 22:11:23"
   }
 ]
