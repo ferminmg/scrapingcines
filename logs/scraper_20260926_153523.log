@@ -1,0 +1,125 @@
+2026-09-26 15:35:23,468 - INFO - Iniciando proceso de scraping
+2026-09-26 15:35:23,470 - INFO - Posts existentes encontrados: 2470
+2026-09-26 15:35:23,470 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-09-26 15:35:25,247 - INFO - Se encontraron 10 posts
+2026-09-26 15:35:25,247 - INFO - Comenzando extracción de información del post
+2026-09-26 15:35:25,248 - INFO - Título del post: BAD APPLES de Jonatan Etzler
+2026-09-26 15:35:25,248 - INFO - Fecha del post: 2026-09-21T23:51:16+02:00
+2026-09-26 15:35:25,248 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/bad-apples-critica/
+2026-09-26 15:35:27,592 - INFO - Contenido extraído y estructurado (4232 caracteres)
+2026-09-26 15:35:27,593 - INFO - Guardando post en: posts/BAD_APPLES_2026-09-21.json
+2026-09-26 15:35:27,593 - INFO - Post guardado exitosamente
+2026-09-26 15:35:27,593 - INFO - Actualizando índice de películas
+2026-09-26 15:35:27,593 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-09-26 15:35:27,598 - INFO - Índice existente cargado con 2571 películas
+2026-09-26 15:35:27,610 - INFO - Película agregada al índice: BAD APPLES
+2026-09-26 15:35:27,610 - INFO - Nuevo post guardado: BAD APPLES de Jonatan Etzler
+2026-09-26 15:35:27,610 - INFO - Comenzando extracción de información del post
+2026-09-26 15:35:27,610 - INFO - Título del post: FORASTERA de Lucía Aleñar Iglesias
+2026-09-26 15:35:27,610 - INFO - Fecha del post: 2026-09-21T23:43:54+02:00
+2026-09-26 15:35:27,610 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/forastera-critica/
+2026-09-26 15:35:30,042 - INFO - Contenido extraído y estructurado (2821 caracteres)
+2026-09-26 15:35:30,043 - INFO - Guardando post en: posts/FORASTERA_2026-09-21.json
+2026-09-26 15:35:30,044 - INFO - Post guardado exitosamente
+2026-09-26 15:35:30,044 - INFO - Actualizando índice de películas
+2026-09-26 15:35:30,044 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-09-26 15:35:30,047 - INFO - Índice existente cargado con 2572 películas
+2026-09-26 15:35:30,059 - INFO - Película agregada al índice: FORASTERA
+2026-09-26 15:35:30,059 - INFO - Nuevo post guardado: FORASTERA de Lucía Aleñar Iglesias
+2026-09-26 15:35:30,059 - INFO - Comenzando extracción de información del post
+2026-09-26 15:35:30,060 - INFO - Título del post: EL LADRÓN DE PERROS de Vinko Tomicic
+2026-09-26 15:35:30,060 - INFO - Fecha del post: 2026-09-21T23:33:59+02:00
+2026-09-26 15:35:30,060 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/el-ladron-de-perros-de-vinko-tomicic/
+2026-09-26 15:35:32,582 - INFO - Contenido extraído y estructurado (2602 caracteres)
+2026-09-26 15:35:32,583 - INFO - Guardando post en: posts/EL_LADRÓN_DE_PERROS_2026-09-21.json
+2026-09-26 15:35:32,583 - INFO - Post guardado exitosamente
+2026-09-26 15:35:32,583 - INFO - Actualizando índice de películas
+2026-09-26 15:35:32,583 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-09-26 15:35:32,586 - INFO - Índice existente cargado con 2573 películas
+2026-09-26 15:35:32,598 - INFO - Película agregada al índice: EL LADRÓN DE PERROS
+2026-09-26 15:35:32,598 - INFO - Nuevo post guardado: EL LADRÓN DE PERROS de Vinko Tomicic
+2026-09-26 15:35:32,598 - INFO - Comenzando extracción de información del post
+2026-09-26 15:35:32,599 - INFO - Título del post: CRONOS de Fernando González Molina
+2026-09-26 15:35:32,599 - INFO - Fecha del post: 2026-09-13T11:15:42+02:00
+2026-09-26 15:35:32,599 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/critica-cronos-fernando-gonzalez-molina/
+2026-09-26 15:35:35,217 - INFO - Contenido extraído y estructurado (4542 caracteres)
+2026-09-26 15:35:35,218 - INFO - Guardando post en: posts/CRONOS_2026-09-13.json
+2026-09-26 15:35:35,219 - INFO - Post guardado exitosamente
+2026-09-26 15:35:35,219 - INFO - Actualizando índice de películas
+2026-09-26 15:35:35,219 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-09-26 15:35:35,222 - INFO - Índice existente cargado con 2574 películas
+2026-09-26 15:35:35,234 - INFO - Película agregada al índice: CRONOS
+2026-09-26 15:35:35,234 - INFO - Nuevo post guardado: CRONOS de Fernando González Molina
+2026-09-26 15:35:35,234 - INFO - Comenzando extracción de información del post
+2026-09-26 15:35:35,235 - INFO - Título del post: JIM QUEEN de Marco Nguyen y Nicolas Athane
+2026-09-26 15:35:35,235 - INFO - Fecha del post: 2026-09-13T10:58:41+02:00
+2026-09-26 15:35:35,235 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/critica-jim-queen-marco-nguyen-nicolas-athane/
+2026-09-26 15:35:37,641 - INFO - Contenido extraído y estructurado (2766 caracteres)
+2026-09-26 15:35:37,642 - INFO - Guardando post en: posts/JIM_QUEEN_2026-09-13.json
+2026-09-26 15:35:37,642 - INFO - Post guardado exitosamente
+2026-09-26 15:35:37,642 - INFO - Actualizando índice de películas
+2026-09-26 15:35:37,642 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-09-26 15:35:37,646 - INFO - Índice existente cargado con 2575 películas
+2026-09-26 15:35:37,658 - INFO - Película agregada al índice: JIM QUEEN
+2026-09-26 15:35:37,658 - INFO - Nuevo post guardado: JIM QUEEN de Marco Nguyen y Nicolas Athane
+2026-09-26 15:35:37,658 - INFO - Comenzando extracción de información del post
+2026-09-26 15:35:37,658 - INFO - Título del post: CINCO SEGUNDOS de Paolo Virzì
+2026-09-26 15:35:37,658 - INFO - Fecha del post: 2026-09-13T10:49:55+02:00
+2026-09-26 15:35:37,659 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/critica-cinque-secondi-paolo-virzi/
+2026-09-26 15:35:41,239 - INFO - Contenido extraído y estructurado (2637 caracteres)
+2026-09-26 15:35:41,240 - INFO - Guardando post en: posts/CINCO_SEGUNDOS_2026-09-13.json
+2026-09-26 15:35:41,240 - INFO - Post guardado exitosamente
+2026-09-26 15:35:41,240 - INFO - Actualizando índice de películas
+2026-09-26 15:35:41,240 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-09-26 15:35:41,244 - INFO - Índice existente cargado con 2576 películas
+2026-09-26 15:35:41,256 - INFO - Película agregada al índice: CINCO SEGUNDOS
+2026-09-26 15:35:41,256 - INFO - Nuevo post guardado: CINCO SEGUNDOS de Paolo Virzì
+2026-09-26 15:35:41,256 - INFO - Comenzando extracción de información del post
+2026-09-26 15:35:41,256 - INFO - Título del post: LA CONSTELACIÓN DEL PERRO de Ridley Scott
+2026-09-26 15:35:41,256 - INFO - Fecha del post: 2026-09-06T01:08:16+02:00
+2026-09-26 15:35:41,256 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/la-constelacion-del-perro-ridley-scott/
+2026-09-26 15:35:43,771 - INFO - Contenido extraído y estructurado (4543 caracteres)
+2026-09-26 15:35:43,772 - INFO - Guardando post en: posts/LA_CONSTELACIÓN_DEL_PERRO_2026-09-06.json
+2026-09-26 15:35:43,772 - INFO - Post guardado exitosamente
+2026-09-26 15:35:43,772 - INFO - Actualizando índice de películas
+2026-09-26 15:35:43,772 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-09-26 15:35:43,776 - INFO - Índice existente cargado con 2577 películas
+2026-09-26 15:35:43,788 - INFO - Película agregada al índice: LA CONSTELACIÓN DEL PERRO
+2026-09-26 15:35:43,788 - INFO - Nuevo post guardado: LA CONSTELACIÓN DEL PERRO de Ridley Scott
+2026-09-26 15:35:43,788 - INFO - Comenzando extracción de información del post
+2026-09-26 15:35:43,789 - INFO - Título del post: UNA NOCHE AL AÑO de Will Gluck
+2026-09-26 15:35:43,789 - INFO - Fecha del post: 2026-09-06T00:57:14+02:00
+2026-09-26 15:35:43,789 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/una-noche-al-ano-will-gluck-travis-braun/
+2026-09-26 15:35:45,929 - INFO - Contenido extraído y estructurado (2535 caracteres)
+2026-09-26 15:35:45,930 - INFO - Guardando post en: posts/UNA_NOCHE_AL_AÑO_2026-09-06.json
+2026-09-26 15:35:45,930 - INFO - Post guardado exitosamente
+2026-09-26 15:35:45,930 - INFO - Actualizando índice de películas
+2026-09-26 15:35:45,931 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-09-26 15:35:45,934 - INFO - Índice existente cargado con 2578 películas
+2026-09-26 15:35:45,946 - INFO - Película agregada al índice: UNA NOCHE AL AÑO
+2026-09-26 15:35:45,946 - INFO - Nuevo post guardado: UNA NOCHE AL AÑO de Will Gluck
+2026-09-26 15:35:45,946 - INFO - Comenzando extracción de información del post
+2026-09-26 15:35:45,946 - INFO - Título del post: ERUPCJA de Pete Ohs
+2026-09-26 15:35:45,946 - INFO - Fecha del post: 2026-09-06T00:48:40+02:00
+2026-09-26 15:35:45,946 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/erupcja-charli-xcx-pete-ohs/
+2026-09-26 15:35:48,314 - INFO - Contenido extraído y estructurado (2840 caracteres)
+2026-09-26 15:35:48,316 - INFO - Guardando post en: posts/ERUPCJA_2026-09-06.json
+2026-09-26 15:35:48,316 - INFO - Post guardado exitosamente
+2026-09-26 15:35:48,316 - INFO - Actualizando índice de películas
+2026-09-26 15:35:48,316 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-09-26 15:35:48,320 - INFO - Índice existente cargado con 2579 películas
+2026-09-26 15:35:48,332 - INFO - Película agregada al índice: ERUPCJA
+2026-09-26 15:35:48,332 - INFO - Nuevo post guardado: ERUPCJA de Pete Ohs
+2026-09-26 15:35:48,332 - INFO - Comenzando extracción de información del post
+2026-09-26 15:35:48,332 - INFO - Título del post: EL SER QUERIDO de Rodrigo Sorogoyen
+2026-09-26 15:35:48,332 - INFO - Fecha del post: 2026-09-02T17:16:59+02:00
+2026-09-26 15:35:48,332 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/el-ser-querido-sorogoyen-bardem-victoria-luengo/
+2026-09-26 15:35:50,636 - INFO - Contenido extraído y estructurado (4629 caracteres)
+2026-09-26 15:35:50,637 - INFO - Guardando post en: posts/EL_SER_QUERIDO_2026-09-02.json
+2026-09-26 15:35:50,638 - INFO - Post guardado exitosamente
+2026-09-26 15:35:50,638 - INFO - Actualizando índice de películas
+2026-09-26 15:35:50,638 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-09-26 15:35:50,642 - INFO - Índice existente cargado con 2580 películas
+2026-09-26 15:35:50,653 - INFO - Película agregada al índice: EL SER QUERIDO
+2026-09-26 15:35:50,654 - INFO - Nuevo post guardado: EL SER QUERIDO de Rodrigo Sorogoyen
+2026-09-26 15:35:50,654 - INFO - Proceso completado. Posts nuevos guardados: 10
