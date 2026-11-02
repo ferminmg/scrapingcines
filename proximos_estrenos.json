@@ -100,7 +100,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:04"
+    "última_actualización": "2026-11-02 17:14:42"
   },
   {
     "id": 1745146,
@@ -149,7 +149,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-11-02 10:13:04"
+    "última_actualización": "2026-11-02 17:14:43"
   },
   {
     "id": 1662674,
@@ -258,7 +258,186 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:05"
+    "última_actualización": "2026-11-02 17:14:44"
+  },
+  {
+    "id": 1381071,
+    "tmdb_id": 1381071,
+    "título": "Godzilla Minus Zero",
+    "título_original": "ゴジラ-0.0",
+    "sinopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
+    "poster_path": "/taoPyKQTXh0FSwO5rin8Djrt20C.jpg",
+    "poster_local": "imagenes_estrenos/Godzilla_Minus_Zero_taoPyKQTXh0FSwO5rin8Djrt20C.jpg",
+    "backdrop_path": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+    "backdrop_local": "imagenes_estrenos/Godzilla_Minus_Zero_backdrop_oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+    "fecha_estreno": "2026-11-06T00:00:00.000Z",
+    "duración": "135 min",
+    "director": "Takashi Yamazaki",
+    "directores": [
+      {
+        "name": "Takashi Yamazaki",
+        "id": 43652
+      }
+    ],
+    "actores": [
+      {
+        "name": "Ryunosuke Kamiki",
+        "id": 225730,
+        "character": "Koichi Shikishima",
+        "profile_path": "/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+      },
+      {
+        "name": "浜辺美波",
+        "id": 1516266,
+        "character": "Noriko Oishi",
+        "profile_path": "/eQN8N2chINckvQDiNqzDXI0v9vN.jpg"
+      },
+      {
+        "name": "山田裕貴",
+        "id": 1161474,
+        "character": "Shiro Mizushima",
+        "profile_path": "/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg"
+      },
+      {
+        "name": "Kuranosuke Sasaki",
+        "id": 121716,
+        "character": "Seiji Akitsu",
+        "profile_path": "/lPDKfLKIKDCBdqig3uhYnPjwY5h.jpg"
+      },
+      {
+        "name": "Jun Kunimura",
+        "id": 2541,
+        "character": "",
+        "profile_path": "/zC0GbuXQGPur7i8AkdPUWedmDKz.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "popularidad": 26.0668,
+    "puntuación": 10.0,
+    "votos": 2,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+          "vote_average": 10.0,
+          "vote_count": 4,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/hyFjwZslMzCQlt7FByPvJciVf4C.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zVp0TZwTOyrmIbv9lgKoJENlKLx.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/rhCg3n4wIu2wkT607h7znedYZBj.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 792,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/cYxQ5Q9IyHf6gZoXCrzOFOErMNw.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1408
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/q7gaYKraFOlI4InFq4rFlSfSOe9.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/s59EYn6n2Ay79grWvyaumihIaLo.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/e8gIGHtOPlMbdzMhCUnpOud1CPv.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/4wmJNb6GFXsK67gCdHG1ItwJmkU.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/nWYx9u3Z6UD1dqQjBwPNjOndx2e.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-11-02 17:14:39"
   },
   {
     "id": 656908,
@@ -437,186 +616,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:00"
-  },
-  {
-    "id": 1381071,
-    "tmdb_id": 1381071,
-    "título": "Godzilla Minus Zero",
-    "título_original": "ゴジラ-0.0",
-    "sinopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
-    "poster_path": "/taoPyKQTXh0FSwO5rin8Djrt20C.jpg",
-    "poster_local": "imagenes_estrenos/Godzilla_Minus_Zero_taoPyKQTXh0FSwO5rin8Djrt20C.jpg",
-    "backdrop_path": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-    "backdrop_local": "imagenes_estrenos/Godzilla_Minus_Zero_backdrop_oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-    "fecha_estreno": "2026-11-06T00:00:00.000Z",
-    "duración": "135 min",
-    "director": "Takashi Yamazaki",
-    "directores": [
-      {
-        "name": "Takashi Yamazaki",
-        "id": 43652
-      }
-    ],
-    "actores": [
-      {
-        "name": "Ryunosuke Kamiki",
-        "id": 225730,
-        "character": "Koichi Shikishima",
-        "profile_path": "/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
-      },
-      {
-        "name": "浜辺美波",
-        "id": 1516266,
-        "character": "Noriko Oishi",
-        "profile_path": "/eQN8N2chINckvQDiNqzDXI0v9vN.jpg"
-      },
-      {
-        "name": "山田裕貴",
-        "id": 1161474,
-        "character": "Shiro Mizushima",
-        "profile_path": "/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg"
-      },
-      {
-        "name": "Kuranosuke Sasaki",
-        "id": 121716,
-        "character": "Seiji Akitsu",
-        "profile_path": "/lPDKfLKIKDCBdqig3uhYnPjwY5h.jpg"
-      },
-      {
-        "name": "Jun Kunimura",
-        "id": 2541,
-        "character": "",
-        "profile_path": "/zC0GbuXQGPur7i8AkdPUWedmDKz.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 878,
-        "name": "Ciencia ficción"
-      },
-      {
-        "id": 27,
-        "name": "Terror"
-      },
-      {
-        "id": 28,
-        "name": "Acción"
-      }
-    ],
-    "popularidad": 26.0668,
-    "puntuación": 10.0,
-    "votos": 1,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-          "vote_average": 10.0,
-          "vote_count": 4,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/hyFjwZslMzCQlt7FByPvJciVf4C.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/zVp0TZwTOyrmIbv9lgKoJENlKLx.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/rhCg3n4wIu2wkT607h7znedYZBj.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 792,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/cYxQ5Q9IyHf6gZoXCrzOFOErMNw.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1408
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/q7gaYKraFOlI4InFq4rFlSfSOe9.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/s59EYn6n2Ay79grWvyaumihIaLo.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/e8gIGHtOPlMbdzMhCUnpOud1CPv.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/4wmJNb6GFXsK67gCdHG1ItwJmkU.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/nWYx9u3Z6UD1dqQjBwPNjOndx2e.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-11-02 10:13:00"
+    "última_actualización": "2026-11-02 17:14:39"
   },
   {
     "id": 1117898,
@@ -807,7 +807,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:00"
+    "última_actualización": "2026-11-02 17:14:39"
   },
   {
     "id": 1241803,
@@ -956,7 +956,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:02"
+    "última_actualización": "2026-11-02 17:14:40"
   },
   {
     "id": 1468846,
@@ -1020,8 +1020,8 @@
       }
     ],
     "popularidad": 5.4484,
-    "puntuación": 0.0,
-    "votos": 0,
+    "puntuación": 4.0,
+    "votos": 1,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1091,7 +1091,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:02"
+    "última_actualización": "2026-11-02 17:14:41"
   },
   {
     "id": 1649403,
@@ -1212,7 +1212,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:02"
+    "última_actualización": "2026-11-02 17:14:41"
   },
   {
     "id": 1217954,
@@ -1359,7 +1359,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:02"
+    "última_actualización": "2026-11-02 17:14:41"
   },
   {
     "id": 1405002,
@@ -1453,7 +1453,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:03"
+    "última_actualización": "2026-11-02 17:14:42"
   },
   {
     "id": 1522071,
@@ -1564,7 +1564,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:04"
+    "última_actualización": "2026-11-02 17:14:42"
   },
   {
     "id": 1371661,
@@ -1689,7 +1689,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:04"
+    "última_actualización": "2026-11-02 17:14:42"
   },
   {
     "id": 1755565,
@@ -1760,7 +1760,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-11-02 10:13:04"
+    "última_actualización": "2026-11-02 17:14:43"
   },
   {
     "id": 1802770,
@@ -1788,7 +1788,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-11-02 10:13:06"
+    "última_actualización": "2026-11-02 17:14:44"
   },
   {
     "id": 1784105,
@@ -1861,7 +1861,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:03"
+    "última_actualización": "2026-11-02 17:14:41"
   },
   {
     "id": 1421562,
@@ -1966,7 +1966,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:05"
+    "última_actualización": "2026-11-02 17:14:44"
   },
   {
     "id": 1567605,
@@ -2141,7 +2141,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:01"
+    "última_actualización": "2026-11-02 17:14:39"
   },
   {
     "id": 891621,
@@ -2149,7 +2149,7 @@
     "título": "Wild Horse Nine",
     "título_original": "Wild Horse Nine",
     "sinopsis": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
-    "poster_path": "/ulvGcZer26aBaNG0s4IEJGyyLIq.jpg",
+    "poster_path": "/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
     "poster_local": "imagenes_estrenos/Caballo_Salvaje_Nueve_ulvGcZer26aBaNG0s4IEJGyyLIq.jpg",
     "backdrop_path": "/b17UWf3LqHgKolQkXckne32qv0.jpg",
     "backdrop_local": "imagenes_estrenos/Caballo_Salvaje_Nueve_backdrop_b17UWf3LqHgKolQkXckne32qv0.jpg",
@@ -2209,8 +2209,8 @@
       }
     ],
     "popularidad": 19.236,
-    "puntuación": 8.7,
-    "votos": 9,
+    "puntuación": 8.8,
+    "votos": 10,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2307,10 +2307,20 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 1000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 2837,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1891
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:01"
+    "última_actualización": "2026-11-02 17:14:39"
   },
   {
     "id": 1427833,
@@ -2459,7 +2469,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:01"
+    "última_actualización": "2026-11-02 17:14:40"
   },
   {
     "id": 1437511,
@@ -2618,7 +2628,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:01"
+    "última_actualización": "2026-11-02 17:14:40"
   },
   {
     "id": 1124142,
@@ -2686,7 +2696,7 @@
       }
     ],
     "popularidad": 9.0888,
-    "puntuación": 6.75,
+    "puntuación": 6.742,
     "votos": 122,
     "adulto": false,
     "video": false,
@@ -2797,7 +2807,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:01"
+    "última_actualización": "2026-11-02 17:14:40"
   },
   {
     "id": 1379486,
@@ -2902,7 +2912,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:02"
+    "última_actualización": "2026-11-02 17:14:40"
   },
   {
     "id": 1506401,
@@ -2993,7 +3003,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:03"
+    "última_actualización": "2026-11-02 17:14:41"
   },
   {
     "id": 13534,
@@ -3122,7 +3132,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:03"
+    "última_actualización": "2026-11-02 17:14:42"
   },
   {
     "id": 1736731,
@@ -3164,7 +3174,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-11-02 10:13:05"
+    "última_actualización": "2026-11-02 17:14:43"
   },
   {
     "id": 1720175,
@@ -3230,7 +3240,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:05"
+    "última_actualización": "2026-11-02 17:14:43"
   },
   {
     "id": 1812576,
@@ -3298,7 +3308,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-11-02 10:13:06"
+    "última_actualización": "2026-11-02 17:14:44"
   },
   {
     "id": 1810457,
@@ -3406,7 +3416,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-11-02 10:13:06"
+    "última_actualización": "2026-11-02 17:14:44"
   },
   {
     "id": 1232569,
@@ -3585,7 +3595,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:00"
+    "última_actualización": "2026-11-02 17:14:38"
   },
   {
     "id": 1300968,
@@ -3764,7 +3774,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:00"
+    "última_actualización": "2026-11-02 17:14:39"
   },
   {
     "id": 1240889,
@@ -3943,7 +3953,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:00"
+    "última_actualización": "2026-11-02 17:14:39"
   },
   {
     "id": 1308767,
@@ -4102,7 +4112,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:01"
+    "última_actualización": "2026-11-02 17:14:40"
   },
   {
     "id": 947493,
@@ -4261,7 +4271,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:02"
+    "última_actualización": "2026-11-02 17:14:40"
   },
   {
     "id": 1176962,
@@ -4410,7 +4420,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:02"
+    "última_actualización": "2026-11-02 17:14:40"
   },
   {
     "id": 1437939,
@@ -4551,7 +4561,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:03"
+    "última_actualización": "2026-11-02 17:14:41"
   },
   {
     "id": 1578646,
@@ -4642,7 +4652,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:03"
+    "última_actualización": "2026-11-02 17:14:42"
   },
   {
     "id": 1736705,
@@ -4746,7 +4756,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:04"
+    "última_actualización": "2026-11-02 17:14:42"
   },
   {
     "id": 1658070,
@@ -4823,7 +4833,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:05"
+    "última_actualización": "2026-11-02 17:14:43"
   },
   {
     "id": 1732872,
@@ -4867,7 +4877,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:05"
+    "última_actualización": "2026-11-02 17:14:43"
   },
   {
     "id": 1641467,
@@ -4934,7 +4944,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:06"
+    "última_actualización": "2026-11-02 17:14:44"
   },
   {
     "id": 1802868,
@@ -5069,6 +5079,6 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 10:13:04"
+    "última_actualización": "2026-11-02 17:14:42"
   }
 ]
