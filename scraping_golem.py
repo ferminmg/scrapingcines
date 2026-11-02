@@ -23,7 +23,7 @@ logger = logging.getLogger(__name__)
 class MovieSchedule:
     fecha: str
     hora: str
-    enlace_entradas: Optional[str]
+    enlace_entradas: str
 
 @dataclass
 class Movie:
@@ -36,6 +36,9 @@ class Movie:
     actores: Optional[str] = None
     sinopsis: Optional[str] = None
     año: Optional[str] = None
+    tmdb_id: Optional[int] = None
+    # Ciclo o detalle de la sesión ('KLASIKOAK 2026', 'SSPNA'...)
+    nota: Optional[str] = None
 
 class TMDbAPI:
     def __init__(self, api_key: str):
@@ -73,56 +76,114 @@ class TMDbAPI:
                              self._normalize_title(title1), 
                              self._normalize_title(title2)).ratio()
 
-    def get_movie_info(self, title: str) -> dict:
-        logger.info(f"Searching TMDb for title: {title}")
+    @staticmethod
+    def _nombre(texto: str) -> str:
+        texto = unicodedata.normalize('NFKD', texto or '').encode('ASCII', 'ignore').decode('ASCII')
+        return ' '.join(re.sub(r'[^a-zA-Z0-9\s]', ' ', texto).lower().split())
 
-        search_results = self._make_request("search/movie", params={"query": title, "language": "es"})
+    def _mismo_director(self, directores_golem: str, directores_tmdb: List[str]) -> bool:
+        """¿Coincide algún director de Golem con alguno de TMDb? Se compara el
+        nombre normalizado (sin acentos ni puntuación) y, si no, el apellido."""
+        # Los nombres en otros alfabetos quedan vacíos al normalizar: fuera,
+        # porque una cadena vacía 'estaría contenida' en cualquier nombre
+        tmdb = [n for n in (self._nombre(d) for d in directores_tmdb if d) if n]
+        for director in re.split(r',| y | and |&', directores_golem or ''):
+            nombre = self._nombre(director)
+            if not nombre:
+                continue
+            for candidato in tmdb:
+                if nombre == candidato or nombre in candidato or candidato in nombre:
+                    return True
+                if nombre.split()[-1] == candidato.split()[-1] and len(nombre.split()[-1]) > 3:
+                    return True
+        return False
 
-        if not search_results or not search_results.get("results"):
-            logger.warning(f"No results found for '{title}' in Spanish. Trying English search...")
-            search_results = self._make_request("search/movie", params={"query": title, "language": "en"})
+    def get_movie_info(self, titulos, director: str = None, duracion: int = None) -> dict:
+        """Busca la película en TMDb por uno o varios títulos (el de Golem, el
+        original...). Si se conoce el director (ficha de Golem), solo se acepta
+        un resultado con ese director: así no se confunde 'The Debut' con
+        'K-Pop: The Debut' ni el Casablanca de 1942 con un documental de 2023.
+        Sin director, se descartan los cortos y se prefiere la duración
+        parecida y la película más popular (antes ganaba la más reciente)."""
+        if isinstance(titulos, str):
+            titulos = [titulos]
+        titulos = [t for t in dict.fromkeys(t.strip() for t in titulos if t and t.strip())]
+        logger.info(f"Searching TMDb for: {titulos} (director: {director}, duración: {duracion})")
 
-        if not search_results or not search_results.get("results"):
-            logger.warning(f"No results found for: {title} in any language.")
+        candidatos = {}
+        for consulta in titulos:
+            for idioma in ("es", "en"):
+                datos = self._make_request("search/movie", params={"query": consulta, "language": idioma})
+                for r in (datos or {}).get("results", []):
+                    if r.get("id"):
+                        candidatos.setdefault(r["id"], r)
+        if not candidatos:
+            logger.warning(f"No results found for: {titulos}")
             return {}
 
-        results = sorted(search_results["results"], key=lambda x: x.get("release_date", "1900-01-01"), reverse=True)
+        puntuados = []
+        for r in candidatos.values():
+            nombres = [n for n in (r.get("title"), r.get("original_title")) if n]
+            similitud = max((self._title_similarity(t, n) for t in titulos for n in nombres), default=0)
+            if similitud > 0.6:
+                puntuados.append((round(similitud, 2), r.get("popularity") or 0, r))
+        puntuados.sort(key=lambda x: (x[0], x[1]), reverse=True)
 
-        for result in results:
-            similarity = self._title_similarity(title, result.get("title", ""))
-            if similarity > 0.6:
-                movie_id = result["id"]
-                logger.info(f"Checking match: {result.get('title')} (ID: {movie_id}, Similarity: {similarity})")
-
-                details = self._make_request(f"movie/{movie_id}", params={"language": "es"})
-                if not details:
-                    details = self._make_request(f"movie/{movie_id}", params={"language": "en"})
-
-                credits = self._make_request(f"movie/{movie_id}/credits", params={"language": "es"})
-                if not credits:
-                    credits = self._make_request(f"movie/{movie_id}/credits", params={"language": "en"})
-
-                if not details or not credits:
+        reserva = None
+        for similitud, _, r in puntuados[:10]:
+            movie_id = r["id"]
+            details = self._make_request(f"movie/{movie_id}", params={"language": "es"})
+            credits = self._make_request(f"movie/{movie_id}/credits", params={"language": "es"})
+            if not details or not credits:
+                continue
+            runtime = details.get('runtime') or 0
+            if 0 < runtime < 40:
+                logger.info(f"Descartado {r.get('title')} ({movie_id}): corto de {runtime} min")
+                continue
+            directores = [c["name"] for c in credits.get("crew", []) if c.get("job") == "Director"]
+            if director:
+                if not self._mismo_director(director, directores):
+                    logger.info(f"Descartado {r.get('title')} ({movie_id}): director {directores}, Golem dice {director}")
                     continue
+            elif duracion and runtime and abs(runtime - duracion) > 15:
+                # Sin director, una duración muy distinta queda solo como reserva
+                reserva = reserva or (r, details, credits, directores)
+                continue
 
-                runtime = details.get('runtime')
-                if runtime and runtime < 40:
-                    logger.warning(f"Movie {title} with id: {movie_id} discarded because its a short film, duration of: {runtime} minutes")
-                    continue
+            logger.info(f"Found good match: {r.get('title')} (ID: {movie_id}, similitud: {similitud})")
+            return self._info(movie_id, details, credits, directores)
 
-                logger.info(f"Found good match: {result.get('title')} (ID: {movie_id}, Similarity: {similarity})")
-                return {
-                    "director": ", ".join(c["name"] for c in credits.get("crew", []) if c["job"] == "Director"),
-                    "duración": f"{details.get('runtime', 'Desconocido')} min",
-                    "actores": ", ".join(a["name"] for a in credits.get("cast", [])[:5]),
-                    "sinopsis": details.get("overview"),
-                    "año": details.get("release_date", "")[:4],
-                    "poster_path": details.get("poster_path")
-                }
-
-        logger.warning(f"No good match found for: {title}")
+        if reserva and not director:
+            r, details, credits, directores = reserva
+            return self._info(r["id"], details, credits, directores)
+        logger.warning(f"No good match found for: {titulos}")
         return {}
 
+    def _info(self, movie_id, details, credits, directores) -> dict:
+        sinopsis = (details.get("overview") or "").strip()
+        sinopsis_en = ""
+        if not sinopsis:
+            detalles_en = self._make_request(f"movie/{movie_id}", params={"language": "en"})
+            sinopsis_en = ((detalles_en or {}).get("overview") or "").strip()
+        runtime = details.get('runtime') or 0
+        return {
+            "tmdb_id": movie_id,
+            "director": ", ".join(directores),
+            "duración": f"{runtime} min" if runtime else "",
+            "actores": ", ".join(a["name"] for a in credits.get("cast", [])[:5]),
+            "sinopsis": sinopsis,
+            "sinopsis_en": sinopsis_en,
+            "año": (details.get("release_date") or "")[:4],
+            "poster_path": details.get("poster_path")
+        }
+
+
+# El nombre del cartel de TMDb sale de su ruta en TMDb (única por imagen), no
+# del título: si el emparejamiento cambia, cambia también la URL y la app no
+# sigue mostrando el cartel anterior que guarda en caché (21 días por URL).
+def nombre_cartel_tmdb(poster_path: str) -> str:
+    base = re.sub(r'[^A-Za-z0-9_-]', '', os.path.splitext(os.path.basename(poster_path or ''))[0])
+    return f"tmdb_{base}.jpg"
 
 class ImageDownloader:
     def __init__(self, base_folder: str):
@@ -176,10 +237,108 @@ class ImageDownloader:
             logger.error(f"Error downloading image: {str(e)}")
             return None
 
+# Marca de versión original subtitulada en el título de Golem:
+# '(V.O.S.E.)', '(V.O.S.E)', '(VOSE)', '(V.O.S.E. + V.O.S.E.U.)'...
+PATRON_VOSE = re.compile(r'\bV\.?\s*O\.?\s*S\.?\s*E\b', re.IGNORECASE)
+PATRON_PARENTESIS_VOSE = re.compile(r'\s*\([^)]*\bV\.?\s*O\.?\s*S\.?\s*E[^)]*\)', re.IGNORECASE)
+
+def es_vose(titulo: str) -> bool:
+    return bool(PATRON_VOSE.search(titulo or ''))
+
+def limpiar_titulo(titulo: str) -> str:
+    """Quita la marca de VOSE: 'Casablanca (V.O.S.E.)' -> 'Casablanca'."""
+    limpio = PATRON_PARENTESIS_VOSE.sub('', titulo)
+    limpio = PATRON_VOSE.sub('', limpio)
+    return ' '.join(limpio.split()).strip(' -') or titulo.strip()
+
+def quitar_prefijo_ciclo(titulo: str) -> Optional[str]:
+    """'SSPNA: Fatherland' -> 'Fatherland', 'KLASIKOAK 2026: Casablanca' ->
+    'Casablanca'. Devuelve None si no hay un prefijo corto de ciclo."""
+    if ':' not in titulo:
+        return None
+    prefijo, resto = titulo.split(':', 1)
+    prefijo, resto = prefijo.strip(), resto.strip()
+    if not resto or len(prefijo.split()) > 4:
+        return None
+    # Solo prefijos con pinta de ciclo ('SSPNA', 'KLASIKOAK 2026', 'Doc del
+    # mes'), no subtítulos de la propia película ('Vengadores Endgame: Encore')
+    if prefijo != prefijo.upper() and not re.match(r'(docs?|ciclo|cine|klasikoak|sspna)\b', prefijo, re.IGNORECASE):
+        return None
+    return resto
+
+ETIQUETAS_FICHA = ('Ficha Técnica', 'Estreno', 'Título original', 'Dirigida por',
+                   'Duración', 'Nacionalidad', 'Ficha Artística')
+
+def parsear_ficha_golem(html: str) -> dict:
+    """Datos de la ficha de una película en golem.es ('/golem/pelicula/...'):
+    '.txtNegL' trae 'Título original: ... Dirigida por: ... Duración: 105 min.
+    Nacionalidad: ... Ficha Artística: ...' y '.txtNegLJust' la sinopsis."""
+    soup = BeautifulSoup(html, 'html.parser')
+    datos = {}
+    ficha = soup.find(class_='txtNegL')
+    if ficha:
+        texto = ' '.join(ficha.get_text(' ', strip=True).split())
+        patron = '|'.join(re.escape(e) for e in ETIQUETAS_FICHA)
+        for coincidencia in re.finditer(rf'({patron}):\s*(.*?)(?=\s*(?:{patron}):|$)', texto):
+            etiqueta, valor = coincidencia.group(1), coincidencia.group(2).strip().rstrip('.').strip()
+            if not valor:
+                continue
+            if etiqueta == 'Título original':
+                datos['titulo_original'] = valor
+            elif etiqueta == 'Dirigida por':
+                datos['director'] = valor
+            elif etiqueta == 'Duración':
+                minutos = re.search(r'\d+', valor)
+                if minutos and int(minutos.group(0)) > 0:
+                    datos['duracion'] = int(minutos.group(0))
+            elif etiqueta == 'Ficha Artística' and valor.upper() != 'DOCUMENTAL':
+                datos['actores'] = valor
+    sinopsis = soup.find(class_='txtNegLJust')
+    if sinopsis:
+        texto = ' '.join(sinopsis.get_text(' ', strip=True).split())
+        texto = re.sub(r'^Sinopsis( corta)?\s*:?\s*', '', texto, flags=re.IGNORECASE)
+        # 'Presenta: FULANO, Director de...' (ciclos con presentación)
+        texto = re.split(r'\s*Presenta\s*:', texto)[0].strip()
+        if len(texto) >= 60:
+            datos['sinopsis'] = texto
+    return datos
+
 class MovieScraper:
     def __init__(self, tmdb_api: TMDbAPI, image_downloader: ImageDownloader):
         self.tmdb_api = tmdb_api
         self.image_downloader = image_downloader
+        # La misma película sale muchos días: una sola consulta por película
+        self._cache_tmdb: Dict[str, tuple] = {}
+        self._cache_fichas: Dict[str, dict] = {}
+
+    def ficha(self, href: Optional[str]) -> dict:
+        """Ficha de la película en golem.es (vacía si no hay enlace o falla)."""
+        if not href:
+            return {}
+        url = href if href.startswith('http') else f"https://golem.es{href if href.startswith('/') else '/' + href}"
+        if url not in self._cache_fichas:
+            try:
+                respuesta = requests.get(url, timeout=30)
+                respuesta.raise_for_status()
+                self._cache_fichas[url] = parsear_ficha_golem(respuesta.text)
+            except requests.exceptions.RequestException as e:
+                logger.warning(f"No se pudo leer la ficha {url}: {e}")
+                self._cache_fichas[url] = {}
+        return self._cache_fichas[url]
+
+    def buscar_tmdb(self, titulo: str, ficha: Optional[dict] = None) -> tuple:
+        """Devuelve (título a mostrar, info de TMDb). Un prefijo de ciclo
+        ('SSPNA: ...', 'KLASIKOAK 2026: ...') se quita del título a mostrar;
+        se busca por ese título y por el original de la ficha de Golem, y el
+        director de la ficha confirma que es la película correcta."""
+        ficha = ficha or {}
+        if titulo in self._cache_tmdb:
+            return self._cache_tmdb[titulo]
+        mostrado = quitar_prefijo_ciclo(titulo) or titulo
+        consultas = [mostrado, ficha.get('titulo_original'), titulo]
+        info = self.tmdb_api.get_movie_info(consultas, ficha.get('director'), ficha.get('duracion'))
+        self._cache_tmdb[titulo] = (mostrado, info)
+        return self._cache_tmdb[titulo]
 
     def scrape_cinema(self, base_url: str, cinema_name: str, days: int) -> List[Movie]:
         """Scrape movie information for a specific cinema"""
@@ -205,12 +364,11 @@ class MovieScraper:
                         
                     title = title_elem.get_text(strip=True)
                     
-                    # Filter VOSE movies: only those with "V.O.S.E" in the title
-                    if "V.O.S.E" not in title:
+                    # Solo películas en VOSE (Golem lo indica en el título)
+                    if not es_vose(title):
                         continue
-                        
-                    clean_title = title.replace("(V.O.S.E.)", "").strip()
-                    clean_title = clean_title.replace("(V.O.S.E)", "").strip()
+
+                    clean_title = limpiar_titulo(title)
                     
                     # Get poster from Golem
                     poster_elem = movie_table.find('img', {'class': 'bordeCartel'})
@@ -218,8 +376,12 @@ class MovieScraper:
                     if poster_elem and 'src' in poster_elem.attrs:
                         fallback_image_path = self.image_downloader.download(poster_elem['src'])
                     
-                    # Get TMDb information
-                    tmdb_info = self.tmdb_api.get_movie_info(clean_title)
+                    # Ficha de Golem (título original, director, sinopsis...) y TMDb
+                    titulo_golem = clean_title
+                    ficha = self.ficha(title_elem.get('href'))
+                    clean_title, tmdb_info = self.buscar_tmdb(titulo_golem, ficha)
+                    # Si se quitó el prefijo del ciclo, se guarda como nota
+                    nota = titulo_golem.split(':', 1)[0].strip() if clean_title != titulo_golem else None
                     
                     # Get TMDb poster if available
                     image_path = fallback_image_path
@@ -227,7 +389,7 @@ class MovieScraper:
                         poster_url = f"https://image.tmdb.org/t/p/w500{tmdb_info['poster_path']}"
                         
                         # Generate a safe filename for the TMDb poster in lowercase
-                        safe_filename = f"tmdb_{clean_title.lower()}.jpg"
+                        safe_filename = nombre_cartel_tmdb(tmdb_info['poster_path'])
                         
                         tmdb_image_path = self.image_downloader.download(
                             poster_url,
@@ -241,7 +403,9 @@ class MovieScraper:
                     for schedule in movie_table.find_all('span', {'class': 'horaXXXL'}):
                         time = schedule.get_text(strip=True)
                         ticket_link = schedule.find('a', href=True)
-                        ticket_url = None
+                        # Siempre texto: las versiones publicadas de la app
+                        # descartan la película entera si llega null
+                        ticket_url = ""
                         if ticket_link and 'href' in ticket_link.attrs:
                             ticket_url = f"https://golem.es{ticket_link['href']}"
                         
@@ -257,11 +421,15 @@ class MovieScraper:
                         cartel=image_path or "",
                         horarios=schedules,
                         cine=cinema_name,
-                        director=tmdb_info.get('director'),
-                        duración=tmdb_info.get('duración'),
-                        actores=tmdb_info.get('actores'),
-                        sinopsis=tmdb_info.get('sinopsis'),
-                        año=tmdb_info.get('año')
+                        # Primero TMDb en castellano; si falta, la ficha de Golem;
+                        # la sinopsis de TMDb en inglés, como último recurso
+                        director=tmdb_info.get('director') or ficha.get('director'),
+                        duración=tmdb_info.get('duración') or (f"{ficha['duracion']} min" if ficha.get('duracion') else None),
+                        actores=tmdb_info.get('actores') or ficha.get('actores'),
+                        sinopsis=tmdb_info.get('sinopsis') or ficha.get('sinopsis') or tmdb_info.get('sinopsis_en') or None,
+                        año=tmdb_info.get('año'),
+                        tmdb_id=tmdb_info.get('tmdb_id'),
+                        nota=nota
                     ))
                     
             except requests.exceptions.RequestException as e:
@@ -271,7 +439,7 @@ class MovieScraper:
         return movies
 
 # Campos de metadatos que aporta TMDb (gana la primera aparición que traiga valor)
-CAMPOS_TMDB = ('director', 'duración', 'actores', 'sinopsis', 'año')
+CAMPOS_TMDB = ('director', 'duración', 'actores', 'sinopsis', 'año', 'nota', 'tmdb_id')
 
 def merge_movies(movies: List[Movie]) -> List[Movie]:
     """Fusiona duplicados por (cine, título): junta los horarios de todos los
@@ -315,7 +483,8 @@ def main():
     
     IMAGES_FOLDER = "imagenes_peliculas"
     OUTPUT_FILE = "peliculas_vose.json"
-    DAYS_TO_SCRAPE = 10
+    # Golem publica la programación de unas tres semanas (ciclos, clásicos...)
+    DAYS_TO_SCRAPE = 21
 
     # Initialize components
     tmdb_api = TMDbAPI(TMDB_API_KEY)

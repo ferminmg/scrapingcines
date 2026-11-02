@@ -52,63 +52,71 @@ class TMDbAPI:
     def _title_similarity(self, title1: str, title2: str) -> float:
         return SequenceMatcher(None, self._normalize_title(title1), self._normalize_title(title2)).ratio()
 
-    def get_movie_info(self, title: str) -> dict:
-        logger.info(f"Searching TMDb for title: {title}")
+    def _buscar(self, consulta: str, anio: int = None) -> list:
+        """Resultados de TMDb para una consulta, en español y en inglés.
 
-        # Realizar una búsqueda con el título original
-        search_results = self._make_request("search/movie", params={"query": title, "language": "es"})
+        TMDb devuelve 20 resultados por página y los títulos comunes ('Black
+        Water': 38 resultados) pueden dejar la película buena en la página 2.
+        Con el año se busca además filtrando por él (y el anterior y el
+        siguiente, por estrenos en festivales), que da solo unas pocas."""
+        busquedas = [{"language": "es"}, {"language": "en"}]
+        if anio:
+            busquedas += [{"language": "es", "year": y} for y in (anio, anio - 1, anio + 1)]
+        resultados = {}
+        for extra in busquedas:
+            datos = self._make_request("search/movie", params={"query": consulta, **extra})
+            for r in (datos or {}).get("results", []):
+                resultados.setdefault(r.get("id"), r)
+        return [r for r in resultados.values() if r.get("id")]
 
-        if not search_results or not search_results.get("results"):
-            # Si no hay resultados, intentar en inglés
-            logger.warning(f"No results found for '{title}' in Spanish. Trying English search...")
-            search_results = self._make_request("search/movie", params={"query": title, "language": "en"})
+    @staticmethod
+    def _anio(resultado: dict):
+        fecha = str(resultado.get("release_date") or "")[:4]
+        return int(fecha) if fecha.isdigit() else None
 
-        if not search_results or not search_results.get("results"):
+    def get_movie_info(self, title: str, anio: int = None, titulo_original: str = None) -> dict:
+        """Busca la película por título (y por el título original si se
+        conoce). Con el año de la Filmoteca se descartan las que se desvían más
+        de 2 años; los cortos (< 40 min) se descartan siempre. Entre las
+        válidas gana la más parecida, la de año más cercano y la más popular
+        (así 'El prado' es The Field de 1990 y no un corto de 2023)."""
+        logger.info(f"Searching TMDb for title: {title} (original: {titulo_original}, año: {anio})")
+        titulos = [t for t in (title, titulo_original) if t]
+
+        candidatos = {}
+        for consulta in titulos:
+            for r in self._buscar(consulta, anio):
+                candidatos.setdefault(r["id"], r)
+        if not candidatos:
             logger.warning(f"No results found for: {title} in any language.")
             return {}
 
-        # Ordenar por fecha de lanzamiento (más reciente primero)
-        results = sorted(search_results["results"], key=lambda x: x.get("release_date", "1900-01-01"), reverse=True)
+        puntuados = []
+        for r in candidatos.values():
+            nombres = [n for n in (r.get("title"), r.get("original_title")) if n]
+            similitud = max((self._title_similarity(t, n) for t in titulos for n in nombres), default=0)
+            if similitud <= 0.6:
+                continue
+            anio_r = self._anio(r)
+            if anio and anio_r and abs(anio_r - anio) > 2:
+                continue
+            desvio = abs(anio_r - anio) if (anio and anio_r) else 3
+            puntuados.append((round(similitud - 0.1 * min(desvio, 3), 3), r.get("popularity") or 0, r))
+        puntuados.sort(key=lambda x: (x[0], x[1]), reverse=True)
 
-        # Buscar el mejor match por similitud
-        best_match = None
-        highest_similarity = 0
-
-        for result in results:
-            similarity = self._title_similarity(title, result.get("title", ""))
-            if similarity > highest_similarity:
-                highest_similarity = similarity
-                best_match = result
-
-        if best_match and highest_similarity > 0.6:
-            movie_id = best_match["id"]
-            logger.info(f"Found match: {best_match.get('title')} (ID: {movie_id}, Similarity: {highest_similarity})")
-
-            # Obtener detalles adicionales
-            details = self._make_request(f"movie/{movie_id}", params={"language": "es"})
-            if not details:
-                details = self._make_request(f"movie/{movie_id}", params={"language": "en"})
-
-            credits = self._make_request(f"movie/{movie_id}/credits", params={"language": "es"})
-            if not credits:
-                credits = self._make_request(f"movie/{movie_id}/credits", params={"language": "en"})
-
-            if not details or not credits:
-                return {}
-
-            return {
-                "tmdb_id": movie_id,
-                "director": ", ".join(c["name"] for c in credits.get("crew", []) if c["job"] == "Director"),
-                "duración": f"{details.get('runtime', 'Desconocido')} min",
-                "actores": ", ".join(a["name"] for a in credits.get("cast", [])[:5]),
-                "sinopsis": details.get("overview"),
-                "año": details.get("release_date", "")[:4],
-                "poster_path": details.get("poster_path")
-            }
+        for puntuacion, _, r in puntuados[:6]:
+            info = self.get_movie_info_by_id(r["id"])
+            if not info:
+                continue
+            if info.get("runtime") and info["runtime"] < 40:
+                logger.info(f"Descartado {r.get('title')} ({r['id']}): corto de {info['runtime']} min")
+                continue
+            logger.info(f"Found match: {r.get('title')} (ID: {r['id']}, puntuación: {puntuacion})")
+            return info
 
         logger.warning(f"No good match found for: {title}")
         return {}
-    
+
     def get_movie_info_by_id(self, movie_id: int) -> dict:
         logger.info(f"Fetching movie by TMDb ID: {movie_id}")
 
@@ -123,15 +131,30 @@ class TMDbAPI:
         if not details or not credits:
             return {}
 
+        sinopsis_en = ""
+        if not (details.get("overview") or "").strip():
+            # Sin sinopsis en castellano: se guarda la inglesa como último recurso
+            detalles_en = self._make_request(f"movie/{movie_id}", params={"language": "en"})
+            sinopsis_en = ((detalles_en or {}).get("overview") or "").strip()
+
         return {
             "tmdb_id": movie_id,
             "director": ", ".join(c["name"] for c in credits.get("crew", []) if c["job"] == "Director"),
-            "duración": f"{details.get('runtime', 'Desconocido')} min",
+            "duración": f"{details['runtime']} min" if details.get("runtime") else "",
             "actores": ", ".join(a["name"] for a in credits.get("cast", [])[:5]),
             "sinopsis": details.get("overview"),
+            "sinopsis_en": sinopsis_en,
             "año": details.get("release_date", "")[:4],
-            "poster_path": details.get("poster_path")
+            "poster_path": details.get("poster_path"),
+            "runtime": details.get("runtime"),
         }
+
+# El nombre del cartel de TMDb sale de su ruta en TMDb (única por imagen), no
+# del título: si el emparejamiento cambia, cambia también la URL y la app no
+# sigue mostrando el cartel anterior que guarda en caché (21 días por URL).
+def nombre_cartel_tmdb(poster_path: str) -> str:
+    base = re.sub(r'[^A-Za-z0-9_-]', '', os.path.splitext(os.path.basename(poster_path or ''))[0])
+    return f"tmdb_{base}.jpg"
 
 # Formulaciones admitidas para sesiones en versión original subtitulada.
 # El texto se normaliza a ASCII y minúsculas antes de comparar, así que aquí
@@ -151,9 +174,119 @@ def es_vose(idioma: str) -> bool:
     texto = unicodedata.normalize('NFKD', str(idioma)).encode('ascii', 'ignore').decode().lower()
     return any(cadena in texto for cadena in CADENAS_VOSE)
 
+def separar_titulo_h1(titulo: str) -> tuple:
+    """Separa el <h1> de Filmoteca en (título, nota): quita el '(título
+    original, país, año)' y guarda aparte lo que venga detrás, p. ej.
+    'Cowboy de medianoche (Midnight Cowboy, Estados Unidos, 1969) Sesión con
+    concierto.' -> ('Cowboy de medianoche', 'Sesión con concierto')."""
+    texto = ' '.join((titulo or '').split())
+    nota = ''
+    coincidencia = re.search(r'\s*\((?=[^)]*\b(?:18|19|20)\d{2}\b)[^)]*\)', texto)
+    if coincidencia:
+        nota = texto[coincidencia.end():].strip(' .-–—·')
+        texto = texto[:coincidencia.start()]
+    else:
+        texto = re.sub(r'\s*\([^)]*\)\s*$', '', texto)
+    texto = texto.strip()
+    return (texto or ' '.join((titulo or '').split()), nota)
+
+def datos_h1(titulo: str) -> tuple:
+    """Título original y año del paréntesis del <h1>:
+    'El prado (The Field, Irlanda, 1990)' -> ('The Field', 1990);
+    'Almudena (España, 2025)' -> (None, 2025)."""
+    coincidencia = re.search(r'\(([^)]*\b(?:18|19|20)\d{2}\b[^)]*)\)', titulo or '')
+    if not coincidencia:
+        return (None, None)
+    partes = [p.strip() for p in coincidencia.group(1).split(',')]
+    anio = re.search(r'\b(?:18|19|20)\d{2}\b', partes[-1]) if partes else None
+    anio = int(anio.group(0)) if anio else None
+    # (título original, país, año): el título original solo si hay 3+ partes
+    original = ', '.join(partes[:-2]).strip() if len(partes) >= 3 else None
+    return (original or None, anio)
+
 def limpiar_titulo_h1(titulo: str) -> str:
-    """Quita el '(título original, país, año)' final del <h1> de Filmoteca."""
-    return re.sub(r'\s*\([^)]*\)\s*$', '', titulo).strip()
+    """Título del <h1> sin '(título original, país, año)' ni notas."""
+    return separar_titulo_h1(titulo)[0]
+
+def ficha_filmoteca(soup) -> dict:
+    """Datos de la propia ficha de la Filmoteca, para completar lo que TMDb
+    no tenga: 'div.txt22' trae campos etiquetados ('Dirección y guion: ...',
+    'Intérpretes: ...', 'Duración: 84 min.') y el primer párrafo de
+    'div.txt33' es la sinopsis (el siguiente, el comentario de la Filmoteca)."""
+    datos = {}
+    txt22 = soup.find('div', class_='txt22')
+    if txt22:
+        for parrafo in txt22.find_all('p'):
+            texto = ' '.join(parrafo.get_text(' ', strip=True).split())
+            coincidencia = re.match(r'^([^:]{2,40}):\s*(.+)$', texto)
+            if not coincidencia:
+                continue
+            etiqueta = _sin_acentos(coincidencia.group(1)).strip()
+            valor = coincidencia.group(2).strip().rstrip('.').strip()
+            if etiqueta.startswith('direccion') and 'director' not in datos:
+                datos['director'] = valor
+            elif etiqueta in ('interpretes', 'reparto', 'con la participacion de', 'con') and 'actores' not in datos:
+                datos['actores'] = valor
+            elif etiqueta == 'duracion' and 'duración' not in datos:
+                minutos = re.search(r'\d+', valor)
+                if minutos:
+                    datos['duración'] = f"{minutos.group(0)} min"
+    txt33 = soup.find('div', class_='txt33')
+    if txt33:
+        for parrafo in txt33.find_all('p'):
+            texto = ' '.join(parrafo.get_text(' ', strip=True).split())
+            if len(texto) >= 60:
+                datos['sinopsis'] = texto
+                break
+    return datos
+
+def completar_datos(pelicula: dict, tmdb_info: dict, ficha: dict) -> None:
+    """Rellena director, reparto, duración y sinopsis: primero TMDb (en
+    castellano), si falta la ficha de la Filmoteca y, para la sinopsis, en
+    último lugar la de TMDb en inglés."""
+    for campo in ('director', 'actores', 'duración', 'sinopsis'):
+        valor = (tmdb_info.get(campo) or '').strip() or (ficha.get(campo) or '').strip()
+        if not valor and campo == 'sinopsis':
+            valor = (tmdb_info.get('sinopsis_en') or '').strip()
+        pelicula[campo] = valor or None
+
+CINE_POR_DEFECTO = 'Filmoteca de Navarra'
+
+# Sedes fuera de la Filmoteca. El sitio las indica al final del <h2> de la
+# sesión ('Sábado, 3 de octubre 19:00 - CONDESTABLE') y en el <title>.
+SEDES = (
+    ('condestable', 'Civivox Condestable'),
+    ('iturrama', 'Civivox Iturrama'),
+    ('mendillorri', 'Civivox Mendillorri'),
+    ('jus la rocha', 'Civivox Jus la Rocha'),
+    ('milagrosa', 'Civivox Milagrosa'),
+    ('san jorge', 'Civivox San Jorge'),
+    ('ensanche', 'Civivox Ensanche'),
+    ('baluarte', 'Baluarte'),
+    ('planetario', 'Planetario de Pamplona'),
+    ('museo de navarra', 'Museo de Navarra'),
+)
+
+def _sin_acentos(texto: str) -> str:
+    return unicodedata.normalize('NFKD', texto or '').encode('ascii', 'ignore').decode().lower()
+
+def detectar_sede(texto_h2: str, titulo_pagina: str = '') -> str:
+    """Devuelve el cine/sede de la sesión (por defecto, la Filmoteca)."""
+    candidatos = []
+    # Lo que va tras el último ' - ' del h2 ('19:00 - CONDESTABLE')
+    if texto_h2 and ' - ' in texto_h2:
+        candidatos.append(texto_h2.rsplit(' - ', 1)[1])
+    # El <title>: 'Película - Ciclo - CONDESTABLE - Filmoteca de Navarra'.
+    # Solo los trozos en mayúsculas, para no confundir un nombre de ciclo.
+    if titulo_pagina:
+        candidatos.extend(t for t in titulo_pagina.split(' - ')[1:]
+                          if t.strip() and t.strip() == t.strip().upper())
+    for candidato in candidatos:
+        texto = _sin_acentos(candidato)
+        for clave, sede in SEDES:
+            if clave in texto:
+                return sede
+    return CINE_POR_DEFECTO
 
 def scrapear_filmoteca():
     """Realiza el scraping de la web de Filmoteca de Navarra"""
@@ -176,6 +309,7 @@ def scrapear_filmoteca():
     processed_urls = set()
     peliculas = []
     sugerencias_equivalencias = {}
+    correcciones_equivalencias = {}
 
     # Función para resolver equivalencias TMDB
     def resolver_equivalencia_tmdb(titulo_original: str) -> dict:
@@ -205,7 +339,9 @@ def scrapear_filmoteca():
                     response.raise_for_status()
                     soup = BeautifulSoup(response.text, 'html.parser')
 
-                    title = limpiar_titulo_h1(soup.find('h1').text.strip())
+                    texto_h1 = soup.find('h1').text.strip()
+                    title, nota = separar_titulo_h1(texto_h1)
+                    titulo_original, anio_h1 = datos_h1(texto_h1)
                     divtxt22 = soup.find('div', class_='txt txt22')
                     idioma = ""
                     texto_completo = ""
@@ -232,16 +368,23 @@ def scrapear_filmoteca():
                             logger.info(f"Procesando película: {title}")
                             logger.info(f"Idioma: {idioma}")
 
+                            fecha_hora = soup.find('h2')
+                            texto_fecha = fecha_hora.get_text(separator=" ").strip() if fecha_hora else ""
+                            titulo_pagina = soup.title.get_text().strip() if soup.title else ""
+                            cine = detectar_sede(texto_fecha, titulo_pagina)
+                            logger.info(f"Sede: {cine}")
+
                             pelicula = {
                                 "título": title,
                                 "cartel": os.path.join('imagenes_filmoteca', re.sub(r'[^a-zA-Z0-9]', '_', title) + '.jpg'),
                                 "horarios": [],
-                                "cine": "Filmoteca de Navarra",
+                                "cine": cine,
                             }
+                            if nota:
+                                # Detalle de la sesión: 'Sesión con concierto'...
+                                pelicula["nota"] = nota
 
-                            fecha_hora = soup.find('h2')
                             if fecha_hora:
-                                texto_fecha = fecha_hora.get_text(separator=" ").strip()
                                 try:
                                     meses = {
                                         'enero': '01', 'febrero': '02', 'marzo': '03',
@@ -266,8 +409,11 @@ def scrapear_filmoteca():
                                     horario = {
                                         "fecha": fecha_formateada,
                                         "hora": hora,
-                                        "enlace_entradas": enlace_entradas['href'] if enlace_entradas else ""
+                                        "enlace_entradas": enlace_entradas['href'] if enlace_entradas else "",
+                                        "cine": cine,
                                     }
+                                    if nota:
+                                        horario["nota"] = nota
                                     pelicula["horarios"].append(horario)
 
                                 except Exception as e:
@@ -287,11 +433,28 @@ def scrapear_filmoteca():
                                         logger.error(f"Error al descargar la imagen: {str(e)}")
                             
                             equivalencia = resolver_equivalencia_tmdb(title)
-                            if "tmdb_id" in equivalencia:
+                            tmdb_info = {}
+                            if equivalencia.get("tmdb_id"):
                                 logger.info(f"Usando equivalencia TMDB para '{title}': ID {equivalencia['tmdb_id']}")
                                 tmdb_info = tmdb_api.get_movie_info_by_id(equivalencia["tmdb_id"])
-                            else:
-                                tmdb_info = tmdb_api.get_movie_info(title)
+                                # Una equivalencia de otra época es un emparejamiento
+                                # erróneo (p. ej. un corto homónimo): se vuelve a buscar
+                                anio_equiv = str(tmdb_info.get("año") or "")
+                                if anio_h1 and anio_equiv.isdigit() and abs(int(anio_equiv) - anio_h1) > 2:
+                                    logger.warning(f"Equivalencia de '{title}' descartada: TMDb {anio_equiv}, Filmoteca {anio_h1}")
+                                    tmdb_info = {}
+                                elif tmdb_info.get("runtime") and tmdb_info["runtime"] < 40:
+                                    logger.warning(f"Equivalencia de '{title}' descartada: es un corto de {tmdb_info['runtime']} min")
+                                    tmdb_info = {}
+                            if not tmdb_info:
+                                tmdb_info = tmdb_api.get_movie_info(title, anio_h1, titulo_original)
+                                if tmdb_info and equivalencia.get("tmdb_id") and equivalencia["tmdb_id"] != tmdb_info["tmdb_id"]:
+                                    # Corregir la equivalencia guardada
+                                    correcciones_equivalencias[title.strip().lower()] = {
+                                        "tmdb_id": tmdb_info["tmdb_id"],
+                                        "titulo_original": titulo_original or "",
+                                        "anio": tmdb_info.get("año") or None
+                                    }
                                 if not tmdb_info:
                                     sugerencias_equivalencias.setdefault(title.strip().lower(), {
                                         "tmdb_id": None,
@@ -302,16 +465,19 @@ def scrapear_filmoteca():
                             if tmdb_info:
                                 if tmdb_info.get('poster_path'):
                                     tmdb_poster_url = f"https://image.tmdb.org/t/p/w500{tmdb_info['poster_path']}"
-                                    tmdb_poster_filename = os.path.join('imagenes_filmoteca', f"tmdb_{re.sub(r'[^a-zA-Z0-9]', '_', title)}.jpg")
-                                    urllib.request.urlretrieve(tmdb_poster_url, tmdb_poster_filename)
+                                    tmdb_poster_filename = os.path.join('imagenes_filmoteca', nombre_cartel_tmdb(tmdb_info['poster_path']))
+                                    if not os.path.exists(tmdb_poster_filename):
+                                        urllib.request.urlretrieve(tmdb_poster_url, tmdb_poster_filename)
                                     pelicula['cartel'] = tmdb_poster_filename
 
                                 pelicula['tmdb_id'] = tmdb_info.get('tmdb_id')
-                                pelicula['director'] = tmdb_info.get('director')
-                                pelicula['duración'] = tmdb_info.get('duración')
-                                pelicula['actores'] = tmdb_info.get('actores')
-                                pelicula['sinopsis'] = tmdb_info.get('sinopsis')
                                 pelicula['año'] = tmdb_info.get('año')
+
+                            # Lo que TMDb no tenga (o todo, si no la encuentra),
+                            # desde la ficha de la propia Filmoteca
+                            completar_datos(pelicula, tmdb_info or {}, ficha_filmoteca(soup))
+                            if not pelicula.get('año') and anio_h1:
+                                pelicula['año'] = str(anio_h1)
 
                             peliculas.append(pelicula)
                             logger.info(f"Película añadida: {title}")
@@ -324,12 +490,14 @@ def scrapear_filmoteca():
     # Guardar sugerencias de equivalencias sin borrar las ya existentes:
     # se parte de las cargadas y solo se añaden/sobrescriben las nuevas,
     # conservando siempre las que ya tienen un tmdb_id resuelto
-    if sugerencias_equivalencias:
+    if sugerencias_equivalencias or correcciones_equivalencias:
         for clave, valor in sugerencias_equivalencias.items():
             existente = equivalencias_tmdb.get(clave)
             if existente and existente.get('tmdb_id'):
                 continue
             equivalencias_tmdb[clave] = valor
+        # Las equivalencias erróneas detectadas por el año se sobrescriben
+        equivalencias_tmdb.update(correcciones_equivalencias)
         with open('equivalencias_peliculas.json', 'w', encoding='utf-8') as f:
             json.dump(equivalencias_tmdb, f, ensure_ascii=False, indent=4)
         logger.info(f"Se han guardado {len(sugerencias_equivalencias)} sugerencias en equivalencias_peliculas.json")
