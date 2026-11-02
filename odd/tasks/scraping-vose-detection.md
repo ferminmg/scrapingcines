@@ -47,14 +47,18 @@ La web de Filmoteca cambió su redacción y nadie se enteró durante 3 semanas: 
 - [x] **T4** `scraper_modificado.py` — las equivalencias se fusionan sobre las cargadas; las que ya tienen `tmdb_id` real no se pisan
 - [x] **T5** `scrape_ghostintheblog.py` — `split_titulo_director()` prueba cada ` de ` de izquierda a derecha (máx. 8 palabras, sin dígitos ni `/`, mayúsculas o partículas); posts con ` / ` → `Desconocido` (deja actuar al respaldo `Dirección:` del contenido); `rutas_post()` comprueba también la ruta heredada para no renombrar ficheros históricos
       - **Corregido tras gate del padre:** la primera versión partía por la ÚLTIMA ` de ` y producía directores falsos (`la Orden`, `la Iglesia`, `Chauveron`). Re-medida sobre los títulos reales: 10 casos contaminados arreglados con el nombre completo, 0 nombres basura, posts con dos películas sin emparejar mal.
-- [x] **T6** `verificar_salidas.py` (nuevo) + `.github/workflows/main.yml` — cada paso `|| echo` también deja constancia en `${{ runner.temp }}/fallores` (fuera del repo); paso final `✅ Verificar salidas` con `if: always()` **después** del push y del deploy de Pages: comprueba que las 4 salidas obligatorias existen, parsean y tienen ≥1 elemento, compara con `git show HEAD:`, emite `::error::` y devuelve 1 → los datos igual se publican pero el run queda en rojo
+- [x] **T6** `verificar_salidas.py` (nuevo) + `.github/workflows/main.yml` — cada paso `|| echo` también deja constancia fuera del repo en `/tmp/fallos_scraper.txt` (antes `runner.temp`, ver T8); paso final `✅ Verificar salidas` con `if: always()` **después** del push y del deploy de Pages: comprueba que las 4 salidas obligatorias existen, parsean y tienen ≥1 elemento, compara con `git show HEAD:`, emite `::error::` y devuelve 1 → los datos igual se publican pero el run queda en rojo
       - **Corregido tras chequeo del padre:** `subprocess.run` sin `encoding='utf-8'` rompía en Windows (cp1252) al comparar `index.json`.
 - [x] **T7** Verificación funcional + commits por unidad de trabajo
+- [x] **T8** Ejecución real del workflow sobre la rama + tres arreglos de CI encontrados en caliente
+      - `runner.temp` **no** es válido en `env` de job (solo dentro de `steps`): GitHub rechazaba el fichero entero y ningún job arrancaba (`startup_failure`). Le afectaba también a `main`.
+      - El paso de commit hacía `git pull --rebase origin main` + `git push origin main`: desde otra rama el rebase choca con los datos que esa rama no tiene (add/add en binarios) y el push no puede funcionar. Ahora usan `$GITHUB_REF_NAME`, que en los schedules sigue siendo `main`.
+      - El verificador elegía `.venv/Scripts/python.exe` con `-f`: ese binario de Windows está commiteado, existe en ubuntu y no es ejecutable (`Permission denied`) → el paso moría antes de validar nada. Ahora exige `-x`.
 
 ## Criterios de aceptación
 
 - [x] Con el HTML vivo de Filmoteca, "Palestina 36" **sí** pasa el filtro y su título de búsqueda TMDB es `Palestina 36` (sin paréntesis).
-- [ ] `peliculas_vose.json` pasa de 36 entradas/10 títulos a 10 entradas/10 títulos con la suma de horarios intacta — **no ejecutado**: correr el scraper sobrescribe el JSON trackeado y consume cuota TMDb; la lógica de fusión está cubierta por tests unitarios.
+- [x] `peliculas_vose.json` sin pérdida de sesiones — **ejecutado en CI** (run `36252376881`) y comparado con `main` en la misma ventana 26/09–02/10: **27 entradas → 7 entradas**, con los **7 pares (cine, título) y los 38 horarios idénticos**, 0 títulos perdidos y 0 nuevos. (La cifra "36 entradas / 10 títulos" del diagnóstico provenía de un ref local `origin/main` stale con datos del 09-24, no del tip.)
 - [x] Yelmo asigna año correcto en una fecha de diciembre consultada en enero (prueba con `FilterDate` de diciembre y con desfase horario).
 - [ ] `equivalencias_peliculas.json` conserva las claves previas tras una ejecución con nuevas sugerencias — **no ejecutado** (misma razón: requiere correr el scraper); la lógica de merge está cubierta por inspección del diff.
 - [ ] El conteo de `director != "Desconocido"` en `index.json` no baja — **medido en frío** sobre los 2470 `posts/*.json`: 25 títulos cambian de comportamiento, 0 asignaciones incorrectas, 0 regresiones (los casos que el split antiguo resolvía siguen resueltos).
@@ -84,6 +88,9 @@ Por eso la exploración y el mapeo de lectura se hicieron inline. La delegación
 - 2026-09-26: **Gate del padre (T5): FALLÓ → corrección aplicada.** El split por la última ` de ` daba directores falsos. Re-implementado y re-medido sobre los 2470 títulos crudos de `posts/*.json`: 25 comportamientos distintos, 0 nombres basura, 12 ficheros con nombre nuevo y **los 12 nombres heredados existen en disco** (guardia `rutas_post` cubierta).
 - 2026-09-26: **Gate del padre (T6): FALLÓ → fix aplicado.** `git show HEAD:` usaba la codificación local en Windows (`index.json` quedaba sin comparar). Corregido con `encoding='utf-8'`.
 - 2026-09-26: commits por unidad de trabajo en `fix/scraping-vose-detection`; espejo Engram guardado en `odd/scraping-vose-detection/tasks`.
+- 2026-09-26: rama empujada; el usuario fusionó el **PR #2** en `main` a las 12:31 UTC — incluía el `runner.temp` roto, así que `main` quedó con el workflow inválido.
+- 2026-09-26: **T8 — ejecución del action e iteración hasta verde.** Run 1 (`36251717069`) en rojo: los 5 scrapers en verde, pero `💾 Commitear cambios` (rebase contra `main`) y `✅ Verificar salidas` (`Permission denied`) fallan. Corregidos ambos defectos, run 2 (`36252376881`) → **`success`, 20/20 pasos**.
+- 2026-09-26: **T8 cerrado.** Arreglos subidos a `main` (`030074e7`, solo el workflow, diff verificado antes de subir) y validados con el cron de producción de las 16:00 UTC → run `36254071841` **`success`**.
 
 ## Verificación observada (2026-09-26, ejecutada por el padre)
 
@@ -94,9 +101,16 @@ Por eso la exploración y el mapeo de lectura se hicieron inline. La delegación
 | Unidades del escritor | 11 aserciones de split + 3 casos de `verificar_salidas.py` (fixtures en Temp) | 0 fallos; `[]` → exit 1 con `::error file=`; JSON inválido → exit 1 |
 | Verificador contra el repo real | `python verificar_salidas.py` | exit 0; `index.json: antes=2571 ahora=2571` (ruta git verificada) |
 | YAML del workflow | `yaml.safe_load` | parsea; paso final con `if: always()` tras push y deploy |
+| Run completo en CI | `workflow_dispatch` → run [`36252376881`](https://github.com/ferminmg/scrapingcines/actions/runs/36252376881) | **`success`, 20/20 pasos**: 5 scrapers, `💾 Commitear cambios`, deploy de Pages y `✅ Verificar salidas` en verde |
+| Golem sin pérdida | `main` (12:13, código antiguo) vs rama (15:36), misma ventana 26/09–02/10 | 27→7 entradas; **7 pares (cine,título) y 38 horarios idénticos**; 0 títulos perdidos |
+| Filmoteca end-to-end | `main` vs rama en CI | `main` = `[]` (0), rama = **1 película** con sesión 30/09 y enlace `nicdo.es` |
 | TDD | — | OFF (sin framework de tests en el repo) |
 
-**Pendiente de autorización:** `git push` (operación remota).
+**Push a la rama:** hecho con permiso del usuario (2026-09-26: `07b1965c`, `a4a23734`).
+
+**Arreglos llevados a `main`** (decisión del usuario: "subirlo a main ahora"): commit [`030074e7`](https://github.com/ferminmg/scrapingcines/commit/030074e7626e4687cf451ecdd4e18822e4dd2abf) vía API de Contents con **solo** `.github/workflows/main.yml`, previa verificación del diff (exactamente los 3 arreglos, 307 → 316 líneas). Validado con el cron real de producción: run [`36254071841`](https://github.com/ferminmg/scrapingcines/actions/runs/36254071841) (16:03 UTC) → **`success`** (validate 3/3; scraping 20/21, con el paso de próximos estrenos omitido por horario). **La tubería de `main` vuelve a estar operativa.**
+
+**Resto pendiente:** el commit de datos `e9b34693` de la rama chocaría con los datos de `main` en un merge; la rama ya no aporta nada que no esté en `main` (código vía PR #2, workflow vía `030074e7`).
 
 ## Resultado del asesor de riesgos (RDD)
 
@@ -116,3 +130,6 @@ Por eso la exploración y el mapeo de lectura se hicieron inline. La delegación
 | `2f61e343` | ci: run en rojo si una salida queda vacía o el scraper crashea |
 | `d3805a46` | docs(odd): documento de seguimiento |
 | `c34fa335` | docs(odd): registro del resultado de RDD |
+| `07b1965c` | ci: ruta literal en `env` de job (el contexto `runner.temp` rompía el fichero entero) |
+| `a4a23734` | ci: commit de datos en la rama que dispara el run + Python ejecutable en el verificador |
+| `e9b34693` | 🔄 Actualización automática — commit de datos creado por el run verde de CI |

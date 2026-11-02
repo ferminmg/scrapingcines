@@ -138,8 +138,8 @@ class TMDbAPI:
 # van sin acentos (tanto "V.O.S.E." como la redacción actual del sitio).
 CADENAS_VOSE = (
     'v.o.s.e', 'vose', 'vo subs',
-    'subtitulado al espanol', 'subtitulos al espanol',
-    'subtitulado al castellano',
+    'subtitulado al espanol', 'subtitulada al espanol', 'subtitulos al espanol',
+    'subtitulado al castellano', 'subtitulada al castellano',
     'subtitulos en espanol', 'subtitulos en castellano',
     'version original',
 )
