@@ -100,7 +100,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:42"
+    "última_actualización": "2026-11-02 22:12:46"
   },
   {
     "id": 1745146,
@@ -149,7 +149,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-11-02 17:14:43"
+    "última_actualización": "2026-11-02 22:12:46"
   },
   {
     "id": 1662674,
@@ -258,7 +258,186 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:44"
+    "última_actualización": "2026-11-02 22:12:47"
+  },
+  {
+    "id": 656908,
+    "tmdb_id": 656908,
+    "título": "Ramayana: El Nacimiento de una Leyenda",
+    "título_original": "Ramayanw: Rise of a Legend",
+    "sinopsis": "",
+    "poster_path": "/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
+    "poster_local": "imagenes_estrenos/Ramayana__El_Nacimiento_de_una_Leyenda_nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
+    "backdrop_path": "/bkhPaFOiqc9GeLMdf1D44KbozRH.jpg",
+    "backdrop_local": "imagenes_estrenos/Ramayana__El_Nacimiento_de_una_Leyenda_backdrop_ks72NqTPhpupk207NXiqmZIQQVI.jpg",
+    "fecha_estreno": "2026-11-06T00:00:00.000Z",
+    "duración": "167 min",
+    "director": "Nitesh Tiwari",
+    "directores": [
+      {
+        "name": "Nitesh Tiwari",
+        "id": 1042010
+      }
+    ],
+    "actores": [
+      {
+        "name": "रणबीर कपूर",
+        "id": 85034,
+        "character": "Prince Ram / Parshuram / Lord Vishnu",
+        "profile_path": "/ymYNHV9luwgyrw17NXHqbOWTQkg.jpg"
+      },
+      {
+        "name": "Yash",
+        "id": 1293681,
+        "character": "Ravana",
+        "profile_path": "/eN4AXetHfg8sFOI4tCFBCaq1iac.jpg"
+      },
+      {
+        "name": "Sai Pallavi",
+        "id": 1473119,
+        "character": "Sita",
+        "profile_path": "/qAPdGKUIUEzLibdgVCey7oKvvME.jpg"
+      },
+      {
+        "name": "Ravi Dubey",
+        "id": 1252841,
+        "character": "Lakshman",
+        "profile_path": "/dUhZ0E8nchBkjYV0okWfj4BLxy2.jpg"
+      },
+      {
+        "name": "अरुण गोविल",
+        "id": 1228593,
+        "character": "King Dashrath",
+        "profile_path": "/xgefRNWurCiwyLSlpnDGgfMIF7H.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "popularidad": 27.5598,
+    "puntuación": 10.0,
+    "votos": 1,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/bkhPaFOiqc9GeLMdf1D44KbozRH.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.779,
+          "height": 1034,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 1840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1524,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 2710
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1547,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
+          "vote_average": 2.066,
+          "vote_count": 5,
+          "width": 2750
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 994,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/4xfWXTZNkeZ9R82aiDaZD34ruY5.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 1766
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.675,
+          "height": 1000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 675
+        },
+        {
+          "aspect_ratio": 0.666,
+          "height": 2528,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/lgJgvYYb3Em45CgDveojRrkMuQp.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1684
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/bMfhefbP33wWGWrH84e9Fu8pWx1.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 2400,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6OzT3qCT7MZtBa6iy8owL2SC9ql.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1600
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 2400,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zjBMqImLbayOtF1TI22DU2sLD8j.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1600
+        }
+      ]
+    },
+    "última_actualización": "2026-11-02 22:12:42"
   },
   {
     "id": 1381071,
@@ -326,8 +505,8 @@
       }
     ],
     "popularidad": 26.0668,
-    "puntuación": 10.0,
-    "votos": 2,
+    "puntuación": 9.8,
+    "votos": 3,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -437,186 +616,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:39"
-  },
-  {
-    "id": 656908,
-    "tmdb_id": 656908,
-    "título": "Ramayana: El Nacimiento de una Leyenda",
-    "título_original": "रामायणम्",
-    "sinopsis": "",
-    "poster_path": "/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
-    "poster_local": "imagenes_estrenos/Ramayana__El_Nacimiento_de_una_Leyenda_nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
-    "backdrop_path": "/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
-    "backdrop_local": "imagenes_estrenos/Ramayana__El_Nacimiento_de_una_Leyenda_backdrop_ks72NqTPhpupk207NXiqmZIQQVI.jpg",
-    "fecha_estreno": "2026-11-06T00:00:00.000Z",
-    "duración": "195 min",
-    "director": "Nitesh Tiwari",
-    "directores": [
-      {
-        "name": "Nitesh Tiwari",
-        "id": 1042010
-      }
-    ],
-    "actores": [
-      {
-        "name": "रणबीर कपूर",
-        "id": 85034,
-        "character": "Prince Ram / Parshuram / Lord Vishnu",
-        "profile_path": "/ymYNHV9luwgyrw17NXHqbOWTQkg.jpg"
-      },
-      {
-        "name": "Yash",
-        "id": 1293681,
-        "character": "Ravana",
-        "profile_path": "/eN4AXetHfg8sFOI4tCFBCaq1iac.jpg"
-      },
-      {
-        "name": "Sai Pallavi",
-        "id": 1473119,
-        "character": "Sita",
-        "profile_path": "/qAPdGKUIUEzLibdgVCey7oKvvME.jpg"
-      },
-      {
-        "name": "Ravi Dubey",
-        "id": 1252841,
-        "character": "Lakshman",
-        "profile_path": "/dUhZ0E8nchBkjYV0okWfj4BLxy2.jpg"
-      },
-      {
-        "name": "अरुण गोविल",
-        "id": 1228593,
-        "character": "King Dashrath",
-        "profile_path": "/xgefRNWurCiwyLSlpnDGgfMIF7H.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 14,
-        "name": "Fantasía"
-      },
-      {
-        "id": 28,
-        "name": "Acción"
-      },
-      {
-        "id": 12,
-        "name": "Aventura"
-      }
-    ],
-    "popularidad": 27.5598,
-    "puntuación": 10.0,
-    "votos": 1,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.779,
-          "height": 1034,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 1840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1524,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-          "vote_average": 2.278,
-          "vote_count": 3,
-          "width": 2710
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1547,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
-          "vote_average": 2.066,
-          "vote_count": 5,
-          "width": 2750
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 994,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/4xfWXTZNkeZ9R82aiDaZD34ruY5.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1766
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1035,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/wE38Vvr1w577h1ndljzaEnXTKQ3.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 1839
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.675,
-          "height": 1000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 675
-        },
-        {
-          "aspect_ratio": 0.666,
-          "height": 2528,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/lgJgvYYb3Em45CgDveojRrkMuQp.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1684
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/bMfhefbP33wWGWrH84e9Fu8pWx1.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 2400,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6OzT3qCT7MZtBa6iy8owL2SC9ql.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1600
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 2400,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/zjBMqImLbayOtF1TI22DU2sLD8j.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1600
-        }
-      ]
-    },
-    "última_actualización": "2026-11-02 17:14:39"
+    "última_actualización": "2026-11-02 22:12:42"
   },
   {
     "id": 1117898,
@@ -675,6 +675,10 @@
     ],
     "géneros": [
       {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
         "id": 16,
         "name": "Animación"
       },
@@ -683,16 +687,12 @@
         "name": "Comedia"
       },
       {
-        "id": 12,
-        "name": "Aventura"
+        "id": 10751,
+        "name": "Familia"
       },
       {
         "id": 14,
         "name": "Fantasía"
-      },
-      {
-        "id": 10751,
-        "name": "Familia"
       }
     ],
     "popularidad": 22.4868,
@@ -807,7 +807,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:39"
+    "última_actualización": "2026-11-02 22:12:43"
   },
   {
     "id": 1241803,
@@ -956,7 +956,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:40"
+    "última_actualización": "2026-11-02 22:12:44"
   },
   {
     "id": 1468846,
@@ -1091,7 +1091,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:41"
+    "última_actualización": "2026-11-02 22:12:44"
   },
   {
     "id": 1649403,
@@ -1212,7 +1212,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:41"
+    "última_actualización": "2026-11-02 22:12:44"
   },
   {
     "id": 1217954,
@@ -1359,7 +1359,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:41"
+    "última_actualización": "2026-11-02 22:12:44"
   },
   {
     "id": 1405002,
@@ -1453,7 +1453,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:42"
+    "última_actualización": "2026-11-02 22:12:45"
   },
   {
     "id": 1522071,
@@ -1564,7 +1564,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:42"
+    "última_actualización": "2026-11-02 22:12:46"
   },
   {
     "id": 1371661,
@@ -1689,7 +1689,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:42"
+    "última_actualización": "2026-11-02 22:12:46"
   },
   {
     "id": 1755565,
@@ -1760,7 +1760,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-11-02 17:14:43"
+    "última_actualización": "2026-11-02 22:12:46"
   },
   {
     "id": 1802770,
@@ -1788,7 +1788,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-11-02 17:14:44"
+    "última_actualización": "2026-11-02 22:12:47"
   },
   {
     "id": 1784105,
@@ -1861,7 +1861,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:41"
+    "última_actualización": "2026-11-02 22:12:45"
   },
   {
     "id": 1421562,
@@ -1966,7 +1966,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:44"
+    "última_actualización": "2026-11-02 22:12:47"
   },
   {
     "id": 1567605,
@@ -2141,7 +2141,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:39"
+    "última_actualización": "2026-11-02 22:12:43"
   },
   {
     "id": 891621,
@@ -2209,8 +2209,8 @@
       }
     ],
     "popularidad": 19.236,
-    "puntuación": 8.8,
-    "votos": 10,
+    "puntuación": 8.909,
+    "votos": 11,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2320,7 +2320,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:39"
+    "última_actualización": "2026-11-02 22:12:43"
   },
   {
     "id": 1427833,
@@ -2469,7 +2469,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:40"
+    "última_actualización": "2026-11-02 22:12:43"
   },
   {
     "id": 1437511,
@@ -2628,7 +2628,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:40"
+    "última_actualización": "2026-11-02 22:12:43"
   },
   {
     "id": 1124142,
@@ -2807,7 +2807,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:40"
+    "última_actualización": "2026-11-02 22:12:43"
   },
   {
     "id": 1379486,
@@ -2912,7 +2912,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:40"
+    "última_actualización": "2026-11-02 22:12:44"
   },
   {
     "id": 1506401,
@@ -3003,7 +3003,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:41"
+    "última_actualización": "2026-11-02 22:12:44"
   },
   {
     "id": 13534,
@@ -3132,7 +3132,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:42"
+    "última_actualización": "2026-11-02 22:12:45"
   },
   {
     "id": 1736731,
@@ -3174,7 +3174,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-11-02 17:14:43"
+    "última_actualización": "2026-11-02 22:12:46"
   },
   {
     "id": 1720175,
@@ -3240,7 +3240,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:43"
+    "última_actualización": "2026-11-02 22:12:47"
   },
   {
     "id": 1812576,
@@ -3308,7 +3308,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-11-02 17:14:44"
+    "última_actualización": "2026-11-02 22:12:48"
   },
   {
     "id": 1810457,
@@ -3416,7 +3416,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-11-02 17:14:44"
+    "última_actualización": "2026-11-02 22:12:47"
   },
   {
     "id": 1232569,
@@ -3595,7 +3595,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:38"
+    "última_actualización": "2026-11-02 22:12:42"
   },
   {
     "id": 1300968,
@@ -3774,7 +3774,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:39"
+    "última_actualización": "2026-11-02 22:12:42"
   },
   {
     "id": 1240889,
@@ -3842,8 +3842,8 @@
       }
     ],
     "popularidad": 27.4495,
-    "puntuación": 6.119,
-    "votos": 371,
+    "puntuación": 6.107,
+    "votos": 373,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3953,7 +3953,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:39"
+    "última_actualización": "2026-11-02 22:12:42"
   },
   {
     "id": 1308767,
@@ -4112,7 +4112,156 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:40"
+    "última_actualización": "2026-11-02 22:12:43"
+  },
+  {
+    "id": 1176962,
+    "tmdb_id": 1176962,
+    "título": "Rose",
+    "título_original": "Rose",
+    "sinopsis": "En medio de la agitación de la Guerra de los Treinta Años, un misterioso soldado aparece en una apartada aldea protestante afirmando ser el heredero de una mansión abandonada hace mucho tiempo. Su búsqueda de reconocimiento y aceptación se ve complicada por un secreto: ha llegado a la aldea bajo una identidad y un nombre falsos, y fingiendo pertenecer a otro género. Sin embargo, Rose —que es el verdadero nombre del soldado— no se detendrá ante nada para lograr sus objetivos.",
+    "poster_path": "/flnb7COkqD4dZNZiCacNkai22vz.jpg",
+    "poster_local": "imagenes_estrenos/Rose_flnb7COkqD4dZNZiCacNkai22vz.jpg",
+    "backdrop_path": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
+    "backdrop_local": "imagenes_estrenos/Rose_backdrop_1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
+    "fecha_estreno": "2026-11-20T00:00:00.000Z",
+    "duración": "94 min",
+    "director": "Markus Schleinzer",
+    "directores": [
+      {
+        "name": "Markus Schleinzer",
+        "id": 28605
+      }
+    ],
+    "actores": [
+      {
+        "name": "Sandra Hüller",
+        "id": 7152,
+        "character": "Rose",
+        "profile_path": "/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
+      },
+      {
+        "name": "Caro Braun",
+        "id": 5926511,
+        "character": "Suzanna",
+        "profile_path": "/gMlt1SZ6eOUinOcSTc7QhrlEuuy.jpg"
+      },
+      {
+        "name": "Marisa Growaldt",
+        "id": 1817655,
+        "character": "The Narrator (voice)",
+        "profile_path": "/lbDsn2cj6ATAL4Su10Usp0R5b4t.jpg"
+      },
+      {
+        "name": "Robert Gwisdek",
+        "id": 50244,
+        "character": "The Bailiff",
+        "profile_path": "/doCAnt1rXCLmbLlMA9wQx215LSF.jpg"
+      },
+      {
+        "name": "Godehard Giese",
+        "id": 928468,
+        "character": "The Large-Scale Farmer",
+        "profile_path": "/2vz3pSqdPUEtJ5xcNTWh7eZVdkj.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      }
+    ],
+    "popularidad": 5.7015,
+    "puntuación": 7.6,
+    "votos": 64,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1079,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/hW0geqVrlxERtc32wIwJv9AcWE6.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1918
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1079,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mUg4XJwjXqI4Bom1lzQ72dTABA9.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1918
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6jrRBqeAaI9i6fyy0s5EAlLuwIQ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ewitRaiKieUQOxDkjfie4iy3ulK.jpg",
+          "vote_average": 1.75,
+          "vote_count": 2,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vPTEousi0WL4OUk3I2xmOe3m5w6.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/aNpV4cYQCGyS3slhUl5csvmIII6.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-11-02 22:12:44"
   },
   {
     "id": 947493,
@@ -4271,156 +4420,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:40"
-  },
-  {
-    "id": 1176962,
-    "tmdb_id": 1176962,
-    "título": "Rose",
-    "título_original": "Rose",
-    "sinopsis": "En medio de la agitación de la Guerra de los Treinta Años, un misterioso soldado aparece en una apartada aldea protestante afirmando ser el heredero de una mansión abandonada hace mucho tiempo. Su búsqueda de reconocimiento y aceptación se ve complicada por un secreto: ha llegado a la aldea bajo una identidad y un nombre falsos, y fingiendo pertenecer a otro género. Sin embargo, Rose —que es el verdadero nombre del soldado— no se detendrá ante nada para lograr sus objetivos.",
-    "poster_path": "/flnb7COkqD4dZNZiCacNkai22vz.jpg",
-    "poster_local": "imagenes_estrenos/Rose_flnb7COkqD4dZNZiCacNkai22vz.jpg",
-    "backdrop_path": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
-    "backdrop_local": "imagenes_estrenos/Rose_backdrop_1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
-    "fecha_estreno": "2026-11-20T00:00:00.000Z",
-    "duración": "94 min",
-    "director": "Markus Schleinzer",
-    "directores": [
-      {
-        "name": "Markus Schleinzer",
-        "id": 28605
-      }
-    ],
-    "actores": [
-      {
-        "name": "Sandra Hüller",
-        "id": 7152,
-        "character": "Rose",
-        "profile_path": "/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
-      },
-      {
-        "name": "Caro Braun",
-        "id": 5926511,
-        "character": "Suzanna",
-        "profile_path": "/gMlt1SZ6eOUinOcSTc7QhrlEuuy.jpg"
-      },
-      {
-        "name": "Marisa Growaldt",
-        "id": 1817655,
-        "character": "The Narrator (voice)",
-        "profile_path": "/lbDsn2cj6ATAL4Su10Usp0R5b4t.jpg"
-      },
-      {
-        "name": "Robert Gwisdek",
-        "id": 50244,
-        "character": "The Bailiff",
-        "profile_path": "/doCAnt1rXCLmbLlMA9wQx215LSF.jpg"
-      },
-      {
-        "name": "Godehard Giese",
-        "id": 928468,
-        "character": "The Large-Scale Farmer",
-        "profile_path": "/2vz3pSqdPUEtJ5xcNTWh7eZVdkj.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 36,
-        "name": "Historia"
-      },
-      {
-        "id": 10752,
-        "name": "Bélica"
-      }
-    ],
-    "popularidad": 5.7015,
-    "puntuación": 7.6,
-    "votos": 64,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg",
-          "vote_average": 3.334,
-          "vote_count": 2,
-          "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1079,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/hW0geqVrlxERtc32wIwJv9AcWE6.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1918
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1079,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/mUg4XJwjXqI4Bom1lzQ72dTABA9.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1918
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1080,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/6jrRBqeAaI9i6fyy0s5EAlLuwIQ.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 1920
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ewitRaiKieUQOxDkjfie4iy3ulK.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/vPTEousi0WL4OUk3I2xmOe3m5w6.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        },
-        {
-          "aspect_ratio": 0.667,
-          "height": 3000,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/aNpV4cYQCGyS3slhUl5csvmIII6.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 2000
-        }
-      ]
-    },
-    "última_actualización": "2026-11-02 17:14:40"
+    "última_actualización": "2026-11-02 22:12:44"
   },
   {
     "id": 1437939,
@@ -4561,7 +4561,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:41"
+    "última_actualización": "2026-11-02 22:12:45"
   },
   {
     "id": 1578646,
@@ -4652,7 +4652,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:42"
+    "última_actualización": "2026-11-02 22:12:45"
   },
   {
     "id": 1736705,
@@ -4756,7 +4756,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:42"
+    "última_actualización": "2026-11-02 22:12:45"
   },
   {
     "id": 1658070,
@@ -4833,7 +4833,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:43"
+    "última_actualización": "2026-11-02 22:12:46"
   },
   {
     "id": 1732872,
@@ -4877,7 +4877,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:43"
+    "última_actualización": "2026-11-02 22:12:47"
   },
   {
     "id": 1641467,
@@ -4944,7 +4944,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:44"
+    "última_actualización": "2026-11-02 22:12:47"
   },
   {
     "id": 1802868,
@@ -5079,6 +5079,6 @@
         }
       ]
     },
-    "última_actualización": "2026-11-02 17:14:42"
+    "última_actualización": "2026-11-02 22:12:45"
   }
 ]
