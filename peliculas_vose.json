@@ -277,6 +277,35 @@
         "nota": null
     },
     {
+        "título": "Los miserables",
+        "cartel": "imagenes_peliculas/tmdb_jwrmui6rgjawkxheqblsnvit6gg.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-11-09",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103307&eventCode=114126"
+            },
+            {
+                "fecha": "2026-11-10",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103291&eventCode=114126"
+            },
+            {
+                "fecha": "2026-11-11",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103323&eventCode=114126"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Fred Cavayé",
+        "duración": "178 min",
+        "actores": "Vincent Lindon, Tahar Rahim, Camille Cottin, Benjamin Lavernhe, Noémie Merlant",
+        "sinopsis": "Tras 19 años en prisión por robar una hogaza de pan, Jean Valjean busca redención reinventándose como un respetado dignatario bajo una nueva identidad. Promete a Fantine, una trabajadora de fábrica moribunda, rescatar y proteger a su hija, Cosette, quien está siendo explotada y maltratada por la engañosa familia Thénardier. Mientras Valjean cría a Cosette como si fuera su propia hija, es perseguido sin descanso por el inspector Javert. En medio de la agitación social que sacude Francia, los destinos de Valjean, Cosette, su enamorado Marius y Javert se entrelazan en un París turbulento y revolucionario. A través de luchas, sacrificios y un profundo anhelo de justicia, Valjean se esfuerza por culminar su camino de redención y darle a Cosette un futuro de amor y libertad.",
+        "año": "2026",
+        "tmdb_id": 1241803,
+        "nota": null
+    },
+    {
         "título": "Queen Kelly",
         "cartel": "imagenes_peliculas/tmdb_ynofyumvtavn4rbe0hhut5d2qcp.jpg",
         "horarios": [
@@ -409,7 +438,7 @@
         "cine": "Golem Yamaguchi",
         "director": "Yuval Abraham, רחל שור",
         "duración": "77 min",
-        "actores": "Yuval Abraham, Benjamín Netanyahu",
+        "actores": "Yuval Abraham, Benjamín Netanyahu, Phoebe Fox, Aaron Paul",
         "sinopsis": "Rodada por la noche en los tejados de Tel Aviv, el documental revela con todo detalle los mecanismos que hay detrás del asesinato en masa y deliberado de civiles palestinos en Gaza por parte de las tropas de Israel. Naza es la palabra utilizada por el ejército israelí para denominar a las víctimas civiles como 'daños colaterales'.",
         "año": "2026",
         "tmdb_id": 1755291,
