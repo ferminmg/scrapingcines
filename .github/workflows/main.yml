@@ -96,6 +96,8 @@ jobs:
       - name: 🎭 Scraping Yelmo Cines
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          YELMO_WORKER_URL: ${{ secrets.YELMO_WORKER_URL }}
+          YELMO_PROXY_TOKEN: ${{ secrets.YELMO_PROXY_TOKEN }}
           # Opcional: si Cinépolis cambia la clave pública de su web, se
           # guarda la nueva en este secreto sin tocar el código.
           YELMO_API_KEY: ${{ secrets.YELMO_API_KEY }}

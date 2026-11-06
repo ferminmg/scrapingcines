@@ -225,15 +225,25 @@ def cuerpo_error(respuesta):
 def consulta_graphql(operacion, query, variables):
     """Lanza una consulta a la API de Cinépolis y devuelve 'data'.
 
-    Va tras Cloudflare y la IP del runner de GitHub puntúa peor que la de
-    una casa. Por eso: sesión con huella de Chrome, primera visita a la
-    portada para recoger la cookie __cf_bm, reintento tras nuevo GET si
-    aun así contesta 403 y, si persiste, error con el diagnóstico de la
-    respuesta para saber si es reto decoroso o bloqueo definitivo.
+    La API va detrás de Cloudflare y su protección bloquea con 403 a las
+    IP de datacenter (GitHub Actions), pese a la huella TLS de Chrome.
+    Dos caminos:
+    - Con YELMO_WORKER_URL definido: la llamada sale a través del Worker
+      de Cloudflare (cloudflare/yelmo-proxy-worker.js), que consulta la
+      API desde la propia red de Cloudflare. Ahí ni cookies ni
+      reintentos aportan nada: una petición directa.
+    - Sin proxy ( ejecución local ): sesión con huella de Chrome y una
+      primera visita a la portada para recoger la cookie __cf_bm,
+      reintentando tras el nuevo GET si contesta 403.
+    Si la respuesta se rechaza, la excepción trae el diagnóstico (incluye
+    cf-mitigated) para distinguir un reto resolvible de un bloqueo duro.
     Cualquier fallo (red, HTTP, JSON o errores GraphQL) se propaga como
     excepción: el script tiene que acabar en error para que el workflow lo
     marque en rojo en vez de dejar publicados los datos viejos.
     """
+    destino = os.getenv("YELMO_WORKER_URL") or API_URL
+    via_proxy = destino != API_URL
+    token_proxy = os.getenv("YELMO_PROXY_TOKEN")
     cabeceras = {
         "accept": "*/*",
         "content-type": "application/json",
@@ -242,24 +252,33 @@ def consulta_graphql(operacion, query, variables):
         "x-apikey": os.getenv("YELMO_API_KEY") or API_KEY_POR_DEFECTO,
         "origin": "https://cineyelmo.com",
         "referer": "https://cineyelmo.com/",
-    }  # el user-agent lo pone completo la impersonación de Chrome: así casa con la huella TLS
+    }
+    if token_proxy:
+        # El token no es de la API: es para que solo el scraper use nuestro
+        # Worker (el Worker también lo comprueba contra su variable).
+        cabeceras["x-proxy-token"] = token_proxy
     sesion = curl_requests.Session(impersonate="chrome")
-    try:
-        portada = sesion.get("https://cineyelmo.com/es", timeout=30)
-        print(f"  Portada cineyelmo.com: {portada.status_code}")
-    except Exception as e:
-        print(f"  Aviso: no se pudo precargar la portada de cineyelmo.com: {e}")
+
+    if not via_proxy:
+        # el user-agent lo pone completo la impersonación de Chrome: así casa con la huella TLS
+        try:
+            portada = sesion.get("https://cineyelmo.com/es", timeout=30)
+            print(f"  Portada cineyelmo.com: {portada.status_code}")
+        except Exception as e:
+            print(f"  Aviso: no se pudo precargar la portada de cineyelmo.com: {e}")
 
     respuesta = None
     for intento in (1, 2):
         if intento > 1:
+            if via_proxy:
+                break  # el proxy no mejora con reintentos de cookie
             time.sleep(3)
             try:
                 sesion.get("https://cineyelmo.com/es", timeout=30)
             except Exception as e:
                 print(f"  Aviso: no se pudo renovar la portada: {e}")
         respuesta = sesion.post(
-            API_URL,
+            destino,
             headers=cabeceras,
             json={"operationName": operacion, "variables": variables, "query": query},
             timeout=30,
