@@ -1,5 +1,6 @@
 from dotenv import load_dotenv
 import requests
+import time
 # `requests` dice «Python» en la huella TLS de la conexión (JA3/JA4) y
 # Cloudflare bloquea peticiones a la API de Cinépolis antes de recibir
 # cabeceras. curl-cffi lanza curl compilado con huella de Chrome, que
@@ -209,9 +210,26 @@ query Movies($countryId: String!, $category: String, $cinemas: String, $limit: I
 """
 
 
+def cuerpo_error(respuesta):
+    """Resumen diagnóstico de una respuesta rechazada (sin secretos).
+
+    'cf-mitigated' distingue el tipo de defensa de Cloudflare: 'challenge'
+    (reto de JavaScript) vs bloqueo duro; el cuerpo confirma la página.
+    """
+    claves = ('server', 'cf-ray', 'cf-mitigated', 'content-type', 'retry-after')
+    cabeceras = {k: respuesta.headers.get(k) for k in claves if respuesta.headers.get(k)}
+    cuerpo = re.sub(r'\s+', ' ', (respuesta.text or ''))[:400]
+    return f"status={respuesta.status_code} cabeceras={cabeceras} cuerpo={cuerpo!r}"
+
+
 def consulta_graphql(operacion, query, variables):
     """Lanza una consulta a la API de Cinépolis y devuelve 'data'.
 
+    Va tras Cloudflare y la IP del runner de GitHub puntúa peor que la de
+    una casa. Por eso: sesión con huella de Chrome, primera visita a la
+    portada para recoger la cookie __cf_bm, reintento tras nuevo GET si
+    aun así contesta 403 y, si persiste, error con el diagnóstico de la
+    respuesta para saber si es reto decoroso o bloqueo definitivo.
     Cualquier fallo (red, HTTP, JSON o errores GraphQL) se propaga como
     excepción: el script tiene que acabar en error para que el workflow lo
     marque en rojo en vez de dejar publicados los datos viejos.
@@ -224,17 +242,34 @@ def consulta_graphql(operacion, query, variables):
         "x-apikey": os.getenv("YELMO_API_KEY") or API_KEY_POR_DEFECTO,
         "origin": "https://cineyelmo.com",
         "referer": "https://cineyelmo.com/",
-        "user-agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                       "(KHTML, like Gecko) Chrome/130.0 Safari/537.36"),
-    }
-    respuesta = curl_requests.post(
-        API_URL,
-        headers=cabeceras,
-        json={"operationName": operacion, "variables": variables, "query": query},
-        timeout=30,
-        impersonate="chrome",
-    )
-    respuesta.raise_for_status()
+    }  # el user-agent lo pone completo la impersonación de Chrome: así casa con la huella TLS
+    sesion = curl_requests.Session(impersonate="chrome")
+    try:
+        portada = sesion.get("https://cineyelmo.com/es", timeout=30)
+        print(f"  Portada cineyelmo.com: {portada.status_code}")
+    except Exception as e:
+        print(f"  Aviso: no se pudo precargar la portada de cineyelmo.com: {e}")
+
+    respuesta = None
+    for intento in (1, 2):
+        if intento > 1:
+            time.sleep(3)
+            try:
+                sesion.get("https://cineyelmo.com/es", timeout=30)
+            except Exception as e:
+                print(f"  Aviso: no se pudo renovar la portada: {e}")
+        respuesta = sesion.post(
+            API_URL,
+            headers=cabeceras,
+            json={"operationName": operacion, "variables": variables, "query": query},
+            timeout=30,
+        )
+        if respuesta.status_code != 403:
+            break
+        print(f"  Intento {intento}: la API devolvió 403: {cuerpo_error(respuesta)}")
+    if respuesta.status_code >= 400:
+        raise RuntimeError(f"La API de Cinépolis rechazó la petición ({operacion}): "
+                           f"{cuerpo_error(respuesta)}")
     cuerpo = respuesta.json()
     if cuerpo.get("errors"):
         raise RuntimeError(f"Errores GraphQL en {operacion}: {cuerpo['errors']}")
