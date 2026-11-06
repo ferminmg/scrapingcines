@@ -210,6 +210,105 @@ def limpiar_titulo_h1(titulo: str) -> str:
     """Título del <h1> sin '(título original, país, año)' ni notas."""
     return separar_titulo_h1(titulo)[0]
 
+# Pueblos donde la Filmoteca proyecta fuera de Pamplona (se añaden solos: un
+# sufijo en MAYÚSCULAS tras ' - ' también se reconoce aunque no esté aquí)
+LOCALIDADES = ('TAFALLA', 'ALSASUA', 'ALTSASU', 'LEIZA', 'LEITZA', 'ESTELLA', 'LIZARRA',
+               'BURGUETE', 'AURITZ', 'TUDELA', 'SANGUESA', 'SANGÜESA', 'OLITE',
+               'ELIZONDO', 'LODOSA', 'VIANA', 'BERA', 'LESAKA', 'CORELLA')
+_MAYUS = "A-ZÁÉÍÓÚÑÜÇ"
+_SUFIJO_GUION = re.compile(rf"\s+[-–—]\s*\(?\s*([{_MAYUS}][{_MAYUS} .'-]{{2,}}?)\s*\)?\s*\.?$")
+_SUFIJO_PARENTESIS = re.compile(rf"\s*\(\s*([{_MAYUS}][{_MAYUS} .'-]{{2,}}?)\s*\)\s*\.?$")
+_SUFIJO_SUELTO = re.compile(rf"(?<=[)])\s*([{_MAYUS}][{_MAYUS} .'-]{{2,}}?)\s*\.?$")
+_PREFIJO_CICLO = re.compile(rf"^([{_MAYUS}][{_MAYUS} ]{{2,}}?)\.\s+(?=\S)")
+_ANIO = re.compile(r"\b(?:18|19|20)\d{2}\b")
+
+
+def _es_localidad(texto: str, por_guion: bool) -> bool:
+    """¿Es 'TAFALLA' / 'CIVIVOX CONDESTABLE' un lugar y no parte del título?"""
+    limpio = _sin_acentos(texto).upper().strip(' .')
+    if any(_sin_acentos(l).upper() == limpio for l in LOCALIDADES):
+        return True
+    if any(clave in limpio.lower() for clave, _ in SEDES) or limpio.startswith('CIVIVOX'):
+        return True
+    # Tras ' - ' cualquier palabra en mayúsculas es una sede (no 'EEUU', que
+    # siempre va con el año dentro del paréntesis)
+    return por_guion and len(limpio) >= 4
+
+
+def _dividir_fuera_de_parentesis(texto: str, separador: str = ' / ') -> list:
+    partes, nivel, actual, i = [], 0, '', 0
+    while i < len(texto):
+        if texto[i] == '(':
+            nivel += 1
+        elif texto[i] == ')':
+            nivel = max(0, nivel - 1)
+        if nivel == 0 and texto.startswith(separador, i):
+            partes.append(actual)
+            actual = ''
+            i += len(separador)
+            continue
+        actual += texto[i]
+        i += 1
+    partes.append(actual)
+    return [p.strip() for p in partes if p.strip()]
+
+
+def analizar_h1(texto_h1: str) -> dict:
+    """Separa el <h1> de una sesión de la Filmoteca en sus partes. La
+    Filmoteca le añade al título cosas que no son el título:
+
+      'SAN FRANCISCO. Vértigo (Vertigo, EEUU, 1958)'  -> ciclo 'San Francisco'
+      'Todos lo sabían (España, 2025) - TAFALLA'       -> localidad 'Tafalla'
+      'Sustraiak (Raíces perdidas) TAFALLA'            -> localidad, original
+      'Cowboy de medianoche (Midnight Cowboy, Estados Unidos, 1969) Sesión
+       con concierto.'                                 -> nota
+      'Sutura simple (2025) / Wuhan Zona Cero (2021)'  -> programa de 2 películas
+
+    Devuelve un dict con: titulo, titulo_original, anio, nota, ciclo,
+    localidad y programa (lista de títulos si la sesión junta varias
+    películas; vacía si es una sola).
+    """
+    texto = ' '.join((texto_h1 or '').split()).strip()
+    resultado = {'titulo': texto, 'titulo_original': None, 'anio': None,
+                 'nota': '', 'ciclo': None, 'localidad': None, 'programa': []}
+    if not texto:
+        return resultado
+
+    # 1. Pueblo o sede al final: ' - TAFALLA', '(ALSASUA)', ') TAFALLA'
+    for patron, por_guion in ((_SUFIJO_GUION, True), (_SUFIJO_PARENTESIS, False), (_SUFIJO_SUELTO, False)):
+        coincidencia = patron.search(texto)
+        if coincidencia and _es_localidad(coincidencia.group(1), por_guion):
+            resultado['localidad'] = coincidencia.group(1).strip(' .').title()
+            texto = texto[:coincidencia.start()].rstrip(' -–—')
+            break
+
+    # 2. Ciclo en mayúsculas delante: 'BERLÍN. Uno, dos, tres'
+    coincidencia = _PREFIJO_CICLO.match(texto)
+    if coincidencia and texto[coincidencia.end():] != texto[coincidencia.end():].upper():
+        resultado['ciclo'] = coincidencia.group(1).strip().title()
+        texto = texto[coincidencia.end():]
+
+    # 3. Varias películas en la misma sesión: 'A (2025) / B (2021)'
+    partes = _dividir_fuera_de_parentesis(texto)
+    con_anio = [p for p in partes if re.search(r'\([^)]*' + _ANIO.pattern + r'[^)]*\)', p)]
+    if len(partes) >= 2 and (len(con_anio) >= 2 or not con_anio):
+        titulos = [separar_titulo_h1(p)[0] for p in partes]
+        resultado.update(titulo=' / '.join(titulos), programa=titulos)
+        return resultado
+
+    # 4. Una película: '(título original, país, año)' y lo que venga detrás
+    titulo, nota = separar_titulo_h1(texto)
+    original, anio = datos_h1(texto)
+    if not original:
+        # '(título original)' sin país ni año: 'El acontecimiento (L'événement)'
+        sin_anio = re.search(r'\(([^()]*)\)\s*$', texto)
+        if sin_anio and not _ANIO.search(sin_anio.group(1)):
+            original = sin_anio.group(1).strip() or None
+    resultado.update(titulo=titulo.strip(' .'), titulo_original=original, anio=anio,
+                     nota=nota)
+    return resultado
+
+
 def ficha_filmoteca(soup) -> dict:
     """Datos de la propia ficha de la Filmoteca, para completar lo que TMDb
     no tenga: 'div.txt22' trae campos etiquetados ('Dirección y guion: ...',
@@ -272,9 +371,13 @@ SEDES = (
 def _sin_acentos(texto: str) -> str:
     return unicodedata.normalize('NFKD', texto or '').encode('ascii', 'ignore').decode().lower()
 
-def detectar_sede(texto_h2: str, titulo_pagina: str = '') -> str:
-    """Devuelve el cine/sede de la sesión (por defecto, la Filmoteca)."""
-    candidatos = []
+def detectar_sede(texto_h2: str, titulo_pagina: str = '', localidad: str = None) -> str:
+    """Devuelve el cine/sede de la sesión (por defecto, la Filmoteca).
+
+    Una sesión en un pueblo ('- TAFALLA' en el título o en el h2) es
+    'Filmoteca en Tafalla': antes salía como si fuera en la Filmoteca de
+    Pamplona y alguien podía ir al sitio equivocado."""
+    candidatos = [localidad] if localidad else []
     # Lo que va tras el último ' - ' del h2 ('19:00 - CONDESTABLE')
     if texto_h2 and ' - ' in texto_h2:
         candidatos.append(texto_h2.rsplit(' - ', 1)[1])
@@ -288,6 +391,11 @@ def detectar_sede(texto_h2: str, titulo_pagina: str = '') -> str:
         for clave, sede in SEDES:
             if clave in texto:
                 return sede
+    for candidato in candidatos:
+        limpio = candidato.strip(' .')
+        if any(_sin_acentos(l) == _sin_acentos(limpio) for l in LOCALIDADES) or (
+                candidato is localidad and limpio):
+            return f"Filmoteca en {limpio.title()}"
     return CINE_POR_DEFECTO
 
 TIMEOUT = 30
@@ -386,8 +494,13 @@ def scrapear_filmoteca():
                     soup = BeautifulSoup(response.text, 'html.parser')
 
                     texto_h1 = soup.find('h1').text.strip()
-                    title, nota = separar_titulo_h1(texto_h1)
-                    titulo_original, anio_h1 = datos_h1(texto_h1)
+                    h1 = analizar_h1(texto_h1)
+                    title, nota = h1['titulo'], h1['nota']
+                    titulo_original, anio_h1 = h1['titulo_original'], h1['anio']
+                    # El ciclo ('BERLÍN. ...') queda como nota de la sesión, y
+                    # una sesión con varias películas se avisa como tal
+                    programa = f"Sesión de {len(h1['programa'])} películas" if h1['programa'] else ''
+                    nota = ' · '.join(n for n in (h1['ciclo'], programa, nota) if n)
                     divtxt22 = soup.find('div', class_='txt txt22')
                     idioma = ""
                     texto_completo = ""
@@ -419,7 +532,7 @@ def scrapear_filmoteca():
                             fecha_hora = soup.find('h2')
                             texto_fecha = fecha_hora.get_text(separator=" ").strip() if fecha_hora else ""
                             titulo_pagina = soup.title.get_text().strip() if soup.title else ""
-                            cine = detectar_sede(texto_fecha, titulo_pagina)
+                            cine = detectar_sede(texto_fecha, titulo_pagina, h1['localidad'])
                             logger.info(f"Sede: {cine}")
 
                             pelicula = {
@@ -483,7 +596,9 @@ def scrapear_filmoteca():
                             
                             equivalencia = resolver_equivalencia_tmdb(title)
                             tmdb_info = {}
-                            if equivalencia.get("tmdb_id"):
+                            # Varias películas en una sesión: ninguna ficha de TMDb es
+                            # la de la sesión entera, se usan los datos de la Filmoteca
+                            if equivalencia.get("tmdb_id") and not h1['programa']:
                                 logger.info(f"Usando equivalencia TMDB para '{title}': ID {equivalencia['tmdb_id']}")
                                 tmdb_info = tmdb_api.get_movie_info_by_id(equivalencia["tmdb_id"])
                                 # Una equivalencia de otra época es un emparejamiento
@@ -495,7 +610,7 @@ def scrapear_filmoteca():
                                 elif tmdb_info.get("runtime") and tmdb_info["runtime"] < 40:
                                     logger.warning(f"Equivalencia de '{title}' descartada: es un corto de {tmdb_info['runtime']} min")
                                     tmdb_info = {}
-                            if not tmdb_info:
+                            if not tmdb_info and not h1['programa']:
                                 tmdb_info = tmdb_api.get_movie_info(title, anio_h1, titulo_original)
                                 if tmdb_info and equivalencia.get("tmdb_id") and equivalencia["tmdb_id"] != tmdb_info["tmdb_id"]:
                                     # Corregir la equivalencia guardada
