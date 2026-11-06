@@ -1,10 +1,16 @@
 from dotenv import load_dotenv
 import requests
+# `requests` dice «Python» en la huella TLS de la conexión (JA3/JA4) y
+# Cloudflare bloquea peticiones a la API de Cinépolis antes de recibir
+# cabeceras. curl-cffi lanza curl compilado con huella de Chrome, que
+# es lo que hace el navegador y lo único que ha pasado en las pruebas.
+from curl_cffi import requests as curl_requests
 from bs4 import BeautifulSoup
 import json
 import os
 from datetime import datetime
 import urllib.request
+import urllib.parse
 import re
 from difflib import SequenceMatcher
 import logging
@@ -116,7 +122,13 @@ def descargar_cartel(url, destino):
     if os.path.exists(destino):
         return True
     try:
-        peticion = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        # Las URLs de los carteles llevan caracteres no ASCII (p. ej.
+        # .../assets/España/...) y urllib no los percent-encodea: falla con
+        # 'ascii' codec can't encode. Se codifican solo los caracteres
+        # fuera del safe, sin tocar los separadores ni lo ya codificado.
+        peticion = urllib.request.Request(
+            urllib.parse.quote(url, safe=':/?&=%#[]@!$\'()*+,;-._~'),
+            headers={"User-Agent": "Mozilla/5.0"})
         with urllib.request.urlopen(peticion, timeout=20) as respuesta, open(destino, 'wb') as f:
             f.write(respuesta.read())
         return True
@@ -215,11 +227,12 @@ def consulta_graphql(operacion, query, variables):
         "user-agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                        "(KHTML, like Gecko) Chrome/130.0 Safari/537.36"),
     }
-    respuesta = requests.post(
+    respuesta = curl_requests.post(
         API_URL,
         headers=cabeceras,
         json={"operationName": operacion, "variables": variables, "query": query},
         timeout=30,
+        impersonate="chrome",
     )
     respuesta.raise_for_status()
     cuerpo = respuesta.json()
