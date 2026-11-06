@@ -126,155 +126,254 @@ def descargar_cartel(url, destino):
             os.remove(destino)
         return False
 
-# Crear directorio para las imágenes si no existe
+# ---------------------------------------------------------------------------
+# Yelmo pasó a finales de octubre de 2026 a la plataforma de Cinépolis
+# (cineyelmo.com). El antiguo endpoint
+#   https://www.yelmocines.es/now-playing.aspx/GetNowPlaying
+# ahora redirige a la portada de cineyelmo.com, que devuelve 403 a los
+# runners de GitHub. La web nueva saca la cartelera de la API GraphQL de
+# Cinépolis; esa misma API es la que se consulta aquí.
+#
+# La clave x-apikey es la que la propia web envía desde el navegador (es
+# pública). Si un día la cambian, basta con copiar la nueva desde las
+# peticiones a api-g.cinepolis.com en las herramientas de desarrollo y
+# guardarla en el secreto YELMO_API_KEY.
+# ---------------------------------------------------------------------------
+
 IMAGES_DIR = "imagenes_filmaffinity"
-if not os.path.exists(IMAGES_DIR):
-    os.makedirs(IMAGES_DIR)
+SALIDA = 'peliculas_filmaffinity.json'
 
-print("Scraping yelmocines.es...")
+API_URL = "https://api-g.cinepolis.com/v2/billboards/graphql"
+API_KEY_POR_DEFECTO = "lQM6Mkvri1iHksKKCfpAiwGXq0YUZA7Nn6XAXRPr4i13LwXo"
 
-headers = {
-    "accept": "application/json, text/javascript, */*; q=0.01",
-    "accept-language": "es-ES,es;q=0.9,de;q=0.8",
-    "content-type": "application/json; charset=UTF-8",
-    "x-requested-with": "XMLHttpRequest"
+# Cines de Yelmo en Navarra: id en la API -> nombre que ve la app
+CINES = {
+    "itaroa-navarra": "Yelmo Itaroa",
 }
 
-data = {"cityKey": "navarra"}
+ENLACE_ENTRADAS = ("https://cineyelmo.com/es/asientos?country=es&cinema={cine}"
+                   "&selected={cine}&movie={pelicula}&session={sesion}")
 
-try:
-    # Realizamos la petición POST
-    response = requests.post(
-        "https://www.yelmocines.es/now-playing.aspx/GetNowPlaying",
-        headers=headers,
-        json=data,
-        timeout=10  # Establecemos un timeout razonable
-    )
-    # Eleva una excepción si el código de estado no es 2xx
-    response.raise_for_status()
-
-    # Intentamos parsear la respuesta a JSON
-    datos = response.json()
-
-except requests.exceptions.RequestException as e:
-    # Captura errores de conexión, timeouts o códigos de estado 4xx/5xx
-    print(f"No se ha podido conectar con la web de Yelmo (o error HTTP). Mensaje:\n{e}")
-    print("Saliendo sin lanzar excepción...")
-    sys.exit(0)
-
-except ValueError as e:
-    # Captura errores al decodificar el JSON (JSON malformado)
-    print(f"Error decodificando JSON:\n{e}")
-    print("Saliendo sin lanzar excepción...")
-    sys.exit(0)
-
-# Llegados aquí, la respuesta es JSON y tenemos un status_code 2xx
-print("Contenido recibido (JSON):")
-print(json.dumps(datos, indent=4, ensure_ascii=False))
-
-# Comprobamos si está la clave "d"
-if "d" not in datos:
-    print("La respuesta no contiene la clave 'd'.")
-    print("Saliendo sin lanzar excepción...")
-    sys.exit(0)
-peliculas_filmaffinity = []
-
-MESES = {
-    'enero': '01', 'febrero': '02', 'marzo': '03', 'abril': '04',
-    'mayo': '05', 'junio': '06', 'julio': '07', 'agosto': '08',
-    'septiembre': '09', 'octubre': '10', 'noviembre': '11', 'diciembre': '12'
+QUERY_BILLBOARD = """
+query Billboard($countryId: String!, $cinemaId: String!, $timezone: String!, $isAbsoluteExperiencePath: Boolean) {
+  billboardByCinema(countryId: $countryId, cinemaId: $cinemaId, timezone: $timezone, isAbsoluteExperiencePath: $isAbsoluteExperiencePath) {
+    dates
+    schedules {
+      cinemaId
+      movieId
+      dates {
+        date
+        languages {
+          language
+          displayLanguage
+          showtimes {
+            format { name }
+            sessionId
+            datetime
+            screen
+            cinemaVistaId
+          }
+        }
+      }
+    }
+  }
 }
+"""
 
-def fecha_desde_filter_date(filter_date):
-    """Convierte FilterDate ('/Date(1790398800000)/') en 'YYYY-MM-DD' (UTC).
+QUERY_MOVIES = """
+query Movies($countryId: String!, $category: String, $cinemas: String, $limit: Int, $isAbsoluteMediaPath: Boolean) {
+  movies(countryId: $countryId, category: $category, cinemas: $cinemas, limit: $limit, isAbsoluteMediaPath: $isAbsoluteMediaPath) {
+    edges {
+      node {
+        id
+        name
+        originalName
+        languages
+        media { type code sizes { large medium } }
+      }
+    }
+  }
+}
+"""
 
-    Devuelve None si falta o está mal formado, para usar la fecha de ShowtimeDate.
+
+def consulta_graphql(operacion, query, variables):
+    """Lanza una consulta a la API de Cinépolis y devuelve 'data'.
+
+    Cualquier fallo (red, HTTP, JSON o errores GraphQL) se propaga como
+    excepción: el script tiene que acabar en error para que el workflow lo
+    marque en rojo en vez de dejar publicados los datos viejos.
     """
-    if not filter_date:
-        return None
-    texto = str(filter_date)
-    inicio, fin = texto.find('('), texto.find(')')
-    if inicio == -1 or fin == -1 or fin <= inicio:
-        return None
-    # Se eliminan los caracteres no numéricos; el valor válido es el número que
-    # empieza el trozo de dentro (p. ej. '/Date(1790398800000-0100)/' lleva el
-    # desfase horario detrás y hay que ignorarlo)
-    limpio = re.sub(r'[^0-9-]', '', texto[inicio + 1:fin])
-    coincidencia = re.match(r'-?\d+', limpio)
-    if not coincidencia:
-        return None
+    cabeceras = {
+        "accept": "*/*",
+        "content-type": "application/json",
+        "country-id": "ES",
+        "language": "es",
+        "x-apikey": os.getenv("YELMO_API_KEY") or API_KEY_POR_DEFECTO,
+        "origin": "https://cineyelmo.com",
+        "referer": "https://cineyelmo.com/",
+        "user-agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                       "(KHTML, like Gecko) Chrome/130.0 Safari/537.36"),
+    }
+    respuesta = requests.post(
+        API_URL,
+        headers=cabeceras,
+        json={"operationName": operacion, "variables": variables, "query": query},
+        timeout=30,
+    )
+    respuesta.raise_for_status()
+    cuerpo = respuesta.json()
+    if cuerpo.get("errors"):
+        raise RuntimeError(f"Errores GraphQL en {operacion}: {cuerpo['errors']}")
+    if not cuerpo.get("data"):
+        raise RuntimeError(f"Respuesta de {operacion} sin 'data'")
+    return cuerpo["data"]
+
+
+def es_vose(idioma, titulo):
+    """True si la sesión es en versión original subtitulada.
+
+    La API marca el doblaje como 'ESP' / 'ESPAÑOL' y la VOSE como
+    'SUB ESP' (o variantes con SUB / VOSE / VO). Algunas películas en VOSE
+    vienen además como ficha aparte con '(VOSE)' en el título.
+    """
+    texto = (idioma or '').upper()
+    if re.search(r'\bSUB\b|VOSE|\bV\.?O\b|ORIGINAL', texto):
+        return True
+    return bool(re.search(r'\(\s*VOSE?\s*\)', titulo or '', re.IGNORECASE))
+
+
+def limpiar_titulo(titulo):
+    """Quita la coletilla '(VOSE)' y arregla los títulos en mayúsculas."""
+    titulo = re.sub(r'\s*\(\s*VOSE?\s*\)\s*$', '', titulo or '', flags=re.IGNORECASE).strip()
+    if titulo.isupper():
+        titulo = titulo.title()
+    return titulo
+
+
+def poster_de(nodo):
+    for media in nodo.get('media') or []:
+        if media.get('code') == 'poster' and media.get('sizes'):
+            return media['sizes'].get('large') or media['sizes'].get('medium') or ''
+    return ''
+
+
+def peliculas_del_cine(cine_id):
+    """Diccionario movieId -> ficha (título, cartel) del cine dado."""
+    fichas = {}
+    for categoria in ("now-playing", "coming-soon"):
+        datos = consulta_graphql("Movies", QUERY_MOVIES, {
+            "countryId": "ES", "category": categoria, "cinemas": cine_id,
+            "limit": 100, "isAbsoluteMediaPath": True,
+        })
+        for arista in (datos.get('movies') or {}).get('edges') or []:
+            nodo = arista.get('node') or {}
+            if nodo.get('id') and nodo['id'] not in fichas:
+                fichas[nodo['id']] = nodo
+    return fichas
+
+
+def generar_peliculas(tmdb_api):
+    peliculas = []  # en el mismo formato que antes: lo lee la app tal cual
+
+    for cine_id, nombre_cine in CINES.items():
+        print(f"Consultando la cartelera de {nombre_cine} ({cine_id})...")
+        fichas = peliculas_del_cine(cine_id)
+        cartelera = consulta_graphql("Billboard", QUERY_BILLBOARD, {
+            "countryId": "ES", "cinemaId": cine_id,
+            "timezone": "Europe/Madrid", "isAbsoluteExperiencePath": True,
+        })['billboardByCinema']
+
+        schedules = cartelera.get('schedules') or []
+        print(f"  {len(schedules)} películas con sesiones, {len(fichas)} fichas")
+
+        for programa in schedules:
+            movie_id = programa['movieId']
+            ficha = fichas.get(movie_id, {})
+            titulo_api = ficha.get('name') or movie_id.replace('-', ' ').capitalize()
+
+            horarios = []
+            for dia in programa.get('dates') or []:
+                for idioma in dia.get('languages') or []:
+                    if not es_vose(idioma.get('language'), titulo_api):
+                        continue
+                    for sesion in idioma.get('showtimes') or []:
+                        # 'datetime' viene en hora local de Madrid: 2026-11-06T17:05:00
+                        fecha, _, hora = (sesion.get('datetime') or '').partition('T')
+                        horarios.append({
+                            'fecha': fecha or dia['date'],
+                            'hora': hora[:5],
+                            'enlace_entradas': ENLACE_ENTRADAS.format(
+                                cine=cine_id, pelicula=movie_id, sesion=sesion['sessionId']),
+                        })
+
+            if not horarios:
+                continue
+
+            titulo = limpiar_titulo(titulo_api)
+            horarios.sort(key=lambda h: (h['fecha'], h['hora']))
+
+            existente = next((p for p in peliculas
+                              if p['título'] == titulo and p['cine'] == nombre_cine), None)
+            if existente:
+                existente['horarios'].extend(horarios)
+                existente['horarios'].sort(key=lambda h: (h['fecha'], h['hora']))
+                continue
+
+            poster_filename = ''
+            poster_url = poster_de(ficha)
+            if poster_url:
+                destino = os.path.join(IMAGES_DIR, f"{re.sub(r'[^A-Za-z0-9_-]', '', movie_id)}.jpg")
+                if descargar_cartel(poster_url, destino):
+                    poster_filename = destino
+
+            tmdb_info = tmdb_api.get_movie_info(titulo)
+            if not tmdb_info and ficha.get('originalName') and limpiar_titulo(ficha['originalName']) != titulo:
+                tmdb_info = tmdb_api.get_movie_info(limpiar_titulo(ficha['originalName']))
+            if tmdb_info.get('poster_path'):
+                tmdb_poster_url = f"https://image.tmdb.org/t/p/w500{tmdb_info['poster_path']}"
+                tmdb_poster_filename = os.path.join(IMAGES_DIR, nombre_cartel_tmdb(tmdb_info['poster_path']))
+                if descargar_cartel(tmdb_poster_url, tmdb_poster_filename):
+                    poster_filename = tmdb_poster_filename
+
+            peliculas.append({
+                'título': titulo,
+                'cartel': poster_filename,
+                'horarios': horarios,
+                'cine': nombre_cine,
+                'director': tmdb_info.get('director'),
+                'duración': tmdb_info.get('duración'),
+                'actores': tmdb_info.get('actores'),
+                'sinopsis': tmdb_info.get('sinopsis'),
+                'año': tmdb_info.get('año'),
+                'tmdb_id': tmdb_info.get('tmdb_id'),
+            })
+
+    return peliculas
+
+
+def main():
+    os.makedirs(IMAGES_DIR, exist_ok=True)
+    load_dotenv()
+    tmdb_api = TMDbAPI(os.getenv("TMDB_API_KEY"))
+
+    print("Scraping cineyelmo.com (API de Cinépolis)...")
     try:
-        return datetime.utcfromtimestamp(int(coincidencia.group(0)) / 1000).strftime('%Y-%m-%d')
-    except (OverflowError, OSError, ValueError) as e:
-        print(f"FilterDate inválido ({filter_date}): {e}")
-        return None
+        peliculas = generar_peliculas(tmdb_api)
+    except Exception as e:
+        # Antes aquí se salía con código 0 y el fallo pasaba desapercibido:
+        # la app seguía mostrando horarios viejos sin que nada avisara.
+        # No se toca el JSON publicado, pero la ejecución queda en rojo.
+        print(f"ERROR: no se ha podido leer la cartelera de Yelmo: {e}")
+        sys.exit(1)
 
-# Inicializar TMDbAPI
-load_dotenv()
-TMDB_API_KEY = os.getenv("TMDB_API_KEY")
-tmdb_api = TMDbAPI(TMDB_API_KEY)
+    with open(SALIDA, 'w', encoding='utf-8') as f:
+        json.dump(peliculas, f, ensure_ascii=False, indent=4)
 
-for cine in datos['d']['Cinemas']:
-    for fecha in cine['Dates']:
-        fecha_str = fecha['ShowtimeDate']
-        dia, mes = fecha_str.split()
-        mes_numero = MESES[mes.lower()]
-        anoActual = datetime.now().year
-        fecha_iso = f"{anoActual}-{mes_numero}-{dia.zfill(2)}"
+    total = sum(len(p['horarios']) for p in peliculas)
+    print(f"Archivo JSON {SALIDA} creado con éxito: {len(peliculas)} películas VOSE, {total} sesiones.")
+    print("Fin del scraping.")
 
-        # El año real viene en FilterDate (epoch en milisegundos, convertido en UTC)
-        fecha_iso_filtrada = fecha_desde_filter_date(fecha.get('FilterDate'))
-        if fecha_iso_filtrada:
-            fecha_iso = fecha_iso_filtrada
 
-        for pelicula in fecha['Movies']:
-            for formato in pelicula['Formats']:
-                if 'VOSE' in formato['Language']:
-                    poster_url = pelicula['Poster']
-                    poster_filename = os.path.join(IMAGES_DIR, f"{pelicula['Key']}.jpg")
-
-                    if not descargar_cartel(poster_url, poster_filename):
-                        poster_filename = ''
-
-                    tmdb_info = tmdb_api.get_movie_info(pelicula['Title'])
-                    if tmdb_info.get('poster_path'):
-                        tmdb_poster_url = f"https://image.tmdb.org/t/p/w500{tmdb_info['poster_path']}"
-                        tmdb_poster_filename = os.path.join(IMAGES_DIR, nombre_cartel_tmdb(tmdb_info['poster_path']))
-                        if descargar_cartel(tmdb_poster_url, tmdb_poster_filename):
-                            poster_filename = tmdb_poster_filename
-
-                    pelicula_existente = next(
-                        (p for p in peliculas_filmaffinity if p['título'] == pelicula['Title']),
-                        None
-                    )
-
-                    horarios = [
-                        {
-                            'fecha': fecha_iso,
-                            'hora': s['Time'],
-                            'enlace_entradas': f"https://compra.yelmocines.es/?cinemaVistaId={s['VistaCinemaId']}&showtimeVistaId={s['ShowtimeId']}"
-                        } for s in formato['Showtimes']
-                    ]
-
-                    if pelicula_existente:
-                        pelicula_existente['horarios'].extend(horarios)
-                    else:
-                        info = {
-                            'título': pelicula['Title'],
-                            'cartel': poster_filename,
-                            'horarios': horarios,
-                            'cine': f"Yelmo {cine['Name']}",
-                            'director': tmdb_info.get('director'),
-                            'duración': tmdb_info.get('duración'),
-                            'actores': tmdb_info.get('actores'),
-                            'sinopsis': tmdb_info.get('sinopsis'),
-                            'año': tmdb_info.get('año'),
-                            'tmdb_id': tmdb_info.get('tmdb_id')
-                        }
-                        peliculas_filmaffinity.append(info)
-
-with open('peliculas_filmaffinity.json', 'w', encoding='utf-8') as f:
-    json.dump(peliculas_filmaffinity, f, ensure_ascii=False, indent=4)
-
-print("Archivo JSON peliculas_filmaffinity.json creado con éxito.")
-print("Fin del scraping.")
+if __name__ == '__main__':
+    main()

@@ -96,6 +96,9 @@ jobs:
       - name: 🎭 Scraping Yelmo Cines
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          # Opcional: si Cinépolis cambia la clave pública de su web, se
+          # guarda la nueva en este secreto sin tocar el código.
+          YELMO_API_KEY: ${{ secrets.YELMO_API_KEY }}
         run: |
           echo "🎬 Ejecutando scraping de Yelmo..."
           python scraping_yelmo.py || { echo "⚠️ Error en Yelmo, continuando..."; echo "Scraping Yelmo Cines: falló la ejecución" >> "$FALLOS_SCRAPERS"; }
