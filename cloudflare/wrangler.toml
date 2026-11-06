@@ -1,0 +1,8 @@
+# Configuración de despliegue del Worker puente a la API de Cinépolis.
+# Desplegar desde esta carpeta: npx wrangler deploy
+# Los valores en secreto se añaden con:
+#   echo "VALOR" | npx wrangler secret put PROXY_TOKEN
+#   echo "VALOR" | npx wrangler secret put CINEPOLIS_APIKEY
+name = "yelmo-proxy"
+main = "yelmo-proxy-worker.js"
+compatibility_date = "2024-09-23"
