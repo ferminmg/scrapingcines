@@ -11,13 +11,15 @@ from bs4 import BeautifulSoup
 import json
 import os
 from datetime import datetime, timedelta
-import urllib.request
 import re
 import time
 import logging
 import unicodedata
 from difflib import SequenceMatcher
 import argparse
+import sys
+
+from fallos import anotar_fallo
 
 # Configurar logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -288,9 +290,49 @@ def detectar_sede(texto_h2: str, titulo_pagina: str = '') -> str:
                 return sede
     return CINE_POR_DEFECTO
 
+TIMEOUT = 30
+
+
+class FilmotecaNoDisponible(Exception):
+    """No se ha podido leer la programación: mejor no tocar los datos publicados."""
+
+
+def descargar(url: str, intentos: int = 2) -> requests.Response:
+    """GET con timeout y un reintento ante fallos pasajeros."""
+    for intento in range(1, intentos + 1):
+        try:
+            respuesta = requests.get(url, timeout=TIMEOUT)
+            respuesta.raise_for_status()
+            return respuesta
+        except requests.exceptions.RequestException:
+            if intento == intentos:
+                raise
+            time.sleep(3 * intento)
+
+
+def descargar_imagen(url: str, destino: str) -> bool:
+    """Descarga un cartel; si falla, la película sigue adelante sin él."""
+    try:
+        respuesta = requests.get(url, timeout=TIMEOUT)
+        respuesta.raise_for_status()
+        with open(destino, 'wb') as f:
+            f.write(respuesta.content)
+        return True
+    except (requests.exceptions.RequestException, OSError) as e:
+        logger.error(f"Error al descargar la imagen {url}: {e}")
+        return False
+
+
 def scrapear_filmoteca():
-    """Realiza el scraping de la web de Filmoteca de Navarra"""
+    """Realiza el scraping de la web de Filmoteca de Navarra.
+
+    Devuelve (películas, resumen). El resumen dice cuántos eventos se han
+    leído, cuáles han fallado ('eventos_fallidos', para conservar sus sesiones
+    anteriores) y cuántos eran películas. Lanza FilmotecaNoDisponible si no se
+    puede leer la programación.
+    """
     logger.info("Iniciando scraping de filmotecanavarra.com...")
+    resumen = {'eventos': 0, 'eventos_fallidos': [], 'eventos_pelicula': 0}
 
     # Cargar equivalencias TMDB
     try:
@@ -302,9 +344,14 @@ def scrapear_filmoteca():
 
     # Inicializar variables
     url = "https://www.filmotecanavarra.com/es/comprar-entradas.asp"
-    response = requests.get(url)
+    try:
+        response = descargar(url)
+    except requests.exceptions.RequestException as e:
+        raise FilmotecaNoDisponible(f"no se puede leer {url}: {e}")
     soup = BeautifulSoup(response.text, 'html.parser')
     links = soup.find_all('a', href=True)
+    if not any('evento.asp' in l['href'] for l in links):
+        raise FilmotecaNoDisponible(f"{url} no enlaza ningún evento (¿ha cambiado la página?)")
 
     processed_urls = set()
     peliculas = []
@@ -320,8 +367,7 @@ def scrapear_filmoteca():
     load_dotenv()
     TMDB_API_KEY = os.getenv("TMDB_API_KEY")
     if not TMDB_API_KEY:
-        logger.error("No se ha encontrado la clave API de TMDB. Crea un archivo .env con TMDB_API_KEY=tu_clave")
-        return []
+        raise FilmotecaNoDisponible("falta TMDB_API_KEY (crea un .env con TMDB_API_KEY=tu_clave)")
         
     tmdb_api = TMDbAPI(TMDB_API_KEY)
 
@@ -335,8 +381,8 @@ def scrapear_filmoteca():
             try:
                 if link['href'] not in processed_urls:
                     processed_urls.add(link['href'])
-                    response = requests.get(f"https://www.filmotecanavarra.com/es/{link['href']}")
-                    response.raise_for_status()
+                    resumen['eventos'] += 1
+                    response = descargar(f"https://www.filmotecanavarra.com/es/{link['href']}")
                     soup = BeautifulSoup(response.text, 'html.parser')
 
                     texto_h1 = soup.find('h1').text.strip()
@@ -359,6 +405,8 @@ def scrapear_filmoteca():
 
                         # Debe ser una película: requiere Idioma y Duración en el mismo
                         # div (los actos de venta de libros no traen ninguno de los dos)
+                        if idioma and ('Duración' in texto_completo or 'Duracion' in texto_completo):
+                            resumen['eventos_pelicula'] += 1
                         if (idioma and
                                     ('Duración' in texto_completo or 'Duracion' in texto_completo) and
                                     es_vose(idioma)):
@@ -411,6 +459,10 @@ def scrapear_filmoteca():
                                         "hora": hora,
                                         "enlace_entradas": enlace_entradas['href'] if enlace_entradas else "",
                                         "cine": cine,
+                                        # Marca de sesión sacada de la web: el integrador
+                                        # la sustituye en cada ejecución (las apuntadas a
+                                        # mano no la llevan y se conservan)
+                                        "evento": link['href'],
                                     }
                                     if nota:
                                         horario["nota"] = nota
@@ -426,11 +478,8 @@ def scrapear_filmoteca():
                                     url_imagen = f"https://www.filmotecanavarra.com{imagen['src'].replace('..', '')}"
                                     nombre_archivo = re.sub(r'[^a-zA-Z0-9]', '_', title) + '.jpg'
                                     ruta_imagen = os.path.join('imagenes_filmoteca', nombre_archivo)
-                                    try:
-                                        urllib.request.urlretrieve(url_imagen, ruta_imagen)
+                                    if descargar_imagen(url_imagen, ruta_imagen):
                                         logger.info(f"Cartel guardado en: {ruta_imagen}")
-                                    except Exception as e:
-                                        logger.error(f"Error al descargar la imagen: {str(e)}")
                             
                             equivalencia = resolver_equivalencia_tmdb(title)
                             tmdb_info = {}
@@ -466,9 +515,8 @@ def scrapear_filmoteca():
                                 if tmdb_info.get('poster_path'):
                                     tmdb_poster_url = f"https://image.tmdb.org/t/p/w500{tmdb_info['poster_path']}"
                                     tmdb_poster_filename = os.path.join('imagenes_filmoteca', nombre_cartel_tmdb(tmdb_info['poster_path']))
-                                    if not os.path.exists(tmdb_poster_filename):
-                                        urllib.request.urlretrieve(tmdb_poster_url, tmdb_poster_filename)
-                                    pelicula['cartel'] = tmdb_poster_filename
+                                    if os.path.exists(tmdb_poster_filename) or descargar_imagen(tmdb_poster_url, tmdb_poster_filename):
+                                        pelicula['cartel'] = tmdb_poster_filename
 
                                 pelicula['tmdb_id'] = tmdb_info.get('tmdb_id')
                                 pelicula['año'] = tmdb_info.get('año')
@@ -486,6 +534,7 @@ def scrapear_filmoteca():
 
             except Exception as e:
                 logger.error(f"Error procesando {link['href']}: {str(e)}")
+                resumen['eventos_fallidos'].append(link['href'])
 
     # Guardar sugerencias de equivalencias sin borrar las ya existentes:
     # se parte de las cargadas y solo se añaden/sobrescriben las nuevas,
@@ -503,7 +552,7 @@ def scrapear_filmoteca():
         logger.info(f"Se han guardado {len(sugerencias_equivalencias)} sugerencias en equivalencias_peliculas.json")
 
     logger.info("Fin de scraping")
-    return peliculas
+    return peliculas, resumen
 
 def ejecutar_scraping():
     """Función principal para ejecutar el scraping"""
@@ -514,15 +563,42 @@ def ejecutar_scraping():
                         help='Integrar automáticamente con las películas manuales')
     
     args = parser.parse_args()
-    
-    # Ejecutar el scraping
-    peliculas = scrapear_filmoteca()
-    
+    archivo_fallos = args.archivo_salida + '.fallos.json'
+
+    # Un resultado de una ejecución anterior no debe integrarse nunca
+    for viejo in (args.archivo_salida, archivo_fallos):
+        if os.path.exists(viejo):
+            os.remove(viejo)
+
+    # Ejecutar el scraping. Si no se puede leer la programación no se genera
+    # el archivo: el integrador no se ejecuta y peliculas_filmoteca.json se
+    # queda como estaba (la app avisa de que está sin confirmar).
+    try:
+        peliculas, resumen = scrapear_filmoteca()
+    except FilmotecaNoDisponible as e:
+        logger.error(f"Filmoteca no disponible: {e}")
+        sys.exit(1)
+
+    fallidos = resumen['eventos_fallidos']
+    if resumen['eventos'] and len(fallidos) == resumen['eventos']:
+        logger.error(f"No se ha podido leer ninguno de los {resumen['eventos']} eventos")
+        sys.exit(1)
+    if not fallidos and resumen['eventos'] and resumen['eventos_pelicula'] == 0:
+        # Todos los eventos cargan pero ninguno parece una película: la ficha
+        # ha cambiado de formato y no se reconoce 'Idioma'/'Duración'
+        logger.error(f"Ninguno de los {resumen['eventos']} eventos parece una película (¿ha cambiado la página?)")
+        sys.exit(1)
+
     # Guardar resultados en el archivo temporal
     with open(args.archivo_salida, 'w', encoding='utf-8') as f:
         json.dump(peliculas, f, ensure_ascii=False, indent=4)
-    
     logger.info(f"Se han guardado {len(peliculas)} películas en {args.archivo_salida}")
+
+    if fallidos:
+        # El integrador conserva las sesiones anteriores de estos eventos
+        with open(archivo_fallos, 'w', encoding='utf-8') as f:
+            json.dump(fallidos, f, ensure_ascii=False, indent=2)
+        anotar_fallo(f"Scraping Filmoteca: {len(fallidos)} de {resumen['eventos']} eventos sin poder leer")
     
     # Integrar si se solicitó
     if args.integrar and os.path.exists('integrador.py'):

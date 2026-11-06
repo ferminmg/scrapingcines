@@ -15,6 +15,10 @@ líneas por los PATRONES de abajo.
   - Fuente sin fallos -> ok: true, ultimo_ok = ahora.
   - Fuente con fallos -> ok: false, se conserva el ultimo_ok anterior.
 
+Lo mismo para cada cine: si las líneas de fallo nombran cines concretos
+("Scraping Golem Cines: Golem Baiona: 3 de 21 días sin poder leer"), solo esos
+quedan marcados; si no nombran ninguno, todos los de la fuente.
+
 Además 'generado' lleva la hora de la ejecución: si la app ve que es antigua,
 sabe que el propio workflow ha dejado de funcionar y avisa para todos los cines.
 
@@ -113,15 +117,39 @@ def cines_de(fuente, carpeta):
     return nombres
 
 
+def cines_afectados(lineas, nombres):
+    """Cines a los que afectan las líneas de fallo de una fuente."""
+    afectados = set()
+    for linea in lineas:
+        nombrados = {n for n in nombres if n.lower() in linea.lower()}
+        afectados |= nombrados or set(nombres)
+    return afectados
+
+
 def construir_estado(fallos, anterior, carpeta='.', momento=None):
     momento = momento or ahora_iso()
     previas = {f.get('id'): f for f in (anterior or {}).get('fuentes', []) if isinstance(f, dict)}
     fuentes = []
     for fuente in FUENTES:
         propios = [l for l in fallos if any(p.lower() in l.lower() for p in fuente['patrones'])]
-        ok = not propios
         previa = previas.get(fuente['id'], {})
+        cines_previos = {c.get('nombre'): c for c in previa.get('cines', []) if isinstance(c, dict)}
         webs_cine = fuente.get('webs_cine', {})
+        nombres = cines_de(fuente, carpeta)
+        afectados = cines_afectados(propios, nombres)
+
+        cines = []
+        for nombre in nombres:
+            cine_ok = nombre not in afectados
+            anterior_cine = cines_previos.get(nombre, {})
+            cines.append({
+                'nombre': nombre,
+                'web': webs_cine.get(nombre, fuente['web']),
+                'ok': cine_ok,
+                'ultimo_ok': momento if cine_ok else (anterior_cine.get('ultimo_ok') or previa.get('ultimo_ok')),
+            })
+
+        ok = not propios
         fuentes.append({
             'id': fuente['id'],
             'nombre': fuente['nombre'],
@@ -130,8 +158,7 @@ def construir_estado(fallos, anterior, carpeta='.', momento=None):
             'ultimo_intento': momento,
             'error': None if ok else '; '.join(propios),
             'web': fuente['web'],
-            'cines': [{'nombre': n, 'web': webs_cine.get(n, fuente['web'])}
-                      for n in cines_de(fuente, carpeta)],
+            'cines': cines,
         })
     return {'version': VERSION, 'generado': momento, 'fuentes': fuentes}
 

@@ -159,7 +159,7 @@ jobs:
       - name: 🧹 Limpiar archivos temporales
         run: |
           echo "🧹 Limpiando archivos temporales..."
-          rm -f peliculas_filmoteca_scraping.json
+          rm -f peliculas_filmoteca_scraping.json peliculas_filmoteca_scraping.json.fallos.json
           
           # Limpiar logs antiguos (mantener solo los últimos 5)
           if [ -d "logs" ]; then
