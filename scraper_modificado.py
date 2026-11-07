@@ -11,13 +11,15 @@ from bs4 import BeautifulSoup
 import json
 import os
 from datetime import datetime, timedelta
-import urllib.request
 import re
 import time
 import logging
 import unicodedata
 from difflib import SequenceMatcher
 import argparse
+import sys
+
+from fallos import anotar_fallo
 
 # Configurar logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -208,6 +210,105 @@ def limpiar_titulo_h1(titulo: str) -> str:
     """Título del <h1> sin '(título original, país, año)' ni notas."""
     return separar_titulo_h1(titulo)[0]
 
+# Pueblos donde la Filmoteca proyecta fuera de Pamplona (se añaden solos: un
+# sufijo en MAYÚSCULAS tras ' - ' también se reconoce aunque no esté aquí)
+LOCALIDADES = ('TAFALLA', 'ALSASUA', 'ALTSASU', 'LEIZA', 'LEITZA', 'ESTELLA', 'LIZARRA',
+               'BURGUETE', 'AURITZ', 'TUDELA', 'SANGUESA', 'SANGÜESA', 'OLITE',
+               'ELIZONDO', 'LODOSA', 'VIANA', 'BERA', 'LESAKA', 'CORELLA')
+_MAYUS = "A-ZÁÉÍÓÚÑÜÇ"
+_SUFIJO_GUION = re.compile(rf"\s+[-–—]\s*\(?\s*([{_MAYUS}][{_MAYUS} .'-]{{2,}}?)\s*\)?\s*\.?$")
+_SUFIJO_PARENTESIS = re.compile(rf"\s*\(\s*([{_MAYUS}][{_MAYUS} .'-]{{2,}}?)\s*\)\s*\.?$")
+_SUFIJO_SUELTO = re.compile(rf"(?<=[)])\s*([{_MAYUS}][{_MAYUS} .'-]{{2,}}?)\s*\.?$")
+_PREFIJO_CICLO = re.compile(rf"^([{_MAYUS}][{_MAYUS} ]{{2,}}?)\.\s+(?=\S)")
+_ANIO = re.compile(r"\b(?:18|19|20)\d{2}\b")
+
+
+def _es_localidad(texto: str, por_guion: bool) -> bool:
+    """¿Es 'TAFALLA' / 'CIVIVOX CONDESTABLE' un lugar y no parte del título?"""
+    limpio = _sin_acentos(texto).upper().strip(' .')
+    if any(_sin_acentos(l).upper() == limpio for l in LOCALIDADES):
+        return True
+    if any(clave in limpio.lower() for clave, _ in SEDES) or limpio.startswith('CIVIVOX'):
+        return True
+    # Tras ' - ' cualquier palabra en mayúsculas es una sede (no 'EEUU', que
+    # siempre va con el año dentro del paréntesis)
+    return por_guion and len(limpio) >= 4
+
+
+def _dividir_fuera_de_parentesis(texto: str, separador: str = ' / ') -> list:
+    partes, nivel, actual, i = [], 0, '', 0
+    while i < len(texto):
+        if texto[i] == '(':
+            nivel += 1
+        elif texto[i] == ')':
+            nivel = max(0, nivel - 1)
+        if nivel == 0 and texto.startswith(separador, i):
+            partes.append(actual)
+            actual = ''
+            i += len(separador)
+            continue
+        actual += texto[i]
+        i += 1
+    partes.append(actual)
+    return [p.strip() for p in partes if p.strip()]
+
+
+def analizar_h1(texto_h1: str) -> dict:
+    """Separa el <h1> de una sesión de la Filmoteca en sus partes. La
+    Filmoteca le añade al título cosas que no son el título:
+
+      'SAN FRANCISCO. Vértigo (Vertigo, EEUU, 1958)'  -> ciclo 'San Francisco'
+      'Todos lo sabían (España, 2025) - TAFALLA'       -> localidad 'Tafalla'
+      'Sustraiak (Raíces perdidas) TAFALLA'            -> localidad, original
+      'Cowboy de medianoche (Midnight Cowboy, Estados Unidos, 1969) Sesión
+       con concierto.'                                 -> nota
+      'Sutura simple (2025) / Wuhan Zona Cero (2021)'  -> programa de 2 películas
+
+    Devuelve un dict con: titulo, titulo_original, anio, nota, ciclo,
+    localidad y programa (lista de títulos si la sesión junta varias
+    películas; vacía si es una sola).
+    """
+    texto = ' '.join((texto_h1 or '').split()).strip()
+    resultado = {'titulo': texto, 'titulo_original': None, 'anio': None,
+                 'nota': '', 'ciclo': None, 'localidad': None, 'programa': []}
+    if not texto:
+        return resultado
+
+    # 1. Pueblo o sede al final: ' - TAFALLA', '(ALSASUA)', ') TAFALLA'
+    for patron, por_guion in ((_SUFIJO_GUION, True), (_SUFIJO_PARENTESIS, False), (_SUFIJO_SUELTO, False)):
+        coincidencia = patron.search(texto)
+        if coincidencia and _es_localidad(coincidencia.group(1), por_guion):
+            resultado['localidad'] = coincidencia.group(1).strip(' .').title()
+            texto = texto[:coincidencia.start()].rstrip(' -–—')
+            break
+
+    # 2. Ciclo en mayúsculas delante: 'BERLÍN. Uno, dos, tres'
+    coincidencia = _PREFIJO_CICLO.match(texto)
+    if coincidencia and texto[coincidencia.end():] != texto[coincidencia.end():].upper():
+        resultado['ciclo'] = coincidencia.group(1).strip().title()
+        texto = texto[coincidencia.end():]
+
+    # 3. Varias películas en la misma sesión: 'A (2025) / B (2021)'
+    partes = _dividir_fuera_de_parentesis(texto)
+    con_anio = [p for p in partes if re.search(r'\([^)]*' + _ANIO.pattern + r'[^)]*\)', p)]
+    if len(partes) >= 2 and (len(con_anio) >= 2 or not con_anio):
+        titulos = [separar_titulo_h1(p)[0] for p in partes]
+        resultado.update(titulo=' / '.join(titulos), programa=titulos)
+        return resultado
+
+    # 4. Una película: '(título original, país, año)' y lo que venga detrás
+    titulo, nota = separar_titulo_h1(texto)
+    original, anio = datos_h1(texto)
+    if not original:
+        # '(título original)' sin país ni año: 'El acontecimiento (L'événement)'
+        sin_anio = re.search(r'\(([^()]*)\)\s*$', texto)
+        if sin_anio and not _ANIO.search(sin_anio.group(1)):
+            original = sin_anio.group(1).strip() or None
+    resultado.update(titulo=titulo.strip(' .'), titulo_original=original, anio=anio,
+                     nota=nota)
+    return resultado
+
+
 def ficha_filmoteca(soup) -> dict:
     """Datos de la propia ficha de la Filmoteca, para completar lo que TMDb
     no tenga: 'div.txt22' trae campos etiquetados ('Dirección y guion: ...',
@@ -270,9 +371,13 @@ SEDES = (
 def _sin_acentos(texto: str) -> str:
     return unicodedata.normalize('NFKD', texto or '').encode('ascii', 'ignore').decode().lower()
 
-def detectar_sede(texto_h2: str, titulo_pagina: str = '') -> str:
-    """Devuelve el cine/sede de la sesión (por defecto, la Filmoteca)."""
-    candidatos = []
+def detectar_sede(texto_h2: str, titulo_pagina: str = '', localidad: str = None) -> str:
+    """Devuelve el cine/sede de la sesión (por defecto, la Filmoteca).
+
+    Una sesión en un pueblo ('- TAFALLA' en el título o en el h2) es
+    'Filmoteca en Tafalla': antes salía como si fuera en la Filmoteca de
+    Pamplona y alguien podía ir al sitio equivocado."""
+    candidatos = [localidad] if localidad else []
     # Lo que va tras el último ' - ' del h2 ('19:00 - CONDESTABLE')
     if texto_h2 and ' - ' in texto_h2:
         candidatos.append(texto_h2.rsplit(' - ', 1)[1])
@@ -286,11 +391,56 @@ def detectar_sede(texto_h2: str, titulo_pagina: str = '') -> str:
         for clave, sede in SEDES:
             if clave in texto:
                 return sede
+    for candidato in candidatos:
+        limpio = candidato.strip(' .')
+        if any(_sin_acentos(l) == _sin_acentos(limpio) for l in LOCALIDADES) or (
+                candidato is localidad and limpio):
+            return f"Filmoteca en {limpio.title()}"
     return CINE_POR_DEFECTO
 
+TIMEOUT = 30
+
+
+class FilmotecaNoDisponible(Exception):
+    """No se ha podido leer la programación: mejor no tocar los datos publicados."""
+
+
+def descargar(url: str, intentos: int = 2) -> requests.Response:
+    """GET con timeout y un reintento ante fallos pasajeros."""
+    for intento in range(1, intentos + 1):
+        try:
+            respuesta = requests.get(url, timeout=TIMEOUT)
+            respuesta.raise_for_status()
+            return respuesta
+        except requests.exceptions.RequestException:
+            if intento == intentos:
+                raise
+            time.sleep(3 * intento)
+
+
+def descargar_imagen(url: str, destino: str) -> bool:
+    """Descarga un cartel; si falla, la película sigue adelante sin él."""
+    try:
+        respuesta = requests.get(url, timeout=TIMEOUT)
+        respuesta.raise_for_status()
+        with open(destino, 'wb') as f:
+            f.write(respuesta.content)
+        return True
+    except (requests.exceptions.RequestException, OSError) as e:
+        logger.error(f"Error al descargar la imagen {url}: {e}")
+        return False
+
+
 def scrapear_filmoteca():
-    """Realiza el scraping de la web de Filmoteca de Navarra"""
+    """Realiza el scraping de la web de Filmoteca de Navarra.
+
+    Devuelve (películas, resumen). El resumen dice cuántos eventos se han
+    leído, cuáles han fallado ('eventos_fallidos', para conservar sus sesiones
+    anteriores) y cuántos eran películas. Lanza FilmotecaNoDisponible si no se
+    puede leer la programación.
+    """
     logger.info("Iniciando scraping de filmotecanavarra.com...")
+    resumen = {'eventos': 0, 'eventos_fallidos': [], 'eventos_pelicula': 0}
 
     # Cargar equivalencias TMDB
     try:
@@ -302,9 +452,14 @@ def scrapear_filmoteca():
 
     # Inicializar variables
     url = "https://www.filmotecanavarra.com/es/comprar-entradas.asp"
-    response = requests.get(url)
+    try:
+        response = descargar(url)
+    except requests.exceptions.RequestException as e:
+        raise FilmotecaNoDisponible(f"no se puede leer {url}: {e}")
     soup = BeautifulSoup(response.text, 'html.parser')
     links = soup.find_all('a', href=True)
+    if not any('evento.asp' in l['href'] for l in links):
+        raise FilmotecaNoDisponible(f"{url} no enlaza ningún evento (¿ha cambiado la página?)")
 
     processed_urls = set()
     peliculas = []
@@ -320,8 +475,7 @@ def scrapear_filmoteca():
     load_dotenv()
     TMDB_API_KEY = os.getenv("TMDB_API_KEY")
     if not TMDB_API_KEY:
-        logger.error("No se ha encontrado la clave API de TMDB. Crea un archivo .env con TMDB_API_KEY=tu_clave")
-        return []
+        raise FilmotecaNoDisponible("falta TMDB_API_KEY (crea un .env con TMDB_API_KEY=tu_clave)")
         
     tmdb_api = TMDbAPI(TMDB_API_KEY)
 
@@ -335,13 +489,18 @@ def scrapear_filmoteca():
             try:
                 if link['href'] not in processed_urls:
                     processed_urls.add(link['href'])
-                    response = requests.get(f"https://www.filmotecanavarra.com/es/{link['href']}")
-                    response.raise_for_status()
+                    resumen['eventos'] += 1
+                    response = descargar(f"https://www.filmotecanavarra.com/es/{link['href']}")
                     soup = BeautifulSoup(response.text, 'html.parser')
 
                     texto_h1 = soup.find('h1').text.strip()
-                    title, nota = separar_titulo_h1(texto_h1)
-                    titulo_original, anio_h1 = datos_h1(texto_h1)
+                    h1 = analizar_h1(texto_h1)
+                    title, nota = h1['titulo'], h1['nota']
+                    titulo_original, anio_h1 = h1['titulo_original'], h1['anio']
+                    # El ciclo ('BERLÍN. ...') queda como nota de la sesión, y
+                    # una sesión con varias películas se avisa como tal
+                    programa = f"Sesión de {len(h1['programa'])} películas" if h1['programa'] else ''
+                    nota = ' · '.join(n for n in (h1['ciclo'], programa, nota) if n)
                     divtxt22 = soup.find('div', class_='txt txt22')
                     idioma = ""
                     texto_completo = ""
@@ -359,6 +518,8 @@ def scrapear_filmoteca():
 
                         # Debe ser una película: requiere Idioma y Duración en el mismo
                         # div (los actos de venta de libros no traen ninguno de los dos)
+                        if idioma and ('Duración' in texto_completo or 'Duracion' in texto_completo):
+                            resumen['eventos_pelicula'] += 1
                         if (idioma and
                                     ('Duración' in texto_completo or 'Duracion' in texto_completo) and
                                     es_vose(idioma)):
@@ -371,7 +532,7 @@ def scrapear_filmoteca():
                             fecha_hora = soup.find('h2')
                             texto_fecha = fecha_hora.get_text(separator=" ").strip() if fecha_hora else ""
                             titulo_pagina = soup.title.get_text().strip() if soup.title else ""
-                            cine = detectar_sede(texto_fecha, titulo_pagina)
+                            cine = detectar_sede(texto_fecha, titulo_pagina, h1['localidad'])
                             logger.info(f"Sede: {cine}")
 
                             pelicula = {
@@ -411,6 +572,10 @@ def scrapear_filmoteca():
                                         "hora": hora,
                                         "enlace_entradas": enlace_entradas['href'] if enlace_entradas else "",
                                         "cine": cine,
+                                        # Marca de sesión sacada de la web: el integrador
+                                        # la sustituye en cada ejecución (las apuntadas a
+                                        # mano no la llevan y se conservan)
+                                        "evento": link['href'],
                                     }
                                     if nota:
                                         horario["nota"] = nota
@@ -426,15 +591,14 @@ def scrapear_filmoteca():
                                     url_imagen = f"https://www.filmotecanavarra.com{imagen['src'].replace('..', '')}"
                                     nombre_archivo = re.sub(r'[^a-zA-Z0-9]', '_', title) + '.jpg'
                                     ruta_imagen = os.path.join('imagenes_filmoteca', nombre_archivo)
-                                    try:
-                                        urllib.request.urlretrieve(url_imagen, ruta_imagen)
+                                    if descargar_imagen(url_imagen, ruta_imagen):
                                         logger.info(f"Cartel guardado en: {ruta_imagen}")
-                                    except Exception as e:
-                                        logger.error(f"Error al descargar la imagen: {str(e)}")
                             
                             equivalencia = resolver_equivalencia_tmdb(title)
                             tmdb_info = {}
-                            if equivalencia.get("tmdb_id"):
+                            # Varias películas en una sesión: ninguna ficha de TMDb es
+                            # la de la sesión entera, se usan los datos de la Filmoteca
+                            if equivalencia.get("tmdb_id") and not h1['programa']:
                                 logger.info(f"Usando equivalencia TMDB para '{title}': ID {equivalencia['tmdb_id']}")
                                 tmdb_info = tmdb_api.get_movie_info_by_id(equivalencia["tmdb_id"])
                                 # Una equivalencia de otra época es un emparejamiento
@@ -446,7 +610,7 @@ def scrapear_filmoteca():
                                 elif tmdb_info.get("runtime") and tmdb_info["runtime"] < 40:
                                     logger.warning(f"Equivalencia de '{title}' descartada: es un corto de {tmdb_info['runtime']} min")
                                     tmdb_info = {}
-                            if not tmdb_info:
+                            if not tmdb_info and not h1['programa']:
                                 tmdb_info = tmdb_api.get_movie_info(title, anio_h1, titulo_original)
                                 if tmdb_info and equivalencia.get("tmdb_id") and equivalencia["tmdb_id"] != tmdb_info["tmdb_id"]:
                                     # Corregir la equivalencia guardada
@@ -466,9 +630,8 @@ def scrapear_filmoteca():
                                 if tmdb_info.get('poster_path'):
                                     tmdb_poster_url = f"https://image.tmdb.org/t/p/w500{tmdb_info['poster_path']}"
                                     tmdb_poster_filename = os.path.join('imagenes_filmoteca', nombre_cartel_tmdb(tmdb_info['poster_path']))
-                                    if not os.path.exists(tmdb_poster_filename):
-                                        urllib.request.urlretrieve(tmdb_poster_url, tmdb_poster_filename)
-                                    pelicula['cartel'] = tmdb_poster_filename
+                                    if os.path.exists(tmdb_poster_filename) or descargar_imagen(tmdb_poster_url, tmdb_poster_filename):
+                                        pelicula['cartel'] = tmdb_poster_filename
 
                                 pelicula['tmdb_id'] = tmdb_info.get('tmdb_id')
                                 pelicula['año'] = tmdb_info.get('año')
@@ -486,6 +649,7 @@ def scrapear_filmoteca():
 
             except Exception as e:
                 logger.error(f"Error procesando {link['href']}: {str(e)}")
+                resumen['eventos_fallidos'].append(link['href'])
 
     # Guardar sugerencias de equivalencias sin borrar las ya existentes:
     # se parte de las cargadas y solo se añaden/sobrescriben las nuevas,
@@ -503,7 +667,7 @@ def scrapear_filmoteca():
         logger.info(f"Se han guardado {len(sugerencias_equivalencias)} sugerencias en equivalencias_peliculas.json")
 
     logger.info("Fin de scraping")
-    return peliculas
+    return peliculas, resumen
 
 def ejecutar_scraping():
     """Función principal para ejecutar el scraping"""
@@ -514,15 +678,42 @@ def ejecutar_scraping():
                         help='Integrar automáticamente con las películas manuales')
     
     args = parser.parse_args()
-    
-    # Ejecutar el scraping
-    peliculas = scrapear_filmoteca()
-    
+    archivo_fallos = args.archivo_salida + '.fallos.json'
+
+    # Un resultado de una ejecución anterior no debe integrarse nunca
+    for viejo in (args.archivo_salida, archivo_fallos):
+        if os.path.exists(viejo):
+            os.remove(viejo)
+
+    # Ejecutar el scraping. Si no se puede leer la programación no se genera
+    # el archivo: el integrador no se ejecuta y peliculas_filmoteca.json se
+    # queda como estaba (la app avisa de que está sin confirmar).
+    try:
+        peliculas, resumen = scrapear_filmoteca()
+    except FilmotecaNoDisponible as e:
+        logger.error(f"Filmoteca no disponible: {e}")
+        sys.exit(1)
+
+    fallidos = resumen['eventos_fallidos']
+    if resumen['eventos'] and len(fallidos) == resumen['eventos']:
+        logger.error(f"No se ha podido leer ninguno de los {resumen['eventos']} eventos")
+        sys.exit(1)
+    if not fallidos and resumen['eventos'] and resumen['eventos_pelicula'] == 0:
+        # Todos los eventos cargan pero ninguno parece una película: la ficha
+        # ha cambiado de formato y no se reconoce 'Idioma'/'Duración'
+        logger.error(f"Ninguno de los {resumen['eventos']} eventos parece una película (¿ha cambiado la página?)")
+        sys.exit(1)
+
     # Guardar resultados en el archivo temporal
     with open(args.archivo_salida, 'w', encoding='utf-8') as f:
         json.dump(peliculas, f, ensure_ascii=False, indent=4)
-    
     logger.info(f"Se han guardado {len(peliculas)} películas en {args.archivo_salida}")
+
+    if fallidos:
+        # El integrador conserva las sesiones anteriores de estos eventos
+        with open(archivo_fallos, 'w', encoding='utf-8') as f:
+            json.dump(fallidos, f, ensure_ascii=False, indent=2)
+        anotar_fallo(f"Scraping Filmoteca: {len(fallidos)} de {resumen['eventos']} eventos sin poder leer")
     
     # Integrar si se solicitó
     if args.integrar and os.path.exists('integrador.py'):
