@@ -147,10 +147,19 @@ jobs:
           mkdir -p imagenes_estrenos
           python proximos_estrenos.py --max-pages=10 --output=proximos_estrenos.json || { echo "⚠️ Error en próximos estrenos, continuando..."; echo "Próximos Estrenos TMDb: falló la ejecución" >> "$FALLOS_SCRAPERS"; }
 
+      # Estado de cada fuente (ok / último dato correcto) para que la app
+      # avise de que los horarios de un cine pueden no estar al día.
+      # Siempre cambia ('generado'), así que cada ejecución publica: la app
+      # usa esa hora para detectar también que el workflow ha dejado de ir.
+      - name: 🩺 Estado de las fuentes
+        run: |
+          python estado_fuentes.py --fallos "$FALLOS_SCRAPERS" \
+            || echo "::warning::No se pudo generar estado_fuentes.json"
+
       - name: 🧹 Limpiar archivos temporales
         run: |
           echo "🧹 Limpiando archivos temporales..."
-          rm -f peliculas_filmoteca_scraping.json
+          rm -f peliculas_filmoteca_scraping.json peliculas_filmoteca_scraping.json.fallos.json
           
           # Limpiar logs antiguos (mantener solo los últimos 5)
           if [ -d "logs" ]; then
