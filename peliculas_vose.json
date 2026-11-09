@@ -1,23 +1,37 @@
 [
     {
+        "título": "Los miserables",
+        "cartel": "imagenes_peliculas/tmdb_jwrmui6rgjawkxheqblsnvit6gg.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-11-09",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103307&eventCode=114126"
+            },
+            {
+                "fecha": "2026-11-10",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103291&eventCode=114126"
+            },
+            {
+                "fecha": "2026-11-11",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103323&eventCode=114126"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Fred Cavayé",
+        "duración": "178 min",
+        "actores": "Vincent Lindon, Tahar Rahim, Camille Cottin, Benjamin Lavernhe, Noémie Merlant",
+        "sinopsis": "Tras 19 años en prisión por robar una hogaza de pan, Jean Valjean busca redención reinventándose como un respetado dignatario bajo una nueva identidad. Promete a Fantine, una trabajadora de fábrica moribunda, rescatar y proteger a su hija, Cosette, quien está siendo explotada y maltratada por la engañosa familia Thénardier. Mientras Valjean cría a Cosette como si fuera su propia hija, es perseguido sin descanso por el inspector Javert. En medio de la agitación social que sacude Francia, los destinos de Valjean, Cosette, su enamorado Marius y Javert se entrelazan en un París turbulento y revolucionario. A través de luchas, sacrificios y un profundo anhelo de justicia, Valjean se esfuerza por culminar su camino de redención y darle a Cosette un futuro de amor y libertad.",
+        "año": "2026",
+        "tmdb_id": 1241803,
+        "nota": null
+    },
+    {
         "título": "Sacamantecas",
         "cartel": "imagenes_peliculas/tmdb_7338fnwdzx9onpodzijh1oliugv.jpg",
         "horarios": [
-            {
-                "fecha": "2026-11-08",
-                "hora": "17:00",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-11-08",
-                "hora": "19:30",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-11-08",
-                "hora": "22:15",
-                "enlace_entradas": ""
-            },
             {
                 "fecha": "2026-11-09",
                 "hora": "17:00",
@@ -93,11 +107,6 @@
         "cartel": "imagenes_peliculas/1791994746.jpg",
         "horarios": [
             {
-                "fecha": "2026-11-08",
-                "hora": "21:40",
-                "enlace_entradas": ""
-            },
-            {
                 "fecha": "2026-11-09",
                 "hora": "21:40",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103312&eventCode=115746"
@@ -125,35 +134,6 @@
         "sinopsis": "La policía investiga una misteriosa criatura que ha estado sembrando el caos en la remota isla de Hope Harbor. Un grupo de cazadores la sigue hacia un bosque cercano y se convierte en su presa involuntaria. El conflicto se intensifica hasta convertirse en una tragedia de proporciones cósmicas.",
         "año": null,
         "tmdb_id": null,
-        "nota": null
-    },
-    {
-        "título": "Los miserables",
-        "cartel": "imagenes_peliculas/tmdb_jwrmui6rgjawkxheqblsnvit6gg.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-11-09",
-                "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103307&eventCode=114126"
-            },
-            {
-                "fecha": "2026-11-10",
-                "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103291&eventCode=114126"
-            },
-            {
-                "fecha": "2026-11-11",
-                "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103323&eventCode=114126"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "Fred Cavayé",
-        "duración": "178 min",
-        "actores": "Vincent Lindon, Tahar Rahim, Camille Cottin, Benjamin Lavernhe, Noémie Merlant",
-        "sinopsis": "Tras 19 años en prisión por robar una hogaza de pan, Jean Valjean busca redención reinventándose como un respetado dignatario bajo una nueva identidad. Promete a Fantine, una trabajadora de fábrica moribunda, rescatar y proteger a su hija, Cosette, quien está siendo explotada y maltratada por la engañosa familia Thénardier. Mientras Valjean cría a Cosette como si fuera su propia hija, es perseguido sin descanso por el inspector Javert. En medio de la agitación social que sacude Francia, los destinos de Valjean, Cosette, su enamorado Marius y Javert se entrelazan en un París turbulento y revolucionario. A través de luchas, sacrificios y un profundo anhelo de justicia, Valjean se esfuerza por culminar su camino de redención y darle a Cosette un futuro de amor y libertad.",
-        "año": "2026",
-        "tmdb_id": 1241803,
         "nota": null
     },
     {
@@ -237,11 +217,6 @@
         "cartel": "imagenes_peliculas/tmdb_ku7zvdj7yuzn71cg6yvcoc3rxjm.jpg",
         "horarios": [
             {
-                "fecha": "2026-11-08",
-                "hora": "19:15",
-                "enlace_entradas": ""
-            },
-            {
                 "fecha": "2026-11-09",
                 "hora": "19:15",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93439&eventCode=115841"
@@ -275,11 +250,6 @@
         "título": "Wicker",
         "cartel": "imagenes_peliculas/tmdb_ewpz6uvkrbklqrlri1r9ntzqlzn.jpg",
         "horarios": [
-            {
-                "fecha": "2026-11-08",
-                "hora": "21:30",
-                "enlace_entradas": ""
-            },
             {
                 "fecha": "2026-11-09",
                 "hora": "21:30",
@@ -315,11 +285,6 @@
         "cartel": "imagenes_peliculas/tmdb_21jnfycarirkms9azhttxizkbij.jpg",
         "horarios": [
             {
-                "fecha": "2026-11-08",
-                "hora": "21:30",
-                "enlace_entradas": ""
-            },
-            {
                 "fecha": "2026-11-09",
                 "hora": "21:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93432&eventCode=111923"
@@ -353,16 +318,6 @@
         "título": "Naza",
         "cartel": "imagenes_peliculas/tmdb_urm4mncgiscxowqdnwexsutvkag.jpg",
         "horarios": [
-            {
-                "fecha": "2026-11-08",
-                "hora": "17:15",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-11-08",
-                "hora": "21:30",
-                "enlace_entradas": ""
-            },
             {
                 "fecha": "2026-11-09",
                 "hora": "17:15",
