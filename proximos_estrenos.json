@@ -88,7 +88,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:04"
+    "última_actualización": "2026-11-10 22:12:33"
   },
   {
     "id": 1543265,
@@ -195,7 +195,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:06"
+    "última_actualización": "2026-11-10 22:12:35"
   },
   {
     "id": 1543320,
@@ -286,7 +286,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:08"
+    "última_actualización": "2026-11-10 22:12:38"
   },
   {
     "id": 1537256,
@@ -421,7 +421,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:10"
+    "última_actualización": "2026-11-10 22:12:38"
   },
   {
     "id": 822653,
@@ -608,7 +608,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:12:59"
+    "última_actualización": "2026-11-10 22:12:29"
   },
   {
     "id": 1421562,
@@ -781,8 +781,8 @@
       }
     ],
     "popularidad": 73.3527,
-    "puntuación": 8.1,
-    "votos": 121,
+    "puntuación": 8.133,
+    "votos": 124,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -892,7 +892,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:12:59"
+    "última_actualización": "2026-11-10 22:12:29"
   },
   {
     "id": 1567605,
@@ -902,7 +902,7 @@
     "sinopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
     "poster_path": "/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
     "poster_local": "imagenes_estrenos/Scrooge_y_los_fantasmas_de_la_Navidad_gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-    "backdrop_path": "/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
+    "backdrop_path": "/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
     "backdrop_local": "imagenes_estrenos/Scrooge_y_los_fantasmas_de_la_Navidad_backdrop_bG8uwYAq5Y9bPDaoxq2eHjopA9T.jpg",
     "fecha_estreno": "2026-11-13T00:00:00.000Z",
     "duración": "115 min",
@@ -933,16 +933,16 @@
         "profile_path": "/A8QZBHZjlbWDiUXBvCTk4Zv5oBs.jpg"
       },
       {
-        "name": "Sam Claflin",
-        "id": 237455,
-        "character": "Fred",
-        "profile_path": "/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
-      },
-      {
         "name": "Tramell Tillman",
         "id": 2028037,
         "character": "Ghost of Christmas Present",
         "profile_path": "/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg"
+      },
+      {
+        "name": "Ian McKellen",
+        "id": 1327,
+        "character": "Jacob Marley",
+        "profile_path": "/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
       }
     ],
     "géneros": [
@@ -956,22 +956,42 @@
       }
     ],
     "popularidad": 42.228,
-    "puntuación": 8.2,
-    "votos": 4,
+    "puntuación": 8.6,
+    "votos": 5,
     "adulto": false,
     "video": false,
     "año": "2026",
     "imágenes": {
       "backdrops": [
         {
-          "aspect_ratio": 1.778,
-          "height": 2160,
+          "aspect_ratio": 1.777,
+          "height": 1671,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
+          "file_path": "/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
           "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
+          "vote_count": 2,
+          "width": 2970
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1283,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vrzZM9fdevl2syF6igHAMfRAwP8.jpg",
+          "vote_average": 2.542,
+          "vote_count": 4,
+          "width": 2281
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1292,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/bG8uwYAq5Y9bPDaoxq2eHjopA9T.jpg",
+          "vote_average": 2.542,
+          "vote_count": 4,
+          "width": 2296
         },
         {
           "aspect_ratio": 1.778,
@@ -992,26 +1012,6 @@
           "vote_average": 1.75,
           "vote_count": 2,
           "width": 1440
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 1283,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/vrzZM9fdevl2syF6igHAMfRAwP8.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2281
-        },
-        {
-          "aspect_ratio": 1.777,
-          "height": 1292,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/bG8uwYAq5Y9bPDaoxq2eHjopA9T.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
-          "width": 2296
         }
       ],
       "posters": [
@@ -1067,7 +1067,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:00"
+    "última_actualización": "2026-11-10 22:12:29"
   },
   {
     "id": 1437511,
@@ -1077,7 +1077,7 @@
     "sinopsis": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
     "poster_path": "/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
     "poster_local": "imagenes_estrenos/Como_Robar_un_Banco_iHqjtNxzLmfWei4poUdckHmsBBz.jpg",
-    "backdrop_path": "/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
+    "backdrop_path": "/8n8IiMO96sdB6sFfL0WyfRXsdJc.jpg",
     "backdrop_local": "imagenes_estrenos/Como_Robar_un_Banco_backdrop_xghtLO90cQPybH85aw1C3bZ2P3.jpg",
     "fecha_estreno": "2026-11-13T00:00:00.000Z",
     "duración": "122 min",
@@ -1135,8 +1135,8 @@
       }
     ],
     "popularidad": 15.6804,
-    "puntuación": 8.0,
-    "votos": 1,
+    "puntuación": 9.0,
+    "votos": 2,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1151,6 +1151,16 @@
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/x9ECIcqnsen26beC1MSfrgAOveE.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
         },
         {
           "aspect_ratio": 1.778,
@@ -1178,16 +1188,6 @@
           "iso_3166_1": null,
           "iso_639_1": null,
           "file_path": "/uStY1FvH8fozAbLnaMz2wvkUYw0.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3691
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2076,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/jfNvV2PxD0Zl6dxIYYrBpvxLRGH.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 3691
@@ -1236,7 +1236,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:01"
+    "última_actualización": "2026-11-10 22:12:30"
   },
   {
     "id": 1124142,
@@ -1304,8 +1304,8 @@
       }
     ],
     "popularidad": 6.7155,
-    "puntuación": 6.756,
-    "votos": 125,
+    "puntuación": 6.734,
+    "votos": 126,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -1415,7 +1415,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:01"
+    "última_actualización": "2026-11-10 22:12:31"
   },
   {
     "id": 1379486,
@@ -1425,7 +1425,7 @@
     "sinopsis": "En 1858, la misteriosa institutriz Winifred Notty llega a Ensor House para educar a los hijos de la familia. Su disciplina extrema y su inquietante presencia despiertan sospechas, mientras los empleados de la mansión comienzan a desaparecer sin dejar rastro. Los dueños pronto descubren que tras su apariencia impecable se esconden secretos perturbadores.",
     "poster_path": "/2r09thBfqsWkoyGVtrxc00uYpSy.jpg",
     "poster_local": "imagenes_estrenos/La_Psicopata_9LHVZevgdsdbjJdkFr6bk9EwX7q.jpg",
-    "backdrop_path": "/92FSzMpBSkMH59ZCDz9tUjIWKAS.jpg",
+    "backdrop_path": "/84Sh7J9uvMjqEqEyRsKXaiSBcjP.jpg",
     "backdrop_local": "imagenes_estrenos/La_Psicopata_backdrop_92FSzMpBSkMH59ZCDz9tUjIWKAS.jpg",
     "fecha_estreno": "2026-11-13T00:00:00.000Z",
     "duración": "102 min",
@@ -1550,7 +1550,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:02"
+    "última_actualización": "2026-11-10 22:12:31"
   },
   {
     "id": 1427833,
@@ -1709,7 +1709,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:02"
+    "última_actualización": "2026-11-10 22:12:32"
   },
   {
     "id": 13534,
@@ -1838,7 +1838,170 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:03"
+    "última_actualización": "2026-11-10 22:12:32"
+  },
+  {
+    "id": 748681,
+    "tmdb_id": 748681,
+    "título": "El violinista",
+    "título_original": "The Violinist",
+    "sinopsis": "Nos encontramos en Singapur, a finales de la década de 1930. Kai y Fei son amigos de la infancia y aspirantes a violinistas. Cuando Japón invade Malaya en 1941, Kai decide renunciar a su carrera musical para unirse a las fuerzas antijaponesas. Tras la guerra, Kai desaparece. Decidida a encontrarlo, Fei actúa por todo el Sudeste Asiático mientras busca cualquier noticia sobre él. Sin embargo, a medida que pasa el tiempo, Fei debe decidir si ha de encontrar su propia música para definir los años que le quedan de vida.",
+    "poster_path": "/eS83uVLN6OAH5ZLrUPyoWDVXI2b.jpg",
+    "poster_local": "imagenes_estrenos/El_violinista_eS83uVLN6OAH5ZLrUPyoWDVXI2b.jpg",
+    "backdrop_path": "/cM880xhKvr8vp7nfacFi8g6wWkG.jpg",
+    "backdrop_local": "imagenes_estrenos/El_violinista_backdrop_cM880xhKvr8vp7nfacFi8g6wWkG.jpg",
+    "fecha_estreno": "2026-11-13T00:00:00.000Z",
+    "duración": "114 min",
+    "director": "Ervin Han, Raúl García",
+    "directores": [
+      {
+        "name": "Ervin Han",
+        "id": 1500339
+      },
+      {
+        "name": "Raúl García",
+        "id": 228709
+      }
+    ],
+    "actores": [
+      {
+        "name": "Tan Kheng Hua",
+        "id": 1218908,
+        "character": "Fei (voice)",
+        "profile_path": "/nxPhGMhjlHt9J1Iu33z2YTsSWxj.jpg"
+      },
+      {
+        "name": "田邊和也",
+        "id": 1736757,
+        "character": "Takeshi Inoue (voice)",
+        "profile_path": "/HaSwo4Yp8x1VtYU54UoeDvUfG4.jpg"
+      },
+      {
+        "name": "Adrian Pang",
+        "id": 1211862,
+        "character": "Lim Bo Seng (voice)",
+        "profile_path": "/vxM7U4FhzcZqAW6Sx5Lg1iehXYS.jpg"
+      },
+      {
+        "name": "Ayden Sng",
+        "id": 2845902,
+        "character": "Kai (voice)",
+        "profile_path": "/53YYrofxpMInmYhUXjRuw0umQGq.jpg"
+      },
+      {
+        "name": "Enrique Arce",
+        "id": 944099,
+        "character": "Hugo (voice)",
+        "profile_path": "/1lACQepfukuZ0l6FnUpMO03WxcJ.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "popularidad": 1.1746,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/cM880xhKvr8vp7nfacFi8g6wWkG.jpg",
+          "vote_average": 3.334,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/e9Us1IkMmwMGwmVTRFXfQiXYWYA.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tUbOCYyF6m4NzhXFQ6idA7GdyoJ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/gjqqkKjaMZ34NxSScBkgQr8hEOh.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/rvQX9uqH68BdIfDjli5CsLCOzab.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5akpaw5jA3YfJFdnOeMCKOd4lYR.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/c3TNaY7hcnHEabw86M0nUD7Lh4r.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 2743,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/eS83uVLN6OAH5ZLrUPyoWDVXI2b.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1829
+        }
+      ]
+    },
+    "última_actualización": "2026-11-10 22:12:34"
   },
   {
     "id": 1506401,
@@ -1939,7 +2102,49 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:05"
+    "última_actualización": "2026-11-10 22:12:35"
+  },
+  {
+    "id": 1736731,
+    "tmdb_id": 1736731,
+    "título": "Muguruza FM 40 Tour",
+    "título_original": "Muguruza FM 40 Tour",
+    "sinopsis": "Cuatro décadas después de subir por primera vez a un escenario, Fermin Muguruza se embarca en su última gira a gran escala: un viaje colectivo para celebrar 40 años de música, compromiso y resistencia cultural. Este documental musical capta el pulso de ese viaje: conciertos con el aforo completo, muchos kilómetros en la carretera, distintos encuentros a lo largo del camino y una energía compartida que ha trascendido generaciones, desde las bandas Kortatu y Negu Gorriak hasta su actual carrera en solitario.",
+    "poster_path": "/8wtF8PKOLibEZsgKOvK1UMFTbpu.jpg",
+    "poster_local": "imagenes_estrenos/Muguruza_FM_40_Tour_8wtF8PKOLibEZsgKOvK1UMFTbpu.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-11-13T00:00:00.000Z",
+    "duración": "99 min",
+    "director": "Ander Merino Etxebeste, Fermin Muguruza",
+    "directores": [
+      {
+        "name": "Ander Merino Etxebeste",
+        "id": 6488172
+      },
+      {
+        "name": "Fermin Muguruza",
+        "id": 1061599
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.7381,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-11-10 22:12:36"
   },
   {
     "id": 1720175,
@@ -2005,49 +2210,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:07"
-  },
-  {
-    "id": 1736731,
-    "tmdb_id": 1736731,
-    "título": "Muguruza FM 40 Tour",
-    "título_original": "Muguruza FM 40 Tour",
-    "sinopsis": "Cuatro décadas después de subir por primera vez a un escenario, Fermin Muguruza se embarca en su última gira a gran escala: un viaje colectivo para celebrar 40 años de música, compromiso y resistencia cultural. Este documental musical capta el pulso de ese viaje: conciertos con el aforo completo, muchos kilómetros en la carretera, distintos encuentros a lo largo del camino y una energía compartida que ha trascendido generaciones, desde las bandas Kortatu y Negu Gorriak hasta su actual carrera en solitario.",
-    "poster_path": "/8wtF8PKOLibEZsgKOvK1UMFTbpu.jpg",
-    "poster_local": "imagenes_estrenos/Muguruza_FM_40_Tour_8wtF8PKOLibEZsgKOvK1UMFTbpu.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-11-13T00:00:00.000Z",
-    "duración": "99 min",
-    "director": "Ander Merino Etxebeste, Fermin Muguruza",
-    "directores": [
-      {
-        "name": "Ander Merino Etxebeste",
-        "id": 6488172
-      },
-      {
-        "name": "Fermin Muguruza",
-        "id": 1061599
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.7381,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2026-11-10 10:13:07"
+    "última_actualización": "2026-11-10 22:12:37"
   },
   {
     "id": 1820673,
@@ -2080,7 +2243,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-11-10 10:13:10"
+    "última_actualización": "2026-11-10 22:12:39"
   },
   {
     "id": 1812576,
@@ -2148,7 +2311,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-11-10 10:13:09"
+    "última_actualización": "2026-11-10 22:12:39"
   },
   {
     "id": 1810457,
@@ -2256,7 +2419,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-11-10 10:13:12"
+    "última_actualización": "2026-11-10 22:12:40"
   },
   {
     "id": 1232569,
@@ -2435,7 +2598,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:12:59"
+    "última_actualización": "2026-11-10 22:12:29"
   },
   {
     "id": 1300968,
@@ -2448,7 +2611,7 @@
     "backdrop_path": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "backdrop_local": "imagenes_estrenos/Los_juegos_del_hambre__Amanecer_en_la_cosecha_backdrop_aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "fecha_estreno": "2026-11-20T00:00:00.000Z",
-    "duración": "150 min",
+    "duración": "159 min",
     "director": "Francis Lawrence",
     "directores": [
       {
@@ -2614,7 +2777,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:00"
+    "última_actualización": "2026-11-10 22:12:29"
   },
   {
     "id": 1240889,
@@ -2682,8 +2845,8 @@
       }
     ],
     "popularidad": 16.1652,
-    "puntuación": 6.104,
-    "votos": 390,
+    "puntuación": 6.096,
+    "votos": 392,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -2793,15 +2956,15 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:00"
+    "última_actualización": "2026-11-10 22:12:30"
   },
   {
     "id": 1308767,
     "tmdb_id": 1308767,
-    "título": "Young Washington",
+    "título": "Washington. El origen de un líder",
     "título_original": "Young Washington",
     "sinopsis": "Antes de liderar una nación, George Washington era un joven soldado en un conflicto global. Con alianzas desmoronándose y la guerra acercándose, debe elegir en quién confiar y enfrentar al líder en que se está convirtiendo.",
-    "poster_path": "/sOglmM6VNC3qKQl7FKYRqQYj7Jq.jpg",
+    "poster_path": "/kp3TpqkiDgRkLSJgrnWdGXGl7hD.jpg",
     "poster_local": "imagenes_estrenos/Young_Washington_sOglmM6VNC3qKQl7FKYRqQYj7Jq.jpg",
     "backdrop_path": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
     "backdrop_local": "imagenes_estrenos/Young_Washington_backdrop_mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
@@ -2932,16 +3095,6 @@
         },
         {
           "aspect_ratio": 0.667,
-          "height": 1800,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/sOglmM6VNC3qKQl7FKYRqQYj7Jq.jpg",
-          "vote_average": 1.75,
-          "vote_count": 5,
-          "width": 1200
-        },
-        {
-          "aspect_ratio": 0.667,
           "height": 3000,
           "iso_3166_1": null,
           "iso_639_1": null,
@@ -2962,7 +3115,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:02"
+    "última_actualización": "2026-11-10 22:12:31"
   },
   {
     "id": 1176962,
@@ -3111,7 +3264,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:02"
+    "última_actualización": "2026-11-10 22:12:31"
   },
   {
     "id": 947493,
@@ -3270,15 +3423,15 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:03"
+    "última_actualización": "2026-11-10 22:12:32"
   },
   {
     "id": 1437939,
     "tmdb_id": 1437939,
     "título": "Ooh la la! ¿Quién lo hubiera pensado?",
     "título_original": "Cocorico 2",
-    "sinopsis": "",
-    "poster_path": "/3eZwrYd90t5kHLHfS0zxPWH1tWl.jpg",
+    "sinopsis": "Tras descubrir la verdad sobre sus orígenes gracias a unas pruebas de ADN con resultados bastante sorprendentes, las familias Bouvier-Sauvage y Martin deciden hacer las paces para poder planear la boda de sus hijos. Pero no contaban con un acontecimiento inesperado: un primo de Frédéric aparece gracias a las pruebas, revelando que los resultados eran erróneos. ¡Las dos familias están a punto de descubrir que sus antepasados les tienen reservadas más sorpresas!",
+    "poster_path": "/fVztyvgDbR8cjlend1dUCNM4Ygx.jpg",
     "poster_local": "imagenes_estrenos/Ooh_la_la___Qui_n_lo_hubiera_pensado__3eZwrYd90t5kHLHfS0zxPWH1tWl.jpg",
     "backdrop_path": "/4dN9kXTNqvssrbF81viFoPnW2pt.jpg",
     "backdrop_local": "imagenes_estrenos/Ooh_la_la___Qui_n_lo_hubiera_pensado__backdrop_4dN9kXTNqvssrbF81viFoPnW2pt.jpg",
@@ -3330,7 +3483,7 @@
       }
     ],
     "popularidad": 1.732,
-    "puntuación": 5.32,
+    "puntuación": 5.3,
     "votos": 64,
     "adulto": false,
     "video": false,
@@ -3408,10 +3561,20 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 2000
+        },
+        {
+          "aspect_ratio": 0.695,
+          "height": 1024,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/fVztyvgDbR8cjlend1dUCNM4Ygx.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 712
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:04"
+    "última_actualización": "2026-11-10 22:12:33"
   },
   {
     "id": 1578646,
@@ -3502,7 +3665,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:05"
+    "última_actualización": "2026-11-10 22:12:33"
   },
   {
     "id": 1736705,
@@ -3606,7 +3769,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:07"
+    "última_actualización": "2026-11-10 22:12:36"
   },
   {
     "id": 1658070,
@@ -3683,7 +3846,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:08"
+    "última_actualización": "2026-11-10 22:12:37"
   },
   {
     "id": 1732872,
@@ -3727,7 +3890,108 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:09"
+    "última_actualización": "2026-11-10 22:12:38"
+  },
+  {
+    "id": 1800199,
+    "tmdb_id": 1800199,
+    "título": "Hechos probados",
+    "título_original": "Hechos probados",
+    "sinopsis": "Delia e Inés son dos hermanas unidas por una vocación y enfrentadas desde hace años por heridas familiares y conflictos del pasado.  Ambas son abogadas, pero tienen visiones radicalmente opuestas sobre el derecho y la vida. Cuando sus vidas y sus carreras saltan por los aires, ambas se verán obligadas a trabajar juntas en la legaltech LTS para derrotar en los tribunales al bufete de Prado, el abogado con el que las dos tienen cuentas pendientes.  Mientras colaboran, las hermanas, aprenderán a perdonarse, a lidiar con una hija rebelde, un matrimonio que se deshace y un padre con el que no se entienden.",
+    "poster_path": "/m0TnZoSNeeTszgx5Ilybake6oes.jpg",
+    "poster_local": "imagenes_estrenos/Hechos_probados_m0TnZoSNeeTszgx5Ilybake6oes.jpg",
+    "backdrop_path": "/2RVknYPUPEZkymOPhR7v1uWwSbk.jpg",
+    "backdrop_local": "imagenes_estrenos/Hechos_probados_backdrop_2RVknYPUPEZkymOPhR7v1uWwSbk.jpg",
+    "fecha_estreno": "2026-11-20T00:00:00.000Z",
+    "duración": "109 min",
+    "director": "Luis Arranz",
+    "directores": [
+      {
+        "name": "Luis Arranz",
+        "id": 1850509
+      }
+    ],
+    "actores": [
+      {
+        "name": "Amaia Salamanca",
+        "id": 125854,
+        "character": "Delia",
+        "profile_path": "/c2boE9vHTtD3weXG6iWsLJ5mMjU.jpg"
+      },
+      {
+        "name": "Marta Hazas",
+        "id": 970027,
+        "character": "Inés",
+        "profile_path": "/1dbeTFRCbWBt70dIGjYHKVLnpaG.jpg"
+      },
+      {
+        "name": "Ada Molina",
+        "id": 5803730,
+        "character": "Hija Rebelde",
+        "profile_path": "/1mOqcsi7ODJU84ZlOhK6w185uKi.jpg"
+      },
+      {
+        "name": "Javier Veiga",
+        "id": 92661,
+        "character": "Marido",
+        "profile_path": "/aIMkBLsewB2oUrfkywsaByA28Xg.jpg"
+      },
+      {
+        "name": "Elena Furiase",
+        "id": 1180371,
+        "character": "",
+        "profile_path": "/hZQPwNyKlbs6ArLgGNzDKz2PeV5.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.0895,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/2RVknYPUPEZkymOPhR7v1uWwSbk.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 954,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/u15p0wVNXs33e6lG9i4qr9yAZNx.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1696
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/m0TnZoSNeeTszgx5Ilybake6oes.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-11-10 22:12:41"
   },
   {
     "id": 1641467,
@@ -3794,7 +4058,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:12"
+    "última_actualización": "2026-11-10 22:12:41"
   },
   {
     "id": 1802868,
@@ -3929,7 +4193,45 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:09"
+    "última_actualización": "2026-11-10 22:12:37"
+  },
+  {
+    "id": 1819740,
+    "tmdb_id": 1819740,
+    "título": "Neska bat desagertu da",
+    "título_original": "Neska bat desagertu da",
+    "sinopsis": "",
+    "poster_path": "/bLGQnV92cX9IgNMJdJtLxqcWJWe.jpg",
+    "poster_local": "imagenes_estrenos/Neska_bat_desagertu_da_bLGQnV92cX9IgNMJdJtLxqcWJWe.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-11-22T00:00:00.000Z",
+    "duración": "20 min",
+    "director": "Mikele Landa Eiguren",
+    "directores": [
+      {
+        "name": "Mikele Landa Eiguren",
+        "id": 3674421
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.2202,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-11-10 22:12:39"
   },
   {
     "id": 1819751,
@@ -3982,45 +4284,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:11"
-  },
-  {
-    "id": 1819740,
-    "tmdb_id": 1819740,
-    "título": "Neska bat desagertu da",
-    "título_original": "Neska bat desagertu da",
-    "sinopsis": "",
-    "poster_path": "/bLGQnV92cX9IgNMJdJtLxqcWJWe.jpg",
-    "poster_local": "imagenes_estrenos/Neska_bat_desagertu_da_bLGQnV92cX9IgNMJdJtLxqcWJWe.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-11-22T00:00:00.000Z",
-    "duración": "20 min",
-    "director": "Mikele Landa Eiguren",
-    "directores": [
-      {
-        "name": "Mikele Landa Eiguren",
-        "id": 3674421
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.2202,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2026-11-10 10:13:11"
+    "última_actualización": "2026-11-10 22:12:40"
   },
   {
     "id": 1821937,
@@ -4034,8 +4298,29 @@
     "backdrop_local": "imagenes_estrenos/M_s_all__del_m_s_all__backdrop_aKKSTUQ6O8hRSgrZa90YdGR9hiH.jpg",
     "fecha_estreno": "2026-11-23T00:00:00.000Z",
     "duración": "3 min",
-    "director": "",
-    "directores": [],
+    "director": "Nagore Pérez, Ethan Pastrana, David Silva, Josu Petite, Darío Candelera",
+    "directores": [
+      {
+        "name": "Nagore Pérez",
+        "id": 5972002
+      },
+      {
+        "name": "Ethan Pastrana",
+        "id": 4557172
+      },
+      {
+        "name": "David Silva",
+        "id": 6620671
+      },
+      {
+        "name": "Josu Petite",
+        "id": 4433051
+      },
+      {
+        "name": "Darío Candelera",
+        "id": 6620708
+      }
+    ],
     "actores": [
       {
         "name": "David Silva",
@@ -4108,7 +4393,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:11"
+    "última_actualización": "2026-11-10 22:12:39"
   },
   {
     "id": 1819753,
@@ -4177,7 +4462,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-11-10 10:13:11"
+    "última_actualización": "2026-11-10 22:12:40"
   },
   {
     "id": 1714083,
@@ -4240,7 +4525,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-11-10 10:13:10"
+    "última_actualización": "2026-11-10 22:12:39"
   },
   {
     "id": 1457866,
@@ -4295,12 +4580,12 @@
     ],
     "géneros": [
       {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
         "id": 35,
         "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
       },
       {
         "id": 53,
@@ -4379,7 +4664,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:01"
+    "última_actualización": "2026-11-10 22:12:31"
   },
   {
     "id": 1538497,
@@ -4570,7 +4855,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:00"
+    "última_actualización": "2026-11-10 22:12:30"
   },
   {
     "id": 1400336,
@@ -4580,7 +4865,7 @@
     "sinopsis": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él.",
     "poster_path": "/iU2XxFhMxC5Z2gOPASkRmtuDjJQ.jpg",
     "poster_local": "imagenes_estrenos/Ahora_los_suegros_son_ellos_iU2XxFhMxC5Z2gOPASkRmtuDjJQ.jpg",
-    "backdrop_path": "/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
+    "backdrop_path": "/AttXyiHvoOlqYXmAgO8EmgSt5ZC.jpg",
     "backdrop_local": "imagenes_estrenos/Ahora_los_suegros_son_ellos_backdrop_nubnNXuMArUhiDW1nUevGsG65x9.jpg",
     "fecha_estreno": "2026-11-27T00:00:00.000Z",
     "duración": "105 min",
@@ -4735,7 +5020,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:01"
+    "última_actualización": "2026-11-10 22:12:30"
   },
   {
     "id": 1472813,
@@ -4890,7 +5175,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:03"
+    "última_actualización": "2026-11-10 22:12:32"
   },
   {
     "id": 1378791,
@@ -4974,7 +5259,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-11-10 10:13:04"
+    "última_actualización": "2026-11-10 22:12:33"
   },
   {
     "id": 1387981,
@@ -5135,7 +5420,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:05"
+    "última_actualización": "2026-11-10 22:12:34"
   },
   {
     "id": 1556887,
@@ -5236,7 +5521,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:05"
+    "última_actualización": "2026-11-10 22:12:35"
   },
   {
     "id": 1740884,
@@ -5305,7 +5590,85 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-11-10 10:13:06"
+    "última_actualización": "2026-11-10 22:12:35"
+  },
+  {
+    "id": 1770715,
+    "tmdb_id": 1770715,
+    "título": "Forqué. El oficio de hacer cine",
+    "título_original": "Forqué. El oficio de hacer cine",
+    "sinopsis": "Un recorrido por la trayectoria de José María Forqué a través de su propia voz y de los recuerdos de actores y cineastas que trabajaron con él. El documental revisita sus películas, su aportación a la comedia y la televisión y el oficio de un director cuya figura quedó a menudo eclipsada por otros nombres del cine español.",
+    "poster_path": "/xaJ67tGcPNzjrHugxWc11cqz7Rf.jpg",
+    "poster_local": "imagenes_estrenos/Forqu___El_oficio_de_hacer_cine_xaJ67tGcPNzjrHugxWc11cqz7Rf.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-11-27T00:00:00.000Z",
+    "duración": "103 min",
+    "director": "Gaizka Urresti, Rafael Maluenda",
+    "directores": [
+      {
+        "name": "Gaizka Urresti",
+        "id": 1115312
+      },
+      {
+        "name": "Rafael Maluenda",
+        "id": 3764003
+      }
+    ],
+    "actores": [
+      {
+        "name": "Vicky Calavia",
+        "id": 2683862,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Carlos Areces",
+        "id": 114461,
+        "character": "",
+        "profile_path": "/qoJz3KqgNvXUWD52b0SWX0oDplG.jpg"
+      },
+      {
+        "name": "Luisa Gavasa",
+        "id": 1171836,
+        "character": "",
+        "profile_path": "/wpw0QjiM1JhTVA7YlgBXOhQ30q6.jpg"
+      },
+      {
+        "name": "Julia Gutiérrez Caba",
+        "id": 236408,
+        "character": "",
+        "profile_path": "/8NI1BV6qSJq142WZuad6c5p94RL.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.6606,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/xaJ67tGcPNzjrHugxWc11cqz7Rf.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        }
+      ]
+    },
+    "última_actualización": "2026-11-10 22:12:36"
   },
   {
     "id": 1550356,
@@ -5395,85 +5758,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:06"
-  },
-  {
-    "id": 1770715,
-    "tmdb_id": 1770715,
-    "título": "Forqué. El oficio de hacer cine",
-    "título_original": "Forqué. El oficio de hacer cine",
-    "sinopsis": "Un recorrido por la trayectoria de José María Forqué a través de su propia voz y de los recuerdos de actores y cineastas que trabajaron con él. El documental revisita sus películas, su aportación a la comedia y la televisión y el oficio de un director cuya figura quedó a menudo eclipsada por otros nombres del cine español.",
-    "poster_path": "/xaJ67tGcPNzjrHugxWc11cqz7Rf.jpg",
-    "poster_local": "imagenes_estrenos/Forqu___El_oficio_de_hacer_cine_xaJ67tGcPNzjrHugxWc11cqz7Rf.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-11-27T00:00:00.000Z",
-    "duración": "103 min",
-    "director": "Gaizka Urresti, Rafael Maluenda",
-    "directores": [
-      {
-        "name": "Gaizka Urresti",
-        "id": 1115312
-      },
-      {
-        "name": "Rafael Maluenda",
-        "id": 3764003
-      }
-    ],
-    "actores": [
-      {
-        "name": "Vicky Calavia",
-        "id": 2683862,
-        "character": "",
-        "profile_path": null
-      },
-      {
-        "name": "Carlos Areces",
-        "id": 114461,
-        "character": "",
-        "profile_path": "/qoJz3KqgNvXUWD52b0SWX0oDplG.jpg"
-      },
-      {
-        "name": "Luisa Gavasa",
-        "id": 1171836,
-        "character": "",
-        "profile_path": "/wpw0QjiM1JhTVA7YlgBXOhQ30q6.jpg"
-      },
-      {
-        "name": "Julia Gutiérrez Caba",
-        "id": 236408,
-        "character": "",
-        "profile_path": "/8NI1BV6qSJq142WZuad6c5p94RL.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 99,
-        "name": "Documental"
-      }
-    ],
-    "popularidad": 0.6606,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.667,
-          "height": 1500,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/xaJ67tGcPNzjrHugxWc11cqz7Rf.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1000
-        }
-      ]
-    },
-    "última_actualización": "2026-11-10 10:13:07"
+    "última_actualización": "2026-11-10 22:12:36"
   },
   {
     "id": 1715640,
@@ -5535,7 +5820,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:08"
+    "última_actualización": "2026-11-10 22:12:37"
   },
   {
     "id": 1567783,
@@ -5626,6 +5911,6 @@
         }
       ]
     },
-    "última_actualización": "2026-11-10 10:13:09"
+    "última_actualización": "2026-11-10 22:12:37"
   }
 ]
