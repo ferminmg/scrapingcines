@@ -1,42 +1,27 @@
 [
     {
-        "título": "Los miserables",
-        "cartel": "imagenes_peliculas/tmdb_jwrmui6rgjawkxheqblsnvit6gg.jpg",
+        "título": "Queen Kelly",
+        "cartel": "imagenes_peliculas/tmdb_ynofyumvtavn4rbe0hhut5d2qcp.jpg",
         "horarios": [
             {
-                "fecha": "2026-11-11",
-                "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103323&eventCode=114126"
+                "fecha": "2026-11-12",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102605&eventCode=114652"
             }
         ],
         "cine": "Golem Baiona",
-        "director": "Fred Cavayé",
-        "duración": "178 min",
-        "actores": "Vincent Lindon, Tahar Rahim, Camille Cottin, Benjamin Lavernhe, Noémie Merlant",
-        "sinopsis": "Tras 19 años en prisión por robar una hogaza de pan, Jean Valjean busca redención reinventándose como un respetado dignatario bajo una nueva identidad. Promete a Fantine, una trabajadora de fábrica moribunda, rescatar y proteger a su hija, Cosette, quien está siendo explotada y maltratada por la engañosa familia Thénardier. Mientras Valjean cría a Cosette como si fuera su propia hija, es perseguido sin descanso por el inspector Javert. En medio de la agitación social que sacude Francia, los destinos de Valjean, Cosette, su enamorado Marius y Javert se entrelazan en un París turbulento y revolucionario. A través de luchas, sacrificios y un profundo anhelo de justicia, Valjean se esfuerza por culminar su camino de redención y darle a Cosette un futuro de amor y libertad.",
-        "año": "2026",
-        "tmdb_id": 1241803,
-        "nota": null
+        "director": "Erich von Stroheim",
+        "duración": "101 min",
+        "actores": "Gloria Swanson, Walter Byron, Seena Owen, Sylvia Ashton, Wilson Benge",
+        "sinopsis": "En Kronberg, capital de un antiguo reino centroeuropeo, la cruel y caprichosa reina Regina V castiga a su primo y prometido, el príncipe Wolfram, a ir de maniobras bajo el sol durante todo el día por su escandalosa escapada de la noche anterior. Por el camino de Kambach, el príncipe y su escuadrón se cruzan con un grupo de monjas y de jóvenes novicias de un convento cercano. Cuando las muchachas se inclinan ante el príncipe, los leotardos de una de ellas, Patricia Kelly, se deslizan hasta el suelo. El príncipe y su escuadron comienzan a reirse, y la muchacha, indignada, se los arroja a la cara. Enamorado locamente de ella desde ese momento, el príncipe decide raptarla conduciéndola a sus habitaciones en palacio, a pesar de que la Reina ya ha anunciado su boda para el día siguiente. (FILMAFFINITY)",
+        "año": "1929",
+        "tmdb_id": 42638,
+        "nota": "KLASIKOAK 2026"
     },
     {
         "título": "Sacamantecas",
         "cartel": "imagenes_peliculas/tmdb_7338fnwdzx9onpodzijh1oliugv.jpg",
         "horarios": [
-            {
-                "fecha": "2026-11-11",
-                "hora": "17:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103329&eventCode=116768"
-            },
-            {
-                "fecha": "2026-11-11",
-                "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103330&eventCode=116768"
-            },
-            {
-                "fecha": "2026-11-11",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103318&eventCode=116768"
-            },
             {
                 "fecha": "2026-11-12",
                 "hora": "17:00",
@@ -157,11 +142,6 @@
         "cartel": "imagenes_peliculas/1791994746.jpg",
         "horarios": [
             {
-                "fecha": "2026-11-11",
-                "hora": "21:40",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103328&eventCode=115746"
-            },
-            {
                 "fecha": "2026-11-12",
                 "hora": "21:40",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103340&eventCode=115746"
@@ -175,25 +155,6 @@
         "año": null,
         "tmdb_id": null,
         "nota": null
-    },
-    {
-        "título": "Queen Kelly",
-        "cartel": "imagenes_peliculas/tmdb_ynofyumvtavn4rbe0hhut5d2qcp.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-11-12",
-                "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102605&eventCode=114652"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "Erich von Stroheim",
-        "duración": "101 min",
-        "actores": "Gloria Swanson, Walter Byron, Seena Owen, Sylvia Ashton, Wilson Benge",
-        "sinopsis": "En Kronberg, capital de un antiguo reino centroeuropeo, la cruel y caprichosa reina Regina V castiga a su primo y prometido, el príncipe Wolfram, a ir de maniobras bajo el sol durante todo el día por su escandalosa escapada de la noche anterior. Por el camino de Kambach, el príncipe y su escuadrón se cruzan con un grupo de monjas y de jóvenes novicias de un convento cercano. Cuando las muchachas se inclinan ante el príncipe, los leotardos de una de ellas, Patricia Kelly, se deslizan hasta el suelo. El príncipe y su escuadron comienzan a reirse, y la muchacha, indignada, se los arroja a la cara. Enamorado locamente de ella desde ese momento, el príncipe decide raptarla conduciéndola a sus habitaciones en palacio, a pesar de que la Reina ya ha anunciado su boda para el día siguiente. (FILMAFFINITY)",
-        "año": "1929",
-        "tmdb_id": 42638,
-        "nota": "KLASIKOAK 2026"
     },
     {
         "título": "Scrooge y los fantasmas de la Navidad",
@@ -355,11 +316,6 @@
         "cartel": "imagenes_peliculas/tmdb_ku7zvdj7yuzn71cg6yvcoc3rxjm.jpg",
         "horarios": [
             {
-                "fecha": "2026-11-11",
-                "hora": "19:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93408&eventCode=115841"
-            },
-            {
                 "fecha": "2026-11-12",
                 "hora": "19:15",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93423&eventCode=115841"
@@ -378,11 +334,6 @@
         "título": "Wicker",
         "cartel": "imagenes_peliculas/tmdb_ewpz6uvkrbklqrlri1r9ntzqlzn.jpg",
         "horarios": [
-            {
-                "fecha": "2026-11-11",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93403&eventCode=115777"
-            },
             {
                 "fecha": "2026-11-12",
                 "hora": "21:30",
@@ -403,11 +354,6 @@
         "cartel": "imagenes_peliculas/tmdb_21jnfycarirkms9azhttxizkbij.jpg",
         "horarios": [
             {
-                "fecha": "2026-11-11",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93400&eventCode=111923"
-            },
-            {
                 "fecha": "2026-11-12",
                 "hora": "21:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93415&eventCode=111923"
@@ -426,16 +372,6 @@
         "título": "Naza",
         "cartel": "imagenes_peliculas/tmdb_urm4mncgiscxowqdnwexsutvkag.jpg",
         "horarios": [
-            {
-                "fecha": "2026-11-11",
-                "hora": "17:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93404&eventCode=115052"
-            },
-            {
-                "fecha": "2026-11-11",
-                "hora": "21:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93406&eventCode=115052"
-            },
             {
                 "fecha": "2026-11-12",
                 "hora": "17:15",
