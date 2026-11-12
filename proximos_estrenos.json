@@ -88,7 +88,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:01"
+    "última_actualización": "2026-11-12 22:11:58"
   },
   {
     "id": 1543265,
@@ -195,7 +195,98 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:03"
+    "última_actualización": "2026-11-12 22:11:59"
+  },
+  {
+    "id": 1543320,
+    "tmdb_id": 1543320,
+    "título": "El lago silente",
+    "título_original": "El lago silente",
+    "sinopsis": "Un grupo de viajeros intenta cruzar un lago para sobrevivir, pero para ello deben enfrentarse a un ermitaño que vive en una cabaña, el cual es el único que puede ayudarlos.",
+    "poster_path": "/ntaBRPgDrrqhWakyDqgEdgmVHBj.jpg",
+    "poster_local": "imagenes_estrenos/El_lago_silente_ntaBRPgDrrqhWakyDqgEdgmVHBj.jpg",
+    "backdrop_path": "/b49Xvhd9lSH1nnxoLEg7hzhiAXE.jpg",
+    "backdrop_local": "imagenes_estrenos/El_lago_silente_backdrop_b49Xvhd9lSH1nnxoLEg7hzhiAXE.jpg",
+    "fecha_estreno": "2025-09-16",
+    "duración": "15 min",
+    "director": "Varo López",
+    "directores": [
+      {
+        "name": "Varo López",
+        "id": 4814525
+      }
+    ],
+    "actores": [
+      {
+        "name": "Lorena Arroyo Suárez",
+        "id": 5677766,
+        "character": "Joven",
+        "profile_path": "/xdyczgJpe4WeExi23jhv2oeVofJ.jpg"
+      },
+      {
+        "name": "Raúl Sáez",
+        "id": 2662249,
+        "character": "Cura",
+        "profile_path": "/9vRZ0nLkOZwn11mbsACxkP6xg0Z.jpg"
+      },
+      {
+        "name": "María Dopico Villarino",
+        "id": 5563676,
+        "character": "Mujer",
+        "profile_path": "/y0manYZdC1GbKRjJoC98UlUaZdQ.jpg"
+      },
+      {
+        "name": "Albert Ponseti",
+        "id": 5677772,
+        "character": "Marido",
+        "profile_path": "/Acsa2iGpo20WHhtODiIA29OTTZt.jpg"
+      },
+      {
+        "name": "Juan Barreiro",
+        "id": 4640088,
+        "character": "Hombre",
+        "profile_path": "/6eOPox1dXVmSzRCRmocri5vsXB5.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 0.3167,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/b49Xvhd9lSH1nnxoLEg7hzhiAXE.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.707,
+          "height": 2048,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ntaBRPgDrrqhWakyDqgEdgmVHBj.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1447
+        }
+      ]
+    },
+    "última_actualización": "2026-11-12 22:12:00"
   },
   {
     "id": 1537256,
@@ -330,98 +421,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:05"
-  },
-  {
-    "id": 1543320,
-    "tmdb_id": 1543320,
-    "título": "El lago silente",
-    "título_original": "El lago silente",
-    "sinopsis": "Un grupo de viajeros intenta cruzar un lago para sobrevivir, pero para ello deben enfrentarse a un ermitaño que vive en una cabaña, el cual es el único que puede ayudarlos.",
-    "poster_path": "/ntaBRPgDrrqhWakyDqgEdgmVHBj.jpg",
-    "poster_local": "imagenes_estrenos/El_lago_silente_ntaBRPgDrrqhWakyDqgEdgmVHBj.jpg",
-    "backdrop_path": "/b49Xvhd9lSH1nnxoLEg7hzhiAXE.jpg",
-    "backdrop_local": "imagenes_estrenos/El_lago_silente_backdrop_b49Xvhd9lSH1nnxoLEg7hzhiAXE.jpg",
-    "fecha_estreno": "2025-09-16",
-    "duración": "15 min",
-    "director": "Varo López",
-    "directores": [
-      {
-        "name": "Varo López",
-        "id": 4814525
-      }
-    ],
-    "actores": [
-      {
-        "name": "Lorena Arroyo Suárez",
-        "id": 5677766,
-        "character": "Joven",
-        "profile_path": "/xdyczgJpe4WeExi23jhv2oeVofJ.jpg"
-      },
-      {
-        "name": "Raúl Sáez",
-        "id": 2662249,
-        "character": "Cura",
-        "profile_path": "/9vRZ0nLkOZwn11mbsACxkP6xg0Z.jpg"
-      },
-      {
-        "name": "María Dopico Villarino",
-        "id": 5563676,
-        "character": "Mujer",
-        "profile_path": "/y0manYZdC1GbKRjJoC98UlUaZdQ.jpg"
-      },
-      {
-        "name": "Albert Ponseti",
-        "id": 5677772,
-        "character": "Marido",
-        "profile_path": "/Acsa2iGpo20WHhtODiIA29OTTZt.jpg"
-      },
-      {
-        "name": "Juan Barreiro",
-        "id": 4640088,
-        "character": "Hombre",
-        "profile_path": "/6eOPox1dXVmSzRCRmocri5vsXB5.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 53,
-        "name": "Suspense"
-      }
-    ],
-    "popularidad": 0.3167,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2025",
-    "imágenes": {
-      "backdrops": [
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/b49Xvhd9lSH1nnxoLEg7hzhiAXE.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 3840
-        }
-      ],
-      "posters": [
-        {
-          "aspect_ratio": 0.707,
-          "height": 2048,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/ntaBRPgDrrqhWakyDqgEdgmVHBj.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1447
-        }
-      ]
-    },
-    "última_actualización": "2026-11-12 10:13:05"
+    "última_actualización": "2026-11-12 22:12:00"
   },
   {
     "id": 822653,
@@ -498,7 +498,7 @@
     ],
     "popularidad": 50.8107,
     "puntuación": 8.0,
-    "votos": 5,
+    "votos": 6,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -608,7 +608,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:12:57"
+    "última_actualización": "2026-11-12 22:11:56"
   },
   {
     "id": 891621,
@@ -2493,7 +2493,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:12:57"
+    "última_actualización": "2026-11-12 22:11:56"
   },
   {
     "id": 1300968,
@@ -2672,7 +2672,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:12:58"
+    "última_actualización": "2026-11-12 22:11:57"
   },
   {
     "id": 1240889,
@@ -2851,7 +2851,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:12:58"
+    "última_actualización": "2026-11-12 22:11:57"
   },
   {
     "id": 1308767,
@@ -3010,7 +3010,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:12:59"
+    "última_actualización": "2026-11-12 22:11:58"
   },
   {
     "id": 1176962,
@@ -3159,7 +3159,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:00"
+    "última_actualización": "2026-11-12 22:11:58"
   },
   {
     "id": 1437939,
@@ -3310,7 +3310,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:00"
+    "última_actualización": "2026-11-12 22:11:58"
   },
   {
     "id": 947493,
@@ -3378,8 +3378,8 @@
       }
     ],
     "popularidad": 2.3687,
-    "puntuación": 8.1,
-    "votos": 47,
+    "puntuación": 8.052,
+    "votos": 48,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -3469,7 +3469,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:01"
+    "última_actualización": "2026-11-12 22:11:58"
   },
   {
     "id": 1578646,
@@ -3560,7 +3560,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:02"
+    "última_actualización": "2026-11-12 22:11:58"
   },
   {
     "id": 1736705,
@@ -3591,25 +3591,25 @@
       {
         "name": "Adam Jezierski",
         "id": 1071955,
-        "character": "",
+        "character": "Alberto",
         "profile_path": "/ek6ShDVDB0vJycxYxwI6VjumLrS.jpg"
       },
       {
         "name": "Francesco Carril",
         "id": 1442194,
-        "character": "",
+        "character": "Damián",
         "profile_path": "/x1S2YalAc65MMv88fJenTJ0X2ma.jpg"
       },
       {
         "name": "Meritxell Calvo",
         "id": 1573069,
-        "character": "",
+        "character": "Clara",
         "profile_path": "/y05TVrcbLSwiQSNsp3hyTeWN2AA.jpg"
       },
       {
         "name": "Cristina Plazas",
         "id": 234620,
-        "character": "",
+        "character": "Diana",
         "profile_path": "/bAX2sTh4hMJiqiNDZraAqUFtaOu.jpg"
       }
     ],
@@ -3664,7 +3664,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:03"
+    "última_actualización": "2026-11-12 22:11:59"
   },
   {
     "id": 1658070,
@@ -3741,7 +3741,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:05"
+    "última_actualización": "2026-11-12 22:11:59"
   },
   {
     "id": 1732872,
@@ -3785,7 +3785,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:06"
+    "última_actualización": "2026-11-12 22:11:59"
   },
   {
     "id": 1800199,
@@ -3886,7 +3886,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:07"
+    "última_actualización": "2026-11-12 22:12:00"
   },
   {
     "id": 1641467,
@@ -3953,7 +3953,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:07"
+    "última_actualización": "2026-11-12 22:12:01"
   },
   {
     "id": 1802868,
@@ -4088,7 +4088,45 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:05"
+    "última_actualización": "2026-11-12 22:12:00"
+  },
+  {
+    "id": 1819740,
+    "tmdb_id": 1819740,
+    "título": "Neska bat desagertu da",
+    "título_original": "Neska bat desagertu da",
+    "sinopsis": "",
+    "poster_path": "/bLGQnV92cX9IgNMJdJtLxqcWJWe.jpg",
+    "poster_local": "imagenes_estrenos/Neska_bat_desagertu_da_bLGQnV92cX9IgNMJdJtLxqcWJWe.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-11-22T00:00:00.000Z",
+    "duración": "20 min",
+    "director": "Mikele Landa Eiguren",
+    "directores": [
+      {
+        "name": "Mikele Landa Eiguren",
+        "id": 3674421
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.2314,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": []
+    },
+    "última_actualización": "2026-11-12 22:12:00"
   },
   {
     "id": 1819751,
@@ -4141,45 +4179,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:06"
-  },
-  {
-    "id": 1819740,
-    "tmdb_id": 1819740,
-    "título": "Neska bat desagertu da",
-    "título_original": "Neska bat desagertu da",
-    "sinopsis": "",
-    "poster_path": "/bLGQnV92cX9IgNMJdJtLxqcWJWe.jpg",
-    "poster_local": "imagenes_estrenos/Neska_bat_desagertu_da_bLGQnV92cX9IgNMJdJtLxqcWJWe.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-11-22T00:00:00.000Z",
-    "duración": "20 min",
-    "director": "Mikele Landa Eiguren",
-    "directores": [
-      {
-        "name": "Mikele Landa Eiguren",
-        "id": 3674421
-      }
-    ],
-    "actores": [],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.2314,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": []
-    },
-    "última_actualización": "2026-11-12 10:13:07"
+    "última_actualización": "2026-11-12 22:12:01"
   },
   {
     "id": 1819753,
@@ -4248,7 +4248,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-11-12 10:13:06"
+    "última_actualización": "2026-11-12 22:12:00"
   },
   {
     "id": 1821937,
@@ -4357,7 +4357,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:07"
+    "última_actualización": "2026-11-12 22:12:01"
   },
   {
     "id": 1714083,
@@ -4420,7 +4420,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-11-12 10:13:06"
+    "última_actualización": "2026-11-12 22:12:00"
   },
   {
     "id": 1457866,
@@ -4428,7 +4428,7 @@
     "título": "Las nuevas desventuras de Cliff Booth",
     "título_original": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
     "sinopsis": "Ocho años después de los eventos de \"Érase una vez en... Hollywood\", Cliff Booth regresa a un Los Ángeles cambiante. Ahora trabajando como \"fixer\" en las sombras del sistema de estudios de Hollywood, Cliff se verá envuelto en una peligrosa red de secretos, crímenes y traiciones que pondrán a prueba todo lo que conoce sobre lealtad y supervivencia.",
-    "poster_path": "/yQggulnRAvssNRGpxOMf8CfVim6.jpg",
+    "poster_path": "/thX8Rs7nfgmPHfCgjoFuRovy49l.jpg",
     "poster_local": "imagenes_estrenos/Las_nuevas_desventuras_de_Cliff_Booth_5jiz8gmp2PtPsRxAR1Cm05UzqnL.jpg",
     "backdrop_path": "/qqPspJFy0XrEoVTKZdp0Em7kej6.jpg",
     "backdrop_local": "imagenes_estrenos/Las_nuevas_desventuras_de_Cliff_Booth_backdrop_aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
@@ -4559,7 +4559,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:12:59"
+    "última_actualización": "2026-11-12 22:11:57"
   },
   {
     "id": 1538497,
@@ -4750,7 +4750,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:12:58"
+    "última_actualización": "2026-11-12 22:11:57"
   },
   {
     "id": 1400336,
@@ -4915,7 +4915,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:12:59"
+    "última_actualización": "2026-11-12 22:11:57"
   },
   {
     "id": 1472813,
@@ -5070,7 +5070,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:00"
+    "última_actualización": "2026-11-12 22:11:58"
   },
   {
     "id": 1378791,
@@ -5154,7 +5154,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-11-12 10:13:01"
+    "última_actualización": "2026-11-12 22:11:58"
   },
   {
     "id": 1387981,
@@ -5315,7 +5315,85 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:01"
+    "última_actualización": "2026-11-12 22:11:58"
+  },
+  {
+    "id": 1770715,
+    "tmdb_id": 1770715,
+    "título": "Forqué. El oficio de hacer cine",
+    "título_original": "Forqué. El oficio de hacer cine",
+    "sinopsis": "Un recorrido por la trayectoria de José María Forqué a través de su propia voz y de los recuerdos de actores y cineastas que trabajaron con él. El documental revisita sus películas, su aportación a la comedia y la televisión y el oficio de un director cuya figura quedó a menudo eclipsada por otros nombres del cine español.",
+    "poster_path": "/xaJ67tGcPNzjrHugxWc11cqz7Rf.jpg",
+    "poster_local": "imagenes_estrenos/Forqu___El_oficio_de_hacer_cine_xaJ67tGcPNzjrHugxWc11cqz7Rf.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-11-27T00:00:00.000Z",
+    "duración": "103 min",
+    "director": "Gaizka Urresti, Rafael Maluenda",
+    "directores": [
+      {
+        "name": "Gaizka Urresti",
+        "id": 1115312
+      },
+      {
+        "name": "Rafael Maluenda",
+        "id": 3764003
+      }
+    ],
+    "actores": [
+      {
+        "name": "Vicky Calavia",
+        "id": 2683862,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Carlos Areces",
+        "id": 114461,
+        "character": "",
+        "profile_path": "/qoJz3KqgNvXUWD52b0SWX0oDplG.jpg"
+      },
+      {
+        "name": "Luisa Gavasa",
+        "id": 1171836,
+        "character": "",
+        "profile_path": "/wpw0QjiM1JhTVA7YlgBXOhQ30q6.jpg"
+      },
+      {
+        "name": "Julia Gutiérrez Caba",
+        "id": 236408,
+        "character": "",
+        "profile_path": "/8NI1BV6qSJq142WZuad6c5p94RL.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.8275,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/xaJ67tGcPNzjrHugxWc11cqz7Rf.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        }
+      ]
+    },
+    "última_actualización": "2026-11-12 22:11:59"
   },
   {
     "id": 1550356,
@@ -5405,7 +5483,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:02"
+    "última_actualización": "2026-11-12 22:11:59"
   },
   {
     "id": 1740884,
@@ -5474,7 +5552,7 @@
       "backdrops": [],
       "posters": []
     },
-    "última_actualización": "2026-11-12 10:13:02"
+    "última_actualización": "2026-11-12 22:11:59"
   },
   {
     "id": 1556887,
@@ -5575,64 +5653,48 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:03"
+    "última_actualización": "2026-11-12 22:11:59"
   },
   {
-    "id": 1770715,
-    "tmdb_id": 1770715,
-    "título": "Forqué. El oficio de hacer cine",
-    "título_original": "Forqué. El oficio de hacer cine",
-    "sinopsis": "Un recorrido por la trayectoria de José María Forqué a través de su propia voz y de los recuerdos de actores y cineastas que trabajaron con él. El documental revisita sus películas, su aportación a la comedia y la televisión y el oficio de un director cuya figura quedó a menudo eclipsada por otros nombres del cine español.",
-    "poster_path": "/xaJ67tGcPNzjrHugxWc11cqz7Rf.jpg",
-    "poster_local": "imagenes_estrenos/Forqu___El_oficio_de_hacer_cine_xaJ67tGcPNzjrHugxWc11cqz7Rf.jpg",
+    "id": 1715640,
+    "tmdb_id": 1715640,
+    "título": "El pezón de Elena",
+    "título_original": "El pezón de Elena",
+    "sinopsis": "",
+    "poster_path": "/pCFW1aZqxSxbeqoH3rzZvGGi6cR.jpg",
+    "poster_local": "imagenes_estrenos/El_pez_n_de_Elena_pCFW1aZqxSxbeqoH3rzZvGGi6cR.jpg",
     "backdrop_path": null,
     "backdrop_local": "",
     "fecha_estreno": "2026-11-27T00:00:00.000Z",
-    "duración": "103 min",
-    "director": "Gaizka Urresti, Rafael Maluenda",
+    "duración": "80 min",
+    "director": "Eteban Magaz",
     "directores": [
       {
-        "name": "Gaizka Urresti",
-        "id": 1115312
-      },
-      {
-        "name": "Rafael Maluenda",
-        "id": 3764003
+        "name": "Eteban Magaz",
+        "id": 4581658
       }
     ],
     "actores": [
       {
-        "name": "Vicky Calavia",
-        "id": 2683862,
-        "character": "",
-        "profile_path": null
+        "name": "Silvia Acosta",
+        "id": 2596967,
+        "character": "Elena",
+        "profile_path": "/yxwsFF0UMvw7k9q1TItU7yM6TWY.jpg"
       },
       {
-        "name": "Carlos Areces",
-        "id": 114461,
-        "character": "",
-        "profile_path": "/qoJz3KqgNvXUWD52b0SWX0oDplG.jpg"
-      },
-      {
-        "name": "Luisa Gavasa",
-        "id": 1171836,
-        "character": "",
-        "profile_path": "/wpw0QjiM1JhTVA7YlgBXOhQ30q6.jpg"
-      },
-      {
-        "name": "Julia Gutiérrez Caba",
-        "id": 236408,
-        "character": "",
-        "profile_path": "/8NI1BV6qSJq142WZuad6c5p94RL.jpg"
+        "name": "Roberto Álamo",
+        "id": 225017,
+        "character": "Sanitation worker",
+        "profile_path": "/hy9hZnQxGjs2svlgEXqhdSbQlAR.jpg"
       }
     ],
     "géneros": [
       {
-        "id": 99,
-        "name": "Documental"
+        "id": 18,
+        "name": "Drama"
       }
     ],
-    "popularidad": 0.8275,
+    "popularidad": 0.4618,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -5642,18 +5704,18 @@
       "backdrops": [],
       "posters": [
         {
-          "aspect_ratio": 0.667,
-          "height": 1500,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/xaJ67tGcPNzjrHugxWc11cqz7Rf.jpg",
+          "aspect_ratio": 0.7,
+          "height": 1429,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/pCFW1aZqxSxbeqoH3rzZvGGi6cR.jpg",
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 1000
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:04"
+    "última_actualización": "2026-11-12 22:12:00"
   },
   {
     "id": 1567783,
@@ -5744,69 +5806,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:04"
-  },
-  {
-    "id": 1715640,
-    "tmdb_id": 1715640,
-    "título": "El pezón de Elena",
-    "título_original": "El pezón de Elena",
-    "sinopsis": "",
-    "poster_path": "/pCFW1aZqxSxbeqoH3rzZvGGi6cR.jpg",
-    "poster_local": "imagenes_estrenos/El_pez_n_de_Elena_pCFW1aZqxSxbeqoH3rzZvGGi6cR.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-11-27T00:00:00.000Z",
-    "duración": "80 min",
-    "director": "Eteban Magaz",
-    "directores": [
-      {
-        "name": "Eteban Magaz",
-        "id": 4581658
-      }
-    ],
-    "actores": [
-      {
-        "name": "Silvia Acosta",
-        "id": 2596967,
-        "character": "Elena",
-        "profile_path": "/yxwsFF0UMvw7k9q1TItU7yM6TWY.jpg"
-      },
-      {
-        "name": "Roberto Álamo",
-        "id": 225017,
-        "character": "Sanitation worker",
-        "profile_path": "/hy9hZnQxGjs2svlgEXqhdSbQlAR.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "popularidad": 0.4618,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.7,
-          "height": 1429,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/pCFW1aZqxSxbeqoH3rzZvGGi6cR.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 1000
-        }
-      ]
-    },
-    "última_actualización": "2026-11-12 10:13:04"
+    "última_actualización": "2026-11-12 22:12:00"
   },
   {
     "id": 1376400,
@@ -5951,7 +5951,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:12:57"
+    "última_actualización": "2026-11-12 22:11:56"
   },
   {
     "id": 1437696,
@@ -6015,8 +6015,8 @@
       }
     ],
     "popularidad": 24.7825,
-    "puntuación": 7.3,
-    "votos": 72,
+    "puntuación": 7.2,
+    "votos": 74,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -6067,9 +6067,9 @@
           "height": 2160,
           "iso_3166_1": null,
           "iso_639_1": null,
-          "file_path": "/f7plF7QuPfucWQU5DxqkgLp9gFN.jpg",
-          "vote_average": 1.75,
-          "vote_count": 2,
+          "file_path": "/jOw1bxrB3TjYF6KAG7CVRxxJW2S.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
           "width": 3840
         }
       ],
@@ -6096,7 +6096,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:12:58"
+    "última_actualización": "2026-11-12 22:11:57"
   },
   {
     "id": 1288059,
@@ -6265,7 +6265,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:12:59"
+    "última_actualización": "2026-11-12 22:11:57"
   },
   {
     "id": 1585239,
@@ -6291,7 +6291,7 @@
         "name": "Jordan Firstman",
         "id": 1760947,
         "character": "Peter",
-        "profile_path": "/9uC8hzZ5MmaJb0sSsOXsMWLmvrM.jpg"
+        "profile_path": "/6yDqPgPQ26htKIdPFIlezn5mS6X.jpg"
       },
       {
         "name": "Reggie Absolom",
@@ -6329,8 +6329,8 @@
       }
     ],
     "popularidad": 10.3321,
-    "puntuación": 7.7,
-    "votos": 17,
+    "puntuación": 7.8,
+    "votos": 18,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -6420,7 +6420,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:12:59"
+    "última_actualización": "2026-11-12 22:11:57"
   },
   {
     "id": 1078446,
@@ -6559,91 +6559,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:00"
-  },
-  {
-    "id": 1498050,
-    "tmdb_id": 1498050,
-    "título": "Burundanga",
-    "título_original": "Burundanga",
-    "sinopsis": "Berta descubre que está embarazada y no sabe qué hacer, porque duda del amor de su pareja, Manel. Aconsejada por su amiga Sílvia, decide administrarle burundanga, la “droga de la verdad”. Cuando le hace efecto, Manel confirma que está enamorado de ella, pero también confiesa algo mucho más inesperado: forma parte de un comando etarra.",
-    "poster_path": "/dooIbNThUhVNzhZoIw1INzttev.jpg",
-    "poster_local": "imagenes_estrenos/Burundanga_dooIbNThUhVNzhZoIw1INzttev.jpg",
-    "backdrop_path": null,
-    "backdrop_local": "",
-    "fecha_estreno": "2026-12-04T00:00:00.000Z",
-    "duración": "0 min",
-    "director": "José Corbacho",
-    "directores": [
-      {
-        "name": "José Corbacho",
-        "id": 132450
-      }
-    ],
-    "actores": [
-      {
-        "name": "Adriana Torrebejano",
-        "id": 1446798,
-        "character": "",
-        "profile_path": "/68ke6bCR7sVz9YpVLdnqQMBhiNC.jpg"
-      },
-      {
-        "name": "Carol Rovira",
-        "id": 2534211,
-        "character": "",
-        "profile_path": "/r8FlWSpQomuT6gmcbUNrIGvZN31.jpg"
-      },
-      {
-        "name": "Marcel Borràs",
-        "id": 574223,
-        "character": "",
-        "profile_path": "/9c5ykk8bgM2cSieTuHOASbeW2XK.jpg"
-      },
-      {
-        "name": "Francesc Ferrer",
-        "id": 1162723,
-        "character": "",
-        "profile_path": "/hfsVZcUTljEl1tux69cqXmThqXt.jpg"
-      },
-      {
-        "name": "Jordi Sánchez",
-        "id": 560254,
-        "character": "",
-        "profile_path": "/1usE9CnFsHE0SUx16XehBJ3cPZq.jpg"
-      }
-    ],
-    "géneros": [
-      {
-        "id": 35,
-        "name": "Comedia"
-      },
-      {
-        "id": 10749,
-        "name": "Romance"
-      }
-    ],
-    "popularidad": 0.6637,
-    "puntuación": 0.0,
-    "votos": 0,
-    "adulto": false,
-    "video": false,
-    "año": "2026",
-    "imágenes": {
-      "backdrops": [],
-      "posters": [
-        {
-          "aspect_ratio": 0.666,
-          "height": 1043,
-          "iso_3166_1": "ES",
-          "iso_639_1": "es",
-          "file_path": "/dooIbNThUhVNzhZoIw1INzttev.jpg",
-          "vote_average": 0.0,
-          "vote_count": 0,
-          "width": 695
-        }
-      ]
-    },
-    "última_actualización": "2026-11-12 10:13:02"
+    "última_actualización": "2026-11-12 22:11:57"
   },
   {
     "id": 1648071,
@@ -6723,7 +6639,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:03"
+    "última_actualización": "2026-11-12 22:11:58"
   },
   {
     "id": 1489182,
@@ -6825,6 +6741,90 @@
         }
       ]
     },
-    "última_actualización": "2026-11-12 10:13:04"
+    "última_actualización": "2026-11-12 22:11:59"
+  },
+  {
+    "id": 1498050,
+    "tmdb_id": 1498050,
+    "título": "Burundanga",
+    "título_original": "Burundanga",
+    "sinopsis": "Berta descubre que está embarazada y no sabe qué hacer, porque duda del amor de su pareja, Manel. Aconsejada por su amiga Sílvia, decide administrarle burundanga, la “droga de la verdad”. Cuando le hace efecto, Manel confirma que está enamorado de ella, pero también confiesa algo mucho más inesperado: forma parte de un comando etarra.",
+    "poster_path": "/dooIbNThUhVNzhZoIw1INzttev.jpg",
+    "poster_local": "imagenes_estrenos/Burundanga_dooIbNThUhVNzhZoIw1INzttev.jpg",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-12-04T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "José Corbacho",
+    "directores": [
+      {
+        "name": "José Corbacho",
+        "id": 132450
+      }
+    ],
+    "actores": [
+      {
+        "name": "Adriana Torrebejano",
+        "id": 1446798,
+        "character": "",
+        "profile_path": "/68ke6bCR7sVz9YpVLdnqQMBhiNC.jpg"
+      },
+      {
+        "name": "Carol Rovira",
+        "id": 2534211,
+        "character": "",
+        "profile_path": "/r8FlWSpQomuT6gmcbUNrIGvZN31.jpg"
+      },
+      {
+        "name": "Marcel Borràs",
+        "id": 574223,
+        "character": "",
+        "profile_path": "/9c5ykk8bgM2cSieTuHOASbeW2XK.jpg"
+      },
+      {
+        "name": "Francesc Ferrer",
+        "id": 1162723,
+        "character": "",
+        "profile_path": "/hfsVZcUTljEl1tux69cqXmThqXt.jpg"
+      },
+      {
+        "name": "Jordi Sánchez",
+        "id": 560254,
+        "character": "",
+        "profile_path": "/1usE9CnFsHE0SUx16XehBJ3cPZq.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "popularidad": 0.6637,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [],
+      "posters": [
+        {
+          "aspect_ratio": 0.666,
+          "height": 1043,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/dooIbNThUhVNzhZoIw1INzttev.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 695
+        }
+      ]
+    },
+    "última_actualización": "2026-11-12 22:11:59"
   }
 ]
