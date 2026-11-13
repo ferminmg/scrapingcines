@@ -1,42 +1,106 @@
 [
     {
-        "título": "Queen Kelly",
-        "cartel": "imagenes_peliculas/tmdb_ynofyumvtavn4rbe0hhut5d2qcp.jpg",
+        "título": "Scrooge y los fantasmas de la Navidad",
+        "cartel": "imagenes_peliculas/tmdb_gng15mkineobcopbhclux4zrnwh.jpg",
         "horarios": [
             {
-                "fecha": "2026-11-12",
-                "hora": "19:30",
-                "enlace_entradas": ""
+                "fecha": "2026-11-13",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103387&eventCode=105094"
+            },
+            {
+                "fecha": "2026-11-14",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103404&eventCode=105094"
+            },
+            {
+                "fecha": "2026-11-15",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103421&eventCode=105094"
+            },
+            {
+                "fecha": "2026-11-16",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103422&eventCode=105094"
+            },
+            {
+                "fecha": "2026-11-17",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103423&eventCode=105094"
+            },
+            {
+                "fecha": "2026-11-18",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103439&eventCode=105094"
+            },
+            {
+                "fecha": "2026-11-19",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103462&eventCode=105094"
             }
         ],
         "cine": "Golem Baiona",
-        "director": "Erich von Stroheim",
-        "duración": "101 min",
-        "actores": "Gloria Swanson, Walter Byron, Seena Owen, Sylvia Ashton, Wilson Benge",
-        "sinopsis": "En Kronberg, capital de un antiguo reino centroeuropeo, la cruel y caprichosa reina Regina V castiga a su primo y prometido, el príncipe Wolfram, a ir de maniobras bajo el sol durante todo el día por su escandalosa escapada de la noche anterior. Por el camino de Kambach, el príncipe y su escuadrón se cruzan con un grupo de monjas y de jóvenes novicias de un convento cercano. Cuando las muchachas se inclinan ante el príncipe, los leotardos de una de ellas, Patricia Kelly, se deslizan hasta el suelo. El príncipe y su escuadron comienzan a reirse, y la muchacha, indignada, se los arroja a la cara. Enamorado locamente de ella desde ese momento, el príncipe decide raptarla conduciéndola a sus habitaciones en palacio, a pesar de que la Reina ya ha anunciado su boda para el día siguiente. (FILMAFFINITY)",
-        "año": "1929",
-        "tmdb_id": 42638,
-        "nota": "KLASIKOAK 2026"
+        "director": "Ti West",
+        "duración": "115 min",
+        "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Tramell Tillman, Ian McKellen",
+        "sinopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+        "año": "2026",
+        "tmdb_id": 1567605,
+        "nota": null
+    },
+    {
+        "título": "Wild Horse Nine",
+        "cartel": "imagenes_peliculas/tmdb_bldrhn76oinyielv1qw3tfdkqc8.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-11-13",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103358&eventCode=112974"
+            },
+            {
+                "fecha": "2026-11-14",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103390&eventCode=112974"
+            },
+            {
+                "fecha": "2026-11-15",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103407&eventCode=112974"
+            },
+            {
+                "fecha": "2026-11-16",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103382&eventCode=112974"
+            },
+            {
+                "fecha": "2026-11-17",
+                "hora": "22:15",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103431&eventCode=112974"
+            },
+            {
+                "fecha": "2026-11-18",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103450&eventCode=112974"
+            },
+            {
+                "fecha": "2026-11-19",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103453&eventCode=112974"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Martin McDonagh",
+        "duración": "117 min",
+        "actores": "John Malkovich, Sam Rockwell, Steve Buscemi, Mariana di Girolamo, Ailín Salas",
+        "sinopsis": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
+        "año": "2026",
+        "tmdb_id": 891621,
+        "nota": null
     },
     {
         "título": "Sacamantecas",
         "cartel": "imagenes_peliculas/tmdb_7338fnwdzx9onpodzijh1oliugv.jpg",
         "horarios": [
-            {
-                "fecha": "2026-11-12",
-                "hora": "17:00",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-11-12",
-                "hora": "19:30",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-11-12",
-                "hora": "22:15",
-                "enlace_entradas": ""
-            },
             {
                 "fecha": "2026-11-13",
                 "hora": "17:15",
@@ -138,123 +202,6 @@
         "nota": null
     },
     {
-        "título": "Hope",
-        "cartel": "imagenes_peliculas/1791994746.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-11-12",
-                "hora": "21:40",
-                "enlace_entradas": ""
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "Na Hong-jin",
-        "duración": "156 min",
-        "actores": "Hwang Jung-min, Jo In-sung, Jung Ho-yeon, Taylor Russell, Michael Fassbender, Alicia Vikander",
-        "sinopsis": "La policía investiga una misteriosa criatura que ha estado sembrando el caos en la remota isla de Hope Harbor. Un grupo de cazadores la sigue hacia un bosque cercano y se convierte en su presa involuntaria. El conflicto se intensifica hasta convertirse en una tragedia de proporciones cósmicas.",
-        "año": null,
-        "tmdb_id": null,
-        "nota": null
-    },
-    {
-        "título": "Scrooge y los fantasmas de la Navidad",
-        "cartel": "imagenes_peliculas/tmdb_gng15mkineobcopbhclux4zrnwh.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-11-13",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103387&eventCode=105094"
-            },
-            {
-                "fecha": "2026-11-14",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103404&eventCode=105094"
-            },
-            {
-                "fecha": "2026-11-15",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103421&eventCode=105094"
-            },
-            {
-                "fecha": "2026-11-16",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103422&eventCode=105094"
-            },
-            {
-                "fecha": "2026-11-17",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103423&eventCode=105094"
-            },
-            {
-                "fecha": "2026-11-18",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103439&eventCode=105094"
-            },
-            {
-                "fecha": "2026-11-19",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103462&eventCode=105094"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "Ti West",
-        "duración": "115 min",
-        "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Tramell Tillman, Ian McKellen",
-        "sinopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-        "año": "2026",
-        "tmdb_id": 1567605,
-        "nota": null
-    },
-    {
-        "título": "Wild Horse Nine",
-        "cartel": "imagenes_peliculas/tmdb_bldrhn76oinyielv1qw3tfdkqc8.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-11-13",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103358&eventCode=112974"
-            },
-            {
-                "fecha": "2026-11-14",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103390&eventCode=112974"
-            },
-            {
-                "fecha": "2026-11-15",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103407&eventCode=112974"
-            },
-            {
-                "fecha": "2026-11-16",
-                "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103382&eventCode=112974"
-            },
-            {
-                "fecha": "2026-11-17",
-                "hora": "22:15",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103431&eventCode=112974"
-            },
-            {
-                "fecha": "2026-11-18",
-                "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103450&eventCode=112974"
-            },
-            {
-                "fecha": "2026-11-19",
-                "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103453&eventCode=112974"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "Martin McDonagh",
-        "duración": "117 min",
-        "actores": "John Malkovich, Sam Rockwell, Steve Buscemi, Mariana di Girolamo, Ailín Salas",
-        "sinopsis": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
-        "año": "2026",
-        "tmdb_id": 891621,
-        "nota": null
-    },
-    {
         "título": "La amiga",
         "cartel": "imagenes_peliculas/tmdb_ufzapjjdyytezf8ib1p4gnhrgic.jpg",
         "horarios": [
@@ -312,85 +259,23 @@
         "nota": "KLASIKOAK 2026"
     },
     {
-        "título": "Tiempos de ilusión",
-        "cartel": "imagenes_peliculas/tmdb_ku7zvdj7yuzn71cg6yvcoc3rxjm.jpg",
+        "título": "La reina Margot",
+        "cartel": "imagenes_peliculas/tmdb_9vhnfdj8ztjkbq3oct8nmicgqu1.jpg",
         "horarios": [
             {
-                "fecha": "2026-11-12",
-                "hora": "19:15",
-                "enlace_entradas": ""
+                "fecha": "2026-12-03",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102608&eventCode=114655"
             }
         ],
-        "cine": "Golem Yamaguchi",
-        "director": "Olivier Nakache, Éric Toledano",
-        "duración": "119 min",
-        "actores": "Louis Garrel, Camille Cottin, Simon Boublil, Alexis Rosenstiehl, Pierre Lottin",
-        "sinopsis": "1985. Vincent, de casi 13 años, vive en las afueras de París en el seno de una familia de clase media, entre un hermano mayor distante y unos padres en conflicto constante. Aunque ya no es un niño pero tampoco un adulto, la película sigue sus reflexiones y dudas sobre la identidad, la amistad y la familia, así como sus interrogantes acerca de la religión, el deseo y el amor.",
-        "año": "2026",
-        "tmdb_id": 1404684,
-        "nota": null
-    },
-    {
-        "título": "Wicker",
-        "cartel": "imagenes_peliculas/tmdb_ewpz6uvkrbklqrlri1r9ntzqlzn.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-11-12",
-                "hora": "21:30",
-                "enlace_entradas": ""
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Eleanor Wilson, Alex Huston Fischer",
-        "duración": "105 min",
-        "actores": "Olivia Colman, Alexander Skarsgård, Peter Dinklage, Elizabeth Debicki, Marli Siu",
-        "sinopsis": "Una pescadora vive en la periferia de un pueblo costero; es soltera, apestosa y objeto de burlas constantes. Un día, harta de sus estirados y estrechos vecinos, encarga un marido de mimbre para ella.",
-        "año": "2026",
-        "tmdb_id": 1195803,
-        "nota": null
-    },
-    {
-        "título": "La Invitación",
-        "cartel": "imagenes_peliculas/tmdb_21jnfycarirkms9azhttxizkbij.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-11-12",
-                "hora": "21:30",
-                "enlace_entradas": ""
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Olivia Wilde",
-        "duración": "107 min",
-        "actores": "Olivia Wilde, Seth Rogen, Penélope Cruz, Edward Norton",
-        "sinopsis": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
-        "año": "2026",
-        "tmdb_id": 950028,
-        "nota": null
-    },
-    {
-        "título": "Naza",
-        "cartel": "imagenes_peliculas/tmdb_urm4mncgiscxowqdnwexsutvkag.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-11-12",
-                "hora": "17:15",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-11-12",
-                "hora": "21:30",
-                "enlace_entradas": ""
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Yuval Abraham, רחל שור",
-        "duración": "77 min",
-        "actores": "Yuval Abraham, Benjamín Netanyahu",
-        "sinopsis": "Rodada por la noche en los tejados de Tel Aviv, el documental revela con todo detalle los mecanismos que hay detrás del asesinato en masa y deliberado de civiles palestinos en Gaza por parte de las tropas de Israel. Naza es la palabra utilizada por el ejército israelí para denominar a las víctimas civiles como 'daños colaterales'.",
-        "año": "2026",
-        "tmdb_id": 1755291,
-        "nota": null
+        "cine": "Golem Baiona",
+        "director": "Patrice Chéreau",
+        "duración": "138 min",
+        "actores": "Isabelle Adjani, Daniel Auteuil, Jean-Hugues Anglade, Vincent Perez, Virna Lisi",
+        "sinopsis": "París, Reino de Francia, 18 de agosto de 1572. Con el propósito de evitar el estallido de una guerra religiosa, la princesa católica Margarita de Valois, hermana del débil rey Carlos IX, se casa con el rey hugonote Enrique III de Navarra.",
+        "año": "1994",
+        "tmdb_id": 10452,
+        "nota": "KLASIKOAK 2026"
     },
     {
         "título": "Lost in Translation",
