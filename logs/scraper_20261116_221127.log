@@ -1,0 +1,37 @@
+2026-11-16 22:11:27,841 - INFO - Iniciando proceso de scraping
+2026-11-16 22:11:28,918 - WARNING - Crítica rota sin post en el blog: DIOS MÍO, PERO ¿QUÉ NOS HAS HECHO?  de Philippe de Chauveron (2022-08-26)
+2026-11-16 22:11:28,924 - INFO - Críticas reparadas: 0, sin poder reparar: 1
+2026-11-16 22:11:28,926 - INFO - Posts existentes encontrados: 2812
+2026-11-16 22:11:28,926 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-11-16 22:11:30,083 - INFO - Se encontraron 10 posts
+2026-11-16 22:11:30,084 - INFO - Comenzando extracción de información del post
+2026-11-16 22:11:30,084 - INFO - Título del post: RUEGA POR NOSOTRAS de Daniel Monzón
+2026-11-16 22:11:30,084 - INFO - Fecha del post: 2026-11-16T21:04:38+01:00
+2026-11-16 22:11:30,084 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/ruega-por-nosotras-de-daniel-monzon/
+2026-11-16 22:11:31,615 - INFO - Contenido extraído y estructurado (4448 caracteres)
+2026-11-16 22:11:31,616 - INFO - Guardando post en: posts/RUEGA_POR_NOSOTRAS_2026-11-16.json
+2026-11-16 22:11:31,616 - INFO - Post guardado exitosamente
+2026-11-16 22:11:31,616 - INFO - Actualizando índice de películas
+2026-11-16 22:11:31,616 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-11-16 22:11:31,619 - INFO - Índice existente cargado con 2721 películas
+2026-11-16 22:11:31,627 - INFO - Película agregada al índice: RUEGA POR NOSOTRAS
+2026-11-16 22:11:31,628 - INFO - Nuevo post guardado: RUEGA POR NOSOTRAS de Daniel Monzón
+2026-11-16 22:11:31,628 - INFO - Comenzando extracción de información del post
+2026-11-16 22:11:31,628 - INFO - Post ya existente, saltando: EL TREN FLUVIAL de Lorenzo Ferro y Lucas Vignale
+2026-11-16 22:11:31,628 - INFO - Comenzando extracción de información del post
+2026-11-16 22:11:31,628 - INFO - Post ya existente, saltando: LOS MISERABLES de Fred Cavayé
+2026-11-16 22:11:31,628 - INFO - Comenzando extracción de información del post
+2026-11-16 22:11:31,628 - INFO - Post ya existente, saltando: HOPE de Na Hong-jin
+2026-11-16 22:11:31,628 - INFO - Comenzando extracción de información del post
+2026-11-16 22:11:31,628 - INFO - Post ya existente, saltando: SACAMANTECAS de David P. Sañudo
+2026-11-16 22:11:31,628 - INFO - Comenzando extracción de información del post
+2026-11-16 22:11:31,628 - INFO - Post ya existente, saltando: WICKER de Alex Huston Fischer y Eleanor Wilson
+2026-11-16 22:11:31,628 - INFO - Comenzando extracción de información del post
+2026-11-16 22:11:31,629 - INFO - Post ya existente, saltando: SENTIDO Y SENSIBILIDAD de Georgia Oakley
+2026-11-16 22:11:31,629 - INFO - Comenzando extracción de información del post
+2026-11-16 22:11:31,629 - INFO - Post ya existente, saltando: WILDWOOD: EL BOSQUE SALVAJE de Travis Knight
+2026-11-16 22:11:31,629 - INFO - Comenzando extracción de información del post
+2026-11-16 22:11:31,629 - INFO - Post ya existente, saltando: EL MUNDO ES ANSÍ de Miguel Angel Calvo Buttini
+2026-11-16 22:11:31,629 - INFO - Comenzando extracción de información del post
+2026-11-16 22:11:31,629 - INFO - Post ya existente, saltando: KAKERU de Hirokazu Koreeda
+2026-11-16 22:11:31,629 - INFO - Proceso completado. Posts nuevos guardados: 1
