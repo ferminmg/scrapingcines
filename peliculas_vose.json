@@ -1,121 +1,5 @@
 [
     {
-        "título": "La amiga",
-        "cartel": "imagenes_peliculas/tmdb_ufzapjjdyytezf8ib1p4gnhrgic.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-11-19",
-                "hora": "19:30",
-                "enlace_entradas": ""
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "Jeanine Meerapfel",
-        "duración": "108 min",
-        "actores": "Liv Ullmann, Cipe Lincovsky, Federico Luppi, Lito Cruz, Víctor Laplace",
-        "sinopsis": "La historia de dos amigas íntimas durante la última dictadura cívico-militar argentina y como viven durante el Terrorismo de Estado que se aplicó en esos años. Las amigas son eventualmente separadas y vueltas a reunirse, una vez terminada la dictadura, para luchar juntas por los derechos humanos y la justicia, junto a las Madres de Plaza de Mayo.",
-        "año": "1989",
-        "tmdb_id": 341593,
-        "nota": "KLASIKOAK 2026"
-    },
-    {
-        "título": "Scrooge y los fantasmas de la Navidad",
-        "cartel": "imagenes_peliculas/tmdb_gng15mkineobcopbhclux4zrnwh.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-11-19",
-                "hora": "22:15",
-                "enlace_entradas": ""
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "Ti West",
-        "duración": "115 min",
-        "actores": "Johnny Depp, Rupert Grint, Daisy Ridley, Ian McKellen, Andrea Riseborough",
-        "sinopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-        "año": "2026",
-        "tmdb_id": 1567605,
-        "nota": null
-    },
-    {
-        "título": "Wild Horse Nine",
-        "cartel": "imagenes_peliculas/tmdb_bldrhn76oinyielv1qw3tfdkqc8.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-11-19",
-                "hora": "20:00",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-11-20",
-                "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103471&eventCode=112974"
-            },
-            {
-                "fecha": "2026-11-21",
-                "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103486&eventCode=112974"
-            },
-            {
-                "fecha": "2026-11-22",
-                "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103505&eventCode=112974"
-            },
-            {
-                "fecha": "2026-11-23",
-                "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103518&eventCode=112974"
-            },
-            {
-                "fecha": "2026-11-24",
-                "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103554&eventCode=112974"
-            },
-            {
-                "fecha": "2026-11-25",
-                "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103537&eventCode=112974"
-            },
-            {
-                "fecha": "2026-11-26",
-                "hora": "20:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103562&eventCode=112974"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "Martin McDonagh",
-        "duración": "117 min",
-        "actores": "John Malkovich, Sam Rockwell, Steve Buscemi, Mariana di Girolamo, Ailín Salas",
-        "sinopsis": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
-        "año": "2026",
-        "tmdb_id": 891621,
-        "nota": null
-    },
-    {
-        "título": "Sacamantecas",
-        "cartel": "imagenes_peliculas/tmdb_7338fnwdzx9onpodzijh1oliugv.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-11-19",
-                "hora": "17:15",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-11-19",
-                "hora": "22:15",
-                "enlace_entradas": ""
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "David Pérez Sañudo",
-        "duración": "102 min",
-        "actores": "Patricia López Arnaiz, Antonio de la Torre, Josean Bengoetxea, Eneko Sagardoy, Luis Callejo",
-        "sinopsis": "Álava, finales del siglo XIX. Mientras la III Guerra Carlista agoniza, varias mujeres aparecen estranguladas en las afueras de Vitoria. Ángela Berrosteguieta, hermana de una de las víctimas, llega en busca de justicia, decidida a demostrar que Juan Díaz de Garayo, un campesino analfabeto, es el responsable de los crímenes. Sin embargo, Pío Pinedo, jefe de los alguaciles, se enfrenta a la falta de recursos en tiempos de guerra y a la presión de las autoridades, que prefieren ocultar la creciente ola de asesinatos.",
-        "año": "2026",
-        "tmdb_id": 1371661,
-        "nota": null
-    },
-    {
         "título": "Los Juegos del Hambre: Amanecer en la Cosecha",
         "cartel": "imagenes_peliculas/tmdb_nijgyrqqbdhsgss4uugqokvbasg.jpg",
         "horarios": [
@@ -184,6 +68,55 @@
         "nota": null
     },
     {
+        "título": "Wild Horse Nine",
+        "cartel": "imagenes_peliculas/tmdb_bldrhn76oinyielv1qw3tfdkqc8.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-11-20",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103471&eventCode=112974"
+            },
+            {
+                "fecha": "2026-11-21",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103486&eventCode=112974"
+            },
+            {
+                "fecha": "2026-11-22",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103505&eventCode=112974"
+            },
+            {
+                "fecha": "2026-11-23",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103518&eventCode=112974"
+            },
+            {
+                "fecha": "2026-11-24",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103554&eventCode=112974"
+            },
+            {
+                "fecha": "2026-11-25",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103537&eventCode=112974"
+            },
+            {
+                "fecha": "2026-11-26",
+                "hora": "20:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103562&eventCode=112974"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Martin McDonagh",
+        "duración": "117 min",
+        "actores": "John Malkovich, Sam Rockwell, Steve Buscemi, Mariana di Girolamo, Ailín Salas",
+        "sinopsis": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
+        "año": "2026",
+        "tmdb_id": 891621,
+        "nota": null
+    },
+    {
         "título": "Dos mujeres",
         "cartel": "imagenes_peliculas/tmdb_myb1wsmhszrr3eh6yhp2nqu3nif.jpg",
         "horarios": [
@@ -219,6 +152,25 @@
         "sinopsis": "París, Reino de Francia, 18 de agosto de 1572. Con el propósito de evitar el estallido de una guerra religiosa, la princesa católica Margarita de Valois, hermana del débil rey Carlos IX, se casa con el rey hugonote Enrique III de Navarra.",
         "año": "1994",
         "tmdb_id": 10452,
+        "nota": "KLASIKOAK 2026"
+    },
+    {
+        "título": "Violación",
+        "cartel": "imagenes_peliculas/tmdb_urberk5qohyc8abotoajiizhlgi.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-12-10",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102609&eventCode=114656"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Anja Breien",
+        "duración": "96 min",
+        "actores": "Svein Sturla Hungnes, Anne Marie Ottersen, Liv Thorsen, Per Carlson, Olav Hestenes",
+        "sinopsis": "Etxekoandre bat bortizki bortxatzen dute, eta, handik gutxira, neska gazte batekin saiatuko dira. Poliziak Anders atxilotuko du, errepideetako mantentze-lanetan diharduen gazte bat, gertakarien lekuan ikusi baitzuten bi aldietan. Itxura guztien arabera, bera da bortxatzailea. Alabaina, kontua ez dago erabat garbi. Denak daude Norvegiako sistema judizial zurrunaren mende. Una ama de casa es brutalmente violada, y poco después una joven sufre otro intento de violación. La policía detiene a Anders, un joven que trabaja en el mantenimiento de las carreteras, que fue visto en el lugar de los hechos en ambas ocasiones. Todo apunta a que él es el violador, pero la certeza no es absoluta. Todas y todos dependen del rígido sistema judicial noruego.",
+        "año": "1971",
+        "tmdb_id": 250320,
         "nota": "KLASIKOAK 2026"
     },
     {
