@@ -1,4 +1,6 @@
 import os
+import sys
+import time
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -10,6 +12,8 @@ import re
 import unicodedata
 from typing import List, Dict, Optional
 from dotenv import load_dotenv
+
+from fallos import anotar_fallo
 
 
 # Configure logging
@@ -53,7 +57,7 @@ class TMDbAPI:
         """Make a request to TMDb API with error handling"""
         try:
             url = f"{self.base_url}/{endpoint}"
-            response = requests.get(url, headers=self.headers, params=params)
+            response = requests.get(url, headers=self.headers, params=params, timeout=30)
             response.raise_for_status()
             return response.json()
         except requests.exceptions.RequestException as e:
@@ -97,6 +101,17 @@ class TMDbAPI:
                 if nombre.split()[-1] == candidato.split()[-1] and len(nombre.split()[-1]) > 3:
                     return True
         return False
+
+    def _alias_directores(self, credits: dict) -> List[str]:
+        """Otros nombres de los directores cuyo nombre en TMDb está en otro
+        alfabeto ('나홍진' -> 'Na Hong-jin'), para compararlos con Golem."""
+        alias = []
+        for c in credits.get("crew", []):
+            if c.get("job") != "Director" or not c.get("id") or self._nombre(c.get("name", "")):
+                continue
+            persona = self._make_request(f"person/{c['id']}") or {}
+            alias += [n for n in persona.get("also_known_as") or [] if self._nombre(n)]
+        return alias
 
     def get_movie_info(self, titulos, director: str = None, duracion: int = None) -> dict:
         """Busca la película en TMDb por uno o varios títulos (el de Golem, el
@@ -142,7 +157,8 @@ class TMDbAPI:
                 continue
             directores = [c["name"] for c in credits.get("crew", []) if c.get("job") == "Director"]
             if director:
-                if not self._mismo_director(director, directores):
+                if (not self._mismo_director(director, directores) and
+                        not self._mismo_director(director, self._alias_directores(credits))):
                     logger.info(f"Descartado {r.get('title')} ({movie_id}): director {directores}, Golem dice {director}")
                     continue
             elif duracion and runtime and abs(runtime - duracion) > 15:
@@ -227,7 +243,7 @@ class ImageDownloader:
                 return str(filepath)
             
             logger.info(f"Downloading image: {url}")
-            response = requests.get(url)
+            response = requests.get(url, timeout=30)
             response.raise_for_status()
             
             with open(filepath, 'wb') as f:
@@ -310,9 +326,29 @@ class MovieScraper:
         # La misma película sale muchos días: una sola consulta por película
         self._cache_tmdb: Dict[str, tuple] = {}
         self._cache_fichas: Dict[str, dict] = {}
+        # Días que no se han podido leer, por cine: {cine: ['2026-11-06', ...]}
+        self.dias_fallidos: Dict[str, List[str]] = {}
+        # Películas (en cualquier versión) vistas en la web de cada cine: si es
+        # 0 con todas las páginas leídas, la web ha cambiado y no se entiende
+        self.peliculas_vistas: Dict[str, int] = {}
+
+    @staticmethod
+    def _descargar(url: str, intentos: int = 2) -> requests.Response:
+        """GET con timeout y un reintento: un fallo pasajero de la web no debe
+        dejar un día sin sesiones."""
+        for intento in range(1, intentos + 1):
+            try:
+                respuesta = requests.get(url, timeout=30)
+                respuesta.raise_for_status()
+                return respuesta
+            except requests.exceptions.RequestException:
+                if intento == intentos:
+                    raise
+                time.sleep(3 * intento)
 
     def ficha(self, href: Optional[str]) -> dict:
         """Ficha de la película en golem.es (vacía si no hay enlace o falla)."""
+        href = (href or '').strip()
         if not href:
             return {}
         url = href if href.startswith('http') else f"https://golem.es{href if href.startswith('/') else '/' + href}"
@@ -343,7 +379,9 @@ class MovieScraper:
     def scrape_cinema(self, base_url: str, cinema_name: str, days: int) -> List[Movie]:
         """Scrape movie information for a specific cinema"""
         movies = []
-        
+        self.dias_fallidos.setdefault(cinema_name, [])
+        self.peliculas_vistas.setdefault(cinema_name, 0)
+
         for i in range(days):
             date = datetime.now() + timedelta(days=i)
             date_str = date.strftime('%Y%m%d')
@@ -352,8 +390,7 @@ class MovieScraper:
             url = f"{base_url}/{date_str}"
             try:
                 logger.info(f"Processing URL: {url}")
-                response = requests.get(url)
-                response.raise_for_status()
+                response = self._descargar(url)
                 soup = BeautifulSoup(response.text, 'html.parser')
                 
                 # Find all movies in the page
@@ -361,6 +398,7 @@ class MovieScraper:
                     title_elem = movie_table.find('a', {'class': 'txtNegXXL'})
                     if not title_elem:
                         continue
+                    self.peliculas_vistas[cinema_name] += 1
                         
                     title = title_elem.get_text(strip=True)
                     
@@ -423,7 +461,10 @@ class MovieScraper:
                         cine=cinema_name,
                         # Primero TMDb en castellano; si falta, la ficha de Golem;
                         # la sinopsis de TMDb en inglés, como último recurso
-                        director=tmdb_info.get('director') or ficha.get('director'),
+                        # (salvo que TMDb lo tenga solo en otro alfabeto: '나홍진')
+                        director=(ficha.get('director')
+                                  if ficha.get('director') and not TMDbAPI._nombre(tmdb_info.get('director') or '')
+                                  else tmdb_info.get('director') or ficha.get('director')),
                         duración=tmdb_info.get('duración') or (f"{ficha['duracion']} min" if ficha.get('duracion') else None),
                         actores=tmdb_info.get('actores') or ficha.get('actores'),
                         sinopsis=tmdb_info.get('sinopsis') or ficha.get('sinopsis') or tmdb_info.get('sinopsis_en') or None,
@@ -434,6 +475,7 @@ class MovieScraper:
                     
             except requests.exceptions.RequestException as e:
                 logger.error(f"Error scraping {url}: {str(e)}")
+                self.dias_fallidos[cinema_name].append(formatted_date)
                 continue
                 
         return movies
@@ -459,6 +501,35 @@ def merge_movies(movies: List[Movie]) -> List[Movie]:
             if not getattr(existente, campo) and getattr(movie, campo):
                 setattr(existente, campo, getattr(movie, campo))
     return list(fusionadas.values())
+
+def cargar_anteriores(ruta: str) -> List[dict]:
+    """Películas de Golem de la ejecución anterior (sin las apuntadas a mano)."""
+    try:
+        with open(ruta, 'r', encoding='utf-8') as f:
+            datos = json.load(f)
+    except (OSError, ValueError):
+        return []
+    return [p for p in datos if isinstance(p, dict) and p.get('fuente') != 'manual']
+
+def sesiones_conservadas(anteriores: List[dict], cine: str, fechas) -> List[Movie]:
+    """Las sesiones de la ejecución anterior de un cine en las fechas que no
+    se han podido leer ahora. Mejor un horario quizá viejo (la app avisa de que
+    está sin confirmar) que hacer desaparecer la película."""
+    fechas = set(fechas)
+    conservadas = []
+    for previa in anteriores:
+        if previa.get('cine') != cine:
+            continue
+        horarios = [MovieSchedule(fecha=h['fecha'], hora=h['hora'],
+                                  enlace_entradas=h.get('enlace_entradas') or '')
+                    for h in previa.get('horarios') or []
+                    if isinstance(h, dict) and h.get('fecha') in fechas and h.get('hora')]
+        if not horarios:
+            continue
+        datos = {campo: previa.get(campo) for campo in CAMPOS_TMDB}
+        conservadas.append(Movie(título=previa.get('título') or '', cartel=previa.get('cartel') or '',
+                                 horarios=horarios, cine=cine, **datos))
+    return conservadas
 
 def dataclass_to_dict(obj):
     """Convert a dataclass instance to a dictionary"""
@@ -491,16 +562,37 @@ def main():
     image_downloader = ImageDownloader(IMAGES_FOLDER)
     scraper = MovieScraper(tmdb_api, image_downloader)
 
+    anteriores = cargar_anteriores(OUTPUT_FILE)
+    ventana = [(datetime.now() + timedelta(days=i)).strftime('%Y-%m-%d') for i in range(DAYS_TO_SCRAPE)]
+
     # Scrape all cinemas
     all_movies = []
+    cines_caidos = 0
     for cinema in CINEMAS:
-        logger.info(f"Scraping {cinema['name']}...")
+        nombre = cinema['name']
+        logger.info(f"Scraping {nombre}...")
         movies = scraper.scrape_cinema(
             cinema["base_url"],
-            cinema["name"],
+            nombre,
             DAYS_TO_SCRAPE
         )
         all_movies.extend(movies)
+
+        fallidos = scraper.dias_fallidos.get(nombre, [])
+        if fallidos:
+            all_movies.extend(sesiones_conservadas(anteriores, nombre, fallidos))
+            rango = fallidos[0] if len(fallidos) == 1 else f"{fallidos[0]} a {fallidos[-1]}"
+            anotar_fallo(f"Scraping Golem Cines: {nombre}: {len(fallidos)} de {DAYS_TO_SCRAPE} días "
+                         f"sin poder leer ({rango})")
+            if len(fallidos) == DAYS_TO_SCRAPE:
+                cines_caidos += 1
+        elif scraper.peliculas_vistas.get(nombre, 0) == 0:
+            # Todas las páginas cargan pero no aparece ninguna película: la
+            # web ha cambiado de formato. Se mantienen los datos anteriores.
+            all_movies.extend(sesiones_conservadas(anteriores, nombre, ventana))
+            anotar_fallo(f"Scraping Golem Cines: {nombre}: la web no muestra ninguna película en "
+                         f"{DAYS_TO_SCRAPE} días (¿ha cambiado la página?)")
+            cines_caidos += 1
 
     # Una sola entrada por (cine, película) con todas las sesiones
     all_movies = merge_movies(all_movies)
@@ -514,6 +606,10 @@ def main():
         json.dump(movies_data, f, indent=4, ensure_ascii=False)
     
     logger.info(f"Results saved to {output_path}")
+
+    if cines_caidos == len(CINEMAS):
+        logger.error("No se ha podido leer ningún cine de Golem")
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()

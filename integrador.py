@@ -237,7 +237,35 @@ def crear_backup(archivo_original: str) -> str:
     
     return ""
 
-def integrar_peliculas_completo(archivo_original: str, archivo_scraping: str, archivo_equivalencias: str = "equivalencias_peliculas.json"):
+def quitar_sesiones_scrapeadas(peliculas: List[Dict], eventos_fallidos=()) -> List[Dict]:
+    """Quita de los datos anteriores las sesiones sacadas de la web.
+
+    Antes se juntaban las sesiones viejas con las nuevas, así que una sesión
+    que la Filmoteca cambiaba de hora o cancelaba seguía en la app hasta que
+    pasaba su fecha. Ahora el scraping manda: sus sesiones (las que llevan
+    'evento') se sustituyen por las nuevas en cada ejecución. Solo se
+    conservan las de los eventos que esta vez no se han podido leer, y las
+    apuntadas a mano (sin 'evento').
+
+    Datos de antes de este cambio (ninguna sesión con 'evento'): todas venían
+    del scraping, así que se sustituyen todas.
+    """
+    fallidos = set(eventos_fallidos)
+    formato_antiguo = not any(
+        'evento' in h for p in peliculas for h in (p.get('horarios') or []) if isinstance(h, dict))
+    if formato_antiguo and peliculas:
+        logger.info("🔄 Datos anteriores sin marca de evento: se sustituyen por el scraping")
+        return []
+
+    resultado = []
+    for pelicula in peliculas:
+        horarios = [h for h in pelicula.get('horarios') or []
+                    if isinstance(h, dict) and ('evento' not in h or h['evento'] in fallidos)]
+        if horarios:
+            resultado.append({**pelicula, 'horarios': horarios})
+    return resultado
+
+def integrar_peliculas_completo(archivo_original: str, archivo_scraping: str, archivo_equivalencias: str = "equivalencias_peliculas.json", eventos_fallidos=()):
     """
     Integración completa que maneja:
     1. Películas del scraping automático
@@ -250,7 +278,8 @@ def integrar_peliculas_completo(archivo_original: str, archivo_scraping: str, ar
     
     try:
         # 1. Cargar todos los datos fuente
-        peliculas_originales = cargar_archivo_json(archivo_original)
+        peliculas_originales = quitar_sesiones_scrapeadas(
+            cargar_archivo_json(archivo_original), eventos_fallidos)
         peliculas_scraping = cargar_archivo_json(archivo_scraping)
         equivalencias = cargar_equivalencias(archivo_equivalencias)
         
@@ -423,6 +452,7 @@ def main():
     """Función principal - punto de entrada del integrador"""
     archivo_peliculas = 'peliculas_filmoteca.json'
     archivo_scraping_temporal = 'peliculas_filmoteca_scraping.json'
+    archivo_fallos = archivo_scraping_temporal + '.fallos.json'
     archivo_equivalencias = 'equivalencias_peliculas.json'
     
     # Verificar archivo de scraping
@@ -431,20 +461,28 @@ def main():
         logger.error("   Ejecuta primero: python scraper_modificado.py")
         return False
     
+    # Eventos que el scraper no pudo leer: se conservan sus sesiones anteriores
+    eventos_fallidos = cargar_archivo_json(archivo_fallos)
+    if eventos_fallidos:
+        logger.warning(f"⚠️  {len(eventos_fallidos)} eventos sin leer: se conservan sus sesiones anteriores")
+
     # Ejecutar integración completa
     resultado = integrar_peliculas_completo(
         archivo_peliculas, 
         archivo_scraping_temporal, 
-        archivo_equivalencias
+        archivo_equivalencias,
+        eventos_fallidos
     )
     
-    # Limpiar archivo temporal
+    # Limpiar archivos temporales
     if resultado:
-        try:
-            os.remove(archivo_scraping_temporal)
-            logger.info(f"🧹 Archivo temporal eliminado: {archivo_scraping_temporal}")
-        except Exception as e:
-            logger.warning(f"⚠️  No se pudo eliminar archivo temporal: {str(e)}")
+        for temporal in (archivo_scraping_temporal, archivo_fallos):
+            try:
+                if os.path.exists(temporal):
+                    os.remove(temporal)
+                    logger.info(f"🧹 Archivo temporal eliminado: {temporal}")
+            except Exception as e:
+                logger.warning(f"⚠️  No se pudo eliminar archivo temporal: {str(e)}")
     
     return resultado
 
