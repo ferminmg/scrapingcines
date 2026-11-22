@@ -4,11 +4,6 @@
         "cartel": "imagenes_peliculas/tmdb_agfiosgov5ijgcviwgqjefnhxiv.jpg",
         "horarios": [
             {
-                "fecha": "2026-11-21",
-                "hora": "21:40",
-                "enlace_entradas": ""
-            },
-            {
                 "fecha": "2026-11-22",
                 "hora": "21:40",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103498&eventCode=112469"
@@ -47,11 +42,6 @@
         "título": "Wild Horse Nine",
         "cartel": "imagenes_peliculas/tmdb_bldrhn76oinyielv1qw3tfdkqc8.jpg",
         "horarios": [
-            {
-                "fecha": "2026-11-21",
-                "hora": "20:00",
-                "enlace_entradas": ""
-            },
             {
                 "fecha": "2026-11-22",
                 "hora": "20:00",
@@ -149,16 +139,6 @@
         "cartel": "imagenes_peliculas/tmdb_flnb7cokqd4dznzicacnkai22vz.jpg",
         "horarios": [
             {
-                "fecha": "2026-11-21",
-                "hora": "18:30",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-11-21",
-                "hora": "20:30",
-                "enlace_entradas": ""
-            },
-            {
                 "fecha": "2026-11-22",
                 "hora": "18:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93585&eventCode=116223"
@@ -222,16 +202,6 @@
         "título": "Sacamantecas",
         "cartel": "imagenes_peliculas/tmdb_7338fnwdzx9onpodzijh1oliugv.jpg",
         "horarios": [
-            {
-                "fecha": "2026-11-21",
-                "hora": "16:45",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-11-21",
-                "hora": "20:30",
-                "enlace_entradas": ""
-            },
             {
                 "fecha": "2026-11-22",
                 "hora": "16:45",
@@ -350,11 +320,6 @@
         "cartel": "imagenes_peliculas/tmdb_agfiosgov5ijgcviwgqjefnhxiv.jpg",
         "horarios": [
             {
-                "fecha": "2026-11-21",
-                "hora": "20:30",
-                "enlace_entradas": ""
-            },
-            {
                 "fecha": "2026-11-22",
                 "hora": "20:30",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=3&perfCode=230609&eventCode=112469"
@@ -408,27 +373,6 @@
         "año": "2026",
         "tmdb_id": 1300968,
         "nota": null
-    },
-    {
-        "título": "Lost in Translation",
-        "cartel": "imagenes_manuales/tmdb_ybxq8xts6vmx3hm4rdymxadzwcz.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-11-21",
-                "hora": "18:00",
-                "enlace_entradas": "",
-                "cine": "Casa de la Juventud",
-                "nota": "CineTag · Con coloquio · Entrada libre"
-            }
-        ],
-        "cine": "Casa de la Juventud",
-        "director": "Sofia Coppola",
-        "duración": "104 min",
-        "actores": "Bill Murray, Scarlett Johansson, Giovanni Ribisi, Anna Faris, Akiko Takeshita",
-        "sinopsis": "Bob Harris y Charlotte son dos norteamericanos que se encuentran en Tokio. Bob es una estrella de cine de mediana edad que ha venido a rodar un anuncio. Charlotte es una mujer joven que acompaña a todas partes a su marido, un fanático del trabajo. Incapaces de dormir, los caminos de Bob y Charlotte se cruzan por casualidad y no tardará en nacer entre ellos una sorprendente amistad. Se aventuran juntos en la vida nocturna de Tokio, comparten inolvidables experiencias con los habitantes de la ciudad y terminan descubriendo una nueva manera de ver la vida.",
-        "año": "2003",
-        "tmdb_id": "153",
-        "fuente": "manual"
     },
     {
         "título": "Valor sentimental",
