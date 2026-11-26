@@ -1,13 +1,27 @@
 [
     {
+        "título": "Dos mujeres",
+        "cartel": "imagenes_peliculas/tmdb_myb1wsmhszrr3eh6yhp2nqu3nif.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-11-26",
+                "hora": "19:30",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102607&eventCode=114654"
+            }
+        ],
+        "cine": "Golem Baiona",
+        "director": "Vittorio De Sica",
+        "duración": "100 min",
+        "actores": "Sophia Loren, Eleonora Brown, Jean-Paul Belmondo, Raf Vallone, Carlo Ninchi",
+        "sinopsis": "Año 1943. Italia durante los nueve meses de ocupación alemana. Cesira es una mujer que vive en Roma con su hija Rosetta, una adolescente de 13 años. Ante el avance de la guerra, decide huir de la capital y refugiarse en casa de unos parientes, en los montes de Ciociaria, donde es muy bien recibida. La vida discurre serena lejos del frente. La bella Cesira conoce a Michele, un joven intelectual que quiere ser partisano y que, enamorado de ella, intenta atraerla a la causa de la libertad.",
+        "año": "1960",
+        "tmdb_id": 24167,
+        "nota": "KLASIKOAK 2026"
+    },
+    {
         "título": "Los Juegos del Hambre: Amanecer en la Cosecha",
         "cartel": "imagenes_peliculas/tmdb_agfiosgov5ijgcviwgqjefnhxiv.jpg",
         "horarios": [
-            {
-                "fecha": "2026-11-25",
-                "hora": "21:40",
-                "enlace_entradas": ""
-            },
             {
                 "fecha": "2026-11-26",
                 "hora": "21:40",
@@ -63,11 +77,6 @@
         "cartel": "imagenes_peliculas/tmdb_bldrhn76oinyielv1qw3tfdkqc8.jpg",
         "horarios": [
             {
-                "fecha": "2026-11-25",
-                "hora": "20:00",
-                "enlace_entradas": ""
-            },
-            {
                 "fecha": "2026-11-26",
                 "hora": "20:00",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=103562&eventCode=112974"
@@ -118,25 +127,6 @@
         "nota": null
     },
     {
-        "título": "Dos mujeres",
-        "cartel": "imagenes_peliculas/tmdb_myb1wsmhszrr3eh6yhp2nqu3nif.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-11-26",
-                "hora": "19:30",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=1&perfCode=102607&eventCode=114654"
-            }
-        ],
-        "cine": "Golem Baiona",
-        "director": "Vittorio De Sica",
-        "duración": "100 min",
-        "actores": "Sophia Loren, Eleonora Brown, Jean-Paul Belmondo, Raf Vallone, Carlo Ninchi",
-        "sinopsis": "Año 1943. Italia durante los nueve meses de ocupación alemana. Cesira es una mujer que vive en Roma con su hija Rosetta, una adolescente de 13 años. Ante el avance de la guerra, decide huir de la capital y refugiarse en casa de unos parientes, en los montes de Ciociaria, donde es muy bien recibida. La vida discurre serena lejos del frente. La bella Cesira conoce a Michele, un joven intelectual que quiere ser partisano y que, enamorado de ella, intenta atraerla a la causa de la libertad.",
-        "año": "1960",
-        "tmdb_id": 24167,
-        "nota": "KLASIKOAK 2026"
-    },
-    {
         "título": "La reina Margot",
         "cartel": "imagenes_peliculas/tmdb_9vhnfdj8ztjkbq3oct8nmicgqu1.jpg",
         "horarios": [
@@ -175,19 +165,33 @@
         "nota": "KLASIKOAK 2026"
     },
     {
+        "título": "Puedes verlo todo",
+        "cartel": "imagenes_peliculas/tmdb_hcufualgeqy1ykhd3i0hz5sgczl.jpg",
+        "horarios": [
+            {
+                "fecha": "2026-11-26",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93655&eventCode=117170"
+            },
+            {
+                "fecha": "2026-11-26",
+                "hora": "19:00",
+                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93546&eventCode=117170"
+            }
+        ],
+        "cine": "Golem Yamaguchi",
+        "director": "Nathan Fielder, Lance Oppenheim",
+        "duración": "175 min",
+        "actores": "Elizabeth Holmes, Nathan Fielder, Billy Evans, Amanda Seyfried, Christopher Abbott",
+        "sinopsis": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años.",
+        "año": "2026",
+        "tmdb_id": 1765072,
+        "nota": null
+    },
+    {
         "título": "Rose",
         "cartel": "imagenes_peliculas/tmdb_flnb7cokqd4dznzicacnkai22vz.jpg",
         "horarios": [
-            {
-                "fecha": "2026-11-25",
-                "hora": "18:30",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-11-25",
-                "hora": "20:30",
-                "enlace_entradas": ""
-            },
             {
                 "fecha": "2026-11-26",
                 "hora": "18:30",
@@ -283,21 +287,6 @@
         "cartel": "imagenes_peliculas/tmdb_7338fnwdzx9onpodzijh1oliugv.jpg",
         "horarios": [
             {
-                "fecha": "2026-11-25",
-                "hora": "17:00",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-11-25",
-                "hora": "19:30",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-11-25",
-                "hora": "21:30",
-                "enlace_entradas": ""
-            },
-            {
                 "fecha": "2026-11-26",
                 "hora": "17:00",
                 "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93637&eventCode=116768"
@@ -358,30 +347,6 @@
         "nota": null
     },
     {
-        "título": "Puedes verlo todo",
-        "cartel": "imagenes_peliculas/tmdb_hcufualgeqy1ykhd3i0hz5sgczl.jpg",
-        "horarios": [
-            {
-                "fecha": "2026-11-26",
-                "hora": "19:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93655&eventCode=117170"
-            },
-            {
-                "fecha": "2026-11-26",
-                "hora": "19:00",
-                "enlace_entradas": "https://golem.es/golem/urlcheck.php?idCine=2&perfCode=93546&eventCode=117170"
-            }
-        ],
-        "cine": "Golem Yamaguchi",
-        "director": "Nathan Fielder, Lance Oppenheim",
-        "duración": "175 min",
-        "actores": "Elizabeth Holmes, Nathan Fielder, Billy Evans, Amanda Seyfried, Christopher Abbott",
-        "sinopsis": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años.",
-        "año": "2026",
-        "tmdb_id": 1765072,
-        "nota": null
-    },
-    {
         "título": "La Pietà",
         "cartel": "imagenes_peliculas/tmdb_tiahegxollexqntrvd47wbvvyhg.jpg",
         "horarios": [
@@ -404,16 +369,6 @@
         "título": "Los Juegos del Hambre: Amanecer en la Cosecha",
         "cartel": "imagenes_peliculas/tmdb_agfiosgov5ijgcviwgqjefnhxiv.jpg",
         "horarios": [
-            {
-                "fecha": "2026-11-25",
-                "hora": "17:30",
-                "enlace_entradas": ""
-            },
-            {
-                "fecha": "2026-11-25",
-                "hora": "20:30",
-                "enlace_entradas": ""
-            },
             {
                 "fecha": "2026-11-26",
                 "hora": "17:30",
