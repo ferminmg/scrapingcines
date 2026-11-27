@@ -1,5 +1,584 @@
 [
   {
+    "id": 1324154,
+    "tmdb_id": 1324154,
+    "título": "Emiliana Gat-alana",
+    "título_original": "Emiliana Gat-alana",
+    "sinopsis": "Emiliana es una gatita negra nacida en Barcelona. Tiene casi 15 años de vida. Su vida es muy interesante (ella misma nos la narra) porque está llena de muchas aventuras: mudanzas, un divorcio, un cambio de país (ahora vive en México), descubrir familia y amigos nuevos, animales que no sabía que existían. Tiene un chip para poder viajar, un pasaporte, le teme a los truenos, adora las whiskas y ama a su familia reconstituida. Emiliana es feliz pero sueña con volver a su natal España, ¿logrará alcanzar su sueño?",
+    "poster_path": "/yfykHkNhrYOmditJzjLwd8XeLcc.jpg",
+    "poster_local": "imagenes_estrenos/Emiliana_Gat_alana_yfykHkNhrYOmditJzjLwd8XeLcc.jpg",
+    "backdrop_path": "/dhHSXR1YR43RZ8uvPpjvf1l1YIz.jpg",
+    "backdrop_local": "imagenes_estrenos/Emiliana_Gat_alana_backdrop_dhHSXR1YR43RZ8uvPpjvf1l1YIz.jpg",
+    "fecha_estreno": "2023-11-07T00:00:00.000Z",
+    "duración": "69 min",
+    "director": "Alberto Zúñiga Rodríguez",
+    "directores": [
+      {
+        "name": "Alberto Zúñiga Rodríguez",
+        "id": 1398043
+      }
+    ],
+    "actores": [
+      {
+        "name": "Emiliana",
+        "id": 4862190,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Virginia Rangel Gómez",
+        "id": 4861896,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Andrea Montero",
+        "id": 1811911,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Alberto Zúñiga Rodríguez",
+        "id": 1398043,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "popularidad": 0.0621,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2023",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/dhHSXR1YR43RZ8uvPpjvf1l1YIz.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/yfykHkNhrYOmditJzjLwd8XeLcc.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:48"
+  },
+  {
+    "id": 1456349,
+    "tmdb_id": 1456349,
+    "título": "Un simple accidente",
+    "título_original": "Un simple accident",
+    "sinopsis": "Un hombre conduce de noche con su esposa embarazada cuando atropella y mata a un perro, lo que le obliga a llevar el coche a un taller dirigido por un hombre que se parece al oficial que lo torturó en prisión.",
+    "poster_path": "/xEOFCfTqmee7nmuC2r4UEsMI39a.jpg",
+    "poster_local": "imagenes_estrenos/Un_simple_accidente_xEOFCfTqmee7nmuC2r4UEsMI39a.jpg",
+    "backdrop_path": "/zhoMwQofjgVec5Sin05hWECJtVQ.jpg",
+    "backdrop_local": "imagenes_estrenos/Un_simple_accidente_backdrop_zhoMwQofjgVec5Sin05hWECJtVQ.jpg",
+    "fecha_estreno": "2025-10-17T00:00:00.000Z",
+    "duración": "105 min",
+    "director": "Jafar Panahi",
+    "directores": [
+      {
+        "name": "Jafar Panahi",
+        "id": 120229
+      }
+    ],
+    "actores": [
+      {
+        "name": "وحید مبصری",
+        "id": 5389673,
+        "character": "Vahid",
+        "profile_path": "/xKi4iv6WdOhwBZvmG4gjyz4i2Bb.jpg"
+      },
+      {
+        "name": "مریم افشاری",
+        "id": 5428352,
+        "character": "Shiva",
+        "profile_path": "/qVNOG4w5dzlKeFAF33ibR0slraK.jpg"
+      },
+      {
+        "name": "ابراهیم عزیزی",
+        "id": 2393767,
+        "character": "Eghbal",
+        "profile_path": "/fEQbxXpEnJ7WMmQb0SWE2TqzFPl.jpg"
+      },
+      {
+        "name": "حدیث پاک‌باطن",
+        "id": 5428353,
+        "character": "Golrokh",
+        "profile_path": "/ywC6mkpEjaqGmFtMnO4jh94tIq6.jpg"
+      },
+      {
+        "name": "مجید پناهی",
+        "id": 5406499,
+        "character": "Ali",
+        "profile_path": "/2BUiGI1c50NCBezUSXr3FWxYOQM.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "popularidad": 5.004,
+    "puntuación": 7.1,
+    "votos": 730,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/zhoMwQofjgVec5Sin05hWECJtVQ.jpg",
+          "vote_average": 6.722,
+          "vote_count": 6,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7ZraEgcfECrdyC6DXrnKhmdUsrO.jpg",
+          "vote_average": 2.278,
+          "vote_count": 3,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xbD4brQDBMPhh3Xv459m4XmVJG.jpg",
+          "vote_average": 1.714,
+          "vote_count": 7,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7erv1L5XKtnA6b5PJjQxgJACvjR.jpg",
+          "vote_average": 1.434,
+          "vote_count": 5,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/sj8oiE64iMZLpW17EAFjKaYz2Gk.jpg",
+          "vote_average": 1.434,
+          "vote_count": 5,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/uiS2GwZEorWjw9GrtnEm1rByLdX.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/xEOFCfTqmee7nmuC2r4UEsMI39a.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/qyeTL52iQJQN6FrCaVRkiuzJDDp.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ptM0YU6MxjGJ8Qfs69T4RENrahd.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/dm4DKTwpZOQYE5OzVKV7ZsJv8Eb.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:39"
+  },
+  {
+    "id": 1679308,
+    "tmdb_id": 1679308,
+    "título": "Enlorquecido: Solo el misterio nos hace vivir",
+    "título_original": "Enlorquecido: Solo el misterio nos hace vivir",
+    "sinopsis": "Miguel Poveda emprende un viaje real y profundo tras los pasos de Federico García Lorca. No como un homenaje distante, sino como una búsqueda vital: la necesidad de iluminar los lugares que el poeta habitó, de poner placas donde no las hay, de nombrar lo que ha sido olvidado. Pero también —y sobre todo— de entenderse a sí mismo a través de la figura que lo ha marcado desde siempre. A lo largo de varios años, Poveda recorre con el alma abierta las ciudades que forjaron al autor de Poeta en Nueva York: Granada, Madrid, Buenos Aires, Cadaqués, Montevideo, La Habana... En cada parada, el cante, la palabra y la memoria se entrelazan, revelando no solo la huella del poeta, sino también la del hombre que lo busca. En ese cruce entre pasado y presente, entre Lorca y Poveda, surge una conexión íntima e inesperada.",
+    "poster_path": "/7TFCQFpmcKaoOXfa98oL84rTMea.jpg",
+    "poster_local": "imagenes_estrenos/Enlorquecido__Solo_el_misterio_nos_hace_vivir_7TFCQFpmcKaoOXfa98oL84rTMea.jpg",
+    "backdrop_path": "/xTBcwJFqw0jhtskoSMiFW6Mw2LS.jpg",
+    "backdrop_local": "imagenes_estrenos/Enlorquecido__Solo_el_misterio_nos_hace_vivir_backdrop_xTBcwJFqw0jhtskoSMiFW6Mw2LS.jpg",
+    "fecha_estreno": "2026-04-23T00:00:00.000Z",
+    "duración": "84 min",
+    "director": "Miguel Poveda, Manu Huelva",
+    "directores": [
+      {
+        "name": "Miguel Poveda",
+        "id": 133524
+      },
+      {
+        "name": "Manu Huelva",
+        "id": 6573036
+      }
+    ],
+    "actores": [
+      {
+        "name": "Miguel Poveda",
+        "id": 133524,
+        "character": "",
+        "profile_path": "/fF8LIURQSc9pa3T5z4y4r1P2YeO.jpg"
+      },
+      {
+        "name": "Marta González Novo",
+        "id": 3639603,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Juan Echanove",
+        "id": 36277,
+        "character": "",
+        "profile_path": "/vxmDaQTD6mRFRwXMEtXqovoaPXj.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.4268,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xTBcwJFqw0jhtskoSMiFW6Mw2LS.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/d8JtIC9m0P78Yia4OnzTu2aeZ7t.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1536,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/7TFCQFpmcKaoOXfa98oL84rTMea.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1024
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:43"
+  },
+  {
+    "id": 1790636,
+    "tmdb_id": 1790636,
+    "título": "El aleteo de las libélulas",
+    "título_original": "El aleteo de las libélulas",
+    "sinopsis": "Personas que conviven con la ELA y sus familias abren las puertas de su día a día en un retrato íntimo sobre la fortaleza, el amor y la dignidad. Sus protagonistas comparten con un grupo de adolescentes lo que la enfermedad les ha enseñado: valorar el tiempo, aceptar lo que no se puede cambiar y entender el miedo como un estado de ánimo. Fernando Martín la dirige tras El aleteo de las mariposas, y su estreno oficial tuvo lugar en Madrid en 2026, en el ciclo de cine del Congreso Europeo de la ELA.",
+    "poster_path": "/9AC1eaTIPYkqus9hkg9Dshnx2dq.jpg",
+    "poster_local": "imagenes_estrenos/El_aleteo_de_las_lib_lulas_9AC1eaTIPYkqus9hkg9Dshnx2dq.jpg",
+    "backdrop_path": "/5ibRL5szlsxOUMZFy4HS4cVuPVI.jpg",
+    "backdrop_local": "imagenes_estrenos/El_aleteo_de_las_lib_lulas_backdrop_5ibRL5szlsxOUMZFy4HS4cVuPVI.jpg",
+    "fecha_estreno": "2026-06-21T00:00:00.000Z",
+    "duración": "65 min",
+    "director": "Fernando Martín Pérez",
+    "directores": [
+      {
+        "name": "Fernando Martín Pérez",
+        "id": 5514399
+      }
+    ],
+    "actores": [
+      {
+        "name": "Juan Carlos Unzué",
+        "id": 6568786,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Jordi Sabaté",
+        "id": 6568787,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Martín Caparrós",
+        "id": 1322414,
+        "character": "",
+        "profile_path": "/6hQIfarLEmm1NhSCG9sgCmjr9dd.jpg"
+      },
+      {
+        "name": "Esther Portillo",
+        "id": 6568789,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Susi Seonane",
+        "id": 6568790,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.142,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 946,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5ibRL5szlsxOUMZFy4HS4cVuPVI.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1682
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/9AC1eaTIPYkqus9hkg9Dshnx2dq.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1365
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:47"
+  },
+  {
+    "id": 1549854,
+    "tmdb_id": 1549854,
+    "título": "You no Mashallah!",
+    "título_original": "You no Mashallah!",
+    "sinopsis": "Usman es un joven emigrante sin papeles que, como tantos otros, llegó a Europa en busca de una vida mejor. Sin embargo, lo único que Europa tiene para él es una vida precaria. Vive en un piso de camas calientes y trabaja como repartidor de comida a domicilio. En tan solo 24 horas el delicado equilibrio que le sostiene va a dar un vuelco, obligándole a tomar una decisión drástica para sobrevivir y, quizá, seguir buscando su sueño.",
+    "poster_path": "/8FJZua0beCvx5TpLBRPtzK8CEoB.jpg",
+    "poster_local": "imagenes_estrenos/You_no_Mashallah__8FJZua0beCvx5TpLBRPtzK8CEoB.jpg",
+    "backdrop_path": "/m9lo7xJcoBlBDwfWJ57JmELYHKE.jpg",
+    "backdrop_local": "imagenes_estrenos/You_no_Mashallah__backdrop_m9lo7xJcoBlBDwfWJ57JmELYHKE.jpg",
+    "fecha_estreno": "2026-10-30T00:00:00.000Z",
+    "duración": "13 min",
+    "director": "Juanfer Andrés, Laura Vago",
+    "directores": [
+      {
+        "name": "Juanfer Andrés",
+        "id": 1347622
+      },
+      {
+        "name": "Laura Vago",
+        "id": 4394074
+      }
+    ],
+    "actores": [
+      {
+        "name": "Ilyass El Ouahdani",
+        "id": 3716213,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Antonio Reyes",
+        "id": 6568566,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Manuel Meza",
+        "id": 6568567,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Catalina Bono",
+        "id": 6568577,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Elias Sayadi",
+        "id": 4929880,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.0832,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/m9lo7xJcoBlBDwfWJ57JmELYHKE.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/qJm0ynh995RiTdgyTEByTYwHD96.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/mQNacpRygBz5FxOA0ScmWOfjXtX.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.673,
+          "height": 2028,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/8FJZua0beCvx5TpLBRPtzK8CEoB.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1365
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:47"
+  },
+  {
     "id": 1538497,
     "tmdb_id": 1538497,
     "título": "Hechizo: Bienvenidos a Hexe",
@@ -2184,6 +2763,151 @@
     "última_actualización": "2026-11-24 22:11:10"
   },
   {
+    "id": 1213227,
+    "tmdb_id": 1213227,
+    "título": "Tren",
+    "título_original": "ட்ரெயின்",
+    "sinopsis": "",
+    "poster_path": "/3u6yleXoPaqpzmje3dqnCktzt5C.jpg",
+    "poster_local": "imagenes_estrenos/Tren_3u6yleXoPaqpzmje3dqnCktzt5C.jpg",
+    "backdrop_path": "/fUoV7p1nzoajpGFsEMRfAPD4T8.jpg",
+    "backdrop_local": "imagenes_estrenos/Tren_backdrop_fUoV7p1nzoajpGFsEMRfAPD4T8.jpg",
+    "fecha_estreno": "2026-12-04",
+    "duración": "153 min",
+    "director": "Mysskin",
+    "directores": [
+      {
+        "name": "Mysskin",
+        "id": 560039
+      }
+    ],
+    "actores": [
+      {
+        "name": "Vijay Sethupathi",
+        "id": 1123766,
+        "character": "Chandrababu",
+        "profile_path": "/a3HWdfCAbplrvoMNEJCjnkbqqOo.jpg"
+      },
+      {
+        "name": "Nassar",
+        "id": 130111,
+        "character": "",
+        "profile_path": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg"
+      },
+      {
+        "name": "Shruti Haasan",
+        "id": 85883,
+        "character": "",
+        "profile_path": "/1zYJuSccSA45VVBdgozpRcL99Rd.jpg"
+      },
+      {
+        "name": "Yugi Sethu",
+        "id": 584885,
+        "character": "",
+        "profile_path": "/5iFRZjKuwbr8vFVKeZlFqERvtFk.jpg"
+      },
+      {
+        "name": "Narain",
+        "id": 587752,
+        "character": "",
+        "profile_path": "/d0ApUGeFuGXpBkODIc6eLbBkb7B.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 1.3018,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/fUoV7p1nzoajpGFsEMRfAPD4T8.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1350,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/qqzgmufEVEDemDNyrjDBBSuNyJi.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 2400
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1687,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/gbAva5ksIz2863iLCPFsi2SCiMX.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3000
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1688,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ODqDxU37fZ6l35AQhHAudJZm8R.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3000
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 1130,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/bIDVbAdhKlpCu5m4w5UG2dwoHyR.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2008
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/q81T8Ok8jM3XQKD6Hcp5yDwx0n3.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/m8gLHXQZFKIzYACfa5QDxW0rN11.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:41"
+  },
+  {
     "id": 1376400,
     "tmdb_id": 1376400,
     "título": "Crawlers (Arácnidos)",
@@ -2244,7 +2968,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 19.8409,
+    "popularidad": 15.477,
     "puntuación": 6.1,
     "votos": 67,
     "adulto": false,
@@ -2336,7 +3060,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:40"
+    "última_actualización": "2026-11-27 10:12:38"
   },
   {
     "id": 1288059,
@@ -2403,7 +3127,7 @@
         "name": "Misterio"
       }
     ],
-    "popularidad": 17.0133,
+    "popularidad": 14.5158,
     "puntuación": 5.9,
     "votos": 135,
     "adulto": false,
@@ -2505,7 +3229,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:40"
+    "última_actualización": "2026-11-27 10:12:38"
   },
   {
     "id": 1078446,
@@ -2568,7 +3292,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 14.334,
+    "popularidad": 13.9675,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -2650,7 +3374,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:40"
+    "última_actualización": "2026-11-27 10:12:38"
   },
   {
     "id": 1585239,
@@ -2713,7 +3437,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 12.5991,
+    "popularidad": 12.547,
     "puntuación": 7.9,
     "votos": 47,
     "adulto": false,
@@ -2721,6 +3445,16 @@
     "año": "2026",
     "imágenes": {
       "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/767ZDrZk48YlKM4cmOvdQF9yFHn.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1920
+        },
         {
           "aspect_ratio": 1.776,
           "height": 1140,
@@ -2760,19 +3494,19 @@
           "vote_average": 3.334,
           "vote_count": 1,
           "width": 3840
-        },
-        {
-          "aspect_ratio": 1.778,
-          "height": 2160,
-          "iso_3166_1": null,
-          "iso_639_1": null,
-          "file_path": "/qMtGpUFfzi9EaTNLzQabcQwLsK9.jpg",
-          "vote_average": 3.334,
-          "vote_count": 1,
-          "width": 3840
         }
       ],
       "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1536,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/qJ1SOKZRDHNACF5Q0IQtOXtQH7f.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1024
+        },
         {
           "aspect_ratio": 0.667,
           "height": 1262,
@@ -2802,10 +3536,20 @@
           "vote_average": 0.0,
           "vote_count": 0,
           "width": 1684
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/viLlbUZNwlot4qlhsAtARscz3mm.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 600
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:40"
+    "última_actualización": "2026-11-27 10:12:39"
   },
   {
     "id": 1437696,
@@ -2868,7 +3612,7 @@
         "name": "Historia"
       }
     ],
-    "popularidad": 11.0451,
+    "popularidad": 7.8196,
     "puntuación": 7.2,
     "votos": 84,
     "adulto": false,
@@ -2960,7 +3704,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:40"
+    "última_actualización": "2026-11-27 10:12:39"
   },
   {
     "id": 1498050,
@@ -3023,7 +3767,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 0.7258,
+    "popularidad": 0.6084,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3054,7 +3798,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:41"
+    "última_actualización": "2026-11-27 10:12:42"
   },
   {
     "id": 1489182,
@@ -3125,7 +3869,7 @@
         "name": "Crimen"
       }
     ],
-    "popularidad": 0.6654,
+    "popularidad": 0.6238,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3166,7 +3910,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:42"
+    "última_actualización": "2026-11-27 10:12:42"
   },
   {
     "id": 1648071,
@@ -3174,7 +3918,7 @@
     "título": "Desposados",
     "título_original": "Desposados",
     "sinopsis": "Nos contará la historia de cuatro matrimonios en diferentes etapas de su relación. Cuando la Iglesia descubre que un impostor ha estado suplantando al sacerdote de una parroquia durante nueve años, los enlaces celebrados por él quedan anulados. Las parejas afectadas deberán, entonces, enfrentarse a una pregunta crucial: ¿Quieren volver a casarse con la misma persona… o aprovechar la ocasión para empezar de nuevo?",
-    "poster_path": "/A6JtulwvU0fdfF8sPJeST8auhIz.jpg",
+    "poster_path": "/yLVmxAX8qCjz9BMUWjEuqgfeMCn.jpg",
     "poster_local": "imagenes_estrenos/Desposados_A6JtulwvU0fdfF8sPJeST8auhIz.jpg",
     "backdrop_path": null,
     "backdrop_local": "",
@@ -3225,7 +3969,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.3875,
+    "popularidad": 0.7846,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -3256,7 +4000,1648 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:42"
+    "última_actualización": "2026-11-27 10:12:43"
+  },
+  {
+    "id": 1596306,
+    "tmdb_id": 1596306,
+    "título": "Kikuyu Land",
+    "título_original": "Kikuyu Land",
+    "sinopsis": "Mientras un periodista de Nairobi investiga una disputa por tierras en la que se ven involucrados el gobierno local y una poderosa corporación multinacional, salen a la luz heridas ocultas y se revelan secretos familiares.",
+    "poster_path": "/a5YGraLDDgg6kTB5MxBzzrWjyWc.jpg",
+    "poster_local": "imagenes_estrenos/Kikuyu_Land_a5YGraLDDgg6kTB5MxBzzrWjyWc.jpg",
+    "backdrop_path": "/axxBd5qfi1uCOJI7JKBWFG1tMHz.jpg",
+    "backdrop_local": "imagenes_estrenos/Kikuyu_Land_backdrop_axxBd5qfi1uCOJI7JKBWFG1tMHz.jpg",
+    "fecha_estreno": "2026-12-05T00:00:00.000Z",
+    "duración": "96 min",
+    "director": "Andrew H. Brown, Bea Wangondu",
+    "directores": [
+      {
+        "name": "Andrew H. Brown",
+        "id": 2318538
+      },
+      {
+        "name": "Bea Wangondu",
+        "id": 5869517
+      }
+    ],
+    "actores": [
+      {
+        "name": "Bea Wangondu",
+        "id": 5869517,
+        "character": "Self",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.391,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/axxBd5qfi1uCOJI7JKBWFG1tMHz.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3wlb7HixLpA17ZtGzFyndkrWchl.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/h6Y6v32wS9VIAOOVWJAuQVxwWBV.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        },
+        {
+          "aspect_ratio": 1.779,
+          "height": 2159,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6xkY9sJd0ONHkTOyoZzR5cjVNou.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-11-27 10:12:43"
+  },
+  {
+    "id": 1449004,
+    "tmdb_id": 1449004,
+    "título": "Pau D'Arco",
+    "título_original": "Pau D'Arco",
+    "sinopsis": "Tras sobrevivir a una masacre en la que la policía mató a diez personas sin tierra en una finca de la región amazónica de Pará, Fernando —testigo clave del crimen— y su abogado, Vargas, luchan por la justicia y por el derecho a la tierra.",
+    "poster_path": "/iB5nwpmZC4RHXFhOJyv9iaw5Pda.jpg",
+    "poster_local": "imagenes_estrenos/Pau_D_Arco_iB5nwpmZC4RHXFhOJyv9iaw5Pda.jpg",
+    "backdrop_path": "/3XlBUAntxrZNEnM0FzuwoAVrmnv.jpg",
+    "backdrop_local": "imagenes_estrenos/Pau_D_Arco_backdrop_3XlBUAntxrZNEnM0FzuwoAVrmnv.jpg",
+    "fecha_estreno": "2026-12-05T00:00:00.000Z",
+    "duración": "88 min",
+    "director": "Ana Aranha",
+    "directores": [
+      {
+        "name": "Ana Aranha",
+        "id": 4593014
+      }
+    ],
+    "actores": [
+      {
+        "name": "Ana Aranha",
+        "id": 4593014,
+        "character": "Self",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.1653,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/3XlBUAntxrZNEnM0FzuwoAVrmnv.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-11-27 10:12:45"
+  },
+  {
+    "id": 1848033,
+    "tmdb_id": 1848033,
+    "título": "Deadly Legacy",
+    "título_original": "Deadly Legacy",
+    "sinopsis": "Azerbaiyán, Laos, Colombia y Bosnia y Herzegovina, el documental recoge testimonios directos en primera persona (sin recreaciones) para mostrar el costo humano de las minas antipersona y las municiones sin detonar. A través de las operaciones de limpieza en primera línea y las historias de comunidades que intentan reconstruir sus vidas y recuperar sus tierras, la película expone la magnitud del problema global —donde decenas de personas mueren o resultan heridas cada día— y plantea un llamado urgente a la acción internacional para convertir el desminado humanitario en una prioridad mundial.",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": "/Al3xyMnPBNTkmYBpR89F6Tni2i6.jpg",
+    "backdrop_local": "imagenes_estrenos/Deadly_Legacy_backdrop_Al3xyMnPBNTkmYBpR89F6Tni2i6.jpg",
+    "fecha_estreno": "2026-12-05T00:00:00.000Z",
+    "duración": "78 min",
+    "director": "Alison Jayne Wilson",
+    "directores": [
+      {
+        "name": "Alison Jayne Wilson",
+        "id": 3679369
+      }
+    ],
+    "actores": [
+      {
+        "name": "Tim Bentinck",
+        "id": 6700297,
+        "character": "Self",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0582,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/Al3xyMnPBNTkmYBpR89F6Tni2i6.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-11-27 10:12:51"
+  },
+  {
+    "id": 1635584,
+    "tmdb_id": 1635584,
+    "título": "La fjella leve",
+    "título_original": "La fjella leve",
+    "sinopsis": "Los pastores de renos sami logran una victoria en el Tribunal Supremo frente al mayor parque eólico de Europa; sin embargo, ante la negativa del Estado a actuar, su lucha pone de manifiesto una crisis más profunda de justicia y confianza.",
+    "poster_path": "/iBVQanqlWl0ccBoFyZpkJ82Qcdj.jpg",
+    "poster_local": "imagenes_estrenos/La_fjella_leve_iBVQanqlWl0ccBoFyZpkJ82Qcdj.jpg",
+    "backdrop_path": "/jQsGx0v85O3QgS6fzjjKbSQftR7.jpg",
+    "backdrop_local": "imagenes_estrenos/La_fjella_leve_backdrop_jQsGx0v85O3QgS6fzjjKbSQftR7.jpg",
+    "fecha_estreno": "2026-12-06T00:00:00.000Z",
+    "duración": "100 min",
+    "director": "Håvard Bustnes",
+    "directores": [
+      {
+        "name": "Håvard Bustnes",
+        "id": 1267618
+      }
+    ],
+    "actores": [
+      {
+        "name": "Terje Haugen",
+        "id": 6033801,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Sissel Stormo Holtan",
+        "id": 6033802,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Elise Holtan Pavall Årbogen",
+        "id": 6033803,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Lena Haugen",
+        "id": 6033804,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Ella Marie Hætta Isaksen",
+        "id": 3759895,
+        "character": "Self",
+        "profile_path": "/2KhHFggxlwul0PgVU1pWUgMC5g6.jpg"
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.7236,
+    "puntuación": 8.0,
+    "votos": 1,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/jQsGx0v85O3QgS6fzjjKbSQftR7.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/vOKD9GkgngpcO8h32WZyp9jg5a4.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 720
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:42"
+  },
+  {
+    "id": 1602350,
+    "tmdb_id": 1602350,
+    "título": "Belleville nous verra toujours danser",
+    "título_original": "Belleville nous verra toujours danser",
+    "sinopsis": "Por la noche, Matthieu, Solo, Kany y su grupo se reúnen en «La Perm’», un espacio comunitario a los pies del parque de Belleville, para debatir, crear y construir un colectivo. Ante los cambios que transforman el barrio donde crecieron, «La Perm’» se convierte en un refugio y en un espacio compartido de resistencia. En el horizonte: «Belleville en Vrai», el festival donde todo lo que han sembrado podrá, por fin, florecer.",
+    "poster_path": "/yPUY8D8NZK4MKqvfsJjsE5ptRJ8.jpg",
+    "poster_local": "imagenes_estrenos/Belleville_nous_verra_toujours_danser_yPUY8D8NZK4MKqvfsJjsE5ptRJ8.jpg",
+    "backdrop_path": "/ox6zmQ1s5YfPa2Pv6my6TmsNYAG.jpg",
+    "backdrop_local": "imagenes_estrenos/Belleville_nous_verra_toujours_danser_backdrop_ox6zmQ1s5YfPa2Pv6my6TmsNYAG.jpg",
+    "fecha_estreno": "2026-12-06T00:00:00.000Z",
+    "duración": "87 min",
+    "director": "Hugo Sobelman",
+    "directores": [
+      {
+        "name": "Hugo Sobelman",
+        "id": 2194758
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.1354,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2102,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ox6zmQ1s5YfPa2Pv6my6TmsNYAG.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3738
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2136,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/5gqoHoyrEgKd7tavi9LXF303aoG.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3797
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2130,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wopKyBZBBzlJy0G1F68ymIJZPrn.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3787
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 2151,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/cO4C8zeJRBZoUzfb03h45HMtLBa.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3824
+        },
+        {
+          "aspect_ratio": 1.777,
+          "height": 2147,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/sAfwjOgqQIhQ8IK2yiIEZhGjJ4p.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 3816
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 2999,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/yPUY8D8NZK4MKqvfsJjsE5ptRJ8.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:47"
+  },
+  {
+    "id": 1783652,
+    "tmdb_id": 1783652,
+    "título": "Kinkillera 08034",
+    "título_original": "Kinkillera 08034",
+    "sinopsis": "Judith, una joven de la alta sociedad barcelonesa, se sumerge en una espiral de fiestas, y desenfreno para escapar de las expectativas familiares. La vida de excesos la lleva a un oscuro encuentro, desencadenando una explosión de adicción y hostilidad familiar que la expulsa de su hogar. Inspirada por la película «Navajeros», decide atracar una farmacia, con consecuencias fatales. Sin opciones, se refugia en un narcopiso, cruzando límites que creía inquebrantables.",
+    "poster_path": "/yL6ha25sGFV2dyGo8KgHIuOGpt9.jpg",
+    "poster_local": "imagenes_estrenos/Kinkillera_08034_yL6ha25sGFV2dyGo8KgHIuOGpt9.jpg",
+    "backdrop_path": "/cNBX1KT9QYCDaeH87YTO1MltsVk.jpg",
+    "backdrop_local": "imagenes_estrenos/Kinkillera_08034_backdrop_cNBX1KT9QYCDaeH87YTO1MltsVk.jpg",
+    "fecha_estreno": "2026-12-06T00:00:00.000Z",
+    "duración": "19 min",
+    "director": "Adriana Arratia",
+    "directores": [
+      {
+        "name": "Adriana Arratia",
+        "id": 4132841
+      }
+    ],
+    "actores": [
+      {
+        "name": "Anna Burguera",
+        "id": 5509209,
+        "character": "Judith",
+        "profile_path": null
+      },
+      {
+        "name": "Irea Hereu",
+        "id": 6513874,
+        "character": "Rita",
+        "profile_path": null
+      },
+      {
+        "name": "Joan Bentallé",
+        "id": 1072090,
+        "character": "Padre",
+        "profile_path": "/vVA9m2tMzS2gLNQ72HlJjEvowhn.jpg"
+      },
+      {
+        "name": "Noël Olivé",
+        "id": 2374571,
+        "character": "Madre",
+        "profile_path": null
+      },
+      {
+        "name": "Sophie Román",
+        "id": 6513876,
+        "character": "Hermana",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.1011,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/cNBX1KT9QYCDaeH87YTO1MltsVk.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/yL6ha25sGFV2dyGo8KgHIuOGpt9.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:48"
+  },
+  {
+    "id": 1566555,
+    "tmdb_id": 1566555,
+    "título": "Shrinking Space",
+    "título_original": "Shrinking Space",
+    "sinopsis": "La cooperante española Juana Ruiz estuvo encarcelada por Israel casi un año entre 2021 y 2022 acusada de terrorismo, sin ninguna prueba evidente. Su historia causó un gran impacto en España, donde se recaudaron fondos y se convocaron decenas de manifestaciones para conseguir su liberación. ¿Qué significó? ¿Cómo consiguió ser liberada? Su caso no fue el único. En los últimos años Israel ha ilegalizado y perseguido a los principales movimientos sociales y de cooperación palestinos, acusados, sin pruebas, de terroristas. “Espacio menguante” combina el análisis crítico con un retrato íntimo de activistas palestinas y personas trabajadoras del sector humanitario que han sido blanco de estas acciones, arrestadas y encarceladas.",
+    "poster_path": "/qJ2WkYFTojnQolDxFyQxpd9QguM.jpg",
+    "poster_local": "imagenes_estrenos/Shrinking_Space_qJ2WkYFTojnQolDxFyQxpd9QguM.jpg",
+    "backdrop_path": "/6iMhyFsGjB8tNQZWtUmE5NdHzvZ.jpg",
+    "backdrop_local": "imagenes_estrenos/Shrinking_Space_backdrop_6iMhyFsGjB8tNQZWtUmE5NdHzvZ.jpg",
+    "fecha_estreno": "2026-12-07T00:00:00.000Z",
+    "duración": "79 min",
+    "director": "Norma Nebot, Cristina Mora",
+    "directores": [
+      {
+        "name": "Norma Nebot",
+        "id": 2753831
+      },
+      {
+        "name": "Cristina Mora",
+        "id": 5764311
+      }
+    ],
+    "actores": [
+      {
+        "name": "Norma Nebot",
+        "id": 2753831,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Cristina Mora",
+        "id": 5652311,
+        "character": "Self",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.2132,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/6iMhyFsGjB8tNQZWtUmE5NdHzvZ.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/qJ2WkYFTojnQolDxFyQxpd9QguM.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:48"
+  },
+  {
+    "id": 560979,
+    "tmdb_id": 560979,
+    "título": "En la periferia",
+    "título_original": "En la periferia",
+    "sinopsis": "El rock and roll en el Estado de México cobra vida gracias a la participación de varias decenas de agrupaciones musicales, que abarcan desde pequeñas presentaciones en terrenos baldíos y bodegas hasta grandes producciones en eventos masivos que reúnen a cinco o diez mil personas. En este universo de rituales, símbolos y códigos, nos acercamos a la obra de ocho bandas: Bostik, Tex Tex, Liran'Roll, Lvzbel, Rebel'd Punk, Follaje Blues Band, Transmetal y Juan Hernández y su Blues Band.",
+    "poster_path": "/eavzpmj9gXSg4IuCq8nqCOTK0uX.jpg",
+    "poster_local": "imagenes_estrenos/En_la_periferia_eavzpmj9gXSg4IuCq8nqCOTK0uX.jpg",
+    "backdrop_path": "/rrEUd5QcqrhhAYuhD1PWIT0nBS0.jpg",
+    "backdrop_local": "imagenes_estrenos/En_la_periferia_backdrop_rrEUd5QcqrhhAYuhD1PWIT0nBS0.jpg",
+    "fecha_estreno": "2026-12-07T00:00:00.000Z",
+    "duración": "86 min",
+    "director": "Alberto Zúñiga Rodríguez",
+    "directores": [
+      {
+        "name": "Alberto Zúñiga Rodríguez",
+        "id": 1398043
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.1774,
+    "puntuación": 5.0,
+    "votos": 1,
+    "adulto": false,
+    "video": false,
+    "año": "2017",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/rrEUd5QcqrhhAYuhD1PWIT0nBS0.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/eavzpmj9gXSg4IuCq8nqCOTK0uX.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:49"
+  },
+  {
+    "id": 1709152,
+    "tmdb_id": 1709152,
+    "título": "Temps Mort",
+    "título_original": "Temps Mort",
+    "sinopsis": "En un mundo donde el tiempo de vida se ha convertido en moneda, Alexandre, al borde de la bancarrota, descubre una forma arriesgada de conseguir más... pero cada minuto ganado podría tener un precio.",
+    "poster_path": "/oXa6wHVcBO2OdgQBnWK6Nu00jlE.jpg",
+    "poster_local": "imagenes_estrenos/Temps_Mort_oXa6wHVcBO2OdgQBnWK6Nu00jlE.jpg",
+    "backdrop_path": "/wudoqpk7RoZx5yTCKFRTFluK38s.jpg",
+    "backdrop_local": "imagenes_estrenos/Temps_Mort_backdrop_wudoqpk7RoZx5yTCKFRTFluK38s.jpg",
+    "fecha_estreno": "2026-12-07T00:00:00.000Z",
+    "duración": "5 min",
+    "director": "Jade Coquelet, Charlie Lukowiak, Élise Morin, Louise Marchandeau, Ulysse Vacher-Marchand",
+    "directores": [
+      {
+        "name": "Jade Coquelet",
+        "id": 6267272
+      },
+      {
+        "name": "Charlie Lukowiak",
+        "id": 6266648
+      },
+      {
+        "name": "Élise Morin",
+        "id": 6267270
+      },
+      {
+        "name": "Louise Marchandeau",
+        "id": 6267278
+      },
+      {
+        "name": "Ulysse Vacher-Marchand",
+        "id": 6267280
+      }
+    ],
+    "actores": [
+      {
+        "name": "Charlie Lukowiak",
+        "id": 6266648,
+        "character": "Alexandre Brooker",
+        "profile_path": "/qNH0mhW2W6wEfZ4hezCrsDFpS0.jpg"
+      },
+      {
+        "name": "Léontine Maugras",
+        "id": 6176938,
+        "character": "Margot",
+        "profile_path": null
+      },
+      {
+        "name": "Amir Hadjam",
+        "id": 6266649,
+        "character": "Croupier",
+        "profile_path": null
+      },
+      {
+        "name": "Élise Morin",
+        "id": 6267270,
+        "character": "Barmaid",
+        "profile_path": null
+      },
+      {
+        "name": "Jade Coquelet",
+        "id": 6267272,
+        "character": "Joueuse de poker",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.0724,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 2160,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wudoqpk7RoZx5yTCKFRTFluK38s.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 3840
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 3000,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oXa6wHVcBO2OdgQBnWK6Nu00jlE.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 2000
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:49"
+  },
+  {
+    "id": 1769124,
+    "tmdb_id": 1769124,
+    "título": "Heval Birako",
+    "título_original": "Heval Birako",
+    "sinopsis": "Un apasionante drama bélico kurdo, ambientado durante la lucha contra el terror en Rojava, que se centra en dos compañeros de armas unidos por la hermandad, el sacrificio y el recuerdo perdurable de los defensores caídos.",
+    "poster_path": "/ey7IfYZy1E56k61PJB9ByHGwyB0.jpg",
+    "poster_local": "imagenes_estrenos/Heval_Birako_ey7IfYZy1E56k61PJB9ByHGwyB0.jpg",
+    "backdrop_path": "/rt8QE3sDpcgdFThsVhQ93p32FUF.jpg",
+    "backdrop_local": "imagenes_estrenos/Heval_Birako_backdrop_rt8QE3sDpcgdFThsVhQ93p32FUF.jpg",
+    "fecha_estreno": "2026-12-07T00:00:00.000Z",
+    "duración": "82 min",
+    "director": "Numan Yigit",
+    "directores": [
+      {
+        "name": "Numan Yigit",
+        "id": 6473298
+      }
+    ],
+    "actores": [
+      {
+        "name": "Argeş Rojhilat",
+        "id": 6473299,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0163,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/rt8QE3sDpcgdFThsVhQ93p32FUF.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ey7IfYZy1E56k61PJB9ByHGwyB0.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1000
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:50"
+  },
+  {
+    "id": 1848068,
+    "tmdb_id": 1848068,
+    "título": "When the News Breaks You",
+    "título_original": "When the News Breaks You",
+    "sinopsis": "A través de testimonios íntimos, imágenes de archivo y recreaciones, la película expone el peso del estrés postraumático que muchos profesionales sufren en silencio, la discriminación y los ataques sistemáticos contra la prensa. Un retrato humano y urgente sobre el precio emocional de contar la verdad cuando tú mismo vives dentro de la noticia.",
+    "poster_path": "/uaHbaV2EuPitaWlsC7ZwR9FJBLT.jpg",
+    "poster_local": "imagenes_estrenos/When_the_News_Breaks_You_uaHbaV2EuPitaWlsC7ZwR9FJBLT.jpg",
+    "backdrop_path": "/xSRtxVqBO5xWO6aMEO0vMUUqP9H.jpg",
+    "backdrop_local": "imagenes_estrenos/When_the_News_Breaks_You_backdrop_xSRtxVqBO5xWO6aMEO0vMUUqP9H.jpg",
+    "fecha_estreno": "2026-12-07T00:00:00.000Z",
+    "duración": "106 min",
+    "director": "Hamad Al Hajri",
+    "directores": [
+      {
+        "name": "Hamad Al Hajri",
+        "id": 6700352
+      }
+    ],
+    "actores": [
+      {
+        "name": "Hamad Al Hajri",
+        "id": 6700352,
+        "character": "Self",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0194,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/xSRtxVqBO5xWO6aMEO0vMUUqP9H.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/uaHbaV2EuPitaWlsC7ZwR9FJBLT.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:51"
+  },
+  {
+    "id": 1708667,
+    "tmdb_id": 1708667,
+    "título": "A LA CAZA (On the Hunt)",
+    "título_original": "A LA CAZA (On the Hunt)",
+    "sinopsis": "En un día de verano, Daniel y su novio Sergio disfrutan en la piscina hasta que un grupo de chicos los acosa, desencadenando una situación tan violenta como inesperada.",
+    "poster_path": "/heeuqTGxNxiNRMHgmLO03Lg1Qr4.jpg",
+    "poster_local": "imagenes_estrenos/A_LA_CAZA__On_the_Hunt__heeuqTGxNxiNRMHgmLO03Lg1Qr4.jpg",
+    "backdrop_path": "/nd0qHcr8hDUVqmT5LnnQUxnUS3i.jpg",
+    "backdrop_local": "imagenes_estrenos/A_LA_CAZA__On_the_Hunt__backdrop_nd0qHcr8hDUVqmT5LnnQUxnUS3i.jpg",
+    "fecha_estreno": "2026-12-08T00:00:00.000Z",
+    "duración": "3 min",
+    "director": "Víctor Torrents",
+    "directores": [
+      {
+        "name": "Víctor Torrents",
+        "id": 3823472
+      }
+    ],
+    "actores": [
+      {
+        "name": "Jaume Ibars",
+        "id": 2263743,
+        "character": "Jorge",
+        "profile_path": "/bvaRP4Ct3UTf8NVQJPaBQa9pvDe.jpg"
+      },
+      {
+        "name": "Arnau Guerrero",
+        "id": 5160693,
+        "character": "Daniel",
+        "profile_path": null
+      },
+      {
+        "name": "Daniel García",
+        "id": 6265192,
+        "character": "Sergio",
+        "profile_path": null
+      },
+      {
+        "name": "Sergi Cayetano",
+        "id": 6265195,
+        "character": "Iván",
+        "profile_path": null
+      },
+      {
+        "name": "Óscar Llamas",
+        "id": 6265196,
+        "character": "Óscar",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "popularidad": 0.4296,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.777,
+          "height": 941,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/nd0qHcr8hDUVqmT5LnnQUxnUS3i.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1672
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 1536,
+          "iso_3166_1": "ES",
+          "iso_639_1": "es",
+          "file_path": "/heeuqTGxNxiNRMHgmLO03Lg1Qr4.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1024
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:44"
+  },
+  {
+    "id": 1254209,
+    "tmdb_id": 1254209,
+    "título": "기계의 나라에서",
+    "título_original": "기계의 나라에서",
+    "sinopsis": "Cada año, muchos trabajadores asiáticos llegan a Corea del Sur con sueños de prosperidad, solo para enfrentarse a la explotación en lo que se conoce como la «Ciudad de las Máquinas». Este documental sigue a tres trabajadores nepalíes mientras soportan duras realidades y, al mismo tiempo, recuperan su dignidad a través de la poesía.",
+    "poster_path": "/7g0ZqZXj0EDATmoQGqgFMiElTtZ.jpg",
+    "poster_local": "imagenes_estrenos/_________7g0ZqZXj0EDATmoQGqgFMiElTtZ.jpg",
+    "backdrop_path": "/7AMqlOKzLG19ykhLWcDhv3wj7ZR.jpg",
+    "backdrop_local": "imagenes_estrenos/_________backdrop_7AMqlOKzLG19ykhLWcDhv3wj7ZR.jpg",
+    "fecha_estreno": "2026-12-08T00:00:00.000Z",
+    "duración": "92 min",
+    "director": "김옥영",
+    "directores": [
+      {
+        "name": "김옥영",
+        "id": 5341890
+      }
+    ],
+    "actores": [
+      {
+        "name": "Dilip Bantawa",
+        "id": 5343973,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Sunil Dipta Rai",
+        "id": 5343975,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Jiwan Khatri",
+        "id": 5343978,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Aishwarya Shrestha",
+        "id": 6231774,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Ramesh Sayan",
+        "id": 6231775,
+        "character": "Self",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.1915,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 810,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7AMqlOKzLG19ykhLWcDhv3wj7ZR.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1440
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 2560,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/7g0ZqZXj0EDATmoQGqgFMiElTtZ.jpg",
+          "vote_average": 3.334,
+          "vote_count": 1,
+          "width": 1707
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 1500,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/hNw0Rqj0XcznJ6I4sDQMYJ0GSUn.jpg",
+          "vote_average": 0.166,
+          "vote_count": 1,
+          "width": 1000
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:45"
+  },
+  {
+    "id": 1494906,
+    "tmdb_id": 1494906,
+    "título": "El negre té nom",
+    "título_original": "El negre té nom",
+    "sinopsis": "'El negre té nom' revela la verdadera identidad de la casa que durante décadas va a ser expuesta en una pieza de museo: el Negre de Banyoles. Ell va ser el protagonista de una política internacional que gairebé va fer trontollar los Juegos Olímpicos del 92. La película sirve como un vistazo a nuestra memoria reciente.",
+    "poster_path": "/uzYWztunve13gEVzEjqyrrRkLUB.jpg",
+    "poster_local": "imagenes_estrenos/El_negre_t__nom_uzYWztunve13gEVzEjqyrrRkLUB.jpg",
+    "backdrop_path": "/8aGOnjRJ7lhOFOQuyTR15E0XWOk.jpg",
+    "backdrop_local": "imagenes_estrenos/El_negre_t__nom_backdrop_8aGOnjRJ7lhOFOQuyTR15E0XWOk.jpg",
+    "fecha_estreno": "2026-12-08T00:00:00.000Z",
+    "duración": "74 min",
+    "director": "Fèlix Colomer Vallès",
+    "directores": [
+      {
+        "name": "Fèlix Colomer Vallès",
+        "id": 1835536
+      }
+    ],
+    "actores": [
+      {
+        "name": "Fèlix Colomer Vallès",
+        "id": 1835536,
+        "character": "Self",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "popularidad": 0.2484,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/8aGOnjRJ7lhOFOQuyTR15E0XWOk.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/geENO1az4zmOx9KY33gKhegZx68.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-11-27 10:12:46"
+  },
+  {
+    "id": 1492967,
+    "tmdb_id": 1492967,
+    "título": "Hlas lesa",
+    "título_original": "Hlas lesa",
+    "sinopsis": "El bosque se cultiva con la sierra. Al menos, eso es lo que todavía se enseña en las escuelas forestales. Pero ¿qué necesita realmente un bosque sano? Los silvicultores y los cazadores ven el bosque como un recurso agrícola, y la naturaleza como algo que debe ser constantemente regulado y gestionado. En el otro extremo se encuentran los conservacionistas —defensores de la no intervención—, quienes sostienen que el bosque puede valerse por sí mismo, sin nuestra ayuda. ¿Qué papel desempeña la propiedad privada en este conflicto? ¿Y es el derecho del ser humano a utilizar los recursos naturales de su entorno superior al derecho de un oso a hacer lo mismo? Los bosques eslovacos se han convertido en un campo de batalla; pero, además, son el reflejo de un conflicto social mucho más profundo de lo que parece a simple vista.",
+    "poster_path": "/ebm15nQzdsdXvpgB9eyBoTqo6v9.jpg",
+    "poster_local": "imagenes_estrenos/Hlas_lesa_ebm15nQzdsdXvpgB9eyBoTqo6v9.jpg",
+    "backdrop_path": "/kan7b0LC5T7G4lE6iGVLnyzkmU4.jpg",
+    "backdrop_local": "imagenes_estrenos/Hlas_lesa_backdrop_kan7b0LC5T7G4lE6iGVLnyzkmU4.jpg",
+    "fecha_estreno": "2026-12-08T00:00:00.000Z",
+    "duración": "71 min",
+    "director": "Zuzana Piussi",
+    "directores": [
+      {
+        "name": "Zuzana Piussi",
+        "id": 1124587
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.1157,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/kan7b0LC5T7G4lE6iGVLnyzkmU4.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/55YznbHcCkLixF9K7RG6gzlQOvX.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ep4BHxMaH2TLHUNHQAtn7QDdGYT.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ntMwfFP71qHLtUowSniNu4w39c8.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        },
+        {
+          "aspect_ratio": 1.778,
+          "height": 1080,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/4c3hcK13nos9eukchmnZ7r5RiLW.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1920
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-11-27 10:12:46"
+  },
+  {
+    "id": 1848098,
+    "tmdb_id": 1848098,
+    "título": "Chinamperos",
+    "título_original": "Chinamperos",
+    "sinopsis": "Retrata a los agricultores que mantienen técnicas agrícolas ancestrales frente a la urbanización, la degradación ambiental, el cambio climático y los cambios generacionales.",
+    "poster_path": "/oVFUoA9ayn3395TGu9kvltLAt9v.jpg",
+    "poster_local": "imagenes_estrenos/Chinamperos_oVFUoA9ayn3395TGu9kvltLAt9v.jpg",
+    "backdrop_path": "/g35vJ9tv05ufv5TnM90S2APdDiU.jpg",
+    "backdrop_local": "imagenes_estrenos/Chinamperos_backdrop_g35vJ9tv05ufv5TnM90S2APdDiU.jpg",
+    "fecha_estreno": "2026-12-08T00:00:00.000Z",
+    "duración": "43 min",
+    "director": "Rodrigo Jardón",
+    "directores": [
+      {
+        "name": "Rodrigo Jardón",
+        "id": 4206449
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/g35vJ9tv05ufv5TnM90S2APdDiU.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/oVFUoA9ayn3395TGu9kvltLAt9v.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:50"
+  },
+  {
+    "id": 1571737,
+    "tmdb_id": 1571737,
+    "título": "The Sami Song of Survival: Indigenous Activism on the Northern Frontier",
+    "título_original": "The Sami Song of Survival: Indigenous Activism on the Northern Frontier",
+    "sinopsis": "El pueblo sami, presente principalmente en Rusia y Laponia, continúa su lucha contra la opresión y el colonialismo. Durante siglos, ha enfrentado racismo institucionalizado, marginación y la represión de su cultura y su lengua. Gracias al activismo, en los últimos años ha logrado reconocimiento y respeto, pero la lucha aún no ha terminado. A través del arte y la resiliencia cultural, los sami reivindican su derecho a existir y prosperar en sus tierras ancestrales.",
+    "poster_path": "/2kEnmNTJOEdwo8u7f1GA8yC31mw.jpg",
+    "poster_local": "imagenes_estrenos/The_Sami_Song_of_Survival__Indigenous_Activism_on_the_Northern_Frontier_2kEnmNTJOEdwo8u7f1GA8yC31mw.jpg",
+    "backdrop_path": "/wAhCxHIgz4yl5a602rklWh9ztjY.jpg",
+    "backdrop_local": "imagenes_estrenos/The_Sami_Song_of_Survival__Indigenous_Activism_on_the_Northern_Frontier_backdrop_wAhCxHIgz4yl5a602rklWh9ztjY.jpg",
+    "fecha_estreno": "2026-12-09T00:00:00.000Z",
+    "duración": "49 min",
+    "director": "Iara Lee",
+    "directores": [
+      {
+        "name": "Iara Lee",
+        "id": 1006852
+      }
+    ],
+    "actores": [
+      {
+        "name": "Áilu Valle",
+        "id": 4857857,
+        "character": "Self",
+        "profile_path": null
+      },
+      {
+        "name": "Ánde Somby",
+        "id": 3404054,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Anders Sunna",
+        "id": 2267270,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Andrey Ageev",
+        "id": 2279332,
+        "character": "",
+        "profile_path": null
+      },
+      {
+        "name": "Andrei Danilov",
+        "id": 3783437,
+        "character": "",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.3833,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/wAhCxHIgz4yl5a602rklWh9ztjY.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.714,
+          "height": 1110,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/2kEnmNTJOEdwo8u7f1GA8yC31mw.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 793
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:44"
+  },
+  {
+    "id": 1443460,
+    "tmdb_id": 1443460,
+    "título": "My Name Is Hope",
+    "título_original": "My Name Is Hope",
+    "sinopsis": "Un cortometraje que captura la eterna lucha entre opresores y oprimidos en una era en la que el olvido se convierte en el arma más mortífera contra la libertad.",
+    "poster_path": "/9sQSTLuxpp7hLrIIUenbVZcu77h.jpg",
+    "poster_local": "imagenes_estrenos/My_Name_Is_Hope_9sQSTLuxpp7hLrIIUenbVZcu77h.jpg",
+    "backdrop_path": "/gUuSEtJbgf5DTvQqMJbYTzkED0R.jpg",
+    "backdrop_local": "imagenes_estrenos/My_Name_Is_Hope_backdrop_gUuSEtJbgf5DTvQqMJbYTzkED0R.jpg",
+    "fecha_estreno": "2026-12-09T00:00:00.000Z",
+    "duración": "20 min",
+    "director": "Sherwan Haji",
+    "directores": [
+      {
+        "name": "Sherwan Haji",
+        "id": 1730170
+      }
+    ],
+    "actores": [
+      {
+        "name": "Rozelina Ahmad",
+        "id": 5284353,
+        "character": "Amal",
+        "profile_path": null
+      },
+      {
+        "name": "Kärdo Shiwan",
+        "id": 4438518,
+        "character": "The prisoner",
+        "profile_path": null
+      },
+      {
+        "name": "Hassan Alssaleh",
+        "id": 5284354,
+        "character": "Old janitor",
+        "profile_path": null
+      },
+      {
+        "name": "Jalal Hajali",
+        "id": 5284356,
+        "character": "Young janitor",
+        "profile_path": null
+      },
+      {
+        "name": "Mazen Aljibaee",
+        "id": 5284358,
+        "character": "Old prison guard",
+        "profile_path": null
+      }
+    ],
+    "géneros": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.4236,
+    "puntuación": 7.0,
+    "votos": 1,
+    "adulto": false,
+    "video": false,
+    "año": "2025",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.78,
+          "height": 1266,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/gUuSEtJbgf5DTvQqMJbYTzkED0R.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2253
+        },
+        {
+          "aspect_ratio": 1.78,
+          "height": 1266,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/p4aCdtmAKHTpKGsnB4B415xe8j.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2253
+        },
+        {
+          "aspect_ratio": 1.78,
+          "height": 1266,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/b69hzTSOt7dO2T92EREduZEnq6n.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 2253
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 900,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/9sQSTLuxpp7hLrIIUenbVZcu77h.jpg",
+          "vote_average": 3.334,
+          "vote_count": 2,
+          "width": 600
+        },
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/gxK6HESM3uSVxg1NwhIkhKA5qZj.jpg",
+          "vote_average": 0.166,
+          "vote_count": 2,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:45"
+  },
+  {
+    "id": 1457470,
+    "tmdb_id": 1457470,
+    "título": "Rosine",
+    "título_original": "Rosine",
+    "sinopsis": "Cuenta la historia real de Rosine Makosso, una mujer congoleña en exilio político que murió mientras esperaba una respuesta a su petición de asilo en Europa.",
+    "poster_path": "/i39Gvf6cWc2iT8ZBqrb110rz5u4.jpg",
+    "poster_local": "imagenes_estrenos/Rosine_i39Gvf6cWc2iT8ZBqrb110rz5u4.jpg",
+    "backdrop_path": "/ywwRmMVG1QJRQHZ5asoqQsdyyka.jpg",
+    "backdrop_local": "imagenes_estrenos/Rosine_backdrop_ywwRmMVG1QJRQHZ5asoqQsdyyka.jpg",
+    "fecha_estreno": "2026-12-09T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "Pablo A. Zareceansky",
+    "directores": [
+      {
+        "name": "Pablo A. Zareceansky",
+        "id": 1487371
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "popularidad": 0.1323,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/ywwRmMVG1QJRQHZ5asoqQsdyyka.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-11-27 10:12:47"
+  },
+  {
+    "id": 1781301,
+    "tmdb_id": 1781301,
+    "título": "Women of Sin",
+    "título_original": "Women of Sin",
+    "sinopsis": "En Marruecos, el artículo 490 sigue penalizando las relaciones sexuales fuera del matrimonio, convirtiendo a miles de mujeres en delincuentes. Karima Nadir ha dedicado su vida a luchar contra esta injusticia, en defensa de la dignidad, la protección y el reconocimiento. Estigmatizada como «inmoral» por ser madre soltera, lucha por su hijo mientras cuida de su propia madre. Como activista, apoya a mujeres perseguidas por «indecencia pública», así como a víctimas de violación que temen ser castigadas ellas mismas.",
+    "poster_path": "/aCpFfHFR3HDmrvQ8fLfwm7Z1PwX.jpg",
+    "poster_local": "imagenes_estrenos/Women_of_Sin_aCpFfHFR3HDmrvQ8fLfwm7Z1PwX.jpg",
+    "backdrop_path": "/moShTX9ypeencEEAAe8kDypCkCR.jpg",
+    "backdrop_local": "imagenes_estrenos/Women_of_Sin_backdrop_moShTX9ypeencEEAAe8kDypCkCR.jpg",
+    "fecha_estreno": "2026-12-09T00:00:00.000Z",
+    "duración": "73 min",
+    "director": "Noufissa Charaï",
+    "directores": [
+      {
+        "name": "Noufissa Charaï",
+        "id": 6594552
+      }
+    ],
+    "actores": [],
+    "géneros": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "popularidad": 0.0041,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "2026",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/moShTX9ypeencEEAAe8kDypCkCR.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": []
+    },
+    "última_actualización": "2026-11-27 10:12:50"
+  },
+  {
+    "id": 1848163,
+    "tmdb_id": 1848163,
+    "título": "Where Is Home?",
+    "título_original": "Where Is Home?",
+    "sinopsis": "",
+    "poster_path": null,
+    "poster_local": "",
+    "backdrop_path": null,
+    "backdrop_local": "",
+    "fecha_estreno": "2026-12-09T00:00:00.000Z",
+    "duración": "0 min",
+    "director": "",
+    "directores": [],
+    "actores": [],
+    "géneros": [],
+    "popularidad": 0.0,
+    "puntuación": 0.0,
+    "votos": 0,
+    "adulto": false,
+    "video": false,
+    "año": "",
+    "imágenes": {
+      "backdrops": [
+        {
+          "aspect_ratio": 1.778,
+          "height": 720,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/1bxkYq9C1rUGa3jxa4U5iqiMKuZ.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 1280
+        }
+      ],
+      "posters": [
+        {
+          "aspect_ratio": 0.667,
+          "height": 750,
+          "iso_3166_1": null,
+          "iso_639_1": null,
+          "file_path": "/tnskh8LoU4TtqO0XhnkutHPAi3o.jpg",
+          "vote_average": 0.0,
+          "vote_count": 0,
+          "width": 500
+        }
+      ]
+    },
+    "última_actualización": "2026-11-27 10:12:50"
   },
   {
     "id": 1377237,
@@ -3323,7 +5708,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 39.4874,
+    "popularidad": 37.6922,
     "puntuación": 8.142,
     "votos": 892,
     "adulto": false,
@@ -3435,7 +5820,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:39"
+    "última_actualización": "2026-11-27 10:12:38"
   },
   {
     "id": 539745,
@@ -3510,7 +5895,7 @@
         "name": "Ciencia ficción"
       }
     ],
-    "popularidad": 4.8351,
+    "popularidad": 5.4975,
     "puntuación": 6.288,
     "votos": 125,
     "adulto": false,
@@ -3592,7 +5977,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:40"
+    "última_actualización": "2026-11-27 10:12:39"
   },
   {
     "id": 1454680,
@@ -3655,7 +6040,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 2.3529,
+    "popularidad": 2.5126,
     "puntuación": 6.15,
     "votos": 30,
     "adulto": false,
@@ -3717,7 +6102,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:40"
+    "última_actualización": "2026-11-27 10:12:39"
   },
   {
     "id": 1259983,
@@ -3780,7 +6165,7 @@
         "name": "Suspense"
       }
     ],
-    "popularidad": 2.1755,
+    "popularidad": 1.9503,
     "puntuación": 6.031,
     "votos": 352,
     "adulto": false,
@@ -3841,7 +6226,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-11-26 22:11:40"
+    "última_actualización": "2026-11-27 10:12:39"
   },
   {
     "id": 1276521,
@@ -3916,7 +6301,7 @@
         "name": "Familia"
       }
     ],
-    "popularidad": 2.1048,
+    "popularidad": 2.2361,
     "puntuación": 6.2,
     "votos": 32,
     "adulto": false,
@@ -4008,7 +6393,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:40"
+    "última_actualización": "2026-11-27 10:12:40"
   },
   {
     "id": 1306291,
@@ -4067,9 +6452,9 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 2.0952,
-    "puntuación": 0.0,
-    "votos": 0,
+    "popularidad": 2.3988,
+    "puntuación": 7.0,
+    "votos": 1,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -4129,7 +6514,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:41"
+    "última_actualización": "2026-11-27 10:12:40"
   },
   {
     "id": 1126097,
@@ -4196,7 +6581,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.9172,
+    "popularidad": 1.6045,
     "puntuación": 6.083,
     "votos": 12,
     "adulto": false,
@@ -4268,7 +6653,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:41"
+    "última_actualización": "2026-11-27 10:12:40"
   },
   {
     "id": 1437703,
@@ -4331,7 +6716,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 1.7784,
+    "popularidad": 1.5781,
     "puntuación": 7.4,
     "votos": 25,
     "adulto": false,
@@ -4403,7 +6788,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:41"
+    "última_actualización": "2026-11-27 10:12:40"
   },
   {
     "id": 1560309,
@@ -4466,7 +6851,7 @@
         "name": "Romance"
       }
     ],
-    "popularidad": 1.7284,
+    "popularidad": 1.8178,
     "puntuación": 6.0,
     "votos": 2,
     "adulto": false,
@@ -4527,7 +6912,7 @@
       ],
       "posters": []
     },
-    "última_actualización": "2026-11-26 22:11:41"
+    "última_actualización": "2026-11-27 10:12:40"
   },
   {
     "id": 1498915,
@@ -4586,7 +6971,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 1.456,
+    "popularidad": 1.2349,
     "puntuación": 5.9,
     "votos": 8,
     "adulto": false,
@@ -4648,7 +7033,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:41"
+    "última_actualización": "2026-11-27 10:12:40"
   },
   {
     "id": 1430010,
@@ -4707,7 +7092,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.5373,
+    "popularidad": 0.3838,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4728,7 +7113,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:42"
+    "última_actualización": "2026-11-27 10:12:42"
   },
   {
     "id": 1304939,
@@ -4783,7 +7168,7 @@
         "name": "Música"
       }
     ],
-    "popularidad": 0.5143,
+    "popularidad": 0.5227,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4845,7 +7230,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:42"
+    "última_actualización": "2026-11-27 10:12:42"
   },
   {
     "id": 1025391,
@@ -4908,7 +7293,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 0.4577,
+    "popularidad": 0.4,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -4980,7 +7365,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:42"
+    "última_actualización": "2026-11-27 10:12:43"
   },
   {
     "id": 1605999,
@@ -5033,7 +7418,7 @@
         "name": "Comedia"
       }
     ],
-    "popularidad": 0.3323,
+    "popularidad": 0.4623,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -5065,7 +7450,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:42"
+    "última_actualización": "2026-11-27 10:12:44"
   },
   {
     "id": 1386309,
@@ -5132,7 +7517,7 @@
         "name": "Música"
       }
     ],
-    "popularidad": 0.3185,
+    "popularidad": 0.3286,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -5164,7 +7549,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:42"
+    "última_actualización": "2026-11-27 10:12:44"
   },
   {
     "id": 1003596,
@@ -5235,7 +7620,7 @@
         "name": "Aventura"
       }
     ],
-    "popularidad": 261.3654,
+    "popularidad": 263.0295,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -5347,7 +7732,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:39"
+    "última_actualización": "2026-11-27 10:12:38"
   },
   {
     "id": 1170608,
@@ -5410,7 +7795,7 @@
         "name": "Aventura"
       }
     ],
-    "popularidad": 52.0432,
+    "popularidad": 51.2112,
     "puntuación": 0.0,
     "votos": 0,
     "adulto": false,
@@ -5522,7 +7907,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:39"
+    "última_actualización": "2026-11-27 10:12:38"
   },
   {
     "id": 1154730,
@@ -5581,9 +7966,9 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 5.5358,
-    "puntuación": 7.169,
-    "votos": 65,
+    "popularidad": 5.3181,
+    "puntuación": 7.182,
+    "votos": 66,
     "adulto": false,
     "video": false,
     "año": "2026",
@@ -5693,7 +8078,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:40"
+    "última_actualización": "2026-11-27 10:12:39"
   },
   {
     "id": 1315657,
@@ -5752,7 +8137,7 @@
         "name": "Drama"
       }
     ],
-    "popularidad": 2.9724,
+    "popularidad": 2.8954,
     "puntuación": 7.0,
     "votos": 53,
     "adulto": false,
@@ -5834,7 +8219,7 @@
         }
       ]
     },
-    "última_actualización": "2026-11-26 22:11:40"
+    "última_actualización": "2026-11-27 10:12:39"
   },
   {
     "id": 1765072,
