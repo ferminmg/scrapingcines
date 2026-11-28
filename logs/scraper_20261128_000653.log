@@ -1,0 +1,57 @@
+2026-11-28 00:06:53,435 - INFO - Iniciando proceso de scraping
+2026-11-28 00:06:55,710 - WARNING - Crítica rota sin post en el blog: DIOS MÍO, PERO ¿QUÉ NOS HAS HECHO?  de Philippe de Chauveron (2022-08-26)
+2026-11-28 00:06:55,722 - INFO - Críticas reparadas: 0, sin poder reparar: 1
+2026-11-28 00:06:55,724 - INFO - Posts existentes encontrados: 2816
+2026-11-28 00:06:55,724 - INFO - Intentando obtener posts desde: https://ghostintheblog.com/
+2026-11-28 00:06:57,429 - INFO - Se encontraron 10 posts
+2026-11-28 00:06:57,430 - INFO - Comenzando extracción de información del post
+2026-11-28 00:06:57,430 - INFO - Título del post: EL DIRECTOR de Dani de la Orden
+2026-11-28 00:06:57,430 - INFO - Fecha del post: 2026-11-28T00:47:12+01:00
+2026-11-28 00:06:57,430 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/el-directo-de-dani-de-la-orden/
+2026-11-28 00:06:59,545 - INFO - Contenido extraído y estructurado (4520 caracteres)
+2026-11-28 00:06:59,546 - INFO - Guardando post en: posts/EL_DIRECTOR_2026-11-28.json
+2026-11-28 00:06:59,546 - INFO - Post guardado exitosamente
+2026-11-28 00:06:59,546 - INFO - Actualizando índice de películas
+2026-11-28 00:06:59,547 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-11-28 00:06:59,550 - INFO - Índice existente cargado con 2725 películas
+2026-11-28 00:06:59,559 - INFO - Película agregada al índice: EL DIRECTOR
+2026-11-28 00:06:59,560 - INFO - Nuevo post guardado: EL DIRECTOR de Dani de la Orden
+2026-11-28 00:06:59,560 - INFO - Comenzando extracción de información del post
+2026-11-28 00:06:59,560 - INFO - Título del post: ADOLESCENCIA, SEXO Y MUERTE EN CAMPAMENTO MIASMA de Jane Schoenbrun
+2026-11-28 00:06:59,560 - INFO - Fecha del post: 2026-11-28T00:37:32+01:00
+2026-11-28 00:06:59,560 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/jane-schoenbrun-terror-slasher-mirada-queer/
+2026-11-28 00:07:01,777 - INFO - Contenido extraído y estructurado (2517 caracteres)
+2026-11-28 00:07:01,778 - INFO - Guardando post en: posts/ADOLESCENCIA,_SEXO_Y_MUERTE_EN_CAMPAMENTO_MIASMA_2026-11-28.json
+2026-11-28 00:07:01,778 - INFO - Post guardado exitosamente
+2026-11-28 00:07:01,778 - INFO - Actualizando índice de películas
+2026-11-28 00:07:01,778 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-11-28 00:07:01,781 - INFO - Índice existente cargado con 2726 películas
+2026-11-28 00:07:01,791 - INFO - Película agregada al índice: ADOLESCENCIA, SEXO Y MUERTE EN CAMPAMENTO MIASMA
+2026-11-28 00:07:01,791 - INFO - Nuevo post guardado: ADOLESCENCIA, SEXO Y MUERTE EN CAMPAMENTO MIASMA de Jane Schoenbrun
+2026-11-28 00:07:01,791 - INFO - Comenzando extracción de información del post
+2026-11-28 00:07:01,792 - INFO - Título del post: IRON BOY de Louis Clichy
+2026-11-28 00:07:01,792 - INFO - Fecha del post: 2026-11-28T00:28:56+01:00
+2026-11-28 00:07:01,792 - INFO - Obteniendo contenido completo de: https://ghostintheblog.com/iron-boy-le-corset-de-louis-clichy-infancia-y-adolescencia/
+2026-11-28 00:07:03,654 - INFO - Contenido extraído y estructurado (2877 caracteres)
+2026-11-28 00:07:03,655 - INFO - Guardando post en: posts/IRON_BOY_2026-11-28.json
+2026-11-28 00:07:03,655 - INFO - Post guardado exitosamente
+2026-11-28 00:07:03,655 - INFO - Actualizando índice de películas
+2026-11-28 00:07:03,655 - INFO - Archivo de índice: /home/runner/work/scrapingcines/scrapingcines/index.json
+2026-11-28 00:07:03,658 - INFO - Índice existente cargado con 2727 películas
+2026-11-28 00:07:03,667 - INFO - Película agregada al índice: IRON BOY
+2026-11-28 00:07:03,668 - INFO - Nuevo post guardado: IRON BOY de Louis Clichy
+2026-11-28 00:07:03,668 - INFO - Comenzando extracción de información del post
+2026-11-28 00:07:03,668 - INFO - Post ya existente, saltando: WILD HORSE NINE de Martin McDonagh
+2026-11-28 00:07:03,668 - INFO - Comenzando extracción de información del post
+2026-11-28 00:07:03,668 - INFO - Post ya existente, saltando: JALEOS de Isaki Lacuesta
+2026-11-28 00:07:03,668 - INFO - Comenzando extracción de información del post
+2026-11-28 00:07:03,668 - INFO - Post ya existente, saltando: ROSE de Markus Schleinzer
+2026-11-28 00:07:03,668 - INFO - Comenzando extracción de información del post
+2026-11-28 00:07:03,668 - INFO - Post ya existente, saltando: RUEGA POR NOSOTRAS de Daniel Monzón
+2026-11-28 00:07:03,668 - INFO - Comenzando extracción de información del post
+2026-11-28 00:07:03,669 - INFO - Post ya existente, saltando: EL TREN FLUVIAL de Lorenzo Ferro y Lucas Vignale
+2026-11-28 00:07:03,669 - INFO - Comenzando extracción de información del post
+2026-11-28 00:07:03,669 - INFO - Post ya existente, saltando: LOS MISERABLES de Fred Cavayé
+2026-11-28 00:07:03,669 - INFO - Comenzando extracción de información del post
+2026-11-28 00:07:03,669 - INFO - Post ya existente, saltando: HOPE de Na Hong-jin
+2026-11-28 00:07:03,669 - INFO - Proceso completado. Posts nuevos guardados: 3
